@@ -38,7 +38,7 @@ Para el uso en el juego, UmaTL incluye una versión modificada de la fuente orig
 
 # Fuentes de traducciones
 UmaTL hace muchas de sus propias traducciones y es una fuente original. Las traducciones restantes provienen de varios miembros y proyectos de la comunidad fan.
-¡Revisa los créditos detallados en el wiki](../../wiki/Translation-Progress)!
+Consulta los créditos detallados en el [wiki oficial de UmaTL](https://github.com/UmaTL/hachimi-tl-en/wiki/Translation-Progress).
 
 UmaTL es el proyecto original de traducción completa del juego, prestando sus traducciones a muchos otros proyectos a lo largo de los años. 
 Esto incluye Hachimi: sus traducciones predeterminadas son mayoritariamente importadas de material UmaTL anterior. 
