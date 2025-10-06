@@ -5,6 +5,16 @@ Esta es una adaptación de las traducciones del proyecto [UmaTL] para uso con el
 
 Traducciones proporcionadas por [estas fuentes](#fuentes-de-traducciones).
 
+## Descargo de Responsabilidad
+
+Todos los archivos, textos, imágenes y contenidos relacionados con el juego Uma Musume: Pretty Derby son propiedad exclusiva de Cygames, Inc. Este proyecto de traducción es una creación fan no oficial y no está afiliado, respaldado ni autorizado por Cygames. Las traducciones proporcionadas aquí son para uso personal y no comercial únicamente.
+
+Cada usuario es responsable de cómo utiliza estas traducciones. No se otorga ningún derecho sobre el contenido original del juego. Este proyecto no modifica ni distribuye el juego original; solo facilita la superposición de texto traducido mediante herramientas como Hachimi.
+
+## Comunicación con Cygames
+
+Si alguien de Cygames ve este trabajo y desea comunicarse conmigo, por favor, háganlo primero a través de mi correo electrónico: aorsini@aorsini.vip. Este proyecto es únicamente para ayudar y contribuir a ampliar el público de Uma Musume, fomentando el acceso a más jugadores sin dañar ni perjudicar a la empresa o al juego de ninguna manera. Mi intención es positiva y respetuosa con los derechos de autor y términos de servicio.
+
 
 # Instalación / Uso
 > [!IMPORTANT]
@@ -50,6 +60,9 @@ Usa las herramientas de [UmaTL] y contribúyelas allí (yo me encargaré de tran
 Este proyecto es una adaptación al español basada en el proyecto original [UmaTL Hachimi TL EN](https://github.com/UmaTL/hachimi-tl-en/tree/main). Todos los créditos por las traducciones base y la estructura van al equipo de UmaTL.
 
 Traducciones al español por [AorsiniYT](https://github.com/AorsiniYT).
+
+# Licencia
+Este proyecto se distribuye bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE). Consulta el archivo [LICENSE](LICENSE) para más detalles. Recuerda que el contenido original del juego Uma Musume: Pretty Derby es propiedad de Cygames, Inc., y no se ve afectado por esta licencia.
 
 # Apoya el proyecto
 Si quieres apoyar el desarrollo de estas traducciones, puedes invitarme un café en [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/aorsini)!
