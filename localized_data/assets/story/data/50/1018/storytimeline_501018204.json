@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Comentarista",
+      "text": "¡Damos la bienvenida al otoño aquí en<n>el Hipódromo<n>de Kyoto con la última carrera de la<n>serie Triple<n>Tiara—el Shuka Sho!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡El inicio de la carrera está a<n>momentos! ¿Quién<n>emergerá para ser bañada en gloria?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Wooooo!</i>"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Antes de comenzar la carrera, hay<n>algo que deseo<n>decirte.",
+      "choice_data_list": [
+        "¿Qué es?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Has hecho un gran trabajo hasta ahora."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Prometo que hoy haré justicia a tu<n>arduo trabajo.",
+      "choice_data_list": [
+        "Sé que lo harás."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Bueno entonces... allá voy."
+    }
+  ]
+}

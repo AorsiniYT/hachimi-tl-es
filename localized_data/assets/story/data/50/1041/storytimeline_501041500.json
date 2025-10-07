@@ -1,0 +1,58 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al entrar a mi oficina, veo un papel<n>dejado en mi escritorio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>\"¡Te espero en el gimnasio! Firmado,<n>¡la representante de clase!\"</i>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oye, Entrenador! Te he estado<n>esperando. Espero que te hayas<n>preparado.",
+      "choice_data_list": [
+        "¿P-preparado? ¿Para qué?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Hice algo mal? ¿Me van a regañar?<n>Temblando ligeramente, me<n>preparo..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Un premio! ¡Ta-dah!",
+      "choice_data_list": [
+        "...¿Eh?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Demostraste un liderazgo<n>sobresaliente y me ayudaste a<n>pulir mis habilidades!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Eso es! Gracias a ti, incluso mi<n>Bakushin ha alcanzado nuevos niveles!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Así que permíteme mostrarte el<n>verdadero significado de Bakushin!",
+      "choice_data_list": [
+        "(¡El significado de Bakushin!)"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Jeje... Puede que sea una élite entre<n>las estudiantes modelo, ¡pero tú eres<n>un entrenador entre entrenadores!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Esta carta encarna mi respeto por<n>ti... ¡Es una carta de felicitación!<n>¡Por favor, acéptala!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensar que recibiría una carta tan<n>conmovedora de esta chica<n>impredecible... La carta de<n>felicitación me hace llorar."
+    }
+  ]
+}

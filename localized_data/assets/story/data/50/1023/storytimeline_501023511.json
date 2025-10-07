@@ -1,0 +1,316 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día después de entrenar, mientras<n>acompaño a Biwa<n>Hayahide a su dormitorio justo<n>antes del toque de<n>queda..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Bienvenida, Hayahide! Es raro verte<n>fuera a esta<n>hora tan tarde."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sí, hoy entrené mucho, y—ah, ¿estás<n>hablando en tu<n>capacidad como líder del dormitorio?<n>Lamento<n>llegar tan tarde."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Oh, para nada! Adoro la oportunidad<n>de dar la<n>bienvenida a mis potrancas después<n>de un día duro de<n>trabajo, sin importar la hora."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Por cierto, ¿casualmente viste a Sweep<n>y Marvelous<n>de camino aquí?",
+      "choice_data_list": [
+        "¿Todavía no han vuelto?",
+        "¿Todavía no han vuelto?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No responden sus teléfonos. Y como<n>están entre<n>nuestras residentes más jóvenes,<n>no puedo evitar<n>sentirme un poco...<n>aprensiva."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Con buena razón—deberíamos<n>buscarlas<n>inmediatamente. ¡Yo ayudo, por<n>supuesto!",
+      "choice_data_list": [
+        "¡Yo también!",
+        "¡Yo también!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Mi eterna gratitud a ambas!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Podría sugerir que dividamos<n>esfuerzos? Ustedes<n>dos trabajen juntas buscando a<n>una, y yo buscaré<n>a la otra."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Correcto. ¿Tienes información sobre<n>dónde<n>podrían estar?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Solo que Marvelous se fue en una<n>llamada \"búsqueda<n>maravillosa\", y Sweep salió<n>a buscar ingredientes<n>mágicos.",
+      "choice_data_list": [
+        "Sweep suena más fácil de localizar.",
+        "Marvelous podría estar en cualquier lado, así que\nintentemos encontrarla a ella."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sí, hay un número limitado de<n>artículos que<n>podrían considerarse ingredientes<n>mágicos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aprovechemos eso para encontrar<n>a Sweep lo<n>antes posible y traerla de vuelta."
+    },
+    {
+      "text": "En caso de que regresen por su cuenta,<n>dejamos una<n>nota en la puerta para que<n>llamen a la líder del<n>dormitorio, y luego partimos<n>en nuestra búsqueda."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "No, eso no funcionará. Ooh, y este<n>es del color<n>equivocado!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Sweep! ¡Ahí estás!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡¡Iiiiik!! ¿Q-qué?! ¿Qué haces en mi<n>lugar favorito de<n>recolección?!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Buscándote por todos lados, eso! A<n>petición de<n>Fuji.",
+      "choice_data_list": [
+        "¡Estás a punto de perder el toque de queda! Vamos,\nvolvamos al dormitorio."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿En serio? ¡No tenía idea de que era tan<n>tarde!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "P-pero, ¡no me importa! No voy a<n>ningún lado hasta<n>que encuentre algunas hierbas<n>medicinales, y punto!",
+      "choice_data_list": [
+        "(¿Qué le pasa?)"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Pasa algo? Quizás podamos<n>ayudarte."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No eres el tipo de chica mágica que<n>simplemente<n>rompe reglas sin razón, después<n>de todo."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...¡Urk!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Rrrg... ¡Bien! ¡Tienes razón, no lo soy!<n>Pero mi abuela<n>tuvo fiebre ayer..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Y no baja, no importa qué haga. Así<n>que quiero<n>intentar curarla con magia."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ya veo. Pero si no regresas al<n>dormitorio antes<n>del toque de queda, todos se<n>preocuparán por ti."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Incluso podrían terminar llamando a tu<n>abuela. Eso<n>ciertamente no es lo que quieres,<n>¿verdad?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡P-por supuesto que no!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Entonces, parece que realmente<n>deberías dejarnos<n>ayudar en tu búsqueda."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Puedes darnos la información más<n>relevante, y<n>la usaremos para reducir<n>ubicaciones potenciales de<n>cosecha.",
+      "choice_data_list": [
+        "¡Entonces podemos encontrar esas hierbas y volver a\ntiempo!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...O-okay, está bien."
+    },
+    {
+      "text": "Y así, gracias a la lógica y sabiduría<n>de Biwa Hayahide,<n>localizamos las hierbas en un<n>abrir y cerrar de ojos."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Sweep! ¡Me alegra que hayas<n>regresado a casa<n>sana y salva!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "S-sí, así que, eh...<n>Graciasporayudarhoy. ¡Adiooos!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Cielos! No creo haberla oído<n>decir la palabra<n>\"gracias\". ¿Qué tipo de hechizo<n>le lanzaron?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ningún hechizo. Solo me interpuse en<n>sus asuntos<n>personales."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Me recuerda a Brian cuando era<n>pequeña. No pude<n>evitar ayudarla."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Bueno, tu \"interponerte\" siempre es<n>una bendición<n>para mí, y para todo el dormitorio."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hoy ciertamente no ha sido la excepción.<n>Te doy las<n>gracias, Hayahide."
+    },
+    {
+      "text": "Un leve rubor recorre el rostro de Biwa<n>Hayahide en<n>respuesta al inesperado cumplido<n>de Fuji Kiseki."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Buena idea. Ella será más difícil de<n>rastrear, así que<n>considerando que dos cabezas<n>piensan mejor que<n>una, deberíamos<n>hacernos cargo de encontrarla."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Primero identifiquemos cualquier<n>ubicación cercana<n>que razonablemente pueda<n>describirse como \"maravillosa\".",
+      "choice_data_list": [
+        "¡Buena idea!"
+      ]
+    },
+    {
+      "text": "En caso de que regresen por su cuenta,<n>dejamos una<n>nota en la puerta para que<n>llamen a la líder del<n>dormitorio, y luego partimos<n>en nuestra búsqueda."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No está en el escenario..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tampoco en la estatua de las Tres<n>Diosas. ¿Podría<n>estar dentro de algún lugar?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Intentemos razonar esto. ¿Qué<n>lugares \"maravillosos\"<n>podríamos encontrar<n>bajo techo? ¿La sala de música,<n>quizás?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero con nadie allí ahora, llamarla<n>\"maravillosa\"<n>parece un poco inexac—"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Qué exquisitamente rojo y maravilloso! ☆<n>¡Tan<n>maravillosamente brillante! ★"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡¿Marvelous?!"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Vaya, si no es Hayahide! ¿Qué te<n>trae por aquí? ☆"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Suspiro...</i> Yo podría preguntarte lo mismo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oí que estabas en una \"búsqueda<n>maravillosa\", pero<n>todavía no entiendo<n>qué implica exactamente."
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Bueno, um, oí un rumor maravilloso<n>de que si<n>corres dentro de la escuela por<n>la noche, una luz<n>roja te persigue..."
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Así que lo intenté, y resulta que es cierto!<n>¡Me he estado<n>divirtiendo mucho con eso! ☆",
+      "choice_data_list": [
+        "Eso... suena mucho a un fantasma."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡L-la existencia de fantasmas<n>s-simplemente no está<n>respaldada por ningún tipo de<n>evidencia científica!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero... hipotéticamente, si existieran,<n>¿cómo...<n>se podría lidiar con ellos?"
+    },
+    {
+      "name": "???",
+      "text": "¿Hola? ¿Holaaaa?"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Oh! ¡Es la luz roja! ☆"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Gaaaaah!"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Guau! ☆ ¡Realmente te estás<n>moviendo, Hayahide! ★",
+      "choice_data_list": [
+        "Espera. Esta luz roja no es un fantasma, es..."
+      ]
+    },
+    {
+      "name": "Guardia de seguridad",
+      "text": "Lo siento mucho. No quise asustarlas."
+    },
+    {
+      "name": "Guardia de seguridad",
+      "text": "¿No deberían ir a casa para no<n>perder el toque de<n>queda?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Creo que les debo una disculpa a ambas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Me asusté un poco, lo admito, pero<n>eso no me<n>excusa por salir corriendo<n>sola.",
+      "choice_data_list": [
+        "Realmente no es nada de qué preocuparse."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡De hecho! Lo único que importa es<n>que nuestros<n>esfuerzos combinados han<n>traído a Marvelous y<n>Sweep de vuelta a casa<n>sanas y salvas."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Je. Pero debo admitir, ¡nunca en mis<n>sueños más<n>locos habría adivinado que<n>le temes a los fantasmas!<n>¡Qué adorable!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Urk! Q-quiero decir, ¡¿quién no le tiene<n>miedo a los<n>fantasmas?! ¡Los fantasmas dan miedo!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Casi nada se sabe sobre su<n>comportamiento!<n>¡¿Qué se supone que debes hacer<n>si ves uno?!",
+      "choice_data_list": [
+        "¡Pero solo era un guardia de seguridad, así que está\nbien!",
+        "¡Pero solo era un guardia de seguridad, así que está\nbien!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y menos mal por eso. Si fuera<n>cualquier otra<n>cosa, ¡no creo que pudiera dormir<n>nada esta noche!"
+    },
+    {
+      "text": "Y con eso, Biwa Hayahide deja escapar<n>un suspiro<n>profundo de genuino alivio,<n>ligeramente avergonzada, pero<n>finalmente sin daño."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara parece lenta durante<n>el entrenamiento hoy."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Vaya... Esa nube se parece<n>justo a ti, Entrenador...",
+      "choice_data_list": [
+        "Hoy estás un poco distraída, ¿eh?",
+        "Hoy estás un poco distraída, ¿eh?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Cierto... Sabes, es extraño.<n>Recientemente, me he estado<n>sintiendo pesada como una roca."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Me pregunto por qué."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que sería mejor<n>reorganizar su calendario de<n>carreras..."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "Oye, ¿entrenador? ¿Te pasa algo?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Estás solo? ¿Quieres un poco de<n>compañía?",
+      "choice_data_list": [
+        "¿Q-qué es esto de repente?",
+        "¿Q-qué es esto de repente?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Es que nadie ha venido<n>a mí para ser"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Pero de verdad quiero despeinar a alguien,<n>o dar"
+    },
+    {
+      "name": "Super Creek",
+      "text": "<i>Uf...</i> Me siento tan indeseada. ¿No me dejas<n>consentirte"
+    },
+    {
+      "name": "Monologue",
+      "text": "Parece que Super Creek no se siente<n>muy bien"
+    }
+  ]
+}

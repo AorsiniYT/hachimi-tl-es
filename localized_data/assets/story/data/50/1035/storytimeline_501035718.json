@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de su día libre, saludo a Winning<n>Ticket en\nla plaza central."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oye, Entrenador! ¡Buenos días! Gracias por<n>el día\nlibre de ayer!",
+      "choice_data_list": [
+        "¿Descansaste bien?",
+        "¿Descansaste bien?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí, todo bien! ¡Mi cuerpo y espíritu están<n>a <i>máxima</i>\ncarga!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Estoy lista para esforzarme y entrenar, entrenar,<n>entrenar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Ticket pudo refrescarse tanto<n>física como\nmentalmente."
+    }
+  ]
+}

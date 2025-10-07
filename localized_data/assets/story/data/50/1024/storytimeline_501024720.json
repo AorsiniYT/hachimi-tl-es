@@ -1,0 +1,564 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llevo a <chrname><n>a la\nenfermería para un chequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! ¡Una custo—digo, una estudiante! ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás lastimada? ¿Enferma? ¿Estresada? Lo que sea<n>que sea, ¡yo\ntrato todo!",
+      "choice_data_list": [
+        "¡¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la enfermería<n>\nde la academia, diría que eso me convierte en tu<n>confiable\nenfermera escolar. ¡Sip, solo una<n>empleada escolar\ncomún y corriente!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajajá! Supongo que no puedo engañarte. Me<n>imagino que\ndebería empezar por darte mi<n>nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ejem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (posible) salvadora de todas<n>las Umamusume, la\n(autoproclamada)<n>acupunturista legendaria con\nel toque<n>mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única e inigualable Sasami Anshinzawa!<n>¿Ves? ¡Sin\npreocupaciones! ☆",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mmm... No estoy muy segura de esto..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya! ¡Pareces muy preocupada! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos<n>\npresentamos, así que acuéstate y déjame<n>poner estas\nagujas a trabajar."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "N-no, gracias... N-no es que tenga miedo<n>\no algo. ¡Es que no me gusta el dolor!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay que asustarse! Todo lo que<n>voy a hacer\nes deslizar estas extraordinarias<n>agujas justo en\ntus puntos de<n>chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y luego voilà, presto! ¡Algo<n>indescriptible\nocurrirá!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y déjame asegurarte que no hay<n>absolutamente nada\nsospechoso en esto.<n>¡Nunca ha salido menos que\nperfectamente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestra.",
+      "choice_data_list": [
+        "¡¿Para tu maestra?! ¡¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Es mi primera vez, así<n>que\ntécnicamente, ¡tampoco he<n>fracasado con un paciente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es que no tenga experiencia! Pasé<n>diez\naños bajo una maestra<n>legendaria, trayendo got—digo,\n¡entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí, ya!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay forma de que hagamos esto. Tomo a<n>\n<chrname> y me dirijo a la<n>puerta,\ncuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¡¿A dónde vas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Eres Mayano Top Gun, verdad?! ¡La<n>Umamusume\nprodigio inocente que<n>sueña con un futuro\nbrillante!",
+      "choice_data_list": [
+        "¿Has oído de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Si he oído de ella? ¡Claro que sí!<n>¡Soy una gran\nfan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por eso mismo estoy aquí! ¡Para darte mi<n>apoyo!\n¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Solo dame una oportunidad! ¡Por faaaavor!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Bueno... Me siento un poco mal por ella, y<n><i>dijo</i>\nque es mi fan."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Te lo pido por favor con una<n>zanahoria\nencima! ¡Hasta te dejaré<n>elegir qué chakra\nactivo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Estoy <i>segura</i> de que no la voy a arruinar!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... bastante segura.",
+      "choice_data_list": [
+        "¡¿Bastante segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Digo, está del lado seguro! Eso es <i>bueno,</i><n>¿verdad?\nDe todos modos, ¡no te detengas en los<n>detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra<n>debería\nactivar? ¿Quieres un impulso<n>a tus habilidades?\n¿Tu salud? ¿O tal vez<n>tu <i>encanto?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Huelo peligro en el aire, pero calculo<n>que\ntal vez—y enfatizo <i>tal vez</i>—haya<n>una oportunidad\nde obtener algo especial<n>de este tratamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué deberíamos hacer?",
+      "choice_data_list": [
+        "Activar el chakra de fuerza.",
+        "Activar el chakra de la victoria.",
+        "Activar el chakra de salud.",
+        "Activar el chakra de encanto.",
+        "Esto es muy sospechoso. Mejor salir mientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyy pinchazo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Au!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción perfecta!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Entrenador, no vas a creer esto!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Mi cuerpo se siente ligero y suave como una<n>nube! ¡Apuesto a que\npuedo brillar aún más<n>en la pista ahora! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Oh...</i> ¿Estás bromeando...? ¡¿Realmente<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy toda<n>una genio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> está rebosando<n>de tanto\npoder que casi es<n>irreconocible!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Entren...ador..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Me siento rara... Como si todo mi cuerpo...<n>estuviera\nadormecido..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que era mejor no tentar a la<n>suerte. No\nsoy quien sufre, pero estoy<n>lleno de remordimientos."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de la victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyy pinchazo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Au!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción perfecta!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Entrenador, no vas a creer esto!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Mi cuerpo se siente ligero y suave como una<n>nube! ¡Apuesto a que\npuedo brillar aún más<n>en la pista ahora! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Oh...</i> ¿Estás bromeando...? ¡¿Realmente<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy toda<n>una genio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puedo sentir una gran mejora en<n>las\nhabilidades de <chrname>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Entren...ador..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Me siento rara... Como si todo mi cuerpo...<n>estuviera\nadormecido..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que era mejor no tentar a la<n>suerte. No\nsoy quien sufre, pero estoy<n>lleno de remordimientos."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el chakra\nde salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyy pinchazo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Au!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción perfecta!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Entrenador, no vas a creer esto!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Mi cuerpo se siente ligero y suave como una<n>nube! ¡Apuesto a que\npuedo brillar aún más<n>en la pista ahora! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Oh...</i> ¿Estás bromeando...? ¡¿Realmente<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy toda<n>una genio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Todo el cuerpo de <chrname> está<n>radiando un\nbrillo saludable! ¡Es la<n>imagen absoluta de la salud!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Entren...ador..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Me siento rara... Como si todo mi cuerpo...<n>estuviera\nadormecido..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que era mejor no tentar a la<n>suerte. No\nsoy quien sufre, pero estoy<n>lleno de remordimientos."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el chakra\nde encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyy pinchazo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Au!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción perfecta!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Entrenador, no vas a creer esto!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Mi cuerpo se siente ligero y suave como una<n>nube! Apuesto a que"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> ¿Estás bromeando...? ¿De verdad<n>funcionó?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo creo! ¡Soy un genio<n>total!"
+    },
+    {
+      "name": "Monologue",
+      "text": "<chrname> rebosa<n>de encanto!"
+    },
+    {
+      "name": "Monologue",
+      "text": "¡Arriesgamos y valió la pena! Esto es<n>genial"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Entrena...dor..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Me siento rara... Como si todo mi cuerpo<n>estuviera... dormido..."
+    },
+    {
+      "name": "Monologue",
+      "text": "La condición de <chrname><n>empeora"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... Supongo que eso es todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Vaya, ¿ya viste la hora? Debería<n>irme"
+    },
+    {
+      "name": "Monologue",
+      "text": "Debí saber que no era buena idea tentar a<n>la suerte. Me"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Ay, vamos! ¡No seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Pensarlo de nuevo."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú ahí! Espero que sepas que a los<n>intrusos <i>sí</i>"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mmm... Me da pena por ella, pero supongo<n>que es"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Prometiste <i>que</i> me ayudarías a brillar<n>de todos modos.",
+      "choice_data_list": [
+        "Así es.",
+        "Así es."
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Tengo curiosidad de quién es realmente<n>este personaje Anshinzawa"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Cambiaste de opinión, verdad? No<n>te preocupes, es"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Adelante, dime qué chakra quieres que<n>active"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Bueno?! ¡No nos dejes con la duda! Espera<n>un"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú ahí! Espero que sepas que a los<n>intrusos <i>sí</i>"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Monologue",
+      "text": "La situación da un giro inesperado antes de<n>que pueda"
+    },
+    {
+      "name": "Monologue",
+      "text": "¿De qué trataba todo eso?<n><chrname>"
+    }
+  ]
+}

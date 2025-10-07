@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Suspiro...</i> Oye, Entrenador. No me he<n>estado\nsintiendo muy bien últimamente."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No tengo fiebre, y no me duele<n>nada, pero mi\ncuerpo me pesa<n>mucho..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Crees que me está pasando algo? Me<n>aseguro de\ncomer mis verduras y todo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki Shuttle se pide una hamburguesa<n>y una\nporción grande de papas fritas<n>mientras hablamos.",
+      "choice_data_list": [
+        "¡Es por lo que estás comiendo!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿¡Qué?! ¡Pero he estado comiendo<n>montones de\nverduras saludables! ¡Hasta<n>pico papitas por la noche!",
+      "choice_data_list": [
+        "¡Ese es el problema!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No me engañas, Entrenador! Sé<n>cuando es una\nbroma..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Espera... ¿Hablas en serio? ¿De<n>verdad es tan\ngrave?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Reviso sus hábitos alimenticios y<n>incorporo algunas\nalternativas más saludables."
+    }
+  ]
+}

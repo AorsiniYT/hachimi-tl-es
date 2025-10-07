@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De regreso de la carrera..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, te pido disculpas. Fue grosero<n>de mi parte...",
+      "choice_data_list": [
+        "¿Estás cansada?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Estoy bien. Esto no es nada que no<n>pueda\nmanejar."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Es solo una barrera más que debo<n>superar... si\nquiero llegar a la cima."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de lo que dice, Grass Wonder<n>está\nvisiblemente exhausta. Quizás<n>deba ajustar su\ncalendario de carreras<n>para el futuro cercano."
+    }
+  ]
+}

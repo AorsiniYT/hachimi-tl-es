@@ -1,0 +1,274 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Unos días antes de las pruebas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es fin de semana, y estoy caminando por la<n>orilla del río, cuando veo a Eishin Flash<n>entrenando."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "<I>Jadeo, jadeo...</I> Hora de descanso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entrenando bastante intensamente, parece. Su<n>expresión tensa revela su fatiga."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "<I>Jadeo, jadeo...</I> Descanso terminado.",
+      "choice_data_list": [
+        "(¡Eso fue rápido!)"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "<I>Uff...</I> Lo siguiente es—",
+      "choice_data_list": [
+        "¡Deberías descansar un poco más!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Eh? ...¿Quién eres tú?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de presentarme como entrenador de<n>la escuela, señalo que obviamente<n>necesita más descanso, pero..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No, yo... estoy bien. Los descansos cortos<n>están considerados en mi horario."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Son las 3:00, y mi fatiga está en los niveles<n>previstos. Tengo un descanso de treinta<n>minutos pronto—recuperaré el aliento entonces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su absoluta confianza en su horario no le<n>permite desviarse de él. Pero me<n>pregunto...",
+      "choice_data_list": [
+        "Digamos que pasa algo imprevisto.\n¿Entonces qué?",
+        "Digamos que pasa algo imprevisto.\n¿Entonces qué?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por supuesto, tengo cierto margen de<n>maniobra. Por ejemplo, que hables conmigo<n>ha causado un retraso de cuatro minutos y<n>veinticinco segundos.",
+      "choice_data_list": [
+        "Ah... Lo siento por eso."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No, está bien. Si omito mi próximo<n>descanso de cinco minutos, volveré a mi horario.",
+      "choice_data_list": [
+        "¡¿Vas a eliminar un descanso?!",
+        "¡¿Vas a eliminar un descanso?!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Está al límite, lo sé. Como tengo un<n>objetivo inmediato que cumplir, mi<n>horario actual es más ajustado de lo normal."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Y seguirlo perfectamente es mi máxima<n>prioridad. Si no lo hago, yo...",
+      "choice_data_list": [
+        "(...?)"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...han pasado cinco minutos y cuarenta y<n>cinco segundos. No puedo permitirme<n>perder más tiempo, así que por favor disculpa."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Olvidé decir—agradezco que muestres<n>preocupación por mí. Adiós."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash está decidida a ganar su carrera,<n>sin duda. De hecho, está tan determinada<n>que la está estresando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las pruebas son importantes, claro, pero se<n>realizan durante todo el año. ¿Podría<n>haber alguna razón por la que deba debutar<n>ahora?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hola, hola. ★¿Tienes tiempo para una<n>charlita?",
+      "choice_data_list": [
+        "¡Oh! Eh, hola.",
+        "¡Oh! Eh, hola."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Flash es mi compañera de cuarto, sabes. Así<n>que sé lo duro que ha estado<n>entrenando.",
+      "choice_data_list": [
+        "¿Sabrías también por qué?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Jeje. ¡Por supuesto! Pero mantén esto<n>fuera del registro, ¿vale?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Para las próximas pruebas, al parecer<n>sus padres vienen desde Alemania<n>solo para verla!",
+      "choice_data_list": [
+        "¿Sus padres?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Su familia tiene, como, una pastelería<n>popular, ¿verdad? Así que se están<n>tomando tiempo de su horario súper<n>ocupado para visitar—por eso Flash se<n>está esforzando tanto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso ciertamente explica por qué<n>está dando todo por esta carrera. Pero<n>aún así, ser tan estricta con su horario no<n>es la única forma de mejorar."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Bueno, eso es todo lo que puedo decir por<n>ahora.",
+      "choice_data_list": [
+        "¿Puedo preguntar por qué me lo contaste?",
+        "¿Puedo preguntar por qué me lo contaste?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Mmm, solo mis sentidos Falco. ★"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Al verlas hablar a las dos, tuve esta<n>sensación. Que quizás tú podrías<n>entenderla de verdad.",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Tienes curiosidad por Flash, ¿verdad? Así<n>que no le quites los ojos de encima ahora. ★"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El día antes de las pruebas, reflexiono sobre<n>qué quiso decir exactamente Smart Falcon<n>mientras camino por el campus."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Toi, toi, toi...",
+      "choice_data_list": [
+        "(¿Qué es ese sonido? Y esa voz, es...)"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ah... Nos conocimos el otro día.",
+      "choice_data_list": [
+        "¿Estabas haciendo un ruido hace un momento?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Es este amuleto alemán de buena suerte que<n>mis padres me enseñaron."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Golpeas tu escritorio tres veces y cantas,<n>\"Toi, toi, toi.\" El ruido aleja el mal y<n>atrae buena suerte, supuestamente."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sé que probablemente no hace nada en<n>realidad, pero quiero asegurarme de<n>que todo salga según lo planeado mañana.",
+      "choice_data_list": [
+        "¿Algo te preocupa?",
+        "¿Algo te preocupa?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No, no exactamente... Es solo que mis<n>padres ocupados han hecho tiempo para<n>venir a ver mi carrera mañana."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tengo que mostrarles que he hecho mi<n>trabajo correctamente, y lograr los<n>resultados perfectos—es mi deber, como su hija."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Si algo sale mal, y mis resultados<n>son... deficientes, no tendrán mucho de<n>qué sentirse orgullosos.",
+      "choice_data_list": [
+        "No estoy segura de eso."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Qué quieres decir?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo pretender saber mucho de ella,<n>mucho menos de sus padres, pero<n>solo verla correr es suficiente para saber<n>cuánto esfuerzo ha puesto en esto.",
+      "choice_data_list": [
+        "Tu esfuerzo es algo de lo que enorgullecerse.",
+        "Tu esfuerzo es algo de lo que enorgullecerse."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Eso... No, eso está mal. Le quita<n>importancia a la disciplina y la<n>razón—nada más que halagos vacíos.",
+      "choice_data_list": [
+        "(...?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Acabo de notar—algo anda mal con ella.<n>Le falta el aliento, y está bastante<n>pálida...",
+      "choice_data_list": [
+        "¿Te sientes bien?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Mi horario quizás me haya llevado un poco<n>más allá de mis límites, pero hice todo lo<n>necesario para mejorar."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Una molestia leve como esta está dentro de<n>mi margen de error. Hoy es un día de<n>descanso además. Me recuperaré<n>completamente para mañana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay fuerza en sus palabras, mucho<n>menos convicción. No puedo<n>imaginarla recuperándose tan pronto.",
+      "choice_data_list": [
+        "Quizás quieras considerar tomarte mañana libre\ntambién..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡No, absolutamente no!",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No planeo tomarme mañana libre. ¡Me he<n>esforzado por ganar mi carrera, por<n>lograr los resultados perfectos!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No puedo desviarme de mi horario ahora—<n>hago las cosas según lo planeado hasta<n>que termine. O si no... o... si no..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<I>Golpe.</I>",
+      "choice_data_list": [
+        "¡Flash!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Todo se desequilibrará..."
+    }
+  ]
+}

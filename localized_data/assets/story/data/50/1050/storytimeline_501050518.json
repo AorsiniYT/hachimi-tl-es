@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "¿Puedo pedir el combo B con<n>ensalada de acompañamiento?"
+    },
+    {
+      "name": "Señora de la Cafetería",
+      "text": "Uy, ¡lo siento! Parece que<n>solo nos queda el<n>combo A, cariño."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué? Eso es lo frito, ¿no?<n>En ese caso..."
+    },
+    {
+      "name": "Señora de la Cafetería",
+      "text": "Y el único acompañamiento<n>que queda es la cubeta de<n>papas... ¡Pero eres una<n>chica en crecimiento, así<n>que deberías comer!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf.",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...No preguntes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin no se ve<n>muy bien..."
+    }
+  ]
+}

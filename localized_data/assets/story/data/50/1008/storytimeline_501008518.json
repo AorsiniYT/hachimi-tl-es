@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El clima soleado de repente se nubla<n>y la lluvia\ncomienza a caer poco<n>después."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oye, pero qué onda! ¿Por qué tiene que ser<n>cuando\nestoy corriendo?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Mala suerte. Supongo que por hoy se acabó,<n>entonces.",
+      "choice_data_list": [
+        "Deberías cambiarte a ropa seca.",
+        "Deberías cambiarte a ropa seca."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Jejej, estoy bien. Estas no tomarán mucho<n>tiempo en\nsecarse si las dejo así."
+    },
+    {
+      "name": "Vodka",
+      "text": "En serio, te preocupas demasiado."
+    },
+    {
+      "name": "Vodka",
+      "text": "...¡Achú!",
+      "choice_data_list": [
+        "¡Te lo dije!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡E-eso fue solo una coincidencia! No me<n>voy a\nresfriar solo por esto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso dice, pero unos días después, Vodka<n>no se ve\ntan bien."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estaba con Special Week..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oooh! Entrenador, ¡mira!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Allá! ¡Es una máquina de garra!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro en la dirección que señala Special Week<n>y veo\nuna máquina de garra llena<n>de peluches de\nUmamusume."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh dios, wow! ¡Sabes que estás fuera<n>del pueblo\ncuando encuentras mercancía<n>como esta!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Qué lindo... ¡Apuesto a que mi mamá se<n>pondría\nfeliz si le enviara uno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los ojos de Special Week brillan<n>más que los\ndiamantes...",
+      "choice_data_list": [
+        "¿Quieres que te gane uno?",
+        "¿Quieres que te gane uno?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Qué? ¿¡En serio?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Ahora no hay forma de que falle!"
+    }
+  ]
+}

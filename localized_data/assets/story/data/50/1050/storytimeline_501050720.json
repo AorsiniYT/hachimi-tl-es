@@ -1,0 +1,564 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llevo a <chrname><n>al\nconsultorio para un chequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! ¡Una clie—digo, una estudiante! ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás lastimada? ¿Enferma? ¿Estresada? Lo que sea<n>que sea, ¡yo\ntrato todo!",
+      "choice_data_list": [
+        "¡¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en el consultorio<n>\nde la academia, diría que eso me convierte en tu<n>enfermera\nescolar de confianza. ¡Sip, solo una<n>empleada escolar\ncomún y corriente!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajajá! Supongo que no puedo engañarte. <n>Creo que\ndebería empezar por darte mi<n>nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ejem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (probable) salvadora de todas<n>las Umamusume, la\n(autoproclamada)<n>acupunturista legendaria con\ntoque<n>mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única Sasami Anshinzawa!<n>¿Ves? ¡Sin\npreocupaciones! ☆",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Eres súper sospechosa."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya! ¡Pareces muy preocupada! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos<n>\npresentamos, así que acuéstate y déjame<n>poner estas\nagujas a trabajar."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No te atrevas. Aléjate de mí."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay que asustarse! Solo<n>voy a\ninsertar estas agujas extraordinarias<n>precisamente en\ntus puntos de<n>chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y voilà, presto! ¡Algo<n>indescriptible\nocurrirá!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y déjame asegurarte que no hay<n>absolutamente nada\nsospechoso en esto<n>para nada. ¡Nunca ha salido\nmenos que<n>perfectamente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestro.",
+      "choice_data_list": [
+        "¡¿Para tu maestro?! ¡¿Y para ti qué?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Es mi primera vez, así<n>que\ntécnicamente, ¡nunca he<n>fallado a un paciente\ntampoco!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es que no tenga experiencia! Pasé<n>diez\naños bajo un maestro<n>legendario, consiguiendo got—digo,\n¡entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí, ya!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay forma de que hagamos esto. Tomo a<n>\n<chrname> y me dirijo a la<n>puerta,\ncuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¡¿Adónde vas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Eres Narita Taishin, verdad?! ¿La<n>Umamusume\npequeña pero indomable, que acepta<n>cualquier\ndesafío con la máxima<n>determinación?",
+      "choice_data_list": [
+        "¿Has oído de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Si he oído de ella? ¡Claro que sí!<n>¡Soy una gran\nfan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por eso mismo estoy aquí! ¡Para darte<n>mi\napoyo! ¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Solo dame una oportunidad! ¡Poooor favoooor!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Genial... Ahora vienen las lágrimas..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Por favorcito con zanahoria encima!<n>Hasta\nte dejaré elegir qué<n>chakra activo."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Estoy <i>segura</i> de que no la voy a arruinar!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... bastante segura.",
+      "choice_data_list": [
+        "¡¿<i>Bastante</i> segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Digo, ¡está del lado de lo seguro! Eso es <i>bueno,</i><n>¿verdad?\nEn fin, ¡no te enredes en los<n>detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra<n>debería\nactivar? ¿Quieres un impulso<n>a tus habilidades?\n¿A tu salud? ¿O tal vez<n>a tu <i>encanto?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Huelo peligro en el aire, pero calculo<n>que\ntal vez—y enfatizo <i>tal vez</i>—haya<n>una posibilidad de\nobtener algo especial<n>con este tratamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué deberíamos hacer?",
+      "choice_data_list": [
+        "Activar el chakra de fuerza.",
+        "Activar el chakra de victoria.",
+        "Activar el chakra de salud.",
+        "Activar el chakra de encanto.",
+        "Esto es muy sospechoso. Salgamos mientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y... pinchazo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Agh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Como si un tratamiento falso fuera a<n>hacer..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Espera... Esto no puede ser. ¡Me siento<n>increíble!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Gasp...</i> ¿Bromeas...? ¡¿En realidad<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede seeer! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> está rebosando<n>de tanto\npoder que es casi<n>irreconocible."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es un<n>gran\nsalto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Me siento peor que basura."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que era mejor no tentar a<n>nuestra\nsuerte. No soy quien sufre, pero<n>estoy lleno de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y... pinchazo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Agh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Como si un tratamiento falso fuera a<n>hacer..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Espera... Esto no puede ser. ¡Me siento<n>increíble!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Gasp...</i> ¿Bromeas...? ¡¿En realidad<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede seeer! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puedo notar una gran mejora en las<n>\nhabilidades de <chrname>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es un<n>gran\nsalto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Me siento peor que basura."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que era mejor no tentar a<n>nuestra\nsuerte. No soy quien sufre, pero<n>estoy lleno de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y... pinchazo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Agh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Como si un tratamiento falso fuera a<n>hacer..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Espera... Esto no puede ser. ¡Me siento<n>increíble!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Gasp...</i> ¿Bromeas...? ¡¿En realidad<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede seeer! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Todo el cuerpo de <chrname> irradia<n>un\nbrillo saludable. ¡Es la<n>imagen absoluta de la salud!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es un<n>gran\nsalto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Me siento peor que basura."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que era mejor no tentar a<n>nuestra\nsuerte. No soy quien sufre, pero<n>estoy lleno de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y... pinchazo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Agh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Como si un tratamiento falso fuera a<n>hacer..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Espera... Esto no puede ser. ¡Me siento<n>increíble!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Gasp...</i> ¿Bromeas...? ¡¿En realidad<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede seeer! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡<chrname> está rebosando<n>de encanto!\n¡Seguro que llamará la atención<n>dondequiera que vaya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es un<n>gran\nsalto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Me siento peor que basura."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que era mejor no tentar a<n>nuestra\nsuerte. No soy quien sufre, pero<n>estoy lleno de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Ay, vamos! ¡No seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Reconsiderar."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú ahí! Espero que sepas que<n>a los\nintrusos <i>sí</i> se les procesará."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué demonios le pasaba? Eh, qué más da."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Mejor vámonos. Honestamente, qué<n>pérdida de\ntiempo.",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo curiosidad por saber quién es<n>realmente\nesta Anshinzawa, pero no<n>tiene caso darle vueltas.\nMejor olvidar<n>lo de hoy y seguir adelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Cambiaste de opinión, verdad? Sin<n>preocupaciones,\n¡pasa!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Adelante, dime qué chakra quieres que<n>active\nentonces!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Bueno?! ¡No nos dejes en suspenso! Espera un<n>\nsegundo... ¿Cuánto tiempo llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú ahí! Espero que sepas que<n>a los\nintrusos <i>sí</i> se les procesará."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La situación da un giro brusco antes de<n>que pueda\ntomar una decisión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿De qué trataba todo eso?<n><chrname>\ny yo nos<n>miramos perplejos."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Espectador A",
+      "text": "Oye, ¿viste el anuncio de Narita Brian?"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Sí! Por eso decidí venir a ver el<n>Hanshin\nDaishoten! Después de todo..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "\"Si no sigue ganando después de esta<n>carrera, su\nanuncio no tiene sentido.\""
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Al parecer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su anuncio en la ceremonia de<n>premios de\nayer fue cubierto por los<n>medios y transmitido\nalrededor del mundo.",
+      "choice_data_list": [
+        "¿Te sientes presionada?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Ja... No me hagas reír!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Eso es completamente irrelevante."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No importa contra quién compita o<n>qué tipo de\ncarrera sea, ¡destrozaré la<n>pista!"
+    }
+  ]
+}

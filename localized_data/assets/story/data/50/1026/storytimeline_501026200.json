@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Finalmente llegó el día de la carrera<n>de debut de<n>Mihono Bourbon."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...",
+      "choice_data_list": [
+        "¿Estás nerviosa?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Iniciando escaneo. Frecuencia<n>cardíaca y<n>presión arterial normales. Estos<n>resultados indican<n>que estoy relajada."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "En pocas palabras, no estoy nerviosa.<n>Sin embargo,<n>puedo ponerme nerviosa si es<n>necesario. ¿Son<n>esas tus órdenes?",
+      "choice_data_list": [
+        "¡No, estás bien!"
+      ]
+    },
+    {
+      "text": "Su calma habitual me da algo de<n>alivio.",
+      "choice_data_list": [
+        "¡Sal ahí y corre tan rápido como puedas!",
+        "¡Sal ahí y corre tan rápido como puedas!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Orden reconocida. Ejecutaré tu<n>comando."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Me voy ahora, Entrenador."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Gold Ship está lesionada, así que la traje al<n>"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Bip-bip-bip...</i> Daño detectado.<n>Golshiroide,",
+      "choice_data_list": [
+        "¡¿Q-qué pasa?!",
+        "¡¿Q-qué pasa?!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Daño mínimo. La misión puede<n>reanudarse a voluntad.",
+      "choice_data_list": [
+        "Las reparaciones son prioritarias.",
+        "¡Actualicemos tu sistema operativo!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Iniciando escaneo secundario... <i>Bip.</i><n>La misión puede",
+      "choice_data_list": [
+        "Denegado. Las reparaciones son prioritarias."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oh, vamos! ¡Estoy bien, te lo digo en serio!",
+      "choice_data_list": [
+        "¡Las órdenes del comandante son definitivas!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Ahora son órdenes oficiales? Rayos. No puedo<n>anularlas"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Suspiro.</i> Orden reconocida. Priorizando<n>reparaciones..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Gold Ship no está contenta con el<n>reposo obligatorio"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Sugerencia aprobada. Golshiroide,<n>iniciando"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Activando actualización instantánea."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ay!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡¿Qué pasó?! Todo estaba bien hace<n>un segundo"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Genial, ahora solo soy un montón de chatarra. <i>Suspiro...</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "Sus autodiagnósticos claramente no<n>dieron buenos"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>B-b-bip.</i> Sugerencia confirmada.<n>Iniciando",
+      "choice_data_list": [
+        "¡Más fuerte! ¡Más fuerte!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Mmm... Confirmación pendiente."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Aprobado. El programa operativo<n>actual puede",
+      "choice_data_list": [
+        "¿Qué condición?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Bip-bip.</i> El helado de la tienda<n>escolar está"
+    },
+    {
+      "name": "Monologue",
+      "text": "No hay forma de evitarlo. Acepto su<n>"
+    }
+  ]
+}

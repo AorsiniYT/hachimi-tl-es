@@ -1,0 +1,564 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llevo a <chrname><n>al\nconsultorio para un chequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! ¡Una clien—digo, una estudiante! ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás lastimada? ¿Enferma? ¿Estresada? Lo que sea<n>que sea, ¡yo\ntrato todo!",
+      "choice_data_list": [
+        "¡¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en el<n>\nconsultorio de la academia, diría que eso me convierte<n>en tu\nenfermera escolar de confianza. ¡Sip, solo una<n>empleada escolar\npromedio!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajajá! Supongo que no puedo engañarte. Me<n>supongo que\ndebería empezar por darte mi<n>nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ejem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (probable) salvadora de todas<n>las Umamusume, la\n(autoproclamada)<n>acupunturista legendaria con\nel toque<n>mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única e inigualable Sasami Anshinzawa!<n>¿Ves? ¡Sin\npreocupaciones! ☆",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "No me pareces... una fan. ¿Es ese<n>título\ntuyo genuino?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya! ¡Pareces muy preocupada! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos<n>\npresentamos, así que acuéstate y déjame<n>poner estas\nagujas a trabajar!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Eso suena poco atractivo... ¿Qué,<n>\nespecíficamente, estás ofreciendo?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay que asustarse! Todo lo que<n>voy a hacer\nes deslizar estas extraordinarias<n>agujas precisamente en\ntus puntos de<n>chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y voilà, presto! ¡Algo<n>indescriptible\nocurrirá!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y déjame asegurarte, no hay<n>absolutamente nada\nsospechoso en esto<n>para nada. ¡Nunca ha salido\nmenos que<n>perfectamente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestro.",
+      "choice_data_list": [
+        "¡¿Para tu maestro?! ¡¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Es mi primera vez, así que<n>técnicamente,\nnunca he fallado a un paciente<n>tampoco."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es que no tenga experiencia! Pasé<n>diez\naños bajo un maestro<n>legendario, trayendo got—digo,\n¡entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí, ya!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay forma de que hagamos esto. Tomo a<n>\n<chrname> y me dirijo a la<n>puerta,\ncuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¡¿Adónde vas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Eres la gran T.M. Opera O, ¿verdad?<n>La\nintrépida Centurial Overlord que<n>juró convertirse\nen nuestro sol radiante con<n>tu increíble fuerza!",
+      "choice_data_list": [
+        "¿Has oído de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Si he oído de ella? ¡Claro que sí!<n>¡Soy una gran\nfan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por eso mismo estoy aquí! ¡Para darte<n>mi\napoyo! ¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Solo dame una oportunidad! ¡Poooor favoooor!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ojó! ¡Puede que aún seas digna! ¿Qué dices,<n>\nEntrenador?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Por favorcito con zanahoria encima!<n>¡Hasta te\ndejo elegir qué<n>chakra activo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Estoy <i>segura</i> de que no la voy a arruinar!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... bastante segura.",
+      "choice_data_list": [
+        "¡¿<i>Bastante</i> segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Digo, ¡está del lado de lo seguro! Eso es <i>bueno,</i><n>¿verdad?\nEn fin, ¡no te enredes en los<n>detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra<n>debería\nactivar? ¿Quieres un impulso<n>a tus habilidades?\n¿Tu salud? ¿O tal vez<n>tu <i>encanto?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Huelo peligro en el aire, pero calculo<n>que\ntal vez—y enfatizo <i>tal vez</i>—haya<n>una posibilidad de\nobtener algo especial<n>de este tratamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué deberíamos hacer?",
+      "choice_data_list": [
+        "Activar el chakra de fuerza.",
+        "Activar el chakra de victoria.",
+        "Activar el chakra de salud.",
+        "Activar el chakra de encanto.",
+        "Esto es muy sospechoso. Mejor salgamos mientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de localizar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyyy pinchazo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Oooh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡El poder brota desde lo más profundo de mí!<n>Me\nsiento... Me siento..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Puede que aún me vuelva más<n>perfectamente\ncautivadora!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Suspiro...</i> ¿Me estás vacilando...? ¿En serio<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede seeer! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> está rebosando<n>de tanto\npoder que casi es<n>irreconocible!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "C-contempla..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Destellos de luz como estrellas centelleantes...<n>Un\ndesfile de bienvenida para la Overlord<n>renacida... ¿o no?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se\ndeteriora\nrápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saberlo mejor que tentar a nuestra<n>suerte. No\nsoy yo quien sufre, pero estoy<n>lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de localizar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyyy pinchazo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Oooh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡El poder brota desde lo más profundo de mí!<n>Me\nsiento... Me siento..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Puede que aún me vuelva más<n>perfectamente\ncautivadora!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Suspiro...</i> ¿Me estás vacilando...? ¿En serio<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede seeer! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puedo sentir una gran mejora en las<n>\nhabilidades de <chrname>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "C-contempla..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Destellos de luz como estrellas centelleantes...<n>Un\ndesfile de bienvenida para la Overlord<n>renacida... ¿o no?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se\ndeteriora\nrápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saberlo mejor que tentar a nuestra<n>suerte. No\nsoy yo quien sufre, pero estoy<n>lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Así que quieres que active<n>el"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo?<n>No hay",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! Hora de localizar<n>ese"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláaajate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyy pinchazo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Oooh!"
+    },
+    {
+      "name": "Monologue",
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡El poder brota desde lo más profundo de mí! Yo<n>siento... siento..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Puede que aún me vuelva incluso más perfectamente<n>"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Ohhh...</i> ¿Estás bromeando...? ¿En serio<n>funcionó?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Todo el cuerpo de <chrname> está<n>irradiando una"
+    },
+    {
+      "name": "Monologue",
+      "text": "¡Arriesgamos y valió la pena! Esto es<n>un gran"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "M-mirad..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Destellos de luz como estrellas centelleantes... Una<n>bienvenida"
+    },
+    {
+      "name": "Monologue",
+      "text": "La condición de <chrname><n>empeora"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mirarías la hora? Yo<n>debería irme"
+    },
+    {
+      "name": "Monologue",
+      "text": "Debí saber que no era buena idea tentar a<n>la suerte. Estoy"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Así que quieres que active<n>el"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo?<n>No hay",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! Hora de localizar<n>ese"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláaajate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyy pinchazo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Oooh!"
+    },
+    {
+      "name": "Monologue",
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡El poder brota desde lo más profundo de mí! Yo<n>siento... siento..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Puede que aún me vuelva incluso más perfectamente<n>"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Ohhh...</i> ¿Estás bromeando...? ¿En serio<n>funcionó?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monologue",
+      "text": "¡<chrname> está rebosante<n>de encanto!"
+    },
+    {
+      "name": "Monologue",
+      "text": "¡Arriesgamos y valió la pena! Esto es<n>un gran"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "M-mirad..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Destellos de luz como estrellas centelleantes... Una<n>bienvenida"
+    },
+    {
+      "name": "Monologue",
+      "text": "La condición de <chrname><n>empeora"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mirarías la hora? Yo<n>debería irme"
+    },
+    {
+      "name": "Monologue",
+      "text": "Debí saber que no era buena idea tentar a<n>la suerte. Estoy"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh, vamos! ¡No seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Pensarlo de nuevo."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú ahí! Espero que sepas que<n>a los intrusos <i>sí</i>"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Como esperaba, parece que solo era una<n>fan, así"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Me disculpo en nombre de mi devota<n>fanaticada...",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Tengo curiosidad de quién es realmente este<n>personaje Anshinzawa"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Cambiaste de opinión, no? No<n>te preocupes, es"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Adelante, dime qué chakra quieres que<n>active"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Bueno?! ¡No nos dejes con la duda! Espera un<n>"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú ahí! Espero que sepas que<n>a los intrusos <i>sí</i>"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Monologue",
+      "text": "La situación da un giro brusco antes de que<n>pueda"
+    },
+    {
+      "name": "Monologue",
+      "text": "¿De qué trataba todo eso?<n><chrname>"
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llevo a <chrname><n>al\nconsultorio para un chequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! ¡Una clien—digo, una estudiante! ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás lastimada? ¿Enferma? ¿Estresada? Lo que<n>sea, ¡yo\ntrato todo!",
+      "choice_data_list": [
+        "¡¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en el<n>\nconsultorio de la academia, diría que soy tu<n>confiable\nenfermera escolar. ¡Sip, solo una<n>empleada escolar\ncomún y corriente!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajajá! Supongo que no puedo engañarte. Me<n>imagino que\ndebería empezar por darte mi<n>nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ejem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (probable) salvadora de todas<n>las Umamusume, la\n(autoproclamada)<n>acupunturista legendaria con\nel toque<n>mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única e inigualable Sasami Anshinzawa!<n>¿Ves? ¡Sin\npreocupaciones! ☆",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ni Tazuna ni la directora me<n>han dicho\nnada sobre una acupunturista<n>visitando la\nescuela. ¿Estás segura de ser<n>quien dices\nser?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya! ¡Pareces muy preocupada! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos<n>\npresentamos, así que acuéstate y déjame<n>poner estas\nagujas a trabajar."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Seguramente la acupuntura no debe<n>realizarse tan\nligeramente. Esperaba<n>una explicación más\ndetallada—"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay que asustarse! Solo<n>voy a\ninsertar estas extraordinarias<n>agujas precisamente en\ntus puntos de<n>chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y voilà, presto! ¡Algo<n>indescriptible\nsucederá!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y déjame asegurarte, que no hay<n>absolutamente nada\nsospechoso en esto<n>en absoluto. ¡Cada cliente\nha dejado<n>críticas entusiastas!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestra.",
+      "choice_data_list": [
+        "¡¿Para tu maestra?! ¡¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Es mi primera vez, así<n>que\ntécnicamente, nunca he<n>fallado a un paciente\ntampoco."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es que no tenga experiencia! Pasé<n>diez\naños bajo una maestra<n>legendaria, consiguiendo got—digo,\n¡entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí, ya!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay forma de que hagamos esto. Tomo a<n>\n<chrname> y me dirijo a la<n>puerta,\ncuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¡¿Adónde vas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Eres Symboli Rudolf, verdad?! ¡¿La<n>presidenta del\nconsejo estudiantil de la Academia<n>Tracen?! ¡¿La que\nva a guiar a todas<n>las Umamusume hacia la felicidad?!",
+      "choice_data_list": [
+        "¿Has oído de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Que si he oído de ella? ¡Claro que sí!<n>Soy una gran\nfan."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por eso mismo estoy aquí! ¡Para darte mi<n>apoyo!\n¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Solo dame una oportunidad! ¡Poooor favor!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Bueno, Entrenador, la decisión es tuya.<n>¿Qué opinas\nde su oferta?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Te lo pido con una zanahoria<n>encima! ¡Hasta\nte dejaré elegir qué<n>chakra activo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Estoy <i>segura</i> de que no la voy a arruinar!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... bastante segura.",
+      "choice_data_list": [
+        "¡¿Bastante segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Digo, ¡está del lado de lo seguro! Eso es <i>bueno,</i><n>¿verdad?\nEn fin, ¡no te enredes en los<n>detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debería<n>activar? ¿Quieres\nun impulso a tus<n>habilidades? ¿Tu salud? ¿O tal vez\na tu <i>encanto?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Huelo peligro en el aire, pero calculo<n>que\ntal vez—y enfatizo <i>tal vez</i>—haya<n>una posibilidad de\nobtener algo especial<n>con este tratamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué deberíamos hacer?",
+      "choice_data_list": [
+        "Activa el chakra de fuerza.",
+        "Activa el chakra de victoria.",
+        "Activa el chakra de salud.",
+        "Activa el chakra de encanto.",
+        "Esto es muy sospechoso. Mejor salgamos mientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Ngh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción Perfecta!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Extraordinario! ¡Me siento lista para<n>comerme el mundo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Parece que tu decisión fue la correcta,<n>Entrenador.\nQuien no arriesga, no<n>ganna, supongo."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Suspiro...</i> ¿Bromeas...? ¡¿En realidad<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> está rebosando<n>de tanto\npoder que casi es<n>irreconocible."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es un<n>gran\navance para alcanzar nuestra meta!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Argh... ¿Qué? N-no me puedo mover."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero... si mi sacrificio mantiene a salvo<n>a las demás\nalumnas... entonces que así sea..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que era mejor no tentar a<n>nuestra suerte. No\nsoy quien sufre, pero estoy<n>lleno de remordimientos."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Ngh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción Perfecta!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Extraordinario! ¡Me siento lista para<n>comerme el mundo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Parece que tu decisión fue la correcta,<n>Entrenador.\nQuien no arriesga, no<n>ganna, supongo."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Suspiro...</i> ¿Bromeas...? ¡¿En realidad<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puedo sentir una gran mejora en las<n>\nhabilidades de <chrname>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es un<n>gran\navance para alcanzar nuestra meta!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Argh... ¿Qué? N-no me puedo mover."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero... si mi sacrificio mantiene a salvo<n>a las demás\nalumnas... entonces que así sea..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que era mejor no tentar a<n>nuestra suerte. No\nsoy quien sufre, pero estoy<n>lleno de remordimientos."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Ngh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción Perfecta!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Extraordinario! ¡Me siento lista para<n>comerme el mundo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Parece que tu decisión fue la correcta,<n>Entrenador.\nQuien no arriesga, no<n>ganna, supongo."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Suspiro...</i> ¿Bromeas...? ¡¿En realidad<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Todo el cuerpo de <chrname> está<n>radiando un\nbrillo saludable! ¡Es la<n>imagen absoluta de la salud!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es un<n>gran\navance para alcanzar nuestra meta!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Argh... ¿Qué? N-no me puedo mover."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero... si mi sacrificio mantiene a salvo<n>a las demás\nalumnas... entonces que así sea..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, mira la hora!<n>Debería<n>irme. ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que no era buena idea tentar a la<n>suerte. No soy quien sufre, pero estoy<n>llena de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Así que quieres que active<n>el<n>chakra del encanto, ¿cierto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo?<n>¡Después de<n>esto no hay vuelta atrás!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! Hora de ubicar<n>ese<n>chakra. ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Ngh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Asombroso! ¡Me siento lista para comerme el<n>mundo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Parece que tu decisión fue la correcta,<n>Entrenador. Sin riesgo no hay<n>recompensa, supongo."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Gasp...</i> No me digas... ¿¡En serio<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo creo! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> está rebosando<n>de encanto.<n>¡Seguro que volverá cabezas<n>dondequiera que vaya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es<n>un gran<n>avance para lograr nuestra meta!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Argh... ¿Qué? N-no me puedo mover."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero... si mi sacrificio mantiene a salvo<n>a las<n>demás estudiantes... que así sea..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>empeora<n>rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Entonces... supongo que eso es todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, mira la hora!<n>Debería<n>irme. ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que no era buena idea tentar a la<n>suerte. No soy quien sufre, pero estoy<n>llena de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh, vamos! ¡No seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Reconsiderar."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú ahí! Espero que sepas que<n>a los intrusos <i>sí</i> se les<n>procesará."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Así que era una impostora después de<n>todo... pero<n>¿cómo diablos burló las<n>defensas de la academia?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Parece que hace falta reforzar la<n>seguridad del<n>campus. No podemos<n>arriesgarnos a que algo le pase a<n>las estudiantes.",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo curiosidad por saber quién es<n>realmente esta Anshinzawa, pero<n>no tiene caso darle vueltas. Mejor<n>olvidarme de<n>hoy y seguir adelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Cambiaste de opinión, no? ¡No te<n>preocupes por<n>eso, pasa!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Adelante, dime qué chakra quieres que<n>active!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Bueno?! No nos dejes con la duda.<n>Espera un<n>segundo... ¿Cuánto llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú ahí! Espero que sepas que<n>a los intrusos <i>sí</i> se les<n>procesará."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La situación da un giro brusco antes de<n>que pueda<n>tomar una decisión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿De qué trataba todo eso?<n><chrname> y yo<n>nos miramos<n>perplejas."
+    }
+  ]
+}

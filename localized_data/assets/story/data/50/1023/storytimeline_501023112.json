@@ -1,0 +1,214 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Estoy reuniendo algunos datos con<n>Biwa Hayahide en<n>preparación para nuestra próxima<n>carrera cuando un músculo de mi<n>brazo se contrae<n>dolorosamente."
+    },
+    {
+      "text": "<i>Cric.</i>",
+      "choice_data_list": [
+        "¡Ay!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡¿Entrenador?!"
+    },
+    {
+      "text": "Biwa Hayahide luce preocupada mientras<n>me ve<n>sostener mi brazo lesionado."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Cuánto dolor tienes? ¿Dónde te duele?<n>¿Hay<n>hinchazón?",
+      "choice_data_list": [
+        "E-estoy bien..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡No, no lo estás! ¿Y si es algo serio?<n>¡Necesitamos<n>que te revisen eso de inmediato!"
+    },
+    {
+      "text": "Ella me arrastra a la enfermería..."
+    },
+    {
+      "name": "Doctor de Enfermería",
+      "text": "Es tendinitis."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Doctor de Enfermería",
+      "text": "Vas a tener que descansar tu brazo y<n>mano. Si<n>empeora, incluso podrías<n>requerir cirugía.",
+      "choice_data_list": [
+        "Me siento tan mal por esto..."
+      ]
+    },
+    {
+      "name": "Doctor de Enfermería",
+      "text": "Enfriar la zona no será suficiente.<n>Deberás<n>dejar de usar tu brazo por un<n>tiempo. La buena noticia es que<n>no hay hinchazón, así que<n>no es demasiado serio."
+    },
+    {
+      "name": "Doctor de Enfermería",
+      "text": "Si el dolor sigue siendo insoportable<n>después de<n>descansarlo un rato, vuelve para<n>que lo revise de nuevo, ¿vale?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Doctor de Enfermería",
+      "text": "Jeje, ¿un poco preocupona? Tengo la<n>sensación de<n>que ya sabías desde el principio<n>que la lesión no era tan mala."
+    },
+    {
+      "name": "Doctor de Enfermería",
+      "text": "Pero el hecho de que insistieras en<n>venir aquí<n>prueba cuánto te importa tu<n>entrenador."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y-yo, esto..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...",
+      "choice_data_list": [
+        "Realmente aprecio tu preocupación."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Si te sientes mejor en dos o tres<n>días, vamos a<n>un manantial termal.",
+      "choice_data_list": [
+        "Eso es repentino... ¿Por qué?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Porque lo menos que puedo hacer es<n>cuidarte, y<n>necesitas mucho descanso. Mejor<n>no te preocupes por mi<n>entrenamiento por al menos una<n>semana."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Deberías solicitar tiempo libre y<n>tomar un<n>descanso. Si algo necesita<n>atenderse de inmediato, podemos<n>pedirle ayuda a<n>Tazuna."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Quiero que me contactes de inmediato<n>si tus<n>síntomas empeoran o si<n>desarrollas fiebre. Y el día que<n>vayamos al manantial<n>termal—",
+      "choice_data_list": [
+        "Espera, yo nunca dije—"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Perdón? ¿Realmente crees que<n>estás en<n>posición de objetar?"
+    },
+    {
+      "text": "¡Esa mirada en sus ojos... No está<n>bromeando!"
+    },
+    {
+      "text": "Llega el día de nuestra escapada al<n>manantial termal."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Según mi investigación, el agua<n>aquí es muy<n>recomendada para aliviar<n>dolencias médicas. Debería<n>ser adecuada para<n>sanar tu lesión.",
+      "choice_data_list": [
+        "Suena caro..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No te preocupes. Resulta que este es<n>el mismo<n>lugar al que gané un viaje gratis<n>hace un tiempo. Por lo tanto,<n>podemos disfrutar estas<n>vacaciones sin costo."
+    },
+    {
+      "text": "Ahora que lo pienso, recuerdo que<n>ella consiguió<n>un vale para unas vacaciones en<n>manantial termal hace algún<n>tiempo..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No perdamos tiempo y entremos."
+    },
+    {
+      "text": "Remojándonos en el manantial termal..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Uf... Eso estuvo genial. ¿También<n>disfrutaste tu<n>baño?",
+      "choice_data_list": [
+        "Absolutamente. Toda mi tensión muscular se fue."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bien. Ese remojo debe haber<n>mejorado tu<n>circulación sanguínea."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Lo siguiente es la cena. Me adelanté y<n>pedí un<n>estofado para nosotros. Está<n>cargado con vitaminas B1 y B2,<n>betacaroteno, alicina—",
+      "choice_data_list": [
+        "Espera, espera, espera."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Hm? Oh, debería haber preguntado<n>si hay<n>alimentos que no te gusten. Me<n>aseguré de evitar las alergias<n>que me mencionaste,<n>pero...",
+      "choice_data_list": [
+        "No, no es eso. Solo quiero que te calmes un poco."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...¿Calmarme?",
+      "choice_data_list": [
+        "Quiero que disfrutes, ya que estamos aquí.",
+        "Quiero que disfrutes, ya que estamos aquí."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Siempre te preocupas por mí y<n>pones mis<n>necesidades antes que las tuyas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Por qué no me dejas preocuparme<n>por <i>ti</i> por<n>una vez?",
+      "choice_data_list": [
+        "Sé que estás preocupada, pero tú también necesitas relajarte."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hmm...",
+      "choice_data_list": [
+        "Vamos, consigamos algunas bebidas para hidratarnos."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Está bien. Buena idea."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ahh...",
+      "choice_data_list": [
+        "¿Te sientes un poco más relajada ahora?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Me he sentido relajada desde el<n>principio, ya<n>que estás a mi lado."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hagamos que nos traigan la cena ahora.<n>Será<n>agradable relajarnos y disfrutar<n>una comida."
+    },
+    {
+      "text": "Después de que nos traen nuestra<n>comida,<n>disfrutamos una cena deliciosa y<n>nutritiva juntos."
+    },
+    {
+      "text": "Siento que Biwa Hayahide y yo hemos<n>formado un<n>vínculo irremplazable durante<n>este tiempo juntos."
+    }
+  ]
+}

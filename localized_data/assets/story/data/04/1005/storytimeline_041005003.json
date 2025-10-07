@@ -1,0 +1,247 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El día antes de las pruebas..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Entrenador!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>Suspiro...</i> Lo siento mucho por detenerte,<n>pero estoy buscando a alguien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fuji Kiseki me informa que no puede<n>encontrar a una de las estudiantes<n>bajo su cuidado. Desafortunadamente,<n>no tengo idea de dónde buscar...",
+      "choice_data_list": [
+        "Lo siento. No la he visto."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ya veo... Bueno, gracias de todos modos.<n>Si llegas a encontrarla, ¿le dirías que<n>me contacte de inmediato?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No need to say how—every member of<n>Ritto dorm knows my details.<n>Thank you<n>again! Now, I must be off."
+    },
+    {
+      "name": "Umamusume Junior A",
+      "text": "Oye, ¿no era esa Fuji? Me pregunto por<n>qué tenía tanta prisa."
+    },
+    {
+      "name": "Umamusume Junior B",
+      "text": "Al parecer, una estudiante de Ritto no ha<n>sido vista en todo el día. Oí que<n>podría haberse escapado y huido de la<n>escuela."
+    },
+    {
+      "name": "Estudiante Junior A",
+      "text": "Ah, bueno, eso no es súper raro, ¿eh...<n>Espera, ¿así que Fuji ha estado<n>buscando desde la mañana? ¡Las<n>pruebas son mañana!"
+    },
+    {
+      "name": "Estudiante Junior B",
+      "text": "Lo sé, ¿verdad? Me pregunto si podrá<n>entrenar en absoluto... Pero es de<n>ella de quien hablamos. Estoy segura de<n>que estará bien.",
+      "choice_data_list": [
+        "(¡Tengo que ayudar a buscar!)",
+        "(¡Tengo que ayudar a buscar!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por más que intento encontrar una<n>estudiante que coincida con la<n>descripción que Fuji me dio, mi<n>búsqueda termina en fracaso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras tanto, ya ha oscurecido<n>afuera."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡¿Entrenador?! ¿Qué diablos haces<n>aquí? Y estás empapado en sudor...",
+      "choice_data_list": [
+        "Quería ayudar con la búsqueda."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Es así? Eres muy amable... Gracias<n>por ayudar."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Me temo decir que este parque es el<n>único lugar que queda por revisar—"
+    },
+    {
+      "name": "Umamusume Junior C",
+      "text": "<i>Snif...</i>"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Espera! ¿Oíste eso? ¡Vamos!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Buenas noches, mi querida pony. ¿Y qué<n>podrías estar haciendo en un lugar<n>tan solitario?"
+    },
+    {
+      "name": "Umamusume Junior C",
+      "text": "¿Eh? ¡¿F-Fuji?! Pero, ¿por qué estás aquí?<n>¡Deberías estar preparándote para tu<n>carrera mañana, no preocupándote por<n>mí!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿No necesito preocuparme por ti? ¿Por<n>qué dirías tal cosa? Quiero decir,<n>eres una de mis amigas más queridas<n>en la academia."
+    },
+    {
+      "name": "Estudiante Junior C",
+      "text": "¡De ninguna manera! Yo... no soy buena<n>para nadie aquí. Ya no soy apta para<n>estar en esta escuela."
+    },
+    {
+      "name": "Estudiante Junior C",
+      "text": "El entrenamiento es demasiado difícil<n>para mí. Solo quiero ver a mi<n>familia... ¡Toda mi motivación para<n>correr desapareció como una nube de<n>humo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Tu motivación para correr... Ya veo."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿No quieres intentar recuperar ese<n>sentimiento? ¿O preferirías tirar<n>todo esto y irte a casa?"
+    },
+    {
+      "name": "Estudiante Junior C",
+      "text": "N-no lo sé..."
+    },
+    {
+      "name": "Umamusume Junior C",
+      "text": "Quiero decir, me gustaría recuperar el<n>sentimiento, <i>si puedo</i>... Correr en<n>carreras reales siempre ha sido mi<n>sueño, pero—"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Entonces está decidido! Si ese es tu<n>deseo, entonces lo haré realidad."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mírame—haré que recuerdes tu<n>motivación. Toda ella. En las pruebas<n>de mañana, ¡te mostraré un verdadero<n>milagro!"
+    },
+    {
+      "name": "Estudiante Junior C",
+      "text": "¿Un milagro?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Lo digo en serio. Así que vamos...<n>regresemos al dormitorio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A través de una inspiradora promesa de<n>un milagro, Fuji Kiseki logra llevar a<n>la estudiante a casa sana y salva."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Caray... Mis nervios están destrozados,<n>Fuji. Pensé que también te<n>habíamos perdido."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Jajaja! ¡Perdóname! Pero te agradezco,<n>Hishiama, por cuidar las cosas<n>mientras yo no estaba."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Y Entrenador, tus esfuerzos fueron<n>alentadores de ver!",
+      "choice_data_list": [
+        "Solo me alegro de que encontramos a tu<n>amiga."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Vamos, ya casi es hora de apagar las<n>luces. Ve a la cama ya. Tienes esa<n>carrera mañana."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Perdiste un día entero de entrenamiento,<n>pero no me preocuparía. Se necesitaría<n>más de un día para sacarte de forma.<n>Solo concéntrate en descansar."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...Lo haré."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "No se te ocurran ideas raras o algo,<n>¿vale? Buenas noches."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sí, buenas noches."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me separo de las dos y regreso a mi<n>habitación, pero no puedo evitar<n>preocuparme por cómo actuaba Fuji..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Porque soy Fuji Kiseki—¡la artista que<n>trae alegría a todos! Al menos,<n>ese es el ideal que deseo convertirme."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Haré una actuación milagrosa que<n>hará sonreír a todos!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Porque yo... ¡soy el milagro del césped,<n>Fuji Kiseki!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mírame—haré que recuerdes tu<n>motivación. Toda ella. En las pruebas<n>de mañana, ¡te mostraré un verdadero<n>milagro!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella quiere tanto entretener y emocionar<n>a la gente. Espero que se mantenga<n>tranquila sobre esto...",
+      "choice_data_list": [
+        "(Pero tengo un mal presentimiento.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incapaz de sacudir mi extraña<n>corazonada, voy a asegurarme de que<n>Fuji esté descansando."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Qué idiota! Se veía demasiado<n>tranquila—¡sabía que haría algo<n>estúpido como esto!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Oh, eres tú. Eres ese entrenador que<n>estaba con Fuji, ¿verdad?",
+      "choice_data_list": [
+        "¿Pasó algo?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oh, solo ella enfureciéndome!<n>Desapareció sin dejar rastro. Una cosa<n>es que los demás rompan el toque de<n>queda, pero ¿una líder de dormitorio?<n>¡Imperdonable!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Es bueno que estés aquí, though—<n>buscamos lo mismo. Dividámonos."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Déjame pensar dónde le encanta<n>entrenar... Está junto al río, el<n>santuario..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de pensar en todos los lugares<n>donde podría estar, Hishi Amazon y yo<n>nos separamos para buscar a Fuji Kiseki."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Finalmente..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>Jadeo, resuello, jadeo...</i>",
+      "choice_data_list": [
+        "¡Fuji Kiseki!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Eh... ¡¿E-Entrenador?!"
+    }
+  ]
+}

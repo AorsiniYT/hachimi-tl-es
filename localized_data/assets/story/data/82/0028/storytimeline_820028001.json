@@ -1,0 +1,200 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Veo a Zenno Rob Roy hablando con<n>alguien en la plaza central..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, ya veo... Entonces, ¿quieres decir que el<n>hechizo falló porque no recité la<n>invocación escrita en el grimorio<n>correctamente?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Sip, exacto! Y ahora que sabes<n>cuál era el problema, ¡definitivamente<n>funcionará la próxima vez!",
+      "choice_data_list": [
+        "¿De qué están hablando ustedes dos?",
+        "¿De qué están hablando ustedes dos?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Oh... Esto, hola."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Solo estaba hablando de magia con<n>Sweep.",
+      "choice_data_list": [
+        "Magia..."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Mmjm! ¡Después de todo, <i>soy</i> Sweep Tosho,<n>la chica mágica más grandiosa de Tracen!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Rob Roy es una colega conocedora de la magia.<n>¡Su conocimiento casi rivaliza con el mío!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "No me llamaría conocedora. Solo<n>he aprendido montones de cosas de los<n>libros que he leído."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡No seas tan modesta! Por ejemplo, justo el<n>otro día..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Bajo un paso elevado sin nadie a la vista...<n>Oh sí, este es el lugar perfecto para<n>practicar magia en serio."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Bueno, ¿estás emocionada o estás<n>emocionada?! <i>Así</i> es como se siente<n>ser una chica mágica! ♪"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Antes de empezar, te enseñaré los cuatro<n>elementos mágicos. Esto es muy, muy<n>importante, ¡así que presta atención!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Oh, ¿te refieres a fuego, agua, tierra y<n>viento? Y luego añades el éter para hacer<n>el quinto, a menos que me equivoque..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "A-ah... ¿¡Así que ya los conoces<n>todos?! ¡De verdad investigaste bien!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Y ahí fue cuando nuestro hechizo se<n>desvaneció en la nada, ¿recuerdas?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Cierto! ¡Entonces está decidido! Vamos a<n>hacer más entrenamiento mágico y<n>¡hacer un regreso triunfal!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡¿Qué?! ¡¿Ahora mismo?!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Cuando se me ocurre una idea, me lanzo de lleno!<n>Además, ¡creo que tienes potencial!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Vamos! Estoy dispuesta a cualquier<n>entrenamiento que prefieras, Rob Roy. ¡Dímelo!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eh, esto... Bueno... No se me ocurre<n>nada en este momento..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Bien. En ese caso... ¡Oye tú, Entrenador!<n>Inventar planes de entrenamiento es<n>tu trabajo, ¿verdad?"
+    },
+    {
+      "text": "...Me ha tocado pensar en un plan. El<n>primero que se me ocurre es...",
+      "choice_data_list": [
+        "Profundizar tu conocimiento con más lectura.",
+        "¡Empezar con un poco de entrenamiento de fuerza!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ooh! Me encanta leer. Ese podría ser<n>el lugar perfecto para empezar."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Entonces contempla mi grimorio más preciado!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Puede que sea un poco intenso para<n>principiante, pero te ayudaré a entender<n>las partes que no entiendas. ♪"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Gracias. Ahora, si vamos a estudiar,<n>¿por qué no vamos a la<n>biblioteca?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Bien, empecemos directamente con el capítulo<n>de fundamentos... ¿Hm? ¿Qué significa<n>esta palabra otra vez?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Te refieres a esta? Hm, si tuviera que<n>adivinarlo por el contexto..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Creo que significa \"concentrarse\"."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Ah, cierto, ajá! ¡Acabo de recordar!<n>Sip, ¡definitivamente es eso!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Y esta palabra aquí qué significa<n>otra v—"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Espera, no! Lo que quiero decir es, veamos si<n>puedes averiguar cómo leer esta parte<n>tú sola, Rob Roy!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Jeje, está bien. En realidad, tenía<n>mucha curiosidad por ver qué más<n>estaba escrito aquí."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Una vez que empiece a leer, no pararé,<n>así que escucha con atención, ¿vale Sweep?"
+    },
+    {
+      "text": "Las chicas leen un rato, profundizando<n>su concentración y conocimiento de<n>la magia."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿No se supone que estamos haciendo<n>entrenamiento mágico? No creo que sea<n>tan relevante..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Jeje... En realidad, la magia está<n>profundamente ligada a la fuerza física."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡¿En serio?! ¡Pensé que se trataba de<n>aumentar el poder mágico!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Bueno, por ejemplo, si lanzas un<n>hechizo de levitación a una roca, pero<n>no se levanta..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Puedes levantarla usando tus brazos! En<n>momentos así, necesitas \"magia<n>muscular\"!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Realmente puedes llamar a eso... magia?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Por supuesto! Ahora, ¡al gimnasio! Te<n>mostraré un gran régimen de entrenamiento<n>de magia muscular!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Uf. De verdad trabajé mucho. ¿Crees<n>que le estoy agarrando el truco?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Estuviste fantástica! Aún no a mi nivel,<n>pero esos fueron unos buenos movimientos,<n>Rob Roy!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Ahora que hemos gastado nuestra energía,<n>es el momento perfecto para tomar un<n>descanso y recargar con algo dulce. ♪"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Jeje, eso suena maravilloso. Vamos a la<n>cafetería."
+    },
+    {
+      "text": "Las chicas van a la cafetería después<n>de terminar su entrenamiento de \"magia<n>muscular\"."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Amazon",
+      "text": "Vaya, eso estuvo cerca, Entrenador.",
+      "choice_data_list": [
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Vamos, no digas eso! Mantén la<n>cabeza en alto.<n>¡Hiciste un gran trabajo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Bueno, ¡hora de que yo lo intente!<n>Entrenador,<n>¿me prestas una moneda o dos?",
+      "choice_data_list": [
+        "Me quedé sin... lo siento..."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Rayos, bueno... Supongo que podría<n>compensarlo con<n>una comida enorme para las<n>nuevas."
+    },
+    {
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

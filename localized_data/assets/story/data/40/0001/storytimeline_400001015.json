@@ -1,0 +1,185 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una tarde, mientras me preparo para<n>entrenar\ncon <chrname>..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Toc, toc!</i>"
+    },
+    {
+      "name": "???",
+      "text": "¿Disculpe? ¿Es usted la<n>Entrenadora\n<username>?",
+      "choice_data_list": [
+        "Um... ¿Puedo preguntar su nombre?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Lo siento mucho. Debí haberme<n>presentado.\nSoy una reportera de<n>Twinkle Monthly."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Mi nombre es Etsuko Otonashi."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Buscaba entrenadoras sobre quienes<n>escribir, y\nla Directora Akikawa mencionó<n>su nombre\nespecíficamente."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Haré todo lo posible por no interferir<n>con su\nentrenamiento. Espero<n>trabajar con usted."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta es la primera vez que oigo sobre<n>alguna\nentrevista, pero la actitud<n>educada y sincera de Otonashi me\ntranquiliza.",
+      "choice_data_list": [
+        "Es un placer."
+      ]
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Gracias por aceptar participar."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Empecemos, ¿de acuerdo? Como<n>seguro sabe,\nel lanzamiento del URA<n>Finale ha tomado por\nsorpresa al mundo<n>de las carreras."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¿Podría decirnos cómo eso ha<n>afectado su\nperspectiva y la de su aprendiz?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es cierto que ha habido grandes<n>cambios, pero\ndesde el día en que<n>decidí caminar con\n<chrname>, mis<n>convicciones siempre se han\nmantenido<n>igual.",
+      "choice_data_list": [
+        "Seguiré apoyándola para que pueda lograr\nsus sueños."
+      ]
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Ya veo. En otras palabras, considera que<n>su rol como\nentrenadora es...",
+      "choice_data_list": [
+        "¡Ayudar a mi Uma Musume a lograr sus sueños!"
+      ]
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "..."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "E-eso es...",
+      "choice_data_list": [
+        "¿Sí?"
+      ]
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Eso es simplemente... simplemente..."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡SIMPLEMENTE ASOMBROSO!"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡Ayudar a su Uma Musume aprendiz a<n>lograr sus\nsueños! ¡Eso es lo que dijo,<n>¿verdad?!"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡Entonces seguro que está dispuesta a<n>asumir\ncualquier carga con una sonrisa!",
+      "choice_data_list": [
+        "Mm..."
+      ]
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡Entrenar donde y cuando ella lo pida!<n>¡Llevarla a\na guas termales para<n>recuperarse de carreras!\n¡Aventurarse a<n>arroyos remotos en montañas\nsolo para<n>traerle un vaso de agua!"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Ah... Qué devoción... ¡Estoy tan<n>conmovida!",
+      "choice_data_list": [
+        "(¡Yo nunca dije eso!)"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Espléndido! ¡Veo que la entrevista ha<n>comenzado!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¿Qué le parece? Bastante talentosa,<n>¿no?"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡Absolutamente! Es solo nuestro primer<n>encuentro,\n¡pero casi me ha hecho llorar!"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡Se necesita una entrenadora especial<n>para estar\ndispuesta a sumergirse en un<n>huracán por su\naprendiz!",
+      "choice_data_list": [
+        "(¡Vale, yo <i>realmente</i> no recuerdo haber dicho eso!)"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Maravilloso! ¡Eso es una entrenadora<n>de una\nUma Musume estrella potencial!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡He estado vigilando de cerca sus<n>actividades\nrecientes!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Pero hmmm... ¡Qué extraño! Parece que<n>está\nteniendo problemas para ganar fans."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡No se preocupe! ¡Aún hay tiempo antes<n>del URA\nFinale! ¡Estoy segura de que puede<n>cambiar las\ncosas!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡También está recibiendo un buen<n>apoyo! ¡Con\nuna actuación tan convincente<n>como la suya,\nsabía que ganaría<n>corazones!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Anticipación! Aproveche al máximo<n>cada carrera\nque se le presente y muéstrenos<n>algunos grandes\nresultados!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Asombroso! ¡También está recibiendo<n>más apoyo\ndel que jamás imaginé!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Con una aprendiz tan cautivadora<n>como la suya,\nun lugar en el URA Finale<n>no es una mera\nfantasía!"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Una Uma Musume estrella se mide por<n>la cantidad\nde apoyo que tiene. Así es<n>como se puede decir\nque es amada."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "También me gustaría ayudarla a<n>reunir más\napoyo."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Gratitud! La asistencia de los medios<n>será\nesencial, tanto para aumentar la<n>popularidad de\nnuestras Uma Musume<n>como para asegurar el\néxito del evento!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Cuento con usted, Señorita Otonashi!<n>¡Ayúdenos a\nhacer del URA Finale un éxito!"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Por supuesto. Muchas gracias por su<n>tiempo,\nEntrenadora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que he encontrado una aliada<n>poderosa en\nla lucha por aumentar el<n>apoyo de\n<chrname>..."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Se supone que me reuniré con Daiwa Scarlet<n>primero"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Uf...</i> Esto me está volviendo loca. No importa<n>cómo",
+      "choice_data_list": [
+        "¿...Algo le pasa?",
+        "¿...Algo le pasa?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Sí! ¡Sí que lo hay! Tiene que ser exactamente como<n>mi mamá"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ugh! ¡No me puedo concentrar así! Volveré<n>en cuanto arregle"
+    },
+    {
+      "name": "Monologue",
+      "text": "Parece que Daiwa Scarlet no puede concentrarse<n>cuando"
+    }
+  ]
+}

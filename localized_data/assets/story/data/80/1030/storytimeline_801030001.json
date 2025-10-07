@@ -1,0 +1,64 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras camino por el distrito comercial..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Noto a Rice Shower regando flores en<n>una floristería."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Para ti, y para ti... Fiu. Eso debería<n>bastar."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿E-eh? ¿Qué haces aquí? D-digo,<n>bienvenido a la tienda...",
+      "choice_data_list": [
+        "Olvídame. ¿Qué estás <i>tú</i> haciendo aquí?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh, es mi culpa... Accidentalmente<n>volcé una maceta, y el gerente de la<n>tienda tropezó con ella y se torció un<n>tobillo..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Estoy ayudando hoy como disculpa. Solo<n>espero no empeorar las cosas...",
+      "choice_data_list": [
+        "¿Quieres que te ayude a regar las flores?",
+        "¿Quieres que saque más flores de atrás?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Qué? ¿Q-quieres ayudar? Si estás<n>seguro, entonces... Te lo agradecería mucho."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿No son las flores aquí tan hermosas?<n>Creo que las rosas son especialmente<n>bonitas."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y cuando las riegas, los pétalos<n>brillan como diamantes... No puedo<n>evitar quedar hipnotizada por ellas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower y yo charlamos felizmente<n>mientras regamos las flores de la tienda."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "G-gracias... Por favor, ten cuidado.<n>Algunas son bastante pesadas..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Estas flores son tan bonitas... Me<n>pregunto si tendríamos más clientes<n>si exhibiéramos un montón de ellas al<n>frente. ¡Ejeje!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eventualmente termino de reabastecer<n>el inventario. Fue más difícil de lo<n>que esperaba."
+    }
+  ]
+}

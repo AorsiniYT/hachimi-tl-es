@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras camino por el pasillo, escucho<n>la voz de Grass Wonder que viene de la<n>enfermería."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Gracias por la medicina. Me retiro<n>ahora."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh... Entrenador.",
+      "choice_data_list": [
+        "¿Te sientes indispuesta?",
+        "¿Te sientes indispuesta?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No, estoy bien. Solo un poco de dolor de<n>cabeza, no es nada—"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje. Vaya. Parece que esta medicina<n>podría tardar un rato en hacer efecto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder parece tener<n>problemas con dolores de cabeza. Quizá<n>sea buena idea tomárselo con calma<n>un tiempo."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras andaba por ahí con Haru<n>Urara..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oye, Entrenador! ¡Mira!",
+      "choice_data_list": [
+        "¿Qué es?",
+        "¿Qué es?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Mira todos esos peluches en la<n>máquina!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara señala una máquina de garra<n>llena\nde peluches de Umamusume."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Wow, son súper lindos! ♪"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh, se ven tan suaves y abrazables! ¡Solo<n>quiero\n<i>apretarlos</i> a todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara mira fijamente los<n>peluches con\nbrillos en los ojos.",
+      "choice_data_list": [
+        "¡Te ganaré uno!",
+        "¡Te ganaré uno!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Eh? ¡¿Lo harás?!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Entonces me pararé a tu lado y te<n>animaré! ¡Tú\npuedes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Ahora no hay forma de que falle!"
+    }
+  ]
+}

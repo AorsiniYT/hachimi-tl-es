@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estoy fuera con Tokai Teio..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ah! ¡Mira, Entrenador!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Máquinas de garra! ¿No parecen divertidas?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ooh, ¡y esa está llena de peluches<n>adorables!\n¡Están súper populares ahora mismo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio señala una máquina de garra<n>llena de\npeluches de Umamusume."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Heh, la verdad es que no solo soy buena en<n>juegos de\nbaile de arcade. ¡También soy<n>increíble en estos!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Y tú? ¿Eres bueno con las<n>máquinas de\ngarra?",
+      "choice_data_list": [
+        "¡Por supuesto!",
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿En serio? ¡Muy bien entonces, veamos qué<n>tienes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No hay forma de que falle ahora!"
+    }
+  ]
+}

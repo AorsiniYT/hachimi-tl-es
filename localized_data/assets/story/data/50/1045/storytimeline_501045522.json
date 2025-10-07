@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Le pido a Super Creek que escriba su nombre en un<n>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "...Perdón, pero ¿podrías voltear hacia el otro<n>lado por un",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Es que, este... me está brotando la piel<n>ahora mismo."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Me han pedido que lave montones de cosas<n>y"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Y supongo que he estado demasiado ocupada para<n>un cuidado adecuado de la piel",
+      "choice_data_list": [
+        "¿Estás bien? ¿Te duele?",
+        "¿Estás bien? ¿Te duele?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡T-te pedí que no miraras! ¡Mal Entrenador!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Intento revisar pero me regañan en cambio.<n>Ella empuja"
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llevo a <chrname><n>a la enfermería para un chequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! ¡Una clien—digo, una estudiante! ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás lastimada? ¿Enferma? ¿Estresada?<n>Sea lo que sea, ¡yo lo trato todo!",
+      "choice_data_list": [
+        "¡¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la<n>enfermería de la academia, diría que<n>soy tu confiable enfermera escolar.<n>¡Sip, solo tu empleada escolar promedio!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajaja! Supongo que no puedo engañarte.<n>Creo que debería empezar por darte mi<n>nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ejem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (probable) salvadora de todas<n>las Uma Musume, la (autoproclamada)<n>legendaria acupunturista con el<n>toque mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única Sasami Anshinzawa!<n>¿Ves? ¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Q-quién crees que engañas?<n>¡Eres una charlatana como pocas!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Dios! ¡Pareces muy preocupada! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos<n>presentamos, así que acuéstate y<n>déjame poner estas agujas a trabajar!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ack! ¿Qué planeas hacer con<n>esas cosas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay que asustarse!<n>Solo voy a deslizar estas extraordinarias<n>agujas precisamente en tus puntos<n>de chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y luego voilà, presto! ¡Algo<n>indescriptible sucederá!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y déjame asegurarte que no hay<n>absolutamente nada sospechoso en<n>esto! ¡Nunca ha salido menos que<n>perfectamente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestra.",
+      "choice_data_list": [
+        "¡¿Para tu maestra?! ¡¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Es mi primera vez,<n>así que técnicamente, ¡nunca he<n>fracasado con un paciente tampoco!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es que no tenga experiencia!<n>Pasé diez años bajo una legendaria<n>maestra, trayendo bebi—digo, ¡entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí, rápido!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay forma de que hagamos esto. Tomo<n>a <chrname> y me dirijo a la<n>puerta, cuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¿¡Adónde vas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Eres King Halo, verdad?! ¡La<n>Uma Musume trabajadora y<n>de fuerte voluntad que se llama a sí misma de primera!",
+      "choice_data_list": [
+        "¿Has oído de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Si he oído de ella? ¡Claro que sí!<n>¡Soy una gran fan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por eso mismo estoy aquí! ¡Para darte<n>mi apoyo! ¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Solo dame una oportunidad! ¡Poooor favor!"
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>Suspiro...</i> Todavía tengo mis dudas,<n>pero parece que su deseo de apoyarme<n>es genuino. ¿Qué hacemos, Entrenador?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Por favor con zanahoria<n>encima! ¡Incluso te dejaré elegir<n>qué chakra activo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Estoy <i>segura</i> de que no lo arruinaré!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... bastante segura.",
+      "choice_data_list": [
+        "¡¿Bastante segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Digo, ¡está del lado seguro! Eso es <i>bueno,</i><n>¿verdad? ¡De todos modos, no te<n>detengas en los detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra<n>debería activar? ¿Quieres un impulso<n>a tus habilidades? ¿Tu salud?<n>¿O quizás tu <i>encanto?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Huelo peligro en el aire, pero calculo<n>que podría—y enfatizo <i>podría</i>—haber<n>una chance de obtener algo especial<n>de este tratamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué deberíamos hacer?",
+      "choice_data_list": [
+        "Activar el chakra de fuerza.",
+        "Activar el chakra de victoria.",
+        "Activar el chakra de salud.",
+        "Activar el chakra de encanto.",
+        "Esto es muy sospechoso. Salgamos mientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres<n>que active el chakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay vuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí!<n>¡Hora de localizar ese chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyyy pinchazo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Au!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción Perfecta!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Entrenador!"
+    },
+    {
+      "name": "King Halo",
+      "text": "No puedo creerlo, pero quizás sí sea<n>una acupunturista de primera. ¡Me siento<n>mucho más ágil que antes! ¡Mi<n>cuerpo ya de primera ahora se ha vuelto<n>súper de primera!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> ¿Estás bromeando...?<n>¿¡Realmente funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo creo! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> está rebosante<n>de tanto poder que es casi<n>irreconocible!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran salto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Entreee... nadorrr..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Mi suerte se acabó... en el momento<n>que bajé la guardia. Realmente es...<n>una charlatana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saberlo mejor que tentar a<n>nuestra suerte. No soy quien sufre,<n>pero estoy lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres<n>que active el chakra de victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay vuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí!<n>¡Hora de localizar ese chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyyy pinchazo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Au!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción Perfecta!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Entrenador!"
+    },
+    {
+      "name": "King Halo",
+      "text": "No puedo creerlo, pero quizás sí sea<n>una acupunturista de primera. ¡Me siento<n>mucho más ágil que antes! ¡Mi<n>cuerpo ya de primera ahora se ha vuelto<n>súper de primera!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> ¿Estás bromeando...?<n>¿¡Realmente funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo creo! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puedo sentir una gran mejora en<n>las habilidades de <chrname>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran salto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Entreee... nadorrr..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Mi suerte se acabó... en el momento<n>que bajé la guardia. Realmente es...<n>una charlatana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saberlo mejor que tentar a<n>nuestra suerte. No soy quien sufre,<n>pero estoy lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres<n>que active el chakra de salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay vuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí!<n>¡Hora de localizar ese chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyyy pinchazo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Au!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción Perfecta!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Entrenador!"
+    },
+    {
+      "name": "King Halo",
+      "text": "No puedo creerlo, pero quizás sí sea<n>una acupunturista de primera. ¡Me siento<n>mucho más ágil que antes! ¡Mi<n>cuerpo ya de primera ahora se ha vuelto<n>súper de primera!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> ¿Estás bromeando...?<n>¿¡Realmente funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo creo! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Todo el cuerpo de <chrname><n>irradia un brillo saludable!<n>¡Es la imagen absoluta de la salud!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran salto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Entreee... nadorrr..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Mi suerte se acabó... en el momento<n>que bajé la guardia. Realmente es...<n>una charlatana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saberlo mejor que tentar a<n>nuestra suerte. No soy quien sufre,<n>pero estoy lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres<n>que active el chakra de encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay vuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí!<n>¡Hora de localizar ese chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyyy pinchazo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Au!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción Perfecta!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Entrenador!"
+    },
+    {
+      "name": "King Halo",
+      "text": "No puedo creerlo, pero quizás sí sea<n>una acupunturista de primera. ¡Me siento<n>mucho más ágil que antes! ¡Mi<n>cuerpo ya de primera ahora se ha vuelto<n>súper de primera!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> ¿Estás bromeando...?<n>¿¡Realmente funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo creo! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> está rebosante<n>de encanto! ¡Seguro que<n>volteará cabezas dondequiera que vaya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran salto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Entreee... nadorrr..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Mi suerte se acabó... en el momento<n>que bajé la guardia. Realmente es...<n>una charlatana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saberlo mejor que tentar a<n>nuestra suerte. No soy quien sufre,<n>pero estoy lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Ay, vamos! ¡No seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Reconsiderar."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú ahí! Espero que sepas<n>que a los intrusos <i>sí</i> se les procesará!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bueno, me piro! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Podría ser una velocista con esa<n>velocidad. Me pregunto si es una<n>infractora habitual."
+    },
+    {
+      "name": "King Halo",
+      "text": "Bueno, en realidad no es asunto nuestro.<n>Yo tengo que trabajar en mi propia forma de correr.",
+      "choice_data_list": [
+        "Buena idea.",
+        "Buena idea."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento curiosidad por quién es<n>realmente esta Anshinzawa, pero no<n>tiene sentido rumiarlo. Mejor<n>olvidar lo de hoy y seguir adelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Cambiaste de opinión, eh?<n>No worries, ¡pasa!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Adelante y dime qué chakra quieres<n>que active, entonces!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Bueno?! ¡No nos dejes en suspenso!<n>Espera un segundo... ¿Cuánto tiempo llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú ahí! Espero que sepas<n>que a los intrusos <i>sí</i> se les procesará!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bueno, me piro! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La situación da un giro brusco antes<n>de que pueda tomar una decisión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿De qué trataba todo eso?<n><chrname> y yo nos miramos<n>con desconcierto."
+    }
+  ]
+}

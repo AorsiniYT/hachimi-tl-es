@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Finalmente es el día de la carrera de<n>debut de\nAgnes Tachyon."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy está inusualmente callada.",
+      "choice_data_list": [
+        "¿Estás nerviosa, quizás?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Nerviosa? ¿Yo? ¡De ninguna manera!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Me lamentaba por el hecho de que se<n>me acabó el\nté negro en el laboratorio.<n>¿Qué\ninadecuado de mi parte<n>olvidar reponer, no?",
+      "choice_data_list": [
+        "(¡Eso no tiene nada que ver con la carrera de hoy!)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oh, ya sé. Puedes salir a comprar<n>alguno para\nmí mientras corro. Ceilán o<n>Keemun es mi\npreferencia.",
+      "choice_data_list": [
+        "No hay forma de que me pierda tu carrera.",
+        "No hay forma de que me pierda tu carrera."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oh, vaya, mira la hora. Parece que<n>debo\nirme."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Si no encuentras ninguno de los dos<n>que\nmencioné, el té Assam también<n>sirve. ¿Serías tan\namable de<n>entregarlo en mi laboratorio?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon sale tranquilamente de<n>la sala de\nespera."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Me dirijo a mi oficina una<n>mañana cuando\nveo a Daiwa Scarlet."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ngg... Tomas la frecuencia relativa...<n>y luego\npara obtener la acumulativa...<n>tú... tú, eh... <i>Bostezo...</i>",
+      "choice_data_list": [
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ah! B-buenos d—"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh... solo eres tú. ¿No ves que estoy<n>estudiando?\nTengo un examen... pronto..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Bostezo...</i> Las estudiantes<n>modelo... tienen\nque sacar puro 10... No<n>tengo tiempo... para...\ndormir..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que apenas ha dormido.<n>Probablemente\ndebería aligerar su carga un poco."
+    }
+  ]
+}

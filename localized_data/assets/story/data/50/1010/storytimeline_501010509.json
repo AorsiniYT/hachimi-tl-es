@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Taiki Shuttle parece especialmente<n>distraída durante nuestra sesión de entrenamiento."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh... Esa nube se parece a un buen<n>corte de bistec. <i>Suspiro...</i>",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "...Lo siento, Entrenador. Con todas<n>estas carreras últimamente, me<n>estoy quedando sin energía..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Suspiro...</i> ¿Cómo puedo hacer feliz a<n>alguien sintiéndome así?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Correr todas esas carreras seguidas<n>está pasando factura. Será mejor<n>que ajuste su calendario de carreras."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Un día, estoy paseando con Mejiro<n>"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Vaya, mira eso, Entrenador. Qué<n>adorable pequeñito"
+    },
+    {
+      "name": "Monologue",
+      "text": "Sigo la mirada de Mejiro McQueen y veo<n>"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Parece que a Mejiro McQueen le ha<n>gustado mucho",
+      "choice_data_list": [
+        "¿Quieres uno?",
+        "¿Quieres uno?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "N-no, claro que no. Solo estaba un poco<n>intrigada"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Además, este juego parece difícil. Yo<n>no sería",
+      "choice_data_list": [
+        "Entonces lo ganaré por ti.",
+        "Entonces lo ganaré por ti."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡¿Qué?! ¡¿Tú?! ¡¿E-estás segura?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "¡Ahora no hay forma de que falle!"
+    }
+  ]
+}

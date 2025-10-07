@@ -1,0 +1,71 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "El nombre de esa corredora, creo que era Agnes<n>Tachyon,"
+    },
+    {
+      "name": "Fan B",
+      "text": "Sí, ya es súper talentosa, y todavía<n>tiene"
+    },
+    {
+      "name": "Monologue",
+      "text": "La actuación deslumbrante de Agnes Tachyon<n>cautiva"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Uf! ¡Y así es como se hace!",
+      "choice_data_list": [
+        "¡Buen trabajo ahí afuera, Tachyon!",
+        "¡Excelente trabajo ahí afuera, Tachyon!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Vaya, ¡pero si es el Entrenador! Como siempre,<n>tienes esa"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Conseguiste las hojas de té que quería?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ah cierto, ahora no es momento para esto. Debo<n>hablar"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Con la carrera de debut fuera del camino,<n>en lugar de"
+    },
+    {
+      "name": "Monologue",
+      "text": "¿Algo importante? ¿Y justo después de<n>la carrera de debut?",
+      "choice_data_list": [
+        "(¿Podría ser sobre la próxima carrera?)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mi experimentación ha llegado a un<n>punto muerto, tú"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Dicho esto, me retiraré."
+    },
+    {
+      "name": "Monologue",
+      "text": "Y dicho esto, efectivamente,<n>se retira",
+      "choice_data_list": [
+        "(¡...Debí haberlo sabido!)"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Se va rápidamente sin siquiera un<n>comentario"
+    },
+    {
+      "name": "Monologue",
+      "text": "Sin embargo, es cierto que ha<n>acumulado"
+    }
+  ]
+}

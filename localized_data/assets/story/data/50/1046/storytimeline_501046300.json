@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras el campamento de verano<n>llega a su fin,\nSmart Falcon y yo hablamos de<n>nuestro progreso."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Me potencié! ☆ Me he vuelto súper<n>fuerte, ¿no\ncrees?",
+      "choice_data_list": [
+        "¡Claro que sí!",
+        "¡Claro que sí!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Voy a ser súper competitiva a nivel<n>G1 ahora, ¿no\ncrees?",
+      "choice_data_list": [
+        "¡Claro que lo serás!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Muy bien! ☆ ¡Me siento extra confiada!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Espérame, JBC Classic! ¡Te<n>enfrentaré ahora\nmismo!",
+      "choice_data_list": [
+        "¡Pero todavía faltan dos meses!",
+        "¡Pero todavía faltan dos meses!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Un emocionante campamento de<n>verano llega a su\nfin!"
+    }
+  ]
+}

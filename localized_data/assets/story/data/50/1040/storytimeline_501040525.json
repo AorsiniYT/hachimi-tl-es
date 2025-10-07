@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El otro día, el mánager de Gold City y<n>yo nos\nreunimos para coordinar su<n>horario. Sin embargo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Últimamente, Gold City ha estado<n>ocupada cada\nsegundo del día. Me imagino<n>que es\nfísicamente agotador."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Lo siento, Entrenador! ¡Me quedé<n>dormida! Ya pasó\nmi hora reservada en la<n>máquina, pero ¿tal vez\ntodavía podamos<n>conseguir un lugar?",
+      "choice_data_list": [
+        "¡Vamos rápido a verificar!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Bueno... ahí se fue esa idea. No quedan<n>horarios\ndisponibles."
+    },
+    {
+      "name": "Gold City",
+      "text": "Lo siento. Aquí estoy, haciéndote<n>perder tu\ntiempo también.",
+      "choice_data_list": [
+        "Probablemente solo estás agotada por todo el trabajo reciente."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí, pero yo soy la que pierde. Fui yo<n>quien decidió\nque podía hacer todo<n>esto—correr y modelar."
+    },
+    {
+      "name": "Gold City",
+      "text": "Literalmente, ¿cómo es que ni<n>siquiera puedo\ncuidarme adecuadamente?<n>¡Tengo que superar\nesta fatiga!",
+      "choice_data_list": [
+        "No seas tan dura contigo misma. Solo terminarás más agotada."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...!",
+      "choice_data_list": [
+        "Además, después de ese descanso extra, ¡podrás esforzarte más durante el entrenamiento!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Tienes razón. Solo estaré<n>desperdiciando tiempo si lo\npaso<n>sintiéndome mal por mí misma."
+    },
+    {
+      "name": "Gold City",
+      "text": "Bien. Estoy de vuelta en pie. ¿Qué<n>tienes para\nmí hoy, Entrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Poco después, logramos encontrar<n>una\ninstalación de entrenamiento<n>abierta para usar."
+    }
+  ]
+}

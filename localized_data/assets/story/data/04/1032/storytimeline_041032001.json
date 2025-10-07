@@ -1,0 +1,264 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Me duele la cabeza...",
+      "choice_data_list": [
+        "¿(Eh? ¿Qué está pasando?)",
+        "¿(Eh? ¿Qué está pasando?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debo haber estado inconsciente un rato. ¿Cuándo<n>fue que—"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oye, tú. Por fin despiertas.",
+      "choice_data_list": [
+        "¿...Agnes Tachyon?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon, una corredora talentosa de<n>la que incluso un entrenador novato como<n>yo ha oído hablar, está justo frente a mí."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Parece que estás en estado de shock. Acabas<n>de recuperar la conciencia, así que te<n>aconsejo que no te esfuerces demasiado."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ahora, siéntate en esta silla para mí. Es hora de<n><i>relajarse.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hago lo que dice y me siento en el taburete de<n>la enfermería."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ahora... ¿sabes por qué estás aquí? ¿Puedes<n>recordarlo?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Por cierto, fui yo quien te trajo aquí<n>mientras estabas inconsciente. Así que la<n>pregunta es <i>cómo</i>—e <i>por qué</i>—perdiste<n>el conocimiento.",
+      "choice_data_list": [
+        "Em..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me esfuerzo por encontrar una respuesta mientras<n>un dolor sordo recorre mi cabeza. Si<n>recuerdo bien, estaba caminando por el pasillo..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oye, heeey, heeeeey! ¡Tachyon, dije que<n>espeeeres!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Vaya, pero si es Bakushin O! ¿Qué te tiene<n>tan alterada? No es como si tu<n>querido salón de clases hubiera<n>quedado reducido a cenizas."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Tienes razón, no quedó reducido a cenizas!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Entonces bien está lo que bien acaba. Nos vemos."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Tu representante de clase te ordena que te<n>detengas! ¡No hay nada <i>bien</i> en todo<n>esto!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sí, el salón sigue en pie! ¡PERO!<n>¿Entiendes lo cerca que estuvimos del<n>desastre?!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Una esquina del salón tenía <i>un poquitín</i> de<n>humo, ¿verdad? ¿De verdad es algo por lo<n>que nuestra representante debería<n>molestarse tanto?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡¿Eh?! E-emmm... Cuando lo dices así..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Solo llenaste todo el salón de humo, así que<n>supongo que <i>debería</i> dejarte pasar<n>esta vez."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "La magnanimidad es una virtud,<n>representante. Harías bien en recordarlo."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...¡Ah, espera! ¡Hasta el maestro me dijo ocho<n>veces que ignorara las excusas y te<n>capturara!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No dejaré que escapes, Tachyon!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Jajaja! ¡Sabía que no funcionaría!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Alto ahí! ¡BAKUSHIN, BAKUSHIIIN!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh! Tú, sí tú, ¡entrenador! ¡No dejes pasar a<n>Tachyon!",
+      "choice_data_list": [
+        "¿(¡E-espera, yo?!)",
+        "¿(¡E-espera, yo?!)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Hm? ¡Vaya, cuidado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hm, parece que recuerdas los eventos que<n>sucedieron."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Claro que sí, incluyendo el hecho de que la<n>chica frente a mí es la culpable de llenar<n>el salón de humo.",
+      "choice_data_list": [
+        "¿Por qué llenaste el salón de humo?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Qué pregunta tan peculiar... Para avanzar en<n>mi <i>investigación</i>. ¿Por qué si no?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Investigación</i>... Los ojos de Agnes Tachyon<n>se iluminan al decir la palabra.",
+      "choice_data_list": [
+        "(Tengo un presentimiento raro con esto...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Notando mentalmente que es mejor no<n>involucrarme demasiado con ella, intento<n>ponerme de pie—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Crujido...</i>",
+      "choice_data_list": [
+        "¡¿Eh?! ¡¿No me puedo mover?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡(¿Cuándo me ató a esta silla?!)"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Serás del tipo que se pierde en sus<n>pensamientos? Como alguien de la misma<n>índole, entiendo tu confusión muy bien."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Por la bondad de mi corazón, te doy un<n>consejo—sería sabio que te protegieras<n>mejor."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Después de todo, nunca sabes cuándo podrías<n>toparte con una investigadora buscando un<n>adulto varón ágil y saludable para que sea su<n>sujeto de prueba, ¿verdad?",
+      "choice_data_list": [
+        "¡¿S-sujeto de prueba?!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Después de todo, nunca sabes cuándo podrías<n>toparte con una investigadora buscando una<n>adulta mujer ágil y saludable para que sea su<n>sujeto de prueba, ¿verdad?",
+      "choice_data_list": [
+        "¡¿S-sujeto de prueba?!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "En cuanto a mí, esta ganancia inesperada es<n>ciertamente bienvenida. Quizás debería pagar<n>mis respetos en el santuario."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "En fin, todos en esta academia ya me<n>conocen demasiado bien. Olvida pedir<n>sujetos de prueba—todos huyen de mí al<n>verm."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Y sin embargo—¡JA-JA-JA! ¡Nunca habría<n>imaginado que sangre nueva aparecería en<n>mi puerta! ¡Qué golpe de suerte!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Así que, mi conejillo de indias—ah, disculpa,<n>quiero decir entrenador novato.",
+      "choice_data_list": [
+        "¡¿Acabas de llamarme conejillo de indias?!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Un adulto no necesita preocuparse por<n>asuntos tan triviales."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Más importante, tengo una<n>especial—espera, dado tu vigor, te haré<n>beber tres de mis medicinas.",
+      "choice_data_list": [
+        "...¿Qué contienen?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je-je-je, la prueba está en el<n>pudín—o debería decir, ¿en la medicina?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No te preocupes... En el peor caso, tus dos<n>piernas brillarán verde-dorado por unas<n>horas. Un efecto secundario adorable, si<n>digo yo misma."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Lo que realmente quiero ver son los datos<n>cuadricipitales humanos que puedo<n>recolectar con esto."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Es un hecho conocido que las estructuras<n>corporales humanas y de Umamusume son<n>casi idénticas, pero comparando datos de<n>ambas, quizás un nuevo—"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Tachyon... ¿Estás haciendo de las tuyas de<n>nuevo?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Vaya, pero si es Cafe! ¿Qué sucede?<n>¿Quizás finalmente viniste a unirte a mi<n>experimento—"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Sigue soñando. Vine a decirte que el<n>maestro te busca. Creo... que es sobre<n>las pruebas próximas."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Apresúrate... y ve ya. Ahora... En este<n>momento..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bien, bien... Mensaje recibido, ¡así que no<n>me mires así! Parece que el experimento<n>tendrá que esperar."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Nos vemos, entrenador novato!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Suspiro...</i> Yo... te desataré..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Balbuceo mis agradecimientos mientras cuento<n>mis estrellas de la suerte. Estoy salvado...<n>Al menos, por ahora."
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Vodka y yo hemos estado buscando el<n>verdadero significado de \"genial\" pidiendo<n>en cafés y pensando en instrumentos geniales."
+    },
+    {
+      "name": "Vodka",
+      "text": "Así que he estado pensando en qué es<n>realmente \"genial\"."
+    },
+    {
+      "name": "Vodka",
+      "text": "Claro, sé lo que es genial cuando lo veo,<n>pero supongo que no es solo eso..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Augh! ¡Todavía no sé cómo describirlo!<n>¡Me está matando!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo entonces, oímos una voz enojada<n>desde una tienda cercana."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Hmm? Parece que hay algún alboroto."
+    },
+    {
+      "name": "Hombre A",
+      "text": "¡¿Cuántas veces tengo que decirte?!<n>¡Tráeme al gerente!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Oh, es solo alguien quejándose. Qué aburrido..."
+    },
+    {
+      "name": "Hombre A",
+      "text": "¡¿Qué acabas de decir?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Oh, ¿escuchaste eso?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Pero es verdad, ¿no? Lo que estás<n>haciendo es súper aburrido.",
+      "choice_data_list": [
+        "¡Vodka!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué? No es que esté diciendo nada<n>malo."
+    },
+    {
+      "name": "Hombre A",
+      "text": "¡Tch!"
+    },
+    {
+      "name": "Hombre A",
+      "text": "¡Oye, tú! Si estás a cargo de esta mocosa,<n>deberías enseñarle modales!",
+      "choice_data_list": [
+        "...Disculpe."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡¿Eh?! ¡¿Por qué te disculpas?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Este tipo está actuando totalmente<n>aburrido! ¡No hay duda!"
+    },
+    {
+      "name": "Hombre A",
+      "text": "¡T-tienes una boca muy grande para<n>ser tan pequeña!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esto podría ponerse feo. ¿Qué debería<n>hacer?",
+      "choice_data_list": [
+        "¡Déjamelo a mí!",
+        "¡Déjamelo a mí!",
+        "¡Huyamos!",
+        "¡Huyamos!",
+        "Depende de ti, Vodka.",
+        "Depende de ti, Vodka."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esto podría ponerse feo. ¿Qué debería<n>hacer?",
+      "choice_data_list": [
+        "¡Déjamelo a mí!",
+        "¡Déjamelo a mí!",
+        "¡Huyamos!",
+        "¡Huyamos!",
+        "Depende de ti, Vodka.",
+        "Depende de ti, Vodka."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Hombre A",
+      "text": "¿Qué? ¿Ahora tú también vas a hacer<n>algo?",
+      "choice_data_list": [
+        "Yo soy el responsable de ella."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo dejar que Vodka se lastime.<n>Quiero manejar esto con calma, pero<n>justo cuando doy un paso adelante..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Resbalón...</i>",
+      "choice_data_list": [
+        "¡Ah!"
+      ]
+    },
+    {
+      "name": "Vodka y Hombre A",
+      "text": "¡¿Eh?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡¿E-Entrenador?! ¡Oye! ¿En serio—?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La voz asustada de Vodka se desvanece<n>lentamente, y entonces..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Oh, por fin despiertas."
+    },
+    {
+      "name": "Vodka",
+      "text": "Vaya... ¿Por qué hiciste algo tan fuera<n>de carácter?",
+      "choice_data_list": [
+        "¿Dónde estamos?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿No notas? La enfermería de la academia.",
+      "choice_data_list": [
+        "¿Qué hacemos aquí?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "No es gran cosa. Solo, bueno, ya sabes..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Te llevé de vuelta a la academia después<n>de que te desmayaste."
+    },
+    {
+      "name": "Vodka",
+      "text": "Vaya. Intentando ser genial y dar la<n>cara, pero luego tropezando así. Eres<n>tan torpe."
+    },
+    {
+      "name": "Vodka",
+      "text": "No era para \"llamar una ambulancia\" o<n>nada así, así que te traje aquí yo<n>misma."
+    },
+    {
+      "name": "Vodka",
+      "text": "Quería hacerlo yo, ¿sabes?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de decir eso, Vodka se queda<n>en silencio por un momento."
+    },
+    {
+      "name": "Vodka",
+      "text": "Oye, ¿recuerdas que he estado<n>preguntándome qué es \"genial\"?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Todavía no puedo poner en palabras la<n>definición de genial..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Pero sé que lo genial no es solo cómo<n>se ve algo."
+    },
+    {
+      "name": "Vodka",
+      "text": "No dudar en dar la cara cuando<n>algo sale mal... Eso sí que es<n>verdadera genialidad."
+    },
+    {
+      "name": "Vodka",
+      "text": "Así que lo que intento decir es..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Pensé que fue súper genial cuando<n>me defendiste!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Augh! ¡No me hagas decir eso nunca<n>más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dicho eso, Vodka aparta la cara..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? ¿Qué estás—?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agarro el brazo de Vodka, y huimos a<n>toda velocidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de correr un rato, recuperamos<n>el aliento en un parque vacío."
+    },
+    {
+      "name": "Vodka",
+      "text": "P-pero no hicimos nada malo. ¿Por qué<n>huimos?",
+      "choice_data_list": [
+        "Perdón por hacerte hacer algo aburrido."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vodka, realmente no entiendes los<n>sentimientos de los demás, ¿verdad?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Scarlet? ¿Qué haces aquí?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vi lo que pasó. Todo terminó antes de<n>que pudiera decir algo, sin embargo."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡¿Qué?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No importa. Lo que quiero decir es..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "La razón por la que tu entrenador huyó<n>fue para protegerte, obviamente."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Y si te lastimas por ser tan imprudente?<n>¿Entonces qué? ¿No te importa si no<n>puedes correr más?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Para... protegerme? ¿Es eso cierto?",
+      "choice_data_list": [
+        "...Sí.",
+        "...Sí."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "No... tenía idea."
+    },
+    {
+      "name": "Vodka",
+      "text": "Supongo que no siempre puedes actuar<n>con dureza. También tienes que<n>pensar en los demás y saber cuándo es<n>momento de huir."
+    },
+    {
+      "name": "Vodka",
+      "text": "También existe ese tipo de genialidad..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Bueno, conociéndome, quizá siga<n>siendo imprudente..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Pero cuando eso pase, ¿me detendrás<n>otra vez\ncomo hoy?",
+      "choice_data_list": [
+        "Claro que sí. Ese es el plan.",
+        "Claro que sí. Ese es el plan."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Uf...</i> No hagas que tu entrenador te consienta,<n>Vodka.\nDeberías madurar aunque sea<n>un poquito también."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡N-no es así! ¡No digas cosas raras<n>como\nésa!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Yo soy súper madura! ¡¿Verdad?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo puedo reírme con nerviosismo como respuesta."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? ¿Qué se supone que significa eso?",
+      "choice_data_list": [
+        "Confío en que sabes lo que es correcto hacer.",
+        "Confío en que sabes lo que es correcto hacer."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "...!"
+    },
+    {
+      "name": "Hombre A",
+      "text": "¡¿Bueno, vamos a hacer esto o no?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Aagh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y Vodka elige..."
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Ufff...</i> Vaya. Un buen golpe habría<n>sido\ntentador, pero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka desactiva la situación<n>amenazando con\nllamar a la policía."
+    },
+    {
+      "name": "Vodka",
+      "text": "Aún así, no puedo creer que en verdad<n>me lo hayas\ndejar a mí."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué habrías hecho si me descontrolaba<n>\ny lo golpeaba?",
+      "choice_data_list": [
+        "Confíe en ti."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "...¿En serio? ¿De verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creí que Vodka podría controlarse,<n>y se lo\ndigo."
+    },
+    {
+      "name": "Vodka",
+      "text": "...Ja. Probablemente... sea por ti."
+    },
+    {
+      "name": "Vodka",
+      "text": "La yo de antes seguramente me habría<n>lanzado\nsin pensar en las consecuencias."
+    },
+    {
+      "name": "Vodka",
+      "text": "Pero recordé que lo primero que<n>hiciste fue\npedir disculpas."
+    },
+    {
+      "name": "Vodka",
+      "text": "Eso hizo que por alguna razón no<n>quisiera pelear...\nVaya, he cambiado totalmente.",
+      "choice_data_list": [
+        "Creo que eso es genial."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? Eso fue... ¿genial? ¿Qué quieres<n>decir?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué te pasa de repente?",
+      "choice_data_list": [
+        "Ejercitar autocontrol cuando importa es genial."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "...Ya veo. No se trata solo de lanzarse<n>directamente."
+    },
+    {
+      "name": "Vodka",
+      "text": "Contenerse también puede ser genial, eh..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Gracias, Entrenador...",
+      "choice_data_list": [
+        "¿Por qué?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Gracias a ti, finalmente entiendo qué<n>significa\nser genial."
+    },
+    {
+      "name": "Vodka",
+      "text": "...O al menos una parte más. Así que...<n>pensé que\ndebía agradecerte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cuanto termina de hablar, Vodka se<n>rasca la\ncabeza como para ocultar su<n>vergüenza."
+    }
+  ]
+}

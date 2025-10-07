@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras preparo el entrenamiento<n>matutino del<n>día, me saluda una voz familiar."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Buenos días, Entrenador. Pensé que<n>te encontraría<n>aquí.",
+      "choice_data_list": [
+        "Buenos días. Te levantaste temprano.",
+        "Buenos días. Te levantaste temprano."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Dormí bien anoche, así que pensé en<n>venir a hacerte<n>una visita."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Bueno, más precisamente, pensé en<n>esperarte<n>agazapada y sorprenderte."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero parece que ni la Emperatriz<n>puede<n>superarte en madrugadas."
+    }
+  ]
+}

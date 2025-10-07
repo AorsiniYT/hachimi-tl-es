@@ -1,0 +1,31 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "T.M. Opera O parece cansada, así que<n>sugiero que\ndemos un paseo. Pronto, unas<n>fans nos detienen."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jeje! Gracias por su generoso<n>apoyo!<n>Devolveré todo su favor con...<n>¡una ópera de\ngratitud!",
+      "choice_data_list": [
+        "Espera, ¿ahora mismo?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "<i>Jadeo... Jadeo...</i> ¿V-viste sus<n>rostros\nradiantes? ¡Mi brillantez ha<n>resplandecido una\nvez más!",
+      "choice_data_list": [
+        "¿No es agotador hacer una ópera cada vez que\nquieres agradecer a tus fans?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Noblesse oblige. Incluso en el clima<n>más\ninclemente, el sol debe salir<n>para traer luz al\nmundo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Además de sus carreras, sus esfuerzos<n>por\ncomplacer a sus fans la están<n>agotando. Tal vez\ndeba ajustar su<n>calendario de carreras."
+    }
+  ]
+}

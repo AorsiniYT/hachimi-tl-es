@@ -1,0 +1,564 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llevo a <chrname><n>a la\nenfermería para un chequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! ¡Una clie—digo, una estudiante! ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás lastimada? ¿Enferma? ¿Estresada?<n>Lo que sea,\n¡yo lo trato todo!",
+      "choice_data_list": [
+        "¡¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la<n>enfermería de la\nacademia, diría que soy tu<n>enfermera escolar de\nconfianza. ¡Síp, solo una<n>empleada escolar\ncualquiera!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajaja! Supongo que no puedo engañarte.<n>Creo que\ndebo empezar por darte mi<n>nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ejem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (probable) salvadora de todas<n>las Umamusume, la\n(autoproclamada)<n>acupunturista legendaria con el\ntoque<n>mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única Sasami Anshinzawa!<n>¿Ves? ¡Sin\npreocupaciones! ☆",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Eh, guau..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Dios! ¡Pareces muy preocupada! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos<n>presentamos, así que\nacuéstate y déjame<n>poner estas agujas a trabajar!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡¿Agujas?! ¡Eso sí importa! ¡¿Qué me<n>vas a hacer?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay que asustarse! Solo<n>voy a deslizar\nestas agujas extraordinarias<n>precisamente en tus puntos\nde<n>chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y entonces voilà, presto! ¡Algo<n>indescriptible\npasará!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y déjame asegurarte que no hay<n>absolutamente nada\nsospechoso en esto!<n>¡Nunca ha salido menos que\nperfectamente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestro.",
+      "choice_data_list": [
+        "¡¿Para tu maestro?! ¡¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Es mi primera vez, así<n>que técnicamente,\n¡nunca he fallado a una<n>paciente tampoco!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es que no tenga experiencia!<n>Pasé diez años\nbajo un maestro legendario,<n>trayendo got—digo, ¡entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí, rápido!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ni en sueños hacemos esto. Tomo a<n>\n<chrname> y me dirijo a la<n>puerta,\ncuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¡¿Adónde vas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Eres Nice Nature, verdad?! ¡La<n>consentida del\ndistrito comercial! ¡La<n>Umamusume que secretamente\nbusca<n>correr hacia la victoria!",
+      "choice_data_list": [
+        "¿Has oído de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Si he oído de ella? ¡Claro que sí!<n>¡Soy una gran\nfan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por eso mismo estoy aquí! ¡Para darte<n>mi\napoyo! ¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Solo dame una oportunidad! ¡Poooor faaavor!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jaja... Hay mucho que descifrar aquí...<n>¿Qué\ndeberíamos hacer, Entrenador?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Te lo pido con una zanahoria<n>encima! ¡Hasta\nte dejaré elegir qué<n>chakra activo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Estoy <i>segura</i> de que no la voy a<n>equivocar!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... bastante segura.",
+      "choice_data_list": [
+        "¡¿Bastante segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Digo, ¡está del lado de lo seguro! Eso es<n><i>bueno,</i>\n¿verdad? ¡De todos modos, no te<n>detengas en los\ndetalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra<n>debería activar?\n¿Quieres un impulso a<n>tus habilidades?\n¿Tu salud? ¿O tal vez<n>tu <i>encanto?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Huelo peligro en el aire, pero calculo<n>que\ntal vez—y enfatizo <i>tal vez</i>—haya<n>una posibilidad de\nobtener algo especial<n>de este tratamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué deberíamos hacer?",
+      "choice_data_list": [
+        "Activa el chakra de fuerza.",
+        "Activa el chakra ganador.",
+        "Activa el chakra de salud.",
+        "Activa el chakra de encanto.",
+        "Esto es muy sospechoso. Salgamos mientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que<n>active el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin<n>preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyy pinchazo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Agh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puntura Perfecta!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Q-qué <i>es</i> esto?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Así se siente una oleada de energía?<n>Me siento...\n¡increíble!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> ¿Estás bromeando...?<n>¿Realmente\nfuncionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo creo! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> está rebosante<n>de tanto\npoder que casi es<n>irreconocible!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\navance hacia nuestro objetivo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ay no..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Um, lo siento, pero... creo que me<n>estoy\nenfermando... Jaja."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>empeora\nrápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que era mejor no tentar a<n>nuestra suerte.\nNo soy quien sufre, pero estoy<n>lleno de remordimientos."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que<n>active el\nchakra ganador?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin<n>preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyy pinchazo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Agh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puntura Perfecta!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Q-qué <i>es</i> esto?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Así se siente una oleada de energía?<n>Me siento...\n¡increíble!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> ¿Estás bromeando...?<n>¿Realmente\nfuncionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo creo! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puedo sentir una gran mejora en las<n>habilidades de\n<chrname>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\navance hacia nuestro objetivo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ay no..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Um, lo siento, pero... creo que me<n>estoy\nenfermando... Jaja."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>empeora\nrápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... supongo que eso es todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, mira la hora! Yo<n>debería\nirme. ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que no debía tentar a nuestra<n>suerte. No\nsoy quien sufre, pero estoy<n>lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo?<n>¡Después\nde esto no hay vuelta atrás!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! Hora de ubicar<n>ese\nchakra. ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yiiijaaa, pinchazo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Agh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Q-qué <i>es</i> esto?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Así se siente una oleada de energía?<n>Me siento...\n¡increíble!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Gasp...</i> ¿Estás bromeando...? ¿En serio<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy toda<n>una genio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Todo el cuerpo de <chrname><n>irradia un\nbrillo saludable! ¡Es la<n>viva imagen de la salud!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\navance hacia nuestro objetivo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ay no..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Eh, lo siento, pero... creo que me estoy<n>sintiendo\nmal... Jaja."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>empeora\nrápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... supongo que eso es todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, mira la hora! Yo<n>debería\nirme. ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que no debía tentar a nuestra<n>suerte. No\nsoy quien sufre, pero estoy<n>lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra del encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo?<n>¡Después\nde esto no hay vuelta atrás!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! Hora de ubicar<n>ese\nchakra. ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yiiijaaa, pinchazo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Agh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Q-qué <i>es</i> esto?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Así se siente una oleada de energía?<n>Me siento...\n¡increíble!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Gasp...</i> ¿Estás bromeando...? ¿En serio<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy toda<n>una genio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡<chrname> rebosa<n>encanto! ¡Seguro\nque llamará la atención<n>dondequiera que vaya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\navance hacia nuestro objetivo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ay no..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Eh, lo siento, pero... creo que me estoy<n>sintiendo\nmal... Jaja."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname><n>empeora\nrápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... supongo que eso es todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, mira la hora! Yo<n>debería\nirme. ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que no debía tentar a nuestra<n>suerte. No\nsoy quien sufre, pero estoy<n>lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh, vamos! ¡No seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Pensarlo de nuevo."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! Espero que sepas que<n>a los intrusos <i>sí</i>\nse les procesará."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Guau, pasó como una tormenta."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Bah, probablemente sea mejor<n>mantener las\ncosas simples de todos modos.",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo curiosidad por saber quién es<n>realmente esta\nAnshinzawa, pero no<n>tiene caso darle vueltas. Mejor\nolvidarse de<n>hoy y seguir adelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Cambiaste de opinión, eh? No<n>te preocupes,\n¡pasa!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces dime qué chakra quieres que<n>active!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Y bien?! ¡No nos dejes con la duda! Espera<n>un\nsegundo... ¿Cuánto llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! Espero que sepas que<n>a los intrusos <i>sí</i>\nse les procesará."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La situación da un giro inesperado antes<n>de que pueda\ntomar una decisión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿De qué trataba todo eso?<n><chrname>\ny yo nos miramos<n>con desconcierto."
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de invitar a Tazuna a salir,<n>espero su\nrespuesta, cuando...",
+      "choice_data_list": [
+        "(Oh, debe ser ella.)",
+        "(Oh, debe ser ella.)"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Gracias por la invitación!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Lamentablemente, tengo que declinar.<n>Últimamente,\nmi trabajo se ha acumulado, así<n>que no creo que\npueda salir de la<n>oficina hoy..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Pero deberíamos salir en otro<n>momento! ¡Te\navisaré cuando esté libre!",
+      "choice_data_list": [
+        "Qué pena..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin querer estar ocioso, decido ver<n>qué está\npasando alrededor de la<n>academia."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Ojo! ¡Objetivo localizado!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Qué suerte! ¡Eres justo la persona que<n>estaba\nbuscando!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Digo, tú y Tazuna parecen llevarse<n>muy bien\núltimamente!",
+      "choice_data_list": [
+        "Sí, supongo que sí."
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Qué lindo! Siempre parece disfrutar<n>hablando\nde ti."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Por lo tanto! Requiero de tu asistencia."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Últimamente, noté que se ha estado<n>sobrecargando\nde trabajo. Sin duda es<n>apasionada, pero\n¡no podemos permitir<n>que su salud se resienta!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡En resumen! Tazuna Hayakawa<n>necesita un\ndescanso!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Bueno, quizás sea mejor si te muestro.<n>¡Ven!\n¡Sígueme!",
+      "choice_data_list": [
+        "Espera, ¿qué?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin saber a dónde vamos, me<n>llevan\nhacia..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El pasillo fuera de la oficina de la directora.",
+      "choice_data_list": [
+        "¿Por qué estamos aquí?"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Entenderás una vez que entres."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Pero debes hacerlo... con sigilo. Sé lo<n>más\ncallado que puedas al<n>entrar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siguiendo las instrucciones de la<n>Directora Akikawa\nal pie de la letra, entro<n>en puntillas a la habitación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez dentro, noto a alguien<n>recostado en el\nsofá."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "<i>Zzz... Zzz...</i>",
+      "choice_data_list": [
+        "(¡Tazuna!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se ve exhausta. Sin duda, ha estado<n>trabajando\nsin descanso por el<n>bien de la academia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro hacia la puerta entreabierta y<n>veo a la\nDirectora Akikawa asomándose."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pronuncia en silencio: \"¡Deja sus<n>deberes\nen mis manos!\"",
+      "choice_data_list": [
+        "(¡Entendido!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Asiento en silencio y coloco una<n>chaqueta sobre\nTazuna mientras duerme."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Mmm?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿¡Eh?! Debo haberme quedado dormida..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿¡Entrenador?! ¿Q-qué haces aquí?",
+      "choice_data_list": [
+        "Buenos días."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah, buenos días..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Espera, ¡no es de mañana!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Cuánto tiempo he estado dormida?",
+      "choice_data_list": [
+        "Un par de horas más o menos."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿¡Tanto?! ¡Ahhh, esto es malo! ¡Todavía<n>tengo\nmucho por hacer!",
+      "choice_data_list": [
+        "La directora dijo que ella se encargaría."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿La directora Akikawa dijo eso? Pero...",
+      "choice_data_list": [
+        "Dijo que necesitas un descanso."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Un descanso..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Bueno... Supongo que últimamente me<n>he estado\nesforzando demasiado."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Y, bueno... <i>sí</i> me siento más<n>refrescada ahora."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Incluso tuve un sueño bastante agradable...",
+      "choice_data_list": [
+        "¿Sobre qué?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Jeje, lo siento..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Es un secreto! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus deberes relevados, Tazuna y yo<n>salimos y\ndisfrutamos de tiempo juntos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y de repente, la puerta detrás de mí<n>se cierra con\nun golpe."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eh... ¿Entrenador?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oh no, debo haberme quedado dormida!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Consternación! Quería permitirle<n>descansar antes\nde sorprenderla, pero<n>fallamos..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿¡Directora Akikawa?! ¿Qué sorpresa?<n>¿Qué está\npasando?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Bueno, ya que llegamos a esto...<n>¡Entrenador!\n¡Esta es una orden ejecutiva!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Tu misión! Lleva a Tazuna a un<n>descanso agradable\ny relajante!",
+      "choice_data_list": [
+        "¡Sí, señora!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿¡Q-qué?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de sus protestas, me llevo a<n>Tazuna para un\ndescanso muy necesario."
+    }
+  ]
+}

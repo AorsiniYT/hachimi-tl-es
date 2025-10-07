@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Taiki Shuttle me lleva a un centro<n>comercial a comprar productos de<n>cuidado de la piel en nuestro día libre..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Parece que aquí tampoco lo tienen.<n>Pero nada más servirá..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Urgh... Si no consigo algo, mi piel<n>estará seca como el desierto al<n>mediodía...",
+      "choice_data_list": [
+        "¿Dónde lo venden?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Bueno, la verdad es que nunca lo he<n>visto en Japón."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Suspiro...</i> Supongo que solo queda<n>esperar a que mi familia me envíe algo."
+    }
+  ]
+}

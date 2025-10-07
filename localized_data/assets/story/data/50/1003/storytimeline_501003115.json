@@ -1,0 +1,285 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El día después del Derby Japonés..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio una vez más pide<n>continuar<n>entrenando sin descanso."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oye, ¿sabías? ¡Dicen que el Kikuka<n>Sho<n>prueba quién es realmente la<n>corredora más fuerte!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Si voy a superar a la Presi, también<n>debo ser<n>considerada así de fuerte!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Así que hoy haré más carreras en<n>pareja!",
+      "choice_data_list": [
+        "¿Segura de que no estás fatigada en absoluto?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Para nada! ¿Por quién me tomas? ¡Soy<n>la<n>invicta Teio!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Además, ¡el Kikuka Sho no espera a<n>nadie!<n>¡Este no es momento para<n>descansar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, reanuda el entrenamiento<n>como de costumbre."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Jadeo, jadeo...</i>"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Solo un poquitito más rápido! ¡Yaaahhh!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Buf... Puf...</i>"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Uf... Buen trabajo, Teio."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí, tú también! ¡Gracias por correr<n>conmigo!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Debo decir, tu forma de correr es<n>increíble...<n>¿No eres prácticamente la<n>corredora número uno del año\nclásico ya?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Jeje. Bueno, mi objetivo es vencer a<n>la Presi, así<n>que ¡debo volverme aún más rápida!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Teio sigue entrenando con corredora<n>tras corredora."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Inhalar... Exhalar...</i>"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "<i>Buf... buf...</i> ¡Corres tan bien, Teio!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "No sé qué es, pero puedo <i>sentir</i> lo<n>mucho que<n>quieres ganar."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, debo hacer lo que tenga que<n>hacer si voy a<n>lograr mi objeti—"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ay!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡¿Teio?!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ay! ¡Uf, eso duele!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡De la nada, Tokai Teio se desploma<n>con una<mueca de gran dolor en su rostro!"
+    },
+    {
+      "name": "Doctor de Enfermería",
+      "text": "Este no es el tipo de daño que resulta<n>de solo<n>unos días de entrenamiento."
+    },
+    {
+      "name": "Doctor de Enfermería",
+      "text": "Es una tensión a mucho más largo<n>plazo que<n>finalmente ha llegado a su límite."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "..."
+    },
+    {
+      "name": "Doctor de Enfermería",
+      "text": "Teio, debes haber sabido que tus<n>piernas estaban<n>en mal estado, pero seguiste<n>corriendo a pesar de eso,\n¿verdad?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Sí.",
+      "choice_data_list": [
+        "¡¿Qué está pasando aquí, Teio?!",
+        "¡¿Qué está pasando aquí, Teio?!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Lo he estado sintiendo desde el<n>Derby."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Pero pensé que si dejaba de<n>entrenar, no<n>había forma de que ganara el<n>Kikuka Sho.",
+      "choice_data_list": [
+        "Así que simplemente seguiste adelante a pesar del dolor..."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "..."
+    },
+    {
+      "name": "Doctor de Enfermería",
+      "text": "...Lamento decir que el Kikuka Sho<n>podría ser<n>demasiado para alguien en tu<n>condición."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡¿Qué?! ¡N-no puede ser!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...",
+      "choice_data_list": [
+        "Tendremos que pausar el entrenamiento por ahora.",
+        "Tendremos que pausar el entrenamiento por ahora."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡N-no! ¡No me puedo permitir descansar!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sí, mis piernas duelen, pero... ¡no es<n>tan grave!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Déjame entrenar! ¡Debo correr en el<n>Kikuka Sho!",
+      "choice_data_list": [
+        "¿No escuchaste lo que acaba de decir el doctor?",
+        "¿No escuchaste lo que acaba de decir el doctor?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Yo... no me importa! ¡Dije que voy a<n>participar!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Necesito ganar! ¡Es la única manera<n>de mostrar<n>que estoy lista para enfrentar a<n>la Presi!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Si no me apoyas, entonces lo haré<n>yo misma!<n>¡No necesitas entrenarme<n>más!",
+      "choice_data_list": [
+        "¡Teio!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ahh... ¡Enójate cuanto quieras! ¡A mí<n>no me<n>importa! ¡No voy a cambiar de<n>opinión!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡La Presi me dijo que estaba<n>contenta de que<n>me hubiera unido a ella en el<n>mismo escenario!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Me está esperando para que la<n>alcance!<n>¡No puedo detenerme ahora y<n>dejarla esperando!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con lágrimas brotando en sus ojos,<n>Tokai Teio me<n>da una mirada que me dice que<n>no se rendirá."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Siempre la he admirado! ¡Desde antes<n>de entrar a<n>la academia hasta ahora! ¡Y<n>siempre lo haré!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡No importa qué tan fuerte sea<n>la Presi, no me<n>rendiré! ¡Nunca!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso frente a la adversidad, su<n>sueño nunca<n>vacila."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero ¿y yo? ¿Debería simplemente<n>rendirme?",
+      "choice_data_list": [
+        "¡Absolutamente no!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Eh, ¿Entrenador? ¿Por qué estás<n>leyendo un<n>libro de repente?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Acupuntura. Masajes. Cualquier<n>método...",
+      "choice_data_list": [
+        "¡Encontraré la manera de volverte a poner en forma para correr!",
+        "¡Encontraré la manera de volverte a poner en forma para correr!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...?!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Quieres decir... que aún me dejarás<n>correr?<n>¿¡Todavía puedo entrenar para<n>el Kikuka Sho?!",
+      "choice_data_list": [
+        "Los entrenadores deben apoyar a sus corredoras.",
+        "Los entrenadores deben apoyar a sus corredoras."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sí... ¡tienes razón! Jeje... ¡Gracias!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Y... ¡lo siento mucho!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "No debería haber guardado el dolor<n>en secreto.<n>Y dije cosas horribles recién<n>también... Aunque sé\nque no puedo hacer<n>esto sola...",
+      "choice_data_list": [
+        "¡Vamos a superar esto juntos!",
+        "¡Vamos a superar esto juntos!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí! ¡Es una promesa!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oye, ¡yo también voy a buscar<n>formas de<n>recuperarme!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Mira, este libro dice que las aguas<n>termales tienen<n>propiedades curativas! ¡Vamos a<n>un viaje a aguas termales!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En los días siguientes, hacemos todo<n>lo posible<n>para ayudar a sanar sus piernas, y<n>Teio supera\nlo peor, evitando<n>cualquier lesión crónica."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Como equipo, nos preparamos para<n>la tercera<n>carrera Clásica—el Kikuka Sho!"
+    }
+  ]
+}

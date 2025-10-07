@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ay! ¡Auch! ¡Me están atacando!"
+    },
+    {
+      "name": "Monologue",
+      "text": "¡¿Taiki Shuttle está lastimada?!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Alguien se metió en mi cabeza<n>Apuesto a que esto es"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Se siente todo pinchoso—y a veces<n>late como",
+      "choice_data_list": [
+        "¿Quieres decir que te duele la cabeza?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, no es nada! ¡Dolor, dolor, vete lejos!<n>No vuelvas"
+    },
+    {
+      "name": "Monologue",
+      "text": "Taiki Shuttle está pasándola mal<n>lidiando con"
+    }
+  ]
+}

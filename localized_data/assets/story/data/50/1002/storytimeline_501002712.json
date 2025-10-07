@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka no ha venido a la sesión<n>de\nentrenamiento de hoy. Decido ir a<n>buscarla."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Gimiendo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El gemido largo y agitado que escucho<n>proviene de\nSilence Suzuka. La encuentro<n>angustiada,\ndando vueltas en<n>círculos en sentido\ncontrario a las agujas del reloj."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Cómo <i>diablos</i> voy a lograrlo?",
+      "choice_data_list": [
+        "¿Qué está pasando?",
+        "¿Qué está pasando?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh, Entrenador."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Tengo un examen de inglés mañana. Me<n>han\nadvertido sobre mis malas<n>calificaciones\nrecientemente..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Así que me preguntaba si había una<n>manera de\nestudiar para el examen<n>mientras corro...",
+      "choice_data_list": [
+        "Sabes que el entrenamiento ya comenzó, ¿verdad?",
+        "Sabes que el entrenamiento ya comenzó, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Qué? ¿De verdad? ¿Ya?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece genuinamente sorprendida. Le<n>digo que\npriorice sus estudios hoy."
+    }
+  ]
+}

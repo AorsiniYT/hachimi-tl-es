@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Vaya, ese fue un campamento de<n>verano bastante\najetreado!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "El Plan A está en marcha... Todo lo que<n>queda es\nprepararse para el Kikuka<n>Sho. Si lo digo yo\nmisma, mis<n>habilidades de gestión del\ntiempo son<n>extraordinarias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es casi una persona completamente<n>diferente de\ncómo era antes del<n>campamento de verano.\nAunque me alegro de<n>su nuevo entusiasmo, no\npuedo evitar<n>preocuparme...",
+      "choice_data_list": [
+        "(¿De qué se trata este Plan A del que sigue hablando?)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Oye, conejillo de indias! ¡Démosle todo<n>a las\nClásicas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El verano termina rápidamente,<n>dejando mis\npreguntas sin<n>responder... sin responder.\nCon la<n>mirada puesta en el Kikuka Sho,<n>comienzan\ndías de entrenamiento<n>consecutivo a todo ritmo."
+    }
+  ]
+}

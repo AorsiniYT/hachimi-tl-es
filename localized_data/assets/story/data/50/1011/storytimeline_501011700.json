@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El día después del día libre de Grass<n>Wonder, me\ndirijo a mi oficina solo para<n>encontrar..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "<i>Zzz... Zzz...</i>",
+      "choice_data_list": [
+        "¿Estás dormida?",
+        "¿Estás dormida?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Oh! L-lo siento. Solo quería descansar<n>un\nmomento en el sofá.",
+      "choice_data_list": [
+        "¿Dormiste suficiente ayer?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bueno, perdí la noción del tiempo<n>mientras\ncontemplaba mi terrario de musgo<n>anoche."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hay un arte en cultivar musgo en un<n>tanque de\nvidrio, y me alegra observar su<n>progreso diario."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero debo cuidar de no dejar que<n>afecte mi\nhorario de sueño... <i>Bostezo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Grass Wonder se quedó<n>despierta\ntarde en lugar de descansar<n>correctamente."
+    }
+  ]
+}

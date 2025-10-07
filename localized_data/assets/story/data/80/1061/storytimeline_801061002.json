@@ -1,0 +1,64 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, en la pista de entrenamiento..."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Oye! ¡Tú ahí!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Te he estado observando, y según lo<n>que he visto, tus consejos no solo<n>son sólidos, sino también muy<n>efectivos."
+    },
+    {
+      "name": "King Halo",
+      "text": "Por ello, te honraré con el privilegio<n>especial de darme consejos.<n>Tienes un minuto para decirme<n>algo útil.",
+      "choice_data_list": [
+        "Pero también estoy en medio del entrenamiento..."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Oh? No es frecuente que tengas la<n>oportunidad de intercambiar<n>palabras con alguien tan ilustre<n>como yo, ¿sabes?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Sería bastante tonto de tu parte no<n>aprovechar tal oportunidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que no me dejará ir a menos<n>que le dé algún consejo, así que<n>intento pensar en algo que decir.",
+      "choice_data_list": [
+        "¿Qué opinas del dicho \"querer es poder\"?",
+        "¿Alguna opinión sobre el timing de tu estrategia en una carrera?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Oh? Qué pregunta intrigante. Debo<n>decir que es un buen punto de<n>discusión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, King Halo y yo discutimos el<n>tema por un rato."
+    },
+    {
+      "name": "King Halo",
+      "text": "Ah, aprecio tu elección de tema. El<n>timing es crítico al hacer un sprint<n>final en la recta final!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Y es esa misma habilidad la que<n>sirve como mi arma definitiva!<n>¡Permíteme contarte todo al<n>respecto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, King Halo y yo discutimos el<n>tema por un rato."
+    },
+    {
+      "name": "King Halo",
+      "text": "Cielos, ¡mira la hora! Debo irme ya."
+    }
+  ]
+}

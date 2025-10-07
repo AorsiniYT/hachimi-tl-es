@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "text": "Una vez en el lugar, Gold City se vuelve<n>muy\nconcentrada, con una intensidad que me<n>hace dudar en\ninterrumpir.",
+      "choice_data_list": [
+        "(Debería salir.)"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Espera, Entrenador."
+    },
+    {
+      "name": "Gold City",
+      "text": "Voy a esforzarme más que en el Derby."
+    },
+    {
+      "name": "Gold City",
+      "text": "Voy a reunir toda la fuerza que he<n>ganado\ncon tu ayuda. Así que..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Intenta motivarme... sin matar el ambiente.",
+      "choice_data_list": [
+        "¡Ve por el reconocimiento que quieres!",
+        "¡Ve por el reconocimiento que quieres!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Nos vemos después de la carrera!"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una tarde, mientras camino por el<n>distrito\ncomercial con Grass Wonder..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mira esa multitud animada. ¿Hay algún<n>evento\nocurriendo?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con<n>nuestra rifa de\nAño Nuevo! ¡El gran premio de<n>este año es unas\nvacaciones en aguas<n>termales para dos!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Los ganadores del primer premio<n>reciben un\nhamburguesa de zanahoria<n>de lujo! ¡Los del\nsegundo premio, un<n>montón de zanahorias! ¡Y los del\ntercer premio se<n>llevan una sola zanahoria!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ya veo... Es una rifa."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Lo que me recuerda... ¿Sabías,<n>Entrenador?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Se dice que las rifas fueron<n>concebidas\noriginalmente por la nobleza hace<n>mucho tiempo\ncomo una forma de entretenerse."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hacían que la gente sacara tiras de<n>papel con\nletras y daban premios como<n>tela y cordel."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Qué bien informada! ¿Qué tal si<n>lo intentas?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bueno, ¿por qué no? Justo tengo un<n>boleto de\nrifa aquí. ♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador, ¿no te molesta si<n>pruebo solo una\nvez?",
+      "choice_data_list": [
+        "¡Ve por el gran premio!",
+        "¡Ve por el gran premio!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje. Haré lo posible por no<n>defraudarte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder agarra firmemente la<n>palanca con\nambas manos y gira la máquina<n>de la rifa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de<n>la abertura del\ntambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos una ganadora<n>del gran\npremio! ¡Ven por tu cupón para<n>las vacaciones en\naguas termales!<n>¡Felicidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste:<n><itemname>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Qué? ¿E-en serio?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Estoy encantada, de verdad, pero me temo que<n>no tengo\ntiempo para vacaciones en este<n>momento.",
+      "choice_data_list": [
+        "¿Segura de que no podrías encontrar el tiempo\nde alguna manera?",
+        "¿Segura de que no podrías encontrar el tiempo\nde alguna manera?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Me temo que ahora no."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero supongo que una vez que las cosas se calmen,<n>podría usar\nesto como una oportunidad para<n>reflexionar sobre el camino que\nhabré recorrido hasta<n>ahora.",
+      "choice_data_list": [
+        "¿O sea, después de la Twinkle Series?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí. Así podré determinar<n>mi nivel de\nsatisfacción con el camino que he<n>tomado."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sería el momento perfecto para dar un<n>paso atrás\ny reflexionar sobre mi progreso."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Tú también vendrías conmigo,<n>Entrenador?",
+      "choice_data_list": [
+        "¿Segura de que quieres que vaya?",
+        "¿Segura de que quieres que vaya?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí. ♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tú eres quien ha estado conmigo<n>en cada paso\ndel camino."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hagámoslo una promesa, Entrenador. Eso<n>fortalecería\nmi motivación.",
+      "choice_data_list": [
+        "De acuerdo. Lo espero con ansias.",
+        "De acuerdo. Lo espero con ansias."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Gracias. Me dedicaré a entrenar<n>en\npreparación para ese día."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tomo el boleto para aguas termales de ella con<n>un\nasentimiento afirmativo."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Parece que tenemos otro ganador del primer<n>premio!\n¡Felicidades! ¡Obtienes una<n>hamburguesa de zanahoria\nde lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste:<n><itemname>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vaya, eso se ve delicioso. ♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Añade un poco de salsa de rábano picante<n>y estoy\nsegura de que sabrá<n>absolutamente espectacular.",
+      "choice_data_list": [
+        "¿Deberíamos comprar la salsa de camino a casa?",
+        "¿Deberíamos comprar la salsa de camino a casa?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mmm... Creo que preferiría comprar los<n>rábanos y\nhacer la salsa yo misma."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entonces, ¿podríamos visitar la verdulería<n>en su lugar?",
+      "choice_data_list": [
+        "Claro.",
+        "Claro."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La idea de hacer salsa casera suena tan<n>bien que\nmi estómago empieza a<n>retumbar."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje. Después de todo, ya casi es hora de cenar."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador, ¿te gustaría compartirla con<n>migo?",
+      "choice_data_list": [
+        "¿Estás segura con eso?",
+        "¿Estás segura con eso?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí. ♪ La comida siempre es más disfrutable<n>con\ncompañía."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Acepto la oferta de Grass Wonder y<n>como un poco\nde la hamburguesa de zanahoria de<n>lujo con ella."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu<n>día de suerte!\n¡Te vas a casa con un<n>montón de zanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste:<n><itemname>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Suerte de verdad... Esto sí que son muchas<n>zanahorias."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador, ¿te gustaría unas cuantas? ♪",
+      "choice_data_list": [
+        "¿Estás segura?",
+        "¿Estás segura?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Por supuesto. También le daré algunas a Spe y<n>El."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Y, como ella hace mucho por mí,<n>quizás\ntambién a Tazuna.",
+      "choice_data_list": [
+        "Vas a regalar muchas.",
+        "Vas a regalar muchas."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bueno, sí. Pero acumularlas todas para<n>mí misma\nimplicaría un riesgo de<n>sobrealimentación."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Compartirlas es mi mejor método de<n>autocontrol. ♪",
+      "choice_data_list": [
+        "Brillante, como siempre.",
+        "Brillante, como siempre."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "La competencia será feroz en el<n>futuro\nprevisible, así que mantener una<n>condición perfecta es clave."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, pero no te preocupes. ¡Tampoco<n>descuidaré\nguardar una porción para mí! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Impresionado por su autodisciplina, regreso<n>a la\nacademia con Grass Wonder."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Mira nada más! ¡Has ganado el<n>\ntercer premio! ¡Aquí está tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste:<n><itemname>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mmm... Me ilusioné demasiado, al parecer."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Aunque bien pensado, esto podría ser justo lo que<n>necesitaba."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Olvidé comprar zanahorias para la ensalada<n>de esta noche\nen el supermercado hoy más temprano,<n>así que el\ntiempo no podría ser mejor."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "Cierto, cierto. Quizás estabas deseando<n>una zanahoria\ntodo el tiempo, ¡y simplemente<n>no lo sabías!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entonces, quieres decir... ¿que el destino<n>pudo tener\nque ver en esto también?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "En ese caso, bien podría ser <i>mi</i><n>\ngran premio.",
+      "choice_data_list": [
+        "Qué bien que resultó, Grass.",
+        "Qué bien que resultó, Grass."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "De verdad que sí. ♪ La ensalada de esta noche<n>va a saber\ntodavía mejor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder gana un poco de brío en su<n>paso mientras\nregresamos a la academia."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que te salió<n>un blanco!\nLleva este paquete de pañuelos como<n>premio de\nconsolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste:<n><itemname>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bueno, esto es decepcionante. Esperaba<n>un premio\nde verdad de algún tipo."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ganar rifas debe ser algo bastante<n>raro.",
+      "choice_data_list": [
+        "¿No has jugado mucho antes?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No. Nunca tuve la oportunidad<n>antes de\nvenir a Japón, sabes."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Antes de intentarlo, pensé que sería<n>suficientemente\ndivertido solo girar el tambor,<n>pero..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Perdue duele mucho más de lo que<n>esperaba..."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "Oye, no te desanimes tanto.<n>Mejor suerte\nla próxima vez."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Si tú lo dices..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los hombros de Grass Wonder se<n>encorvan mientras\nregresamos."
+    }
+  ]
+}

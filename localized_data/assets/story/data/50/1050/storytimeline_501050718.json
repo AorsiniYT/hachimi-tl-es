@@ -1,0 +1,22 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Después de un tiempo libre, Narita Taishin<n>pasa por\nmi oficina.",
+      "choice_data_list": [
+        "¿Cómo estuvo tu descanso?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh? No es de tu... Uf, supongo que sí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Lo de siempre. Me lo tomé con calma y<n>pasé mi\ntiempo relajándome."
+    },
+    {
+      "text": "Parece que Narita Taishin tuvo un buen<n>descanso."
+    }
+  ]
+}

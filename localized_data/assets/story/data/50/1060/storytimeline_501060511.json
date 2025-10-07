@@ -1,0 +1,232 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mi tienda de ropa favorita está en oferta,<n>así que\ndecido pasar."
+    },
+    {
+      "name": "Uma Musume Fashionista",
+      "text": "¡Este es tan lindooo! ¡Lo vi en una revista!<n>"
+    },
+    {
+      "name": "Uma Musume Trendy",
+      "text": "¿Qué opinas, Nature? Creo que te<n>quedaría bien\neste color."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Nah, estoy bien. Este tipo de cosas no es mi<n>estilo,\nde todos modos."
+    },
+    {
+      "name": "Uma Musume Fashionista",
+      "text": "¡Cállate! ¡<i>Totalmente</i> podrías lucirlo!"
+    },
+    {
+      "name": "Uma Musume Trendy",
+      "text": "Vamos a probarnos estos. ¡De verdad<n>deberías\nprobar uno también!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bien, bien. Si me llega la inspiración,<n>tal vez."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oh, hola, Entrenador. Qué coincidencia<n>encontrarte\naquí. ¿También estás comprando<n>ropa nueva?",
+      "choice_data_list": [
+        "Sí, pensé en abastecerme mientras están en oferta."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ya veo. Entonces... ¿por qué tu carrito<n>está vacío?",
+      "choice_data_list": [
+        "Hay demasiadas opciones. No puedo decidir..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Eh... ¿Por qué no me dejas a mí? Llenaré<n>tu carrito en\nun santiamén.",
+      "choice_data_list": [
+        "Me da más curiosidad la ropa que estabas mirando.",
+        "¡Suena increíble! ¿Pero y tus amigas?",
+        "¡Suena increíble! ¿Pero y tus amigas?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Eh... ¿Por qué no me dejas a mí? Llenaré<n>tu carrito en\nun santiamén.",
+      "choice_data_list": [
+        "Me da más curiosidad la ropa que estabas mirando.",
+        "¡Suena increíble! ¿Pero y tus amigas?",
+        "¡Suena increíble! ¿Pero y tus amigas?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ah... ¿esto?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Me dijeron que me quedaría bien, pero la<n>ropa con\nvolantes simplemente no es mi estilo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Soy más del tipo de ropa sencilla, ¿sabes?<n>",
+      "choice_data_list": [
+        "¡Creo que te verías genial con eso!",
+        "¡Creo que te verías genial con eso!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bien, bien, basta de halagos."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Tú viniste a comprar ropa para ti,<n>¿verdad?\n¿Por qué no adelantas y eliges<n>algo?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Puedes poner cara triste todo lo que<n>quieras, pero\n<i>no</i> me voy a poner esto.",
+      "choice_data_list": [
+        "Pero de verdad creo que te verías bien con eso..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Vamos, no seas así. Ya eres lo<n>suficientemente\nmayor para saber cuándo rendirte, ¿no?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "B-bueno. Si insistes, supongo que al menos<n>puedo\nsostenerlo frente a mí para que te<n>hagas una idea."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Lo haré muy rápido, así que no parpadees."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Listo. Eso es todo.",
+      "choice_data_list": [
+        "¡¿Qué?! ¡¿Eso es todo?!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Dije que eso es todo, y eso es todo!<n>¡No importa\nlo que digas!",
+      "choice_data_list": [
+        "¡Tenía razón! ¡Te veías realmente bien!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Cierto."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ughhh... ¡Se acabó la función! ¡Ahora lárgate!<n>Mejor\naún, ¡yo me largo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Adiós, Entrenador! ¡Asegúrate de borrar<n>esa\nimagen de tu memoria también!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tan pronto termina de hablar, Nice<n>Nature sale\ncorriendo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Con la ropa de la que estábamos<n>hablando aún\nen la mano."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Solo estoy aquí porque ellas quisieron<n>venir.\nAdemás, me dijeron que no<n>tengo que\nquedarme."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Puedes esperar aquí un momento? Iré a<n>decirles."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bien. ¿Empezamos?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ahora, lo que te quedaría bien...<n>Nunca te he\nvisto con ropa llamativa,<n>pero tal vez podría\nser tu nuevo estilo.",
+      "choice_data_list": [
+        "Parece que te estás divirtiendo.",
+        "Parece que te estás divirtiendo."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Me gusta elegir ropa para otras personas.<n>Solo que no\nal revés."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Especialmente cuando eligen algo<n>tierno. Me\nsiento mal porque sé que no<n>me va a quedar\nbien.",
+      "choice_data_list": [
+        "Creo que te verías bien con algo así."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Por favor. Tú tampoco."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Estamos aquí para elegir ropa para ti.<n>¡Olvídate\nde mí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a Nice Nature, encuentro<n>mucha ropa\nbuena."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque eso significa que tengo trabajo<n>extra para\nllevarlo todo a casa."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Vaya, vaya, vaya. Tienes un botín<n>impresionante\nahí.",
+      "choice_data_list": [
+        "Todo gracias a tus agudos instintos de estilista.",
+        "Todo gracias a tus agudos instintos de estilista."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, después de todo, tú <i>eres</i> mi<n>entrenador."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Me importas, aunque no lo parezca.<n>"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hablando de eso, déjame cargar algo de<n>eso por\nti."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Tus brazos tiemblan, y no soporto<n>seguir\nviéndolo.",
+      "choice_data_list": [
+        "Pero..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡No seas terco ahora! ¡No eres un niño!<n>"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Uf, ¡ahí vamos! Bien, ¡nos vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como mis brazos están al límite,<n>a regañadientes\nle paso algunas bolsas a Nice<n>Nature, y\nregresamos al campus."
+    }
+  ]
+}

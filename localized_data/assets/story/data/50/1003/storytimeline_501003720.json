@@ -1,0 +1,564 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llevo a <chrname><n>a la\nenfermería para un chequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! ¡Una clie―digo, una alumna! ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás lastimada? ¿Enferma? ¿Estresada?<n>Lo que\nsea, ¡yo lo trato todo!",
+      "choice_data_list": [
+        "¡¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la<n>enfermería de\nla academia, diría que soy tu<n>confiable\nenfermera escolar! Sip, ¡solo una<n>empleada escolar\npromedio!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajaja! Supongo que no puedo engañarte.<n>Supongo que\ndebería empezar dándote mi<n>nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ejem! ¡Permítame presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (probable) salvadora de todas<n>las Umamusume, la\n(autoproclamada)<n>acupunturista legendaria con\nel toque<n>mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única Sasami Anshinzawa!<n>¿Ves? Sin\npreocupaciones! ☆",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Creo que debería reportar esto a Prez."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Dios! ¡Pareces muy preocupada! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos<n>presentamos,\nasí que acuéstate y déjame<n>poner estas\nagujas a trabajar!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Agujas? ¡Ni hablar! ¡Eso suena como que<n>duele!\n¡Aleja esas cosas de mí!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No tienes por qué asustarte! Lo único que<n>haré\nes insertar estas agujas extraordinarias<n>justo en\ntus puntos de<n>chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y entonces, voilà, presto! ¡Algo<n>indescriptible\nocurrirá!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y déjame asegurarte que no hay<n>absolutamente nada\nsospechoso en esto para<n>nada! ¡Nunca ha salido\nmenos que<n>perfectamente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestro.",
+      "choice_data_list": [
+        "¡¿Para tu maestro?! ¡¿Y para ti qué?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Es mi primera vez, así que<n>técnicamente,\ntampoco he fallado con un<n>paciente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es que no tenga experiencia! Pasé<n>diez\naños bajo un maestro<n>legendario, trayendo got—digo,\n¡entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí, ya!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ni en sueños vamos a hacer esto. Tomo a<n>\n<chrname> y me dirijo a la<n>puerta,\ncuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¡¿A dónde vas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Eres Tokai Teio, ¿verdad?! ¡La<n>\nUmamusume alegre que admira a Symboli<n>Rudolf y\nsiempre rebosa de<n>confianza!",
+      "choice_data_list": [
+        "¿Has oído de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Que si he oído de ella? ¡Claro que sí!<n>Soy una gran\nfan."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Precisamente por eso estoy aquí! ¡Para<n>darte mi\napoyo! ¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Solo dame una oportunidad! ¡Poooor faaavor!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "No lo vamos a hacer, ¿verdad? ...¡¿Entrenador?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Te lo pido con una zanahoria<n>encima!\n¡Hasta te dejaré elegir qué<n>chakra activo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Estoy <i>segura</i> de que no la voy a regar!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... bastante segura.",
+      "choice_data_list": [
+        "¡¿Bastante segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Digo, ¡es del lado seguro! Eso es <i>bueno,</i><n>¿verdad?\nTotal, ¡no te fijes en los<n>detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra<n>debería\nactivar? ¿Quieres un impulso<n>a tus habilidades?\n¿A tu salud? ¿O tal vez<n>a tu <i>encanto?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Huelo peligro en el aire, pero calculo<n>que\ntal vez—y enfatizo <i>tal vez</i>—haya<n>una posibilidad de\nobtener algo especial<n>con este tratamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué deberíamos hacer?",
+      "choice_data_list": [
+        "Activar el chakra de fuerza.",
+        "Activar el chakra de victoria.",
+        "Activar el chakra de salud.",
+        "Activar el chakra de encanto.",
+        "Esto es muy sospechoso. Mejor salgamos mientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláaajate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyy pinchazo!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡<i>Gulp!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Entrenador!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Quiero entrenar en serio! ¡Creo que<n>hasta puedo\nvencer a la Presidenta así!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Uff...</i> ¿Estás bromeando...? ¡¿En serio<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede seeer! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> está rebosante<n>de tanto\npoder que casi es<n>irreconocible!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia alcanzar nuestra meta!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Uf... No me siento muy bien... Todo se<n>está\nvolviendo oscuro..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de<n><chrname> se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿y esta hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que no debería tentar a la<n>suerte. No\nsoy quien sufre, pero estoy<n>lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláaajate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyy pinchazo!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡<i>Gulp!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puncture Perfect!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Entrenador!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Quiero entrenar en serio! ¡Creo que<n>hasta puedo\nvencer a la Presidenta así!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Uff...</i> ¿Estás bromeando...? ¡¿En serio<n>funcionó?!"
+    },
+    {
+      "name": "极Sasami Anshinzawa",
+      "text": "¡No puede seeer! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puedo sentir una gran mejora en las<n>\nhabilidades de <chrname>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "We took a chance and it paid off! This is<n>a great\nleap toward achieving our goal!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Uf... No me siento muy bien... Todo se<n>está\nvolviendo oscuro..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de<n><chrname> se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso fue todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Well, would you look at the time? I<n>should get\ngoing! Bye! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que no debería tentar a la<n>suerte. No\nsoy quien sufre, pero estoy<n>lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡极Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláaajate... ¿Ves? ¡Sin preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyy pinchazo!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡<i>Gulp!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Entrenador!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Quiero entrenar en serio! ¡Creo que<n>hasta puedo\nvencer a la Presidenta así!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Uff...</i> ¿Estás bromeando...? ¡¿En serio<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede seeer! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Todo el cuerpo de<n><chrname> irradia\nun brillo saludable! ¡Es la<n>viva imagen de la salud!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia alcanzar nuestra meta!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Trainer..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Uf... No me siento muy bien... Todo se<n>está\nvolviendo oscuro..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de<n><chrname> se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "So... That's that, I guess..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿y esta hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que no debería tentar a la<n>suerte. No\nsoy quien sufre, pero estoy<n>lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Wait, hold on."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now, just relaaax... See? No worries! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Yyy pinchazo!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡<i>Gulp!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Trainer!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Quiero entrenar en serio! ¡Creo que<n>hasta puedo\nvencer a la Presidenta así!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Uff...</i> ¿Estás bromeando...? ¡¿En serio<n>funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede seeer! ¡No lo puedo creer! ¡Soy un<n>genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡<chrname> está rebosante<n>de encanto!\n¡Seguro que llamará la atención<n>dondequiera que vaya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia alcanzar nuestra meta!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Uf... No me siento muy bien... Todo se<n>está\nvolviendo oscuro..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de<n><chrname> se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "So... That's that, I guess..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿y esta hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que no debería tentar a la<n>suerte. No\nsoy quien sufre, pero estoy<n>lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh, vamos! ¡No seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Pensarlo de nuevo."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! Espero que sepas que<n>a los intrusos <i>sí</i>\nse les procesará."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Se fue."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno... ¡Como si necesitara ayuda de<n>la\nacupuntura o algo así!",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo curiosidad de quién es esta<n>Anshinzawa\nrealmente, pero no tiene<n>sentido darle vueltas.\nMejor olvidar<n>hoy y seguir adelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Cambiaste de opinión, no? No<n>te preocupes,\n¡pasa!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces dime qué chakra quieres que<n>active!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Y bien?! ¡No nos dejes con la duda! Espera<n>\nun segundo... ¿Cuánto llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! Espero que sepas que<n>a los intrusos <i>sí</i>\nse les procesará."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Gah! I've been found out!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Welp, I'm outta here! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hey! Stop right there!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The situation takes a sharp turn before I<n>can\nmake a decision."
+    },
+    {
+      "name": "Monologue",
+      "text": "What was that all about?<n><chrname>\nand I look at<n>each other in bewilderment."
+    }
+  ]
+}

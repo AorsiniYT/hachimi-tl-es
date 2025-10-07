@@ -1,0 +1,57 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "I call Narita Brian over so I can give her<n>some fan\nmail."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oh, a fan letter."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "If that's everything, I'll be on my way.",
+      "choice_data_list": [
+        "Aren't you going to read it?",
+        "Aren't you going to read it?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Well..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "It's my letter. What I do with it is my<n>business,\nright?",
+      "choice_data_list": [
+        "Promise that you won't just throw it away, at\nleast!",
+        "Promise that you won't just throw it away, at\nleast!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Huh?! Of course I won't!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I'm just not going to read it here. That's<n>all I\nmeant."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I'd never throw away a letter from a fan..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "So, we good? I'm going."
+    },
+    {
+      "name": "Monologue",
+      "text": "Narita Brian carefully puts the fan letter<n>in her\npocket, then leaves brusquely."
+    }
+  ]
+}

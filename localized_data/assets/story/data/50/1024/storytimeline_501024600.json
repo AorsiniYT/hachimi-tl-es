@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mayano Top Gun está haciendo<n>práctica\nmental justo antes de su carrera..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Así que si alguien se interpone,<n>frenaré\nde golpe y...",
+      "choice_data_list": [
+        "(Se ve realmente concentrada.)",
+        "(Se ve realmente concentrada.)"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...¡¿Eh?! ¿Entrenador?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Guau, me asustaste! No tenía idea<n>de que\nestuvieras aquí. ¿Qué pasa?",
+      "choice_data_list": [
+        "Te veías súper concentrada.",
+        "Te veías súper concentrada."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Sí, supongo. Es que mi corazón no<n>deja de\nlatir fuerte."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero... ¡pronto serás tú el que esté en<n>otro\nmundo, Entrenador!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Definitivamente quedarás<n>embelesado con\nmi forma de correr! ♪"
+    }
+  ]
+}

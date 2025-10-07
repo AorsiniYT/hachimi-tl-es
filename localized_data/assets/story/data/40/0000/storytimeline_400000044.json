@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡<chrname> ha sufrido una<n>lesión\ngrave!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Debería hacer que se concentre en<n>mejorar o\nempujar a través del dolor...",
+      "choice_data_list": [
+        "El tratamiento debería ser primero.",
+        "¡El dolor es debilidad que abandona el cuerpo!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido concentrarme en tratar sus<n>lesiones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> parece sentirse<n>un poco\ndeprimida porque<n>no puede hacer ejercicio..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No hay tiempo que perder! Endurezco<n>mi corazón y\ndecido hacer que<n><chrname> empuje a\ntravés del<n>dolor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero se fuerza demasiado y su lesión<n>empeora..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y la lesión se cura milagrosamente!<n>¡La práctica\nsale perfectamente!"
+    }
+  ]
+}

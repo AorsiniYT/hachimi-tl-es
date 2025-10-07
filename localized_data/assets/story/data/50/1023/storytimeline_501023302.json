@@ -1,0 +1,334 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es de noche, y Biwa Hayahide y<n>yo acabamos<n>de terminar de comprar algunos<n>suministros de\nentrenamiento. Estamos<n>de camino a casa,<n>cuando..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mmm? Parece que algo está pasando<n>por allá..."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Acérquense y prueben suerte con<n>nuestra rifa de\nAño Nuevo! ¡El gran premio<n>de este año son\nunas vacaciones en<n>aguas termales para dos!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Los ganadores del primer premio<n>reciben un\nfilete de hamburguesa de<n>zanahoria de lujo!\n¡Los del segundo premio<n>obtienen un montón de\nzanahorias!<n>¡Y los del tercer premio se\nllevan una<n>sola zanahoria!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡No dejen pasar esta oportunidad!<n>¡Consigan un\nboleto ahora y giren para<n>tener la chance de\nganar!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Una rifa, ¿eh? ¿No recibimos algo<n>que parecía un\nboleto de rifa en la<n>tienda?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ya que tenemos uno, ¿por qué no<n>lo—",
+      "choice_data_list": [
+        "¡Sal y gana algo grande, Hayahide!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Quieres que <i>yo</i> suba ahí?",
+      "choice_data_list": [
+        "¿Acaso no quieres?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡No es eso! Es que... no había<n>considerado ir\nyo misma."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Usualmente soy la que observa cómo<n>se desarrollan\nlas cosas, no la que<n>participa en el evento...",
+      "choice_data_list": [
+        "¿Siempre dejabas que Brian robara la atención?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bueno, sí... Siempre era tan dulce<n>cuando ganaba\nalgo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Cuando todavía era callada y tímida,<n>la única vez\nque se emocionaba y<n>gritaba era cuando\nganaba algo.",
+      "choice_data_list": [
+        "Bueno, hoy te toca a ti emocionarte.",
+        "Bueno, hoy te toca a ti emocionarte."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Em... Me odiaría decepcionarte, pero<n>no creo que\neso vaya a pasar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide reúne valor, se acerca<n>al tambor de\nla rifa y le da una<n>vuelta a la manivela."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae<n>por la\nabertura del tambor..."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Santo cielo! ¡Tenemos una ganadora<n>del gran\npremio! ¡Vengan por su<n>cupón para las\nvacaciones en<n>aguas termales!\n¡Felicidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡¿Gané el gran premio?!",
+      "choice_data_list": [
+        "¡Qué increíble!",
+        "¡Qué increíble!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "E-en efecto..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "E-estoy bien. Solo sigo en shock..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Las probabilidades parecen<n>imposibles. Debe\nhaber 300 bolas en la<n>máquina, y de esas,\nno puede haber muchas<n>para el gran premio—"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Así es! ¡Solo hay <i>una</i> bola para el<n>gran premio!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡¿Superamos probabilidades de<n>300 a 1 en el\nprimer intento?!",
+      "choice_data_list": [
+        "¡Vaya suerte!",
+        "¡Vaya suerte!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "S-supongo..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero vaya, un voucher para unas<n>vacaciones en\naguas termales...<n>Sería lindo ir cuando las\ncosas se calmen.",
+      "choice_data_list": [
+        "¿Quieres ir?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Oh! ¡Lo siento! Este premio también<n>es tuyo, así\nque por supuesto que<n>puedes invitar a quien\nquieras. No sé<n>por qué asumí que sería yo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿En qué estaba pensando? Supongo<n>que todavía\nestoy en shock.",
+      "choice_data_list": [
+        "No me molesta si quieres usarlo para ti.",
+        "No me molesta si quieres usarlo para ti."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡¿Qué?! ¡¿Estás bien con que me lo<n>quede?! Hm..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bien, ¿qué tal esto? Después de que<n>termine la\nTwinkle Series, podemos<n>pensar más en cuál de\nnosotras debería<n>usarlo y cómo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y si ambas estamos libres...<n>Bueno, ya\ncruzaremos ese puente<n>cuando lleguemos a él."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, Biwa Hayahide guarda el<n>voucher con\nmucho cuidado."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Parece que tenemos otro ganador<n>del primer\npremio!\n¡Felicidades! ¡Obtienes un<n>filete de\nhamburguesa de<n>zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Yay! ¡Gané algo!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Jeje! No puedo creer que en<n>realidad gané—"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ejem... Sí, bueno, ahora ciertamente<n>puedo ver\ncómo uno podría<n>emocionarse un poco al\nganar el primer<n>premio."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ganamos esto con ese boleto que<n>conseguimos en\nla tienda de<n>suministros, así que..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Creo que lo justo es que lo dividamos.",
+      "choice_data_list": [
+        "¿Estás segura?",
+        "¿Estás segura?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Por supuesto! Pero solo si prometes<n>no decirle a\nnadie sobre mi pequeño<n>arranque aquí.",
+      "choice_data_list": [
+        "Ah, así que es una especie de soborno."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡N-no! Solo... por favor no se lo digas<n>a nadie."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Si Brian se enterara de que actué como<n>una niña\npequeña por una rifa...<n>Uf, todo sería\ndemasiado<n>vergonzoso..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Prometo llevarme su secreto a la<n>tumba, y\ndisfrutamos del filete de<n>hamburguesa juntos."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Tenemos un ganador del segundo<n>premio! ¡Es tu\ndía de suerte!\n¡Te vas a casa con un<n>montón de zanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Vaya, esto es... muchas zanahorias.<n>Bueno, supongo\nque no necesitaré<n>comprar por un tiempo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ya que tengo tantas, me gustaría<n>darte algunas\ncomo un pequeño<n>gesto de gratitud por todo\ntu arduo<n>trabajo!",
+      "choice_data_list": [
+        "¿Y qué hay de Ticket y Taishin por allá?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Me leíste la mente. Planeaba<n>compartir\nalgunas con ellas también."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Ticket! ¡Taishin! ¡Por aquí!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Graciasss!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Jeje! Cuidado, Entrenador. Asegúrate<n>de que no te\ntumbe cuando venga<n>volando por acá—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Crash!</i>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Oh, cielos! ¡¿Están bien?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así es como terminamos<n>compartiendo un\nmontón entero de<n>zanahorias con Winning\nTicket y Narita<n>Taishin."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Miren aquí! ¡Ganaron el tercer<n>premio! ¡Aquí\ntienen su zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Yay!",
+      "choice_data_list": [
+        "¡Lo lograste!",
+        "¡Lo lograste!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>¡Jadeo!</i>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ejem... Sí, bueno, ganar el tercer<n>premio es toda\nuna hazaña."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decidimos dividir el premio, así que<n>cada una\ntiene media zanahoria."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Ohhh, mala suerte! Parece que<n>sacaron uno en\nblanco! Tomen este paquete<n>de pañuelos como\npremio de<n>consolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué? ¿Solo obtengo un paquete de<n>pañuelos?",
+      "choice_data_list": [
+        "Simplemente no era tu día de suerte.",
+        "Simplemente no era tu día de suerte."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "S... supongo que no. Pero aprendí<n>algo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Brian solía quedar destrozada<n>cuando no\nganaba. Pensaba que era<n>adorable cada vez que\nse marchitaba<n>así."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero ahora entiendo lo<n>decepcionante que se\nsiente no ganar nada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Consuelo a Biwa Hayahide mientras<n>reanudamos\nnuestro camino a casa..."
+    }
+  ]
+}

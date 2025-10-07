@@ -1,0 +1,537 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, llevo a <chrname><n>a la enfermería\npara un chequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! ¡Una custo—digo, una estudiante! ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás lastimada? ¿Enferma? ¿Estresada? Lo que<n>sea, ¡yo\ntrato todo!",
+      "choice_data_list": [
+        "¡¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la<n>enfermería de\nla academia, diría que soy tu<n>enfermera escolar\nconfiable. ¡Sip, solo una<n>empleada escolar\ncomún!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajajá! Supongo que no puedo engañarte. Me<n>imagino que\ndebo empezar por darte mi<n>nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ejem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (posible) salvadora de todas<n>las Umamusume, la\n(autoproclamada)<n>acupunturista legendaria con\nel toque<n>mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única Sasami Anshinzawa!<n>¿Ves? ¡Sin\npreocupaciones! ☆",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Basándome en la actividad sospechosa<n>de este\nindividuo, he determinado que<n>es un intruso.\nSolicito permiso para<n>llamar a las autoridades."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya! ¡Pareces muy preocupada! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos<n>presentamos, así\nque acuéstate y déjame<n>poner estas agujas a\ntrabajar."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Me niego a tener contacto con individuos<n>en quienes\nmi entrenadora no confía."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay que asustarse! Solo<n>voy a\ninsertar estas extraordinarias<n>agujas\nprecisamente en tus puntos<n>de chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y voilà, presto! ¡Algo<n>indescriptible\nocurrirá!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y déjame asegurarte que no hay<n>absolutamente\nnada sospechoso en<n>esto. ¡Nunca ha salido\nmenos que<n>perfectamente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestro.",
+      "choice_data_list": [
+        "¡¿Para tu maestro?! ¡¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Es mi primera vez, así<n>que\ntécnicamente, ¡nunca he<n>fallado a una\npaciente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es que no tenga experiencia! Pasé<n>diez años\nbajo un maestro legendario,<n>consiguiendo gotas—digo,\n¡entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí, ya!)"
+      ]
+    },
+    {
+      "text": "No hay forma de que hagamos esto. Tomo a<n>\n<chrname> y me dirijo a la<n>puerta,\ncuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¡¿Adónde vas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿No eres Mihono Bourbon?! ¡¿Aquella que<n>es\nfuerte como un cyborg y se<n>somete a un\ntrenamiento feroz con una<n>pasión ardiente en su\ncorazón?!",
+      "choice_data_list": [
+        "¿Has oído de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Si he oído de ella? ¡Claro que sí!<n>¡Soy una gran\nfan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por eso mismo estoy aquí! ¡Para darte mi<n>apoyo!\n¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Solo dame una oportunidad! ¡Por fiis!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Detectando entusiasmo de este<n>personaje\nsospechoso...<n>Estado—\"compasiva.\""
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Por favor con zanahoria<n>encima! ¡Hasta\nte dejaré elegir qué<n>chakra activo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Estoy <i>segura</i> de que no la voy a regar!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... bastante segura.",
+      "choice_data_list": [
+        "¡¿Bastante segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Digo, ¡está del lado de lo seguro! Eso es<n><i>bueno</i>,\n¿verdad? En fin, ¡no te<n>detengas en los\ndetalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra<n>debería activar?\n¿Quieres un impulso a<n>tus habilidades? ¿Tu\nsalud? ¿O tal vez<n>tu <i>encanto?</i>"
+    },
+    {
+      "text": "Huelo peligro en el aire, pero calculo<n>que\ntal vez—y enfatizo <i>tal vez</i>—haya<n>una\noportunidad de obtener algo<n>especial de este\ntratamiento."
+    },
+    {
+      "text": "¿Qué deberíamos hacer?",
+      "choice_data_list": [
+        "Activar el chakra de fuerza.",
+        "Activar el chakra de la victoria.",
+        "Activar el chakra de salud.",
+        "Activar el chakra de encanto.",
+        "Esto es muy sospechoso. Mejor salgamos mientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que<n>active el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de<n>localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin<n>preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
+    },
+    {
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reporte de estado."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "La mejora fue exitosa. Los parámetros<n>mentales y\nfísicos han mejorado<n>enormemente,\npermitiéndome<n>rendir a un nivel que\nsupera mis límites."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Ay...</i> ¿Estás bromeando...? ¿En<n>serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy<n>un genio\ntotal!"
+    },
+    {
+      "text": "<chrname> está rebosante<n>de tanto\npoder que casi es<n>irreconocible."
+    },
+    {
+      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reporte de estado."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Emergencia... Sistemas fallando...<n>Solicitando\nintervención inmediata..."
+    },
+    {
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... supongo que eso fue todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí saberlo mejor que tentar a la<n>suerte. No soy\nquien sufre, pero estoy<n>lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que<n>active el\nchakra de la victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de<n>localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin<n>preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
+    },
+    {
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reporte de estado."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "La mejora fue exitosa. Los parámetros<n>mentales y\nfísicos han mejorado<n>enormemente,\npermitiéndome<n>rendir a un nivel que\nsupera mis límites."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Ay...</i> ¿Estás bromeando...? ¿En<n>serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy<n>un genio\ntotal!"
+    },
+    {
+      "text": "¡Puedo sentir una gran mejora en las<n>\nhabilidades de <chrname>!"
+    },
+    {
+      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reporte de estado."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Emergencia... Sistemas fallando...<n>Solicitando\nintervención inmediata..."
+    },
+    {
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... supongo que eso fue todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí saberlo mejor que tentar a la<n>suerte. No soy\nquien sufre, pero estoy<n>lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que<n>active el\nchakra de salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de<n>localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin<n>preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
+    },
+    {
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reporte de estado."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "La mejora fue exitosa. Los parámetros<n>mentales y\nfísicos han mejorado<n>enormemente,\npermitiéndome<n>rendir a un nivel que\nsupera mis límites."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Ay...</i> ¿Estás bromeando...? ¿En<n>serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy<n>un genio\ntotal!"
+    },
+    {
+      "text": "¡Todo el cuerpo de <chrname><n>irradia un\nbrillo saludable! ¡Es la<n>imagen absoluta de la\nsalud!"
+    },
+    {
+      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reporte de estado."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Emergencia... Sistemas fallando...<n>Solicitando\nintervención inmediata..."
+    },
+    {
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... supongo que eso fue todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí saberlo mejor que tentar a la<n>suerte. No soy\nquien sufre, pero estoy<n>lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Así que quieres que<n>active el\nchakra de encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguarda."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de<n>localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo reláájate... ¿Ves? ¡Sin<n>preocupaciones! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
+    },
+    {
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reporte de estado."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "La mejora fue exitosa. Los parámetros<n>mentales y\nfísicos han mejorado<n>enormemente,\npermitiéndome<n>rendir a un nivel que\nsupera mis límites."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Ay...</i> ¿Estás bromeando...? ¿En<n>serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy<n>un genio\ntotal!"
+    },
+    {
+      "text": "¡<chrname> está rebosante<n>de encanto!\n¡Seguro que llamará la atención<n>dondequiera que\nvaya!"
+    },
+    {
+      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reporte de estado."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Emergencia... Sistemas fallando...<n>Solicitando\nintervención inmediata..."
+    },
+    {
+      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... supongo que eso fue todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí saberlo mejor que tentar a la<n>suerte. No soy\nquien sufre, pero estoy<n>lleno de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Ay, vamos! ¡No seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Reconsiderar."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú ahí! Espero que sepas que<n>a los\nintrusos <i>sí</i> se les<n>procesará."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tratamiento de acupuntura no<n>identificado\nevadido. Los tratamientos<n>innecesarios\nconducen a errores, y por<n>lo tanto deben\nrechazarse."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Demostraremos que no hay atajos<n>cuando se\ntrata de trabajo duro.",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "text": "Tengo curiosidad sobre quién es<n>realmente este\npersonaje Anshinzawa, pero<n>no sirve de nada\nrumiarlo. Mejor olvidar<n>lo de hoy y seguir\nadelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Cambiaste de opinión, eh? No<n>pasa nada, ¡suele\nocurrir!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Adelante, dime qué chakra quieres que<n>active\nentonces!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Bueno?! ¡No nos dejes en suspenso!<n>Espera un\nsegundo... ¿Cuánto tiempo llevo<n>aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú ahí! Espero que sepas que<n>a los\nintrusos <i>sí</i> se les<n>procesará."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "text": "La situación da un giro brusco antes de<n>que pueda\ntomar una decisión."
+    },
+    {
+      "text": "¿De qué trataba todo eso?<n><chrname>\ny yo nos<n>miramos perplejos."
+    }
+  ]
+}

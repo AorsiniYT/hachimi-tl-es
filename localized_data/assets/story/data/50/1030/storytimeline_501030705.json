@@ -1,0 +1,191 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de una salida en nuestro día<n>libre, acompaño a Rice Shower de<n>regreso a casa."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Me divertí hoy, hermano mayor."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Me divertí hoy, hermana mayor."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oye! ¿Eres tú, Rice? ¡Qué buena timing!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Eep! ¿H-Hishiama? ¿Q-qué pasa?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Oh, perdón. No quise asustarte."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Esperaba que vinieras a echarme una<n>mano en la cocina."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Te refieres a cocinar?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Sí, ¿recuerdas? Hoy es el día que<n>invito a todos en nuestro dormitorio<n>a comer algo casero."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Acabo de comprar montones de<n>ingredientes y necesito ayuda!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-em... ¿Pero y si hago un desastre?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Eh? Oh, ¿hablas de lo que<n>pasó la última vez?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Así es, la cocina estaba blanca como<n>la nieve, ¿verdad? Pero ¡esa bolsa de<n>harina ya estaba rota, sabes!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Esa clase de cosas pasan todo el<n>tiempo! Además, fue más gracioso<n>que otra cosa."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oh, ya sé! Deberías hacer esas<n>croquetas otra vez. ¡Eran para<n>chuparse los dedos!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Me <i>encantaría</i> probarlas de<n>nuevo... ¿Qué dices? ¿Me<n>ayudarías?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "P-pero... solo voy a hacer un desastre...",
+      "choice_data_list": [
+        "Quiero probar tus croquetas.",
+        "Solo piensa que es ayudar a una amiga."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿De verdad?",
+      "choice_data_list": [
+        "¡Claro que sí!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿D-de verdad? Jeje, bueno, en ese caso..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Haré un montón y te traeré algunas<n>otro día."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Otro día? ¿Qué tal ahora? Estoy<n>bastante segura de que tenemos los<n>ingredientes."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "En ese caso... ¡Deberías unirte a<n>nosotras, hermano mayor! ¡Así<n>podrás comerlas recién hechas!",
+      "choice_data_list": [
+        "¡Bien! ¡Y yo también ayudaré a cocinar!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "En ese caso... ¡Deberías unirte a<n>nosotras, hermana mayor! ¡Así<n>podrás comerlas recién hechas!",
+      "choice_data_list": [
+        "¡Bien! ¡Y yo también ayudaré a cocinar!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Yay!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Esperen un momento, ustedes dos!<n>¡Saben que los entrenadores no<n>pueden entrar al dormitorio!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Eh?! Oh, es cierto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pruebo una de las croquetas de Rice<n>Shower unos días después. Son tan<n>deliciosas como me imaginaba."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "No sé si puedo ser de ayuda...",
+      "choice_data_list": [
+        "Pero ella está contando contigo."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-está bien... Hishiama, quizá solo<n>estorbe, pero—"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Está bien! ¡A quién le importa si<n>revienta una o dos bolsas de harina!<n>¡Mientras estés ayudando!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Sabes, Rice... Tienes una buena<n>entrenadora, ¿eh?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "No hace mucho, te encerrabas en tu<n>habitación cada vez que pasaba<n>algo malo."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Me preocupaba si podrías encontrar<n>una entrenadora adecuada... je."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡La encontré! Hermano mayor es<n>muy amable y confiable...",
+      "choice_data_list": [
+        "Esto es un poco vergonzoso..."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡La encontré! Hermana mayor es<n>muy amable y confiable...",
+      "choice_data_list": [
+        "Esto es un poco vergonzoso..."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Ja, estás totalmente sonrojada!<n>¡Sigue con los cumplidos, Rice!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡E-está bien! ¡Puedo hablar por<n>siempre de las buenas cualidades de<n>hermano mayor!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡E-está bien! ¡Puedo hablar por<n>siempre de las buenas cualidades de<n>hermana mayor!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Es trabajador, inteligente, tiene una<n>sonrisa adorable..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Es trabajadora, inteligente, tiene una<n>sonrisa adorable..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower continúa con los<n>cumplidos por un rato más."
+    }
+  ]
+}

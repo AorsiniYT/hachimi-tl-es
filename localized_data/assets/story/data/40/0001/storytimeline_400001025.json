@@ -1,0 +1,134 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, durante el entrenamiento..."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "He notado que tus sesiones de<n>entrenamiento<n>recientes se han centrado en<n>mejorar la<n>respiración de tu aprendiz<n>durante la carrera."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "También te has dedicado al<n>entrenamiento en<n>pendiente, que desarrolla resistencia<n>y enfatiza la<n>aguante sobre la velocidad..."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¿Estarás planeando quizás correr una<n>carrera de larga distancia?"
+    },
+    {
+      "name": "Entrenadora Hábil A",
+      "text": "Ajaja... Me pillaste allí. Todavía no se<n>ha anunciado<n>públicamente, así que ¿podrías<n>mantener eso fuera del registro?"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Por supuesto. Estoy aquí para preguntar<n>sobre el<n>progreso de tu aprendiz, nada más."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Ah, entrenador<n><username>.<n>Es agradable verte de nuevo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Otonashi está aquí para<n>realizar<n>entrevistas para su revista, pero<n>estoy notando algo...",
+      "choice_data_list": [
+        "Sabes mucho sobre Umamusume."
+      ]
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Bueno, <i>soy</i> una reportera. Es mi trabajo<n>tener una<n>cierta cantidad de conocimiento<n>de fondo."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Cuanto más conocimiento tenga sobre el<n>tema,<n>mejores artículos podré escribir."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que la señorita Otonashi se toma el<n>tema de las<n>Umamusume más en serio de lo que<n>pensaba."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡Ah! Me disculpo. Solo he estado<n>hablando de mí misma."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Ya que tenemos la oportunidad, ¿te<n>importaría si te<n>pregunto sobre tu aprendiz?"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¿Cuál dirías que es tu próximo obstáculo?<n>No tiene que<n>ser nada grande."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de que insiste en que es solo una<n>reportera, su<n>experticia podría ser útil.",
+      "choice_data_list": [
+        "Estamos intentando trabajar en la fuerza.",
+        "Estamos intentando trabajar en la velocidad."
+      ]
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¿Fuerza, dices? ¡Eso es... simplemente<n>asombroso!",
+      "choice_data_list": [
+        "¿Perdón?"
+      ]
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "El entrenamiento en pendiente y con<n>peso son ambas<n>formas efectivas de desarrollar fuerza."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡Pero lo más importante de todo es la<n>dieta! Los<n>músculos fuertes y flexibles se<n>hacen en la cocina!"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡Así que debes estar cazando los<n>mejores<n>ingredientes! Hablo de cerdo<n>okinawano longevo,<n>nidos de golondrina en acantilados,<n>y peces de aguas profundas del<n>fondo del océano...<n>Ah, ¡qué devoción!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Creo que podría haber entendido mal<n>allí, pero sus<n>comentarios sobre la dieta son muy<n>útiles.)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El pescado de aguas profundas podría<n>estar un poco<n>fuera de mi presupuesto, pero luego<n>atrapo un pescado blanco que es bueno<n>para desarrollar músculo y<n>se lo sirvo a\n<chrname>."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¿Velocidad, dices? Eso es..."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡Simplemente asombroso!",
+      "choice_data_list": [
+        "¿Perdón?"
+      ]
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Si buscas velocidad, es importante<n>gestionar tu<n>porcentaje de grasa corporal<n>y reducir tu peso sin perder<n>músculo..."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Sin embargo, eso puede ser muy<n>difícil, y<n>algunas Umamusume incluso se<n>enferman por el estrés."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡Por eso debes hacer un esfuerzo para<n>evitar que tu<n>aprendiz se estrese!"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡Así que debes estar ahorrando en<n>nada! Hablo de<n>alquilar parques de diversiones,<n>cruceros de lujo, y viajes por<n>carretera al extranjero<n>transcontinentales... Ah, ¡qué devoción!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Creo que podría haber entendido mal<n>allí, pero sus<n>comentarios sobre reducir el<n>porcentaje de grasa corporal son muy<n>útiles.)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los cruceros y viajes al extranjero<n>podrían estar un<n>poco fuera de mi presupuesto, pero<n>me aseguro de darle a\n<chrname> la<n>oportunidad de relajarse como<n>recompensa por superar nuestro<n>agotador entrenamiento."
+    }
+  ]
+}
