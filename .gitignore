@@ -1,12 +1,13 @@
 /.vscode/settings.json
 /.venv
 __pycache__
-.env
 /logs
 /tools
 /update_logs
 /localized_data_es
+/localized_data_en
 /localized_data_update
 /localized_data_temp
 tmp_test.py
 translate_gui.bat
+.env
