@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "He tenido un día agotador, yendo y<n>viniendo de la academia para<n>prepararme para<n>las pruebas de mañana."
+      "text": "He tenido un día agotador, entrando y saliento de la academia para preparar\nlas pruebas de mañana."
     },
     {
       "name": "Monólogo",
-      "text": "Será un gran evento, especialmente para<n>las corredoras que esperan ser<n>reclutadas. Mientras camino a<n>casa sintiéndome nervioso por mañana, me<n>topo con una<n>escena curiosa."
+      "text": "Será un gran evento, especialmente para<n>las corredoras que esperan ser<n>reclutadas.\nMientras camino a casa sintiéndome nervioso por mañana\nme topo con una escena curiosa."
     },
     {
       "name": "Smart Falcon",
@@ -19,11 +19,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "No está vestida para ello ni tiene un<n>micrófono—sin mencionar la<n>completa falta de<n>público."
+      "text": "No está arreglada ni siquiera tiene un micrófono —y ni hablar\nde la completa ausencia de público."
     },
     {
       "name": "Monólogo",
-      "text": "A pesar de todo, está cantando y<n>bailando con el corazón, casi<n>pareciendo<n>brillar mientras el sol de la tarde la<n>ilumina."
+      "text": "A pesar de todo, lo da todo al cantar y bailar, casi parece\nbrillar cuando la luz del atardecer la alumbra."
     },
     {
       "name": "Smart Falcon",
@@ -35,37 +35,37 @@
     },
     {
       "name": "Monólogo",
-      "text": "Me detengo a observarla—no por<n>fatiga, sino por el puro encanto<n>que emana. Verla<n>sonreír de alguna manera me llena de<n>energía, tanto física como mentalmente.",
+	"text": "Me detengo a observarla—no por<n>fatiga, sino por el puro encanto\nque emana. Verla sonreír de alguna manera me llena de energía\ntanto física como mentalmente.",
       "choice_data_list": [
-        "(¿Sabes qué...? ¡Tal vez pueda hacer un poco más de trabajo!)",
-        "(¿Sabes qué...? ¡Tal vez pueda hacer un poco más de trabajo!)"
+        "(Quizás pueda esperar un poco mi trabajo...)",
+        "(Quizás pueda esperar un poco mi trabajo...)"
       ]
     },
     {
       "name": "Monólogo",
-      "text": "Aunque no puedo quedarme hasta el<n>final, le doy un aplauso como<n>agradecimiento por su<n>actuación energizante."
+      "text": "Aunque no puedo quedarme hasta el final, le doy un aplauso como\nagradecimiento por su actuación energizante."
     },
     {
       "name": "Monólogo",
-      "text": "Finalmente llega el día de las pruebas.<n>Emocionado por ver qué traerá la<n>nueva tanda de<n>corredoras, me dirijo a la academia con<n>ánimos altos."
+      "text": "Finalmente llega el día de las pruebas. Emocionado por ver qué traerá la\nnueva tanda de corredoras, me dirijo a la academia con ánimos altos."
     },
     {
       "name": "Smart Falcon",
-      "text": "Voz, check. Micrófono de aire, check.<n>Volantes, check. ¡Perfecto! ¡Creo que<n>estoy lista! ☆",
+      "text": "Voz, comprobada. Micrófono, comprobado. Parlantes, comprobados.\n¡Perfecto! ¡Creo que estoy lista! ☆",
       "choice_data_list": [
         "(Espera, ¿no la vi ayer?)"
       ]
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Hola, todooos! ¡Perdón por la espera!<n>¡Soy yo, Smart Falcon! ¡Espero<n>hacer latir sus<n>corazones hoy! ☆",
+      "text": "¡Holaaa a todoooos! ¡Perdón por hacerles esperar!\n¡Soy yo, Smart Falcon! ¡Espero hacerles latir el corazón hoy! ☆",
       "choice_data_list": [
         "...?!"
       ]
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Es hora del show especial de Falco, así<n>que aquiii vaamos! Primero,<n>quiero escucha—"
+      "text": "¡Es hora del show especial de Falco, así que aquiii vaamos!\nPrimero,quiero escucha—"
     },
     {
       "name": "Smart Falcon",
@@ -84,26 +84,26 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Pero te fuiste a la mitad de mi show, así<n>que perdí la oportunidad. Me dio un<n>poco de pena que<n>no miraras hasta el final, pero ¡gracias<n>por los aplausos! ☆",
+      "text": "Pero te fuiste a mitad de mi show, así que perdí mi oportunidad.\nMe puse un poco triste porque no te quedaste hasta el final\npero gracias por los aplausos! ☆",
       "choice_data_list": [
         "E-espera un momento..."
       ]
     },
     {
       "name": "Maestra A",
-      "text": "¿Qué—Smart Falcon! ¡Otra vez estás<n>haciendo uno de tus conciertos<n>relámpago,<n>¿verdad?!"
+      "text": "¿Qué—Smart Falcon!\n¡Otra vez estás haciendo uno de tus conciertos relámpago, ¿verdad?!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Uy, me pilló otra vez. ☆"
+      "text": "Ups, me atrapó otra vez. ☆"
     },
     {
       "name": "Maestra A",
-      "text": "¡Esta es la decimoquinta vez este mes!<n>¡Me vas a volver loca con todos<n>estos actos<n>\"tiernos y brillantes\" tuyos!"
+      "text": "¡Esta es la decimoquinta vez este mes!\n¡Me vas a volver loca con todos estos actos \"tiernos y brillantes\" tuyos!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Oh, um, ¡parece que te has vuelto fan!<n>¡Gracias por tu apoyo! ☆ ¡Pero no<n>puedo decir que me<n>guste esa actitud enojada! ☆"
+      "text": "Oh, eh, ¡parece que te has vuelto fan! ¡Gracias por tu apoyo! ☆\n¡Pero no puedo decir que me guste esa actitud enojada! ☆"
     },
     {
       "name": "Smart Falcon",
@@ -114,7 +114,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "No tengo idea de qué está pasando.<n>Arrastrado por el momento, termino<n>siguiendo a Smart<n>Falcon."
+      "text": "No tengo idea de lo que está pasando. Arrastrado por el momento,\ntermino siguiendo a Smart<n>Falcon."
     },
     {
       "name": "Maestra A",
@@ -129,11 +129,11 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Cielos, eso fue agotador! ☆ ¿Estás<n>bien? ¡Gracias por quedarte conmigo! ♪"
+	"text": "¡Cielos, eso fue agotador! ☆\nEstás<n>bien? ¡Gracias por quedarte conmigo! ♪"
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Permíteme presentarme de nuevo! Me<n>llamo Smart Falcon, y soy una<n>Umadol! ¡Puedes<n>llamarme Falco! ♪",
+      "text": "¡Permíteme presentarme de nuevo!\nMe llamo Smart Falcon, ¡y soy una Umadol!\nPero puedes<n>llamarme Falco. ♪",
       "choice_data_list": [
         "¿Eres una qué?"
       ]
@@ -144,15 +144,15 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Las Umadols corren como las Umamusume<n>normales... pero también<n>inspiran a su<n>audiencia durante conciertos victoriosos<n>brillando en el escenario—¡como<n>una idol!"
+      "text": "Las Umadol corren como las Umamusume normales... \npero también inspiran a su público durante los conciertos de victoria\nal brillar en el escenario— ¡como una idol!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Mi sueño es convertirme en una Umadol<n>top algún día. ¡Por eso hago lo<n>que puedo para<n>darme a conocer todos los días! ☆"
+      "text": "Mi sueño es llegar a ser una gran Umadol algún día.\nPor eso hago lo que puedo para darlo a conocer todos los días. ☆"
     },
     {
       "name": "Smart Falcon",
-      "text": "Pero bueno... no tengo entrenador en<n>este momento, así que no creo que<n>vaya a correr<n>pronto, ni mucho menos dar conciertos..."
+      "text": "Pero bueno... ahora mismo no tengo entrenador, así que no creo que\nvaya a correr pronto, y mucho menos a dar conciertos..."
     },
     {
       "name": "Smart Falcon",
@@ -175,7 +175,7 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "¿Quién hubiera pensado que mi primera<n>fan resultaría ser una entrenadora?!<n>¡Qué giro<n>dramático de eventos—perfecto para una<n>Umadol! ☆",
+      "text": "¿Quién iba a pensar que mi primer fan sería un entrenador?!\n¡Qué giro tan dramático—perfecto para una Umadol! ☆",
       "choice_data_list": [
         "Ehhh..."
       ]
@@ -189,11 +189,11 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "¿Oh, no tienes pluma? ¡Está bien! Yo me<n>aseguro de llevar una siempre<n>conmigo, junto<n>con un contrato completo! Después de<n>todo, ¡nunca sabes cuándo te<n>reclutarán! ☆"
+      "text": "¿No tienes bolígrafo? ¡No importa! Me aseguro de llevar uno conmigo en todo\nmomento, junto con un contrato completo.\n¡Al fin y al cabo, nunca sabes cuándo podrías ser descubierta! ☆"
     },
     {
       "name": "Monólogo",
-      "text": "A este paso, me hará su entrenadora a<n>la fuerza... Debería conocerla<n>antes de que esto vaya más lejos.",
+      "text": "A este ritmo, me va a convertir en su entrenador por la fuerza...\nDebería conocerla mejor antes de que esto avance más.",
       "choice_data_list": [
         "¿Podría al menos verte correr primero?"
       ]
@@ -230,11 +230,11 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Muy bien, ¡correré! Pero debes prometer<n>que me mirarás todo el<n>tiempo, ¿entendido? ☆"
+      "text": "Está bien, ¡correré! Pero tienes que prometer\nque me vas a mirar todo el tiempo, ¿entendido? ☆"
     },
     {
       "name": "Monólogo",
-      "text": "Smart Falcon parece esforzarse<n>demasiado por motivarse. Justo cuando<n>estoy a punto de<n>preguntarle por qué—"
+      "text": "Parece que Smart Falcon se está esforzando un poco demasiado por animarse.\nJusto cuando estoy a punto de<n>preguntarle por qué—"
     },
     {
       "name": "Maestra A",
@@ -242,11 +242,11 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Vaya, se está volviendo más rápida!<n>Lo siento, ¡pero me tengo que ir ya!<n>¡Nos vemos luego!"
+      "text": "¡Guau, se está volviendo más rápida! Perdón, pero<n>tengo que irme ahora.\n¡Nos vemos!"
     },
     {
       "name": "Monólogo",
-      "text": "...Al final, decido ver qué tan bien<n>correrá esta autoproclamada<n>Umadol en la<n>pista."
+      "text": "...Al final, decido ver qué tan bien corre en la pista\nesta autoproclamada Umadol."
     }
   ]
 }
