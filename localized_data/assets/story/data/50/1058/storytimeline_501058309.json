@@ -2,271 +2,285 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "メイショウドトウ",
-      "text": "ふぅ……。やりましたぁ、トレーナーさん。\nクラシックシーズン、おかげでどうにか\n乗り越えられましたぁ。"
+      "name": "Meisho Doto",
+      "text": "Puf... Lo logré, Entrenador. Con tu ayuda,<n>conseguí superar\nla temporada de Clásicos."
     },
     {
-      "text": "『菊花賞』を過ぎて。メイショウドトウとの\r\n活動は無事続けられることとなった。"
+      "name": "Monólogo",
+      "text": "Tras la Kikuka Sho, continúo<n>apoyando a Meisho Doto en todos sus<n>esfuerzos."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "こうして、がんばれてるのは、\nトレーナーさんと……オペラオーさん、\nアヤベさんのおかげです。"
+      "name": "Meisho Doto",
+      "text": "Solo pude llegar hasta aquí gracias a ti,<n>Entrenador... Junto con Opera O y<n>Ayabe."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "レースに懸ける気持ち……2人にはぜんぜん\r\nかなわないですけど、そろそろ……。",
+      "name": "Meisho Doto",
+      "text": "No tengo ni la mitad de la pasión que esos<n>dos tienen\npero... quizás es hora...",
       "choice_data_list": [
-        "そろそろ……大きな目標立ててみるか？",
-        "そろそろ……大きな目標立ててみる？"
+        "¿Aspirar a una meta mayor?",
+        "¿Aspirar a una meta mayor?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "へっ？　あ、いや、でも、あの、\nそこまでは……。",
+      "name": "Meisho Doto",
+      "text": "¿Eh? No, eso no es lo que tenía en<n>mente...",
       "choice_data_list": [
-        "自分から強気に宣言してみるか！？",
-        "自分から強気に宣言してみる！？"
+        "¡Entonces, dilo fuerte y claro!",
+        "¡Entonces, dilo fuerte y claro!"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "いえいえいえ、そこまでは無理ですよぉ～！\r\nきっと、どきどきしちゃいますし～。"
+      "name": "Meisho Doto",
+      "text": "¡No, no, no, no podría hacer eso!<n>¡Mi corazón\nsaltaría de mi pecho!"
     },
     {
-      "text": "自分から目標を打ち立てるには、\nまだ度胸が足りないようだ。\n芽生えには、もうしばらく……。"
+      "name": "Monólogo",
+      "text": "Ella aún carece del valor para fijarse<n>metas. Aún necesita más tiempo."
     },
     {
-      "text": "（バァァァン！）"
+      "name": "Monólogo",
+      "text": "<i>¡Bam!</i>"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ひゃぁぁぁあああ！！"
+      "name": "Meisho Doto",
+      "text": "¡Waaaagh!"
     },
     {
-      "text": "突然、大きな音がトレーナー室に響き渡った。\n見ると、扉が蹴破られていた。"
+      "name": "Monólogo",
+      "text": "El silencio de mi oficina se disuelve<n>inmediatamente\ncon un ruido fuerte. Miro<n>hacia la puerta\ny la veo abierta de golpe."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "はぁ、はぁ、ドトウ！\nドトウのトレーナー君、聞いたか！？"
+      "name": "T.M. Opera O",
+      "text": "<i>Jadeando, jadeando...</i> ¡Doto! ¡Entrenadora! ¿Habéis oído<n>las\nnoticias?!"
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "アヤベさんが……アヤベさんが……！"
+      "name": "T.M. Opera O",
+      "text": "Ayabe... ella..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……ぇ。"
+      "name": "Meisho Doto",
+      "text": "...¿Eh?"
     },
     {
-      "text": "（ゴロゴロゴロ、ザーッ！）"
+      "name": "Monólogo",
+      "text": "<i>¡Ruido, ruido... Ssss...</i>"
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "…………。"
+      "name": "Admire Vega",
+      "text": "..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "脚に……炎症……ですか。"
+      "name": "Meisho Doto",
+      "text": "Tienes... inflamación en las piernas."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "いつレースに戻れるか……\nわからないん……ですか。"
+      "name": "Meisho Doto",
+      "text": "Y... ¿no sabes cuándo podrás volver<n>a competir?"
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "そう――言ってた。医者は。"
+      "name": "Admire Vega",
+      "text": "Sí, eso fue lo que dijo el doctor."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "菊花賞の後――なにかおかしい気はしてた。"
+      "name": "Admire Vega",
+      "text": "Noté que algo andaba... mal después de<n>Kikuka\\nSho."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "そんな、そん……。\nアヤベさんが……。"
+      "name": "Meisho Doto",
+      "text": "Pero, ¿por qué? ¿Por qué... a ti? Oh, Ayabe..."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "…………。"
+      "name": "T.M. Opera O",
+      "text": "..."
     },
     {
-      "text": "誰も何も言わない。テイエムオペラオー\nすらも。重苦しい沈黙が続く。"
+      "name": "Monólogo",
+      "text": "Nadie dice una palabra, ni siquiera T.M.<n>Opera O.\\nEl silencio en la habitación es<n>sofocante."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "こんなの……あんまりですよ。\nこんなの、あっちゃいけないです……。"
+      "name": "Meisho Doto",
+      "text": "Esto es... demasiado. Algo como esto<n>no debería\\nser permitido..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "だってアヤベさんは……。\nアヤベさ……ううう……。"
+      "name": "Meisho Doto",
+      "text": "Ayabe, eres tan... Eres tan—<i>¡Sniff!</i>"
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "私は……。\n少し、許された気もしてる。"
+      "name": "Admire Vega",
+      "text": "Siento... como si me hubieran liberado un poco."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "しばらく走らなくていいから。\n走れなければ……勝たなくていい。"
+      "name": "Admire Vega",
+      "text": "No tengo que correr, por ahora. Y no<n>correr\\nsignifica... que no tengo que ganar."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "無理に……空を見上げなくてもいいから。"
+      "name": "Admire Vega",
+      "text": "No tengo que forzarme a mirar al<n>cielo\\njamás."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "でもぉ……。でもでもぉ！"
+      "name": "Meisho Doto",
+      "text": "Pero... ¡Pero!"
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "ドトウ、起きたことは変えられない。\n時には憩いも必要さ。"
+      "name": "T.M. Opera O",
+      "text": "Doto, no puedes cambiar lo que ya<n>ha pasado. Todos\\nnecesitamos un respiro a veces."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "お大事にね、アヤベさん。\nなあに、きっと平気さ。けれど……。"
+      "name": "T.M. Opera O",
+      "text": "Cuídate, Ayabe. Estoy seguro de que para<n>ti, esto\\nes solo un pequeño obstáculo en<n>un camino mayor. Sin embargo..."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "前世代……最強世代との戦いは、\nこれで苦しくなったね。"
+      "name": "T.M. Opera O",
+      "text": "Esto significa que nuestra lucha con la generación<n>\\nanterior —la Generación Definitiva— tomará<n>un giro\\npara peor."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "両雄のうち片方が欠ければ、ボクは徹底的に\nマークされ、包囲されるだろう。"
+      "name": "T.M. Opera O",
+      "text": "Con nuestro valioso trío reducido a<n>dos, solo\\npuedo imaginar que mis enemigos me tendrán<n>rodeado."
     },
     {
-      "text": "未来を嘆くテイエムオペラオー。\nそして最後に――ポツリとつぶやく。"
+      "name": "Monólogo",
+      "text": "T.M. Opera O se lamenta por el futuro que<n>se acerca,\\nsus últimas palabras un susurro."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "だが、これも運命。\nかくなる上は『待つしかない』か。"
+      "name": "T.M. Opera O",
+      "text": "Pero ay, este es nuestro destino. Lo único que podemos hacer es\\n esperar, supongo."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "そんな、そんなアヤベさんが……。\nオペラオーさんが……。"
+      "name": "Meisho Doto",
+      "text": "Esto no puede estar pasando... Ayabe... T.M.\\nOpera también..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私の……私の2人が……。\r\nううう、うわあああああああああああ！"
+      "name": "Meisho Doto",
+      "text": "No mis... dos amigas más queridas... <i>*Snif*</i>\\n ¡Uaaaahh!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "うわあああああああああああああっ！！"
+      "name": "Meisho Doto",
+      "text": "¡Uaaaahhh!"
     },
     {
-      "text": "（バン！　ダダダダダッ！）"
+      "name": "Monólogo",
+      "text": "<i>¡Bam! ¡Zas!</i>"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "（どうして、どうして、\nどうしてどうしてどうして？）"
+      "name": "Meisho Doto",
+      "text": "(¿Por qué, por qué, por qué, por qué?)"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "（神様はどうしてこんなことするの？\nアヤベさんはとってもいい方なのに）"
+      "name": "Meisho Doto",
+      "text": "(¿Por qué los dioses harían esto? Con\\n alguien tan bueno como Ayabe?)"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "（たくさん色んなことをしてくれた。\nオペラオーさんも。でもぉ……！）"
+      "name": "Meisho Doto",
+      "text": "(Ella ha hecho tanto por mí y por\\nOpera O.\\n¡Y aún así!)"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私はなんにもできない！\nなんにも返してあげられないよー！\nうわああああああんっ！"
+      "name": "Meisho Doto",
+      "text": "¡No puedo hacer nada! No puedo dar <i>nada</i> a\\n cambio!\\n¡Uaaaahh!"
     },
     {
-      "text": "やがて雨は止み、1人たたずむ\nメイショウドトウを見つけた。"
+      "name": "Monólogo",
+      "text": "Al final, la lluvia cesa. Encuentro a Meisho Doto\\nsola, paralizada en su lugar."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "トレーナーさん……。",
+      "name": "Meisho Doto",
+      "text": "Entrenadora...",
       "choice_data_list": [
-        "探したよ"
+        "Te he estado buscando."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私、ドジでノロマでグズでバカで……。\r\nでもバカな頭で、一生懸命考えました。"
+      "name": "Meisho Doto",
+      "text": "Puede que sea torpe, débil y tonta...\\nPero aún así intenté\\npensar en\\nalgo. Pensé y\\npensé y\\npensé..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "それで思いました。今のアヤベさんには、\nなにもしてあげられないって。",
+      "name": "Meisho Doto",
+      "text": "Así es como me di cuenta—no puedo hacer\\nnada por\\nAyabe ahora mismo.",
       "choice_data_list": [
-        "……そうだな",
-        "……そうだね"
+        "...Eso es verdad.",
+        "...Eso es verdad."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "で、バカな私でも気づきました。当たり前の\nもの、当たり前じゃなかったんだって。"
+      "name": "Meisho Doto",
+      "text": "No soy muy inteligente, pero al menos eso lo\\n entiendo. Las cosas que creía que eran\\nciertas resultaron no serlo."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "このままじゃアヤベさん……。\nアヤベさんだけじゃなく、オペラオーさんも。\nでも私には、なにも……。",
+      "name": "Meisho Doto",
+      "text": "Ahora mismo no es bueno para... Ayabe... No\\n es bueno para Ayabe <i>ni</i> para Opera O... pero yo\\nno puedo... no puedo...",
       "choice_data_list": [
-        "できること、ないのかな？"
+        "Tiene que haber algo que puedas hacer, ¿verdad?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "え……。",
+      "name": "Meisho Doto",
+      "text": "¿Eh?",
       "choice_data_list": [
-        "何かできること……ないのかな？"
+        "Seguro que hay <i>algo</i> que puedes hacer... ¿verdad?"
       ]
     },
     {
-      "text": "祈りにも似た投げかけだった。\nふと口をついて出た言葉。でも……。"
+      "name": "Monólogo",
+      "text": "Lo que de repente le digo suena<n>casi como una oración, sin embargo..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "できることは……ないです。\nアヤベさんには……なにも……。"
+      "name": "Meisho Doto",
+      "text": "No hay nada que pueda hacer... por Ayabe..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "でも……他になんにもできないわけじゃ\r\nないかも。"
+      "name": "Meisho Doto",
+      "text": "Pero quizás eso no aplique a<n>todo lo demás."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "オペラオーさん、このままじゃ潰れちゃう。\n潰れたら、アヤベさんの戻る場所も……。"
+      "name": "Meisho Doto",
+      "text": "La Ópera O podría desmoronarse bajo la<n>competencia. Si eso\npasa, Ayabe no<n>tendrá adónde volver."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "そこだけは護らなきゃ。絶対、なんとしても、\nどうしても、誰かが。"
+      "name": "Meisho Doto",
+      "text": "Tengo que protegerlos. Sin importar qué<n>pase\nni quién se interponga."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "オペラオーさんと並んで走る誰か。\nそれができる誰かがいないなら――"
+      "name": "Meisho Doto",
+      "text": "Si no hay nadie más para correr junto a<n>la Ópera O..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "――私が。"
+      "name": "Meisho Doto",
+      "text": "Lo haré."
     },
     {
-      "text": "たった4文字の短い言葉。でもそれは\nメイショウドトウが初めて放った、\n強烈な意志のこもった言葉だった。"
+      "name": "Monólogo",
+      "text": "Solo dos palabritas. Pero marcan la<n>primera vez\npara Meisho Doto. Por fin encontró<n>el fuego dentro de sí."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私は、ドジでノロマでグズでバカです。\nでも……。"
+      "name": "Meisho Doto",
+      "text": "Puede que sea torpe, débil y tonta...<n>Pero..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "恩知らずじゃない。私が、私がっ、私が！\n強くならなくちゃ――"
+      "name": "Meisho Doto",
+      "text": "Sé cuándo estoy en deuda con alguien. ¡Tengo<n>que\nhacerme más fuerte!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "でも今のままじゃ足りない。\n力も速さもなにもかも。だから――"
+      "name": "Meisho Doto",
+      "text": "No tengo lo que se necesita ahora. Mi<n>fuerza,\nmi velocidad, todo<n>es insuficiente. Por eso..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "¡Desde las grandes carreras——hacia el GⅠ de primavera!"
+      "name": "Meisho Doto",
+      "text": "Tengo que ascender hasta estar listo<n>para\nuna G1 de primavera!"
     },
     {
-      "text": "Luego de una larga discusión, llegamos a una conclusión.\nEl objetivo será el GⅡ 『Copa Nikké de Año Nuevo』."
+      "name": "Monólogo",
+      "text": "Llegamos a una conclusión tras una<n>larga\ndiscusión.<n>Nuestra próxima meta será la G2<n>Nikkei Shinshun Hai."
     },
     {
-      "text": "Una carrera de inicio de año que calza perfectamente\npara el GⅠ del próximo año. Aunque participen fuertes competidoras sénior,\naun así——"
+      "name": "Monólogo",
+      "text": "Se lleva a cabo en enero, lo que nos da<n>suficiente\ntiempo para prepararnos para las G1<n>después. El lineup <i>sí</i>\nincluye algunas<n>corredoras senior muy fuertes,\npero..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私、出ます！\n出て、最高の走りをしてみせます！"
+      "name": "Meisho Doto",
+      "text": "¡Competiré! Y les mostraré mi<n>mejor carrera\na la fecha!"
     },
     {
-      "text": "大切な護りを失って――\r\n初めて芽は、堅い堅い地を割った。"
+      "name": "Monólogo",
+      "text": "Se quitan los ruedines. Es hora de que<n>Meisho\nDoto salga de su caparazón<n>y crezca."
     }
   ]
 }

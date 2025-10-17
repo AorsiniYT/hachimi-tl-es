@@ -2,158 +2,163 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "出かけた帰り道、メイショウドトウに\r\n頼まれてスポーツ用品店に立ち寄った。"
+      "name": "Monólogo",
+      "text": "Vuelvo de un paseo con<n>Meisho\nDoto cuando me pide que paremos en<n>la tienda de artículos\ndepor."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "付き合わせちゃってすみません……。\r\n私……すぐシューズをダメにしちゃって……。"
+      "name": "Meisho Doto",
+      "text": "Lo siento por arrastrarte aquí... Mis<n>zapatos nunca\nduran mucho..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "やっぱり、転びすぎるのが原因でしょうか？\r\n気をつけてるつもりなんですけど……。"
+      "name": "Meisho Doto",
+      "text": "Debo de caerme mucho, eso<n>debe ser.\nHe intentado ser más<n>cauto, pero..."
     },
     {
-      "name": "エアシャカール",
-      "text": "ん、ドトウ……？\r\nなンだ、お前もシューズ選びか？"
+      "name": "Air Shakur",
+      "text": "Eh... ¿Doto? Así que tú también vienes a<n>comprar unos\nzapatos nuevos?"
     },
     {
-      "text": "声をかけてきた目つきの鋭いウマ娘。\r\n確か、メイショウドトウと寮で同室の\nエアシャカールだ。"
+      "name": "Monólogo",
+      "text": "Alzo la vista y me encuentro con la intimidante<n>mirada de una\nUmamusume punk. Si no me<n>equivoco, es el\ncompi de Doto, Air<n>Shakur."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あ、あのぉ、シャカールさんもこれから\r\nお買い物、なんですか……？"
+      "name": "Meisho Doto",
+      "text": "Eh... ¿tú también vienes a comprar<n>algo,\nShakur?"
     },
     {
-      "name": "エアシャカール",
-      "text": "いや、帰る。この店、シューズマニアも\r\n通うっつうから来てみたンだが、\nスペック表示もねえし無駄足だったぜ。"
+      "name": "Air Shakur",
+      "text": "Nah, ya me iba. Se supone que este lugar es<n>para todos los\nfanáticos de las<n>zapatillas, pero una tienda que<n>no muestra las especificaciones del producto no vale<n>mi tiempo."
     },
     {
-      "name": "エアシャカール",
-      "text": "……じゃあな、ドトウ。"
+      "name": "Air Shakur",
+      "text": "Nos vemos, Doto."
     },
     {
-      "text": "歩き去ったエアシャカールを、\r\nメイショウドトウはまだ\nちらちらと気にしている。",
+      "name": "Monólogo",
+      "text": "Meisho Doto aún no aparta la vista de<n>Air\nShakur, incluso cuando ya se aleja.",
       "choice_data_list": [
-        "どうかした？"
+        "¿Qué pasa?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "いえ……シャカールさん、シューズが\r\n選べなかったって言ってましたよね……？"
+      "name": "Meisho Doto",
+      "text": "No, no es nada, solo que... ella no pudo<n>encontrar...\nningún zapato."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "なにか、お手伝いできないかと思って……。\r\nシャカールさんには、いつもご迷惑を\nかけてるので……。"
+      "name": "Meisho Doto",
+      "text": "Me preguntaba... tal vez pueda<n>cambiar eso?\nHe sido una molestia<n>para ella hasta ahora."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私、忘れ物が多いから……シャカールさんが\r\n見かねて、声をかけてくださることもあって。"
+      "name": "Meisho Doto",
+      "text": "Soy tan olvidadiza... y Shakur lo sabe,<n>por eso\nse toma la molestia de comprobarlo<n>por mí."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ちゃんとお礼を言いたいんですけど……\r\nそういうの“のいじぃ”だっておっしゃる\nから……。"
+      "name": "Meisho Doto",
+      "text": "Quiero darle las gracias, pero...<n>siempre supongo\nque solo la voy a molestar."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "でも……もしかして、お買い物なら\r\n少しはお役に立てるかもと思いましてぇ……。",
+      "name": "Meisho Doto",
+      "text": "Aunque... tal vez pueda ayudarla a<n>encontrar lo que\nbusca.",
       "choice_data_list": [
-        "もう1度、声かけてみるか？",
-        "もう1度、声かけてみる？"
+        "¿Deberíamos alcanzarla antes de que se vaya?",
+        "¿Deberíamos alcanzarla antes de que se vaya?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "は、はいっ。そうしてみますぅ～！"
+      "name": "Meisho Doto",
+      "text": "S-¡sí! ¡Vamos rápido!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "シャカールさぁん、ま、待ってくださ～いっ！"
+      "name": "Meisho Doto",
+      "text": "¡Shakur, e-espera un momento!"
     },
     {
-      "name": "エアシャカール",
-      "text": "……ドトウ？　慌てるとまたすっ転ぶぞ。\r\nなンか用か？"
+      "name": "Air Shakur",
+      "text": "¿Doto? Mira por dónde vas, o si no<n>te caerás.\n¿Quieres algo?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "すみません～。あのぉ、シャカールさんの\r\nお買い物を手伝いたいって思いまして～。"
+      "name": "Meisho Doto",
+      "text": "Lo siento... solo que, eh, me gustaría<n>ayudarte con\ntus compras..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私、すぐシューズを壊しちゃうので、\r\n今まで色んな種類、履いてきてまして……。"
+      "name": "Meisho Doto",
+      "text": "Me paso los zapatos muy rápido... así que<n>he probado\nbastantes en mi tiempo."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "どの靴をどんな風にダメにしちゃったか、\r\n全部メモを取ってあるんです。だから\nお役に立てるかもって……勘違いかもですが。"
+      "name": "Meisho Doto",
+      "text": "Hasta he tomado notas de todos los zapatos<n>que he tenido\n*y cómo los arruiné. <n>Tal vez podrías sacar\nalgún provecho de eso...<n>o quizás no."
     },
     {
-      "name": "エアシャカール",
-      "text": "ふゥん……これまで試した\r\nシューズの耐久性メモか、興味深いな。"
+      "name": "Air Shakur",
+      "text": "Vaya... Así que has llevado registro de cuán<n>resistentes\nfueron tus zapatos. No puedo decir que<n>no estoy\ninteresado."
     },
     {
-      "name": "エアシャカール",
-      "text": "だが、なにを企ンでる？\r\n見返りもなしに渡す情報じゃねェだろ？"
+      "name": "Air Shakur",
+      "text": "¿Qué intentas sacar de mí,<n>de todos modos? Info\ncomo esta no viene<n>gratis."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ち、違うんですぅ……私、いつもお世話に\r\nなってるお礼がしたくて、ですね……。"
+      "name": "Meisho Doto",
+      "text": "No, no me refería a eso... Solo<n>que quiero\nagradecerte, ya que<n>siempre... estás... pendiente\nde mí."
     },
     {
-      "name": "エアシャカール",
-      "text": "はァ？　ンだそりゃ、世話なンてしてねェ。\r\nそれより、取り引きすンなら早くなにが\n欲しいか言え。"
+      "name": "Air Shakur",
+      "text": "¿Desde cuándo? Yo no velo por nadie<n>más que por\nmí mismo, así que si quieres cerrar un<n>trato, hazlo rápido.\nVamos."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "そっ、そう言われましても～。\r\nど、ど、どうしましょう、トレーナーさん？",
+      "name": "Meisho Doto",
+      "text": "¿Hacerlo rápido? Pero, yo... ¿Qué<n>debería hacer,\nEntrenador?",
       "choice_data_list": [
-        "代わりに練習に付き合ってもらったら？",
-        "そっちのオススメも教えて！"
+        "A cambio, Air Shakur debería unirse a nosotras para\\entrenar.",
+        "¡Air Shakur debería darnos su opinión también!"
       ]
     },
     {
-      "name": "エアシャカール",
-      "text": "……チッ。お前のトレーナー抜け目ねェな。\r\n自分のデータは見せないようにしてンだが。"
+      "name": "Air Shakur",
+      "text": "...Tch. Tu entrenador es bastante agudo. Normalmente no<n>permito\nque la gente vea mis entrenamientos.<n>Ya sabes, privacidad de datos\ny todo eso."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "でっ、ですよねっ、わわわ、私なんかと練習、\r\nご迷惑ですよねっ、ごめんなさいぃ～！"
+      "name": "Meisho Doto",
+      "text": "Oh, e-eso tiene sentido. ¡Entrenar con<n>alguien\ncomo yo solo te traería<n>problemas...! L-lo siento\ntanto!"
     },
     {
-      "name": "エアシャカール",
-      "text": "いや、構わねェ。その代わり寮に戻ったら、\r\nじっくりデータ確認に付き合ってもらうぞ？"
+      "name": "Air Shakur",
+      "text": "Está bien. No me molesta... si me dejas<n>dar un vistazo\na fondo a esos datos<n>tuyos cuando estemos\nde vuelta en el dormitorio."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あのっ、そのくらいならもう、ぜんぜんっ。\r\nでもあの、ほんとにいいんでしょうか～？"
+      "name": "Meisho Doto",
+      "text": "¡Puedo hacerlo, sin problema! Pero... ¿de verdad<n>estás\nsegura con eso?"
     },
     {
-      "text": "後日、確認作業は深夜に及んだと聞いた。\r\nしかしメイショウドトウは、役に立てたと\n嬉しそうだった。"
+      "name": "Monólogo",
+      "text": "Después me entero de que su análisis de datos<n>se extendió\nbien entrada la noche, y Meisho<n>Doto estaba encantada de\nhaber sido<n>considerada útil."
     },
     {
-      "name": "エアシャカール",
-      "text": "それならイーブンか……。じゃあ入口近くに\r\n並ンでたメーカーのにしろよ。赤か、隣の紫。"
+      "name": "Air Shakur",
+      "text": "Si esa es tu idea de hacer las cosas<n>más justas... Prueba la\nmarca que está junto a la<n>entrada. Ya sea las rojas o\nlas moradas."
     },
     {
-      "name": "エアシャカール",
-      "text": "あそこのはサイトで正確な数値を出してる。\r\n赤いのは作りが丈夫。紫ならグリップがよく\n転びづらい。"
+      "name": "Air Shakur",
+      "text": "Todas las especificaciones están escritas en su<n>página web. Las\nrojas están hechas para durar.<n>Las moradas tienen\nbuen agarre, así que<n>te ayudarán a tropezar menos."
     },
     {
-      "name": "エアシャカール",
-      "text": "お前の脚質や膝の柔軟性から考えても、\r\nあれが最適解だろ。"
+      "name": "Air Shakur",
+      "text": "Considerando tu estilo al correr y<n>tu flexibilidad de rodillas,\ndiría que esas dos son tu<n>mejor opción."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はわぁああ、ありがとうございます！\r\nあのっ、私、両方買います！"
+      "name": "Meisho Doto",
+      "text": "W-wooow... Muchas gracias! Yo,<n>um, ¡compraré\nambos!"
     },
     {
-      "name": "エアシャカール",
-      "text": "両方……他人を信じすぎにもほどがねェか？\r\nまァいい、履いたらそれも実測値取らせろよ。"
+      "name": "Air Shakur",
+      "text": "¿Ambos? ¿Alguien te ha dicho alguna vez que confías<n>demasiado\nen los demás? Como sea.<n>Enviame los datos\nque hayas registrado después<n>de probarlas."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "わかりましたぁ～！　買ってきますぅ～！"
+      "name": "Meisho Doto",
+      "text": "¡Bien, entendido! ¡Los compraré ahora mismo!"
     },
     {
-      "text": "エアシャカールのアドバイスがよほど\r\n嬉しかったのか、大喜びで店に向かう\nメイショウドトウだった。"
+      "name": "Monólogo",
+      "text": "Meisho Doto está más que emocionada de<n>volver\ndentro. Debe estar realmente<n>feliz de que Air Shakur le\ndio algún consejo."
     }
   ]
 }

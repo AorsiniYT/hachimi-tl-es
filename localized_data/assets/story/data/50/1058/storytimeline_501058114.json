@@ -2,183 +2,192 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "（ダダダダダッ！）"
+      "name": "Monólogo",
+      "text": "<i>¡Dash!</i>"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "強く……なるんだぁあああ～っ！\n少しずつ～、少しずつぅぅぅ！"
+      "name": "Meisho Doto",
+      "text": "¡Voy a volverme super fuerte! ¡Poco a poco!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はぁ、ふぅ……。\r\nどうでしたかぁ、トレーナーさん？",
+      "name": "Meisho Doto",
+      "text": "<i>Uff, uff...</i> Uf... ¿Qué tal estuvo,<n>Entrenador?",
       "choice_data_list": [
-        "ナイスラン、メイショウドトウ！",
-        "ナイスランだったよ、メイショウドトウ！"
+        "¡Fue una gran carrera, Meisho Doto!",
+        "¡Fue una gran carrera, Meisho Doto!"
       ]
     },
     {
-      "text": "――成長期前。それでも徐々に成果は\n出てきている。この調子でいけば……。"
+      "name": "Monólogo",
+      "text": "Ella aún no entra en su periodo de<n>crecimiento, pero\navanza de manera constante.<n>Si seguimos así..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あとは本格化さえ始まれば……\r\nもしかして春には、春頃には\nオペラオーさんに認めてもらえるかもですか？",
+      "name": "Meisho Doto",
+      "text": "Solo debo estar lista para la carrera...<n>¿Tú crees... crees que Opera O<n>me dará su aprobación\npara la primavera?",
       "choice_data_list": [
-        "ああ、きっとな",
-        "うん、きっとね"
+        "Estoy seguro de que sí.",
+        "Estoy seguro de que sí."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "えへ、えへへへへ……待っててくださいね、\nオペラオーさん。きっと傍に……。"
+      "name": "Meisho Doto",
+      "text": "Ejeje... Espérame, Opera O...<n>Pronto estaré\na tu lado..."
     },
     {
-      "text": "来年のクラシック争いはまだ混沌としている。\nあるいは体さえ成長すれば、\nテイエムオペラオーに追いつく可能性も……。"
+      "name": "Monólogo",
+      "text": "El ganador de las carreras Clásicas del próximo<n>año todavía es\nalgo incierto. Si su forma mejora a<n>tiempo, alcanzar\na T.M. Opera O podría<n>ser posible."
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "ドトウさーん！\nトレーナーさーん！"
+      "name": "Matikanefukukitaru",
+      "text": "¡Doto! ¡Entrenador!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "フクキタルさん？\nどうかしたんですかぁ？"
+      "name": "Meisho Doto",
+      "text": "¿Fukukitaru? ¿Qué pasa?"
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "ちょっとお知らせに！\nドトウさんの星占いをしていたら、\nとてつもなく不吉な目が出たのでっ。"
+      "name": "Matikanefukukitaru",
+      "text": "Tengo un mensaje para ti. Leí tu<n>horóscopo,\npero el resultado fue increíblemente<n>desfavorable."
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "西の空に、ビックリ仰天な新星が生まれ\nようとしています。1つなのに2つに見える、\n摩訶不思議な二重星が！"
+      "name": "Matikanefukukitaru",
+      "text": "Mira al cielo y maravíllate — en el<n>oeste nace\nuna nueva estrella. Aunque es una,<n>aparece como dos, ¡una\nmisteriosa estrella doble<n>!"
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "その新星は黄金の星をかげらせ、さらに\r\nドトウさんや多くのウマ娘たちにとっての\n脅威となるでしょう！"
+      "name": "Matikanefukukitaru",
+      "text": "Esa nueva estrella opacará a la dorada<n>estrella,\nrepresentando una amenaza para ti y muchas<n>otras\nUmamusume!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "新星で……にじゅうせい？\nそれって――"
+      "name": "Meisho Doto",
+      "text": "Nueva estrella... ¿estrella doble? ¿Qué significa..."
     },
     {
-      "text": "――同日。阪神レース場。"
+      "name": "Monólogo",
+      "text": "Mientras tanto, en el Hipódromo de Hanshin..."
     },
     {
-      "text": "（ウアアアアアアアアアアッ！！）"
+      "name": "Monólogo",
+      "text": "¡Guau!"
     },
     {
-      "name": "実況",
-      "text": "期待の星アドマイヤベガ、完勝ー！\nウマなりで突き抜け、見事重賞制覇ー！"
+      "name": "Comentarista",
+      "text": "¡La victoria es para Admire Vega, la<n>brillante estrella\nde la esperanza! Ella supera a la<n>competencia con\ndominio en las carreras de<n>gradue!"
     },
     {
-      "name": "実況",
-      "text": "クラシック主役の1人として名乗りをあげた！\n悲しいほどストイックな走りで、次はどこへ\n向かうのかー！？"
+      "name": "Comentarista",
+      "text": "¡Otro candidato se une a la carrera para<n>ser\ncoronado como el acto principal de las<n>Clásicas! ¿Dónde\nveremos esa solemne y<n>estoica carrera suya después?"
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "誓いは……まだ果たせていない。\n目指すは――"
+      "name": "Admire Vega",
+      "text": "Aún no he cumplido... mi promesa. Debo irme..."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "――東へ。府中の空へ。"
+      "name": "Admire Vega",
+      "text": "Al este, hacia los cielos de Fuchu."
     },
     {
-      "text": "――数日後。"
+      "name": "Monólogo",
+      "text": "Unos días después..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あわわわわっ、もうすぐ授業がぁぁぁ。\n急がなきゃ、急がなきゃ～～～。"
+      "name": "Meisho Doto",
+      "text": "Oh, no, no, no, ¡la clase está por empezar! ¡Debo<n>darme prisa!"
     },
     {
-      "text": "（ドン！）"
+      "name": "Monólogo",
+      "text": "<i>¡Zas!</i>"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はひゃあああ！？　ごめんなさいぃぃぃ！\n私、また誰かをドゴーンって\n突き飛ばしてぇぇぇ。"
+      "name": "Meisho Doto",
+      "text": "¿¡Gyaah?! Lo siento mucho! Siempre me la paso<n>topando\\ncon gente..."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "…………。"
+      "name": "Admire Vega",
+      "text": "..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "（あれ、突き飛ばされて……ない？\r\n私がぶつかると、大体の子は壁にゴキャって\nなっちゃうのに）"
+      "name": "Meisho Doto",
+      "text": "(¿Eh? Pero si están... ¿perfectamente bien? Generalmente,<n>cuando me topo con alguien, terminan<n>volando hacia la pared.)"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "（って、この人は……！）"
+      "name": "Meisho Doto",
+      "text": "(¡Un momento! ¡Ya sé quién es!)"
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "前――よく見た方がいいから。"
+      "name": "Admire Vega",
+      "text": "Solo... presta más atención a lo que tienes< n>delante."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ははは、はいぃぃぃ！　すみません～！\nアドマイヤベガさん……アヤベさん……。"
+      "name": "Meisho Doto",
+      "text": "S-sí, claro. Perdón por eso, Admira Vega...<n>Digo... Ayabe."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あのっ……わわ私、アヤベさんの走り、\nこの間ウマチューブで見ましたぁ。\nカッコよくて、怖いほど速くて……！"
+      "name": "Meisho Doto",
+      "text": "Eh... Te vi corriendo en UmaTube<n>el otro día. Eras tan genial y...<n>aterradoramente veloz!"
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "…………。"
+      "name": "Admire Vega",
+      "text": "..."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "――遊びじゃないから。"
+      "name": "Admire Vega",
+      "text": "No estoy aquí para divertirme."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "へ？"
+      "name": "Meisho Doto",
+      "text": "¿Eh?"
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "遊びで走ってるわけじゃないから。\n怖く見えたなら、そのせい。"
+      "name": "Admire Vega",
+      "text": "No corro por diversión. Probablemente<n>por eso me encontraste tan atemorizante."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "負けるわけには……いかないから。\nじゃあ。"
+      "name": "Admire Vega",
+      "text": "No puedo... permitirme perder. Adiós."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "は、はい……。"
+      "name": "Meisho Doto",
+      "text": "Oh, está bien..."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "ドトウ！　大丈夫かい？"
+      "name": "T.M. Opera O",
+      "text": "¿Doto! ¿Estás bien?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あ、オペラオーさん、トレーナーさん！"
+      "name": "Meisho Doto",
+      "text": "¡Oh, Opera O, Entrenadora!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "今の人、アドマイヤベガさん……\nアヤベさんです。\n同期で、とっても強いウマ娘で。"
+      "name": "Meisho Doto",
+      "text": "Esa era Admire Vega recién... o<n>Ayabe. Es una de nuestras compañeras—y una<n>corredora muy fuerte."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "ああ、ボクの配役表にも載っているよ。\nこの間のレースで、覇王レーダーにも\nピピンと引っかかったからね。"
+      "name": "T.M. Opera O",
+      "text": "Ah sí, recuerdo ver su nombre<n>en mi lista. Mi radar de Overlord sonó por su<n>presencia en una carrera no hace<n>mucho."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "いつか大舞台で相まみえる日も来るだろう。\nおお、アヤベさん！\n君はなぜアドベじゃないんだい？"
+      "name": "T.M. Opera O",
+      "text": "Estoy segura de que nuestros caminos se cruzarán<n>en el gran escenario. O, Ayabe,<n>Ayabe! ¿Dónde estás,<n>Ayabe?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あの～トレーナーさん、\r\nお話しておきたいことが……。"
+      "name": "Meisho Doto",
+      "text": "Eh, Entrenadora... Me gustaría hablar contigo<n>sobre algo."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "アヤベさん、さっき私がぶつかった時、\nビクともしませんでした。あんなに細いのに。"
+      "name": "Meisho Doto",
+      "text": "Me topé con Ayabe antes, pero ella<n>no se movió ni un centímetro, a pesar de lo delgada<n>que es."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "逆に私の方が、跳ね返されちゃって。\nあれが本当に強い人の体なら、\n私なんて、まだまだ……。"
+      "name": "Meisho Doto",
+      "text": "En cambio, yo fui quien cayó rodando.<n>Si eso es lo que significa tener un cuerpo<n>fuerte, entonces me falta<n>mucho por mejorar..."
     },
     {
-      "text": "アドマイヤベガ。冷静で孤高で――\nしなやかな足腰を誇る新星……。"
+      "name": "Monólogo",
+      "text": "Admire Vega—Calma y serena en su<n>soledad, es una nueva estrella que brilla con<n>su paso veloz."
     },
     {
-      "text": "メイショウドトウとテイエムオペラオーの\n間をさえぎる、強力なライバルが現れた。"
+      "name": "Monólogo",
+      "text": "Una fuerte rival ha aparecido en<n>escena, agitando las cosas para Meisho<n>Doto y T.M. Opera O."
     }
   ]
 }

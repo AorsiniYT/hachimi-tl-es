@@ -2,155 +2,159 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "秋川理事長に頼まれたお使いから帰る途中、\r\nウイニングチケットたちに呼び止められた。"
+      "name": "Monólogo",
+      "text": "De regreso de un mandado que<n>me dio\nDirector Akikawa, me detiene Ganadora."
     },
     {
-      "name": "ウイニングチケット",
-      "text": "あのぉ！　そこのトレーナーさん！\r\nこの辺で白いヘビ見てませんかっ！？",
+      "name": "Ganadora",
+      "text": "¡Oye! ¡Entrenadora! ¿Has visto a<n>una serpiente\nblanca por aquí?",
       "choice_data_list": [
-        "白いヘビ！？見てないけど……"
+        "¿Una serpiente? No..."
       ]
     },
     {
-      "name": "スイープトウショウ",
-      "text": "また空振り！？\r\nどこにいんのよ、白いヘビ～～！！",
+      "name": "Barre Tosho",
+      "text": "¿Otra pista falsa? Serpiente blanca,<n>¿dónde podrías\nestar?",
       "choice_data_list": [
-        "どうして白いヘビを探しているの？"
+        "¿Por qué buscas una serpiente blanca de todos modos?"
       ]
     },
     {
-      "name": "スイープトウショウ",
-      "text": "幸運の加護をもたらす儀式に使うのよ！\r\n高位の魔法なんだからね！"
+      "name": "Barre Tosho",
+      "text": "Necesito una para un amuleto de buena suerte. ¡Es un<n>hechizo\nsuper potente!"
     },
     {
-      "name": "ウイニングチケット",
-      "text": "えっ、そうなのっ！？",
+      "name": "Ganadora",
+      "text": "¿ESPERA, ¿EN SERIO?",
       "choice_data_list": [
-        "知らないで手伝ってたんだ……"
+        "¿No le dijiste los detalles?"
       ]
     },
     {
-      "name": "スイープトウショウ",
-      "text": "教える前に走り出したのよ！\r\n手がかりもないのに、どんどん進んじゃうし！"
+      "name": "Barre Tosho",
+      "text": "Ella salió antes de que pudiera hacerlo.<n>¡Y no\ntenemos pistas para seguir!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "はぁ……グランマだったら、魔法で\r\n簡単に見つけちゃうんだろうな……。",
+      "name": "Barre Tosho",
+      "text": "<i>Uf...</i> Apuesto a que la abue usaría magia y<n>lo\nencontraría inmediatamente.",
       "choice_data_list": [
-        "スゴイおばあちゃんなんだな",
-        "スゴイおばあちゃんなんだね"
+        "Suena como una mujer increíble.",
+        "Suena como una mujer increíble."
       ]
     },
     {
-      "name": "スイープトウショウ",
-      "text": "当然よ！　アタシが目指す大魔女なんだから！"
+      "name": "Barre Tosho",
+      "text": "¡Lo es! Por eso quiero ser una gran<n>bruja\ncomo ella algún día!"
     },
     {
-      "name": "ウイニングチケット",
-      "text": "じゃあさ、そのグランマさんって人に\r\n探し方を教えてもらおうよ！"
+      "name": "Ganadora",
+      "text": "En ese caso, vamos a preguntarle a tu abuela<n>para que\nnos ayude."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "ダメーーッ！　これはアタシがやるの！\r\n自分の力で見つけるのっ！！"
+      "name": "Barre Tosho",
+      "text": "¡Ni loco! Esto es algo que debo<n>resolver\npor mí mismo."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "……じゃないと、いつまで経っても\r\nグランマみたいになれない……！"
+      "name": "Barre Tosho",
+      "text": "...Nunca seré como la abuela si no lo hago!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "アタシは白いヘビの儀式を成功させる！\r\nそれで、一人前の魔女になってやるんだから！"
+      "name": "Barre Tosho",
+      "text": "Voy a encontrar esa serpiente blanca, y la<n>usaremos\nen el ritual! ¡Y me convertiré en una<n>bruja de verdad!"
     },
     {
-      "name": "ウイニングチケット",
-      "text": "うぉおおおーーん！！"
+      "name": "Ganadora",
+      "text": "¡AAAA SÍIIII!"
     },
     {
-      "name": "ウイニングチケット",
-      "text": "全力で夢に挑戦しているんだね！\r\nなんて熱い子なんだあぁぁーーーー！！\n感動をありがとぉぉぉーー！"
+      "name": "Ganadora",
+      "text": "Realmente estás intentando hacer tu sueño<n>realidad.\nEsa actitud luchadora me hace<n>sentir tan...\n¡EMOCIONADO! ¡Woo! ¡Gracias por el<n>ánimo!"
     },
     {
-      "name": "ウイニングチケット",
-      "text": "アタシ、スイープの夢を応援するよっ！\r\n絶対に白いヘビ見つけるぞぉおおおーーー！！"
+      "name": "Ganadora",
+      "text": "Te voy a ayudar. De una forma u<n>otra, ¡encontraremos\na esa serpiente blanca!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "ふ、ふん！　それじゃあ探索再開よ！\r\nアンタも手伝いなさい！"
+      "name": "Barre Tosho",
+      "text": "¡Je! ¡La búsqueda continúa! Tú<n>también\nayuda, ¿verdad?"
     },
     {
-      "text": "こうして白いヘビ探しに巻き込まれた……。\r\n3人で野山を探し回るも、何も成果はなく――"
+      "name": "Monólogo",
+      "text": "Y así me encuentro metido en una cacería de serpientes<n>... Barremos los campos juntos pero<n>no encontramos nada."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "もうやーだー！　かえーるー！\r\n歩きたくなーいー！！",
+      "name": "Sweep Tosho",
+      "text": "¡¿Eso es todo?! ¡Estoy cansado de caminar! ¡Quiero volver a<n>casa!",
       "choice_data_list": [
-        "今日はもう帰ろうか？"
+        "¿Ya te vas a retirar?"
       ]
     },
     {
-      "name": "ウイニングチケット",
-      "text": "諦めるなんてぜったいダメだっ！\r\n街も探してみよう！！"
+      "name": "Winning Ticket",
+      "text": "¡No podemos rendirnos ahora! ¡Busquemos en el pueblo!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "こんなとこにいるわけないじゃない！"
+      "name": "Sweep Tosho",
+      "text": "No hay forma de que esté aquí."
     },
     {
-      "name": "ウイニングチケット",
-      "text": "ちょっとの可能性でも賭けようよ！\r\nまだ全力を出し切ってないじゃんっ！！"
+      "name": "Winning Ticket",
+      "text": "Tenemos que intentarlo, sin importar cuán pequeñas sean<n>nuestras probabilidades!\\n¡Vamos, recién estamos<n>calentando, chicos!"
     },
     {
-      "name": "ウイニングチケット",
-      "text": "スイープを全力で手伝う！\r\n折れそうになったら、全力で支える！\nアタシはそう決めたんだぁあーーー！！"
+      "name": "Winning Ticket",
+      "text": "Voy a darte todo lo que tengo, ¡Sweep! Si<n>sientes que\\nvas a renunciar, ¡te levantaré<n>inmediatamente!\\n¡Para eso estoy aquí!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "…………。"
+      "name": "Sweep Tosho",
+      "text": "..."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "……フン！　アタシだって\r\nあきらめるとは言ってないわ！"
+      "name": "Sweep Tosho",
+      "text": "¿Hmph? ¿Quién dijo que me estoy rindiendo?"
     },
     {
-      "name": "ウイニングチケット",
-      "text": "スイープ……！\r\nえへへっ、そうこなくっちゃっ！！"
+      "name": "Winning Ticket",
+      "text": "Sí, ¡Sweep! Jeje, ¡ese es el espíritu!"
     },
     {
-      "name": "ウイニングチケット",
-      "text": "――んん！？　……ちょっと待って？\r\n雑貨屋の棚にいるアレは……！！"
+      "name": "Winning Ticket",
+      "text": "¡Whoa! Espera un momento... ¿Ves lo que yo<n>veo en\\nesa vitrina?"
     },
     {
-      "name": "ウイニングチケット",
-      "text": "い、いたーー！　白いヘビだ～～～！！"
+      "name": "Winning Ticket",
+      "text": "¡LA ENCONTRÉ! ¡Es una serpiente blanca!"
     },
     {
-      "text": "幾何学模様の鱗、ガラス玉のような瞳。\r\nそのヘビはまさに芸術品のようで……\nいや、本当に芸術品だった。",
+      "name": "Monólogo",
+      "text": "Con sus patrones geométricos y sus ojos<n>como canicas\\n, la serpiente parece<n>algo que haría un artista... Oh<n>espera, de hecho <i>es</i> una obra de arte.",
       "choice_data_list": [
-        "これは、作り物だね"
+        "No es real."
       ]
     },
     {
-      "name": "ウイニングチケット",
-      "text": "つくりものっ！？　そんな、そんな――"
+      "name": "Winning Ticket",
+      "text": "¿No es real? No puede ser... No puede ser..."
     },
     {
-      "name": "ウイニングチケット",
-      "text": "うわぁぁぁん！　スイープごめぇぇえんっ！\r\n見つけるって言ったのにぃいいーーー！！"
+      "name": "Winning Ticket",
+      "text": "¡Waaaah! Lo siento tanto, ¡Sweep! Pensé que<n>por fin\\nlo teníamos! <i>Sob!</i>"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "……もういいわよ、このヘビで。\r\n効果は落ちるけど、人形でも代用できる……\nって魔術書に書いてあったから。"
+      "name": "Sweep Tosho",
+      "text": "...Está bien, nos quedamos con esta serpiente. Será<n>menos\\nefectiva, pero un muñeco puede servir<n>como sustituto—al menos,\\neso es lo que dice mi<n>grimorio."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "ううん、これがいい！　魔女になるんだから、\r\n人形くらい使いこなしてみせるわ！"
+      "name": "Sweep Tosho",
+      "text": "Sí, ¡esto servirá! Voy a ser una<n>bruja de verdad,\\nasí que probaré que puedo<n>llevar a cabo este ritual, ¡sin importar si la serpiente es real o no!"
     },
     {
-      "name": "ウイニングチケット",
-      "text": "スイープ……スイィィプゥゥーー！\r\nキミならなれるよ！　素敵な魔女に！！"
+      "name": "Winning Ticket",
+      "text": "¡Sweep! Ohhhh, ¡Sweeeep! Tú vas a<n>ser\\nuna bruja increíble!"
     },
     {
-      "text": "見事白いヘビを捕獲（？）して、\r\nみんな笑顔で解散したのだった！"
+      "name": "Monologue",
+      "text": "We successfully purchase—er, \"capture\"<n>the white\nsnake, bringing a joyful end to<n>our ordeal."
     }
   ]
 }

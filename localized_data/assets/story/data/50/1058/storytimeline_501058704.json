@@ -2,214 +2,222 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "メイショウドトウと出かけた帰り、\nあるポスターが目についた。"
+      "name": "Monólogo",
+      "text": "Estoy de vuelta de un paseo con<n>Meisho\nDoto cuando un cartel llama mi<n>atención."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふわ……『商店街　カラオケ大会』……。\r\nこ、こんなイベントがあるんですね。"
+      "name": "Meisho Doto",
+      "text": "Oh... El distrito comercial está<n>organizando un\ncompetencia de karaoke. No sabía que<n>hicieran eventos como\neste."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……………………。",
+      "name": "Meisho Doto",
+      "text": "...",
       "choice_data_list": [
-        "出てみる？"
+        "¿Por qué no le damos una oportunidad?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "えっ……！　いや、でもでもでも！\r\nエントリー終了、って書いてありますよっ！？"
+      "name": "Meisho Doto",
+      "text": "¿¡Eh?! P-pero, mira — ¡dicen que ya<n>no aceptan\nmás inscripciones!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "そ、それに……私の歌じゃ……\n大会のレベルになんて……はぅ～。",
+      "name": "Meisho Doto",
+      "text": "P-además, no creo que mi canto esté<n>ni cerca del\nnivel de una competencia...<n>Uff...",
       "choice_data_list": [
-        "君の歌なら絶対に大丈夫！",
-        "貴方の歌なら絶対に大丈夫！"
+        "¡Sé que lo lograrás con esa voz tuya!",
+        "¡Sé que lo lograrás con esa voz tuya!"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "は……はわわわ～！っ？\nははっ、恥ずかしいですぅ～～～！！"
+      "name": "Meisho Doto",
+      "text": "¿¡Q-qué...!? ¡T-tú me avergüenzas!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "…………で、でも……練習の成果を\n確かめるち、チャンス……ですよねぇ。"
+      "name": "Meisho Doto",
+      "text": "Aunque... esta podría ser mi oportunidad para<n>ver si mi\npráctica ha dado frutos."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "で、出てみようかな……。"
+      "name": "Meisho Doto",
+      "text": "Supongo que intentaré..."
     },
     {
-      "text": "こうして、ダメ元で『カラオケ大会』に\r\nエントリーしてみることになったのだが――"
+      "name": "Monólogo",
+      "text": "Y con eso, decidimos darle una<n>oportunidad al\ncompetencia."
     },
     {
-      "name": "大会運営委員",
-      "text": "飛び込みかぁ……う～ん、困りましたねぇ。\n楽曲もすぐには用意できませんし……。"
+      "name": "Coordinador de la Competencia",
+      "text": "Hm, una inscripción de última hora será<n>difícil. No\npodemos proporcionarte una<n>pista de respaldo en este\nmomento."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……あ、あの私、本当にダメダメで……。\n自信もなくて……ウジウジしてて……。"
+      "name": "Meisho Doto",
+      "text": "...Um, bueno, soy una persona... con muchos defectos.<n>No soy\nmuy seguro... y soy indeciso."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……でも、色んな人が歌を褒めてくれました。\nこんな私のうう、歌を……！"
+      "name": "Meisho Doto",
+      "text": "...Pero, mucha gente dice cosas buenas<n>sobre mi\ncanto. ¡Mi canto!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "だ、だから色んな人に聞いてほしいって……\nちょっとだけ前を向けて……。"
+      "name": "Meisho Doto",
+      "text": "Eso es p-porque quisiera que muchos<n>más personas\npudieran escuchar mi canción... así que...<n>le estoy haciendo frente a mis miedos..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……って、なにを言ってるんですかね！？\nすす、すみません！　勝手に喋って！",
+      "name": "Meisho Doto",
+      "text": "¡Oh no! ¡¿De qué estoy hablando?! Perdón<n>por hablar sin pensar!",
       "choice_data_list": [
-        "自分からもお願いします！"
+        "¡Por favor, considérala como candidata!"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふえっ……と、トレーナーさん……。"
+      "name": "Meisho Doto",
+      "text": "¡Ah! E-Entrenador..."
     },
     {
-      "name": "大会運営委員",
-      "text": "なるほど……お気持ちはわかりました！\r\nアカペラでよければ、出ていいですよ。"
+      "name": "Coordinador de la Competencia",
+      "text": "Hmm... Los escucho a los dos claramente. Si<n>están de acuerdo\ncon cantar a capella, entonces<n>con gusto los aceptaremos."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "いいい、いいんですかぁ！？\nふえええっ、ありがとうございますぅ……！",
+      "name": "Meisho Doto",
+      "text": "¿D-de verdad? ¡Woooow...! Muchas<n>gracias!",
       "choice_data_list": [
-        "よかったな！",
-        "よかったね！"
+        "¡Qué buena noticia!",
+        "¡Qué buena noticia!"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "は、はい……あの、私1人だったら\nすす、ステージに立てませんでしたぁ……。"
+      "name": "Meisho Doto",
+      "text": "Es verdad... Nunca hubiera<n>podido subir al escenario\npor mi cuenta."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ウララさんやシャカールさん……、\nトレーナーさんのおかげですぅ……。"
+      "name": "Meisho Doto",
+      "text": "Todo es gracias a Urara, a Shakur, y<n>a ti,\nEntrenador. Ustedes tres han<n>hecho esto realidad."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "少し、こ、怖いですけど！\nわたっ、私……精一杯がんばりますぅ……！"
+      "name": "Meisho Doto",
+      "text": "Estoy un poco asustada, pero... ¡prometo<n>dar todo mi\nempeño!"
     },
     {
-      "text": "そして、メイショウドトウは\r\nカラオケ大会のステージへ向かった。"
+      "name": "Monólogo",
+      "text": "Con eso, Meisho Doto toma el<n>escenario como la\nsiguiente candidata a cantar."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あっ、えーっと……\nメ、メイショウドトウ！　歌いま――"
+      "name": "Meisho Doto",
+      "text": "Oh, um... Soy Meisho Doto, y voy a<n>cant—"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふばぁっ……！？"
+      "name": "Meisho Doto",
+      "text": "<i>¡Sonido de tos!</i>"
     },
     {
-      "text": "（ザワザワザワザワ……）"
+      "name": "Monólogo",
+      "text": "<i>Murmullo, murmullo...</i>"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふえっ……す、すみません。\nメイショウドトウ……う、歌いましゅ！"
+      "name": "Meisho Doto",
+      "text": "Uff... l-lo siento mucho. Soy Meisho<n>Doto, y...<n>y hoy voy a c-cantar<n>para ustedes."
     },
     {
-      "name": "観客",
-      "text": "おいおい、大丈夫か……？"
+      "name": "Espectadores",
+      "text": "Oye... ¿ella estará bien?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "すー……はぁー…………！"
+      "name": "Meisho Doto",
+      "text": "Inspira... y... ¡exhala!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "波止場の空にぃ　影法師～～♪\n貴方に似ていてぇ　露ホロリ～～♪"
+      "name": "Meisho Doto",
+      "text": "El cielo sobre la bahía... una sombra en<n>el muelle.\\nSe parece a ti,<n>y las lágrimas nublan<n>mis ojos. ♪"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "愛とも知れず　情とも知れず　私は独りぃ――"
+      "name": "Meisho Doto",
+      "text": "El amor y la pasión me abandonan, ¡estoy solaaaaa!"
     },
     {
-      "name": "観客たち",
-      "text": "……！　なんか……グッと来るなぁ……！"
+      "name": "Espectadores",
+      "text": "Vaya... ¡se siente la emoción en la letra!"
     },
     {
-      "text": "気付けば、誰もが静かに耳を傾けていた。\nメイショウドトウの歌が、\n観客たちの心を掴んだようだ……！"
+      "name": "Monólogo",
+      "text": "Solo ahora noto lo silenciosa que<n>la audiencia ha estado—todos están<n>completamente ensimismados con la<n>voz de Meisho Doto. ¡Su canción debe de<n>estar resonando con ellos!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あぁぁぅんあぁ～～～ん！\n貴方はぁ2度と……帰ら……ないぃぃ～～～♪"
+      "name": "Meisho Doto",
+      "text": "¿Dónde estás? Dijiste que nunca...<n>¡volverías! ♪"
     },
     {
-      "name": "観客たち",
-      "text": "お嬢ちゃん！　最高の歌だったよ！"
+      "name": "Espectadores",
+      "text": "Pero, señorita, ¡eso fue una<n>presentación increíble!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あわわわ～～……っ！\nそ、そんな拍手なんて……！？"
+      "name": "Meisho Doto",
+      "text": "¡Oh, oh, ohhh! ¡Q... qué aplausos tan fuertes!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あっ……ご……、\nご清聴、ありがとうございましたぁ！",
+      "name": "Meisho Doto",
+      "text": "Oh, um... G-gracias por escuchar.",
       "choice_data_list": [
-        "アンコール！",
-        "素晴らしい歌声だった……！",
-        "優勝はいただきだな",
-        "優勝はいただきだね"
+        "¡Otro!",
+        "¡Cantar con esa exquisitez!",
+        "Lo tienes todo bajo control.",
+        "Lo tienes todo bajo control."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あっ……ご……、\nご清聴、ありがとうございましたぁ！",
+      "name": "Meisho Doto",
+      "text": "Oh, um... ¡G-gracias por escuchar!",
       "choice_data_list": [
-        "アンコール！",
-        "素晴らしい歌声だった……！",
-        "優勝はいただきだな",
-        "優勝はいただきだね"
+        "¡Otra vez, por favor!",
+        "¡Esa interpretación fue exquisita!",
+        "Lo tienes en la bolsa.",
+        "Lo tienes en la bolsa."
       ]
     },
     {
-      "name": "観客たち",
-      "text": "アンコール！　アンコール！"
+      "name": "Espectadores",
+      "text": "¡Otra vez! ¡Otra vez!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふえっ！？　トレーナーさん……と、\nみみみ、みなさんまで……！？"
+      "name": "Meisho Doto",
+      "text": "¿¡Eh! ¿Tú también, Entrenador, y<n>todos los demás?!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "では……私の歌でよよ、良ければ……！\nが、がんばって歌わせていただきましゅ！"
+      "name": "Meisho Doto",
+      "text": "Bueno, si no te molesta, entonces... ¡Haré<n>lo mejor que pueda\npara cantar de nuevo!"
     },
     {
-      "text": "アンコールに応えて歌うメイショウドトウ。\nいつもより少しだけ、誇らしげに見えた……！"
+      "name": "Monólogo",
+      "text": "Meisho Doto actúa por segunda vez,<n>ganando\nun poco de energía en su paso!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふえぇっ……！？\nそんな私なんてま、まだまだですぅ……！"
+      "name": "Meisho Doto",
+      "text": "¿Eh? No soy n-nada especial... ¡en serio!"
     },
     {
-      "name": "大会運営委員",
-      "text": "いやぁ、ほんと素晴らしい歌声ですよ！\n次の大会にも絶対に出てくださいね！"
+      "name": "Coordinador de Competencia",
+      "text": "¡Oh no, tu voz es increíble! Estaríamos<n>honrados\nde tenerte en nuestra próxima<n>competencia!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ひょわっ！？　でで、出てもいいんですか！？\nあの、あの……よろしくお願いしますぅ！"
+      "name": "Meisho Doto",
+      "text": "¡Uf! ¿D-de verdad está bien? Um... ¡Sería<n>un\nplacer para mí!"
     },
     {
-      "text": "歌声で、次回の『カラオケ大会』出場を\r\nもぎ取るメイショウドトウだった！"
+      "name": "Monólogo",
+      "text": "El canto de Meisho Doto le ha valido un<n>lugar en\nla próxima competencia!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "優勝……！？　む、無理です無理ですぅ……！\nもっともっと上手な人いますからぁ～～！"
+      "name": "Meisho Doto",
+      "text": "¿Crees que he... ¿ganado? ¡No puede ser!<n>cuando\nhay... ¡tantos mejores cantantes<n>aquí!"
     },
     {
-      "name": "観客たち",
-      "text": "いいや！　俺たちは嬢ちゃんを推すぜぇ！！"
+      "name": "Espectadores",
+      "text": "Bueno, ¡tienes nuestro voto, chica!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ひょえっ！？　みみ、みなさんっ！？\nわた、私なんか、私なんか……あわわわ～！？"
+      "name": "Meisho Doto",
+      "text": "¡¿Todos ustedes son demasiado amables<n>con\nalguien como—¡Waaah!"
     },
     {
-      "text": "優勝は正規にエントリーした人が選ばれた。\nしかし、飛び込み参加のメイショウドトウも\n観客の支持を集め、特別賞を受賞できた！"
+      "name": "Monólogo",
+      "text": "Los concursantes ganadores son seleccionados<n>de entre\nlas entradas oficiales. Sin embargo,<n>gracias al apoyo de la audiencia,<n>Meisho Doto se marcha con el<n>premio\nespecial!"
     }
   ]
 }

@@ -2,143 +2,152 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "メイショウドトウとの、\r\nトゥインクル・シリーズ\n最初の3年間が無事終わった。"
+      "name": "Monólogo",
+      "text": "Con la conclusión de la Serie Twinkle, Doto y yo\nhemos logrado superar nuestros primeros tres\naños juntos."
     },
     {
-      "text": "El resultado fue bastante bueno. Eso fue la URA"
+      "name": "Monólogo",
+      "text": "Sus espectaculares resultados captaron<n>la atención\n de la URA, así que se propone una idea."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "えええ、オペラオーさんと私の\n合同表彰式ですかぁ！？"
+      "name": "Meisho Doto",
+      "text": "¿Quieres que participe en una ceremonia de\npremios conjunta? ¿Contigo?"
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "そうとも！　ボクたちの功績を称え、\nファンを集めてくれるそうだ。"
+      "name": "T.M. Opera O",
+      "text": "¡Por supuesto! Hablaremos de nuestros\nlogros ante una audiencia de nuestros fans."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "どうだい、ドトウ？　この特別公演、\nボクとともに演じてみないかい？"
+      "name": "T.M. Opera O",
+      "text": "¿Qué dices, Doto? ¿Te unirás a mí en esta\nactuación especial?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "こ、光栄です～。でも、なんだかすごすぎて\n緊張しそうな気が～。"
+      "name": "Meisho Doto",
+      "text": "S-seria un honor. Pero con una\noportunidad tan grande como esta, estoy\nobligada a ponerme nerviosa."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "どうしましょう、トレーナーさん？",
+      "name": "Meisho Doto",
+      "text": "¿Qué debo hacer, Entrenador?",
       "choice_data_list": [
-        "やってみるか？付き添うから",
-        "やってみる？付き添うから"
+        "¿Por qué no intentarlo? Yo te acompañaré.",
+        "¿Por qué no intentarlo? Yo te acompañaré."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "は、はい～。トレーナーさん付き添いなら\nなんとか。お願いします～。"
+      "name": "Meisho Doto",
+      "text": "Muy bien. Estará bien contigo a mi lado.\nMuchas gracias."
     },
     {
-      "text": "そして――合同表彰式、当日。"
+      "name": "Monólogo",
+      "text": "En el día de la ceremonia conjunta\nde premiación..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ううう、がくがくがく……。\n大丈夫かなぁ。ちゃんと走れるかなぁ。"
+      "name": "Meisho Doto",
+      "text": "Uf, no dejo de temblar... ¿Saldrá\nesto bien? ¿Realmente podré correr así?"
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "おいおい、レースでもないのに、\nレース以上に緊張してどうする？"
+      "name": "T.M. Opera O",
+      "text": "¿Por los nervios escénicos? Estás más\nnerviosa que antes de las carreras."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "ボクが先に入場するから、\n後ろからついてくるがいい。"
+      "name": "T.M. Opera O",
+      "text": "Entraré primero. Lo único que debes\nhacer es seguirme la corriente."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ははは、はい～。\r\nい、行きましょう、トレーナーさん……。"
+      "name": "Meisho Doto",
+      "text": "B-bueno... Vamos, Entrenador..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "がんばらなきゃ、がんばらなきゃ！"
+      "name": "Meisho Doto",
+      "text": "Tengo que dar lo mejor de mí — ¡solo tengo que hacerlo!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あ！"
+      "name": "Meisho Doto",
+      "text": "¡Eep!"
     },
     {
-      "text": "（ビシッ！）"
+      "name": "Monólogo",
+      "text": "<i>¡Smack!</i>"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あわわわっ、ごめんなさい～～～！"
+      "name": "Meisho Doto",
+      "text": "¡Waaaagh, lo siento muchísimo!"
     },
     {
-      "text": "カバンのヒモを顔にぶつけられた……。"
+      "name": "Monólogo",
+      "text": "La correa de su bolso vuela hacia su cara."
     },
     {
-      "name": "イベント実況",
-      "text": "さあ、メイショウドトウ、テイエム\r\nオペラオー、2人そろっての入場です！"
+      "name": "Comentarista del evento",
+      "text": "Hoy, nos acompañan<n>nada menos que<n>Meisho Doto y<n>T.M. Opera O!"
     },
     {
-      "name": "イベント実況",
-      "text": "トゥインクル・シリーズを大いに\n沸かせてくれている2人に、大きな拍手を！"
+      "name": "Comentarista del evento",
+      "text": "¡Por favor, un fuerte aplauso para estos<n>dos, que<n>trajeron tanta emoción a la<n>Serie Twinkle!"
     },
     {
-      "text": "（パチパチパチパチ！）"
+      "name": "Monólogo",
+      "text": "<i>¡Clap, clap, clap!</i>"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はわぁ……ぬくもりが身にしみますぅ。\nみなさん、こんなに優しく……。"
+      "name": "Meisho Doto",
+      "text": "Oh, vaya... Me siento tan cálido y emocionado<n>por dentro.\\nTodos me tratan con tanta<n>amabilidad."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "応えなきゃ。ちゃんと応えなきゃ。\nぶるるるる……。"
+      "name": "Meisho Doto",
+      "text": "Tengo que devolver el favor. Tengo que hacerlo,<n>pero... no puedo\\nparar de temblar."
     },
     {
-      "name": "イベント実況",
-      "text": "では早速、走りを披露してもらいましょう。\n2人で優雅に併走です。"
+      "name": "Comentarista del evento",
+      "text": "Ahora, sin más preámbulos, disfrutemos<n>todos<n>una exhibición elegante de carrera en pareja<n>de estas dos<n>grandes corredoras."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あわわわわっ、本番～！\r\nい、行きますよぉ！！！！！"
+      "name": "Meisho Doto",
+      "text": "Vale, vale, ¡es real! Tengo que<n>empezar...\\n¡A c-correr!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "たあああああああああああああっ！！"
+      "name": "Meisho Doto",
+      "text": "¡Yaaaaah!"
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "おいおいこら、併走だって\n言ってるだろう！"
+      "name": "T.M. Opera O",
+      "text": "¡Doto, no! Se supone que debemos correr<n>juntos!"
     },
     {
-      "text": "メイショウドトウはファンの期待も、\nテイエムオペラオーもぶっちぎって\n走り始めた……。"
+      "name": "Monólogo",
+      "text": "Meisho Doto se escabulle, dejando atrás a<n>T.M.\\nOpera O y las expectativas de<n>sus fans."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はぁ、はぁ、はぁ……。"
+      "name": "Meisho Doto",
+      "text": "<i>Uff, uff, uff...</i>"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あれぇ、オペラオーさんは？"
+      "name": "Meisho Doto",
+      "text": "¿Eh, dónde se metió Opera O?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "おおお置いてきちゃったぁ！？\n私、またやっちゃった～～～。"
+      "name": "Meisho Doto",
+      "text": "Yo... ¡¡la dejé atrás?! O no, ¡otra vez<n>la he cagado..."
     },
     {
-      "name": "ファンたち",
-      "text": "あはははははは！"
+      "name": "Fans",
+      "text": "¡Jajajaja!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "トレーナーさん、すみません～。\n私、ドジでノロマで、\nいつも早とちりばっかり～。"
+      "name": "Meisho Doto",
+      "text": "Lo siento por esto, Entrenador... Soy tan<n>torpe y\\ntonta... Siempre cometo errores<n>inmediatamente."
     },
     {
-      "text": "メイショウドトウは変わったようで\n変わらない。相変わらずドジで\n落ち着きがなく、そして――"
+      "name": "Monólogo",
+      "text": "Meisho Doto ha cambiado en muchos<n>aspectos, pero\\nalgunos hábitos son difíciles de dejar.<n>Aún es la misma torpe\\ny ansiosa de siempre.<n>Aunque..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私、戻ってもう1回やり直します～！\r\n今度こそファンの方やオペラオーさんに\n褒めてもらえるように～！"
+      "name": "Meisho Doto",
+      "text": "Voy a intentarlo una vez más,<n>¡desde el\\nprincipio! ¡Quiero que tanto<n>Opera O como mis fans\\nme animen!"
     },
     {
-      "text": "諦めがものすごく悪い。何度失敗しても、\r\n決してくじけず、最後にはやり遂げる。"
+      "name": "Monólogo",
+      "text": "Ella no es de las que se rinden. Con<n>cada\\nfracaso, se levanta una vez más<n>con determinación, lista para ver\\nel final."
     }
   ]
 }

@@ -2,144 +2,154 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "――夏合宿も最終日。"
+      "name": "Monólogo",
+      "text": "Es el último día del campamento de verano."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あれぇ？　思ったほどダッシュのタイムが\n出ませんねぇ。"
+      "name": "Meisho Doto",
+      "text": "¿Eh? Mi tiempo en la carrera no ha<n>cambiado mucho..."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "ハーッハッハッ！　ドトウ、それはアレだよ。\n夏の陽射しのせいってやつさ。"
+      "name": "T.M. Opera O",
+      "text": "¡Jajaja! ¿Todavía no te das cuenta,<n>Doto?\nDetrás de todos tus problemas están los<n>rayos del sol de verano."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "なるほどぉ。\nでも、どういう意味でしょう？"
+      "name": "Meisho Doto",
+      "text": "Ah, ya veo. Pero, ¿a qué te refieres?"
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "ハーッハッハッハ、その辺は\n夏にでも訊いてくれたまえ！"
+      "name": "T.M. Opera O",
+      "text": "¡Jajaja! Si tienes tanta curiosidad, ¡<n>deberías\npreguntárselo al verano!"
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "まあ、もう1本走れば、きっと\n解消するだろう。征くぞ、ドトウ！"
+      "name": "T.M. Opera O",
+      "text": "Pero también creo que otra vuelta<n>aclararía\ntus dudas. ¡Vamos, Doto!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はいぃ、お願いしますぅ！\nどうにかしなきゃ。どうにか～……！"
+      "name": "Meisho Doto",
+      "text": "¡Vale, gracias por la invitación! Espero que<n>esto\nfuncione—¡de verdad lo espero!"
     },
     {
-      "text": "メイショウドトウの表情に焦りと翳り……。\nやはりどう見ても、その走りには、テイエム\nオペラオーほどの凄みは感じられない……。"
+      "name": "Monólogo",
+      "text": "Meisho Doto parece estar entre asustado y<n>\nindeciso. No importa cómo lo mires, su<n>forma\nde correr no tiene la fuerza pura que tiene<n>Opera\nO."
     },
     {
-      "text": "出口の見えない――停滞と苦悶の夏。"
+      "name": "Monólogo",
+      "text": "Esto se ha convertido en un verano de estancamiento<n>y\nlucha, sin salida a la vista."
     },
     {
-      "text": "と、見覚えのある人影が、\n近くにやってきた。"
+      "name": "Monólogo",
+      "text": "Es entonces cuando aparece una cara familiar."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "…………。",
+      "name": "Admire Vega",
+      "text": "...",
       "choice_data_list": [
-        "君は……！？",
-        "貴方は……！？"
+        "¡Oh, eres tú!",
+        "¡Oh, eres tú!"
       ]
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "確か……ドトウのトレーナーさん？\n……どうも。"
+      "name": "Admire Vega",
+      "text": "Ah, la entrenadora de Doto... Hola."
     },
     {
-      "text": "同期のウマ娘、アドマイヤベガ。\n確かまだ休養していたはずだが……。",
+      "name": "Monólogo",
+      "text": "Es uno de los compañeros de Meisho Doto, Admire<n>Vega. Yo\npensaba que ella todavía estaría en<n>recuperación.",
       "choice_data_list": [
-        "具合はいいのか？",
-        "具合はいいの？"
+        "¿Cómo te sientes?",
+        "¿Cómo te sientes?"
       ]
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "どうにか、出歩けるぐらいには。"
+      "name": "Admire Vega",
+      "text": "Lo suficientemente bien como para caminar, al menos."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "……深刻な顔。どうしたんですか。"
+      "name": "Admire Vega",
+      "text": "...Pareces preocupado también. ¿Qué<n>pasa?"
     },
     {
-      "text": "考えた末……悩みを打ち明ける。\nエアシャカールの仮説\n『数値の天井』について。"
+      "name": "Monólogo",
+      "text": "En mi ingenio, comparto mis preocupaciones sobre la<n>teoría\nde Air Shakur—el \"stat<n>tope\" de Meisho Doto."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "天井……そんな話が……。"
+      "name": "Admire Vega",
+      "text": "La historia del techo... eh..."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "私には……難しい話はわからない。\nでも……。"
+      "name": "Admire Vega",
+      "text": "No se me dan bien las conversaciones<n>complejas, pero..."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "今の2人を私から見れば、\nまた別のものが見えるかも。",
+      "name": "Admire Vega",
+      "text": "Tal vez si las ves desde mi<n>perspectiva,<n>verás algo<n>diferente.",
       "choice_data_list": [
-        "別のもの？"
+        "¿Algo diferente?"
       ]
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "ええ。しばらく距離を置いていたから、\n近いと気づかないものも見えるかも。"
+      "name": "Admire Vega",
+      "text": "Sí. Dar un paso atrás y ver las<n>cosas desde lejos puede ayudarte a ver<n>cosas que no podrías ver de cerca."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "とりあえず見学を。"
+      "name": "Admire Vega",
+      "text": "Por ahora, solo observemos."
     },
     {
-      "text": "メイショウドトウとテイエムオペラオーの\n併走ダッシュを、こっそり見守ることにした。"
+      "name": "Monólogo",
+      "text": "Decido esconderme mientras veo a<n>Meisho Doto y T.M. Opera O<n>correr."
     },
     {
-      "text": "（ダダダダダッ！）"
+      "name": "Monólogo",
+      "text": "<i>¡Dash!</i>"
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "どうした、ドトウ！？\n追いついて来たまえ！"
+      "name": "T.M. Opera O",
+      "text": "¿Qué te pasa, Doto?! ¡Vamos, intenta<n>alcanzarme!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふぅ、ふぅ、はぁ……！\n待ってください～、オペラオーさぁぁぁん！"
+      "name": "Meisho Doto",
+      "text": "<i>Uff... Buff...</i> Por favor... espera... Opera O..."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "…………。",
+      "name": "Admire Vega",
+      "text": "...",
       "choice_data_list": [
-        "何かわかった？"
+        "¿Notaste algo ya?"
       ]
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "……特になにも。\nでも……。"
+      "name": "Admire Vega",
+      "text": "No... nada en particular. Pero..."
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "少し引っかかったことはある。\r\nあの2人……特にドトウは……。"
+      "name": "Admire Vega",
+      "text": "Parece que algo las está<n>frenando.<n>Especialmente a Doto..."
     },
     {
-      "text": "考え込むアドマイヤベガ。かすかに\n感じたこともあるようだが……。"
+      "name": "Monólogo",
+      "text": "Admire Vega está inmersa en sus pensamientos. Parece<n>que está tras algo."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "おおおおお！？　もしかして、\nあそこにいるのは！？　ドトウ、見ろ！"
+      "name": "T.M. Opera O",
+      "text": "¿Ohhh? ¿Mis ojos me engañan? ¡Doto,<n>mira allá!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "え、アヤベ……さん？\nまさ……か……。"
+      "name": "Meisho Doto",
+      "text": "¿Eh, Ayabe? ¿Eres... realmente tú?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "アヤベさぁぁぁん、うわあああああああん！"
+      "name": "Meisho Doto",
+      "text": "¡Waaahhh! ¡Ayabeeee!"
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "その……久しぶり。"
+      "name": "Admire Vega",
+      "text": "Um... es un gusto verte también."
     },
     {
-      "text": "歓待の輪の中に、埋もれる推察。\nこうして悲喜こもごもの夏合宿は終わった。"
+      "name": "Monólogo",
+      "text": "Nuestro momento de observación rápidamente<n>queda eclipsado por un emotivo reencuentro.<n>El campamento de<n>verano de alegrías y pruebas<n>finalmente llega a su fin."
     }
   ]
 }

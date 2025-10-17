@@ -2,102 +2,106 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "トレーニング中にケガをした\r\nメイショウドトウを保健室へ連れてきた。"
+      "name": "Monólogo",
+      "text": "Acompaño a Meisho Doto a la enfermería<n>tras sufrir una lesión en el entrenamiento."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ごめんなさい、本当にごめんなさい！\r\n迷惑ばかりかけて……うぅ……。"
+      "name": "Meisho Doto",
+      "text": "¡Lo siento! ¡Lo siento mucho! Siempre<n>te estoy causando problemas... Ay."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "す、すぐトレーニングに……いっっ！！",
+      "name": "Meisho Doto",
+      "text": "Prometo que volveré a entrenar tan pronto<n>como pueda — ¡Ay!",
       "choice_data_list": [
-        "痛むなら止めておこう"
+        "Si te duele, mejor lo dejamos por hoy."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "で、でも……このまま立ち止まると、\r\nもっと自信をなくしちゃいそうですぅ……。"
+      "name": "Meisho Doto",
+      "text": "P-pero... no tendré ni un ápice de confianza<n>si me detengo ahora..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私はまだ、やれます……！\r\nケガなんて……へ、へっちゃらですぅ！！",
+      "name": "Meisho Doto",
+      "text": "¡Puedo seguir! Esta lesión no me<n>detendrá!",
       "choice_data_list": [
-        "今は安静にしてほしい",
-        "トレーニング、戻ってみるか？",
-        "トレーニング、戻ってみる？"
+        "Preferiría que descanses ahora mismo.",
+        "¿Quieres intentar volver a entrenar?",
+        "¿Quieres intentar volver a entrenar?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私はまだ、やれます……！\r\nケガなんて……へ、へっちゃらですぅ！！",
+      "name": "Meisho Doto",
+      "text": "¡Puedo seguir! Esta lesión no me<n>detendrá!",
       "choice_data_list": [
-        "今は安静にしてほしい",
-        "トレーニング、戻ってみるか？",
-        "トレーニング、戻ってみる？"
+        "Preferiría que descanses ahora mismo.",
+        "¿Quieres intentar volver a entrenar?",
+        "¿Quieres intentar volver a entrenar?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "でも、居ても立ってもいられなくって――\r\n痛みが強くなったら止めますぅ。だから……！",
+      "name": "Meisho Doto",
+      "text": "Pero, no puedo quedarme quieta... Si<n>el dolor se pone feo, me detendré. Así que<n>¡por favor!",
       "choice_data_list": [
-        "治りが遅くなるかも"
+        "Entrenar ahora podría retrasar la curación."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "そ、それは……うぅ。"
+      "name": "Meisho Doto",
+      "text": "Bueno..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "わかりました……休みますぅ。"
+      "name": "Meisho Doto",
+      "text": "Está bien... Me iré a descansar."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……ふっ、うぐっ。ごめ、ごめんなざい……。\r\n私、ケガしてもっとダメダメになってますぅ。"
+      "name": "Meisho Doto",
+      "text": "Ugh... Metí la pata con lo de esta<n>lesión... Lo siento mucho."
     },
     {
-      "text": "メイショウドトウは悔しい気持ちを抑えて、\r\nケガが治るまで安静にしていた……。"
+      "name": "Monólogo",
+      "text": "Meisho Doto traga su<n>decepción, eligiendo descansar hasta<n>estar curada del todo."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "は、はい……！\r\nありがとうございます、トレーナーさん！",
+      "name": "Meisho Doto",
+      "text": "¡S-sí, claro! ¡Muchas gracias,<n>Entrenadora!",
       "choice_data_list": [
-        "無理はしないって約束してほしい"
+        "Prométeme que no te presionarás."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "し、しますぅ！\r\n痛みが酷くなったら止めますね！"
+      "name": "Meisho Doto",
+      "text": "¡Lo prometo! Me detendré si el dolor se vuelve<n>demasiado!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "慎重に……力の加減もこのくらいなら……。"
+      "name": "Meisho Doto",
+      "text": "Con cuidado... Estará bien si no uso<n>demasiada fuerza."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "いっ……いっったぁ～～……！？"
+      "name": "Meisho Doto",
+      "text": "¡Ayayayyyy!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ちょっと力を入れただけなのに……\r\nふえぇ、これじゃあ動けませぇん。"
+      "name": "Meisho Doto",
+      "text": "Eso fue solo una fracción de mi fuerza... Ay,<n>no puedo ni caminar así."
     },
     {
-      "text": "力んで体に負荷がかかったのか、\r\n余計にケガが悪化してしまったようだ……。"
+      "name": "Monólogo",
+      "text": "Hacer cualquier esfuerzo resulta una<n>tarea ardua, y su lesión solo<n>empeora."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "おぉ……なんとかなりそうですぅ。\r\nこの調子なら、もう少し力を入れても……。",
+      "name": "Meisho Doto",
+      "text": "Oh... Yo... creo que aún puedo con todo. Con<n>un poco más de empeño, quizá—",
       "choice_data_list": [
-        "抑えめにしておこう！"
+        "¡Quiero que te tomes con calma!"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "は、はいっ！　そうですね。\r\n無理はしない約束でしたぁ……！"
+      "name": "Meisho Doto",
+      "text": "¡S-sí! ¡Tienes razón! Tengo que<n>cumplir esa promesa!"
     },
     {
-      "text": "力加減をコントロールすることで、\r\nメイショウドトウは練習に復帰できた！"
+      "name": "Monólogo",
+      "text": "Meisho Doto mantiene su fuerza bajo<n>control, ¡y vuelve con éxito al entrenamiento!"
     }
   ]
 }

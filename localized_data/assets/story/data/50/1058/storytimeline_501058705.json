@@ -2,180 +2,185 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "メイショウドトウと出かけた帰り道、\r\n彼女がふと立ち止まった――"
+      "name": "Monólogo",
+      "text": "Estoy de vuelta de un paseo con<n>Meisho\nDoto, cuando de repente se detiene..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あ……ソフトクリーム屋さん……。",
+      "name": "Meisho Doto",
+      "text": "Oh... es una heladería...",
       "choice_data_list": [
-        "食べたいのか？",
-        "食べたいの？"
+        "¿Quieres un poco?",
+        "¿Quieres un poco?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ひえっ！　あのっ、すみませんっ！\r\nちょっと気になっただけっていうか――"
+      "name": "Meisho Doto",
+      "text": "¡Eep! ¡Para nada! Lo siento, es que parecía<n>eso! Solo tenía un poco de curiosidad..."
     },
     {
-      "text": "（ぐぅぅぅぅ～～）"
+      "name": "Monólogo",
+      "text": "<i>Gruñido...</i>"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふわぁあ、違うんですぅ～！　今日はとても\r\n楽しかったので、お腹が空いてしまって……。",
+      "name": "Meisho Doto",
+      "text": "¡Nooo! ¡No es lo que piensas! Es<n>solo que\nhoy me divertí mucho, así que<n>mi estómago está\nvacío y...",
       "choice_data_list": [
-        "食べて行こうか",
-        "食べて行こうよ"
+        "Vamos a comprar uno para llevar.",
+        "Vamos a comprar uno para llevar."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "だっ、ダメですよぉ～。私、絶対\r\n落としたりこぼしたりしちゃいますもん……。",
+      "name": "Meisho Doto",
+      "text": "¡No deberíamos! Probablemente lo derramaré<n>o lo dejaré\ncaer por completo...",
       "choice_data_list": [
-        "ゆっくり食べれば大丈夫"
+        "Eso no pasará si nos tomamos nuestro tiempo."
       ]
     },
     {
-      "text": "メイショウドトウと公園のベンチに座り、\r\nのんびりソフトクリームを味わった。"
+      "name": "Monólogo",
+      "text": "Encontrando un asiento en una banca del parque, saboreo<n>un\nhelado suave con Meisho<n>Doto."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はぁ……おいしかったです、ソフトクリーム。\r\n冷たくて、優しいミルク味で……。"
+      "name": "Meisho Doto",
+      "text": "Mmm... Este helado está delicioso — frío,<n>con el\ndulce sabor de la leche..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "トレーナーさんが言ってくれなかったら、\r\nきっと食べる気になれませんでした……。",
+      "name": "Meisho Doto",
+      "text": "Probablemente habría seguido caminando si<n>no hubieras\ndicho nada, Entrenador.",
       "choice_data_list": [
-        "どうして？"
+        "¿Por qué?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あのぉ、実はですね――"
+      "name": "Meisho Doto",
+      "text": "Oh, um... Verás..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私、子どものころ、ソフトクリームが好きで。\r\nお出かけ先で、両親によくねだってたんです。"
+      "name": "Meisho Doto",
+      "text": "El helado suave siempre ha sido<n>uno de mis\nfavoritos. De niño, solía rogarles<n>a mis padres por uno\ncada vez que<n>salíamos juntos."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "でもドジだから、よく落っことしたり、\r\nヤギさんに食べられちゃったりしてまして。"
+      "name": "Meisho Doto",
+      "text": "Pero no duraba mucho. Siempre<n>se me caía\no una cabra me lo<n>arrebataba de las manos."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "お父さんもお母さんも怒らなかったけど、\r\nごめんなさい～って思うと、だんだん\n食べたいって言えなくなって……。"
+      "name": "Meisho Doto",
+      "text": "Mis padres nunca se enojaron. Pero me sentía tan<n>mal\npor eso, que gradualmente dejé<n>de pedirlo..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "でも今日は、トレーナーさんのおかげで\r\n久しぶりに食べられました……。"
+      "name": "Meisho Doto",
+      "text": "Pero con tu ayuda, estoy comiendo lo que es mi<n>primer helado\ndesde hace mucho tiempo."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "トレーナーさんはいつも、私が諦めてる、\r\nでも憧れてることを、やらせてくれるから――"
+      "name": "Meisho Doto",
+      "text": "Siempre me das la oportunidad<n>de recobrar\nlas cosas de las que casi me rendí<n>en el pasado..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私なんかでも、できること増やせそうって、\r\n勘違い、しちゃいそうです……。",
+      "name": "Meisho Doto",
+      "text": "Tanto así, que incluso empiezo a creer<n>que soy\ncapaz de hacer más. ¿Es ridículo,<n>verdad?",
       "choice_data_list": [
-        "他にどんなチャレンジがしたい？"
+        "¿Qué tipo de cosas te gustaría intentar?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "へっ？　ええと……他にも食べたいものとか\r\n買いたいもの、色々あるんですけど……。",
+      "name": "Meisho Doto",
+      "text": "¿Eh? Bueno... Hay un buen número de<n>otras cosas\nque he pensado en comer...<n>o comprar, pero...",
       "choice_data_list": [
-        "買い物、行くか？",
-        "お買い物、行く？",
-        "じゃあ今からもっと食べ歩きしよう！",
-        "じゃあ今からもっと食べ歩きしようよ！"
+        "¿Quieres venir de compras conmigo?",
+        "¿Quieres venir de compras conmigo?",
+        "¡Hagamos un tour gastronómico!",
+        "¡Vamos a hacer un recorrido gastronómico!"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "へっ？　ええと……他にも食べたいものとか\r\n買いたいもの、色々あるんですけど……。",
+      "name": "Meisho Doto",
+      "text": "¿Eh? Bueno... He pensado en comer<n>bastantes otras cosas\n... o en comprar, pero...",
       "choice_data_list": [
-        "買い物、行くか？",
-        "お買い物、行く？",
-        "じゃあ今からもっと食べ歩きしよう！",
-        "じゃあ今からもっと食べ歩きしようよ！"
+        "¿Quieres venir de compras conmigo?",
+        "¿Quieres venir de compras conmigo?",
+        "¡Vamos a hacer un recorrido gastronómico!",
+        "¡Vamos a hacer un recorrido gastronómico!"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "えっ……お買い物、ですか？\r\nトレーナーさんと一緒に？　うぅ……でもぉ。"
+      "name": "Meisho Doto",
+      "text": "Oh... ¿Ir de compras... juntos? ¿Contigo?<n>Um... Pero..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ご迷惑じゃ、ないですか……？\r\nお出かけして、疲れてたりとか……。",
+      "name": "Meisho Doto",
+      "text": "¿No te vas a... molestar conmigo? ¿Y si<n>me canso\nen medio del camino?",
       "choice_data_list": [
-        "何が欲しいんだ？",
-        "何が欲しいの？"
+        "Dime qué te gustaría comprar.",
+        "Dime qué te gustaría comprar."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "マグカップが、欲しいんです。できたら、\r\nまるまるとしてるかわいいのが。でも――"
+      "name": "Meisho Doto",
+      "text": "He querido comprarme una taza para<n>el café,\nen realidad. Hay una redonda muy<n>linda que he estado\nmirando, pero..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ドジしてお店の商品を割ったらと思うと、\r\n怖くて、1人じゃ買いに行けなくて……。",
+      "name": "Meisho Doto",
+      "text": "Tengo miedo de ir sola... Puedo<n>imaginar\nrompiendo algo sin querer...",
       "choice_data_list": [
-        "大丈夫、フォローする",
-        "大丈夫、フォローするよ"
+        "No te preocupes, yo supervisaré todo.",
+        "No te preocupes, yo supervisaré todo."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ほんとですか？　き、緊張して手が震えたり、\r\n真っ直ぐ歩けなくなったりしたら……。",
+      "name": "Meisho Doto",
+      "text": "¿De verdad? Pero, ¿y si me pongo tan<n>nerviosa que\nmis manos tiemblan, o...? ¿No logro<n>ni siquiera caminar\nderecho?",
       "choice_data_list": [
-        "隣にいるから、頼って"
+        "Estaré a tu lado, confía en mí."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "うぅ……ありがとうございますぅ。\r\n私、きっとやり遂げてみせます……っ。"
+      "name": "Meisho Doto",
+      "text": "Ngh... Muchas gracias. Lo veré hasta<n>el final, lo\nprometo."
     },
     {
-      "text": "安心したのがよかったのか、その後、\r\nメイショウドトウは無事に買い物を済ませた\nのだった。"
+      "name": "Monólogo",
+      "text": "Me alegra que se haya relajado un poco. Logramos<n>terminar\nnuestra ruta de compras sin<n>ningún percance."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "うぅ……あのぉ、私、あんまり食べ歩きって\r\n慣れてなくて……ドジしちゃいそうで……。"
+      "name": "Meisho Doto",
+      "text": "Oh... No puedo caminar y comer al<n>mismo tiempo...\nSeguro que arruino algo."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "でも……トレーナーさんと一緒ならきっと\r\n楽しいですよね……やってみたい、かも……？",
+      "name": "Meisho Doto",
+      "text": "Aunque... sí pienso que sería divertido<n>ir contigo,\nEntrenador. Así que... no pierdo<n>nada con intentarlo, ¿verdad?",
       "choice_data_list": [
-        "メンチカツとか、どう？"
+        "¿Qué tal unas croquetas?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "メンチカツ……揚げたて、おいしいですよね。\r\n肉汁がぶわ～っとあふれて……手と服が\nべとべとに……うぅ……。",
+      "name": "Meisho Doto",
+      "text": "Croquetas... son crujientes y<n>deliciosas,\n¿no? Su relleno jugoso inunda<n>las papilas, pero te llenas de grasa las manos y la ropa... Uf...",
       "choice_data_list": [
-        "たこ焼きとか"
+        "Entonces, ¿y unos takoyaki?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "食べるの下手で……お口の中、\r\nよくヤケドしちゃうんですぅ……。",
+      "name": "Meisho Doto",
+      "text": "Tampoco se me da bien el takoyaki...<n>Me he quemado\nla boca demasiadas veces...",
       "choice_data_list": [
-        "たい焼きもいいよな",
-        "たい焼きもいいよね"
+        "El taiyaki también es bueno.",
+        "El taiyaki también es bueno."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "頭から食べればいいのか、\r\n尻尾から食べればいいのか……！？",
+      "name": "Meisho Doto",
+      "text": "Nunca sé por dónde morder primero... ¿Mejor la<n>cola,\no la cabeza?!",
       "choice_data_list": [
-        "よし、全部試そう！"
+        "¡Muy bien, vamos a comer los tres!"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふわぁあ！　い、いいんでしょうか～。\r\nちょっと怖いですけど……\nでも、あのあの……っ！"
+      "name": "Meisho Doto",
+      "text": "Aaah! ¿En serio, deberíamos? Suena<n>un poco abrumador, pero... ¡Um!"
     },
     {
-      "text": "珍しくはしゃいだ様子のメイショウドトウと、\r\n心行くまで商店街グルメを楽しんだのだった。"
+      "name": "Monólogo",
+      "text": "Con Meisho Doto en un ánimo poco común, exploramos<n>el distrito comercial probando todo<n>lo que\nnos llame la atención."
     }
   ]
 }

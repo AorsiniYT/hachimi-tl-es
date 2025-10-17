@@ -2,167 +2,181 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "メイショウドトウとの最初の3年間は大成功。\n素晴らしい成績を残すことができた。"
+      "name": "Monólogo",
+      "text": "Los primeros tres años de Meisho Doto terminan como<n>un\ninnegable éxito. Ella ha<n>logrado una gran cantidad\nde logros<n>maravillosos."
     },
     {
-      "text": "しかし、その影でずっと言われ続けてきた\nことがある……。"
+      "name": "Monólogo",
+      "text": "Sin embargo, ella sigue atormentada por un<n>susurro persistente\nentre los aficionados a las carreras..."
     },
     {
-      "text": "『テイエムオペラオーさえいなければ、\nもっと輝けた。時代を二分することは\nなかったのではないか？』と。"
+      "name": "Monólogo",
+      "text": "\"Podría haber sido más radiante si<n>solo T.M.\nOpera O no hubiera estado cerca.<n>Hubiera sido\nmejor si hubieran corrido<n>en generaciones separadas.\""
     },
     {
-      "text": "そして――大きな転機がやってきた。"
+      "name": "Monólogo",
+      "text": "Sin embargo, una gran oportunidad llama<n>a nuestra\npuerta."
     },
     {
-      "name": "秋川理事長",
-      "text": "トレーナーよ、提案！　メイショウドトウを\nさらに活躍させるために――"
+      "name": "Director Akikawa",
+      "text": "Entrenador, te traigo una propuesta. He estado<n>pensando\nen formas de mantener a Meisho Doto<n>activa."
     },
     {
-      "name": "秋川理事長",
-      "text": "遠征！　彼女を海外のレースに\n挑戦させる気はないか？",
+      "name": "Director Akikawa",
+      "text": "¿Una expedición para viajar más allá? ¿Has<n>considerado\nalguna vez que compita<n>internacionalmente?",
       "choice_data_list": [
-        "¿Una carrera GⅠ en el extranjero?"
+        "¿Competir en una carrera G1 internacional?"
       ]
     },
     {
-      "name": "秋川理事長",
-      "text": "うむ。メイショウドトウと\r\nテイエムオペラオー。2人を\n競わせるのは惜しいという声もある。"
+      "name": "Director Akikawa",
+      "text": "Efectivamente. Algunos han expresado su<n>insatisfacción\nal ver a Meisho Doto y<n>T.M. Opera O enfrentados\nuno contra el otro."
     },
     {
-      "name": "秋川理事長",
-      "text": "どちらも主役級！　ここはあえて、\n別の道を歩む手もある。考えてはくれぬか？"
+      "name": "Director Akikawa",
+      "text": "Ambos son estrellas, actores principales en su<n>propio\nderecho. Por lo tanto, podría ser sabio para ellos<n>seguir\ncaminos diferentes. ¿Qué piensas<n>tú?"
     },
     {
-      "text": "考えがまとまらないまま、\nメイショウドトウと話すことにした。"
+      "name": "Monólogo",
+      "text": "Incapaz de ordenar mis pensamientos, comparto<n>la\nsugerencia con Meisho Doto."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "なるほど、海外公演か。\r\nこのまま名優同士で競演するのもいいが、\n常にどちらかを脇に回すのは惜しいね。"
+      "name": "T.M. Opera O",
+      "text": "Un debut internacional? Debo decir que,<n>aunque disfruto\ncompitiendo por el centro de atención, sí<n>lamento que no podamos\ncompartirlo."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "さすがは理事長。ボクから見ても、\n時代はさらにドトウに注目すべきだと思う。",
+      "name": "T.M. Opera O",
+      "text": "El director ha propuesto una gran idea.<n>Como\nmiembro de mi era, Doto es bien<n>merecedor de más\natención.",
       "choice_data_list": [
-        "メイショウドトウはどう思う？"
+        "¿Qué piensas, Meisho Doto?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "…………。"
+      "name": "Meisho Doto",
+      "text": "..."
     },
     {
-      "text": "いつもあわただしいメイショウドトウが\n珍しく何も言わない。じっと考え込み、\nそして――"
+      "name": "Monólogo",
+      "text": "Normalmente, esperaría que Meisho Doto saliera<n>volando, pero inusualmente, esta vez,<n>ella está callada. Pero\nentonces..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "時代……。"
+      "name": "Meisho Doto",
+      "text": "Una era..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "時代……。私の時代……。\nオペラオーさんの時代……。"
+      "name": "Meisho Doto",
+      "text": "Mi era... y la era de Opera O..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "2つに分ければ、2倍になって\n2人とももっと幸せに……。"
+      "name": "Meisho Doto",
+      "text": "Si nos separamos, duplicaremos nuestros<n>beneficios.\nLos dos seríamos más<n>felices que nunca..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "そういう……ことですか？",
+      "name": "Meisho Doto",
+      "text": "¿Es eso... lo que estás tratando de decir?",
       "choice_data_list": [
-        "ああ、そういうことだ",
-        "うん、そういうこと"
+        "Sí, así es.",
+        "Sí, eso es correcto."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私は……私は……。"
+      "name": "Meisho Doto",
+      "text": "Yo... Yo..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私は……いやです。"
+      "name": "Meisho Doto",
+      "text": "Yo... no quiero eso."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "何！？　ドトウ、断るというのか。"
+      "name": "T.M. Opera O",
+      "text": "¿Qué? ¿Es esto un rechazo, Doto?"
     },
     {
-      "text": "メイショウドトウらしからぬ、\nハッキリした口調だった。"
+      "name": "Monólogo",
+      "text": "Meisho Doto habla con una firmeza<n>rara vez\nescuchada de ella."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "もし私がいなければ、オペラオーさんは\nもっと活躍できたんでしょうか？"
+      "name": "Meisho Doto",
+      "text": "Dices que, sin mí, Opera O<n>habría\\logrado mucho más."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "オペラオーさんがいなければ、私はもっと\n勝てたんでしょうか？"
+      "name": "Meisho Doto",
+      "text": "Y yo también, si no fuera por<n>competir con\nOpera O."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私は、そうは思いません。オペラオーさんが\nいたから、私は強くなれた……。"
+      "name": "Meisho Doto",
+      "text": "Pero, no creo que sea verdad. Solo soy<n>fuerte\nporque Opera O estaba ahí."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私がいたから、きっとオペラオーさんだって\n……今のオペラオーさんなんです！"
+      "name": "Meisho Doto",
+      "text": "Quien eres ahora, Opera O... tiene<n>que ver\nconmigo. ¡Solo sé eso!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私たちだって昔のままじゃない。\nお荷物からライバルになりましたけど……\n離れたって、2倍になんてならない。"
+      "name": "Meisho Doto",
+      "text": "Ya no somos quienes éramos en el<n>pasado. Yo\ncambie de ser una carga a una<n>rival. Tomar\ncaminos separados... no<n>va a duplicar\nnada."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "離れたら私は私じゃないし、\nオペラオーさんはオペラオーさんじゃない。"
+      "name": "Meisho Doto",
+      "text": "Si estamos separados, yo no seré yo.<n>Ni tú\ntú serás tú, Opera O."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "『その人がいなかったら』じゃなく\n『その人がいたから』この先も\n進んでいけるんです！"
+      "name": "Meisho Doto",
+      "text": "Voy a seguir adelante agradecido<n>de que\ntú estés aquí, ¡no de imaginar si no<n>estuvieras!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "だから……。",
+      "name": "Meisho Doto",
+      "text": "Entonces...",
       "choice_data_list": [
-        "……わかった"
+        "...Entiendo."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "トレーナーさん……いいんですか？",
+      "name": "Meisho Doto",
+      "text": "¿Realmente... estás bien con esto, Entrenador?",
       "choice_data_list": [
-        "君の言う通りだ",
-        "貴方の言う通りだよ"
+        "Por supuesto. Tienes toda la razón, después de todo.",
+        "Por supuesto. Tienes toda la razón, después de todo."
       ]
     },
     {
-      "text": "その言葉を聞いて、確信した。\n外から見ても、わからないものがある。"
+      "name": "Monólogo",
+      "text": "Algunas cosas son difíciles de entender<n>solo\nmirando desde afuera, pero estoy<n>totalmente\nconvencido después de escucharla."
     },
     {
-      "text": "決して分けられないもの。不可分なもの。\nそうでなければ、この3年、\nここまでの輝きを放てたわけがない。"
+      "name": "Monólogo",
+      "text": "Esos dos tienen algo especial<n>que\nno puede separarse. Es<n>irrompible. Sin ello,\nella no<pudo>haber mostrado su brillo estos<n>últimos\ntres años."
     },
     {
-      "text": "そして――2人のレースは続く！"
+      "name": "Monólogo",
+      "text": "¡Esta es su carrera, y debe continuar!"
     },
     {
-      "name": "ドトウ&オペラオー",
-      "text": "たぁぁぁああああああああっ！\nハアアアアアアアアアアアッ！"
+      "name": "Doto y Opera O",
+      "text": "¡Yaaaaah! ¡Haaaaah!"
     },
     {
-      "text": "（ダダダダダダダッ！）"
+      "name": "Monólogo",
+      "text": "<i>¡Pum, pum, pum, pum!</i>"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はぁ、はぁ、はぁ、次は……次も\r\n負けませんよぉ、オペラオーさん！"
+      "name": "Meisho Doto",
+      "text": "<i>Uff, uff...</i> No voy a... ¡No perderé la próxima<n>vez, Opera O!"
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "ああ、来いドトウ！　生涯不変！\n運命に刻まれた、我が永遠の宿敵よ！"
+      "name": "T.M. Opera O",
+      "text": "¡Ven, Doto! Nuestro vínculo es eterno,<n>mi querida\nrival. Estás unida a mí por<n>el destino!"
     },
     {
-      "text": "（ワアアアアアアアアアアアッ！！）"
+      "name": "Monólogo",
+      "text": "¡Woooo!"
     },
     {
-      "text": "今日もファンたちは、2人の僅差の力戦に\n熱狂する。そう今は――"
+      "name": "Monólogo",
+      "text": "Hoy, una vez más, sus fanáticos se agitan<n>con emoción\nal ver otra batalla cerrada.<n>Así es..."
     },
     {
-      "text": "メイショウドトウとテイエムオペラオー、\n2人の時代。2人がともにいたからこそ、\nそれはウマ娘史の中で、熱く輝き続ける。"
+      "name": "Monólogo",
+      "text": "Esta era pertenece a Meisho Doto<i>y</i><n>T.M. Opera\nO. Indispensables el uno<n>para el otro, brillan\ncomo dos estrellas en<n>la historia de las carreras."
     }
   ]
 }

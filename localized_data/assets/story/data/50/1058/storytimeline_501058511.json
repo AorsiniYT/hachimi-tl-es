@@ -2,202 +2,207 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "メイショウドトウと校舎へ向かう途中、\nキングヘイローの声が聞こえてきた。"
+      "name": "Monólogo",
+      "text": "Estoy caminando por la academia con<n>Meisho\nDoto cuando oímos la<n>voz de King Halo."
     },
     {
-      "name": "キングヘイロー",
-      "text": "そう！　一流のウマ娘といえば、この私！！"
+      "name": "King Halo",
+      "text": "¡Sí! Si buscas un corredor de primera<n>clase, no busques\nmás allá de..."
     },
     {
-      "name": "取り巻きーズ",
-      "text": "キングヘイロー！！",
+      "name": "Séquito",
+      "text": "¡King Halo!",
       "choice_data_list": [
-        "あれは一体……？"
+        "¿Qué está pasando?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はわわ……噂のキングコールですぅ……。"
+      "name": "Meisho Doto",
+      "text": "Oh, vaya... Así que esa es la<n>Mención del Rey..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "き、キングさんも堂々としていて――\nすごく、ま、眩しいですねぇ……。"
+      "name": "Meisho Doto",
+      "text": "K-King se lleva con tanta elegancia... Es<n>realmente\nradiante..."
     },
     {
-      "name": "キングヘイロー",
-      "text": "ごきげんよう、ドトウさん。\n先ほどから熱い視線、どうもありがとう。"
+      "name": "King Halo",
+      "text": "Buenos días, Doto. Y gracias por esa<n>mirada\nintensa."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ひょわっ～～～！？　すっ、すみません！\n盗みみみ見するつもりではっ……！"
+      "name": "Meisho Doto",
+      "text": "¿¡Eh?! ¡Lo s-siento! ¡No fue mi<n>intención!"
     },
     {
-      "name": "キングヘイロー",
-      "text": "いいの、言わなくてもわかってるわ。"
+      "name": "King Halo",
+      "text": "No hay de qué preocuparse. Tus<n>intenciones son\nclaras como el día."
     },
     {
-      "name": "キングヘイロー",
-      "text": "あなたもキングコールで私を讃えたいのね！"
+      "name": "King Halo",
+      "text": "Deseas recitar la Mención del<n>Rey con\nnosotros, ¿no es así?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ひょわっ！　そそ、そんな私がっ……！？\r\n自信ないです、きっとできましぇ～～ん……！"
+      "name": "Meisho Doto",
+      "text": "Aaagh! E-espera, ¿yo? ¡No creo que<pueda! Estoy seguro de que... lo arruinaré..."
     },
     {
-      "name": "キングヘイロー",
-      "text": "おーっほっほっほ！　安心なさい！\nこのキングから直々に教わる権利をあげる！"
+      "name": "King Halo",
+      "text": "¡Ohohoho! No te preocupes por esa<n>cabecita tuya! Te\nestoy otorgando el derecho de<n>aprender directamente de mí!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "き、キングさんが教えてくれるんですか？\n私なんかに……あわわわ……！？"
+      "name": "Meisho Doto",
+      "text": "¿Tú... estás dispuesta a enseñar... a<n>alguien como... yo? ¡¿Huuuh?!"
     },
     {
-      "text": "メイショウドトウが戸惑う中、\nキングコールの練習が始まった――"
+      "name": "Monólogo",
+      "text": "King Halo comienza su lección en medio de la<n>confusión de Meisho Doto."
     },
     {
-      "name": "キングヘイロー",
-      "text": "私の名前は？"
+      "name": "King Halo",
+      "text": "¿Cuál es mi nombre?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "キ……ングさん、ですぅ…………！"
+      "name": "Meisho Doto",
+      "text": "Ki... ¡King!"
     },
     {
-      "name": "キングヘイロー",
-      "text": "そこは『キング！』よ！\n歯切れよく、スパッと言うのが肝心なの。"
+      "name": "King Halo",
+      "text": "La respuesta correcta es \"¡King\"! Es<n>importante\nmantener tu pronunciación<n>clara y concisa."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "キ、キン、キンキン…………キ、ン、グ……\n…………………………さん！！"
+      "name": "Meisho Doto",
+      "text": "Ki... Kin... ¡Kin-guh!"
     },
     {
-      "name": "ネコ目のウマ娘",
-      "text": "惜しい！　『キング！』ですよ！\r\nはっきり言っちゃいましょ～♪"
+      "name": "Umamusume Ojos de Almendra",
+      "text": "¡Muy cerca! En realidad debería sonar como<n>\"¡King\"! Intenta\ndecirlo claramente, ¿vale? ♪"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふわぁぁ～～ん、すみませ～ん……！\nどど、どうしても呼び捨てできないですぅ～！",
+      "name": "Meisho Doto",
+      "text": "¡Ohhhh, lo siento! P-parece que no<n>puedo hacerlo\nbien!",
       "choice_data_list": [
-        "君の苦手分野かもな……",
-        "貴方の苦手分野かもね……"
+        "Supongo que sí tienes problemas para vocalizar...",
+        "Supongo que sí tienes problemas para vocalizar..."
       ]
     },
     {
-      "name": "キングヘイロー",
-      "text": "なら克服するチャンスね！\nさあ、できるまでトライよ！"
+      "name": "King Halo",
+      "text": "Entonces considera esto tu oportunidad para<n>superar tus\nnervios! Ahora, intenta<n>repetir mi nombre hasta que lo consigas!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "で、でも、これ以上キングさんたちの時間を\nいいい、頂けませぇ～～ん……！"
+      "name": "Meisho Doto",
+      "text": "P-pero, ¡seguro que no debo<n>desperdiciar más\ntu tiempo, King!"
     },
     {
-      "name": "ボブヘアのウマ娘",
-      "text": "ヘーキですよ～。3人とも予定ないから\r\n気にしないでくださ～い。"
+      "name": "Umamusume de Pelo Corto",
+      "text": "No, está bien. Nosotros tres no tenemos<n>ningún lugar\na donde ir, así que tómate tu tiempo."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "そ、そういうわけには……！\nあの、帰って自主練やっておきますっ……！\n本当にすすす、すみませぇ～ん！"
+      "name": "Meisho Doto",
+      "text": "¡N-no podría hacer eso! Um, ¡practicaré<n>por mi cuenta una vez que llegue a casa!<n>P-pido disculpas por\ntodo esto!"
     },
     {
-      "name": "キングヘイロー",
-      "text": "自主練？　あなた……。"
+      "name": "King Halo",
+      "text": "¿Practicar por tu cuenta? Tú..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あっ、いや、その……！\nごめんなさい、ごめんなさいぃ～～！"
+      "name": "Meisho Doto",
+      "text": "Bueno, no, lo que quería decir era... Lo siento, ¡lo siento mucho!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私……ビシッと決めたくてぇ……。\n成功……できたら、キングさんみたいに\n少し自信、持てるかなって……うぅ。"
+      "name": "Meisho Doto",
+      "text": "Quiero hacerlo bien de una vez... Si lo hago,<n>quizás me<n>vuelva un poco más segura, justo<n>como tú,<n>King... Ohh..."
     },
     {
-      "name": "キングヘイロー",
-      "text": "ふふっ……あなたのガッツ、気に入ったわ。\nキングコール、成功するまでやるわよ！！"
+      "name": "King Halo",
+      "text": "Jeje... Me gusta que tengas tanto entusiasmo. ¡Vamos a<n>recitar<n>la Mención de Honor del Rey hasta que<n>lo consigas!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふわっ……い、いいんですかぁ……！？"
+      "name": "Meisho Doto",
+      "text": "¿En serio?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "その、あの、キングさん、私ぃ……！\nせせっ、精一杯がんばりましゅ～～っ！！",
+      "name": "Meisho Doto",
+      "text": "King... bueno, em... ¡Yo pwometo que haré mi mejor es-fuerzo!",
       "choice_data_list": [
-        "ナイスガッツ！",
-        "まずは休憩にしようか"
+        "¡Ese es el espíritu!",
+        "Primero tomemos un descanso."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "よよよっ、よ～～し！\nや、やるぞぉ～～～～……！"
+      "name": "Meisho Doto",
+      "text": "¡B-b-bueno! ¡Hagámoslo!"
     },
     {
-      "name": "キングヘイロー",
-      "text": "そうだ、この子たちと一緒にやってみましょ！\n2人がいれば呼び捨ても気が楽でしょう？"
+      "name": "King Halo",
+      "text": "Haré que practiques con las otras<n>dos!<n>Quizás sus contribuciones te ayuden a<n>entrar en calor con la entonación."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "は、はいっ……！"
+      "name": "Meisho Doto",
+      "text": "¡Entendido!"
     },
     {
-      "text": "さらに練習を続けたメイショウドトウ。\n特訓は夕暮れまで続き――"
+      "name": "Monólogo",
+      "text": "Meisho Doto continúa con su entrenamiento<n>hasta bien entrada la tarde."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "じゃあ、飲み物をか、買ってきますね……！"
+      "name": "Meisho Doto",
+      "text": "Voy a comprarnos bebidas para todos, ¿vale?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "すっ、すみませ～～ん！\nお財布を忘れてしまいましたぁ……！"
+      "name": "Meisho Doto",
+      "text": "Ay, no... Realmente lo siento p-pero no<n>traje mi cartera."
     },
     {
-      "name": "キングヘイロー",
-      "text": "ケアレスミスも目立つわね……。\nいいわ、隅から隅まで教えてあげる！"
+      "name": "King Halo",
+      "text": "Tu descuido es bastante notable...<n>No<n>importa, supongo que esto amerita una<n>guía exhaustiva!"
     },
     {
-      "text": "十分に休んだ後、キングヘイローから\r\nみっちり指導を受けた。そして――"
+      "name": "Monólogo",
+      "text": "Las enseñanzas estrictas de King Halo se reanudan después de<n>tomarnos un tiempo para relajarnos y recuperarnos."
     },
     {
-      "name": "キングヘイロー",
-      "text": "¡K (Keeeh)!"
+      "name": "King Halo",
+      "text": "¡K!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "輝ける希望の星ぃ～～！"
+      "name": "Meisho Doto",
+      "text": "K significa 'kindling' — ¡la chispa de<n>esperanza!"
     },
     {
-      "name": "キングヘイロー",
-      "text": "¡I (Aaiih)!"
+      "name": "King Halo",
+      "text": "¡I!"
     },
     {
-      "name": "取り巻きーズ",
-      "text": "一流を超えた、超一流♪"
+      "name": "Entourage",
+      "text": "I significa increíble — ¡Increíblemente<n>de primera clase! ♪"
     },
     {
-      "name": "キングヘイロー",
-      "text": "¡N (Eennuh)!"
+      "name": "King Halo",
+      "text": "¡N!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "能ある鷹は爪を隠さない！"
+      "name": "Meisho Doto",
+      "text": "N es de noble — ¡quien noblemente<n>brandiza su talento!"
     },
     {
-      "name": "キングヘイロー",
-      "text": "¡G (Jiiiiih)!"
+      "name": "King Halo",
+      "text": "¡G!"
     },
     {
-      "name": "3人",
-      "text": "グレートなウマ娘ッ！\nキーング……ヘイローーーッ！！"
+      "name": "The Three",
+      "text": "G es de grandioso! ¡Porque King Halo es<n>grandioso!"
     },
     {
-      "name": "キングヘイロー",
-      "text": "おーっほっほっほっほっほ！\n新・キングコールまで\n習得するとはやるじゃない！"
+      "name": "King Halo",
+      "text": "¡Ohohoho! Aplaudo tu rapidez en<n>dominar<n>mi nueva Mención de Honor del Rey!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あっ、いや、そ、その……えへへっ……。"
+      "name": "Meisho Doto",
+      "text": "Oh, no... Para nada... Jeje."
     },
     {
-      "text": "練習の過程で生まれた新・キングコールも\r\n成功させるメイショウドトウだった。"
+      "name": "Monólogo",
+      "text": "Mediante la práctica, Meisho Doto logra<n>realizar la nueva Mención del Rey<n>Commendation."
     }
   ]
 }

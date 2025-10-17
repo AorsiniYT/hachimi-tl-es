@@ -2,88 +2,92 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "ある日、ファストフード店に立ち寄ると、\r\nメイショウドトウとばったり会った。"
+      "name": "Monólogo",
+      "text": "Un día, paso por un restaurante de<n>comida rápida—solo para toparme con Meisho<n>Doto."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "トレーナーさんはお食事ですかぁ？\r\n私はタイキさんに誘われてきたんです～。"
+      "name": "Meisho Doto",
+      "text": "¿Tú también viniste a comer, Entrenador? Yo<n>estoy aquí porque Taiki me invitó."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あっ、戻ってきましたぁ。\r\nおかえりなさい、タイキさ～ん。"
+      "name": "Meisho Doto",
+      "text": "Oh, ¡ya llegó! Bienvenido de nuevo,<n>Taiki."
     },
     {
-      "name": "タイキシャトル",
-      "text": "お待たせ～☆　オゥ、ドトウの\r\nトレーナーさんも来てたんデスネ！"
+      "name": "Taiki Shuttle",
+      "text": "¡Perdón por la demora! ☆ Oh, ¡y mira,<n>tu entrenador también está aquí!"
     },
     {
-      "name": "タイキシャトル",
-      "text": "ちょうどよかったデス！\r\nレッツ・イート・トゥギャザー！"
+      "name": "Taiki Shuttle",
+      "text": "Digo, ¡qué buen timing! ¿Por<n>qué no comemos todos juntos?"
     },
     {
-      "text": "そう言って、タイキシャトルは\r\nテーブルにハンバーガーを積み上げた。"
+      "name": "Monólogo",
+      "text": "Entonces, Taiki Shuttle comienza a amontonar varias<n>hamburguesas sobre la mesa."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あわわわ！\r\nこ、この量はいったい……！？"
+      "name": "Meisho Doto",
+      "text": "Oh, cielos. E-eso es mucho... ¿no<n>crees?!"
     },
     {
-      "name": "タイキシャトル",
-      "text": "いつも助けてくれるお礼デス！\r\nペンをたくさん貸してくれてサンクス！"
+      "name": "Taiki Shuttle",
+      "text": "Bueno, ¡considéralo una muestra de agradecimiento!<n>Tú siempre tienes un bolígrafo cuando lo<n>necesito!"
     },
     {
-      "name": "タイキシャトル",
-      "text": "カンシャを込めたプレゼント……名付けて、\r\n『ハンバーガータワー』をドウゾ！"
+      "name": "Taiki Shuttle",
+      "text": "Por esto, nombro oficialmente a<n>esta presente la \"Torre de<n>Hamburguesas\"."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私にプレゼントだなんて……！\r\nいいんですか！？　う、うれしいです！"
+      "name": "Meisho Doto",
+      "text": "¿Un regalo... para mí? ¿En serio? ¡Estoy<n>tan feliz!"
     },
     {
-      "name": "タイキシャトル",
-      "text": "よかったデス！　でも無理しないで、\r\n食べられない分はトゥ・ゴーしてクダサイネ！"
+      "name": "Taiki Shuttle",
+      "text": "Eso esperaba. ¡Pero no te forces a<n>comértelo todo! Podemos<n>guardar el resto!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……いえ、食べきります。食べきって――"
+      "name": "Meisho Doto",
+      "text": "No, me comeré todo. Así es cómo..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "タイキさんの気持ちに応えたいですぅ！！",
+      "name": "Meisho Doto",
+      "text": "¡Te devolveré tu consideración, Taiki!",
       "choice_data_list": [
-        "美味しく食べられる量に抑えて！",
-        "ありがたく全部いただこう"
+        "Está bien si tomas tu tiempo y lo saboreas.",
+        "Demuestra tu agradecimiento comiéndotelo todo."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あう……そ、そうですね。\r\nせっかくのプレゼント、じっくり味わいます！"
+      "name": "Meisho Doto",
+      "text": "T-tienes razón... Es mejor saborear<n>un presente tan maravilloso!"
     },
     {
-      "name": "タイキシャトル",
-      "text": "イエース！\r\nデリシャスに食べるのがハッピーね！"
+      "name": "Taiki Shuttle",
+      "text": "¡Sí, señorita! Eso me agradaría<n>mucho más. ¡Bon appétit!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "は、はい。いただきます！\r\n……えへへっ。"
+      "name": "Meisho Doto",
+      "text": "O-okey. ¡Allá voy!<n>Ehehe..."
     },
     {
-      "text": "メイショウドトウは食べ過ぎることなく、\r\nハンバーガーを堪能できたようだ！"
+      "name": "Monólogo",
+      "text": "Meisho Doto disfruta lo que puede,<n>experimentando el sabor completo de las<n>hamburguesas."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はいっ！　い、いただきまーぁす！"
+      "name": "Meisho Doto",
+      "text": "¡Bueno, vamos allá!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はむ……むぐっ、もぐもぐ！\r\nお、おいひいですぅ……！"
+      "name": "Meisho Doto",
+      "text": "<i>¡Nam...! Crunch, crunch!</i> ¡Es tan delicioso!"
     },
     {
-      "name": "タイキシャトル",
-      "text": "オゥ！　アメイジング！\r\nワイルドな食べっぷりデスネ……！"
+      "name": "Taiki Shuttle",
+      "text": "¡Guau, eso es impresionante! Comes<n>como un coyote hambriento!"
     },
     {
-      "text": "メイショウドトウは食い倒れる勢いで、\r\nハンバーガーを食べ尽くしたのだった。"
+      "name": "Monólogo",
+      "text": "Meisho Doto ataca su comida con<n>vigor, consumiendo todo hasta el<n>último bocado."
     }
   ]
 }

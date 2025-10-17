@@ -2,27 +2,25 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
       "text": "En mi día libre, decido dar un paseo<n>por la ciudad."
     },
     {
       "name": "Meisho Doto",
-      "text": "Oooh... Uuugh..."
+      "text": "Ohhh... Urrrgh..."
     },
     {
-      "name": "Monólogo",
-      "text": "Y en el camino, me encuentro con una<n>silueta muy familiar, temblando<n>de una manera igualmente familiar.<n>¿Podría estar llorando?",
+      "text": "Y en el camino, me encuentro con una<n>figura muy familiar, temblando de una<n>manera igualmente familiar. ¿Podría estar llorando?",
       "choice_data_list": [
         "Doto..."
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¡Uwah! ¡L-lo siento por estar aquí! Me voy<n>ahora mismo—"
+      "text": "¡Wah! L-lo siento por quedarme aquí! ¡Me moveré<n>ahora mismo—"
     },
     {
       "name": "Meisho Doto",
-      "text": "¿Hm? Espera... ¿Entrenador? Ahhh, ¡menos<n>mal que eres tú! ¡H-hola!",
+      "text": "¿Hm? ¿Espera... ¿Entrenador? Ahhh, ¡qué<n>bien que seas tú! ¡H-hola!",
       "choice_data_list": [
         "¿Qué estás haciendo?",
         "¿Qué estás haciendo?"
@@ -30,52 +28,50 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Y-yo, eem... Salí a comprar algo de<n>ropa, pero... Todas estas tiendas son tan<n>elegantes...<n>¿Realmente puedo simplemente entrar?"
+      "text": "E-esto es, emmm... Vine a comprar algo de<n>ropa, pero... Todas estas tiendas son<n>tan elegantes... ¿De verdad puedo entrar así nomás?"
     },
     {
       "name": "Meisho Doto",
-      "text": "¡N-no, claro que no! ¡Alguien como yo<n>nunca podría usar cosas tan bonitas!<n>¡L-lo único que me queda es esa<n>bolsa de plástico de allí!<n>¡Solo usaré eso!",
+      "text": "¡N-no, claro que no! Alguien como yo<n>nunca podría usar algo tan lindo~<n>Lo único que me queda es esa<n>bolsa de plástico de allá! ¡Me pondré esa!",
       "choice_data_list": [
-        "¡Por favor, no!",
-        "¡Por favor, no!"
+        "¡Por favor, no lo hagas!",
+        "¡Por favor, no lo hagas!"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¡¿H-huh?! P-pero necesito ropa nueva...<n>Todas mis otras se arruinaron...",
+      "text": "P-pero necesito ropa nueva... Todas mis<n>otras se arruinaron...",
       "choice_data_list": [
-        "Cómo demonios..."
+        "¿Cómo es posible...?"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Y-yo estaba revisando mi ropa para ver<n>qué ya no uso... y antes de<n>darme cuenta, toda mi ropa estaba hecha<n>pedazos...",
+      "text": "Iba revisando mi ropa para ver<n>qué ya no uso...<n>y antes de que me diera<n>cuenta, toda mi ropa estaba hecha<n>jirones...",
       "choice_data_list": [
-        "¡¿Cómo demonios?!"
+        "¿Cómo es posible?!"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "E-es mi culpa, en realidad... No debería haber<n>tenido la ventana abierta..."
+      "text": "E-es mi culpa, de verdad... No debí tener<n>la ventana abierta..."
     },
     {
       "name": "Meisho Doto",
-      "text": "¡Y-yo solo intentaba traer aire fresco<n>a la habitación! Nunca esperé que mis<n>blusas y faldas... se... Ooohhhh..."
+      "text": "¡Solo trataba de traer un poco de aire fresco<n>a la habitación! Nunca esperé que mis<n>blusas y faldas... se convirtieran en... Ooohhh..."
     },
     {
-      "name": "Monólogo",
-      "text": "No... creo que necesite saber más. En<n>resumen, parece que Doto necesita ropa<n>nueva, pero tiene demasiado miedo de<n>entrar sola a las tiendas.",
+      "text": "Creo que no necesito saber más. En<n>resumen, parece que Doto necesita ropa<n>nueva, pero tiene demasiado miedo para entrar sola a las<n>tiendas.",
       "choice_data_list": [
-        "En ese caso, ¿por qué no me acompañas?",
-        "En ese caso, ¿por qué no me acompañas?"
+        "En ese caso, ¿por qué no te ayudo?",
+        "En ese caso, ¿por qué no te ayudo?"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¡¿Eh?! ¡De ninguna manera!"
+      "text": "¿Eh?! ¡De ninguna manera!"
     },
     {
-      "name": "Monólogo",
       "text": "Un poco duro, pero al menos me lo dijo<n>directamente..."
     },
     {
@@ -84,29 +80,27 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Es solo que... ¡No importa! ¡Estoy bien! Yo... yo..."
+      "text": "Es solo que... ¡No importa! Estoy bien. ¡Yo...!"
     },
     {
       "name": "Meisho Doto",
-      "text": "¡Solo usaré bolsas de plástico por el resto de mi<n>vida!",
+      "text": "Usaré bolsas de plástico por el resto de mi<n>vida~!",
       "choice_data_list": [
-        "¡¿Doto?!"
+        "¿Doto?!"
       ]
     },
     {
-      "name": "Monólogo",
-      "text": "Sale corriendo, pero gracias a su falda<n>larga, no puede correr tan rápido como<n>de costumbre. ¡Podría alcanzarla!"
+      "text": "Ella sale huyendo, pero gracias a su falda<n>larga, no puede correr tan rápido como de costumbre. ¡Podría<n>alcanzarla después de todo!"
     },
     {
       "name": "Meisho Doto",
-      "text": "<I>Uff... Uff... Uff...</I> ¿P-por qué?!"
+      "text": "<i>Uff... Uff... Uff...</i> ¿P-pero por qué?"
     },
     {
       "name": "Meisho Doto",
       "text": "¿Por qué me sigues?!"
     },
     {
-      "name": "Monólogo",
       "text": "Finalmente, llegamos al final de nuestra persecución...",
       "choice_data_list": [
         "¡Doto!"
@@ -114,117 +108,112 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "¡¿Uwaaah?! ¿P-por qué sigues persiguiéndome?!",
+      "text": "¡Waaah! ¿P-por qué me sigues persiguiendo?",
       "choice_data_list": [
-        "¿Por qué <I>tú</I> sigues huyendo?!",
-        "¿Por qué <I>tú</I> sigues huyendo?!"
+        "¿Por qué <i>tú</i> sigues huyendo?",
+        "¿Por qué <i>tú</i> sigues huyendo?"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¡Eep! ¡L-lo siento! ¡Realmente lo siento!"
+      "text": "¡Eep! ¡L-lo siento! ¡De verdad!"
     },
     {
       "name": "Meisho Doto",
-      "text": "P-pero no quiero molestarte! Quiero decir,<n>¡se supone que hoy es tu día libre!"
+      "text": "P-pero no quiero molestarte. Es que,<n>hoy se supone que sea tu<n>día libre!"
     },
     {
       "name": "Meisho Doto",
-      "text": "Y-y si ocupo tu tiempo incluso en tu<n>día libre... Eso me haría la peor de<n>todas!",
+      "text": "Y-y si te quito tiempo en tu<n>día libre... Eso me haría la peor de<n>las peores.",
       "choice_data_list": [
-        "¿Qué? ¿Cómo?"
+        "¿Cómo? ¿Por qué?"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Ya tienes que lidiar conmigo y mis<n>meteduras de pata casi a diario..."
+      "text": "Tú ya tienes que lidiar conmigo y mis<n>metidas de pata casi a diario..."
     },
     {
       "name": "Meisho Doto",
-      "text": "No quiero cansarte más de lo que ya<n>lo hago... Necesitas un descanso...<n>lejos de mí..."
+      "text": "No quiero cansarte más de lo que<n>ya lo hago... Necesitas un<n>descanso... lejos de mí..."
     },
     {
-      "name": "Monólogo",
-      "text": "Dejando de lado la forma autodespreciativa<n>en que lo expresa, Meisho Doto<n>claramente intenta ser considerada conmigo."
+      "text": "Dejando de lado cómo ella se<n>menosprecia, Meisho Doto claramente<n>está tratando de ser considerada."
     },
     {
       "name": "Meisho Doto",
-      "text": "Por eso huía... ¡Pero luego<n>tuviste que perseguirme!<n>¡Te digo que te causaré problemas!",
+      "text": "Por eso estaba huyendo... ¡Pero entonces<n>tú tuviste que salir a perseguirme! Te lo<n>digo, ¡te voy a causar problemas!",
       "choice_data_list": [
         "¡Pero eso es lo que quiero!"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¡¿Eh?! ¿T-tú quieres?! ¿Q-qué?"
+      "text": "¿Eh? ¡T-tú lo haces? ¿Pero qué?"
     },
     {
       "name": "Meisho Doto",
-      "text": "Ah, espera... ¿Es esto? Entrenador... ¿Eres...<n>de ese tipo?",
+      "text": "Ah, espera... ¿Esto es...? Entrenador... ¿Eres tú... de<n>ese tipo de cosas?",
       "choice_data_list": [
-        "Eh. No."
+        "Eh... No."
       ]
     },
     {
-      "name": "Monólogo",
-      "text": "Le explico que, como su entrenador, es<n>natural que ocupe mucho de mi tiempo.<n>De hecho, quiero que confíe en mí—que se<n>apoye más en mí."
+      "text": "Te explico que, como su entrenador, es<n>natural que ocupe mucho de\nmi tiempo.<n>De hecho, quiero que confíe en mí—que se apoye en\nmí más."
     },
     {
       "name": "Meisho Doto",
-      "text": "¿E-estás loc@? Si me a-apoyara en<n>ti... Probablemente te aplastaría..."
+      "text": "E-em... Si me apoyara en ti... yo te<n>aplastaría probablemente..."
     },
     {
       "name": "Meisho Doto",
-      "text": "En el minuto que entrelacemos brazos, probablemente<n>tropezaría y te arrastraría<n>conmigo... Oooh,<n>habría pedazos por todas partes...",
+      "text": "En cuanto enlace brazos, seguro que tropiezo<n>y te llevo conmigo\nen la caída... Oooh,<n>habría pedazos por todas partes...",
       "choice_data_list": [
-        "Pero mientras me levante, está bien, ¿verdad?"
+        "Pero mientras me levante, está bien, ¿no?"
       ]
     },
     {
       "name": "Meisho Doto",
       "text": "...!",
       "choice_data_list": [
-        "No te preocupes tanto. Solo confía en mí."
+        "No te preocupes tanto. Confía en mí."
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Y-yo... Eh... ¿Gracias?"
+      "text": "Yo... Em... ¿Gracias?"
     },
     {
-      "name": "Monólogo",
-      "text": "Parece un poco confundida, pero al menos ahora<n>sabe que <I>puede</I> pedirme ayuda<n>cuando la necesite. Depende de ella si<n>acepta eso o no.",
+      "text": "Parece un poco confundida, pero por lo menos ahora<n>sabe que <i>puede</i> pedirme\nayuda<n>cuando lo necesite. Depende de ella si<n>acepta mi oferta o no.",
       "choice_data_list": [
-        "Ahora entonces... ¡Vamos a comprarte ropa!"
+        "¡Ahora mismo... vamos a comprarte ropa!"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¡Ah... C-claro!"
+      "text": "¡Ah... ¡C-claro!"
     },
     {
       "name": "Meisho Doto",
-      "text": "Eh... Entonces, eh... ¿vamos?"
+      "text": "Entonces... ¿empezamos?"
     },
     {
-      "name": "Monólogo",
-      "text": "Una Meisho Doto aún algo perpleja y<n>yo regresamos a las calles, listos<n>para comprar..."
+      "text": "La siempre confundida Meisho Doto y yo<n>volvemos a las calles,<n>listos para comprar..."
     },
     {
-      "name": "Personal",
-      "text": "Lo siento... Estamos cerrados por hoy."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "¡¿Ya?! N-nos habríamos hecho a tiempo<n>si no hubiera huido... Lo siento..."
+      "name": "Empleado",
+      "text": "Lo siento... Cerramos por hoy."
     },
     {
       "name": "Meisho Doto",
-      "text": "Q-quizás realmente estoy... destinada a usar<n>bolsas de plástico..."
+      "text": "¿¿Ya?! Si no hubiera escapado...<n>habríamos llegado a tiempo... Lo siento..."
     },
     {
-      "name": "Monólogo",
-      "text": "Consuelo a la desanimada Meisho Doto.<n>Quizás algún día, me pedirá ayuda por<n>su propia voluntad, pero hasta entonces,<n>tendré que seguir ofreciéndomela..."
+      "name": "Meisho Doto",
+      "text": "Quizá sí estoy destinada a<n>usar bolsas de plástico..."
+    },
+    {
+      "text": "Consuelo a la desanimada Meisho Doto.<n>Tal vez algún día, me pedirá ayuda<n>por su propia voluntad, pero hasta entonces,<n>seguiré ofreciendo..."
     }
   ]
 }

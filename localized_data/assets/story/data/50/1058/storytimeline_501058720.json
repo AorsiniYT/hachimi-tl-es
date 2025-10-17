@@ -2,536 +2,536 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, vengo a la enfermería para que revisen\nel estado físico de <chrname>——"
+      "text": "Un día llevo a <chrname> a la<n>enfermería para un chequeo."
     },
     {
-      "name": "？？？",
-      "text": "あっ、はいはーい！　お客さ……じゃない、\n生徒さんね！"
+      "name": "???",
+      "text": "¡Oh! Una custo—digo, ¡una estudiante! ¡Hola!"
     },
     {
-      "name": "？？？",
-      "text": "ケガ？　病気？　それともメンタルケア？\nま、ぜーんぶドドンと任せちゃってよ！",
+      "name": "???",
+      "text": "¿Estás herido? ¿Enfermo? ¿Estresado? Sea lo que<n>sea, ¡yo lo trato todo!",
       "choice_data_list": [
-        "……誰ですか！？"
+        "¡¿Quién eres?!"
       ]
     },
     {
-      "name": "？？？",
-      "text": "え？　そりゃー保健室にいるんだから……\nちょっぴりファンタスティックな保健の先生？\n的な？",
+      "name": "???",
+      "text": "Bueno, considerando que estás en la<n>enfermería de la academia, diría que soy tu<n>enfermera escolar de confianza. ¡Sip, solo tu<n>empleado escolar promedio!",
       "choice_data_list": [
-        "違いますよね……？"
+        "...No lo eres, ¿verdad?"
       ]
     },
     {
-      "name": "？？？",
-      "text": "あっはっは、さすがに騙されないか。\nやっぱ普通に名乗る感じでいくわね。"
+      "name": "???",
+      "text": "¡Ajá! Parece que no puedo engañarte. Supongo que<n>debería comenzar diciéndote mi<n>nombre."
     },
     {
-      "name": "？？？",
-      "text": "ぉほん！　何を隠そう、このあたしこそ――"
+      "name": "???",
+      "text": "¡Ejem! Permíteme presentarme."
     },
     {
-      "name": "？？？",
-      "text": "数多のウマ娘を（たぶん）導く救世主！\n奇跡の腕を持つ（自称）伝説的笹針師！"
+      "name": "???",
+      "text": "Soy el (probable) salvador de todos<n>los Umamusume, la<n>(autoproclamada)<n>legendaria acupunturista con<n>el toque mágico..."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "その名も、『安心沢　刺々美』よっ！！\nワォ、あんし～ん☆",
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única e inigualable Sasami Anshinzawa!<n>Mira, sin\npreocupaciones! ☆",
       "choice_data_list": [
-        "…………"
+        "..."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "えっ、えぇ……？"
+      "name": "Meisho Doto",
+      "text": "¿Eh...?"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ワォ、あんし～んしてなさそ～う☆"
+      "name": "Sasami Anshinzawa",
+      "text": "¡Caramba! Pareces muy preocupado. ☆"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "まあまあまあまあ、とりあえずね。\n自己紹介も済んだし、ブスッといっとく？"
+      "name": "Sasami Anshinzawa",
+      "text": "No importa, no importa. Ya nos hemos<n>presentado, así que recuéstate y déjame<n>poner estas agujas a trabajar!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あわわわ……！\r\nあの……む、無理ですぅ、ごめんなさいぃい。"
+      "name": "Meisho Doto",
+      "text": "¡Guau! Um... Yo n-no creo que pueda seguir<n>con esto. ¡Lo siento!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "あっはっは！　怖がらなくていいのよ？\n秘伝の笹針でちょっと秘孔的なのを突くだけ。"
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jaja! No hay por qué temer. Todo lo que haré<n>es\ninsertar estas agujas extraordinarias<n>precisamente en tus puntos de energía chakra<n>."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "そしたらもー、メキメキと……モリモリと……\nとにかくすんんんごいことになるんだから！",
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y luego, voilà, presto! Algo<n>indescriptible ocurrirá!",
       "choice_data_list": [
-        "（ものすごく怪しい……）"
+        "(Esto es sospechosamente indescriptible...)"
       ]
     },
     {
-      "name": "安心沢刺々美",
-      "text": "あ！　言っとくけど怪しくないわよ！\n失敗したことなんか1度もないんだから！"
+      "name": "Sasami Anshinzawa",
+      "text": "Y déjame asegurarte, no hay<n>absolutamente nada\nde qué preocuparse en<n>lo absoluto. Nunca ha salido<n>mal!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "……師匠は。",
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestro.",
       "choice_data_list": [
-        "師匠『は』！？"
+        "¿Para tu maestro? ¿Y para ti qué?"
       ]
     },
     {
-      "name": "安心沢刺々美",
-      "text": "まーまーあたしだってこれが初仕事なんだし\n広義じゃ失敗したことないわよ！"
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Es mi primera vez, así que<n>técnicamente, nunca\nhe tenido un paciente<n>que falle tampoco!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "伝説の師匠の元で10年もの間お茶くみ……\nじゃない、修行した経験もあるんだから。"
+      "name": "Sasami Anshinzawa",
+      "text": "Y no es que no tenga experiencia. Pasé<n>diez\naños bajo un maestro legendario<n>entrenando!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ワォ、あんし～ん☆",
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡Sin preocupaciones! ☆",
       "choice_data_list": [
-        "（迸るほどに怪しい……！）"
+        "(Necesitamos salir de aquí, ¡rápido!)"
       ]
     },
     {
-      "text": "No puedo aceptar una propuesta así.\nIntenté salir llevando a <chrname>,\npero——"
+      "text": "No hay manera de que hagamos esto. Tomo a<n>\n<chrname> y me dirijo a la<n>puerta,\ncuando..."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ま、待って待って待って、待ってってば！！"
+      "name": "Sasami Anshinzawa",
+      "text": "¡Espera! ¿A dónde vas?"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "あなたメイショウドトウちゃんでしょっ！？\r\nちょっぴりドジッ娘、だけど諦めず\n自分を変えようって頑張るウマ娘っ！",
+      "name": "Sasami Anshinzawa",
+      "text": "¿Eres Meisho Doto, verdad? La<n>chica un\npoco torpe que hace lo mejor que puede para cambiar<n>para mejor!",
       "choice_data_list": [
-        "……知ってるんですか"
+        "¿Has oído hablar de ella?"
       ]
     },
     {
-      "name": "安心沢刺々美",
-      "text": "そりゃ知ってるわよ！　見たもの！！\nファンだものっ！！"
+      "name": "Sasami Anshinzawa",
+      "text": "¿Si he oído de ella? ¡Claro que sí! Soy una gran<n>fan!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "あたし、あなたたちを応援しに来たの！\n手助けしに来たのよ、これでもっ！！"
+      "name": "Sasami Anshinzawa",
+      "text": "Es precisamente por eso que estoy aquí. ¡Para<n>darte mi\napoyo! ¡Déjame ayudarte!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "だからお願いぃ～～～！！\nあたしにチャンスをちょうだいよぉ～！！"
+      "name": "Sasami Anshinzawa",
+      "text": "Solo dame una oportunidad. ¡Pliiis!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ひぇええ……、どどど、どうしましょう\r\nトレーナーさぁん……。"
+      "name": "Meisho Doto",
+      "text": "Ohhh... ¿Qué debemos hacer, Entrenador?"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "お願いお願いお願いっ！\n秘孔の場所も選ばせてあげるから！"
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Por favor con una zanahoria encima! Incluso<n>te dejaré elegir qué<n>chakra activar!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ぜ～ったい失敗しないからぁ～！！"
+      "name": "Sasami Anshinzawa",
+      "text": "Estoy <i>seguro</i> de que no la voy a fastidiar."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "……多分。",
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... Bastante segura.",
       "choice_data_list": [
-        "多分！？"
+        "¿<i>Bastante</i> segura?"
       ]
     },
     {
-      "name": "安心沢刺々美",
-      "text": "あーいや多分に程近い絶対？　みたいな？\n……まあ細かいことはいいのよ！"
+      "name": "Sasami Anshinzawa",
+      "text": "Quise decir, del lado de lo seguro. ¿Eso es <i>bueno</i>,<n>cierto?\nDe todos modos, no te enfoques en los<n>detalles!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "それよりどんな秘孔を狙っちゃう！？\n能力アップに健康度アップ……\n魅力アップな～んてのもあるわよ！！"
+      "name": "Sasami Anshinzawa",
+      "text": "Vamos a lo bueno. ¿Qué chakra<n>debo\nactivar? ¿Quieres potenciar tus habilidades?<n>¿Tu salud? ¿O quizás tu<n> <i>encanto</i>?"
     },
     {
-      "text": "……恐ろしく危険な香りもするのだが、\nひょっとするとすごい効果が出る可能性も\nなくはない……かもしれない。"
+      "text": "Huelo peligro en el ambiente, pero calculo que<n>podría—y enfatizo el <i>podría</i>—ser<n>la posibilidad de obtener algo especial<n>de este tratamiento."
     },
     {
-      "text": "どうしようか……？",
+      "text": "¿Qué debemos hacer?",
       "choice_data_list": [
-        "強いウマ娘になれる秘孔を狙う",
-        "レースで勝てる秘孔を狙う",
-        "元気で健康になれる秘孔を狙う",
-        "魅力アップの秘孔を狙う",
-        "不安なのでやめておく"
+        "Activa el chakra de la fuerza.",
+        "Activa el chakra de la victoria.",
+        "Activa el chakra de la salud.",
+        "Activa el chakra del encanto.",
+        "Esto es demasiado sospechoso. Vamos a retirarnos mientras podamos."
       ]
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ほむほむ、\n『強いウマ娘になれる秘孔』ね！"
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Así que quieres que active<n>el\nchakra de la fuerza?"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "じゃあブスッといくわよ？　いいのね？\n……本ッッッッッッッ当に、いいのね？",
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces, manos a la obra! ¿Estás listo? ¡No<n>hay vuelta atrás después!",
       "choice_data_list": [
-        "はい",
-        "いいえ"
+        "Adelante.",
+        "Espera, detente."
       ]
     },
     {
-      "name": "安心沢刺々美",
-      "text": "おっけーおっけー任しといて！\n出でよ笹針！　見つかれ秘孔！"
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Es hora de localizar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "さあ力を抜いて～……ワォ、あんし～ん☆"
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡Sin preocupaciones! ☆"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ブスッとな！！"
+      "name": "Sasami Anshinzawa",
+      "text": "Y... ¡punzada!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……はうぅううっ！"
+      "name": "Meisho Doto",
+      "text": "¡Ughhh!"
     },
     {
-      "text": "ブスッと大成功！"
+      "text": "¡Puntura perfecta!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ト……トレーナーさん……私……っ。"
+      "name": "Meisho Doto",
+      "text": "¡E-Entrenador! Yo..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "なんだか、元気と勇気が湧いてきましたぁ！\r\n今ならダメダメ克服、できちゃいそうですぅ！"
+      "name": "Meisho Doto",
+      "text": "Me siento tan energético y lleno de<n>valor! Incluso podría\nlograr superar todos mis defectos."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "……えっ、成功？　マジ！？　え！？"
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Sorpresa...</i> ¿Estás bromeando? ¡Funcionó!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "うっそ～～～！！\nあたし、どうやったんだろ～！？！？\n天才～～～～！！"
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo creo! ¡Soy un<n>genio total!"
     },
     {
-      "text": "¡<chrname> se veía irreconocible,\nrebosante de energía!"
+      "text": "<chrname> está desbordando<n>de energía\ny luce casi irreconocible."
     },
     {
-      "text": "どうやら可能性を掴み取ったようだ。\n夢に向けて大きく前進したのを感じた……！"
+      "text": "¡Tuvimos una oportunidad y valió la pena! Esto es<n>un\ngran paso hacia lograr nuestra meta!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "うぅ……トレーナーさぁん……。"
+      "name": "Meisho Doto",
+      "text": "Uf... Entrenador..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私……もうダメかもです、体が重くて……。\r\n救いは……なかったんですぅ～～……。"
+      "name": "Meisho Doto",
+      "text": "No puedo más—mi cuerpo se siente tan pesado...<n>Había...\nno había esperanza para mí... al final."
     },
     {
-      "text": "<chrname> claramente\nempeoró……."
+      "text": "La condición de <chrname> se<n>deteriora\ndebido a la rapidez."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "あ～……まあ、その……ね？"
+      "name": "Sasami Anshinzawa",
+      "text": "Entonces... eso es todo, supongo..."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "……ワォ、さようなら～☆"
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? Debería<n>irme! ¡Adiós! ☆"
     },
     {
-      "text": "怪しい誘いになど乗るべきでなかった……と、\n大いに後悔したのだった。"
+      "text": "Debería haber sabido que era mejor no probar nuestra<n>suerte. No soy\nya el que sufre, pero estoy<n>lleno de arrepentimiento."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ほむほむ、\n『レースで勝てる秘孔を狙う』ね！"
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya! ¿Vamos a hacerlo así?"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "じゃあブスッといくわよ？　いいのね？\n……本ッッッッッッッ当に、いいのね？",
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya! ¿Vamos a hacerlo así?",
       "choice_data_list": [
-        "はい",
-        "いいえ"
+        "Adelante.",
+        "Espera, detente."
       ]
     },
     {
-      "name": "安心沢刺々美",
-      "text": "おっけーおっけー任しといて！\n出でよ笹針！　見つかれ秘孔！"
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Es hora de localizar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "さあ力を抜いて～……ワォ、あんし～ん☆"
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡Sin preocupaciones! ☆"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ブスッとな！！"
+      "name": "Sasami Anshinzawa",
+      "text": "Y... ¡punzada!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……はうぅううっ！"
+      "name": "Meisho Doto",
+      "text": "¡Ughhh!"
     },
     {
-      "text": "ブスッと大成功！"
+      "text": "¡Punctura perfecta!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ト……トレーナーさん……私……っ。"
+      "name": "Meisho Doto",
+      "text": "T-Entrenador! Yo..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "なんだか、元気と勇気が湧いてきましたぁ！\r\n今ならダメダメ克服、できちゃいそうですぅ！"
+      "name": "Meisho Doto",
+      "text": "Me siento tan energético y lleno de<n>valor! Incluso podría\nlograr superar todos mis defectos."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "……えっ、成功？　マジ！？　え！？"
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Sorpresa...</i> ¿Estás bromeando? ¡Funcionó!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "うっそ～～～！！\nあたし、どうやったんだろ～！？！？\n天才～～～～！！"
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puedo creerlo! ¡No puedo creerlo! ¡Soy un<n>genio total!"
     },
     {
-      "text": "¡Sentí que la habilidad de <chrname>\naumentó considerablemente!"
+      "text": "Puedo sentir una gran mejora en<n>\n<chrname> ¡Habilidades!"
     },
     {
-      "text": "どうやら可能性を掴み取ったようだ。\n夢に向けて大きく前進したのを感じた……！"
+      "text": "We took a chance and it paid off! This is<n>a great\nleap toward achieving our goal!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "うぅ……トレーナーさぁん……。"
+      "name": "Meisho Doto",
+      "text": "Uugh... Trainer..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私……もうダメかもです、体が重くて……。\r\n救いは……なかったんですぅ～～……。"
+      "name": "Meisho Doto",
+      "text": "I can't go on—my body feels so heavy...<n>There\nwas... no hope for me... in the end."
     },
     {
-      "text": "<chrname> claramente\nempeoró……."
+      "text": "<chrname>'s condition<n>deteriorates\nrapidly."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "あ～……まあ、その……ね？"
+      "name": "Sasami Anshinzawa",
+      "text": "So... That's that, I guess..."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "……ワォ、さようなら～☆"
+      "name": "Sasami Anshinzawa",
+      "text": "Well, would you look at the time? I<n>should get\ngoing! Bye! ☆"
     },
     {
-      "text": "怪しい誘いになど乗るべきでなかった、と\n大いに後悔したのだった……。"
+      "text": "I should've known better than to test our<n>luck. I'm\nnot the one suffering, yet I'm<n>full of regret."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ほむほむ、\n『元気で健康になれる秘孔を狙う』ね！"
+      "name": "Sasami Anshinzawa",
+      "text": "I see, I see. So, you want me to activate<n>the\nhealth chakra?"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "じゃあブスッといくわよ？　いいのね？\n……本ッッッッッッッ当に、いいのね？",
+      "name": "Sasami Anshinzawa",
+      "text": "Then let's get started! Are you ready?<n>There's no\ngoing back after!",
       "choice_data_list": [
-        "はい",
-        "いいえ"
+        "Go ahead.",
+        "Wait, hold on."
       ]
     },
     {
-      "name": "安心沢刺々美",
-      "text": "おっけーおっけー任しといて！\n出でよ笹針！　見つかれ秘孔！"
+      "name": "Sasami Anshinzawa",
+      "text": "All right, leave it to me! Time to locate<n>that\nchakra! Ollie, ollie, oxen free!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "さあ力を抜いて～……ワォ、あんし～ん☆"
+      "name": "Sasami Anshinzawa",
+      "text": "Now, just relaaax... See? No worries! ☆"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ブスッとな！！"
+      "name": "Sasami Anshinzawa",
+      "text": "Aaand poke!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……はうぅううっ！"
+      "name": "Meisho Doto",
+      "text": "Ughhh!"
     },
     {
-      "text": "ブスッと大成功！"
+      "text": "Puncture Perfect!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ト……トレーナーさん……私……っ。"
+      "name": "Meisho Doto",
+      "text": "T-Trainer! I..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "なんだか、元気と勇気が湧いてきましたぁ！\r\n今ならダメダメ克服、できちゃいそうですぅ！"
+      "name": "Meisho Doto",
+      "text": "I feel so energetic and filled with<n>courage! I might\neven manage to<n>overcome all my flaws!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "……えっ、成功？　マジ！？　え！？"
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "うっそ～～～！！\nあたし、どうやったんだろ～！？！？\n天才～～～～！！"
+      "name": "Sasami Anshinzawa",
+      "text": "No waaay! I can't believe it! I'm a total<n>genius!"
     },
     {
-      "text": "¡Todo el cuerpo de <chrname> brillaba con un aspecto tan saludable\nque parecía a punto de resplandecer!\n¡Desbordaba energía vital……!"
+      "text": "<chrname>'s entire body is<n>radiating a\nhealthy glow! She's the<n>absolute picture of health!"
     },
     {
-      "text": "どうやら可能性を掴み取ったようだ。\n夢に向けて大きく前進したのを感じた……！"
+      "text": "We took a chance and it paid off! This is<n>one\ngreat leap toward achieving our<n>goal!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "うぅ……トレーナーさぁん……。"
+      "name": "Meisho Doto",
+      "text": "Uugh... Trainer..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私……もうダメかもです、体が重くて……。\r\n救いは……なかったんですぅ～～……。"
+      "name": "Meisho Doto",
+      "text": "I can't go on—my body feels so heavy...<n>There\nwas... no hope for me... in the end."
     },
     {
-      "text": "<chrname> claramente\nempeoró……."
+      "text": "<chrname>'s condition<n>deteriorates\nrapidly."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "あ～……まあ、その……ね？"
+      "name": "Sasami Anshinzawa",
+      "text": "So... That's that, I guess..."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "……ワォ、さようなら～☆"
+      "name": "Sasami Anshinzawa",
+      "text": "Well, would you look at the time? I<n>should get\ngoing! Bye! ☆"
     },
     {
-      "text": "怪しい誘いになど乗るべきでなかった、と\n大いに後悔したのだった……。"
+      "text": "I should've known better than to test our<n>luck. I'm\nnot the one suffering, yet I'm<n>full of regret."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ほむほむ、\n『魅力アップの秘孔を狙う』ね！"
+      "name": "Sasami Anshinzawa",
+      "text": "I see, I see. So, you want me to activate<n>the\ncharm chakra?"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "じゃあブスッといくわよ？　いいのね？\n……本ッッッッッッッ当に、いいのね？",
+      "name": "Sasami Anshinzawa",
+      "text": "Then let's get started! Are you ready?<n>There's no\ngoing back after!",
       "choice_data_list": [
-        "はい",
-        "いいえ"
+        "Go ahead.",
+        "Wait, hold on."
       ]
     },
     {
-      "name": "安心沢刺々美",
-      "text": "おっけーおっけー任しといて！\n出でよ笹針！　見つかれ秘孔！"
+      "name": "Sasami Anshinzawa",
+      "text": "All right, leave it to me! Time to locate<n>that\nchakra! Ollie, ollie, oxen free!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "さあ力を抜いて～……ワォ、あんし～ん☆"
+      "name": "Sasami Anshinzawa",
+      "text": "Now, just relaaax... See? No worries! ☆"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ブスッとな！！"
+      "name": "Sasami Anshinzawa",
+      "text": "Aaand poke!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……はうぅううっ！"
+      "name": "Meisho Doto",
+      "text": "Ughhh!"
     },
     {
-      "text": "ブスッと大成功！"
+      "text": "Puncture Perfect!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ト……トレーナーさん……私……っ。"
+      "name": "Meisho Doto",
+      "text": "T-Trainer! I..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "なんだか、元気と勇気が湧いてきましたぁ！\r\n今ならダメダメ克服、できちゃいそうですぅ！"
+      "name": "Meisho Doto",
+      "text": "I feel so energetic and filled with<n>courage! I might\neven manage to<n>overcome all my flaws!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "……えっ、成功？　マジ！？　え！？"
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "うっそ～～～！！\nあたし、どうやったんだろ～！？！？\n天才～～～～！！"
+      "name": "Sasami Anshinzawa",
+      "text": "No waaay! I can't believe it! I'm a total<n>genius!"
     },
     {
-      "text": "¡<chrname> desprendía un carisma que haría voltear a cualquiera\nque pasara por su lado!"
+      "text": "<chrname> is overflowing<n>with charm!\nShe's bound to turn heads<n>everywhere she goes!"
     },
     {
-      "text": "どうやら可能性を掴み取ったようだ。\n夢に向けて大きく前進したのを感じた……！"
+      "text": "We took a chance and it paid off! This is<n>a great\nleap toward achieving our goal!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "うぅ……トレーナーさぁん……。"
+      "name": "Meisho Doto",
+      "text": "Uugh... Trainer..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "私……もうダメかもです、体が重くて……。\r\n救いは……なかったんですぅ～～……。"
+      "name": "Meisho Doto",
+      "text": "I can't go on—my body feels so heavy...<n>There\nwas... no hope for me... in the end."
     },
     {
-      "text": "<chrname> claramente\nempeoró……."
+      "text": "<chrname>'s condition<n>deteriorates\nrapidly."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "あ～……まあ、その……ね？"
+      "name": "Sasami Anshinzawa",
+      "text": "So... That's that, I guess..."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "……ワォ、さようなら～☆"
+      "name": "Sasami Anshinzawa",
+      "text": "Well, would you look at the time? I<n>should get\ngoing! Bye! ☆"
     },
     {
-      "text": "怪しい誘いになど乗るべきでなかった、と\n大いに後悔したのだった……。"
+      "text": "I should've known better than to test our<n>luck. I'm\nnot the one suffering, yet I'm<n>full of regret."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ええ！？　そ、そう言わずに～……。",
+      "name": "Sasami Anshinzawa",
+      "text": "Aw, c'mon! Don't be like that!",
       "choice_data_list": [
-        "やめておく",
-        "考え直す"
+        "Decline.",
+        "Reconsider."
       ]
     },
     {
-      "name": "駿川たづな",
-      "text": "――こらっ、あなた！\n学園に不法侵入しましたねっ！？"
+      "name": "Tazuna Hayakawa",
+      "text": "Hey! You there! I hope you know<n>trespassers <i>will</i>\nbe prosecuted!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ぎゃはー！？　やば、見つかった！"
+      "name": "Sasami Anshinzawa",
+      "text": "Gah! I've been found out!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "……ワォ、退散～☆"
+      "name": "Sasami Anshinzawa",
+      "text": "Welp, I'm outta here! ☆"
     },
     {
-      "name": "駿川たづな",
-      "text": "あ！？　ま、待ちなさぁーいっ！！"
+      "name": "Tazuna Hayakawa",
+      "text": "Hey! Stop right there!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "い……行っちゃいましたね……。"
+      "name": "Meisho Doto",
+      "text": "Oh... She r-ran away..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "なんだったんでしょう……怖かったぁ……。\r\nもう、大丈夫ですよね……？",
+      "name": "Meisho Doto",
+      "text": "What was she doing here? Ohh, I was<n>terrified,\nbut... we'll be okay now, right?",
       "choice_data_list": [
-        "だな",
-        "だね"
+        "That's right.",
+        "That's right."
       ]
     },
     {
-      "text": "安心沢とは何者だったのか……\n考えても仕方がなさそうなので、\n今日の一件は忘れることにした。"
+      "text": "I'm curious who this Anshinzawa<n>character really\nis, but there's no use<n>ruminating over it. Best to\nforget about<n>today and move on."
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ありゃま、間違えちゃった？\nまーあるある、あるわよねーそういうの！"
+      "name": "Sasami Anshinzawa",
+      "text": "Had a change of heart, did you? No<n>worries, it\nhappens!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "じゃ、もう1回教えてちょーだいな。\nどの秘孔狙っちゃう！？"
+      "name": "Sasami Anshinzawa",
+      "text": "Go ahead and tell me which chakra you<n>want me\nto activate, then!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "焦らすわね～！？\nいやでも待って、こんな時間かけてると――"
+      "name": "Sasami Anshinzawa",
+      "text": "Well?! Don't leave us in suspense! Wait a<n>\nsecond... How long have I been here?"
     },
     {
-      "name": "駿川たづな",
-      "text": "――こらっ、あなた！\n学園に不法侵入しましたねっ！？"
+      "name": "Tazuna Hayakawa",
+      "text": "Hey! You there! I hope you know<n>trespassers <i>will</i>\nbe prosecuted!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "ぎゃはー！？　やば、見つかった！"
+      "name": "Sasami Anshinzawa",
+      "text": "Gah! I've been found out!"
     },
     {
-      "name": "安心沢刺々美",
-      "text": "……ワォ、退散～☆"
+      "name": "Sasami Anshinzawa",
+      "text": "Welp, I'm outta here! ☆"
     },
     {
-      "name": "駿川たづな",
-      "text": "あ！？　ま、待ちなさぁーいっ！！"
+      "name": "Tazuna Hayakawa",
+      "text": "Hey! Stop right there!"
     },
     {
-      "text": "……いつまでも悩んでいたら、\nなんだかうやむやになってしまった。"
+      "text": "The situation takes a sharp turn before I<n>can\nmake a decision."
     },
     {
-      "text": "¿Qué diablos fue eso……?\n<chrname> y yo nos miramos\ny nos encogimos de hombros."
+      "text": "What was that all about?<n><chrname>\nand I look at<n>each other in bewilderment."
     }
   ]
 }
