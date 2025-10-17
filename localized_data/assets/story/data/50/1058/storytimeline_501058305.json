@@ -2,71 +2,74 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "メイショウドトウ",
-      "text": "はふぅ、はへぇ、ぶへぇぇぇ……。\nトレーナーさぁぁぁん……。"
+      "name": "Meisho Doto",
+      "text": "<i>Sigh...</i> Blegh... Trainer..."
     },
     {
-      "text": "メイショウドトウは……芝生の上に\n倒れていた。泥のように疲れ果てて。"
+      "name": "Monologue",
+      "text": "Completely spent, Meisho Doto<n>collapses on the\\nturf."
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "おや、ドトウ。力尽きた兵士のマネかい？\nレースでは、やや影が薄かったようだが。"
+      "name": "T.M. Opera O",
+      "text": "Oh, Doto. Is that your impression of a<n>soldier\\ndefeated by exhaustion? You<n>appeared a little\\nwilted during the race."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はいぃぃぃ～、走るのに精一杯で、\n結果どころでは～……。"
+      "name": "Meisho Doto",
+      "text": "Yeeeeah... I couldn't focus on anything<n>but\\nrunning, not even the results..."
     },
     {
-      "text": "テイエムオペラオーには敵わなかったが、\r\nメイショウドトウはどうにか三冠の初戦を\n走りきった。"
+      "name": "Monologue",
+      "text": "Despite her loss to T.M. Opera O,<n>Meisho Doto is\\nable to clear her first<n>hurdle in the Classic Triple\\nCrown."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "トレーナーさん、ありがとうございましたぁ。\nドジでダメダメで……クラシックなんて\n出たら溶けちゃいそうな私が……。"
+      "name": "Meisho Doto",
+      "text": "Trainer, I'd like to give you my thanks.<n>I'm\\nextremely flawed and clumsy... I<n>thought the\\nClassics might ruin me."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "せめて、みなさんにはご迷惑をかけずに\n回ってこられましたぁ。最高の記念ですぅ。",
+      "name": "Meisho Doto",
+      "text": "But, at least I can say I got through it<n>without\\nbothered anyone. This was<n>really a race to\\nremember.",
       "choice_data_list": [
-        "よかったな、ドトウ",
-        "よかったね、ドトウ"
+        "That's great to hear, Doto.",
+        "That's great to hear, Doto."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はい～。あのぉ、それで、もうひとつ記念に\nなんですけど……。",
+      "name": "Meisho Doto",
+      "text": "Sí, gracias. Um... pero sería<n>genial hacer\nuna cosa diferente para la<n>ocasión.",
       "choice_data_list": [
-        "記念撮影でもする？"
+        "¿Quieres tomar una foto conmemorativa?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "いえ、そうではなくて……\n芝生の上で、おやつでも食べませんかぁ？\n風も気持ちいいので。",
+      "name": "Meisho Doto",
+      "text": "No, no es eso... Estaba pensando en tener<n>unos\nsnacks en un lindo parche de pasto.<n>La brisa está agradable\nhoy.",
       "choice_data_list": [
-        "遠足……！？"
+        "¿Quieres ir de viaje?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ひゃあっ！\nいえ、そういうわけでは～……！"
+      "name": "Meisho Doto",
+      "text": "¡Gyah! No, ¡no es eso a lo que me refiero!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "やっぱりダメですよね。",
+      "name": "Meisho Doto",
+      "text": "Supongo que es un no.",
       "choice_data_list": [
-        "いいよ。でも少しだけな",
-        "いいよ。でも少しだけね"
+        "Está bien, pero no podemos quedarnos fuera mucho tiempo.",
+        "Está bien, pero no podemos quedarnos fuera mucho tiempo."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "トレーナーさん！　はい、ありがとう\nございます～。それじゃあ、みんなも誘って。"
+      "name": "Meisho Doto",
+      "text": "Oh, ¡Entrenador! Muchas gracias. Invitaré a<n>todos."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "オペラオーさーん、アヤベさーん！"
+      "name": "Meisho Doto",
+      "text": "¡Ópera O, Ayabe!"
     },
     {
-      "text": "さすがに全員で……というわけには\r\nいかなかったが、コースの中央広場で\nささやかなピクニックタイムを楽しんだ。"
+      "name": "Monólogo",
+      "text": "Como uno puede imaginarse, no <i>todos</i> están de<n>acuerdo\nen venir. Aún así, disfrutamos un pequeño<n>picnic sentados en el\ncentro de la pista."
     }
   ]
 }

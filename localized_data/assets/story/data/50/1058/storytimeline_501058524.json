@@ -2,166 +2,176 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "ある日、\r\nいつものようにトレーニングへ向かうと――"
+      "name": "Monólogo",
+      "text": "Un día, iba camino al entrenamiento como<n>siempre,\ncuando..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふふ、くふふふっ……！"
+      "name": "Meisho Doto",
+      "text": "¡Pfft, jejeje!"
     },
     {
-      "text": "メイショウドトウが笑っていた。"
+      "name": "Monólogo",
+      "text": "Escucho a Meisho Doto riendo."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ち、違うんですぅ！\r\nこれは、そのぅ――"
+      "name": "Meisho Doto",
+      "text": "Oh, esto no es lo que parece! Esto<n>es, um..."
     },
     {
-      "text": "話を聞いてみると……洗濯物を全部失敗し、\r\n服の裏地がかなりケバ立ってしまったらしい。"
+      "name": "Monólogo",
+      "text": "Según su versión, un accidente de lavandería<n>ha\ndejado el reverso de su<n>ropa lleno de pelusas."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "そ、それで、なんだかちょっと、\r\nゴワゴワしてて、こそばゆくって～……！"
+      "name": "Meisho Doto",
+      "text": "Así que se siente un poco áspero al tacto y<n>y... ¡causa cosquillas!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あ、明日、新しいものを買いに行きますので、\r\n今日は、その、これで……！"
+      "name": "Meisho Doto",
+      "text": "P-pienso comprar ropa nueva mañana, así<n>que esto tendrá que valer por<n>hoy!"
     },
     {
-      "text": "とはいえ、集中ができないなら、\r\nトレーニングは難しいかもしれない。",
+      "name": "Monólogo",
+      "text": "Sin embargo, si no puede concentrarse,<n>podría\nhacer el entrenamiento más difícil.",
       "choice_data_list": [
-        "今日は休みにするから、買っておいで"
+        "Voy a cancelar el entrenamiento para que puedas usar el resto del día para ir de compras."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ええっ！？　い、いえ、でも、\r\n走るのは問題ないので、だいじょ――"
+      "name": "Meisho Doto",
+      "text": "¿Eh? P-pero, esto no afectará mi<n>carrera. Estaré f—"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふふっ！　ふふふふっ！",
+      "name": "Meisho Doto",
+      "text": "¡Je, je, je!",
       "choice_data_list": [
-        "頑張ってトレーニングする",
-        "自重して休む"
+        "Intentar aguantar el entrenamiento de hoy.",
+        "Ser precavido y tomar el día libre."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "や、やったぁ……！\r\nありがとう、ございますぅ……！"
+      "name": "Meisho Doto",
+      "text": "¡S-sí! ¡Muchas gracias!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "せっかくわがまま聞いて、くれたんだもの、\r\nがんばる、ぞ……！"
+      "name": "Meisho Doto",
+      "text": "¡Trabajaré muy duro ya que me escuchaste a pesar de mi<n>egoísta petición!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "――ふふっ、くふふっ！"
+      "name": "Meisho Doto",
+      "text": "...¡Pfft, je, je, je!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "だ、ダメダメ！　気が散ってる証拠……！\r\n気合い……気合いを入れなきゃ……！"
+      "name": "Meisho Doto",
+      "text": "¡Basta! Reírme significa que estoy perdiendo mi<n>concentración... Tengo que dar todo<n>de mí!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……っふふふっ！"
+      "name": "Meisho Doto",
+      "text": "...¡Je, je, je!"
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "おやおや、ドトウがなんだかご機嫌だね！\r\nボクも負けてはいられないな！　よし――"
+      "name": "T.M. Opera O",
+      "text": "¿Qué tenemos aquí? Estás de<n>muy\nalto ánimo, Doto. ¡Pero no me puedes<n>superar en espíritu!"
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "はーっはっはっは！"
+      "name": "T.M. Opera O",
+      "text": "¡Jajaja!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はぁ、はぁ、はぁ……ちょ、ちょっと休憩――"
+      "name": "Meisho Doto",
+      "text": "*jadea* Creo que necesito un pequeño<n>descanso..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ひっ！　ゴ、ゴワゴワする……！"
+      "name": "Meisho Doto",
+      "text": "¡Ay! ¡Me siento toda cosquillosa!"
     },
     {
-      "name": "アドマイヤベガ",
-      "text": "……悩みでもあるのかしら。"
+      "name": "Admire Vega",
+      "text": "¿Hay algo que le preocupa?"
     },
     {
-      "text": "――と、なんだかんだありつつも、\r\nメイショウドトウは見事トレーニングを\nやりきることができた！"
+      "name": "Monólogo",
+      "text": "A pesar de los contratiempos, Meisho Doto<n>logra\\nsobresalir en el entrenamiento!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "――ふぅ、はぁ～。よかったぁ。\r\nやっと、慣れてきました～！",
+      "name": "Meisho Doto",
+      "text": "Uff... Me alegra que esto esté funcionando. ¡Por fin<n>me he\\nacostumbrado a la sensación!",
       "choice_data_list": [
-        "大変だったな",
-        "大変だったね"
+        "Parecía que lo estabas pasando mal.",
+        "Parecía que lo estabas pasando mal."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "いえいえ……。\r\n私のドジ、ですから～。"
+      "name": "Meisho Doto",
+      "text": "Oh, no, no... esto es todo por mi culpa<n>desde el principio, así que no\\npuedo quejarme."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "それになんだか、いつもより色々、\r\n鍛えられたような気がします……！"
+      "name": "Meisho Doto",
+      "text": "Pensándolo bien, siento que hice más<n>ejercicio del habitual."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "結果オーライ、だったのかもです～……。\r\nえへへ……。"
+      "name": "Meisho Doto",
+      "text": "Supongo que todo salió bien al<n>final... jeje."
     },
     {
-      "text": "なにはともあれ、メイショウドトウの\r\n成長に繋がったようだった！"
+      "name": "Monólogo",
+      "text": "La sesión de hoy parece haber<n>contribuido al\\ncrecimiento de Meisho Doto<n>después de todo!"
     },
     {
-      "text": "しかし――"
+      "name": "Monólogo",
+      "text": "Sin embargo..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふぅ、ふぅ……く、くふふっ！",
+      "name": "Meisho Doto",
+      "text": "<i>Uff, uff...</i> ¡Je, je, je!",
       "choice_data_list": [
-        "大丈夫？"
+        "¿Está todo bien?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "だ、大丈夫です。集中すれば、\r\nきっとくすぐったくない、はずですから……！"
+      "name": "Meisho Doto",
+      "text": "Estoy b-bien. Estoy segura de que la sensación de<n>cosquilleo desaparecerá\\ncon la concentración adecuada!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "――ひゃいっ！？",
+      "name": "Meisho Doto",
+      "text": "¡Hiaa!",
       "choice_data_list": [
-        "ドトウ！？"
+        "¡Doto!"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "うぅっ、痛たた――"
+      "name": "Meisho Doto",
+      "text": "Ay, ay, au..."
     },
     {
-      "text": "集中力が、かなり削がれているようだ。\r\nこのままではケガをしてしまうかもしれない。"
+      "name": "Monólogo",
+      "text": "Ha perdido mucha capacidad de<n>concentración. Si seguimos\\nasí, podría lesionarse."
     },
     {
-      "text": "今日は、やはり休ませることにした……。"
+      "name": "Monólogo",
+      "text": "Definitivamente, es mejor parar por<n>hoy."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "で、でも～……。",
+      "name": "Meisho Doto",
+      "text": "P-pero...",
       "choice_data_list": [
-        "明日はその分、頑張ろう"
+        "En compensación, mañana le ponemos el doble de\\nesfuerzo."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "！\r\nそ、そっか。そう、ですねぇ……！"
+      "name": "Meisho Doto",
+      "text": "¡Oh! ¡B-bueno! ¡Hagámoslo así!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "わかりましたぁ。\r\n今日はお買い物、行ってきます――"
+      "name": "Meisho Doto",
+      "text": "Entendido. Entonces, iré a comprar ropa nueva<n>hoy."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "うぅ～……。"
+      "name": "Meisho Doto",
+      "text": "Eeeem..."
     },
     {
-      "text": "その後、新しい服を買いに行き、翌日からは\r\n普段通りトレーニングが行えるようになった。"
+      "name": "Monólogo",
+      "text": "Ella se va a comprar ropa nueva,<n>y al día siguiente, volvemos a nuestra<n>rutina de entrenamiento habitual."
     }
   ]
 }

@@ -2,30 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "ある日、街へ出かけるとメイショウドトウが\r\n駅前の銅像に向かって頭を下げていた……。"
+      "name": "Monólogo",
+      "text": "Durante mi viaje al centro, veo a Meisho<n>Doto\napologizando con la cabeza bajada<n>ante la estatua\nbronce en frente de la<n>estación."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "すみません本当にごめんなさいぃ！\r\nおケガはありませんか？　汚れていませんか？",
+      "name": "Meisho Doto",
+      "text": "¡Lo siento mucho! ¿Tienes alguna<n>herida?\n¿Tu ropa está manchada?",
       "choice_data_list": [
-        "何してるんだ？",
-        "何してるの？"
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "トレーナーさん！　あの、歩いていたら\r\nなんだか脚が重くて、躓いちゃったんです。\nで、この方にぶつかってしまいまして……！"
+      "name": "Meisho Doto",
+      "text": "¡Entrenador! Pues, estaba caminando y... mis<n>piernas\nempezaron a entumecirse, ¡y<n>entonces tropecé\ncon esta persona!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "その衝撃で、こんなに顔色が悪くなって……\r\nって、あ、あれ？"
+      "name": "Meisho Doto",
+      "text": "El golpe fue bastante fuerte. Mira<n>qué pálida\nse ve su cara... Um, ¿eh?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "どどど銅像っ？\r\nなんで私、銅像に謝っているんですか～～！？"
+      "name": "Meisho Doto",
+      "text": "¿Esto es una estatua de bronce? Le<n>estoy pidiendo disculpas a\nuna estatua de bronce? ¡Pero<n>por qué?!"
     },
     {
-      "text": "メイショウドトウは、かなり\r\n疲労が溜まっているのかもしれない……。\n今後の出走予定を見直した方がよさそうだ。"
+      "name": "Monólogo",
+      "text": "Meisho Doto parece estar lidiando con<n>mucha\nfatiga... Tal vez deba reconsiderar su<n>calendario de carreras."
     }
   ]
 }

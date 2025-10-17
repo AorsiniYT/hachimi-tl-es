@@ -2,116 +2,119 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "メイショウドトウ",
-      "text": "ま、負けましたぁ。\nでもでも……。"
+      "name": "Meisho Doto",
+      "text": "Yo p-perdí. Pero..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "オペラオーさんと\nワンツーフィニッシュできました！"
+      "name": "Meisho Doto",
+      "text": "Terminé en segundo lugar después de<n>Opera O!"
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "ハーッハッハッハ、そうとも！\nこの水も漏らさぬ見事な連携で、\n最強世代を封じ込めるのだ。"
+      "name": "T.M. Opera O",
+      "text": "Haaah ha ha ha, ¡y sí que lo hiciste!<n>Juntos somos una<n>barricada impenetrable, sellaremos<n>la Generación Final."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "は、はい～。あの……オペラオーさん、\n私どうだったでしょう？"
+      "name": "Meisho Doto",
+      "text": "S-sí. Ehm... Por cierto, Opera O...<n>¿Qué te pareció?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "少しはキラキラできていましたか？"
+      "name": "Meisho Doto",
+      "text": "¿Brillé siquiera un poco?"
     },
     {
-      "name": "テイエムオペラオー",
-      "text": "ああ。だがまだ完璧とは言えない。\n輝きのフォーメーションを磨くため、\n実戦を重ねよう、ドトウ。"
+      "name": "T.M. Opera O",
+      "text": "Sí, claro, aunque sería ridículo<n>decir que fue\nperfecto. Debes acumular<n>tus experiencias, Doto, para que<n>tu brillo alcance su máximo\ndestello."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "は、はい。\nそれじゃあ、えぇと次は……。"
+      "name": "Meisho Doto",
+      "text": "E-entendido. Entonces, um, lo siguiente..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "『天皇賞（秋）』でお願いしますぅ。\r\nそこでもっとキラキラに！"
+      "name": "Meisho Doto",
+      "text": "¡Te espero en el Tenno de otoño!<n>¡Allí brillaré de verdad!"
     },
     {
-      "text": "客席からそんな2人を見つめるウマ娘がいた。\r\nその横へ行き、声をかける。",
+      "name": "Monólogo",
+      "text": "Noto un rostro familiar en las gradas,<n>observando atentamente al dúo. Me acerco.",
       "choice_data_list": [
-        "どうかしたか、エアシャカール？",
-        "どうかした、エアシャカール？"
+        "¿Qué te pasa, Air Shakur?",
+        "¿Qué te pasa, Air Shakur?"
       ]
     },
     {
-      "name": "エアシャカール",
-      "text": "……フン、アンタか。"
+      "name": "Air Shakur",
+      "text": "...Hmph, eres tú."
     },
     {
-      "name": "エアシャカール",
-      "text": "今日のレースを見て、思わなかったか？\nあの2人“完成”したって。",
+      "name": "Air Shakur",
+      "text": "Esos dos han alcanzado su máximo<n>potencial. ¿No crees,<n>después de ver la carrera de hoy?",
       "choice_data_list": [
-        "……思った。本当に強くなった"
+        "...Sí. Se han vuelto muy fuertes."
       ]
     },
     {
-      "name": "エアシャカール",
-      "text": "ああ。だが完成ってのは、いいことばかり\nじゃねェ。上は望めねェってこった。"
+      "name": "Air Shakur",
+      "text": "Sí. Pero alcanzar tu máximo potencial<n>no es todo diversión y alegría. Después<n>no hay nada más alto."
     },
     {
-      "name": "エアシャカール",
-      "text": "2人の力関係は……見りゃアホでもわかンな。\n最大値はオペラオーの方が少し上。"
+      "name": "Air Shakur",
+      "text": "Hasta un idiota notaría que las estadísticas máximas de Opera O<n>son ligeramente superiores."
     },
     {
-      "name": "エアシャカール",
-      "text": "この調子で連戦すれば、おそらくドトウは\n何度も何度も僅差で、オペラオーに\nブチ負かされることになる。"
+      "name": "Air Shakur",
+      "text": "Si siguen compitiendo entre sí, Doto<n>seguirá perdiendo. Puede que no sea por<n>un gran margen, pero no podrá cerrar la<n>brecha."
     },
     {
-      "name": "エアシャカール",
-      "text": "しかも、それだけじゃねェ……。"
+      "name": "Air Shakur",
+      "text": "Y eso no es todo..."
     },
     {
-      "name": "グラスワンダー",
-      "text": "――今日は良き日ですねえ、スペちゃん。"
+      "name": "Grass Wonder",
+      "text": "Oye Spe, ¿no es un día maravilloso?"
     },
     {
-      "name": "スペシャルウィーク",
-      "text": "そうだね、グラスちゃん！\nレースの内容、すっごくよかったし。"
+      "name": "Special Week",
+      "text": "¡Por supuesto, Grass! Esa carrera fue realmente<n>algo distinto."
     },
     {
-      "name": "グラスワンダー",
-      "text": "ですね。下の世代のウマ娘たちがこんなに\r\n頑張っているなら、隠居はまだ早いかしら。"
+      "name": "Grass Wonder",
+      "text": "Tengo que estar de acuerdo. Todo este tiempo, la<n>generación más joven ha estado trabajando<n>tan duro. Supongo que es demasiado pronto para pensar<n>en retirarse."
     },
     {
-      "name": "グラスワンダー",
-      "text": "お手合わせ願いましょう。\r\n――年末の『有馬記念』で。"
+      "name": "Grass Wonder",
+      "text": "Recemos por lo mejor — verlas<n>una vez más en la Arima Kinen de<n>fin de año."
     },
     {
-      "name": "グラスワンダー",
-      "text": "精神も肉体も研いで、研ぎ抜いて――\n名刀も霞む斬れ味でお迎えしないと。"
+      "name": "Grass Wonder",
+      "text": "Mientras tanto, templaré mi cuerpo y<n>mente. Mis habilidades afiladas dejarán<n>incluso a las mejores en vergüenza."
     },
     {
-      "name": "スペシャルウィーク",
-      "text": "な、なんか怖いよ～、グラスちゃん。"
+      "name": "Special Week",
+      "text": "Me das un poco de miedo, Grass."
     },
     {
-      "name": "スペシャルウィーク",
-      "text": "でも、そうだねっ！　ドトウさんや\r\nオペラオーさんもすごいけど、\n私たちは、もっと！"
+      "name": "Special Week",
+      "text": "¡Pero entiendo de dónde vienes!<n>Doto y Opera O son realmente buenos, así que<n>tendremos que ser incluso mejores!"
     },
     {
-      "name": "エアシャカール",
-      "text": "ヤベェヤツらがいやがる。数値の読めねェ、\nイカれた青天井のヤツらが……。"
+      "name": "Air Shakur",
+      "text": "Hay algunos corredores locos por<n>ahí—con estadísticas tan malditamente altas que no<n>puedo descifrarlos."
     },
     {
-      "name": "エアシャカール",
-      "text": "だからこそ、あの世代は『最強』と呼ばれる。\r\nオレでも計り知れねェ。"
+      "name": "Air Shakur",
+      "text": "Por eso los llaman la Generación<n>Final. Incluso yo estoy inseguro de lo que pueden<n>hacer."
     },
     {
-      "name": "エアシャカール",
-      "text": "苦しむぜ。この先、ドトウは。\r\n天井に張りついて、あがき続ける……。"
+      "name": "Air Shakur",
+      "text": "Doto está pasando por mucho dolor. Estará<n>atrapada contra el techo, luchando por superarlo..."
     },
     {
-      "text": "エアシャカールの言う、数値の天井。\nそんなものはあるのだろうか？"
+      "name": "Monologue",
+      "text": "Ella está hablando de límites máximos otra vez,<n>pero ¿existe realmente un límite como ese?"
     },
     {
-      "text": "次走は『天皇賞（秋）』。そこに備えて\r\n確かめ、もし本当なら対策を練らなければ。"
+      "name": "Monologue",
+      "text": "Nuestra próxima carrera será la del otoño Tenno<n>Shō. Necesitamos tener una estrategia<n>funcional para entonces, si sus<palabras resultan ser<n>ciertas."
     }
   ]
 }

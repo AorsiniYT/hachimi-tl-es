@@ -2,51 +2,52 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "メイショウドトウとトレーニング中、\n3人の生徒に声をかけられた。"
+      "name": "Monólogo",
+      "text": "Durante un entrenamiento con Meisho<n>Doto, tres\nestudiantes captan nuestra atención."
     },
     {
-      "name": "Chica Caballo A",
-      "text": "あの、ドトウさんと併走させてください！",
+      "name": "Estudiante A",
+      "text": "Disculpe, pero ¿le importaría dejar que Meisho<n>Doto\ncorra junto con nosotros?",
       "choice_data_list": [
-        "問題ないけど……君はどう？",
-        "問題ないけど……貴方はどう？"
+        "Me parece bien... pero, ¿tú qué opinas?",
+        "Me parece bien... pero, ¿tú qué opinas?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ひょわっ！？　あっ、えっ！？\nえーっと、その、その…………！"
+      "name": "Meisho Doto",
+      "text": "¡¿Eek?! Um, ¡¿eh?! Bueno, e-el asunto es..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……すっ、すごくうれしいのですが、\n私なんかが相手でよいのでしょうか～……？"
+      "name": "Meisho Doto",
+      "text": "...Me alegra mucho que me lo hayas pedido, pero ¿estás<n>seguro\nque quieres a alguien como yo?"
     },
     {
-      "name": "Chica Caballo B",
-      "text": "ドトウさんと走りたいっス！\r\n諦めない姿勢、勉強させてください！"
+      "name": "Estudiante B",
+      "text": "¡Por supuesto que queremos correr contigo! ¡Yo<n>quiero aprender\nde esa actitud tan determinada<n>que tienes!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……そ、そんな……私は、\nなにも誇れるようなことはしてなくて……。"
+      "name": "Meisho Doto",
+      "text": "P-pero si yo no he hecho nada para<n>merecer\ntodo este elogio..."
     },
     {
-      "name": "Chica Caballo C",
-      "text": "そんなことありません！\r\n終盤で並びかけられても、そこから粘って\nさらに伸びる走り……マジで憧れます！"
+      "name": "Estudiante C",
+      "text": "¡Eso no es cierto! He visto cómo<n>siempre perseveras\nhasta el final de la<n>carrera. Justo cuando estás\nrodeado por todos<n>lados, das un último sprint\npara liberarte<n>... ¡Es realmente asombroso!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふえっ、あっ、ありがとうございますぅ……！"
+      "name": "Meisho Doto",
+      "text": "¡Eep! Oh, m-muchas gracias de verdad."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "その、私でいいなら併走……\nおおお、お願いしましゅ！"
+      "name": "Meisho Doto",
+      "text": "Bueno, si no les molesta que me una... entonces<n>con mucho gusto\ncorreré junto a ustedes."
     },
     {
-      "name": "Chica Caballo A",
-      "text": "やった！　じゃ、準備してきます！"
+      "name": "Estudiante A",
+      "text": "¡Sííí! ¡Voy a prepararme, ¿vale?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "併走を頼まれるなんて夢みたいですぅ……。\nトレーナーさんのおかげ、ですね……えへへ。"
+      "name": "Meisho Doto",
+      "text": "Que me inviten a un entrenamiento en pareja es como un<n>sueño\nhecho realidad... Y todo gracias a<n>ti, Entrenador...\njeje."
     }
   ]
 }

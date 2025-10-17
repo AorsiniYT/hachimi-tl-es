@@ -2,48 +2,50 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "トレーニングの時間になっても現れない\r\nメイショウドトウを探していると――"
+      "name": "Monólogo",
+      "text": "Meisho Doto aún no ha llegado al<n>entrenamiento, así que decido buscarla."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "宇宙エネルギーで、ぽぽポジティブに……？\r\nしかも、効果が永久に続くんですかぁ！？"
+      "name": "Meisho Doto",
+      "text": "¿La energía del cosmos te da<n>positividad? ¿Y dices que los resultados<n>son permanentes? ¡¿Y además?!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "こ、こんなにすごい商品があったなんて……！\r\n買いますぅ！　1つください！"
+      "name": "Meisho Doto",
+      "text": "Nunca pensé que un producto tan asombroso<n>fuera real! ¡Por favor, quiero uno!"
     },
     {
-      "name": "怪しい女性",
-      "text": "ふふっ、宇宙リストバンドお買い上げですね。\r\nそれじゃあ、お代の方が……。",
+      "name": "Dama Sospechosa",
+      "text": "Hehe, entonces quieres comprar la<n>pulsera cósmica. Ahora, ¿cómo vas a<n>pagar?",
       "choice_data_list": [
-        "本当に効果があるんですか？"
+        "¿Estás segura de que hace lo que dices?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふえっ、トレーナーさん！？\r\nどうしてここに……。"
+      "name": "Meisho Doto",
+      "text": "¿Gyah, Entrenador? ¿Qué estás haciendo<n>aquí?"
     },
     {
-      "name": "怪しい女性",
-      "text": "おほ、おほほほほ～！\r\n用事を思い出したので、失礼するわ～！"
+      "name": "Dama Sospechosa",
+      "text": "¡Oh, ho, ho, ho! Debo irme, porque<n>acabo de recordar que tengo una agenda<n>muy ocupada!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ええぇぇっ！？\r\n私の宇宙リストバンドは～～！？",
+      "name": "Meisho Doto",
+      "text": "¡¿Huuuh?! Pero ¿y mi pulsera cósmica<n>qué?",
       "choice_data_list": [
-        "それよりもトレーニングの時間だよ"
+        "Deberías preocuparte más de que es hora de tu entrenamiento."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "トレ……あわわわわ～～っ！！"
+      "name": "Meisho Doto",
+      "text": "La hora de entr—¡Oh nooo!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "すっかり忘れてましたぁ～！\r\nご、ごごめんなさ～～いぃ！！"
+      "name": "Meisho Doto",
+      "text": "¡Lo olvidé por completo! ¡Lo siento mucho!"
     },
     {
-      "text": "トレーニングの時間には気をつけるよう、\r\nメイショウドトウに注意した……。"
+      "name": "Monólogo",
+      "text": "Le recuerdo a Meisho Doto que debe estar<n>más consciente de su horario de entrenamiento."
     }
   ]
 }

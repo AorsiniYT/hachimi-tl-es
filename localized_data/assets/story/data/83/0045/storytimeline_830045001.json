@@ -2,210 +2,224 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "廊下を歩いていると、\r\n生徒たちの声が聞こえてきた。"
+      "name": "Monólogo",
+      "text": "Mientras camino por el pasillo, escucho<n>las\nvoces de unos estudiantes."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "もう、なんなのよこれ！\r\n邪魔ったらないわ！"
+      "name": "Barre Tosho",
+      "text": "¿Qué demonios pasa aquí?! Esto<n>nos\nes un obstáculo total!"
     },
     {
-      "name": "ニシノフラワー",
-      "text": "イベントかなにかで使ったのでしょうか？\r\nかなりの量ですね……。"
+      "name": "Nishino Flower",
+      "text": "Tal vez se usaron para un evento. Pero<n>hay\nmontones de ellos..."
     },
     {
-      "text": "見ると、彼女たちの前には大量の\r\nダンボールが立ちはだかっている。\n通るには邪魔そうだ。"
+      "name": "Monólogo",
+      "text": "Veo una pila enorme de cajas apiladas<n>frente a\nthem. Parece que las cajas<n>bloquean el\npaso."
     },
     {
-      "name": "ビコーペガサス",
-      "text": "くそー、早くどうにかしないと\r\n次の授業始まっちゃうぞ！？"
+      "name": "Biko Pegasus",
+      "text": "¡Maldición! Si no hacemos algo al<n>respecto nos\ntardaremos para la clase."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "よし、アタシが魔法でふっ飛ばしてやるわ！\r\nいくわよ――！"
+      "name": "Barre Tosho",
+      "text": "Bueno, voy a dispersarlos con<n>magia!\n¡Allá voy!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "荒ぶる奔流よ、万物を押し流しなさい！\r\nクリサンセマム☆スプラッシュ！"
+      "name": "Barre Tosho",
+      "text": "Torrente furioso, ¡lávate todo a tu paso!<n>\n¡Crisantemo ☆ Splash!"
     },
     {
-      "text": "…………。"
+      "name": "Monólogo",
+      "text": "..."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "天上の星よ、万物を押しつぶしなさい！\r\nオキシペタラム☆ブルースター！"
+      "name": "Barre Tosho",
+      "text": "Brillos del cielo, arrasen<n>todo a\nsu paso. Oxypetalum ☆ Blue Star!"
     },
     {
-      "text": "…………。"
+      "name": "Monólogo",
+      "text": "..."
     },
     {
-      "name": "ビコーペガサス",
-      "text": "おい、なんにも起きないぞー！？"
+      "name": "Biko Pegasus",
+      "text": "Oye, ¡no pasa nada!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "う、うるさいわね！\r\nちょっと調子がでないだけよ！"
+      "name": "Barre Tosho",
+      "text": "¡C-cállate! Solo necesito calentar un poco, ¡eso es todo!"
     },
     {
-      "name": "ビコーペガサス",
-      "text": "しょうがないな、ここからは\r\nヒーローの出番だ。アタシに任せろ！"
+      "name": "Biko Pegasus",
+      "text": "Muy bien, es hora de que un héroe actúe.<n>Es hora\nde que <i>yo</i> actúe!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "待ちなさいってば～！\r\nまだアタシの出番なんだから～っ！"
+      "name": "Barre Tosho",
+      "text": "¡Oye, espera! ¡No estoy listo para retirarme!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "温存しておきたかったけど……\r\nしょうがないわ。\n――いくわよ、最終奥義！"
+      "name": "Sweep Tosho",
+      "text": "Quería prepararme para esto, pero parece<n>que no\nme queda opción. ¡Aquí viene mi<n>encantamiento\nsupremo!"
     },
     {
-      "text": "スイープトウショウが杖を振りかぶった。\r\n魔法――いや、物理攻撃の予感がする……！",
+      "name": "Monólogo",
+      "text": "Sweep Tosho agita su varita. Tengo el<n>presentimiento\nque las cosas se pondrán<n>mágicos —¡no, físicos!",
       "choice_data_list": [
-        "よし、いけーっ！",
-        "ちょっと待った……！！"
+        "¡Dale con tu mejor esfuerzo!",
+        "<i>¡Espera!</i>"
       ]
     },
     {
-      "name": "スイープトウショウ",
-      "text": "任せなさい！　グランパとケンカした時、\r\nグランマがいつも使ってた最強の魔法――"
+      "name": "Sweep Tosho",
+      "text": "¡Déjamelo a mí! Este es el hechizo que mi<n>abuela\nsiempre solía lanzar cuando se<n>metía en peleas\ncon mi abuelo!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "『アルティメット・インパクト』ーーッ！！"
+      "name": "Sweep Tosho",
+      "text": "IMPACTO SUPREMO"
     },
     {
-      "text": "（――ドカドカドカドカッ！！）"
+      "name": "Monólogo",
+      "text": "<i>¡BUM! ¡ZAS! ¡CRASH!</i>"
     },
     {
-      "text": "幼くとも、さすがはウマ娘の腕力……！\r\n大量のダンボールが一瞬で細切れに\nなってしまった！"
+      "name": "Monólogo",
+      "text": "Puede que sea pequeña, pero pega con<n>todas sus fuerzas! Docenas\nde cajas quedan aplastadas en<n>un abrir y cerrar de ojos."
     },
     {
-      "name": "ビコーペガサス",
-      "text": "おおーっ！　すごいなスイープ！\r\nこれなら余裕で通れるぞー！"
+      "name": "Biko Pegasus",
+      "text": "¡Guau! ¡Bien hecho, Sweep! Ahora podemos<n>avanzar\nsin problemas!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "ふふん、天才魔法少女にかかれば\r\nヨユーなんだから♪　この調子でもう1発――"
+      "name": "Sweep Tosho",
+      "text": "Jeje, todo es pan comido cuando<n>tienes una\namiga mágica genial a tu lado! ♪<n>Quiero lanzar\nese hechizo de nuevo..."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "――わぁっ、もう時間！？\r\nマズいわ、次の授業に行かないと！",
+      "name": "Sweep Tosho",
+      "text": "Rayos, ¡mira la hora! ¡Tenemos que<n>irnos a clase!",
       "choice_data_list": [
-        "ダンボールの残骸は……？"
+        "¿Y qué hay de todos los cartones?"
       ]
     },
     {
-      "name": "スイープトウショウ",
-      "text": "後で魔法で片づけとくから！\r\nほら2人とも、早く行くわよ～っ！"
+      "name": "Sweep Tosho",
+      "text": "¡Lo limpiaré después con magia! Vamos,<n>ustedes dos,\n¡tenemos que salir de aquí!"
     },
     {
-      "text": "行ってしまった……。\r\n『後で片づける』とは言っていたが、\nこのままにしておくのもはばかられる。"
+      "name": "Monólogo",
+      "text": "Ellos se van a toda prisa... Sé que<n>Sweep Tosho\ndijo que lo limpiaría después, pero odiaría<n>dejar semejante\ndesastre tirado."
     },
     {
-      "text": "誰かに見つかる前に、\r\nせっせと片づけることにした。"
+      "name": "Monólogo",
+      "text": "Decido limpiarlo antes de que venga<n>nadie más\npor aquí."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "よーし、それじゃあ片づけを――あれ？"
+      "name": "Sweep Tosho",
+      "text": "Vale, volvamos a— ¿eh?"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "わぁ、キレイになってる～！\r\nアタシ、知らないうちに魔法使ってたのかも♪"
+      "name": "Sweep Tosho",
+      "text": "¡Guau! ¡Todo está ordenado! Debo<n>haber\nhecho algo de magia<n>inconsciente!"
     },
     {
-      "name": "エアグルーヴ",
-      "text": "おい……！\r\nお前たち、何をしている！？"
+      "name": "Air Groove",
+      "text": "¡Oye! ¿Qué crees que estás<n>haciendo todos?!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "――ひゃっ！？\r\n見つかっちゃった！？"
+      "name": "Sweep Tosho",
+      "text": "¡Ay! ¡Nos han pillado!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "フラワー、ビコー！　さっさと逃げるわよ！\r\nこの距離ならどうにかなるわ！"
+      "name": "Sweep Tosho",
+      "text": "¡Flower! ¡Biko! ¡Tenemos que escapar mientras<n>podamos!\nTodavía tenemos tiempo para escapar de ella!"
     },
     {
-      "name": "エアグルーヴ",
-      "text": "チッ、逃がしたか。――だがそこの貴様、\r\n何か知っていそうだな？",
+      "name": "Air Groove",
+      "text": "Tch, se escaparon. Oye tú, ¿sabes<n>qué\npasó aquí?",
       "choice_data_list": [
-        "実は……"
+        "En realidad..."
       ]
     },
     {
-      "text": "エアグルーヴに事情を話し、\r\nダンボールを破壊するスイープトウショウを\n止めなかったことを謝罪した。"
+      "name": "Monólogo",
+      "text": "Le explico la situación a Air Groove y<n>me\ndisculpo por dejar que Sweep Tosho<n>destruya las\ncajas."
     },
     {
-      "name": "エアグルーヴ",
-      "text": "なるほど、あのお転婆に翻弄されたか。"
+      "name": "Air Groove",
+      "text": "Ya veo. Parece que te engañó esa<n>chica\ntraviesa."
     },
     {
-      "name": "エアグルーヴ",
-      "text": "とはいえ加担したのも事実。\r\n相応の責任は取ってもらうぞ。"
+      "name": "Air Groove",
+      "text": "Pero eso te hace cómplice. Y<n>tendrás\nque asumir la responsabilidad de<n>tus acciones."
     },
     {
-      "text": "エアグルーヴの言葉に頷き、1人で\r\nせっせと掃除することにしたのだった……。"
+      "name": "Monólogo",
+      "text": "Acepto los términos de Air Groove y me pongo<n>a\ntrabajar diligentemente por mi cuenta."
     },
     {
-      "text": "後から聞いたところによると\r\nスイープトウショウたちもきっちりと\nお叱りを受けたそうだ。"
+      "name": "Monólogo",
+      "text": "Escucho después que a Sweep Tosho y a los<n>demás\ntambién les dieron un sermón muy<n>severa."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "なによ、アタシを止めようっていうの！？",
+      "name": "Sweep Tosho",
+      "text": "¿Por qué intentas detenerme?!",
       "choice_data_list": [
-        "最終奥義は危ないから"
+        "Tu conjuro definitivo es demasiado poderoso."
       ]
     },
     {
-      "name": "スイープトウショウ",
-      "text": "……あ、そっか。アタシの魔力が\r\n炸裂したらどうなるかわからないものね。"
+      "name": "Sweep Tosho",
+      "text": "...Oh, tienes razón. No se sabe<n>qué\npasará cuando lo active."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "ふふん、わかったわ。\r\nじゃあ別の魔法で解決してあげる♪"
+      "name": "Sweep Tosho",
+      "text": "Jeje, está bien. Intentaré con otro tipo de<n>magia\nentonces. ♪"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "こうなったら、使役魔法よ！"
+      "name": "Sweep Tosho",
+      "text": "¡Es hora de un hechizo de mando!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "アザミ☆カタバミ☆カキツバタ！\r\nアンタたち、ダンボールを片づけなさーいっ！"
+      "name": "Sweep Tosho",
+      "text": "¡Cirsium ☆ Oxalis ☆ Iris! Les ordeno a<n>ustedes\ndos a limpiar estas cajas!"
     },
     {
-      "name": "ビコーペガサス",
-      "text": "ええ～っ！？"
+      "name": "Biko Pegasus",
+      "text": "¡¿Qué?!"
     },
     {
-      "name": "ビコーペガサス",
-      "text": "よしフラワー、ダンボール折りたたんだぞ！\r\n次はどうすればいいんだ？"
+      "name": "Biko Pegasus",
+      "text": "Vale, Flor, ya he doblado el cartón.<n>¿Qué\nsigue?"
     },
     {
-      "name": "ニシノフラワー",
-      "text": "紐で縛りましょう。ビコーさんには\r\n端を持っててもらって――",
+      "name": "Nishino Flower",
+      "text": "Átalos con cuerda. Aquí, toma este<n>extremo\ny...",
       "choice_data_list": [
-        "ダンボールを支えとくよ"
+        "Voy a apuntalar el cartón."
       ]
     },
     {
-      "name": "ニシノフラワー",
-      "text": "あっ、助かります！"
+      "name": "Nishino Flower",
+      "text": "¡Oh, eso sería genial! ¡Gracias!"
     },
     {
-      "text": "しばらくの間、3人でダンボールの片づけを\r\nしていたのだが――"
+      "name": "Monólogo",
+      "text": "Los tres nos ponemos a limpiar<n>las\ncajas. Sin embargo..."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "むぅ～……。"
+      "name": "Sweep Tosho",
+      "text": "Ngh..."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "なによ、盛り上がっちゃって！\r\n使役されてる側のくせに～！"
+      "name": "Sweep Tosho",
+      "text": "¿Cómo es que todos la están pasando<n>tan genial?! ¡A ustedes los están obligando a limpiar!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "こうなったら主人のアタシがビシッと\r\n手本を見せてあげるんだから！\n貸しなさいっ！"
+      "name": "Sweep Tosho",
+      "text": "¿Así que ha llegado a esto, no?! ¡Voy a<n>tener que\nmostrarte cómo se hace! ¡Pásame eso!"
     },
     {
-      "text": "見ているだけのスイープトウショウは\r\n寂しくなったのか、最終的には全員で\n片づけることにしたのだった。"
+      "name": "Monólogo",
+      "text": "Sintiéndose sola mientras nos observa desde<n>la\nperiferia, Sweep Tosho termina<n>uniéndose también."
     }
   ]
 }

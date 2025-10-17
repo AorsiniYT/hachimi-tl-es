@@ -2,202 +2,207 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "メイショウドトウと出かけた帰り、\n河川敷でハルウララを見かけた。"
+      "name": "Monólogo",
+      "text": "Estoy de regreso de una salida con<n>Meisho\nDoto hasta que vemos a Haru Urara<n>junto al río."
     },
     {
-      "name": "ハルウララ",
-      "text": "ラララ～っ♪　ラルララ～♪"
+      "name": "Haru Urara",
+      "text": "¡La-la-laa! ¡La-di-daa! ♪"
     },
     {
-      "name": "ハルウララ",
-      "text": "あっ、ドトウちゃん！\n今から帰るのー？"
+      "name": "Haru Urara",
+      "text": "¿Oh, Doto! ¿Ya vas para casa?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "そそ、そうですぅ……ええっと……？\r\nウララさんはシャドーボクシングで\nトレーニング……でしょうかぁ？"
+      "name": "Meisho Doto",
+      "text": "S-sí, estoy en eso, pero... Urara, es eso...<n>¿boxeo de sombra\nlo que estás haciendo?"
     },
     {
-      "name": "ハルウララ",
-      "text": "違うよー！　お歌の練習！"
+      "name": "Haru Urara",
+      "text": "¡No! Estoy practicando mi canto."
     },
     {
-      "name": "ハルウララ",
-      "text": "お歌の先生にね、『歌にパンチがほしい』\nって言われたから練習してたんだ！",
+      "name": "Haru Urara",
+      "text": "Mi instructor de canto dijo que la canción<n>debe tener\nmás garra, así que estoy<n>trabajando en eso!",
       "choice_data_list": [
-        "その練習、パンチ違いだな……",
-        "その練習、パンチ違いだね……"
+        "Eso es un tipo diferente de \"golpe\".",
+        "Eso es un tipo diferente de \"golpe\"."
       ]
     },
     {
-      "name": "ハルウララ",
-      "text": "パンチ違い？\nえー、他にもパンチがあるのー！？"
+      "name": "Haru Urara",
+      "text": "¿Un golpe diferente? ¿Quieres decir que hay<n>más de\nun tipo?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あ、あのぉ……多分、なんですけど……。\n殴る方じゃなくて、歌声のパンチかとぉ……。"
+      "name": "Meisho Doto",
+      "text": "Bueno, um... creo que tu instructor se<n>refería a...\nmás garra en tu voz<n>en lugar de... a tus puños."
     },
     {
-      "name": "ハルウララ",
-      "text": "ドトウちゃん、どんなパンチかわかるんだ！\nじゃあじゃあ、お手本聞かせてーー！！"
+      "name": "Haru Urara",
+      "text": "Wow, entonces puedes distinguir qué tipo de garra<n>es,\nDoto! ¡Enséñame cómo hacerlo,<n>por favor!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ほへっ！？　わ、私がですかぁ……！？\n私の歌なんて参考になりませんよぉ！",
+      "name": "Meisho Doto",
+      "text": "¡¿Qu- quieres que yo lo haga?! No creo que<n>mi voz\nsea un buen ejemplo!",
       "choice_data_list": [
-        "1フレーズだけ歌ってあげたら？"
+        "Cantar solo una línea no haría daño."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ううっ……本当に自信ないんですけどぉ……。\nえええ、演歌……でいいならぁ……。"
+      "name": "Meisho Doto",
+      "text": "Ngr... No tengo mucha confianza con mi<n>canto,\npero... Bueno, si te parece bien el enka, entonces..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……う、歌わせていただきますぅ。"
+      "name": "Meisho Doto",
+      "text": "Me encantaría cantar algo para ti."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あぁぁぅあぁ～～～！\n貴方は2度と……帰らぁないぃぃ～～～♪"
+      "name": "Meisho Doto",
+      "text": "¿Hasta dónde? Dices que nunca...<n>\\n¡volverás! "
     },
     {
-      "name": "ハルウララ",
-      "text": "すっごーーーい！　テレビで\n着物着て歌ってる人みたいだよ！！",
+      "name": "Haru Urara",
+      "text": "¡Guau, eso fue increíble! Justo como<n>los cantantes en kimono de la tele.",
       "choice_data_list": [
-        "哀愁の中にパンチがあった……"
+        "Incluso una balada con sentimiento puede tener fuerza."
       ]
     },
     {
-      "name": "ハルウララ",
-      "text": "今のがパンチなんだ！\nふーむふむふむ、なるほどー！"
+      "name": "Haru Urara",
+      "text": "Así que eso es lo que quieres decir con \"fuerza.\" ¡Estoy<n>empezando a entenderlo!"
     },
     {
-      "name": "ハルウララ",
-      "text": "よーし、ウララもパンチ覚えるぞー！\nドトウちゃん、一緒に歌って！"
+      "name": "Haru Urara",
+      "text": "¡Muy bien, casi lo tengo! Doto,<n>¡canta conmigo!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あぁぁぅあぁ～～～！\n貴方は2度と……帰らぁないぃぃ～～～♪"
+      "name": "Meisho Doto",
+      "text": "¿Hasta dónde? Dices que nunca...<n>\\n¡volverás! "
     },
     {
-      "name": "ハルウララ",
-      "text": "あああああーーー！\nあなたは2度と帰らないいーーー♪"
+      "name": "Haru Urara",
+      "text": "¿HASTA DÓNDE? DICES QUE NUNCA<n>\\nVOLVERÁS! "
     },
     {
-      "name": "ハルウララ",
-      "text": "うーん？　なんかドトウちゃんのと違う～？"
+      "name": "Haru Urara",
+      "text": "Hmm, ¿por qué la mía se siente un poco<n>diferente?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "え、えっと……差し出がましいんですが……。\nその……め、メリハリ……！\nとか、あるといいかなって……はいぃ。"
+      "name": "Meisho Doto",
+      "text": "B-bueno, ciertamente estás proyectando<n>lo suficiente... pero\nc-creo que te falta un<n>poco de vibrato... quizás...\\nUmm..."
     },
     {
-      "name": "ハルウララ",
-      "text": "うー、メリハリ………メリハリ～～？\nメリメリ～、メリクリ～～？？？"
+      "name": "Haru Urara",
+      "text": "Oh... ¿vibrato? Vibrato, vibrato... Como,<n>¡bravo!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あっ、その、難しくかか、考えずに――\r\nのびのびと歌っていただきたいですぅ……！"
+      "name": "Meisho Doto",
+      "text": "No, um, no lo pienses demasiado... Es<n>más bien...\\n¡Abríte y canta con más<n>libertad!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ウララさんは、げげ、元気いっぱいで\n声量もありますしぃ……！"
+      "name": "Meisho Doto",
+      "text": "Tu voz tiene mucha fuerza,<n>Urara... ¡y\nestá llena de energía!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "それに真っすぐで……一生懸命だから……。\nつ、続けていけば感覚が掴めますぅ……！"
+      "name": "Meisho Doto",
+      "text": "Además, eres muy honesta... y<n>trabajadora, así que<n>sé que le agarrarás la onda en unos pocos<n>intentos más!"
     },
     {
-      "name": "ハルウララ",
-      "text": "わーっ、もしかして\nウララほめられちゃった！？"
+      "name": "Haru Urara",
+      "text": "¡Guau! ¿Me estás halagando?"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……はわっ！　すすっ、すみません！！\n偉そうなこと言ってごめんなさぁ～い！！"
+      "name": "Meisho Doto",
+      "text": "¡Eep! ¡Lo s-siento mucho! No es como si mi<n>opinión importara!<n>Lo siento si soné arrogante!"
     },
     {
-      "name": "ハルウララ",
-      "text": "うぅぅ～～……やったー！\nわたし、メリハリもパンチもがんばるーー！！"
+      "name": "Haru Urara",
+      "text": "Je, je... ¡Sííí! ¡Voy a clavar este<n>asunto de vibrato!"
     },
     {
-      "text": "メイショウドトウはハルウララと\n歌いながら、アドバイスを続ける。"
+      "name": "Monólogo",
+      "text": "Meisho Doto continúa cantando junto<n>con Haru Urara, dándole consejos en el<n>camino."
     },
     {
-      "text": "……しばらくすると、\nハルウララの歌声が変化してきた！"
+      "name": "Monólogo",
+      "text": "Eventualmente, Haru Urara nota un cambio<n>en su<n>voz!"
     },
     {
-      "name": "2人",
-      "text": "あぁぁぅあぁ～～～！\n貴方は2度と……帰らぁないぃぃ～～～♪",
+      "name": "Doto y Urara",
+      "text": "¿Adónde? Dijiste que nunca...<n>volverías! ",
       "choice_data_list": [
-        "おぉ……！パンチがある！"
+        "¡Whoa...! ¡Eso es lo que yo llamo un buen golpe!"
       ]
     },
     {
-      "name": "ハルウララ",
-      "text": "やったー！　できたできたー！！"
+      "name": "Haru Urara",
+      "text": "¡Sí! ¡Lo hice! ¡Lo hice!"
     },
     {
-      "name": "ハルウララ",
-      "text": "ドトウちゃんのおかげだよ！\n一緒に練習して、いっぱいほめてくれたから！"
+      "name": "Haru Urara",
+      "text": "Todo es gracias a ti, Doto. Me ayudaste<n>a practicar y me elogiaste un montón."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "わ、私は本当になにも……！\nただ、ううっ、歌っただけでしてぇ……！",
+      "name": "Meisho Doto",
+      "text": "¡Yo no hice nada más que cantar una canción!",
       "choice_data_list": [
-        "いい歌声だった！",
-        "謙遜しないで、胸を張っていいぞ",
-        "謙遜しないで、胸を張っていいよ"
+        "¡Y lo cantaste maravillosamente!",
+        "Puedes estar orgullosa. Está bien mantener la<n>cabeza en alto.",
+        "Puedes estar orgullosa. Está bien mantener la<n>cabeza en alto."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "わ、私は本当になにも……！\nただ、ううっ、歌っただけでしてぇ……！",
+      "name": "Meisho Doto",
+      "text": "¡Yo no hice nada más que cantar una canción!",
       "choice_data_list": [
-        "いい歌声だった！",
-        "謙遜しないで、胸を張っていいぞ",
-        "謙遜しないで、胸を張っていいよ"
+        "¡Y la cantaste maravillosamente!",
+        "Tienes derecho a estar orgullosa. No temas<n>mantener la cabeza en alto.",
+        "Tienes derecho a estar orgullosa. No temas<n>mantener la cabeza en alto."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ほえっ……！？\nは、恥ずかしいですぅ……！"
+      "name": "Meisho Doto",
+      "text": "¿Eh? ¡Th-this es tan embarazoso!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "……けど、歌うのはきき、気持ちよくて……。\n好き……かもですぅ……。"
+      "name": "Meisho Doto",
+      "text": "Pero... se sintió r-r-realmente bien cantar... Quizás<n>hasta sea divertido... tal vez."
     },
     {
-      "name": "ハルウララ",
-      "text": "歌って楽しいよね！\r\nドトウちゃん、歌いながら一緒に帰ろっ！"
+      "name": "Haru Urara",
+      "text": "¡Cantar es muy divertido! Cantemos<n>todo el camino a casa, Doto!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "は、はいぃ……！\nわた、私でよければお供しますぅ～～！"
+      "name": "Meisho Doto",
+      "text": "¡Oh, d-de acuerdo! Si no te molesta mi voz,<n>¡entonces sí!"
     },
     {
-      "text": "暮れなずむ河川敷に、力強いが\r\nちょっと切ない歌声が響くのだった……。"
+      "name": "Monólogo",
+      "text": "En la neblina del anochecer, dos<n>voces resuenan<n>junto al río —fuertes<n>e inquebrantables, pero un poco<n>desoladas."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ひょえぇぇ～～！？　そそ、そんな！\n私なんかが、おこ、おこがましいですぅ……！"
+      "name": "Meisho Doto",
+      "text": "¡Waah! ¡No debería ser t-tan descarado!"
     },
     {
-      "name": "ハルウララ",
-      "text": "そーかなー？　ドトウちゃん、\r\nいいところいっぱいあるのに！"
+      "name": "Haru Urara",
+      "text": "¿En serio? ¡Pero si tienes tanto que<n>ofrecer, Doto!"
     },
     {
-      "name": "ハルウララ",
-      "text": "優しいところと、お歌が上手なところ\r\nでしょー。それからそれから、他にもね～――"
+      "name": "Haru Urara",
+      "text": "Eres amable y cantas bien, pero<n>eso no es todo!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "ふえぇっ！？　ウララさんの方が、\r\nいいところいっぱいですぅ！"
+      "name": "Meisho Doto",
+      "text": "¡Hoooh?! Pues lo mismo digo sobre<n>ti, Urara!"
     },
     {
-      "name": "メイショウドトウ",
-      "text": "いつも明るくて、わた、私なんかと\n仲良くしてくれますし……。\nい、いいところしかありませぇ～～ん！！"
+      "name": "Meisho Doto",
+      "text": "Siempre estás de tan buen humor, y te<n>preocupaste por hacerte amiga de alguien como yo.<n>Eres... alguien muy, muy<n>agradable!"
     },
     {
-      "text": "それから寮に帰るまで褒めあいは続き、\n顔を真っ赤にするメイショウドトウだった。"
+      "name": "Monólogo",
+      "text": "Las dos se intercambian cumplidos<n>todo el trayecto de vuelta a la residencia, con<n>Meisho Doto sonrojándose<n>hasta un brillante<n>tono rojizo."
     }
   ]
 }

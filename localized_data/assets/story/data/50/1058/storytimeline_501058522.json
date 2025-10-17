@@ -2,30 +2,32 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "廊下を歩いていると、深々とため息をつく\r\nメイショウドトウを見かけた。"
+      "name": "Monólogo",
+      "text": "Me encuentro con Meisho Doto en el pasillo mientras<n>ella\nsuelta un suspiro largo y profundo."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はぁぁ～～～～～。私ってどうして、\r\nこんなにダメダメなんだろう……。",
+      "name": "Meisho Doto",
+      "text": "<i>Suspira...</i> ¿Por qué soy tan desastre?",
       "choice_data_list": [
-        "何かあったのか？",
-        "何かあったの？"
+        "¿Qué pasa? ¿Pasó algo?",
+        "¿Qué pasa? ¿Pasó algo?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "あっ、ト、トレーナーさん……。\r\nなんでもないですっ、ちょっと肌荒れが……。"
+      "name": "Meisho Doto",
+      "text": "Oh, E-Entrenador... No es nada serio, solo que<n>mi\npiel ha comenzado a sentirse un poco<n>desigual..."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "きっと昨日、お醤油と間違えて、おひたしに\r\nごま油をかけちゃったせいですぅ……。"
+      "name": "Meisho Doto",
+      "text": "Debe ser porque ayer confundí el aceite de<n>sésamo\ncon salsa de soja... y lo puse<n>en mi plato\nsecundario."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "しかも手をすべらせちゃって……あれはもう、\r\nおひたしじゃなく、ごま油のスープでしたぁ。"
+      "name": "Meisho Doto",
+      "text": "Pero se me resbaló la mano... convirtiendo mis<n>vegetales\nen sopa de aceite de sésamo."
     },
     {
-      "text": "それでも残すことはできなかったのだろう。\r\nドジと肌荒れ、両方に落ち込む\nメイショウドトウだった。"
+      "name": "Monólogo",
+      "text": "Supongo que a ella le molestaba tirar la<n>comida.\nSu problema cutáneo y su último<n>desliz dejan a Meisho\nDoto desanimado."
     }
   ]
 }

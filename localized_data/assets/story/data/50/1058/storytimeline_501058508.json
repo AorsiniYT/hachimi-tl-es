@@ -2,29 +2,29 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "お昼休みに屋上へ行くと、\r\nそこにはメイショウドトウの姿が……。"
+      "text": "Subo a la azotea a la hora del almuerzo, donde<n>me encuentro con\nMeisho Doto."
     },
     {
-      "name": "メイショウドトウ",
-      "text": "げっぷ……こ、これだけ飲めば、\r\nきっとダルさも取れるはずぅ……。",
+      "name": "Meisho Doto",
+      "text": "Guh... E-esta bebida debería ayudarme a quitarme<n>la\nfatiga...",
       "choice_data_list": [
-        "ドトウ……？"
+        "¿Doto?"
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "はひぃっ！？　ととっとトレーナーさん！？\r\nこの栄養ドリンクはですねぇ、その――",
+      "name": "Meisho Doto",
+      "text": "¡¿Sí?! E-¡Entrenador! Solo estoy tomando un<n>shot energético.",
       "choice_data_list": [
-        "それスポーツドリンクだぞ？",
-        "それスポーツドリンクだよ？"
+        "Eso que tienes es una bebida deportiva.",
+        "Eso que tienes es una bebida deportiva."
       ]
     },
     {
-      "name": "メイショウドトウ",
-      "text": "えっ……えぇぇぇ！？\r\nこんなに飲んだのに気づきませんでした～！！"
+      "name": "Meisho Doto",
+      "text": "Oh... ¿¿De v-de veras?! No me di cuenta en absoluto,<n>¡y ya me\nhe tomado un montón!"
     },
     {
-      "text": "疲労で頭が回っていないのだろうか、\r\n彼女の足元は空のペットボトルだらけだ……。\nレースの予定を見直すべきかもしれない。"
+      "text": "La fatiga debe haber embotado sus sentidos.<n>La\nazotea está llena de sus botellas<n>plásticas vacías. Probablemente\ndebamos replantear<n>nuestro calendario de carreras."
     }
   ]
 }
