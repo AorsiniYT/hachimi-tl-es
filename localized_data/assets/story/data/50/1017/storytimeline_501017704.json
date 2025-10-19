@@ -1,161 +1,127 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "The day is growing late as Symboli<n>Rudolf and I\nhead back after our day<n>out."
+  "text_block_list": {
+    "0": {
+      "text": "El día se está haciendo tarde mientras Symboli<n>Rudolf y yo\nregresamos después de nuestro día<n>fuera."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "If you wouldn't mind, there's somewhere<n>I would\nlike to drop by before we return<n>to the academy."
+    "1": {
+      "text": "Si no te importa, hay algún lugar<n>donde me gustaría\npasar antes de que regresemos<n>a la academia."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Would you be willing to accompany me?",
-      "choice_data_list": [
-        "Sure, where are we going?",
-        "Sure, where are we going?"
-      ]
+    "2": {
+      "text": "¿Estarías dispuesto a acompañarme?",
+      "choice_data_list": {
+        "0": "Claro, ¿adónde vamos?",
+        "1": "Claro, ¿adónde vamos?"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "The moon is supposed to be a perfect<n>crescent\ntonight, and I hear that the sky<n>will be clear..."
+    "3": {
+      "text": "Se supone que la luna será una<n>media luna\nperfecta esta noche, y he oído que el cielo<n>estará despejado..."
     },
-    {
-      "name": "Monologue",
-      "text": "Symboli Rudolf leads me to a shrine<n>located on a\nsmall hill."
+    "4": {
+      "text": "Symboli Rudolf me lleva a un santuario<n>ubicado en una\npequeña colina."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "There aren't any buildings or bright<n>lights around\nhere. We should have a<n>perfect view."
+    "5": {
+      "text": "No hay edificios ni luces brillantes<n>alrededor\naquí. Deberíamos tener una<n>vista perfecta."
     },
-    {
-      "name": "Monologue",
-      "text": "Perfect is right. A beautiful crescent<n>moon shines\nbrightly in the sky above us."
+    "6": {
+      "text": "Perfecto es correcto. Una hermosa media luna<n>brilla\nbrillantemente en el cielo sobre nosotros."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I rarely speak about this, but..."
+    "7": {
+      "text": "Rara vez hablo de esto, pero..."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "When I was young, I was often called<n>Luna, on\naccount of the white streak in<n>my hair."
+    "8": {
+      "text": "Cuando era joven, a menudo me llamaban<n>Luna, debido\na la raya blanca en<n>mi cabello."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "You could hardly imagine it now, could<n>you? But\nit suited me then."
+    "9": {
+      "text": "¿Difícilmente podrías imaginarlo ahora,<n>¿verdad? Pero\nme quedaba bien entonces."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I always loved the sound of it, and once<n>I learned\nwhere it came from, I smiled<n>every time I caught\nsight of the moon."
+    "10": {
+      "text": "Siempre amé el sonido de eso, y una vez<n>que aprendí\nde dónde venía, sonreí<n>cada vez que veía\nla luna."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "...But that's in the past now."
+    "11": {
+      "text": "...Pero eso está en el pasado ahora."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I left that name behind when I resolved<n>to walk\nthe path of the Emperor."
+    "12": {
+      "text": "Dejé ese nombre atrás cuando resolví<n>caminar\nel camino del Emperador."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "That isn't to say I mourn its loss, you<n>understand."
+    "13": {
+      "text": "Eso no quiere decir que lamente su pérdida,<n>¿entiendes?"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I can't explain why, but... I simply felt<n>that you\nought to know.",
-      "choice_data_list": [
-        "I'm glad you told me.",
-        "It's a pretty name.",
-        "It's a pretty name.",
-        "I won't forget it."
-      ]
+    "14": {
+      "text": "No puedo explicar por qué, pero... Simplemente sentí<n>que debías\nsaberlo.",
+      "choice_data_list": {
+        "0": "Me alegra que me lo hayas dicho.",
+        "1": "Es un nombre bonito.",
+        "2": "Es un nombre bonito.",
+        "3": "No lo olvidaré."
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I can't explain why, but... I simply felt<n>that you\nought to know.",
-      "choice_data_list": [
-        "I'm glad you told me.",
-        "It's a pretty name.",
-        "It's a pretty name.",
-        "I won't forget it."
-      ]
+    "15": {
+      "text": "No puedo explicar por qué, pero... Simplemente sentí<n>que debías\nsaberlo.",
+      "choice_data_list": {
+        "0": "Me alegra que me lo hayas dicho.",
+        "1": "Es un nombre bonito.",
+        "2": "It's a pretty name.",
+        "3": "No lo olvidaré."
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I'm glad that you were so willing to<n>listen."
+    "16": {
+      "text": "Me alegra que hayas estado tan dispuesto a<n>escuchar."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I feel... How should I put it?"
+    "17": {
+      "text": "Siento... ¿Cómo debería decirlo?"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "It's as if a burden has been lifted from<n>my\nshoulders. My heart feels as clear as<n>the night air."
+    "18": {
+      "text": "Es como si se hubiera levantado un peso de<n>mis\nhombros. Mi corazón se siente tan claro como<n>el aire nocturno."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "...We ought to head back."
+    "19": {
+      "text": "...Deberíamos regresar."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I'm counting on you, Trainer. Tomorrow<n>and\nbeyond..."
+    "20": {
+      "text": "Cuento contigo, Entrenador. Mañana<n>y\nmás allá..."
     },
-    {
-      "name": "Monologue",
-      "text": "With the memory she shared still fresh in<n>my\nmind, I quietly swear to stay by<n>Symboli Rudolf's\nside."
+    "21": {
+      "text": "Con el recuerdo que compartió aún fresco en<n>mi\nmente, silenciosamente juro quedarme al lado<n>de Symboli Rudolf."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Hah. Be that as it may, call me that in<n>public and\nyou'll sound like a lunatic."
+    "22": {
+      "text": "Jaj. Sea como sea, llámame así en<n>público y\nsonarás como un lunático."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "...Oh!"
+    "23": {
+      "text": "...¡Oh!"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Call me Luna, and you'll sound like...<n>Pffft. That's\nrather good.",
-      "choice_data_list": [
-        "What is it?",
-        "What is it?"
-      ]
+    "24": {
+      "text": "Llámame Luna, y sonarás como...<n>Pffff. Eso\nestá bastante bien.",
+      "choice_data_list": {
+        "0": "¿Qué es?",
+        "1": "¿Qué es?"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Luna... Lunatic..."
+    "25": {
+      "text": "Luna... Lunático..."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "That's some quality wordplay. Perfect for<n>an\ninside joke between comrades."
+    "26": {
+      "text": "Eso es un juego de palabras de calidad. Perfecto para<n>un\nchiste interno entre camaradas."
     },
-    {
-      "name": "Monologue",
-      "text": "We walk back to the academy under the<n>\nmoonlight, with Symboli Rudolf stifling<n>giggles all\nthe while."
+    "27": {
+      "text": "Regresamos a la academia bajo la<n>\nluna, con Symboli Rudolf reprimiendo<n>risitas todo el\ntiempo."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "That... means a lot to me."
+    "28": {
+      "text": "Eso... significa mucho para mí."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "It's reassuring to think that, even after I<n>have\nwalked my path to its end and<n>made my dreams a\nreality..."
+    "29": {
+      "text": "Es reconfortante pensar que, incluso después de que<n>haya\ncaminado mi camino hasta el final y<n>haya hecho realidad mis\nsueños..."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "You will still remember who I used to be."
+    "30": {
+      "text": "Aún recordarás quién solía ser."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Knowing that, I can forge ahead all the<n>stronger."
+    "31": {
+      "text": "Sabiendo eso, puedo avanzar con más<n>fuerza."
     },
-    {
-      "name": "Monologue",
-      "text": "Symboli Rudolf smiles in the moonlight."
+    "32": {
+      "text": "Symboli Rudolf sonríe bajo la luna."
     },
-    {
-      "name": "Monologue",
-      "text": "I swear to myself that I will stay by her<n>side, come\nwhat may."
+    "33": {
+      "text": "Me juro a mí mismo que me quedaré a su<n>lado, pase\nlo que pase."
     }
-  ]
+  }
 }

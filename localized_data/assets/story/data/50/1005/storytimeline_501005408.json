@@ -1,13 +1,11 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "It's the day of Fuji Kiseki's debut.<n>Despite being a\nnewcomer, everyone is<n>expecting such great\nthings from her<n>that even I get put into the\nspotlight as<n>her trainer."
+  "text_block_list": {
+    "0": {
+      "text": "Es el día del debut de Fuji Kiseki.<n>A pesar de ser\nuna novata, todos esperan<n>grandes cosas de ella<n>que incluso yo soy puesto en el\nfoco como<n>su entrenador."
     },
-    {
-      "name": "Monologue",
-      "text": "To calm my nerves, she uses magic to<n>conjure a\npiece of chocolate for me. Her<n>magic effective,\nshe gallantly heads off<n>to her race."
+    "1": {
+      "text": "Para calmar mis nervios, ella usa magia para<n>conjurar\nun trozo de chocolate para mí. Su<n>magia efectiva,\nella se dirige galantemente<n>a su carrera."
     }
-  ]
+  }
 }

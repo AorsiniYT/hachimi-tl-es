@@ -1,275 +1,226 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "text": "I came to watch Mihono Bourbon's<n>dance lesson.\nBut, for whatever reason,<n>she's just staring at\nherself in the mirror."
+  "text_block_list": {
+    "0": {
+      "text": "Vine a ver la lección de baile de Mihono Bourbon.<n>Pero, por alguna razón,<n>solo está mirando fijamente a\nsí misma en el espejo."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "...Processing information. All clear. No<n>\nirregularities have been detected."
+    "1": {
+      "text": "...Procesando información. Todo claro. No<n>se han\ndetectado irregularidades."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Situational analysis based on personage,<n>\nlocation, and other factors. Examining all<n>\npossibilities..."
+    "2": {
+      "text": "Análisis situacional basado en la persona,<n>la\nubicación y otros factores. Examinando todas<n>las\nposibilidades..."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "...Processing complete. Verdict—my face<n>is scary.",
-      "choice_data_list": [
-        "Your face?"
-      ]
+    "3": {
+      "text": "...Procesamiento completo. Veredicto—mi cara<n>es aterradora.",
+      "choice_data_list": {
+        "0": "¿Tu cara?"
+      }
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Oh, Trainer. I didn't notice you there."
+    "4": {
+      "text": "Oh, Entrenador. No te noté ahí."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Yes, my face. I was walking through the<n>shopping\ndistrict earlier, and a baby<n>started to cry after our\neyes met."
+    "5": {
+      "text": "Sí, mi cara. Estaba caminando por el<n>distrito comercial\nantes, y un bebé<n>comenzó a llorar después de que nuestros\nojos se encontraron."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Based on the circumstances, I have come<n>to the\nconclusion that I have a \"scary<n>face.\"",
-      "choice_data_list": [
-        "It's not scary at all."
-      ]
+    "6": {
+      "text": "Basado en las circunstancias, he llegado<n>a la\nconclusión de que tengo una \"cara<n>aterradora.\"",
+      "choice_data_list": {
+        "0": "No es aterradora en absoluto."
+      }
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Is that true? I cannot identify any other<n>\nexplanations."
+    "7": {
+      "text": "¿Es eso cierto? No puedo identificar otras<n>explicaciones."
     },
-    {
-      "text": "It doesn't look like her feelings are hurt<n>from the\nbaby crying, but it does look<n>like it's weighing on\nher mind.",
-      "choice_data_list": [
-        "The baby was probably just in a bad mood."
-      ]
+    "8": {
+      "text": "No parece que sus sentimientos estén heridos<n>por el\nllanto del bebé, pero sí parece<n>que le está pesando en\nla mente.",
+      "choice_data_list": {
+        "0": "El bebé probablemente solo estaba de mal humor."
+      }
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "I see... I failed to take into account the<n>other\nparty's disposition."
+    "9": {
+      "text": "Ya veo... Fallé en tener en cuenta la<n>disposición de la\notra parte."
     },
-    {
-      "text": "She looks at her face in the mirror again<n>and rubs\nher cheeks."
+    "10": {
+      "text": "Mira su cara en el espejo de nuevo<n>y se frota\nlas mejillas."
     },
-    {
-      "text": "A few days later..."
+    "11": {
+      "text": "Unos días después..."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "I made the baby cry again."
+    "12": {
+      "text": "Hice llorar al bebé de nuevo."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "I cannot tell babies' faces apart, but I<n>determined\nthat it was the same baby as<n>before based on the\nparents' faces."
+    "13": {
+      "text": "No puedo distinguir las caras de los bebés, pero<n>determiné\nque era el mismo bebé que<n>antes basado en las\ncaras de los padres."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "I identified the baby's emotional state as<n>being\none of \"enjoyment\" until it saw my<n>face."
+    "14": {
+      "text": "Identifiqué el estado emocional del bebé como<n>uno de\n\"disfrute\" hasta que vio mi<n>cara."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "I have determined that the cause of this<n>lies with\nme.",
-      "choice_data_list": [
-        "No, that's not—",
-        "No, that's not—"
-      ]
+    "15": {
+      "text": "He determinado que la causa de esto<n>reside en\nmí.",
+      "choice_data_list": {
+        "0": "No, eso no—",
+        "1": "No, eso no—"
+      }
     },
-    {
-      "name": "Nishino Flower",
-      "text": "Ah, Bourbon!\nOh, you're here with your<n>trainer too! Hello!"
+    "16": {
+      "text": "¡Ah, Bourbon!\n¡Oh, estás aquí con tu<n>entrenador también! ¡Hola!"
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Yes. Hello, Nishino Flower.",
-      "choice_data_list": [
-        "Hi."
-      ]
+    "17": {
+      "text": "Sí. Hola, Nishino Flower.",
+      "choice_data_list": {
+        "0": "Hola."
+      }
     },
-    {
-      "name": "Nishino Flower",
-      "text": "Er... Did something happen? You both<n>look\nconcerned."
+    "18": {
+      "text": "Eh... ¿Pasó algo? Ambos<n>parecen\npreocupados."
     },
-    {
-      "text": "Nishino Flower seems worried, so I fill<n>her in."
+    "19": {
+      "text": "Nishino Flower parece preocupada, así que<n>la pongo al día."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "...Thus, the problem lies with me. That is<n>my\nconclusion."
+    "20": {
+      "text": "...Por lo tanto, el problema reside en mí. Esa es<n>mi\nconclusión."
     },
-    {
-      "name": "Nishino Flower",
-      "text": "Hmm... I see."
+    "21": {
+      "text": "Hmm... Ya veo."
     },
-    {
-      "name": "Nishino Flower",
-      "text": "Um, Bourbon, what did you think when<n>you saw\nthe baby?"
+    "22": {
+      "text": "Um, Bourbon, ¿qué pensaste cuando<n>viste\nal bebé?"
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Its body was small and without power.<n>All\nmovements were limited. Overall, I<n>determined it\nto be \"weak.\""
+    "23": {
+      "text": "Su cuerpo era pequeño y sin poder.<n>Todos\nlos movimientos estaban limitados. En general, lo<n>determiné\ncomo \"débil.\""
     },
-    {
-      "name": "Nishino Flower",
-      "text": "Mhmm. So, you're saying you felt the<n>desire to\nprotect it!"
+    "24": {
+      "text": "Mhmm. ¡Así que, estás diciendo que sentiste el<n>deseo de\nprotegerlo!"
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Its body was soft and lacking durability,<n>and its\nbig, round eyes were staring<n>intently at me..."
+    "25": {
+      "text": "Su cuerpo era suave y carecía de durabilidad,<n>y sus\nojos grandes y redondos me miraban<n>fijamente..."
     },
-    {
-      "name": "Nishino Flower",
-      "text": "Uh-huh. So, you're saying the baby was<n>cute!"
+    "26": {
+      "text": "Uh-huh. ¡Así que, estás diciendo que el bebé era<n>lindo!"
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "...I see. Yes. Put simply, that may be the<n>case."
+    "27": {
+      "text": "...Ya veo. Sí. Dicho simplemente, ese puede ser el<n>caso."
     },
-    {
-      "name": "Nishino Flower",
-      "text": "Then maybe you should turn those<n>feelings into a\ngreat big smile!"
+    "28": {
+      "text": "¡Entonces quizás deberías convertir esos<n>sentimientos en una\ngran sonrisa!"
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "A smile..."
+    "29": {
+      "text": "Una sonrisa..."
     },
-    {
-      "name": "Nishino Flower",
-      "text": "Babies are always looking closely at the<n>people\naround them, and they change<n>their facial\nexpressions accordingly!"
+    "30": {
+      "text": "¡Los bebés siempre miran de cerca a las<n>personas\nque los rodean, y cambian<n>sus expresiones faciales\nen consecuencia!"
     },
-    {
-      "name": "Nishino Flower",
-      "text": "A baby that lived in my neighborhood<n>was the\nsame way, so I'm sure that you<n>can get this baby\nto smile too!"
+    "31": {
+      "text": "¡Un bebé que vivía en mi vecindario<n>era de la\nmisma manera, así que estoy segura de que<n>puedes hacer sonreír a este bebé\ntambién!"
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "...I see. So in other words, they attempt<n>to copy\nthe expressions of others.",
-      "choice_data_list": [
-        "Try giving the baby a smile next time!",
-        "Try showing the baby a bunch of different faces\nnext time!"
-      ]
+    "32": {
+      "text": "...Ya veo. Así que en otras palabras, intentan<n>copiar\nlas expresiones de otros.",
+      "choice_data_list": {
+        "0": "¡Intenta darle una sonrisa al bebé la próxima vez!",
+        "1": "¡Intenta mostrarle al bebé un montón de caras diferentes\nla próxima vez!"
+      }
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Understood."
+    "33": {
+      "text": "Entendido."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Information updated based on new data.<n>Will\nverify during next encounter."
+    "34": {
+      "text": "Información actualizada basada en nuevos datos.<n>Verificaré\ndurante el próximo encuentro."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Thank you very much, both of you."
+    "35": {
+      "text": "Muchas gracias, a ambos."
     },
-    {
-      "name": "Nishino Flower",
-      "text": "Hehe, good luck!"
+    "36": {
+      "text": "Jeje, ¡buena suerte!"
     },
-    {
-      "text": "Some time later..."
+    "37": {
+      "text": "Algún tiempo después..."
     },
-    {
-      "text": "Mihono Bourbon runs up to me one day<n>while I'm\nout and about in the shopping<n>district."
+    "38": {
+      "text": "Mihono Bourbon corre hacia mí un día<n>mientras estoy\nfuera y por ahí en el distrito<n>comercial."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Trainer.",
-      "choice_data_list": [
-        "Are you out shopping too, Bourbon?"
-      ]
+    "39": {
+      "text": "Entrenador.",
+      "choice_data_list": {
+        "0": "¿Estás de compras también, Bourbon?"
+      }
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "No, I came here to execute operation<n>\"don't\nmake the baby cry.\""
+    "40": {
+      "text": "No, vine aquí para ejecutar la operación<n>\"no\nhagas llorar al bebé.\""
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Here is my report."
+    "41": {
+      "text": "Aquí está mi reporte."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Result—success. I was able to extract a<n>\"smile\"\nfrom the baby.",
-      "choice_data_list": [
-        "Good for you!"
-      ]
+    "42": {
+      "text": "Resultado—éxito. Fui capaz de extraer una<n>\"sonrisa\"\ndel bebé.",
+      "choice_data_list": {
+        "0": "¡Bien por ti!"
+      }
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "...Indeed. The baby's smile was, well..."
+    "43": {
+      "text": "...En efecto. La sonrisa del bebé fue, bueno..."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "It was... very cute."
+    "44": {
+      "text": "Fue... muy linda."
     },
-    {
-      "text": "She probably doesn't even realize it, but<n>Mihono\nBourbon is still smiling now as if<n>that baby was\nright in front of her."
+    "45": {
+      "text": "Probablemente ni siquiera se da cuenta, pero<n>Mihono\nBourbon aún está sonriendo ahora como si<n>ese bebé estuviera\ndelante de ella."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Now I understand. This warrants more<n>\ninvestigation into and analysis of<n>different\npatterns of interaction."
+    "46": {
+      "text": "Ahora entiendo. Esto justifica más<n>\ninvestigación y análisis de<n>diferentes\npatrones de interacción."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Information updated based on new data.<n>Will\nverify during next encounter."
+    "47": {
+      "text": "Información actualizada basada en nuevos datos.<n>Verificaré\ndurante el próximo encuentro."
     },
-    {
-      "name": "Nishino Flower",
-      "text": "Hehe, good luck."
+    "48": {
+      "text": "Jeje, buena suerte."
     },
-    {
-      "text": "Some days later..."
+    "49": {
+      "text": "Algunos días después..."
     },
-    {
-      "text": "While I'm out and about in the shopping<n>district, I\nspot Mihono Bourbon<n>alongside a couple with a\nbaby."
+    "50": {
+      "text": "Mientras estoy fuera y por ahí en el distrito<n>comercial, veo a Mihono Bourbon<n>junto a una pareja con un\nbebé."
     },
-    {
-      "text": "Just as I'm about to call out to her, she<n>notices\nme."
+    "51": {
+      "text": "Justo cuando estoy a punto de llamarla, ella<n>me nota."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Perfect timing, Trainer.",
-      "choice_data_list": [
-        "Is that the baby?"
-      ]
+    "52": {
+      "text": "Tiempo perfecto, Entrenador.",
+      "choice_data_list": {
+        "0": "¿Es ese el bebé?"
+      }
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Yes. I came here to execute operation<n>\"make\nmany faces.\""
+    "53": {
+      "text": "Sí. Vine aquí para ejecutar la operación<n>\"hacer\nmuchas caras.\""
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "I'm ready to report the results."
+    "54": {
+      "text": "Estoy lista para reportar los resultados."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "I was only able to produce the \"smile\"<n>expression\nand could not carry out the<n>\"anger\" or \"sadness\"\nexpressions.",
-      "choice_data_list": [
-        "And why's that?"
-      ]
+    "55": {
+      "text": "Solo pude producir la expresión \"sonrisa\"<n>y no pude llevar a cabo las<n>expresiones \"enojo\" o \"tristeza\".",
+      "choice_data_list": {
+        "0": "¿Y por qué es eso?"
+      }
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "I do not know. When I smiled and<n>received one in\nreturn, I perceived a sort<n>of warm feeling inside of\nmy chest<n>region."
+    "56": {
+      "text": "No lo sé. Cuando sonreí y<n>recibí una a cambio, percibí una especie<n>de sensación cálida dentro de\nmi región<n>del pecho."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "The creation of other facial expressions<n>became\ndifficult following this."
+    "57": {
+      "text": "La creación de otras expresiones faciales<n>se volvió\ndifícil después de esto."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Cause unknown. Expression remained<n>stuck on\nsmile. I believe some kind of<n>error may have\noccurred in my facial<n>muscles or chest area."
+    "58": {
+      "text": "Causa desconocida. La expresión se quedó<n>atascada en\nsonrisa. Creo que algún tipo de<n>error puede haber\nocurrido en mis músculos faciales<n>o área del pecho."
     },
-    {
-      "name": "Mihono Bourbon",
-      "text": "...Puzzling. Clarification required."
+    "59": {
+      "text": "...Desconcertante. Se requiere aclaración."
     },
-    {
-      "text": "Mihono Bourbon is deep in thought with<n>a strange\nlook on her face. It's not really<n>something that\nneeds to be explained."
+    "60": {
+      "text": "Mihono Bourbon está profundamente pensativa con<n>una extraña\nexpresión en su cara. No es realmente<n>algo que\nnecesite ser explicado."
     },
-    {
-      "text": "Reasons like \"I just wanted the baby to<n>keep\nsmiling\" or \"I was drawn in by the<n>baby's smile\"\nare sufficient."
+    "61": {
+      "text": "Razones como \"Solo quería que el bebé<n>siguiera\nsonriendo\" o \"Me atrajo la<n>sonrisa del bebé\"\nson suficientes."
     },
-    {
-      "text": "I decide to wait in anticipation for the<n>day that\nshe reaches an answer like that<n>for herself."
+    "62": {
+      "text": "Decido esperar con anticipación el<n>día en que\nella llegue a una respuesta como esa<n>por sí misma."
     }
-  ]
+  }
 }

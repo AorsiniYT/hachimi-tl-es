@@ -1,223 +1,180 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Symboli Rudolf",
-      "text": "At last, my debut is behind us.",
-      "choice_data_list": [
-        "One small step, as they say.",
-        "One small step, as they say."
-      ]
+  "text_block_list": {
+    "0": {
+      "text": "Al fin, mi debut está detrás de nosotros.",
+      "choice_data_list": {
+        "0": "Un pequeño paso, como dicen.",
+        "1": "Un pequeño paso, como dicen."
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Indeed. As of today, we are true<n>contenders in\nthe Twinkle Series."
+    "1": {
+      "text": "En efecto. A partir de hoy, somos<n>verdaderos\ncontendientes en la Serie<n>Twinkle."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "The stage is set for us to take the Triple<n>Crown.\nNow, come—show me your<n>strategic acumen."
+    "2": {
+      "text": "El escenario está preparado para que tomemos la Triple<n>Corona.\nAhora, ven—muéstrame tu<n>habilidad estratégica."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Our path leads to the Classics, but they<n>are still\nsome way off. What races should<n>we attempt in\nmy junior year?"
+    "3": {
+      "text": "Nuestro camino lleva a los Clásicos, pero<n>aún están\nun poco lejos. ¿Qué carreras deberíamos<n>intentar en\nmi año junior?"
     },
-    {
-      "name": "Monologue",
-      "text": "Symboli Rudolf aims to demonstrate her<n>\nsuperiority by deliberately taking the<n>thorniest\nroad—the Classic Triple Crown."
+    "4": {
+      "text": "Symboli Rudolf apunta a demostrar su<n>\nsuperioridad tomando deliberadamente el<n>camino más\nespinoso—la Triple Corona<n>Clásica."
     },
-    {
-      "name": "Monologue",
-      "text": "Because of that, I don't want her to push<n>herself\ntoo hard while she's still in her<n>junior year. The\nSaudi Arabia Royal Cup<n>seems like a safe choice.",
-      "choice_data_list": [
-        "How about the Saudi Arabia R.C.?"
-      ]
+    "5": {
+      "text": "Debido a eso, no quiero que se presione<n>demasiado\nmientras aún esté en su<n>año junior. La\nSaudi Arabia Royal Cup<n>parece una elección segura.",
+      "choice_data_list": {
+        "0": "¿Qué tal el Saudi Arabia R.C.?"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Oh? How unexpected.",
-      "choice_data_list": [
-        "You think?"
-      ]
+    "6": {
+      "text": "¿Oh? Qué inesperado.",
+      "choice_data_list": {
+        "0": "¿Lo crees?"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I thought you might opt for the Asahi<n>Hai Futurity\nStakes, or perhaps the<n>Hopeful Stakes."
+    "7": {
+      "text": "Pensé que podrías optar por el Asahi<n>Hai Futurity\nStakes, o quizás el<n>Hopeful Stakes."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Are they not where the best of the<n>juniors are\ncrowned?"
+    "8": {
+      "text": "¿No son donde los mejores de los<n>juniors son\ncoronados?"
     },
-    {
-      "name": "Monologue",
-      "text": "She's right, but we're already setting our<n>sights\nhigh with the Classic Triple Crown.<n>The last thing\nwe need is to make our<n>agenda any harsher.",
-      "choice_data_list": [
-        "We're not trying to be the best of the juniors."
-      ]
+    "9": {
+      "text": "Ella tiene razón, pero ya estamos fijando nuestras<n>miradas\nalto con la Triple Corona Clásica.<n>Lo último que\nnecesitamos es hacer nuestra<n>agenda aún más dura.",
+      "choice_data_list": {
+        "0": "No estamos tratando de ser los mejores de los juniors."
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Hah... I see. I like the way you think."
+    "10": {
+      "text": "Ja... Ya veo. Me gusta la forma en que piensas."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Then the Saudi Arabia R.C. it shall be."
+    "11": {
+      "text": "Entonces el Saudi Arabia R.C. será."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "With that decided, we should schedule<n>our next—"
+    "12": {
+      "text": "Con eso decidido, deberíamos programar<n>nuestro próximo—"
     },
-    {
-      "name": "Monologue",
+    "13": {
       "text": "<i>Patter, patter, patter...</i>",
-      "choice_data_list": [
-        "(Huh? I hear footsteps.)"
-      ]
+      "choice_data_list": {
+        "0": "(¿Eh? Oigo pasos.)"
+      }
     },
-    {
+    "14": {
       "name": "Reporter A",
-      "text": "There she is! Symboli Rudolf! Over here!"
+      "text": "¡Ahí está! ¡Symboli Rudolf! ¡Por aquí!"
     },
-    {
+    "15": {
       "name": "Reporter B",
-      "text": "Congratulations on your debut! Do you<n>have a\nmessage for your fans?",
-      "choice_data_list": [
-        "Sorry, we're a little busy right now..."
-      ]
+      "text": "¡Felicitaciones por tu debut! ¿Tienes<n>un\nmensaje para tus fans?",
+      "choice_data_list": {
+        "0": "Lo siento, estamos un poco ocupados ahora..."
+      }
     },
-    {
-      "name": "Monologue",
-      "text": "Before I know it, we're being swarmed<n>by\nreporters. Rudolf needs to rest after<n>her debut, so\nI try to fend them off,<n>but..."
+    "16": {
+      "text": "Antes de que me dé cuenta, estamos siendo<n>asediados\npor reporteros. Rudolf necesita descansar después<n>de su debut, así que\nintento mantenerlos alejados,<n>pero..."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "No need to shield me, Trainer. Let me<n>deal with\nthem.",
-      "choice_data_list": [
-        "Are you sure?"
-      ]
+    "17": {
+      "text": "No hay necesidad de protegerme, Entrenador. Déjame<n>lidiar con\nellos.",
+      "choice_data_list": {
+        "0": "¿Estás segura?"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Of course. As I said before the race, the<n>eyes of\nthe world are on us. We mustn't<n>waste that\nopportunity."
+    "18": {
+      "text": "Por supuesto. Como dije antes de la carrera, los<n>ojos del\nmundo están en nosotros. No debemos<n>desperdiciar esa\noportunidad."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I will be happy to take your questions.<n>One at a\ntime, if you please."
+    "19": {
+      "text": "Estaré feliz de tomar sus preguntas.<n>Una a la\nvez, si me permiten."
     },
-    {
+    "20": {
       "name": "Reporter A",
-      "text": "I'll start! So, now that you've made your<n>racing\ndebut, what's next for Symboli<n>Rudolf?"
+      "text": "¡Yo empezaré! Entonces, ahora que has hecho tu<n>debut\nen carreras, ¿qué sigue para Symboli<n>Rudolf?"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Naturally, I hope to claim the Classic<n>Triple\nCrown. To that end, I will<n>continue to compete as\na junior..."
+    "21": {
+      "text": "Naturalmente, espero reclamar la Triple<n>Corona\nClásica. Para ese fin, continuaré<n>compitiendo como\njunior..."
     },
-    {
-      "name": "Monologue",
-      "text": "It takes several hours for Symboli Rudolf<n>to\nanswer all of the reporters' questions<n>to her\nsatisfaction. By the time we get<n>back to the\nacademy, it's already<n>evening."
+    "22": {
+      "text": "Toma varias horas para que Symboli Rudolf<n>responda\ntodas las preguntas de los reporteros<n>a su\nsatisfacción. Para cuando regresamos<n>a la\nacademia, ya es<n>tarde."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Well then, I suppose this is where we<n>part ways."
+    "23": {
+      "text": "Bueno entonces, supongo que aquí es donde<n>nos\nseparamos."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Rest well, Trainer. You must be<n>exhausted after\ntoday.",
-      "choice_data_list": [
-        "I'll walk you to the dorm, at least."
-      ]
+    "24": {
+      "text": "Descansa bien, Entrenador. Debes estar<n>exhausto después\nde hoy.",
+      "choice_data_list": {
+        "0": "Te acompañaré al dormitorio, al menos."
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I'm not going to the dorm. I thought I<n>might\nattend to some student council<n>business before\nturning in.",
-      "choice_data_list": [
-        "At this hour?!"
-      ]
+    "25": {
+      "text": "No voy al dormitorio. Pensé que podría<n>atender\nalgún asunto del consejo estudiantil<n>antes de\nirme a dormir.",
+      "choice_data_list": {
+        "0": "¿¿A esta hora?!"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "At this hour. The press interviews<n>concluded\nearlier than I anticipated."
+    "26": {
+      "text": "A esta hora. Las entrevistas de prensa<n>concluyeron\nantes de lo que anticipé."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Which is to say, I fully expected to be<n>accosted\nby reporters after the race."
+    "27": {
+      "text": "Lo que es decir, esperaba completamente ser<n>acosada\npor reporteros después de la carrera."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "You may not have heard that they were<n>coming,\nbut the members of the press do<n>not always\nobserve proper protocol."
+    "28": {
+      "text": "Puede que no hayas oído que venían,<n>pero los miembros de la prensa no<n>siempre\nobservan el protocolo apropiado."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Indeed, many reporters would prefer to<n>hear\noff-the-cuff reactions rather than<n>prepared\nresponses."
+    "29": {
+      "text": "En efecto, muchos reporteros preferirían<n>oír\nreacciones improvisadas en lugar<n>de respuestas\npreparadas."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "They will naturally come during the<n>moments after\na race, and all the more<n>so when the interviewee\nputs forward a<n>spotless image."
+    "30": {
+      "text": "Vendrán naturalmente durante los<n>momentos después\nde una carrera, y aún más<n>cuando el entrevistado\npone adelante una<n>imagen impecable."
     },
-    {
-      "name": "Monologue",
-      "text": "It sounds like she was a lot more<n>prepared than I\nwas. I shouldn't have let<n>myself be caught\nflat-footed like that."
+    "31": {
+      "text": "Suena como si ella estuviera mucho más<n>preparada que yo\nestaba. No debería haberme dejado<n>atrapar\ncon los pies planos así."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "You have nothing to apologize for."
+    "32": {
+      "text": "No tienes nada por lo que disculparte."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "As the public face of the student body,<n>I've had\nmore than my share of dealings<n>with the media."
+    "33": {
+      "text": "Como la cara pública del cuerpo estudiantil,<n>he tenido\nmás que mi parte de tratos<n>con los medios."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "You too shall get used to them in time,<n>like it or\nnot. After all, you are now the<n>Emperor's gate\nwarden.",
-      "choice_data_list": [
-        "(Now she's the one encouraging me...)"
-      ]
+    "34": {
+      "text": "Tú también te acostumbrarás a ellos con el tiempo,<n>guste o\nno. Después de todo, ahora eres el<n>guardián de la puerta\ndel Emperador.",
+      "choice_data_list": {
+        "0": "(Ahora ella es la que me anima...)"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "But we have strayed off topic. I have<n>work to\nattend to.",
-      "choice_data_list": [
-        "Shouldn't you rest for today?"
-      ]
+    "35": {
+      "text": "Pero nos hemos desviado del tema. Tengo<n>trabajo al\nque atender.",
+      "choice_data_list": {
+        "0": "¿No deberías descansar por hoy?"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "To be clear, Trainer, I am not exerting<n>myself\nsimply for the fun of it."
+    "36": {
+      "text": "Para ser claro, Entrenador, no me estoy<n>esforzando\nsimplemente por diversión."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Now that I've made my debut, my<n>schedule will be\npacked with training<n>and races."
+    "37": {
+      "text": "Ahora que he hecho mi debut, mi<n>horario estará\nlleno de entrenamiento<n>y carreras."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "But I have no intention of shirking my<n>student\ncouncil duties."
+    "38": {
+      "text": "Pero no tengo intención de eludir mis<n>deberes del\nconsejo estudiantil."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "The Emperor must be the master of both<n>the pen\n<i>and</i> the sword, or she is no<n>Emperor at all."
+    "39": {
+      "text": "El Emperador debe ser el maestro de tanto<n>la pluma\n<i>y</i> la espada, o no es<n>Emperador en absoluto."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "All of which will only be possible if I<n>take care of\nmy health, of course. Rest<n>assured, I will not\nneglect that either."
+    "40": {
+      "text": "Todo lo cual solo será posible si<n>cuido de\nmi salud, por supuesto. Ten<n>la seguridad, no\nnegligiré eso tampoco."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Now, unless I am mistaken, this matter is<n>settled."
+    "41": {
+      "text": "Ahora, a menos que me equivoque, este<n>asunto está\nresuelto."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I will see you tomorrow. Good night,<n>Trainer."
+    "42": {
+      "text": "Te veré mañana. Buenas noches,<n>Entrenador."
     },
-    {
-      "name": "Monologue",
-      "text": "With that, she leaves, and I can't stop<n>her."
+    "43": {
+      "text": "Con eso, se va, y no puedo detenerla."
     },
-    {
-      "name": "Monologue",
-      "text": "Symboli Rudolf is an incredible racer,<n>perceptive\nabout the world around her,<n>and attentive to her\nown needs. Most of<n>the time, she probably\ndoesn't need me<n>at all."
+    "44": {
+      "text": "Symboli Rudolf es una corredora increíble,<n>perceptiva\nsobre el mundo a su alrededor,<n>y atenta a sus\npropias necesidades. La mayor<n>parte del tiempo, probablemente\nno me necesita<n>en absoluto."
     },
-    {
-      "name": "Monologue",
-      "text": "But I want to do everything I can to<n>make myself\nuseful on the few occasions<n>when she does.\nAnything to help her<n>achieve her dream!"
+    "45": {
+      "text": "Pero quiero hacer todo lo que pueda para<n>hacerme\nútil en las pocas ocasiones<n>en que lo hace.\n¡Cualquier cosa para ayudarla<n>a lograr su sueño!"
     }
-  ]
+  }
 }

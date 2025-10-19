@@ -1,21 +1,17 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "With the Arima Kinen fast approaching,<n>Special\nWeek summons Grass Wonder to<n>one of the\nacademy's rooftops."
+  "text_block_list": {
+    "0": {
+      "text": "Con el Arima Kinen acercándose rápidamente,<n>Special\nWeek convoca a Grass Wonder a<n>uno de los\ntejados de la academia."
     },
-    {
-      "name": "Monologue",
-      "text": "It's there that Special Week declares her<n>\nintentions to win."
+    "1": {
+      "text": "Es ahí donde Special Week declara sus<n>\nintenciones de ganar."
     },
-    {
-      "name": "Monologue",
-      "text": "Grass Wonder accepts the challenge,<n>assuring her\nrival that she won't hold<n>anything back either."
+    "2": {
+      "text": "Grass Wonder acepta el desafío,<n>asegurando a su\nrival que tampoco se contendrá<n>nada."
     },
-    {
-      "name": "Monologue",
-      "text": "Many rivals have accompanied her along<n>this path\nshe walks, and the challenge<n>ahead will surely\nallow her to make<n>another great leap of progress."
+    "3": {
+      "text": "Muchas rivales la han acompañado a lo largo<n>de este camino\nque recorre, y el desafío<n>que viene seguramente\nle permitirá dar<n>otro gran salto de progreso."
     }
-  ]
+  }
 }

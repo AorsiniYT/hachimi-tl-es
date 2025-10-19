@@ -1,57 +1,43 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "I call Narita Brian over so I can give her<n>some fan\nmail."
+  "text_block_list": {
+    "0": {
+      "text": "Llamo a Narita Brian para darle<n>correo de\nfans."
     },
-    {
-      "name": "Narita Brian",
-      "text": "Oh, a fan letter."
+    "1": {
+      "text": "Oh, una carta de fan."
     },
-    {
-      "name": "Narita Brian",
-      "text": "If that's everything, I'll be on my way.",
-      "choice_data_list": [
-        "Aren't you going to read it?",
-        "Aren't you going to read it?"
-      ]
+    "2": {
+      "text": "Si eso es todo, me voy.",
+      "choice_data_list": {
+        "0": "¿No vas a leerla?",
+        "1": "¿No vas a leerla?"
+      }
     },
-    {
-      "name": "Narita Brian",
-      "text": "Well..."
+    "3": {
+      "text": "Bueno..."
     },
-    {
-      "name": "Narita Brian",
-      "text": "It's my letter. What I do with it is my<n>business,\nright?",
-      "choice_data_list": [
-        "Promise that you won't just throw it away, at\nleast!",
-        "Promise that you won't just throw it away, at\nleast!"
-      ]
+    "4": {
+      "text": "Es mi carta. Lo que haga con ella es<n>mi asunto,\n¿verdad?",
+      "choice_data_list": {
+        "0": "¡Promete que no la tirarás sin más, al\nmenos!",
+        "1": "¡Promete que no la tirarás sin más, al\nmenos!"
+      }
     },
-    {
-      "name": "Narita Brian",
-      "text": "Huh?! Of course I won't!"
+    "5": {
+      "text": "¡¿Eh?! ¡Por supuesto que no!"
     },
-    {
-      "name": "Narita Brian",
-      "text": "..."
+    "7": {
+      "text": "Simplemente no la voy a leer aquí. Eso es<n>todo lo\nque quise decir."
     },
-    {
-      "name": "Narita Brian",
-      "text": "I'm just not going to read it here. That's<n>all I\nmeant."
+    "8": {
+      "text": "Nunca tiraría una carta de un fan..."
     },
-    {
-      "name": "Narita Brian",
-      "text": "I'd never throw away a letter from a fan..."
+    "9": {
+      "text": "Entonces, ¿estamos bien? Me voy."
     },
-    {
-      "name": "Narita Brian",
-      "text": "So, we good? I'm going."
-    },
-    {
-      "name": "Monologue",
-      "text": "Narita Brian carefully puts the fan letter<n>in her\npocket, then leaves brusquely."
+    "10": {
+      "text": "Narita Brian pone cuidadosamente la carta de fan<n>en su\nbolsillo, luego se va bruscamente."
     }
-  ]
+  }
 }

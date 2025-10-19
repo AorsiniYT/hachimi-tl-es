@@ -1,45 +1,36 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "The Kikuka Sho, the final race of the<n>Classic\nTriple Crown, is before us. The<n>crowd roars in\nanticipation of the drama<n>that will unfold."
+  "text_block_list": {
+    "0": {
+      "text": "El Kikuka Sho, la carrera final de la<n>Triple\nCorona Clásica, está ante nosotros. La<n>multitud ruge en\nanticipación del drama<n>que se desarrollará."
     },
-    {
-      "name": "Monologue",
-      "text": "Symboli Rudolf, meanwhile, merely waits<n>in\nsilence."
+    "1": {
+      "text": "Symboli Rudolf, mientras tanto, simplemente<n>espera\nen silencio."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Conventional wisdom holds that the<n>Kikuka Sho\ngoes to the strongest<n>Umamusume."
+    "2": {
+      "text": "La sabiduría convencional sostiene que el<n>Kikuka Sho\nva a la Umamusume<n>más fuerte."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "A 3,000-meter course with two uphill<n>stretches is\napt to test any racer's mental<n>fortitude."
+    "3": {
+      "text": "Un curso de 3,000 metros con dos tramos<n>ascendentes es\napto para probar la fortaleza<n>mental de cualquier\ncorredor."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "It demands speed, stamina, and<n>technique in\nequal measure. Only an<n>Umamusume who excels\nin every area<n>can hope to win the day."
+    "4": {
+      "text": "Exige velocidad, resistencia y<n>técnica en\nigual medida. Solo una<n>Umamusume que sobresale\nen cada área<n>puede esperar ganar el día."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "If I were to cede that crown to another, I<n>could\nhardly presume to call myself<n>Emperor.",
-      "choice_data_list": [
-        "Don't worry. You're strong enough.",
-        "Don't worry. You're strong enough."
-      ]
+    "5": {
+      "text": "Si cediera esa corona a otra, difícilmente<n>podría\npresumir de llamarme<n>Emperador.",
+      "choice_data_list": {
+        "0": "No te preocupes. Eres lo suficientemente fuerte.",
+        "1": "No te preocupes. Eres lo suficientemente fuerte."
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "That I am."
+    "6": {
+      "text": "Que lo soy."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "But as thanks for your faith in me, allow<n>me to be\nyour escort."
+    "7": {
+      "text": "Pero como agradecimiento por tu fe en mí,<n>permíteme\nser tu escolta."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Come with me, Trainer... and we shall<n>see the\nhighest of heights together."
+    "8": {
+      "text": "Ven conmigo, Entrenador... y veremos<n>las\nalturas más altas juntos."
     }
-  ]
+  }
 }

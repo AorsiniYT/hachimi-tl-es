@@ -1,41 +1,34 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
+  "text_block_list": {
+    "0": {
       "name": "Cafe Lady",
-      "text": "Thanks for waiting! Here you are! The<n>Special\nStamina Sanzoku Fried Chicken<n>Set with five\nextra pieces and side of<n>ginger pork!"
+      "text": "¡Gracias por esperar! ¡Aquí tienes! El<n>Especial\nEstamina Sanzoku Pollo Frito<n>Set con cinco\npiezas extra y lado de<n>cerdo con jengibre!"
     },
-    {
-      "name": "Narita Brian",
-      "text": "Thanks."
+    "1": {
+      "text": "Gracias."
     },
-    {
-      "name": "Monologue",
-      "text": "I find Narita Brian in the cafeteria with a<n>meal\nresembling something out of a food<n>challenge.",
-      "choice_data_list": [
-        "What's with that lunch?!",
-        "What's with that lunch?!"
-      ]
+    "2": {
+      "text": "Encuentro a Narita Brian en la cafetería con una<n>comida\nque parece algo salido de un desafío<n>alimenticio.",
+      "choice_data_list": {
+        "0": "¿Qué pasa con ese almuerzo?!",
+        "1": "¿Qué pasa con ese almuerzo?!"
+      }
     },
-    {
-      "name": "Narita Brian",
-      "text": "Ah... I feel a bit off at the moment."
+    "3": {
+      "text": "Ah... Me siento un poco mal en este momento."
     },
-    {
-      "name": "Narita Brian",
-      "text": "I've learned from experience that<n>whenever I'm\ntired, meat's the way to go."
+    "4": {
+      "text": "He aprendido por experiencia que<n>siempre que estoy\ncansada, la carne es la solución."
     },
-    {
-      "name": "Narita Brian",
-      "text": "Once I eat meat, that usually fixes<n>whatever's\nwrong."
+    "5": {
+      "text": "Una vez que como carne, eso usualmente arregla<n>cualquier\ncosa que esté mal."
     },
-    {
-      "name": "Monologue",
-      "text": "I wonder if this wild form of self-care<n>really will\nmake her feel better."
+    "6": {
+      "text": "Me pregunto si esta forma salvaje de autocuidado<n>realmente\nla hará sentir mejor."
     },
-    {
-      "name": "Monologue",
-      "text": "I may want to rethink her race<n>schedule..."
+    "7": {
+      "text": "Puede que quiera replantear su horario<n>de carreras..."
     }
-  ]
+  }
 }

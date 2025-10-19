@@ -1,13 +1,11 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "Summer camp has come once again, but<n>Symboli\nRudolf seems far more relaxed<n>this time around."
+  "text_block_list": {
+    "0": {
+      "text": "El campamento de verano ha llegado una vez más, pero<n>Symboli Rudolf\nparece mucho más relajada<n>esta vez."
     },
-    {
-      "name": "Monologue",
-      "text": "She's perfectly content to watch the<n>curtain rise\non the camp as nothing more<n>than another\nstudent of Tracen<n>Academy."
+    "1": {
+      "text": "Está perfectamente contenta de ver el<n>telón levantarse\nen el campamento como nada más<n>que otra\nestudiante de la Academia<n>Tracen."
     }
-  ]
+  }
 }

@@ -1,70 +1,57 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "With all of Symboli Rudolf's races over,<n>now is as\ngood a time as any to reflect<n>on her\nachievements.",
-      "choice_data_list": [
-        "I never dreamed you'd claim more than seven\ncrowns!"
-      ]
+  "text_block_list": {
+    "0": {
+      "text": "Con todas las carreras de Symboli Rudolf<n>terminadas,\nahora es tan buen momento como cualquier otro<n>para reflexionar\nsobre sus logros.",
+      "choice_data_list": {
+        "0": "¡Nunca soñé que reclamarías más de siete\ncoronas!"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Even I am astonished by the magnitude<n>of what I\nhave accomplished."
+    "1": {
+      "text": "Incluso yo estoy asombrada por la magnitud<n>de lo que\nhe logrado."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "But it is you who deserves the credit.<n>None of this\nwould have been possible<n>without your unfailing\nguidance."
+    "2": {
+      "text": "Pero eres tú quien merece el crédito.<n>Nada de esto\nhabría sido posible<n>sin tu infalible\nguía."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Thank you, Trainer. You have made me<n>the\nswiftest Umamusume there ever was."
+    "3": {
+      "text": "Gracias, Entrenador. Me has hecho<n>la\nUmamusume más rápida que jamás<n>haya existido."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I should thank my lucky stars that I<n>chose you that\nday... Or perhaps I should<n>say that you chose me.",
-      "choice_data_list": [
-        "Thank your own hard work.",
-        "Thank your own hard work."
-      ]
+    "4": {
+      "text": "Debería agradecer a mis estrellas<n>de la suerte que\nte elegí ese día... O quizás debería<n>decir que tú me elegiste.",
+      "choice_data_list": {
+        "0": "Agradece tu propio trabajo duro.",
+        "1": "Agradece tu propio trabajo duro."
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "No, it is thanks to—wait, I see where this<n>is going.\nAt this rate, we will be<n>complimenting one\nanother all day.",
-      "choice_data_list": [
-        "Good point..."
-      ]
+    "5": {
+      "text": "No, es gracias a—espera, veo a dónde va esto<n>.\nA este ritmo, nos estaremos<n>felicitando uno\nal otro todo el día.",
+      "choice_data_list": {
+        "0": "Buen punto..."
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Let us call it a draw and say that we<n>were <i>both</i>\nresponsible."
+    "6": {
+      "text": "Llamémoslo empate y digamos que<n>ambos <i>fuimos</i>\nresponsables."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Now, I do believe we've earned<n>ourselves\nsomething of a reward,<n>wouldn't you say?"
+    "7": {
+      "text": "Ahora, creo que nos hemos ganado<n>algo\ncomo una recompensa,<n>¿no crees?"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Something worthy of commemorating<n>this\nmonumental feat.",
-      "choice_data_list": [
-        "What could live up to that?"
-      ]
+    "8": {
+      "text": "Algo digno de conmemorar<n>esta\nhazaña monumental.",
+      "choice_data_list": {
+        "0": "¿Qué podría igualar eso?"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Struggling for ideas? Well, truth be told,<n>so am I."
+    "9": {
+      "text": "¿Luchando por ideas? Bueno, la verdad sea dicha,<n>yo también."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Haha... Thinking of gifts for oneself isn't<n>easy, is\nit?"
+    "10": {
+      "text": "Jaja... Pensar en regalos para uno mismo no<n>es fácil,\n¿verdad?"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "But fortunately, we have a great deal of<n>time. If\nwe put our heads together, I'm<n>certain we'll\nsucceed."
+    "11": {
+      "text": "Pero afortunadamente, tenemos mucho<n>tiempo. Si\nponemos nuestras cabezas juntas, estoy<n>segura de que\nlo lograremos."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Not least because time spent with you is<n>as much\nof a reward as any."
+    "12": {
+      "text": "No menos porque el tiempo pasado contigo es<n>tanto\ncomo cualquier recompensa."
     }
-  ]
+  }
 }

@@ -1,13 +1,11 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "Hishi Amazon attends a pre-race<n>interview where\nshe states her intention<n>to beat stronger\nopponents, and reach<n>greater heights."
+  "text_block_list": {
+    "0": {
+      "text": "Hishi Amazon asiste a una entrevista pre-carrera<n>donde\nexpresa su intención<n>de vencer a oponentes más\nfuertes, y alcanzar<n>mayores alturas."
     },
-    {
-      "name": "Monologue",
-      "text": "The audience is thrilled by her<n>declaration, and\nshe takes on the<n>challenge while shouldering\neveryone's<n>expectations."
+    "1": {
+      "text": "La audiencia está emocionada por su<n>declaración, y\nella asume el<n>desafío cargando con las\nexpectativas de todos<n>."
     }
-  ]
+  }
 }
