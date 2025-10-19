@@ -1,37 +1,30 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Narita Brian",
+  "text_block_list": {
+    "0": {
       "text": "<i>Huff... Puff...</i>"
     },
-    {
-      "name": "Narita Brian",
-      "text": "...Tch. Pathetic. That was such a sluggish<n>run...",
-      "choice_data_list": [
-        "Everything okay?",
-        "Everything okay?"
-      ]
+    "1": {
+      "text": "...Tch. Patético. Esa fue una carrera tan<n>perezosa...",
+      "choice_data_list": {
+        "0": "¿Todo bien?",
+        "1": "¿Todo bien?"
+      }
     },
-    {
-      "name": "Narita Brian",
-      "text": "I'm fine! You just worry about your own<n>job!"
+    "2": {
+      "text": "¡Estoy bien! ¡Solo preocúpate por tu propio<n>trabajo!"
     },
-    {
-      "name": "Narita Brian",
-      "text": "Damn, I'm so weak! Weak! I shouldn't be<n>worn out\nalready."
+    "3": {
+      "text": "Maldición, ¡soy tan débil! ¡Débil! No debería estar<n>cansada\nya."
     },
-    {
-      "name": "Narita Brian",
-      "text": "Run harder... harder. I've got to run<n>harder!"
+    "4": {
+      "text": "Corre más fuerte... más fuerte. ¡Tengo que correr<n>más fuerte!"
     },
-    {
-      "name": "Monologue",
-      "text": "Unable to get results due to fatigue,<n>Narita Brian\nhas become more impatient<n>and irritated than\nusual... This isn't good."
+    "5": {
+      "text": "Incapaz de obtener resultados debido a la fatiga,<n>Narita Brian\nse ha vuelto más impaciente<n>y irritada de lo\nhabitual... Esto no es bueno."
     },
-    {
-      "name": "Monologue",
-      "text": "We shouldn't push it any harder. I should<n>\nprobably rethink her race schedule..."
+    "6": {
+      "text": "No deberíamos presionarla más. Probablemente debería<n>\nreplantear su horario de carreras..."
     }
-  ]
+  }
 }

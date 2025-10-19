@@ -1,21 +1,17 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Taiki Shuttle",
-      "text": "Huh?! What am I doing here?!"
+  "text_block_list": {
+    "0": {
+      "text": "¡¿Eh?! ¡¿Qué estoy haciendo aquí?!"
     },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Hmm... Well, thinkin' about it is getting<n>me\nnowhere!"
+    "1": {
+      "text": "Hmm... Bueno, pensar en ello no me<n>lleva\na ningún lado."
     },
-    {
-      "name": "Taiki Shuttle",
-      "text": "...Oh!"
+    "2": {
+      "text": "...¡Oh!"
     },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Howdy, Three Goddesses!"
+    "3": {
+      "text": "¡Hola, Tres Diosas!"
     }
-  ]
+  }
 }

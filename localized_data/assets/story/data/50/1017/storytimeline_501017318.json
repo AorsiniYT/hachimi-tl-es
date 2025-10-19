@@ -1,219 +1,169 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Spectators",
-      "text": "Wooooo! Long live the Emperor! Long<n>live the\nEmperor!"
+  "text_block_list": {
+    "0": {
+      "name": "Espectadores",
+      "text": "¡Wooooo! ¡Viva el Emperador! ¡Viva<n>el\nEmperador!"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "...",
-      "choice_data_list": [
-        "Rudolf!"
-      ]
+    "1": {
+      "choice_data_list": {
+        "0": "¡Rudolf!"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Trainer... These cheers. Are they...",
-      "choice_data_list": [
-        "They're applauding your coronation.",
-        "They're applauding your coronation."
-      ]
+    "2": {
+      "text": "Entrenador... Estos vítores. ¿Son...",
+      "choice_data_list": {
+        "0": "Están aplaudiendo tu coronación.",
+        "1": "Están aplaudiendo tu coronación."
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I see... So I won."
+    "3": {
+      "text": "Ya veo... Así que gané."
     },
-    {
-      "name": "Maruzensky",
-      "text": "So in the zone you didn't even realize it?<n>That's\nunlike you."
+    "4": {
+      "text": "Así que en la zona ni siquiera te diste cuenta?<n>Eso\nno es propio de ti."
     },
-    {
-      "name": "Maruzensky",
-      "text": "But you know, you look pretty rad when<n>you're\nfollowing your heart! ♪"
+    "5": {
+      "text": "Pero sabes, te ves bastante genial cuando<n>sigues\n tu corazón! ♪"
     },
-    {
-      "name": "Symboli Rudolf",
+    "6": {
       "text": "Maruzensky..."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "You have my thanks."
+    "7": {
+      "text": "Tienes mis gracias."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I could not have achieved such focus<n>against\nanybody else. I enjoyed myself<n>so much because\nit was you I was racing<n>against."
+    "8": {
+      "text": "No podría haber logrado tal enfoque<n>contra\nnadie más. Me divertí tanto<n>porque eras tú contra quien\ncorría."
     },
-    {
-      "name": "Maruzensky",
-      "text": "Geez, you can't drop a line like that<n>when you\njust made me eat your dust."
+    "9": {
+      "text": "Caray, no puedes soltar una línea así<n>cuando\nacabas de hacerme comer tu polvo."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Hah. Well, allow me to rephrase."
+    "10": {
+      "text": "Ja. Bueno, permíteme reformularlo."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Thank you, Maruzensky. You were<n>quarry fit for\nan Emperor."
+    "11": {
+      "text": "Gracias, Maruzensky. Fuiste<n>una presa digna para\nun Emperador."
     },
-    {
-      "name": "Maruzensky",
-      "text": "Still with the hunting stuff? Lame-o!"
+    "12": {
+      "text": "¡Aún con lo de la caza? ¡Qué aburrido!"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Hahaha... Forgive me. I couldn't resist."
+    "13": {
+      "text": "Jajaja... Perdóname. No pude resistirme."
     },
-    {
-      "name": "Maruzensky",
-      "text": "Fine, I'll let you off the hook. But only<n>'cause of\nthat cute smile."
+    "14": {
+      "text": "Bien, te dejaré escapar. Pero solo<n>por\nesa linda sonrisa."
     },
-    {
-      "name": "Maruzensky",
-      "text": "Hasta la vista, Emperor. But you'd better<n>watch\nyour back, or next time I really<n>will gobble you\nup! ♪"
+    "15": {
+      "text": "Hasta la vista, Emperador. Pero mejor<n>cuida\ntu espalda, o la próxima vez realmente<n>te devoraré\n¡♪"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Hah... Next time, she says."
+    "16": {
+      "text": "Ja... La próxima vez, dice."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Even if there is a next time, I doubt I'll<n>be able to\nrun like I did today."
+    "17": {
+      "text": "Aunque haya una próxima vez, dudo que pueda<n>correr\ncomo lo hice hoy."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "It's strange. I feel like I became one with<n>the race\nitself."
+    "18": {
+      "text": "Es extraño. Siento que me convertí en uno con<n>la carrera\nmisma."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "This race should have required all of my<n>\nconcentration and resourcefulness."
+    "19": {
+      "text": "Esta carrera debería haber requerido toda mi<n>\nconcentración e ingenio."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "But all I could think about was the joy of<n>it. The\nwind on my face, the movements<n>of the racers,\nthe pounding of my feet<n>on the track..."
+    "20": {
+      "text": "Pero lo único en lo que podía pensar era<n>en la alegría de\nello. El viento en mi cara, los movimientos<n>de los corredores,\nel golpeteo de mis pies<n>en la pista..."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "It was... fun. A lot of fun. Perhaps the<n>most fun\nI've ever had while racing."
+    "21": {
+      "text": "Fue... divertido. Mucho divertido. Quizás el<n>más divertido\nque he tenido mientras corría."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "And it's all because you encouraged me<n>to\ncompete as I truly am."
+    "22": {
+      "text": "Y es todo porque me animaste<n>a\ncompetir como realmente soy."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Thank you, Trainer."
+    "23": {
+      "text": "Gracias, Entrenador."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "You helped me recall the primal desire<n>that draws\nall Umamusume to the track."
+    "24": {
+      "text": "Me ayudaste a recordar el deseo primal<n>que atrae\na todas las Umamusume a la pista."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I see now that racing is enjoyable for its<n>own\nsake... And at the end of a race well<n>run, there\nlies bliss."
+    "25": {
+      "text": "Ahora veo que correr es disfrutable por sí<n>mismo...\nY al final de una carrera bien<n>corrida, yace la\nfelicidad."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I want all Umamusume to feel the joy I<n>feel right\nnow. And so I shall hold my<n>ideals high."
+    "26": {
+      "text": "Quiero que todas las Umamusume sientan<n>la alegría que\nsiento ahora.\nY así mantendré mis<n>ideales en alto."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Now more than ever, I must strive toward<n>those\nideals with all my might. And that<n>is why I require\nyour help."
+    "27": {
+      "text": "Ahora más que nunca, debo esforzarme hacia<n>esos\nideales con todas mis fuerzas. Y eso<n>es por qué requiero\ntu ayuda."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "After all, it's not only Umamusume who<n>can show\nthe world the joy of racing."
+    "28": {
+      "text": "Después de todo, no solo las Umamusume<n>pueden mostrar\nal mundo la alegría de correr."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Will you stay by my side, Trainer? Will<n>you\ncontinue to indulge this wild dream<n>of mine?"
+    "29": {
+      "text": "¿Te quedarás a mi lado, Entrenador?<n>¿Continuarás\ncomplaciendo este sueño salvaje<n>mío?"
     },
-    {
-      "name": "Monologue",
-      "text": "As I gaze into Symboli Rudolf's eyes and<n>see the\nresolve therein, I realize that<n>here, now, I'm\nwitnessing the birth of the<n>true Emperor.",
-      "choice_data_list": [
-        "You know I will."
-      ]
+    "30": {
+      "text": "Mientras miro a los ojos de Symboli Rudolf y<n>veo la\ndeterminación en ellos, me doy cuenta<n>de que aquí, ahora, estoy\npresenciando el nacimiento del<n>verdadero Emperador.",
+      "choice_data_list": {
+        "0": "Sabes que sí."
+      }
     },
-    {
-      "name": "Monologue",
-      "text": "<i>Click! Flash! Click!</i>"
+    "31": {
+      "text": "<i>¡Click! ¡Flash! ¡Click!</i>"
     },
-    {
-      "name": "Reporters",
-      "text": "Symboli Rudolf! How do you feel about<n>your\nvictory?!"
+    "32": {
+      "name": "Reporteros",
+      "text": "¡Symboli Rudolf! ¿Cómo te sientes sobre<n>tu\nvictoria?!"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "It seems the press is calling. Perfect<n>timing."
+    "33": {
+      "text": "Parece que la prensa está llamando. Perfecto<n>momento."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Would you mind gathering the<n>reporters? I would\nlike to start the press<n>conference right away."
+    "34": {
+      "text": "¿Te importaría reunir a<n>los reporteros? Me gustaría\nempezar la conferencia de prensa<n>inmediatamente."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Greetings, ladies and gentlemen. I hope<n>you will\nforgive my formalities."
+    "35": {
+      "text": "Saludos, damas y caballeros. Espero<n>que\nperdonen mis formalidades."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I come before you today to tell you<n>about the\nEmperor's dream."
+    "36": {
+      "text": "Vengo ante ustedes hoy para contarles<n>sobre el\nsueño del Emperador."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "My dream is to create a world where all<n>\nUmamusume can live in bliss."
+    "37": {
+      "text": "Mi sueño es crear un mundo donde todas<n>\nlas Umamusume puedan vivir en felicidad."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Many look down on this ideal. \"How can<n>you\nmake everybody happy?\" they spit."
+    "38": {
+      "text": "Muchos desprecian este ideal. \"¿Cómo puedes<n>hacer\nfeliz a todo el mundo?\" escupen."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "\"What can one person do alone?\" they<n>sneer."
+    "39": {
+      "text": "\"¿Qué puede hacer una persona sola?\" se<n>burlan."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "\"Who will follow a half-grown monarch?\"<n>they\nscoff."
+    "40": {
+      "text": "\"¿Quién seguirá a un monarca medio crecido?\"<n>se\nmofan."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "For years now, I have striven to<n>personally prove\nthose doubts false."
+    "41": {
+      "text": "Durante años, me he esforzado en<n>probar\npersonalmente que esas dudas<n>son falsas."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Only now do I understand that I was<n>wrong."
+    "42": {
+      "text": "Solo ahora entiendo que estaba<n>equivocada."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I <i>cannot</i> make everybody happy... I must<n>trust in\neveryone's capacity to win<n>happiness for\nthemselves."
+    "43": {
+      "text": "No <i>puedo</i> hacer feliz a todo el mundo... Debo<n>confiar en\nla capacidad de cada uno para ganar<n>felicidad para\nsí mismos."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Nor can I accomplish anything alone... I<n>must trust\nin the comrades who stand by<n>my side."
+    "44": {
+      "text": "Tampoco puedo lograr nada sola... Debo<n>confiar\nen los camaradas que están a<n>mi lado."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "And sure enough, nobody will follow a<n>half-grown\nmonarch. That is why I must<n>first have absolute\nfaith in my own path."
+    "45": {
+      "text": "Y ciertamente, nadie seguirá a un<n>monarca medio crecido. Por eso debo<n>tener primero fe absoluta\nen mi propio camino."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Let me speak now to you—you beyond<n>the\nscreen, listening to or reading these<n>words—you\nwhom perhaps I will one day<n>meet face-to-face."
+    "46": {
+      "text": "Permítanme hablar ahora con ustedes—<n>ustedes más allá\nde la pantalla, escuchando o leyendo estas<n>palabras—ustedes\ncon quienes quizás un día<n>me encuentre cara a cara."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "My name is Symboli Rudolf, the<n>Emperor, and\ntoday I have taken my<n>place as the greatest of all\nUmamusume."
+    "47": {
+      "text": "Mi nombre es Symboli Rudolf, el<n>Emperador, y\nhoy he tomado mi<n>lugar como la más grande de todas\nlas Umamusume."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "By the crowns I have won, I swear to be<n>true to\nyour dreams."
+    "48": {
+      "text": "Por las coronas que he ganado, juro ser<n>fiel a\nsus sueños."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "And to those who seek glory, I bid you,<n>come\nbefore my throne."
+    "49": {
+      "text": "Y a aquellos que buscan gloria, les invito,<n>vengan\nante mi trono."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I will welcome your challenge with open<n>arms."
+    "50": {
+      "text": "Recibiré su desafío con los brazos<n>abiertos."
     }
-  ]
+  }
 }

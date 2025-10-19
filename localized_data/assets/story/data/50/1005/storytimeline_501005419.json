@@ -1,17 +1,14 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "At last, the curtains on the Arima Kinen<n>rise. This\nwill be the finale of Fuji<n>Kiseki's four-part\nchallenge."
+  "text_block_list": {
+    "0": {
+      "text": "Por fin, las cortinas del Arima Kinen<n>se levantan.\nEsta será la final del desafío<n>de cuatro partes de\nFuji<n>Kiseki."
     },
-    {
-      "name": "Monologue",
-      "text": "The crowd sends her off in a sea of<n>unending\ncheers. She tells me how<n>thankful she is that I've\nbeen there for<n>her all this time."
+    "1": {
+      "text": "La multitud la despide en un mar de<n>aplausos\nincesantes. Me dice lo<n>agradecida que está de\nque haya estado<n>allí para ella todo este tiempo."
     },
-    {
-      "name": "Monologue",
-      "text": "She goes off to run in the race. She's<n>more\ndazzling than she's ever been and<n>is the most\nbrilliant star in the world."
+    "2": {
+      "text": "Se va a correr en la carrera. Está<n>más\ndeslumbrante que nunca y<n>es la estrella más\nbrillante del mundo."
     }
-  ]
+  }
 }

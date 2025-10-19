@@ -1,73 +1,62 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "The Arima Kinen is always a big event.<n>The\nentrants are chosen by popular<n>vote, so the\nlineup invariably ends up<n>being a who's who of\nthe best racers of<n>the year."
+  "text_block_list": {
+    "0": {
+      "text": "El Arima Kinen siempre es un gran evento.<n>Los\nparticipantes son elegidos por<n>voto popular, así que\nla alineación invariablemente termina<n>siendo un quién es quién de\nlos mejores corredores<n>del año."
     },
-    {
-      "name": "Monologue",
-      "text": "But this year, the atmosphere in the<n>stands is a\nlittle different."
+    "1": {
+      "text": "Pero este año, la atmósfera en las<n>gradas es un\npoco diferente."
     },
-    {
+    "2": {
       "name": "Spectator A",
-      "text": "Symboli Rudolf is finally taking on<n>senior-year\nracers... I can't wait to see<n>how she does!"
+      "text": "Symboli Rudolf finalmente se enfrenta a<n>corredores de\naño senior... ¡No puedo esperar a ver<n>cómo lo hace!"
     },
-    {
+    "3": {
       "name": "Spectator B",
-      "text": "Don't get your hopes up. Some of these<n>racers are\nalmost finished with their<n>careers. One of them's\ngonna snag the<n>win, I figure."
+      "text": "No te hagas ilusiones. Algunos de estos<n>corredores están\ncasi terminando sus<n>carreras. Uno de ellos va a\nagarrar la<n>victoria, creo."
     },
-    {
+    "4": {
       "name": "Spectator B",
-      "text": "Still, she's the Emperor, right? She'll be<n>top three\nfor sure."
+      "text": "Aún así, ella es el Emperador, ¿verdad? Estará<n>en el top tres\nseguro."
     },
-    {
+    "5": {
       "name": "Spectators",
-      "text": "Symboli Rudolf...\nRudolf... That Rudolf..."
+      "text": "Symboli Rudolf...\nRudolf... Esa Rudolf..."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Ah, you're back. How's the mood out<n>there?",
-      "choice_data_list": [
-        "Everyone's talking about you.",
-        "Everyone's talking about you."
-      ]
+    "6": {
+      "text": "Ah, has regresado. ¿Cómo está el ánimo<n>allá afuera?",
+      "choice_data_list": {
+        "0": "Todos están hablando de ti.",
+        "1": "Todos están hablando de ti."
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Haha... Are they now? How flattering."
+    "7": {
+      "text": "Jaja... ¿Lo hacen ahora? Qué halagador."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "All eyes are on me. They hope that I will<n>measure\nup favorably against the<n>seniors, as well as the\nmost talented of<n>my contemporaries."
+    "8": {
+      "text": "Todos los ojos están en mí. Esperan que<n>me\nmida favorablemente contra los<n>seniors, así como los\nmás talentosos de<n>mis contemporáneos."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "But still, I have yet to capture their<n>hearts."
+    "9": {
+      "text": "Pero aún así, aún no he capturado sus<n>corazones."
     },
-    {
-      "name": "Monologue",
-      "text": "Symboli Rudolf came second in the fan<n>vote,\nlosing out to a senior-year<n>Umamusume, and it\nseems to be<n>weighing on her mind."
+    "10": {
+      "text": "Symboli Rudolf quedó segunda en el voto<n>de\nfans, perdiendo ante una Umamusume<n>de año senior, y\nparece estar<n>pesando en su mente."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "A simple poll cannot truly measure the<n>people's\nfaith in me, of course, but the<n>result does\nsymbolize my current<n>standing quite aptly."
+    "11": {
+      "text": "Una simple encuesta no puede medir<n>verdaderamente la\nfe de la gente en mí, por<n>supuesto, pero el\nresultado simboliza mi<n>posición actual bastante\napropiadamente."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Many believe that the seniors'<n>experience\npresents an obstacle that I<n>cannot hope to\novercome."
+    "12": {
+      "text": "Muchos creen que la experiencia<n>de los seniors\npresenta un obstáculo que<n>no puedo esperar\nsuperar."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Which means that they doubt my<n>abilities. And\nsuch doubts have only one<n>remedy.",
-      "choice_data_list": [
-        "Let's show them how strong you really are!",
-        "Let's show them how strong you really are!"
-      ]
+    "13": {
+      "text": "Lo que significa que dudan de mis<n>habilidades. Y\ntales dudas tienen solo un<n>remedio.",
+      "choice_data_list": {
+        "0": "¡Mostrémosles cuán fuerte eres realmente!",
+        "1": "¡Mostrémosles cuán fuerte eres realmente!"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "But of course!"
+    "14": {
+      "text": "¡Pero por supuesto!"
     }
-  ]
+  }
 }

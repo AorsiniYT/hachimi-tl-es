@@ -1,181 +1,140 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "I'm discussing today's training with<n>Narita Brian,\nwhen..."
+  "text_block_list": {
+    "0": {
+      "text": "Estoy discutiendo el entrenamiento de hoy con<n>Narita Brian,\ncuando..."
     },
-    {
-      "name": "Narita Brian",
+    "1": {
       "text": "Got it. Guess I'm running laps today,<n>then."
     },
-    {
-      "name": "Monologue",
+    "2": {
       "text": "(Hmm...)",
-      "choice_data_list": [
-        "(It feels like we're being watched...)"
-      ]
+      "choice_data_list": {
+        "0": "(Siento que nos están observando...)"
+      }
     },
-    {
-      "name": "Narita Brian",
-      "text": "...What are you doing? Let's go."
+    "3": {
+      "text": "...¿Qué estás haciendo? Vamos."
     },
-    {
-      "name": "Narita Brian",
-      "text": "I'm ready to run, so I'm going ahead."
+    "4": {
+      "text": "Estoy lista para correr, así que voy adelante."
     },
-    {
-      "name": "Narita Brian",
-      "text": "...There's a nice breeze. It's got my<n>blood\npumping—I feel like I could run to<n>the end of the\nearth."
+    "5": {
+      "text": "...Hay una brisa agradable. Me hace<n>circular la\nsangre—siento que podría correr hasta<n>el fin del\nmundo."
     },
-    {
-      "name": "???",
-      "text": "I see. Wind... Blood... Run...",
-      "choice_data_list": [
-        "Who's there?",
-        "Who's there?"
-      ]
+    "6": {
+      "text": "Ya veo. Viento... Sangre... Correr...",
+      "choice_data_list": {
+        "0": "¿Quién está ahí?",
+        "1": "¿Quién está ahí?"
+      }
     },
-    {
-      "name": "???",
-      "text": "Uh, uh-oh!"
+    "7": {
+      "text": "Eh, eh-oh!"
     },
-    {
-      "name": "Narita Brian",
-      "text": "...Tch. No way I can ignore that."
+    "8": {
+      "text": "...Tch. No hay manera de que ignore eso."
     },
-    {
-      "name": "Narita Brian",
-      "text": "Come out, you lil' rat. I know you're in<n>the bushes."
+    "9": {
+      "text": "Sal, ratita. Sé que estás en<n>los arbustos."
     },
-    {
-      "name": "???",
-      "text": "A-all right!"
+    "10": {
+      "text": "¡B-bueno!"
     },
-    {
-      "name": "Vodka",
-      "text": "What's up, Brian?!",
-      "choice_data_list": [
-        "Oh, it's Vodka.",
-        "Oh, it's Vodka."
-      ]
+    "11": {
+      "text": "¿Qué pasa, Brian?!",
+      "choice_data_list": {
+        "0": "Oh, es Vodka.",
+        "1": "Oh, es Vodka."
+      }
     },
-    {
-      "name": "Narita Brian",
-      "text": "...What do you think you're doing,<n>following me\naround from the crack of<n>dawn?"
+    "12": {
+      "text": "...¿Qué crees que estás haciendo,<n>siguiéndome\npor ahí desde el amanecer?"
     },
-    {
-      "name": "Vodka",
-      "text": "Well... Hm... Hmph... Guess I'm busted."
+    "13": {
+      "text": "Bueno... Hm... Hmph... Supongo que me atraparon."
     },
-    {
-      "name": "Narita Brian",
-      "text": "...Oh? That's quite the attitude."
+    "14": {
+      "text": "...¿Oh? Esa es una actitud bastante buena."
     },
-    {
-      "name": "Vodka",
-      "text": "...Oh? Look who's talking.",
-      "choice_data_list": [
-        "Are you... mimicking her?"
-      ]
+    "15": {
+      "text": "...¿Oh? Mira quién habla.",
+      "choice_data_list": {
+        "0": "¿Estás... imitándola?"
+      }
     },
-    {
-      "name": "Vodka",
-      "text": "No way! It's... an homage. I totally<n>respect Brian!"
+    "16": {
+      "text": "¡De ninguna manera! Es... un homenaje. ¡Totalmente<n>respeto a Brian!"
     },
-    {
-      "name": "Narita Brian",
-      "text": "...I don't get what you're saying."
+    "17": {
+      "text": "...No entiendo lo que dices."
     },
-    {
-      "name": "Vodka",
-      "text": "I wanna be just like you! I wanna be<n>powerful and\ncool!"
+    "18": {
+      "text": "¡Quiero ser justo como tú! ¡Quiero ser<n>poderosa y\ncool!"
     },
-    {
-      "name": "Vodka",
-      "text": "That's why I started followin' you this<n>morning.\nI've been studyin' the way you<n>move and how you\ntalk!"
+    "19": {
+      "text": "¡Por eso empecé a seguirte esta<n>mañana.\nHe estado estudiando la forma en que<n>te mueves y cómo\nhablas!"
     },
-    {
-      "name": "Narita Brian",
-      "text": "You want to be... like me?"
+    "20": {
+      "text": "¿Quieres ser... como yo?"
     },
-    {
-      "name": "Narita Brian",
-      "text": "You think you can compare to me with a<n>shallow\nimpersonation? ...Don't kid<n>yourself."
+    "21": {
+      "text": "¿Crees que puedes compararte conmigo con una<n>imitación\nsuperficial? ...No te engañes."
     },
-    {
-      "name": "Vodka",
-      "text": "...!"
+    "23": {
+      "text": "Si quieres correr en la misma pista que<n>yo, ven\npreparado para destrozarla."
     },
-    {
-      "name": "Narita Brian",
-      "text": "If you wanna run on the same track as<n>me, come\nprepared to tear it to shreds."
+    "24": {
+      "text": "¡P-por supuesto!"
     },
-    {
-      "name": "Vodka",
-      "text": "O-of course!"
+    "25": {
+      "text": "...Admiro tu confianza inquebrantable,<n>\nrecta."
     },
-    {
-      "name": "Vodka",
-      "text": "...I look up to you and your unshakable,<n>\nstraightforward confidence."
+    "26": {
+      "text": "¡Voy a correr tan rápido como—no, voy<n>a\nsuperarte! ¡Ya verás!",
+      "choice_data_list": {
+        "0": "Esa determinación es una fuerza en sí misma.",
+        "1": "¿Quieres hacer algo de carrera en pareja para probar tu\nfuerza?",
+        "2": "¿Quieres hacer algo de carrera en pareja para probar tu\nfuerza?"
+      }
     },
-    {
-      "name": "Vodka",
-      "text": "I'm gonna run just as fast as—no, I'm<n>gonna\nsurpass you! You'll see!",
-      "choice_data_list": [
-        "That determination is a strength in itself.",
-        "Want to do some partner running to test your\nstrength?",
-        "Want to do some partner running to test your\nstrength?"
-      ]
+    "27": {
+      "text": "¡Voy a correr tan rápido como—no, voy<n>a\nsuperarte! ¡Ya verás!",
+      "choice_data_list": {
+        "0": "Esa determinación es una fuerza en sí misma.",
+        "1": "¿Quieres hacer algo de carrera en pareja para probar tu\nfuerza?",
+        "2": "¿Quieres hacer algo de carrera en pareja para probar tu\nfuerza?"
+      }
     },
-    {
-      "name": "Vodka",
-      "text": "I'm gonna run just as fast as—no, I'm<n>gonna\nsurpass you! You'll see!",
-      "choice_data_list": [
-        "That determination is a strength in itself.",
-        "Want to do some partner running to test your\nstrength?",
-        "Want to do some partner running to test your\nstrength?"
-      ]
+    "28": {
+      "text": "¡¿En serio?! ¿Eso significa que me estoy<n>acercando a\nser lo real?!"
     },
-    {
-      "name": "Vodka",
-      "text": "Really?! So does that mean I'm gettin'<n>closer to\nbeing the real deal?!"
+    "29": {
+      "text": "¡Entonces no tengo tiempo para quedarme<n>parado y\ncharlar! ¡Tengo que entrenar también!"
     },
-    {
-      "name": "Vodka",
-      "text": "Then I don't have time to stand around<n>and chat! I\ngotta train too!"
+    "30": {
+      "text": "Hmph... No solo igualarme, ¿pero crees<n>que puedes\nsuperarme?! Eso es un ladrido<n>bastante fuerte."
     },
-    {
-      "name": "Narita Brian",
-      "text": "Hmph... Not just match me, but you<n>think you can\nsurpass me?! That's quite a<n>loud bark you got."
+    "31": {
+      "text": "Pero soy <i>yo</i> quien morderá."
     },
-    {
-      "name": "Narita Brian",
-      "text": "But it's <i>me</i> who'll be biting."
+    "32": {
+      "text": "Podría ser porque fue provocada,<n>pero está\naún más vigorosa de lo habitual<n>en el entrenamiento\ndespués."
     },
-    {
-      "name": "Monologue",
-      "text": "It could be because she was provoked,<n>but she's\neven more vigorous than usual<n>in training\nafterward."
+    "33": {
+      "text": "¡¿Eh?! ¿¿P-puedo realmente?!"
     },
-    {
-      "name": "Vodka",
-      "text": "Huh?! C-can I really?!"
+    "34": {
+      "text": "No tenía intención de permitir esto... pero<n>supongo\nque eres libre de seguirme por<n>tu propia voluntad."
     },
-    {
-      "name": "Narita Brian",
-      "text": "I had no intention of allowing this... but I<n>guess\nyou're free to follow me of your<n>own accord."
+    "35": {
+      "text": "¡Augh! ¡Perdí! ¡Una más, por favor!"
     },
-    {
-      "name": "Vodka",
-      "text": "Augh! I lost! One more, please!"
+    "36": {
+      "text": "Hmph... No importa cuántas<n>veces vayamos,\naún te derrotaré."
     },
-    {
-      "name": "Narita Brian",
-      "text": "Hmph... It doesn't matter how many<n>times we go,\nI'll still defeat you."
-    },
-    {
-      "name": "Monologue",
-      "text": "They continue until Vodka has had<n>enough, and it\nturns out to be a very<n>productive training session."
+    "37": {
+      "text": "Continúan hasta que Vodka ha tenido<n>suficiente, y\nresulta ser una sesión de<n>entrenamiento muy\nproductiva."
     }
-  ]
+  }
 }

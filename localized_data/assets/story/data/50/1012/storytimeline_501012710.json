@@ -1,53 +1,42 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Hishi Amazon",
-      "text": "Gaaah! Dang it, I lost! I didn't stand a<n>chance!"
+  "text_block_list": {
+    "0": {
+      "text": "¡Gaaah! ¡Maldición, perdí! ¡No tuve<n>oportunidad!"
     },
-    {
-      "name": "Hishi Amazon",
-      "text": "That was some real competition... Guess<n>this\nmeans my opponents were a lot<n>stronger than me!",
-      "choice_data_list": [
-        "You'll win next time!",
-        "Let's get some more training in!"
-      ]
+    "1": {
+      "text": "Eso fue una competencia real... Supongo<n>que\nesto significa que mis oponentes eran mucho<n>más fuertes que yo!",
+      "choice_data_list": {
+        "0": "¡Ganarás la próxima vez!",
+        "1": "¡Hagamos más entrenamiento!"
+      }
     },
-    {
-      "name": "Hishi Amazon",
-      "text": "Yeah, I know! Stopping now just doesn't<n>feel\nright!"
+    "2": {
+      "text": "Sí, lo sé! ¡Detenerse ahora simplemente no<n>se siente\nbien!"
     },
-    {
-      "name": "Hishi Amazon",
-      "text": "We've gotta use today as fuel for our<n>next\nvictory!"
+    "3": {
+      "text": "¡Tenemos que usar hoy como combustible para<n>nuestra\npróxima victoria!"
     },
-    {
-      "name": "Hishi Amazon",
-      "text": "If my foes are this strong, I've gotta get<n>even\nstronger! I'll come back swingin'<n>every time until\nsweet victory is mine!"
+    "4": {
+      "text": "Si mis enemigos son tan fuertes, tengo que<n>volverme aún\nmás fuerte! ¡Volveré golpeando<n>cada vez hasta\nque la dulce victoria sea mía!"
     },
-    {
-      "name": "Hishi Amazon",
-      "text": "I've got this! I'll use this setback as a<n>springboard\nto get even faster!"
+    "5": {
+      "text": "¡Lo tengo! ¡Usaré este revés como un<n>resorte\npara volverme aún más rápido!"
     },
-    {
-      "name": "Hishi Amazon",
-      "text": "It goes without saying! I'm not gonna let<n>'em push\nme around forever!"
+    "6": {
+      "text": "¡Va sin decir! ¡No voy a dejar que<n>ellos me\nempujen para siempre!"
     },
-    {
-      "name": "Hishi Amazon",
-      "text": "My legs know no limits! I'm gonna train<n>till I drop!"
+    "7": {
+      "text": "¡Mis piernas no conocen límites! ¡Voy a entrenar<n>hasta caer!"
     },
-    {
-      "name": "Hishi Amazon",
-      "text": "I don't plan on lettin' up—everyone on<n>that track\nis in for a beatdown!"
+    "8": {
+      "text": "No planeo aflojar—todos en<n>esa pista\nvan a recibir una paliza!"
     },
-    {
-      "name": "Hishi Amazon",
-      "text": "I'm gonna treat the crowd to a race so<n>hot, their\nblood will start pumpin' too!"
+    "9": {
+      "text": "¡Voy a tratar a la multitud con una carrera tan<n>caliente, que\nsu sangre empezará a bombear también!"
     },
-    {
-      "name": "Hishi Amazon",
-      "text": "I'm ready to go, Teach! I'm gonna jump<n>squat the\nwhole way back!"
+    "10": {
+      "text": "¡Estoy lista para ir, Profe! ¡Voy a saltar<n>sentadillas\ntodo el camino de vuelta!"
     }
-  ]
+  }
 }

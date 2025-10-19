@@ -1,17 +1,14 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "Today is the Mile Championship, and<n>powerful\nrunners Biko Pegasus and Hishi<n>Akebono will be\nrunning."
+  "text_block_list": {
+    "0": {
+      "text": "Hoy es el Campeonato de Milla, y<n>corredores\npoderosos Biko Pegasus y Hishi<n>Akebono estarán\ncorriendo."
     },
-    {
-      "name": "Monologue",
-      "text": "Fuji Kiseki is feeling nervous, but the<n>three of\nthem wish each other a good<n>race and do a\npre-race ritual together to<n>get ready."
+    "1": {
+      "text": "Fuji Kiseki se siente nerviosa, pero los<n>tres se\ndesean buena suerte en la carrera y hacen<n>un ritual\npre-carrera juntos para<n>prepararse."
     },
-    {
-      "name": "Monologue",
-      "text": "With her spirits lifted, Fuji Kiseki is<n>ready for\nanything. The race begins."
+    "2": {
+      "text": "Con sus espíritus elevados, Fuji Kiseki está<n>lista\npara cualquier cosa. La carrera comienza."
     }
-  ]
+  }
 }

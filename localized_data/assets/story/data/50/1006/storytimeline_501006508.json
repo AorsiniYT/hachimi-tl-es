@@ -1,25 +1,20 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monologue",
-      "text": "Oguri Cap looks a bit down."
+  "text_block_list": {
+    "0": {
+      "text": "Oguri Cap parece un poco deprimida."
     },
-    {
-      "name": "Oguri Cap",
-      "text": "I don't know why, but I've been so tired<n>lately."
+    "1": {
+      "text": "No sé por qué, pero he estado tan cansada<n>últimamente."
     },
-    {
-      "name": "Oguri Cap",
-      "text": "I'm eating well, and I'm not struggling<n>with any\nparticular issues..."
+    "2": {
+      "text": "Estoy comiendo bien, y no estoy luchando<n>con\nningún problema particular..."
     },
-    {
-      "name": "Oguri Cap",
-      "text": "<i>Sigh...</i> What's up with me?"
+    "3": {
+      "text": "<i>Suspiro...</i> ¿Qué me pasa?"
     },
-    {
-      "name": "Monologue",
-      "text": "It seems like I've really exhausted her.<n>Maybe we\nshould rethink our race<n>schedule."
+    "4": {
+      "text": "Parece que realmente la he agotado.<n>Tal vez\ndebamos replantear nuestro horario<n>de carreras."
     }
-  ]
+  }
 }

@@ -1,263 +1,210 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Symboli Rudolf",
-      "text": "What did you think, Trainer?"
+  "text_block_list": {
+    "0": {
+      "text": "¿Qué pensaste, Entrenador?"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Did I succeed in leading by example?",
-      "choice_data_list": [
-        "Absolutely!",
-        "Absolutely!"
-      ]
+    "1": {
+      "text": "¿Logré liderar por medio del ejemplo?",
+      "choice_data_list": {
+        "0": "¡Absolutamente!",
+        "1": "¡Absolutamente!"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Then I am satisfied."
+    "2": {
+      "text": "Entonces estoy satisfecha."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Almost a year has passed since I started<n>my senior\nyear."
+    "3": {
+      "text": "Casi un año ha pasado desde que empecé<n>mi año\nsenior."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "If my performance has managed to<n>inspire\nyounger racers, I can't think of<n>anything more\nworthwhile.",
-      "choice_data_list": [
-        "You're not planning to stop now, are you?"
-      ]
+    "4": {
+      "text": "Si mi rendimiento ha logrado<n>inspirar\na corredores más jóvenes, no puedo pensar<n>en\nnada más valioso.",
+      "choice_data_list": {
+        "0": "¿No estás planeando parar ahora, verdad?"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Hahaha! Don't worry, there's no chance<n>of that.\nCan't you see the fire in my<n>eyes?"
+    "5": {
+      "text": "¡Jajaja! No te preocupes, no hay chance<n>de eso.\n¿No puedes ver el fuego en mis<n>ojos?"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Naturally, I'm already looking to the<n>future. My\nnext challenge will be...",
-      "choice_data_list": [
-        "The Arima Kinen!"
-      ]
+    "6": {
+      "text": "Naturalmente, ya estoy mirando al<n>futuro. Mi\npróximo desafío será...",
+      "choice_data_list": {
+        "0": "¡El Arima Kinen!"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Precisely."
+    "7": {
+      "text": "Precisamente."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "But this will be no repeat of last year. I<n>intend to\nshow the world the fruits of my<n>labors."
+    "8": {
+      "text": "Pero esto no será una repetición del año<n>pasado. Intento<n>mostrar al mundo los frutos de mis<n>labores."
     },
-    {
-      "name": "Monologue",
-      "text": "Symboli Rudolf looks fired up enough<n>already,\nbut I have one more thing to<n>tell her.",
-      "choice_data_list": [
-        "I hear Maruzensky's going to be there."
-      ]
+    "9": {
+      "text": "Symboli Rudolf parece lo suficientemente<n>entusiasmada\nya, pero tengo una cosa más<n>que decirle.",
+      "choice_data_list": {
+        "0": "Oigo que Maruzensky va a estar ahí."
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "...!"
+    "11": {
+      "text": "Maruzensky. Ya veo..."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Maruzensky. I see..."
+    "12": {
+      "text": "En el camino de regreso..."
     },
-    {
-      "name": "Monologue",
-      "text": "On the way back..."
+    "13": {
+      "text": "Oh, es eso..."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Oh, is that..."
-    },
-    {
+    "14": {
       "name": "Student Council General Manager",
-      "text": "...And that concludes our tour of the<n>academy.\nDo you have any questions?",
-      "choice_data_list": [
-        "I remember her..."
-      ]
+      "text": "...Y eso concluye nuestro tour de la<n>academia.\n¿Tienen alguna pregunta?",
+      "choice_data_list": {
+        "0": "La recuerdo..."
+      }
     },
-    {
-      "name": "Monologue",
-      "text": "Yes, the student council's general<n>manager. It\nlooks like she's leading a<n>group of Umamusume\naround."
+    "15": {
+      "text": "Sí, la gerente general del consejo<n>estudiantil. Parece\nque está guiando a un<n>grupo de Umamusume\nalrededor."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Now that I think about it, today was the<n>day that\nthe new student council<n>members were supposed\nto be given a<n>guided tour."
+    "16": {
+      "text": "Ahora que lo pienso, hoy era el<n>día en que\nlos nuevos miembros del consejo<n>estudiantil debían\nrecibir un<n>tour guiado."
     },
-    {
+    "17": {
       "name": "Short Umamusume",
-      "text": "You know... I'm starting to think that<n>maybe the\nstudent council might not be<n>right for me..."
+      "text": "Sabes... Estoy empezando a pensar que<n>tal vez el\nconsejo estudiantil no sea<n>adecuado para mí..."
     },
-    {
+    "18": {
       "name": "Student Council General Manager",
-      "text": "Why do you say that?"
+      "text": "¿Por qué dices eso?"
     },
-    {
+    "19": {
       "name": "Short Umamusume",
-      "text": "I joined because of the President, but<n>when I saw\nher race today..."
+      "text": "Me uní por la Presidenta, pero<n>cuando la vi\ncorrer hoy..."
     },
-    {
+    "20": {
       "name": "Short Umamusume",
-      "text": "She was so much better than I could ever<n>hope to\nbe. I feel like there's no point..."
+      "text": "Era tan buena que nunca podría<n>esperar serlo.\nSiento que no hay punto..."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "..."
+    "22": {
+      "text": "Symboli Rudolf no dice nada. Está<n>esperando ver\ncómo responderá la gerente<n>general."
     },
-    {
-      "name": "Monologue",
-      "text": "Symboli Rudolf says nothing. She's<n>waiting to see\nhow the general manager<n>will respond."
-    },
-    {
+    "23": {
       "name": "Student Council General Manager",
-      "text": "I know what you mean. I felt exactly the<n>same way\nwhen I first joined."
+      "text": "Sé lo que quieres decir. Me sentí exactamente<n>de la\nmisma manera cuando me uní\npor primera vez."
     },
-    {
-      "name": "Short Umamusume",
-      "text": "Really?"
+    "24": {
+      "name": "Umamusume baja",
+      "text": "¿En serio?"
     },
-    {
-      "name": "Student Council General Manager",
-      "text": "I thought there was no way I could ever<n>live up to\nmy station, and it made me<n>feel really down on\nmyself."
+    "25": {
+      "name": "Gerente general del consejo\nestudiantil",
+      "text": "Pensé que no había manera de que pudiera<n>estar a la\naltura de mi posición, y eso me\nhizo sentir\nmuy desanimada conmigo misma."
     },
-    {
-      "name": "Student Council General Manager",
-      "text": "Honestly, I still feel useless most of the<n>time. But I\ncan tell you one thing for<n>certain: I've grown a lot\nas a person<n>since I began."
+    "26": {
+      "name": "Gerente general del consejo\nestudiantil",
+      "text": "Honestamente, todavía me siento inútil<n>la mayor\nparte del tiempo.<n>Pero puedo decirte algo\ncon certeza:\nhe crecido mucho como persona\ndesde que comencé."
     },
-    {
-      "name": "Student Council General Manager",
-      "text": "So if you want to improve yourself...<n>would you\nconsider hanging in a little<n>longer?"
+    "27": {
+      "name": "Gerente general del consejo\nestudiantil",
+      "text": "Así que, si quieres mejorar...<n>¿considerarías\naguantar un poco más?"
     },
-    {
-      "name": "Short Umamusume",
-      "text": "A-all right... I'll give it a shot!"
+    "28": {
+      "name": "Umamusume baja",
+      "text": "E-está bien... ¡Lo intentaré!"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Heh."
+    "29": {
+      "text": "Je."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "It's gratifying to see the younger<n>students\nmaturing off the track as well as<n>on it."
+    "30": {
+      "text": "Es gratificante ver que las estudiantes más\njóvenes<n>maduran tanto fuera de la pista\ncomo dentro de ella."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "And it's a relief to know that the<n>academy will be\nin safe hands even after<n>I'm gone."
+    "31": {
+      "text": "Y es un alivio saber que la\nacademia estará<n>en buenas manos incluso después\nde que me haya ido."
     },
-    {
-      "name": "Monologue",
-      "text": "Symboli Rudolf looks like a weight has<n>been lifted\nfrom her shoulders. This is<n>the perfect time to\nspring my proposal!",
-      "choice_data_list": [
-        "There's something I've been meaning to ask\nyou."
-      ]
+    "32": {
+      "text": "Parece que a Symboli Rudolf se le ha quitado un\npeso de los hombros.<n>¡Este es el momento perfecto<n>para lanzar mi propuesta!",
+      "choice_data_list": {
+        "0": "Hay algo que he querido preguntarte."
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "That's rather sudden, but by all means.",
-      "choice_data_list": [
-        "I want you to forget about your titles at the\nArima Kinen.",
-        "I want you to forget about your titles at the\nArima Kinen."
-      ]
+    "33": {
+      "text": "Eso es bastante repentino,\npero adelante.",
+      "choice_data_list": {
+        "0": "Quiero que olvides tus títulos en el\nArima Kinen.",
+        "1": "Quiero que olvides tus títulos en el\nArima Kinen."
+      }
     },
-    {
-      "name": "Monologue",
-      "text": "I don't want her to race as the Emperor<n>or the\nPresident, but simply as Symboli<n>Rudolf."
+    "34": {
+      "text": "No quiero que corra como el Emperador<n>ni como la\nPresidenta, sino simplemente\ncomo Symboli Rudolf."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I understand what you're trying to say."
+    "35": {
+      "text": "Entiendo lo que intentas decir."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "But my pride as the Emperor won't allow<n>it. The\nweight of my responsibilities is<n>what makes me\nwho I am."
+    "36": {
+      "text": "Pero mi orgullo como Emperador no<n>me lo permite.\nEl peso de mis responsabilidades\nes lo que me hace quien soy."
     },
-    {
-      "name": "Air Groove",
-      "text": "What's the harm in setting all that aside<n>once in a\nwhile?"
+    "37": {
+      "text": "¿Qué daño hay en dejar todo eso a un lado<n>de vez en\ncuando?"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Air Groove! I didn't see you there."
+    "38": {
+      "text": "¡Air Groove! No te había visto allí."
     },
-    {
-      "name": "Air Groove",
-      "text": "Indeed. I was assisting with the tour. But<n>more to\nthe point..."
+    "39": {
+      "text": "Así es. Estaba ayudando con la visita.<n>Pero más\nimportante..."
     },
-    {
-      "name": "Air Groove",
-      "text": "I concur with your trainer's suggestion."
+    "40": {
+      "text": "Concuerdo con la sugerencia de tu entrenador."
     },
-    {
-      "name": "Air Groove",
-      "text": "Every time you race, you hold your real<n>self back\nin order to be more true to<n>your ideals."
+    "41": {
+      "text": "Cada vez que corres, reprimes tu verdadero\nser<n>para mantenerte fiel a tus ideales."
     },
-    {
-      "name": "Air Groove",
-      "text": "But now your successors are well on their<n>way to\nmaturity. I think, just once, you<n>should race the\nway you truly want to."
+    "42": {
+      "text": "Pero ahora tus sucesoras están en camino a la\nmadurez.<n>Creo que, solo por esta vez,\ndebes correr de la manera\nque realmente deseas."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "I <i>have</i> raced the way I wanted to. This is<n>the path\nI chose when I became the<n>Emperor."
+    "43": {
+      "text": "He <i>corrido</i> como he querido. Este es el camino\nque elegí<n>cuando me convertí en el Emperador."
     },
-    {
-      "name": "Air Groove",
-      "text": "Good grief. Why must you insist on<n>being so\nhardheaded?"
+    "44": {
+      "text": "Por favor... ¿Por qué insistes en<n>ser tan testarudo?"
     },
-    {
-      "name": "Air Groove",
-      "text": "How about this, then? Do it for us."
+    "45": {
+      "text": "¿Qué tal esto, entonces?<n>Hazlo por nosotros."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "For you?"
+    "46": {
+      "text": "¿Por ustedes?"
     },
-    {
-      "name": "Air Groove",
-      "text": "I've always wanted to see how you would<n>race if\nyou let your heart guide you."
+    "47": {
+      "text": "Siempre he querido ver cómo correrías<n>si dejaras\nque tu corazón te guiara."
     },
-    {
-      "name": "Air Groove",
-      "text": "If you let yourself be nothing more than<n>an\nUmamusume seeking a challenge."
+    "48": {
+      "text": "Si te permitieras ser nada más que<n>una Umamusume\nen busca de un desafío."
     },
-    {
-      "name": "Air Groove",
-      "text": "I believe I speak for the entire student<n>council\nwhen I say we would relish the<n>learning\nexperience."
+    "49": {
+      "text": "Creo que hablo por todo el consejo estudiantil<n>\ncuando digo que disfrutaríamos la\nexperiencia."
     },
-    {
-      "name": "Air Groove",
-      "text": "So, in your capacity as president... would<n>you\nshow us what it looks like when you<n>race as\nSymboli Rudolf?"
+    "50": {
+      "text": "Entonces, en tu papel como presidenta...<n>¿nos\nmostrarías cómo se ve cuando\ncorres como Symboli Rudolf?"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "<i>Sigh...</i> You know exactly how to pull my<n>strings,\ndon't you?"
+    "51": {
+      "text": "<i>Suspiro...</i> Sabes exactamente cómo\nmover mis cuerdas,\n¿verdad?"
     },
-    {
-      "name": "Air Groove",
-      "text": "I've been at this for a while now, you<n>know."
+    "52": {
+      "text": "He estado haciendo esto por un buen tiempo,<n>¿sabes?"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Very well. You win. If both my trainer<n>and my own\nright hand turn against me,<n>what am I to do?"
+    "53": {
+      "text": "Muy bien. Ganas tú.<n>Si tanto mi entrenador como mi mano derecha\nse ponen en mi contra,<n>¿qué puedo hacer?"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "When I race in the Arima Kinen, I will let<n>the titles\nof Emperor and President fall<n>by the wayside."
+    "54": {
+      "text": "Cuando corra en el Arima Kinen,<n>dejaré caer los títulos de<n>Emperador y Presidenta a un lado."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "As for what will come of it, I cannot say.",
-      "choice_data_list": [
-        "I can't wait!"
-      ]
+    "55": {
+      "text": "En cuanto a lo que saldrá de esto, no puedo decirlo.",
+      "choice_data_list": {
+        "0": "¡No puedo esperar!"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Heh..."
+    "56": {
+      "text": "Je..."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Me neither. It will be a learning<n>experience for\nboth of us."
+    "57": {
+      "text": "Yo tampoco. Será una experiencia<n>de aprendizaje para\nambos."
     }
-  ]
+  }
 }

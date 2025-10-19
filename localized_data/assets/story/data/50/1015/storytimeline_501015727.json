@@ -1,32 +1,26 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "T.M. Opera O",
-      "text": "Excellent!"
+  "text_block_list": {
+    "0": {
+      "text": "¡Excelente!"
     },
-    {
-      "name": "T.M. Opera O",
-      "text": "The time spent in my shining presence<n>has given\nrise to your knightly skill. Be<n>grateful!"
+    "1": {
+      "text": "El tiempo pasado en mi brillante presencia<n>ha dado\nlugar a tu habilidad caballeresca. ¡Sé<n>agradecido!"
     },
-    {
-      "name": "T.M. Opera O",
-      "text": "Now, we must return home at once to<n>prepare a\nstage! These little ones have<n>waited long enough!"
+    "2": {
+      "text": "Ahora, debemos regresar a casa de inmediato para<n>preparar un\nescenario! ¡Estos pequeños han<n>esperado lo suficiente!"
     },
-    {
-      "name": "T.M. Opera O",
-      "text": "Ah, I know! I'll prepare the best seat in<n>the house\nfor you, Trainer!",
-      "choice_data_list": [
-        "Uh, the best seat?"
-      ]
+    "3": {
+      "text": "¡Ah, lo sé! ¡Prepararé el mejor asiento en<n>la casa\npara ti, Entrenador!",
+      "choice_data_list": {
+        "0": "Eh, ¿el mejor asiento?"
+      }
     },
-    {
-      "name": "T.M. Opera O",
-      "text": "Yes, you'll be put in the center of the<n>front row!\nAs a reward for that brilliant<n>rescue, you may\nbask in my radiance to<n>your heart's content!"
+    "4": {
+      "text": "Sí, ¡serás puesto en el centro de la<n>primera fila!\nComo recompensa por ese brillante<n>rescate, puedes\ndelirte en mi radiancia a<n>tu corazón contento!"
     },
-    {
-      "name": "Monologue",
-      "text": "That couldn't have gone better!"
+    "5": {
+      "text": "¡Eso no podría haber ido mejor!"
     }
-  ]
+  }
 }

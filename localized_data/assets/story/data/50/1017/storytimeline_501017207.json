@@ -1,67 +1,54 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Umamusume A",
-      "text": "A-all right, then! I suppose I'll see you<n>on the\ntrack!"
+  "text_block_list": {
+    "0": {
+      "text": "B-bueno, entonces! ¡Supongo que te veré<n>en la\npista!"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Indeed. I trust you won't hold back."
+    "1": {
+      "text": "En efecto. Confío en que no te contengas."
     },
-    {
-      "name": "Umamusume A",
-      "text": "Right! Um... I'll be going, then!",
-      "choice_data_list": [
-        "Is she racing with you today?",
-        "Is she racing with you today?"
-      ]
+    "2": {
+      "text": "¡Correcto! Um... ¡Me voy, entonces!",
+      "choice_data_list": {
+        "0": "¿Ella está corriendo contigo hoy?",
+        "1": "¿Ella está corriendo contigo hoy?"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Indeed. She intends to attempt the<n>Classics this\nyear."
+    "3": {
+      "text": "En efecto. Ella intenta intentar los<n>Clásicos este\naño."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Her performance of late has been a sight<n>to\nbehold. And she even came to<n>personally wish me\nwell."
+    "4": {
+      "text": "Su rendimiento últimamente ha sido un<n>espectáculo\npara contemplar. E incluso vino a<n>desearme\nbien personalmente."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "When I was young, I used to greet the<n>older\nstudents in the same way."
+    "5": {
+      "text": "Cuando era joven, solía saludar a los<n>estudiantes\nmayores de la misma manera."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Back then, practicing with my elders<n>helped me\nachieve greater successes."
+    "6": {
+      "text": "En ese entonces, practicar con mis mayores<n>me ayudó\na lograr mayores éxitos."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Now that I am the elder, I hope to<n>inspire by\nexample.",
-      "choice_data_list": [
-        "Are you sure you're not getting overconfident?"
-      ]
+    "7": {
+      "text": "Ahora que soy la mayor, espero<n>inspirar por\nmedio del ejemplo.",
+      "choice_data_list": {
+        "0": "¿Estás seguro de que no estás volviéndote sobreconfiado?"
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "What, are you worried she'll catch me by<n>\nsurprise?"
+    "8": {
+      "text": "¿Qué, estás preocupado de que me tome<n>\npor sorpresa?"
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Let me ask you, Trainer—do you believe<n>I would\nunderestimate an opponent just<n>because they\nwere younger?",
-      "choice_data_list": [
-        "I don't."
-      ]
+    "9": {
+      "text": "Déjame preguntarte, Entrenador—¿crees<n>que\nsubestimaría a un oponente solo<n>porque fueran\njóvenes?",
+      "choice_data_list": {
+        "0": "No lo hago."
+      }
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Then that is all we shall say about that."
+    "10": {
+      "text": "Entonces eso es todo lo que diremos sobre eso."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Besides, it is the place of the strong to<n>teach\nbudding racers the taste of defeat.<n>I am only\ndoing my duty."
+    "11": {
+      "text": "Además, es el lugar de los fuertes<n>enseñar\na corredores en ciernes el sabor<n>de la derrota.\nSolo estoy haciendo<n>mi deber."
     },
-    {
-      "name": "Symboli Rudolf",
-      "text": "Now, I believe it's time for the Emperor<n>to get to\nwork."
+    "12": {
+      "text": "Ahora, creo que es hora de que el Emperador<n>vaya a\ntrabajar."
     }
-  ]
+  }
 }

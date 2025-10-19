@@ -1,32 +1,26 @@
 {
   "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Mejiro McQueen",
-      "text": "Thank you so much, Trainer! I shall take<n>good\ncare of these and use them to<n>decorate my room!",
-      "choice_data_list": [
-        "Won't they all take up a lot of space?"
-      ]
+  "text_block_list": {
+    "0": {
+      "text": "¡Muchas gracias, Entrenador! Me ocuparé<n>bien\nde estos y los usaré para<n>decorar mi habitación!",
+      "choice_data_list": {
+        "0": "¿No ocuparán mucho espacio todos?"
+      }
     },
-    {
-      "name": "Mejiro McQueen",
-      "text": "Oh no, these are tiny compared to the<n>ones I\nbrought from home."
+    "1": {
+      "text": "Oh no, estos son diminutos comparados con<n>los que\ntraje de casa."
     },
-    {
-      "name": "Mejiro McQueen",
-      "text": "In fact, this size would be easier to<n>snuggle up\nwith and fall asle—"
+    "2": {
+      "text": "De hecho, este tamaño sería más fácil para<n>acurrucarse\ny caer dormi—"
     },
-    {
-      "name": "Mejiro McQueen",
-      "text": "Ahem! N-never mind."
+    "3": {
+      "text": "¡Ejem! N-nada."
     },
-    {
-      "name": "Mejiro McQueen",
-      "text": "Anyway, you won these plushies for me,<n>so I shall\ntreasure them always!"
+    "4": {
+      "text": "De todos modos, ganaste estos peluches para mí,<n>así que\nlos atesoraré siempre!"
     },
-    {
-      "name": "Monologue",
-      "text": "That couldn't have gone better!"
+    "5": {
+      "text": "¡Eso no podría haber ido mejor!"
     }
-  ]
+  }
 }
