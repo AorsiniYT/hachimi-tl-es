@@ -3,20 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Maruzensky se lesiona durante el<n>entrenamiento, así\nque la llevo a la enfermería."
+      "text": "Maruzensky se lesiona durante el<n>entrenamiento,\nasí que la llevo a la enfermería."
     },
     {
       "name": "Maruzensky",
-      "text": "Uy, ay ay ay... Supongo que hasta <i>yo</i><n>puedo\ntener días malos..."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Pero tengo que volver a la pista<n>pronto. ¡Debo\nmostrarle a todos que<n>nada puede detenerme!",
-      "choice_data_list": [
-        "Vamos a tomarlo con calma y sanar.",
-        "¡En tiempos desesperados, medidas desesperadas!",
-        "¡En tiempos desesperados, medidas desesperadas!"
-      ]
+      "text": "Uy, ay ay ay... Supongo que hasta\n<i>yo</i><n>puedo tener días malos..."
     },
     {
       "name": "Maruzensky",
@@ -29,10 +20,19 @@
     },
     {
       "name": "Maruzensky",
-      "text": "¿Estás seguro? Creo que estaré como<n>nueva después de\nun poco de descanso...",
+      "text": "Pero tengo que volver a la pista<n>pronto. ¡Debo\nmostrarle a todos que<n>nada puede detenerme!",
       "choice_data_list": [
-        "Pero definitivamente no queremos empeorar la lesión.",
-        "Pero definitivamente no queremos empeorar la lesión."
+        "Vamos a tomarlo con calma y sanar.",
+        "¡En tiempos desesperados, medidas desesperadas!",
+        "¡En tiempos desesperados, medidas desesperadas!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Estás seguro? Creo que estaré como<n>nueva\ndespués de un poco de descanso...",
+      "choice_data_list": [
+        "Pero definitivamente no queremos empeorar la\nlesión.",
+        "Pero definitivamente no queremos empeorar la\nlesión."
       ]
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Para hacer feliz a Maruzensky, voy al<n>supermercado\ny le compro la panna<n>cotta que tanto\nle encanta."
+      "text": "Para hacer feliz a Maruzensky, voy\nal<n>supermercado y le compro la panna<n>cotta que\ntanto le encanta."
     },
     {
       "name": "Maruzensky",
@@ -61,7 +61,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "¡Tengo que mantenerme positiva para<n>sanar rápido!\nMi canción favorita me<n>animará al instante. ♪"
+      "text": "¡Tengo que mantenerme positiva para<n>sanar\nrápido! Mi canción favorita me<n>animará al\ninstante. ♪"
     },
     {
       "name": "Maruzensky",

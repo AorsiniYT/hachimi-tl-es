@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Le pido a Super Creek que escriba su nombre en un<n>"
+      "text": "Le pido a Super Creek que escriba su nombre en\nun<n>"
     },
     {
       "name": "Super Creek",
-      "text": "...Perdón, pero ¿podrías voltear hacia el otro<n>lado por un",
+      "text": "...Perdón, pero ¿podrías voltear hacia el\notro<n>lado por un",
       "choice_data_list": [
         "¿Qué quieres decir?"
       ]
@@ -22,7 +22,7 @@
     },
     {
       "name": "Super Creek",
-      "text": "Y supongo que he estado demasiado ocupada para<n>un cuidado adecuado de la piel",
+      "text": "Y supongo que he estado demasiado ocupada\npara<n>un cuidado adecuado de la piel",
       "choice_data_list": [
         "¿Estás bien? ¿Te duele?",
         "¿Estás bien? ¿Te duele?"
@@ -34,7 +34,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Intento revisar pero me regañan en cambio.<n>Ella empuja"
+      "text": "Intento revisar pero me regañan en cambio.<n>Ella\nempuja"
     }
   ]
 }

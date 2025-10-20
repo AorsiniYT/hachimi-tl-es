@@ -2,7 +2,7 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Estoy reuniendo algunos datos con<n>Biwa Hayahide en<n>preparación para nuestra próxima<n>carrera cuando un músculo de mi<n>brazo se contrae<n>dolorosamente."
+      "text": "Estoy reuniendo algunos datos con<n>Biwa Hayahide\nen<n>preparación para nuestra próxima<n>carrera\ncuando un músculo de mi<n>brazo se\ncontrae<n>dolorosamente."
     },
     {
       "text": "<i>Cric.</i>",
@@ -15,18 +15,18 @@
       "text": "¡¿Entrenador?!"
     },
     {
-      "text": "Biwa Hayahide luce preocupada mientras<n>me ve<n>sostener mi brazo lesionado."
+      "text": "Biwa Hayahide luce preocupada mientras<n>me\nve<n>sostener mi brazo lesionado."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¿Cuánto dolor tienes? ¿Dónde te duele?<n>¿Hay<n>hinchazón?",
+      "text": "¿Cuánto dolor tienes? ¿Dónde te\nduele?<n>¿Hay<n>hinchazón?",
       "choice_data_list": [
         "E-estoy bien..."
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¡No, no lo estás! ¿Y si es algo serio?<n>¡Necesitamos<n>que te revisen eso de inmediato!"
+      "text": "¡No, no lo estás! ¿Y si es algo\nserio?<n>¡Necesitamos<n>que te revisen eso de\ninmediato!"
     },
     {
       "text": "Ella me arrastra a la enfermería..."
@@ -41,18 +41,18 @@
     },
     {
       "name": "Doctor de Enfermería",
-      "text": "Vas a tener que descansar tu brazo y<n>mano. Si<n>empeora, incluso podrías<n>requerir cirugía.",
+      "text": "Vas a tener que descansar tu brazo y<n>mano.\nSi<n>empeora, incluso podrías<n>requerir cirugía.",
       "choice_data_list": [
         "Me siento tan mal por esto..."
       ]
     },
     {
       "name": "Doctor de Enfermería",
-      "text": "Enfriar la zona no será suficiente.<n>Deberás<n>dejar de usar tu brazo por un<n>tiempo. La buena noticia es que<n>no hay hinchazón, así que<n>no es demasiado serio."
+      "text": "Enfriar la zona no será\nsuficiente.<n>Deberás<n>dejar de usar tu brazo por\nun<n>tiempo. La buena noticia es que<n>no hay\nhinchazón, así que<n>no es demasiado serio."
     },
     {
       "name": "Doctor de Enfermería",
-      "text": "Si el dolor sigue siendo insoportable<n>después de<n>descansarlo un rato, vuelve para<n>que lo revise de nuevo, ¿vale?"
+      "text": "Si el dolor sigue siendo insoportable<n>después\nde<n>descansarlo un rato, vuelve para<n>que lo\nrevise de nuevo, ¿vale?"
     },
     {
       "name": "Biwa Hayahide",
@@ -60,11 +60,11 @@
     },
     {
       "name": "Doctor de Enfermería",
-      "text": "Jeje, ¿un poco preocupona? Tengo la<n>sensación de<n>que ya sabías desde el principio<n>que la lesión no era tan mala."
+      "text": "Jeje, ¿un poco preocupona? Tengo la<n>sensación\nde<n>que ya sabías desde el principio<n>que la\nlesión no era tan mala."
     },
     {
       "name": "Doctor de Enfermería",
-      "text": "Pero el hecho de que insistieras en<n>venir aquí<n>prueba cuánto te importa tu<n>entrenador."
+      "text": "Pero el hecho de que insistieras en<n>venir\naquí<n>prueba cuánto te importa tu<n>entrenador."
     },
     {
       "name": "Biwa Hayahide",
@@ -79,29 +79,29 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Si te sientes mejor en dos o tres<n>días, vamos a<n>un manantial termal.",
+      "text": "Si te sientes mejor en dos o tres<n>días, vamos\na<n>un manantial termal.",
       "choice_data_list": [
         "Eso es repentino... ¿Por qué?"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Porque lo menos que puedo hacer es<n>cuidarte, y<n>necesitas mucho descanso. Mejor<n>no te preocupes por mi<n>entrenamiento por al menos una<n>semana."
+      "text": "Porque lo menos que puedo hacer es<n>cuidarte,\ny<n>necesitas mucho descanso. Mejor<n>no te\npreocupes por mi<n>entrenamiento por al menos\nuna<n>semana."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Deberías solicitar tiempo libre y<n>tomar un<n>descanso. Si algo necesita<n>atenderse de inmediato, podemos<n>pedirle ayuda a<n>Tazuna."
+      "text": "Deberías solicitar tiempo libre y<n>tomar\nun<n>descanso. Si algo necesita<n>atenderse de\ninmediato, podemos<n>pedirle ayuda a<n>Tazuna."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Quiero que me contactes de inmediato<n>si tus<n>síntomas empeoran o si<n>desarrollas fiebre. Y el día que<n>vayamos al manantial<n>termal—",
+      "text": "Quiero que me contactes de inmediato<n>si\ntus<n>síntomas empeoran o si<n>desarrollas fiebre.\nY el día que<n>vayamos al manantial<n>termal—",
       "choice_data_list": [
         "Espera, yo nunca dije—"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¿Perdón? ¿Realmente crees que<n>estás en<n>posición de objetar?"
+      "text": "¿Perdón? ¿Realmente crees que<n>estás\nen<n>posición de objetar?"
     },
     {
       "text": "¡Esa mirada en sus ojos... No está<n>bromeando!"
@@ -111,17 +111,17 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Según mi investigación, el agua<n>aquí es muy<n>recomendada para aliviar<n>dolencias médicas. Debería<n>ser adecuada para<n>sanar tu lesión.",
+      "text": "Según mi investigación, el agua<n>aquí es\nmuy<n>recomendada para aliviar<n>dolencias\nmédicas. Debería<n>ser adecuada para<n>sanar tu\nlesión.",
       "choice_data_list": [
         "Suena caro..."
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No te preocupes. Resulta que este es<n>el mismo<n>lugar al que gané un viaje gratis<n>hace un tiempo. Por lo tanto,<n>podemos disfrutar estas<n>vacaciones sin costo."
+      "text": "No te preocupes. Resulta que este es<n>el\nmismo<n>lugar al que gané un viaje gratis<n>hace\nun tiempo. Por lo tanto,<n>podemos disfrutar\nestas<n>vacaciones sin costo."
     },
     {
-      "text": "Ahora que lo pienso, recuerdo que<n>ella consiguió<n>un vale para unas vacaciones en<n>manantial termal hace algún<n>tiempo..."
+      "text": "Ahora que lo pienso, recuerdo que<n>ella\nconsiguió<n>un vale para unas vacaciones\nen<n>manantial termal hace algún<n>tiempo..."
     },
     {
       "name": "Biwa Hayahide",
@@ -132,25 +132,25 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Uf... Eso estuvo genial. ¿También<n>disfrutaste tu<n>baño?",
+      "text": "Uf... Eso estuvo genial. ¿También<n>disfrutaste\ntu<n>baño?",
       "choice_data_list": [
         "Absolutamente. Toda mi tensión muscular se fue."
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Bien. Ese remojo debe haber<n>mejorado tu<n>circulación sanguínea."
+      "text": "Bien. Ese remojo debe haber<n>mejorado\ntu<n>circulación sanguínea."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Lo siguiente es la cena. Me adelanté y<n>pedí un<n>estofado para nosotros. Está<n>cargado con vitaminas B1 y B2,<n>betacaroteno, alicina—",
+      "text": "Lo siguiente es la cena. Me adelanté y<n>pedí\nun<n>estofado para nosotros. Está<n>cargado con\nvitaminas B1 y B2,<n>betacaroteno, alicina—",
       "choice_data_list": [
         "Espera, espera, espera."
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¿Hm? Oh, debería haber preguntado<n>si hay<n>alimentos que no te gusten. Me<n>aseguré de evitar las alergias<n>que me mencionaste,<n>pero...",
+      "text": "¿Hm? Oh, debería haber preguntado<n>si\nhay<n>alimentos que no te gusten. Me<n>aseguré de\nevitar las alergias<n>que me\nmencionaste,<n>pero...",
       "choice_data_list": [
         "No, no es eso. Solo quiero que te calmes un poco."
       ]
@@ -169,20 +169,20 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Siempre te preocupas por mí y<n>pones mis<n>necesidades antes que las tuyas."
+      "text": "Siempre te preocupas por mí y<n>pones\nmis<n>necesidades antes que las tuyas."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¿Por qué no me dejas preocuparme<n>por <i>ti</i> por<n>una vez?",
+      "text": "¿Por qué no me dejas preocuparme<n>por <i>ti</i>\npor<n>una vez?",
       "choice_data_list": [
-        "Sé que estás preocupada, pero tú también necesitas relajarte."
+        "Sé que estás preocupada, pero tú también necesitas\nrelajarte."
       ]
     },
     {
       "name": "Biwa Hayahide",
       "text": "Hmm...",
       "choice_data_list": [
-        "Vamos, consigamos algunas bebidas para hidratarnos."
+        "Vamos, consigamos algunas bebidas para\nhidratarnos."
       ]
     },
     {
@@ -198,17 +198,17 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Me he sentido relajada desde el<n>principio, ya<n>que estás a mi lado."
+      "text": "Me he sentido relajada desde el<n>principio,\nya<n>que estás a mi lado."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hagamos que nos traigan la cena ahora.<n>Será<n>agradable relajarnos y disfrutar<n>una comida."
+      "text": "Hagamos que nos traigan la cena\nahora.<n>Será<n>agradable relajarnos y\ndisfrutar<n>una comida."
     },
     {
-      "text": "Después de que nos traen nuestra<n>comida,<n>disfrutamos una cena deliciosa y<n>nutritiva juntos."
+      "text": "Después de que nos traen\nnuestra<n>comida,<n>disfrutamos una cena deliciosa\ny<n>nutritiva juntos."
     },
     {
-      "text": "Siento que Biwa Hayahide y yo hemos<n>formado un<n>vínculo irremplazable durante<n>este tiempo juntos."
+      "text": "Siento que Biwa Hayahide y yo hemos<n>formado\nun<n>vínculo irremplazable durante<n>este tiempo\njuntos."
     }
   ]
 }

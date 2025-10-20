@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Un día, llevo a <chrname><n>a la enfermería para un chequeo."
+      "text": "Un día, llevo a <chrname><n>a la enfermería para\nun chequeo."
     },
     {
       "name": "???",
@@ -11,21 +11,21 @@
     },
     {
       "name": "???",
-      "text": "¿Estás lastimada? ¿Enferma? ¿Estresada? Lo que<n>sea, ¡yo lo trato todo!",
+      "text": "¿Estás lastimada? ¿Enferma? ¿Estresada? Lo\nque<n>sea, ¡yo lo trato todo!",
       "choice_data_list": [
         "¡¿Quién eres?!"
       ]
     },
     {
       "name": "???",
-      "text": "Bueno, considerando que estás en la<n>enfermería de la academia, diría que soy tu<n>enfermera escolar de confianza! Sí, ¡solo tu<n>empleada escolar promedio!",
+      "text": "Bueno, considerando que estás en la<n>enfermería\nde la academia, diría que soy tu<n>enfermera\nescolar de confianza! Sí, ¡solo tu<n>empleada\nescolar promedio!",
       "choice_data_list": [
         "...¿No lo eres?"
       ]
     },
     {
       "name": "???",
-      "text": "¡Ajá! Supongo que no puedo engañarte. Me<n>imagino que debería empezar por darte mi<n>nombre."
+      "text": "¡Ajá! Supongo que no puedo engañarte. Me<n>imagino\nque debería empezar por darte mi<n>nombre."
     },
     {
       "name": "???",
@@ -33,18 +33,18 @@
     },
     {
       "name": "???",
-      "text": "Soy la (probable) salvadora de todas<n>las Umamusume, la (autoproclamada)<n>legendaria acupunturista con el toque<n>mágico..."
+      "text": "Soy la (probable) salvadora de todas<n>las\nUmamusume, la (autoproclamada)<n>legendaria\nacupunturista con el toque<n>mágico..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡La única Sasami Anshinzawa!<n>¿Ves? ¡Sin preocupaciones! ☆",
+      "text": "¡La única Sasami Anshinzawa!<n>¿Ves? ¡Sin\npreocupaciones! ☆",
       "choice_data_list": [
         "..."
       ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "...Ngh. Hay un límite de lo sospechoso que<n>uno puede ser, y esta persona lo<n>supera con creces."
+      "text": "...Ngh. Hay un límite de lo sospechoso que<n>uno\npuede ser, y esta persona lo<n>supera con creces."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -52,26 +52,26 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No importa! ¡No importa! Ya nos<n>presentamos, así que acuéstate y<n>déjame poner estas agujas a trabajar!"
+      "text": "¡No importa! ¡No importa! Ya nos<n>presentamos,\nasí que acuéstate y<n>déjame poner estas agujas a\ntrabajar!"
     },
     {
       "name": "Agnes Tachyon",
-      "text": "¿Eh? ¿Planeas inyectarme algún<n>tipo de químico? Estoy dispuesta si<n>ese es el caso... aunque parece un<n>poco abrupto."
+      "text": "¿Eh? ¿Planeas inyectarme algún<n>tipo de químico?\nEstoy dispuesta si<n>ese es el caso... aunque\nparece un<n>poco abrupto."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Jajaja! ¡No hay que asustarse! Solo<n>voy a deslizar estas extraordinarias<n>agujas precisamente en tus puntos<n>de chakra."
+      "text": "¡Jajaja! ¡No hay que asustarse! Solo<n>voy a\ndeslizar estas extraordinarias<n>agujas\nprecisamente en tus puntos<n>de chakra."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y luego voilà, presto! ¡Algo<n>indescriptible sucederá!",
+      "text": "¡Y luego voilà, presto! ¡Algo<n>indescriptible\nsucederá!",
       "choice_data_list": [
         "(Esto es indescriptiblemente sospechoso...)"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y déjame asegurarte que no hay<n>absolutamente nada sospechoso en<n>esto! ¡Nunca ha salido menos que<n>perfectamente!"
+      "text": "¡Y déjame asegurarte que no hay<n>absolutamente\nnada sospechoso en<n>esto! ¡Nunca ha salido menos\nque<n>perfectamente!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -82,11 +82,11 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No te preocupes! Esta es mi primera vez, así<n>que técnicamente, ¡nunca he fallado con un<n>paciente tampoco!"
+      "text": "¡No te preocupes! Esta es mi primera vez,\nasí<n>que técnicamente, ¡nunca he fallado con\nun<n>paciente tampoco!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y no es que no tenga experiencia! Pasé<n>diez años bajo un maestro legendario,<n>trayendo beb—digo, ¡entrenando!"
+      "text": "¡Y no es que no tenga experiencia! Pasé<n>diez\naños bajo un maestro legendario,<n>trayendo\nbeb—digo, ¡entrenando!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -97,7 +97,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "No hay forma de que hagamos esto. Tomo a<n><chrname> y me dirijo a la<n>puerta, cuando..."
+      "text": "No hay forma de que hagamos esto. Tomo\na<n><chrname> y me dirijo a la<n>puerta, cuando..."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -105,18 +105,18 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡¿Eres Agnes Tachyon, verdad?! ¡La<n>investigadora que intenta superar los<n>límites de las Umamusume en la búsqueda<n>de la velocidad ultimate!",
+      "text": "¡¿Eres Agnes Tachyon, verdad?! ¡La<n>investigadora\nque intenta superar los<n>límites de las Umamusume\nen la búsqueda<n>de la velocidad ultimate!",
       "choice_data_list": [
         "¿Has oído hablar de ella?"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¿Si he oído hablar de ella? ¡Por supuesto!<n>¡Soy una gran fan!"
+      "text": "¿Si he oído hablar de ella? ¡Por supuesto!<n>¡Soy\nuna gran fan!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Precisamente por eso estoy aquí! ¡Para<n>darte mi apoyo! ¡Déjame ayudarte!"
+      "text": "¡Precisamente por eso estoy aquí! ¡Para<n>darte mi\napoyo! ¡Déjame ayudarte!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -124,11 +124,11 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "¡Ajajá! ¡Esto parece bastante divertido!<n>¿Qué dices, Entrenador?"
+      "text": "¡Ajajá! ¡Esto parece bastante divertido!<n>¿Qué\ndices, Entrenador?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Por favor! ¡Por favor con zanahoria<n>encima! ¡Hasta te dejaré elegir qué<n>chakra activo!"
+      "text": "¡Por favor! ¡Por favor con zanahoria<n>encima!\n¡Hasta te dejaré elegir qué<n>chakra activo!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -143,15 +143,15 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Digo, ¡está del lado seguro! Eso es <i>bueno,</i><n>¿verdad? De todos modos, ¡no te<n>detengas en los detalles!"
+      "text": "Digo, ¡está del lado seguro! Eso es\n<i>bueno,</i><n>¿verdad? De todos modos, ¡no\nte<n>detengas en los detalles!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Vamos a lo bueno! ¿Qué chakra debería<n>activar? ¿Quieres un impulso a tus<n>habilidades? ¿Tu salud? ¿O quizás<n>tu <i>encanto?</i>"
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debería<n>activar?\n¿Quieres un impulso a tus<n>habilidades? ¿Tu\nsalud? ¿O quizás<n>tu <i>encanto?</i>"
     },
     {
       "name": "Monólogo",
-      "text": "Huelo peligro en el aire, pero calculo<n>que podría—y enfatizo <i>podría</i>—haber<n>una chance de obtener algo especial<n>de este tratamiento."
+      "text": "Huelo peligro en el aire, pero calculo<n>que\npodría—y enfatizo <i>podría</i>—haber<n>una chance\nde obtener algo especial<n>de este tratamiento."
     },
     {
       "name": "Monólogo",
@@ -166,11 +166,11 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. ¿Quieres que active<n>el chakra de fuerza?"
+      "text": "Ya veo, ya veo. ¿Quieres que active<n>el chakra de\nfuerza?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay vuelta atrás después!",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
       "choice_data_list": [
         "Adelante.",
         "Espera, aguarda."
@@ -178,7 +178,7 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! Hora de ubicar<n>ese chakra! ¡Ollie, ollie, oxen free!"
+      "text": "¡Muy bien, déjamelo a mí! Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -214,11 +214,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "<chrname> está rebosante<n>de tanto poder que casi es<n>irreconocible!"
+      "text": "<chrname> está rebosante<n>de tanto poder que casi\nes<n>irreconocible!"
     },
     {
       "name": "Monólogo",
-      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran salto hacia lograr nuestra meta!"
+      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
     },
     {
       "name": "Agnes Tachyon",
@@ -226,11 +226,11 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Oye, Entrenador. Ven a cargarme, ahora mismo.<n>Cancela todos mis planes de hoy. Me voy<n>a dormir. Y cuando digo dormir,<n>quiero decir dormiiir..."
+      "text": "Oye, Entrenador. Ven a cargarme, ahora\nmismo.<n>Cancela todos mis planes de hoy. Me\nvoy<n>a dormir. Y cuando digo dormir,<n>quiero\ndecir dormiiir..."
     },
     {
       "name": "Monólogo",
-      "text": "La condición de <chrname><n>se deteriora rápidamente."
+      "text": "La condición de <chrname><n>se deteriora\nrápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -242,15 +242,15 @@
     },
     {
       "name": "Monólogo",
-      "text": "Debería haber sabido que no debíamos<n>tentar a la suerte. No soy yo quien<n>sufre, pero estoy lleno de arrepentimiento."
+      "text": "Debería haber sabido que no debíamos<n>tentar a la\nsuerte. No soy yo quien<n>sufre, pero estoy lleno\nde arrepentimiento."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. ¿Quieres que active<n>el chakra de victoria?"
+      "text": "Ya veo, ya veo. ¿Quieres que active<n>el chakra de\nvictoria?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay vuelta atrás después!",
+      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
       "choice_data_list": [
         "Adelante.",
         "Espera, aguarda."
@@ -258,7 +258,7 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! Hora de ubicar<n>ese chakra! ¡Ollie, ollie, oxen free!"
+      "text": "¡Muy bien, déjamelo a mí! Hora de ubicar<n>ese\nchakra! ¡Ollie, ollie, oxen free!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -294,11 +294,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Puedo sentir una gran mejora en las<n>habilidades de\n<chrname>!"
+      "text": "Puedo sentir una gran mejora en las<n>habilidades\nde <chrname>!"
     },
     {
       "name": "Monólogo",
-      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es<n>un gran\navance para alcanzar nuestra meta!"
+      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es<n>un\ngran avance para alcanzar nuestra meta!"
     },
     {
       "name": "Agnes Tachyon",
@@ -306,7 +306,7 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Oye, entrenador. Ven a cargarme, ahora mismo.<n>Cancela\ntodos mis planes de hoy. Me voy<n>a dormir. Y\ncuando digo dormir, me refiero<n>a dormiiir..."
+      "text": "Oye, entrenador. Ven a cargarme, ahora\nmismo.<n>Cancela todos mis planes de hoy. Me\nvoy<n>a dormir. Y cuando digo dormir, me\nrefiero<n>a dormiiir..."
     },
     {
       "name": "Monólogo",
@@ -322,7 +322,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Debí saber que no era buena idea tentar a la<n>suerte. No\nsoy quien sufre, pero estoy<n>lleno de remordimientos."
+      "text": "Debí saber que no era buena idea tentar a\nla<n>suerte. No soy quien sufre, pero\nestoy<n>lleno de remordimientos."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -378,7 +378,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es<n>un gran\navance para alcanzar nuestra meta!"
+      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es<n>un\ngran avance para alcanzar nuestra meta!"
     },
     {
       "name": "Agnes Tachyon",
@@ -386,7 +386,7 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Oye, entrenador. Ven a cargarme, ahora mismo.<n>Cancela\ntodos mis planes de hoy. Me voy<n>a dormir. Y\ncuando digo dormir, me refiero<n>a dormiiir..."
+      "text": "Oye, entrenador. Ven a cargarme, ahora\nmismo.<n>Cancela todos mis planes de hoy. Me\nvoy<n>a dormir. Y cuando digo dormir, me\nrefiero<n>a dormiiir..."
     },
     {
       "name": "Monólogo",
@@ -402,7 +402,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Debí saber que no era buena idea tentar a la<n>suerte. No\nsoy quien sufre, pero estoy<n>lleno de remordimientos."
+      "text": "Debí saber que no era buena idea tentar a\nla<n>suerte. No soy quien sufre, pero\nestoy<n>lleno de remordimientos."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -458,7 +458,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es<n>un gran\navance para alcanzar nuestra meta!"
+      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es<n>un\ngran avance para alcanzar nuestra meta!"
     },
     {
       "name": "Agnes Tachyon",
@@ -466,7 +466,7 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Oye, entrenador. Ven a cargarme, ahora mismo.<n>Cancela\ntodos mis planes de hoy. Me voy<n>a dormir. Y\ncuando digo dormir, me refiero<n>a dormiiir..."
+      "text": "Oye, entrenador. Ven a cargarme, ahora\nmismo.<n>Cancela todos mis planes de hoy. Me\nvoy<n>a dormir. Y cuando digo dormir, me\nrefiero<n>a dormiiir..."
     },
     {
       "name": "Monólogo",
@@ -482,7 +482,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Debí saber que no era buena idea tentar a la<n>suerte. No\nsoy quien sufre, pero estoy<n>lleno de remordimientos."
+      "text": "Debí saber que no era buena idea tentar a\nla<n>suerte. No soy quien sufre, pero\nestoy<n>lleno de remordimientos."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -494,7 +494,7 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Oye! ¡Tú! Espero que sepas que<n>a los intrusos <i>sí</i>\nse les procesa."
+      "text": "¡Oye! ¡Tú! Espero que sepas que<n>a los intrusos\n<i>sí</i> se les procesa."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -522,7 +522,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Tengo curiosidad por saber quién es<n>realmente esta\nAnshinzawa, pero no tiene<n>sentido darle vueltas. Mejor\nolvidarse de<n>hoy y seguir adelante."
+      "text": "Tengo curiosidad por saber quién es<n>realmente\nesta Anshinzawa, pero no tiene<n>sentido darle\nvueltas. Mejor olvidarse de<n>hoy y seguir\nadelante."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -534,11 +534,11 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡¿Y bien?! No nos dejes con la intriga. Espera<n>un\nsegundo... ¿Cuánto tiempo llevo aquí?"
+      "text": "¡¿Y bien?! No nos dejes con la intriga.\nEspera<n>un segundo... ¿Cuánto tiempo llevo aquí?"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Oye! ¡Tú! Espero que sepas que<n>a los intrusos <i>sí</i>\nse les procesa."
+      "text": "¡Oye! ¡Tú! Espero que sepas que<n>a los intrusos\n<i>sí</i> se les procesa."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -554,7 +554,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "La situación da un giro inesperado antes de<n>que pueda\ntomar una decisión."
+      "text": "La situación da un giro inesperado antes de<n>que\npueda tomar una decisión."
     },
     {
       "name": "Monólogo",

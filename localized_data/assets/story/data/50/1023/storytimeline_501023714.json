@@ -2,7 +2,7 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Biwa Hayahide tiene una lesión grave, así que<n>cancelo\nel entrenamiento y voy a visitarla para<n>llevarle algunas cosas."
+      "text": "Biwa Hayahide tiene una lesión grave, así\nque<n>cancelo el entrenamiento y voy a visitarla\npara<n>llevarle algunas cosas."
     },
     {
       "name": "Doctora de Enfermería",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "<i>Jadeo... jadeo...</i> No pensé... que esta lesión<n>me...\nafectaría tanto...",
+      "text": "<i>Jadeo... jadeo...</i> No pensé... que esta\nlesión<n>me... afectaría tanto...",
       "choice_data_list": [
         "¡¿Qué estás haciendo?!",
         "¡¿Qué estás haciendo?!"
@@ -26,7 +26,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Sufrí una lesión importante de niña, así que<n>sé qué\nretroceso puede ser."
+      "text": "Sufrí una lesión importante de niña, así que<n>sé\nqué retroceso puede ser."
     },
     {
       "name": "Biwa Hayahide",
@@ -41,14 +41,14 @@
       "text": "¡Por favor, no me impidas progresar!",
       "choice_data_list": [
         "Necesitamos volver a enfermería.",
-        "Si estás tan decidida a hacer esto... ¡entonces lo haremos\ntú y yo juntas!"
+        "Si estás tan decidida a hacer esto... ¡entonces lo\nharemos tú y yo juntas!"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...Ya veo. Así que no me queda más opción que<n>quedarme\nquieta mientras todos corren adelante<n>de nuevo...",
+      "text": "...Ya veo. Así que no me queda más opción\nque<n>quedarme quieta mientras todos corren\nadelante<n>de nuevo...",
       "choice_data_list": [
-        "Si tu lesión empeora, <i>nunca</i> podrás alcanzarlos."
+        "Si tu lesión empeora, <i>nunca</i> podrás\nalcanzarlos."
       ]
     },
     {
@@ -68,7 +68,7 @@
       "text": "No, olvídalo. Haré lo que digas."
     },
     {
-      "text": "Biwa Hayahide lucha fuertemente contra<n>sus miedos de\nquedarse atrás, pero acepta<n>descansar y recuperarse."
+      "text": "Biwa Hayahide lucha fuertemente contra<n>sus\nmiedos de quedarse atrás, pero acepta<n>descansar\ny recuperarse."
     },
     {
       "name": "Biwa Hayahide",
@@ -96,22 +96,22 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ya veo... Según este ritmo cardíaco... la<n>cantidad\nde esfuerzo muscular disminuyó,<n>justo como\npredije."
+      "text": "Ya veo... Según este ritmo cardíaco...\nla<n>cantidad de esfuerzo muscular\ndisminuyó,<n>justo como predije."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "<i>Uf...</i> Bueno, eso fue productivo. Incluso<n>aprendí\ncosas no relacionadas con mis<n>cálculos.",
+      "text": "<i>Uf...</i> Bueno, eso fue productivo.\nIncluso<n>aprendí cosas no relacionadas con\nmis<n>cálculos.",
       "choice_data_list": [
         "¿Qué quieres decir?"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Me di cuenta de que tengo otras ventajas<n>además de\nmis habilidades analíticas. Tengo<n>a alguien a mi lado,\ndispuesto a repasar<n>teorías y cálculos\njuntos, todo<n>por el bien de la mejora."
+      "text": "Me di cuenta de que tengo otras ventajas<n>además\nde mis habilidades analíticas. Tengo<n>a alguien a\nmi lado, dispuesto a repasar<n>teorías y cálculos\njuntos, todo<n>por el bien de la mejora."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Lo que quiero decir es... que eres<n>increíblemente\nimportante para mí. No puedo<n>esperar para\nempezar a entrenar de nuevo."
+      "text": "Lo que quiero decir es... que\neres<n>increíblemente importante para mí. No\npuedo<n>esperar para empezar a entrenar de nuevo."
     }
   ]
 }

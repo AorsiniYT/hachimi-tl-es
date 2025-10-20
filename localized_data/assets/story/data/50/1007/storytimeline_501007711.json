@@ -11,7 +11,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "¡Ajaja! Esto es tan triste, que casi da<n>risa! Vamos,<n>yo, tienes que sonreír! No puedes<n>solo..."
+      "text": "¡Ajaja! Esto es tan triste, que casi da<n>risa!\nVamos,<n>yo, tienes que sonreír! No\npuedes<n>solo..."
     },
     {
       "name": "Gold Ship",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "¡Tienes razón! Voy a pedir una<n>revancha ahora<n>mismo!",
+      "text": "¡Tienes razón! Voy a pedir una<n>revancha\nahora<n>mismo!",
       "choice_data_list": [
         "Tal vez sea mejor esperar un poco..."
       ]
@@ -62,7 +62,7 @@
       "name": "Gold Ship",
       "text": "¡Sí! Ese es el tipo de respuesta que<n>espero de",
       "choice_data_list": [
-        "Será mejor que preparemos un horario de entrenamiento,"
+        "Será mejor que preparemos un horario de\nentrenamiento,"
       ]
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Así que hacemos una sesión de entrenamiento y<n>lluvia de ideas para un"
+      "text": "Así que hacemos una sesión de entrenamiento\ny<n>lluvia de ideas para un"
     }
   ]
 }
