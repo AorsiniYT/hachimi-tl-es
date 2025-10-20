@@ -2,15 +2,15 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monologue",
+      "name": "Monólogo",
       "text": "Oguri Cap appears to be in pain during<n>training,\nso I take her to the infirmary."
     },
     {
       "name": "Oguri Cap",
       "text": "...\"Take it easy for a few days,\" huh? I<n>thought I\ncould push through the pain,<n>but my poor\ndecision has come back to<n>bite me...",
       "choice_data_list": [
-        "So you knew you were injured.",
-        "So you knew you were injured."
+        "Así que sabías que estabas lesionada.",
+        "Así que sabías que estabas lesionada."
       ]
     },
     {
@@ -21,57 +21,57 @@
       "name": "Oguri Cap",
       "text": "I didn't want to stop running over some<n>minor\ninjury.",
       "choice_data_list": [
-        "Let's not rush things. Take it easy for now.",
-        "Then heal up quick and get running!"
+        "No apresuremos las cosas. Toma las cosas con calma por ahora.",
+        "¡Entonces cúrate rápido y vuelve a correr!"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Aren't you angry at me?",
+      "text": "¿No estás enojado conmigo?",
       "choice_data_list": [
-        "No. I understand how much you love running."
+        "No. Entiendo cuánto amas correr."
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Thanks... Yeah, running means the world<n>to me.",
+      "text": "Gracias... Sí, correr significa el mundo<n>para mí.",
       "choice_data_list": [
-        "Then you should focus on your recovery."
+        "Entonces deberías enfocarte en tu recuperación."
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Got it. I wanna get back on the track<n>soon..."
+      "text": "Entendido. Quiero volver a la pista<n>pronto..."
     },
     {
-      "name": "Monologue",
+      "name": "Monólogo",
       "text": "Erring on the side of caution, I decide to<n>give\nOguri Cap one final assignment for<n>the day—to\nrest up."
     },
     {
       "name": "Oguri Cap",
-      "text": "...Yeah, good idea."
+      "text": "...Sí, buena idea."
     },
     {
       "name": "Oguri Cap",
-      "text": "I wanna get back to running as soon as<n>possible..."
+      "text": "Quiero volver a correr lo antes<n>posible..."
     },
     {
       "name": "Oguri Cap",
-      "text": "...But wait."
+      "text": "...Pero espera."
     },
     {
       "name": "Oguri Cap",
       "text": "The doctor told me I should take it easy.<n>Hmm,\nwho am I supposed to listen to?"
     },
     {
-      "name": "Monologue",
+      "name": "Monólogo",
       "text": "My attempt at encouraging Oguri ends<n>up\nconfusing her and ultimately prolongs<n>her\nrecovery time..."
     },
     {
       "name": "Oguri Cap",
       "text": "Heal up quick? That means there's no<n>time to\nwaste. Okay—I know what to do.",
       "choice_data_list": [
-        "What's the plan?"
+        "¿Cuál es el plan?"
       ]
     },
     {
@@ -83,7 +83,7 @@
       "text": "I'm healing up quickly to get running...<n>I'm healing\nup quick to get running... I'm<n>healing up quickly,\nand I <i>will</i> get back to<n>running soon!"
     },
     {
-      "name": "Monologue",
+      "name": "Monólogo",
       "text": "This strategy seems to work wonders, as<n>the next\nday, Oguri Cap turns up to<n>training looking fit as\na fiddle."
     }
   ]
