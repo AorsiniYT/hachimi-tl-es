@@ -1,23 +1,27 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "¡Buenos días, Entrenador! ¿Estás listo para ver<n>volar?"
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Buenos días, Entrenador! ¿Estás listo para verme<n>volar?"
     },
-    "1": {
-      "text": "¡Hoy es el Kikuka Sho! ¡No más<n>practicar—esto\nes lo real! ☆",
-      "choice_data_list": {
-        "0": "¡Muéstrales lo duro que has estado trabajando!",
-        "1": "¡Muéstrales lo duro que has estado trabajando!"
-      }
+    {
+      "name": "Mayano Top Gun",
+      "text": "Today's the Kikuka Sho! No more<n>practicing—this\nis the real deal! ☆",
+      "choice_data_list": [
+        "¡Muéstrales lo duro que has estado trabajando!",
+        "¡Muéstrales lo duro que has estado trabajando!"
+      ]
     },
-    "2": {
+    {
+      "name": "Mayano Top Gun",
       "text": "¡Entendido!"
     },
     "3": {
       "text": "¡Lo único que quedará en el césped será mi<n>estela\nde vapor! ☆"
     },
-    "4": {
+    {
+      "name": "Mayano Top Gun",
       "text": "¡Robaré tu atención <i>y</i> tu corazón,<n>Entrenador! ♪"
     }
   }

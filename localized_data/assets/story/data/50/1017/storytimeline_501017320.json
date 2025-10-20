@@ -1,46 +1,53 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "Con todas las carreras de Symboli Rudolf<n>terminadas,\nahora es tan buen momento como cualquier otro<n>para reflexionar\nsobre sus logros.",
-      "choice_data_list": {
-        "0": "¡Felicitaciones por las siete coronas!"
-      }
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "With all of Symboli Rudolf's races over,<n>now is as\ngood a time as any to reflect<n>on her\nachievements.",
+      "choice_data_list": [
+        "¡Felicitaciones por las siete coronas!"
+      ]
     },
-    "1": {
+    {
+      "name": "Symboli Rudolf",
       "text": "Siete coronas..."
     },
     "2": {
       "text": "El peso sobre mi cabeza ha crecido<n>bastante\naplastante desde los días de mi<n>debut."
     },
-    "3": {
-      "text": "¡Pero si ese es el precio de la gloria<n>del Emperador,\nentonces que así sea!",
-      "choice_data_list": {
-        "0": "Nadie dudará de ti ahora.",
-        "1": "Nadie dudará de ti ahora."
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "But if that is the price of the Emperor's<n>glory,\nthen so be it!",
+      "choice_data_list": [
+        "Nadie dudará de ti ahora.",
+        "Nadie dudará de ti ahora."
+      ]
     },
-    "4": {
-      "text": "En efecto. Por eso precisamente las busqué<n>.",
-      "choice_data_list": {
-        "0": "Estoy orgulloso de ser tu entrenador."
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "En efecto. Esa es precisamente la razón por la que las busqué.",
+      "choice_data_list": [
+        "Estoy orgulloso de ser tu entrenador."
+      ]
     },
-    "5": {
+    {
+      "name": "Symboli Rudolf",
       "text": "Ja. Estás inusualmente directo hoy.",
-      "choice_data_list": {
-        "0": "Vamos, déjame celebrar.",
-        "1": "Vamos, déjame celebrar."
-      }
+      "choice_data_list": [
+        "Vamos, déjame celebrar.",
+        "Vamos, déjame celebrar."
+      ]
     },
-    "6": {
+    {
+      "name": "Symboli Rudolf",
       "text": "Quizás me una a ti."
     },
     "7": {
       "text": "Me atrevo a decir que nos hemos ganado un<n>día de\nalegría."
     },
-    "8": {
-      "text": "Aprovechemoslo al máximo, Entrenador."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Aprovechémoslo al máximo, Entrenador."
     }
   }
 }

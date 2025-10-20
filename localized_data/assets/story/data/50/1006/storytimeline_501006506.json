@@ -1,15 +1,17 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
+  "text_block_list": [
+    {
+      "name": "Monólogo",
       "text": "Un día, Oguri Cap me llama al<n>estudio de baile."
     },
-    "1": {
+    {
+      "name": "Oguri Cap",
       "text": "Viniste...",
-      "choice_data_list": {
-        "0": "¿Qué pasa?",
-        "1": "¿Qué pasa?"
-      }
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
     },
     "2": {
       "text": "Se me ocurrió algo de coreografía<n>durante mi\nlección de baile, pero no puedo<n>figurar qué hacer\npara el coro."
@@ -17,31 +19,36 @@
     "3": {
       "text": "Te mostraré lo que he ideado hasta<n>ahora, así\nque por favor dame tu opinión<n>honesta."
     },
-    "4": {
+    {
+      "name": "Oguri Cap",
       "text": "¿Cómo fue?",
-      "choice_data_list": {
-        "0": "Genial, pero le falta Oguri-ness."
-      }
+      "choice_data_list": [
+        "Genial, pero le falta Oguri-ness."
+      ]
     },
-    "5": {
-      "text": "Oguri-ness? Sí, quizás eso <i>es</i> lo que<n>falta."
+    {
+      "name": "Oguri Cap",
+      "text": "¿Oguri-ness? Sí, quizás eso <i>es</i> lo que<n>falta."
     },
-    "6": {
-      "text": "Gracias por el consejo. Así que... ¿Qué<n>piensas\nque debería hacer?",
-      "choice_data_list": {
-        "0": "¿Tienes un movimiento de baile favorito?",
-        "1": "¿Tienes un movimiento de baile favorito?"
-      }
+    {
+      "name": "Oguri Cap",
+      "text": "Thanks for the advice. So... What do you<n>think I\nshould do?",
+      "choice_data_list": [
+        "¿Tienes un movimiento de baile favorito?",
+        "¿Tienes un movimiento de baile favorito?"
+      ]
     },
-    "7": {
-      "text": "...En realidad, sí. Se llama el baile<n>del plátano."
+    {
+      "name": "Oguri Cap",
+      "text": "...En realidad, sí. Se llama el baile de la banana<n>."
     },
-    "8": {
-      "text": "Busco \"baile del plátano\" en línea, y aparece<n>un\nvideo de gente bailando en abrigos<n>de festival.",
-      "choice_data_list": {
-        "0": "¿Es esto?",
-        "1": "¿Es esto?"
-      }
+    {
+      "name": "Monólogo",
+      "text": "I search for \"banana dance\" online, and a<n>video of\npeople dancing in festival coats<n>comes up.",
+      "choice_data_list": [
+        "¿Es esto?",
+        "¿Es esto?"
+      ]
     },
     "9": {
       "text": "Sí. Hacíamos este baile en nuestros festivales<n>en\ncasa."
@@ -49,21 +56,24 @@
     "10": {
       "text": "Cada vez que los veo a todos bailando al<n>ritmo de\nla música del festival, me anima."
     },
-    "11": {
-      "text": "Puede ser un poco poco convencional para un<n>concierto\nde victoria, pero realmente me gusta este<n>baile.",
-      "choice_data_list": {
-        "0": "¿Por qué no incorporar algunos de sus elementos?"
-      }
+    {
+      "name": "Oguri Cap",
+      "text": "It might be a little unconventional for a<n>winning\nconcert, but I really like this<n>dance.",
+      "choice_data_list": [
+        "¿Por qué no incorporar algunos de sus elementos?"
+      ]
     },
-    "12": {
+    {
+      "name": "Oguri Cap",
       "text": "¡Buena idea! Okay, muéstrame ese clip<n>otra vez."
     },
-    "13": {
-      "text": "¿Qué parte te gusta? Intentaré<n>incorporarla\nen mi coreografía.",
-      "choice_data_list": {
-        "0": "Sus pasos forzados.",
-        "1": "Sus movimientos fluidos."
-      }
+    {
+      "name": "Oguri Cap",
+      "text": "Which part do you like? I'll try and<n>incorporate it\ninto my choreography.",
+      "choice_data_list": [
+        "Sus pasos forzados.",
+        "Sus movimientos fluidos."
+      ]
     },
     "14": {
       "text": "Tienes razón... Verlos moverse así<n>es súper\nenergizante."
@@ -74,11 +84,13 @@
     "16": {
       "text": "Okay, eso es perfecto. Todo lo que me queda<n>por\nhacer ahora es practicar."
     },
-    "17": {
-      "text": "Cuando Oguri Cap muestra su coreografía<n>\nperfeccionada, cautiva a todos<n>\nobservando con sus movimientos forzados."
+    {
+      "name": "Monólogo",
+      "text": "When Oguri Cap shows off her perfected<n>\nchoreography, she captivates everybody<n>\nwatching with her forceful movements."
     },
-    "18": {
-      "text": "Sí... Es difícil apartar la vista de<n>ellos."
+    {
+      "name": "Oguri Cap",
+      "text": "Sí... Es difícil apartar los ojos de<n>ellos."
     },
     "19": {
       "text": "Me gusta cómo se mueven después de golpear<n>los\ntambores taiko también. Tal vez si<n>combinamos los\ndos..."
@@ -86,8 +98,9 @@
     "20": {
       "text": "Okay, eso es perfecto. Todo lo que me queda<n>por\nhacer ahora es practicar."
     },
-    "21": {
-      "text": "Cuando Oguri Cap muestra su coreografía<n>\nperfeccionada, cautiva a todos<n>\nobservando con sus movimientos graciosos."
+    {
+      "name": "Monólogo",
+      "text": "When Oguri Cap shows off her perfected<n>\nchoreography, she captivates everybody<n>\nwatching with her graceful movements."
     }
   }
 }

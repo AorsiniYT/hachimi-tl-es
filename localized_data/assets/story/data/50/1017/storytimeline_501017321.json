@@ -1,11 +1,12 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "Con todas las carreras de Symboli Rudolf<n>terminadas,\nahora es tan buen momento como cualquier otro<n>para reflexionar\nsobre sus logros.",
-      "choice_data_list": {
-        "0": "¡Nunca soñé que reclamarías más de siete\ncoronas!"
-      }
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "With all of Symboli Rudolf's races over,<n>now is as\ngood a time as any to reflect<n>on her\nachievements.",
+      "choice_data_list": [
+        "I never dreamed you'd claim more than seven\ncrowns!"
+      ]
     },
     "1": {
       "text": "Incluso yo estoy asombrada por la magnitud<n>de lo que\nhe logrado."
@@ -16,18 +17,20 @@
     "3": {
       "text": "Gracias, Entrenador. Me has hecho<n>la\nUmamusume más rápida que jamás<n>haya existido."
     },
-    "4": {
-      "text": "Debería agradecer a mis estrellas<n>de la suerte que\nte elegí ese día... O quizás debería<n>decir que tú me elegiste.",
-      "choice_data_list": {
-        "0": "Agradece tu propio trabajo duro.",
-        "1": "Agradece tu propio trabajo duro."
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "I should thank my lucky stars that I<n>chose you that\nday... Or perhaps I should<n>say that you chose me.",
+      "choice_data_list": [
+        "Agradece tu propio esfuerzo.",
+        "Agradece tu propio esfuerzo."
+      ]
     },
-    "5": {
-      "text": "No, es gracias a—espera, veo a dónde va esto<n>.\nA este ritmo, nos estaremos<n>felicitando uno\nal otro todo el día.",
-      "choice_data_list": {
-        "0": "Buen punto..."
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "No, it is thanks to—wait, I see where this<n>is going.\nAt this rate, we will be<n>complimenting one\nanother all day.",
+      "choice_data_list": [
+        "Buen punto..."
+      ]
     },
     "6": {
       "text": "Llamémoslo empate y digamos que<n>ambos <i>fuimos</i>\nresponsables."
@@ -35,13 +38,15 @@
     "7": {
       "text": "Ahora, creo que nos hemos ganado<n>algo\ncomo una recompensa,<n>¿no crees?"
     },
-    "8": {
-      "text": "Algo digno de conmemorar<n>esta\nhazaña monumental.",
-      "choice_data_list": {
-        "0": "¿Qué podría igualar eso?"
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "Something worthy of commemorating<n>this\nmonumental feat.",
+      "choice_data_list": [
+        "¿Qué podría igualar eso?"
+      ]
     },
-    "9": {
+    {
+      "name": "Symboli Rudolf",
       "text": "¿Luchando por ideas? Bueno, la verdad sea dicha,<n>yo también."
     },
     "10": {

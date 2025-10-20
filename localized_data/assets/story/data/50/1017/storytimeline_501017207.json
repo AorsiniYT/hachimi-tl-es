@@ -4,15 +4,17 @@
     "0": {
       "text": "B-bueno, entonces! ¡Supongo que te veré<n>en la\npista!"
     },
-    "1": {
+    {
+      "name": "Symboli Rudolf",
       "text": "En efecto. Confío en que no te contengas."
     },
-    "2": {
-      "text": "¡Correcto! Um... ¡Me voy, entonces!",
-      "choice_data_list": {
-        "0": "¿Ella está corriendo contigo hoy?",
-        "1": "¿Ella está corriendo contigo hoy?"
-      }
+    {
+      "name": "Umamusume A",
+      "text": "¡Bien! Me voy, entonces!",
+      "choice_data_list": [
+        "¿Ella corre contigo hoy?",
+        "¿Ella corre contigo hoy?"
+      ]
     },
     "3": {
       "text": "En efecto. Ella intenta intentar los<n>Clásicos este\naño."
@@ -26,23 +28,26 @@
     "6": {
       "text": "En ese entonces, practicar con mis mayores<n>me ayudó\na lograr mayores éxitos."
     },
-    "7": {
-      "text": "Ahora que soy la mayor, espero<n>inspirar por\nmedio del ejemplo.",
-      "choice_data_list": {
-        "0": "¿Estás seguro de que no estás volviéndote sobreconfiado?"
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "Now that I am the elder, I hope to<n>inspire by\nexample.",
+      "choice_data_list": [
+        "¿Estás segura de que no te estás volviendo demasiado confiada?"
+      ]
     },
     "8": {
       "text": "¿Qué, estás preocupado de que me tome<n>\npor sorpresa?"
     },
-    "9": {
-      "text": "Déjame preguntarte, Entrenador—¿crees<n>que\nsubestimaría a un oponente solo<n>porque fueran\njóvenes?",
-      "choice_data_list": {
-        "0": "No lo hago."
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "Let me ask you, Trainer—do you believe<n>I would\nunderestimate an opponent just<n>because they\nwere younger?",
+      "choice_data_list": [
+        "No lo creo."
+      ]
     },
-    "10": {
-      "text": "Entonces eso es todo lo que diremos sobre eso."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Entonces eso es todo lo que diremos al respecto."
     },
     "11": {
       "text": "Además, es el lugar de los fuertes<n>enseñar\na corredores en ciernes el sabor<n>de la derrota.\nSolo estoy haciendo<n>mi deber."

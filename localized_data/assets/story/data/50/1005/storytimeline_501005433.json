@@ -1,14 +1,17 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "Fuji Kiseki asombra y cautiva al<n>público en el\nYasuda Kinen, y las expectativas<n>de sus fans por\nella continúan<n>hinchándose. Sin embargo, no\npuedo evitar sentir<n>que algo estaba mal en su<n>actuación."
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Fuji Kiseki astounds and enraptures the<n>audience\nat the Yasuda Kinen, and her<n>fans' expectations\nfor her continue to<n>swell. Yet, I can't help but feel\nthat<n>something was off about her<n>performance."
     },
-    "1": {
-      "text": "Mi inquietud crece más fuerte, y me apresuro<n>a\nencontrarla. Desafortunadamente, una preocupada\nHishi<n>Amazon me informa que Fuji Kiseki se<n>ha ido\nsin mí."
+    {
+      "name": "Monólogo",
+      "text": "My unease grows stronger, and I rush to<n>find her.\nUnfortunately, a worried Hishi<n>Amazon informs\nme that Fuji Kiseki has<n>left without me."
     },
-    "2": {
-      "text": "Nuestra próxima carrera es el otoño Tenno Sho.<n>Pero\nprimero, necesito averiguar qué está mal<n>con Fuji\nKiseki."
+    {
+      "name": "Monólogo",
+      "text": "Our next race is the autumn Tenno Sho.<n>But first, I\nneed to find out what's wrong<n>with Fuji Kiseki."
     }
   }
 }

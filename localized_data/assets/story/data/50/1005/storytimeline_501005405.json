@@ -1,14 +1,17 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "Cuando nos reunimos con la madre de Fuji\nKiseki,<n>aprendemos que, a pesar de ser una actriz\nfamosa,<n>lucha con el miedo escénico hasta<n>el día de hoy."
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "When we meet Fuji Kiseki's mother, we<n>learn that,\ndespite being a famous actor,<n>she struggles with\nstage fright to this<n>day."
     },
-    "1": {
-      "text": "Fuji Kiseki aprende algo importante<n>de las\npalabras de su madre. Se da cuenta<n>de que lo que\nnecesita para estar en el césped<n>es la voluntad de\nseguir asumiendo desafíos<n>incluso si falla."
+    {
+      "name": "Monólogo",
+      "text": "Fuji Kiseki learns something important<n>from her\nmother's words. She realizes<n>that what she needs\nto stand on the turf<n>is the will to keep taking on\nchallenges<n>even if she fails."
     },
-    "2": {
-      "text": "Gana un nuevo sentido de determinación.<n>Sé en\nmi corazón que puede superar<n>cualquier cosa que se\nproponga."
+    {
+      "name": "Monólogo",
+      "text": "She gains a new sense of determination.<n>I know in\nmy heart she can overcome<n>anything she sets her\nmind to."
     }
   }
 }

@@ -1,17 +1,21 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "El Condor Pasa muestra sus talentos y<n>hace un\ndebut exitoso."
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa shows off her talents and<n>makes a\nsuccessful debut."
     },
-    "1": {
-      "text": "Luego hace una sorprendente<n>declaración—ha\ndecidido no perseguir<n>la Classic Triple Crown en\nsu año clásico<n>. En cambio, tiene la mira puesta en<n>\nla Japan Cup."
+    {
+      "name": "Monólogo",
+      "text": "She then makes a surprising<n>declaration—she's\ndecided not to pursue<n>the Classic Triple Crown in\nher classic<n>year. Instead, she has her sights set on<n>\nthe Japan Cup."
     },
-    "2": {
-      "text": "Razona que porque su objetivo es ser<n>la\ncorredora más fuerte del mundo, no la<n>más fuerte de su\ngeneración, debe tomar un<n>camino diferente al de sus\namigos."
+    {
+      "name": "Monólogo",
+      "text": "She reasons that because her goal is to<n>be the\nworld's strongest racer, not her<n>generation's\nstrongest, she must take a<n>different path than her\nfriends."
     },
-    "3": {
-      "text": "Con su aptitud en mente, elegimos<n>el Kyodo\nNews Hai para nuestra próxima carrera.<n>Es la longitud perfecta\ny en el momento perfecto<n>, justo después de Año Nuevo."
+    {
+      "name": "Monólogo",
+      "text": "With her aptitude in mind, we choose<n>the Kyodo\nNews Hai for our next race.<n>It's the perfect length\nand at the perfect<n>time, right after New Year's."
     }
   }
 }

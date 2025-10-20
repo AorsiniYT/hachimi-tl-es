@@ -1,11 +1,13 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "La primera carrera del Classic Triple<n>Crown, el\nSatsuki Sho, está a punto de comenzar<n>cuando Fuji\nKiseki recibe de repente una<n>llamada telefónica."
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "The first race of the Classic Triple<n>Crown, the\nSatsuki Sho, is about to start<n>when Fuji Kiseki\nsuddenly gets a phone<n>call."
     },
-    "1": {
-      "text": "Contesta para encontrarse saludada con vítores<n>de\nlos residentes de su dormitorio. Ella<n>se dirige a la\ncarrera, con el corazón fortalecido<n>por su dulce sorpresa."
+    {
+      "name": "Monólogo",
+      "text": "She picks up to find herself greeted with<n>cheers\nfrom her dorm residents. She<n>heads off for the\nrace, heart bolstered<n>by their sweet surprise."
     }
   }
 }

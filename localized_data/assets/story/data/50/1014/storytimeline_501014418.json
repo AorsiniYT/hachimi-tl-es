@@ -1,17 +1,21 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "El Condor Pasa termina la carrera con<n>increíbles\nresultados."
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa finishes the race with<n>incredible\nresults."
     },
-    "1": {
-      "text": "No muestra signos de fatiga, así que<n>recomiendo\nque corra en el Derby Japonés<n>próximo."
+    {
+      "name": "Monólogo",
+      "text": "She shows no signs of fatigue, so I<n>recommend\nthat she run in the Japanese<n>Derby next."
     },
-    "2": {
-      "text": "Finalmente bendecida con una oportunidad para<n>correr\ncontra sus compañeras, El Condor<n>Pasa está más\nenérgica que nunca."
+    {
+      "name": "Monólogo",
+      "text": "Finally blessed with an opportunity to<n>race\nagainst her classmates, El Condor<n>Pasa is more\nenergetic than ever."
     },
-    "3": {
-      "text": "Y parece que el sentimiento es mutuo para<n>Special\nWeek. Ambas enfrentan la<n>carrera venidera con\ncorazones en llamas."
+    {
+      "name": "Monólogo",
+      "text": "And it seems the feeling is mutual for<n>Special\nWeek. Both of them face the<n>coming race with\nhearts ablaze."
     }
   }
 }

@@ -1,49 +1,58 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "Con su carrera debut detrás de nosotros, es hora<n>de decidir\nel próximo objetivo de Air Groove."
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "With her debut race behind us, it's time<n>to decide\non Air Groove's next goal."
     },
-    "1": {
+    {
+      "name": "Monólogo",
       "text": "La carrera más apropiada para la Emperatriz<n>sería...",
-      "choice_data_list": {
-        "0": "(¡Las Hanshin Juvenile Fillies!)"
-      }
+      "choice_data_list": [
+        "(The Hanshin Juvenile Fillies!)"
+      ]
     },
-    "2": {
-      "text": "La Umamusume que conquista las<n>Hanshin\nJuvenile Fillies es coronada como<n>la reina del año\njunior. ¿Qué carrera<n>podría ser mejor para Air\nGroove?"
+    {
+      "name": "Monólogo",
+      "text": "The Umamusume who conquers the<n>Hanshin\nJuvenile Fillies is crowned as<n>the queen of the\njunior year. What race<n>could be a better fit for Air\nGroove?"
     },
-    "3": {
-      "text": "De todos modos, me pregunto cuál es la<n>propia\nopinión de Air Groove. Salgo a buscarla y<n>pregunto."
+    {
+      "name": "Monólogo",
+      "text": "All the same, I wonder what Air Groove's<n>own\ntake is. I head out to find her and<n>ask."
     },
-    "4": {
+    {
       "name": "Miembro del Consejo Estudiantil",
-      "text": "He terminado de revisar el equipo de la academia,<n>Vicepresidenta. Aquí está la<n>lista que compilé."
+      "text": "I've finished checking the academy<n>equipment,\nVice President. Here's the<n>list I compiled."
     },
     "5": {
       "text": "Gracias. Puedes dejar las comprobaciones restantes<n>a mí."
     },
-    "6": {
-      "text": "Uf... Lo siguiente en la agenda es ordenar los<n>\ndocumentos en la oficina del consejo estudiantil.",
-      "choice_data_list": {
-        "0": "Parece que estás trabajando duro."
-      }
+    {
+      "name": "Air Groove",
+      "text": "Phew... Next on the agenda is to sort the<n>\ndocuments in the student council office.",
+      "choice_data_list": [
+        "Parece que estás trabajando duro."
+      ]
     },
-    "7": {
+    {
+      "name": "Air Groove",
       "text": "Oh, hola."
     },
-    "8": {
-      "text": "A menos que el asunto sea urgente, ¿puedes<n>dejarme en paz?\nNecesito organizar algunos<n>documentos en la oficina del consejo\nestudiantil.",
-      "choice_data_list": {
-        "0": "Te ayudaré.",
-        "1": "Te ayudaré."
-      }
+    {
+      "name": "Air Groove",
+      "text": "Unless the matter is urgent, can you<n>leave me be?\nI need to organize some<n>documents in the student\ncouncil office.",
+      "choice_data_list": [
+        "Te ayudaré.",
+        "Te ayudaré."
+      ]
     },
-    "9": {
+    {
+      "name": "Air Groove",
       "text": "¿Disculpa?"
     },
-    "10": {
-      "text": "Quiero hablar con Air Groove sobre nuestros<n>planes\nfuturos lo antes posible, así que<n>decido ayudarla\na despejar su agenda."
+    {
+      "name": "Monólogo",
+      "text": "I want to talk to Air Groove about our<n>future\nplans as soon as possible, so I<n>decide to help her\nclear her schedule."
     },
     "11": {
       "text": "¿Quieres ayudar para que termine<n>más rápido?\n...Je. Estás mejorando en<n>esto."
@@ -60,7 +69,8 @@
     "15": {
       "text": "Por supuesto que no. El momento no podría ser<n>mejor, de\nhecho."
     },
-    "16": {
+    {
+      "name": "Air Groove",
       "text": "¿Pasó algo?"
     },
     "17": {
@@ -78,23 +88,28 @@
     "21": {
       "text": "Ya veo. Creo que sé cuál podría ser el problema.<n>Saldré\nahora."
     },
-    "22": {
+    {
+      "name": "Air Groove",
       "text": "Si me disculpan..."
     },
-    "23": {
-      "text": "En un giro inesperado de los acontecimientos, me quedo<n>sola\ncon Symboli Rudolf."
+    {
+      "name": "Monólogo",
+      "text": "In an unexpected turn of events, I'm left<n>alone\nwith Symboli Rudolf."
     },
-    "24": {
-      "text": "Muy bien—¿empezamos?"
+    {
+      "name": "Symboli Rudolf",
+      "text": "Muy bien— ¿empezamos?"
     },
-    "25": {
-      "text": "Gracias al manejo notablemente<n>hábil\nde Symboli Rudolf, atravesamos lo<n>que parecía una\nmontaña de documentos<n>mucho más rápido de lo que\nesperaba."
+    {
+      "name": "Monólogo",
+      "text": "Thanks to Symboli Rudolf's remarkably<n>deft\nhandling, we get through what<n>seemed like a\nmountain of documents<n>far quicker than I\nexpected."
     },
-    "26": {
-      "text": "Tienes mis gracias. Me alegra que hayamos<n>podido\nterminar antes de que Air Groove<n>regresara.",
-      "choice_data_list": {
-        "0": "Gracias por dejarme ayudar."
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "You have my thanks. I'm glad we were<n>able to\nfinish before Air Groove<n>returned.",
+      "choice_data_list": [
+        "Gracias por dejarme ayudar."
+      ]
     },
     "27": {
       "text": "\"¿Dejar\" que ayudes, dices? Interesante.<n>Eso\ndice mucho sobre tu<n>relación."
@@ -102,7 +117,8 @@
     "28": {
       "text": "Hablando de eso... Hay algo que<n>me gustaría\npreguntarte respecto a Air<n>Groove."
     },
-    "29": {
+    {
+      "name": "Air Groove",
       "text": "(¿Presidenta?)"
     },
     "30": {
@@ -123,26 +139,32 @@
     "35": {
       "text": "La vigilas desde una<n>ventaja más cercana que\ncualquiera. Como tal, me<n>gustaría preguntarte..."
     },
-    "36": {
-      "text": "¿Está Air Groove exigiendo demasiado de sí misma?"
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Se está exigiendo demasiado?"
     },
-    "37": {
-      "text": "La consulta de Symboli Rudolf está acompañada<n>por una\nmirada intensa."
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf's query is accompanied<n>by an\nintense stare."
     },
-    "38": {
-      "text": "Bajo su mirada, recuerdo lo que Air<n>Groove dijo\ndespués de su debut..."
+    {
+      "name": "Monólogo",
+      "text": "Under her gaze, I remember what Air<n>Groove said\nafter her debut..."
     },
-    "39": {
+    {
+      "name": "Air Groove",
       "text": "Esto merece repetirse—no te relajes.<n>Y..."
     },
-    "40": {
+    {
+      "name": "Air Groove",
       "text": "Quédate conmigo, pase lo que pase."
     },
-    "41": {
+    {
+      "name": "Monólogo",
       "text": "Como su entrenador, solo hay una respuesta<n>que dar.",
-      "choice_data_list": {
-        "0": "Creo en el camino que Air Groove está recorriendo."
-      }
+      "choice_data_list": [
+        "Creo en el camino que está recorriendo."
+      ]
     },
     "43": {
       "text": "La verdadera fuerza puede mover montañas, como<n>dicen.\nTú y Air Groove son más<n>parecidos de lo que\nme imaginaba."
@@ -156,23 +178,28 @@
     "46": {
       "text": "Tal como se me indicó, regreso a mi oficina<n>para esperar\na Air Groove, solo para encontrar..."
     },
-    "47": {
-      "choice_data_list": {
-        "0": "Oh, hola— ¿cuándo llegaste aquí?",
-        "1": "Oh, hola— ¿cuándo llegaste aquí?"
-      }
+    {
+      "name": "Monólogo",
+      "text": "Just as bidden, I head back to my office<n>to wait\nfor Air Groove, only to find..."
     },
-    "48": {
-      "text": "Eso... no es importante. Deseabas<n>discutir nuestros\nplanes, ¿no es así?"
+    {
+      "name": "Air Groove",
+      "text": "...",
+      "choice_data_list": [
+        "Oh, hola— ¿cuándo llegaste aquí?",
+        "Oh, hola— ¿cuándo llegaste aquí?"
+      ]
     },
     "49": {
       "text": "Quiero enfrentarme a las Hanshin Juvenile<n>Fillies."
     },
-    "50": {
-      "text": "Me apoderaré de la victoria y seré reina del<n>año junior."
+    {
+      "name": "Air Groove",
+      "text": "Quiero enfrentar el Hanshin Juvenile<n>Fillies."
     },
-    "51": {
-      "text": "Si logro eso, entonces... las ansiedades de la<n>presidenta\nse calmarán."
+    {
+      "name": "Air Groove",
+      "text": "Me apoderaré de la victoria y seré reina del<n>año junior."
     },
     "52": {
       "text": "Si está preocupada por mí, entonces eso<n>significa que no estoy\nal nivel de mis estándares ideales<n>como la Emperatriz."
@@ -180,36 +207,48 @@
     "53": {
       "text": "Me doy cuenta de que Air Groove debe haber<n>escuchado mi\nconversación con Symboli<n>Rudolf."
     },
-    "54": {
-      "text": "Pero mirando la expresión preocupada<n>en su\ncara, siento que no es el momento<n>de indagar. Ahora\nmismo, tengo que hacer mi trabajo como<n>su entrenador.",
-      "choice_data_list": {
-        "0": "Yo también estaba pensando en las Hanshin Juvenile Fillies."
-      }
+    {
+      "name": "Monólogo",
+      "text": "I realize that Air Groove must have<n>overheard my\nconversation with Symboli<n>Rudolf."
     },
-    "55": {
+    {
+      "name": "Monólogo",
+      "text": "But looking at the troubled expression<n>on her\nface, I feel it may not be the time<n>to pry. Right\nnow, I have to do my job as<n>her trainer.",
+      "choice_data_list": [
+        "Yo también estaba pensando en el Hanshin Juvenile Fillies."
+      ]
+    },
+    {
+      "name": "Air Groove",
       "text": "Je. Parece que me entiendes<n>un poco."
     },
-    "56": {
-      "choice_data_list": {
-        "0": "¿Q-Qué pasa?",
-        "1": "¿Q-Qué pasa?"
-      }
+    {
+      "name": "Air Groove",
+      "text": "...",
+      "choice_data_list": [
+        "¿Q-Qué pasa?",
+        "¿Q-Qué pasa?"
+      ]
     },
-    "57": {
+    {
+      "name": "Air Groove",
       "text": "Me gustaría hablar sobre tu comportamiento<n>hoy."
     },
-    "58": {
-      "text": "Tú... me ayudaste, a tu manera. Supongo<n>que\nte debo mis gracias.",
-      "choice_data_list": {
-        "0": "Puedes contar conmigo en cualquier momento.",
-        "1": "Puedes contar conmigo en cualquier momento."
-      }
+    {
+      "name": "Air Groove",
+      "text": "You... helped me out, in your own way. I<n>suppose\nI owe you my thanks.",
+      "choice_data_list": [
+        "Puedes contar conmigo en cualquier momento.",
+        "Puedes contar conmigo en cualquier momento."
+      ]
     },
-    "59": {
-      "text": "Hmph. No seamos tontos ahora. Podrías<n>estar\ndándote demasiado<n>crédito."
+    {
+      "name": "Air Groove",
+      "text": "Hmph. Let's not be foolish, now. You<n>might be\ngiving yourself too much<n>credit."
     },
-    "60": {
-      "text": "¡Nuestro próximo objetivo es ganar las Hanshin<n>Juvenile\nFillies y hacer que Air Groove sea la<n>reina del\naño junior!"
+    {
+      "name": "Monólogo",
+      "text": "Our next goal is to win the Hanshin<n>Juvenile\nFillies and make Air Groove the<n>queen of the\njunior year!"
     }
   }
 }

@@ -1,8 +1,9 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "Symboli Rudolf y yo estamos de regreso<n>de un día\nfuera."
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf and I are on our way<n>back from a\nday out."
     },
     "1": {
       "text": "Es difícil creer que el día ya terminó<n>. El tiempo\nrealmente vuela cuando te<n>estás divirtiendo..."
@@ -10,27 +11,32 @@
     "2": {
       "text": "Lo pasé maravillosamente, pero eso ha<n>sido suficiente\ndiversión por un día. Debería<n>prepararme para\nla clase de mañana<n>—"
     },
-    "3": {
-      "text": "En ese momento, algo en la<n>ventana del supermercado\nllama la atención de Symboli<n>Rudolf."
+    {
+      "name": "Monólogo",
+      "text": "In that moment, something in the<n>supermarket\nwindow catches Symboli<n>Rudolf's attention."
     },
-    "4": {
+    {
+      "name": "Symboli Rudolf",
       "text": "Hm... Los pimientos rellenos suenan terriblemente<n>buenos..."
     },
-    "5": {
-      "text": "¿Te importaría esperar aquí un momento?<n>Solo voy\na comprar ingredientes para<n>el almuerzo de mañana.",
-      "choice_data_list": {
-        "0": "Puedo ayudarte."
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "Would you mind waiting here a moment?<n>I'm just\ngoing to buy ingredients for<n>tomorrow's lunch.",
+      "choice_data_list": [
+        "Puedo ayudarte."
+      ]
     },
-    "6": {
+    {
+      "name": "Symboli Rudolf",
       "text": "¿Oh? Bueno, si estás seguro, difícilmente<n>podría negarme."
     },
-    "7": {
-      "text": "Gracias por la ayuda. Puedo convertir estos<n>en un\nalmuerzo bastante nutritivo mañana.",
-      "choice_data_list": {
-        "0": "¿Siempre preparas tu propio almuerzo?",
-        "1": "¿Siempre preparas tu propio almuerzo?"
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "Thank you for the help. I can turn these<n>into quite\nthe nutritious lunch tomorrow.",
+      "choice_data_list": [
+        "¿Siempre preparas tu propio almuerzo?",
+        "¿Siempre preparas tu propio almuerzo?"
+      ]
     },
     "8": {
       "text": "Generalmente, sí. Como estudiante de la Academia Tracen,<n>es\nmi deber monitorear la comida<n>que consumo."
@@ -41,22 +47,24 @@
     "10": {
       "text": "Pero dado que la oficina del consejo estudiantil<n>duplica\ncomo lugar para buscar consejo, preferiría<n>no\nabandonarla durante el<n>período de almuerzo."
     },
-    "11": {
-      "text": "Con ese fin, trato de traer un<n>almuerzo empacado para comer\nallí siempre que puedo.",
-      "choice_data_list": {
-        "0": "¡Quiero ver qué cocinas!",
-        "1": "Eso debe ser mucho trabajo."
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "To that end, I try to bring a packed<n>lunch to eat\nthere whenever I can.",
+      "choice_data_list": [
+        "¡Quiero ver qué cocinas!",
+        "Eso debe ser mucho trabajo."
+      ]
     },
     "12": {
       "text": "¡Jaj! Qué cosa tan extraña en la que fijarse. No<n>puedo\nimaginar que sería especialmente<n>interesante de ver..."
     },
-    "13": {
-      "text": "También me daría un poco de vergüenza<n>simplemente agitar\nmi almuerzo bajo tu nariz.<n>¿Qué dices si\nte preparo uno también?",
-      "choice_data_list": {
-        "0": "¿Estás segura?",
-        "1": "¿Estás segura?"
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "I would also be a little embarrassed to<n>simply waft\nmy lunch under your nose.<n>What do you say I\nmake you one too?",
+      "choice_data_list": [
+        "¿Estás seguro?",
+        "¿Estás seguro?"
+      ]
     },
     "14": {
       "text": "Me ayudas todos los días. Solo estaría<n>devolviendo\nel favor."
@@ -70,11 +78,13 @@
     "17": {
       "text": "Hablando de eso, me lo han dicho<n>directamente,\nasí que te advierto de antemano..."
     },
-    "18": {
+    {
+      "name": "Symboli Rudolf",
       "text": "Mis almuerzos son conocidos por verse bastante<n>simples."
     },
-    "19": {
-      "text": "Varios días después, tengo la oportunidad de<n>probar la\ncocina de Symboli Rudolf por mí mismo.<n>No ganará ningún\npremio por presentación,<n>pero sabe extremadamente\nnutritivo."
+    {
+      "name": "Monólogo",
+      "text": "Several days later, I get the chance to<n>try Symboli\nRudolf's cooking for myself.<n>It won't win any\nawards for presentation,<n>but it tastes extremely\nnutritious."
     },
     "20": {
       "text": "Puede ser oneroso a veces, pero los<n>beneficios valen\nel esfuerzo."
@@ -82,18 +92,21 @@
     "21": {
       "text": "Por una cosa, tener una tarea ante mí<n>primera cosa\nen la mañana me ayuda a<n>despertar llena de\npropósito."
     },
-    "22": {
-      "text": "Contra las tentaciones del sueño, levanto<n>el\nescudo de la diligencia y la<n>espada del apetito.",
-      "choice_data_list": {
-        "0": "¿No eres una persona mañanera, eh?",
-        "1": "¿No eres una persona mañanera, eh?"
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "Against the temptations of slumber, I<n>levy the\nshield of diligence and the<n>sword of appetite.",
+      "choice_data_list": [
+        "¿No eres una persona mañanera, eh?",
+        "¿No eres una persona mañanera, eh?"
+      ]
     },
-    "23": {
+    {
+      "name": "Symboli Rudolf",
       "text": "...Ups."
     },
-    "24": {
-      "text": "Ajaja... Eres tan perceptiva como siempre,<n>veo."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ajaja... Eres tan perceptivo como siempre,<n>veo."
     },
     "25": {
       "text": "Como dedujiste correctamente, no soy<n>una madrugadora\nnatural."
@@ -104,8 +117,9 @@
     "27": {
       "text": "Naturalmente, esta es información estrictamente<n>confidencial.\nNadie por debajo<n>del nivel vicepresidencial debe saberlo."
     },
-    "28": {
-      "text": "La sonrisa de Symboli Rudolf se vuelve un poco<n>\npícara."
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf's smile turns just a little<n>\nmischievous."
     }
   }
 }

@@ -1,17 +1,21 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "A medida que el Mega Fan Fest llega,<n>Symboli Rudolf\nlidera el evento con su<n>habitual\nautoconfianza, pero su<n>actuación se ve empañada por<n>\nsupervisiones poco características."
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "As the Mega Fan Fest rolls around,<n>Symboli\nRudolf leads the event with her<n>usual\nself-confidence, but her<n>performance is marred by<n>\nuncharacteristic oversights."
     },
-    "1": {
-      "text": "Aún así, no deja que eso la desanime mientras<n>toma su\nlugar en la carrera de exhibición."
+    {
+      "name": "Monólogo",
+      "text": "Still, she doesn't let that faze her as she<n>takes her\nplace in the exhibition race."
     },
-    "2": {
-      "text": "Mientras Symboli Rudolf se acerca a la<n>línea de salida,\nla multitud se prepara para una<n>carrera digna del\nEmperador—pero su<n>actuación queda muy por debajo de sus<n>\nexpectativas."
+    {
+      "name": "Monólogo",
+      "text": "As Symboli Rudolf steps up to the<n>starting line,\nthe crowd gets ready for a<n>race worthy of the\nEmperor—but her<n>showing falls far short of their<n>\nexpectations."
     },
-    "3": {
-      "text": "Durante mucho tiempo después, las gradas<n>están llenas de\nmurmullos sobre su falta de brillo<n>en la actuación."
+    {
+      "name": "Monólogo",
+      "text": "For a long time after, the stands are<n>filled with\nmuttering about her lackluster<n>performance."
     }
   }
 }

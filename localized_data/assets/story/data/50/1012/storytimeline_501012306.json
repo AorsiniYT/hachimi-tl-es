@@ -13,30 +13,35 @@
       "name": "Fan B",
       "text": "Creo que tiene nueva mercancía<n>fuera. ¡Deberíamos\nir a echar un vistazo!"
     },
-    "3": {
-      "text": "Con dos tercios del tour Tiara bajo<n>su cinturón,\nHishi Amazon está empezando a<n>convertirse en un nombre\nfamiliar."
+    {
+      "name": "Monólogo",
+      "text": "With two-thirds of the Tiara tour under<n>her belt,\nHishi Amazon is starting to<n>become a household\nname."
     },
-    "4": {
-      "text": "¡Woo, eso fue <i>alguna</i> uno a uno todo<n>bien! Eso es\nlas Oaks para ti—todos esos<n>corredores ahí fuera eran\nmonstruos!",
-      "choice_data_list": {
-        "0": "¡Buen trabajo!"
-      }
+    {
+      "name": "Hishi Amazon",
+      "text": "Woo, that was <i>some</i> one-on-one all<n>right! That's\nthe Oaks for you—all those<n>racers out there were\nmonsters!",
+      "choice_data_list": [
+        "¡Buen trabajo!"
+      ]
     },
-    "5": {
-      "text": "Jeje, ¡gracias! ¡Pero aún no hemos terminado!"
+    {
+      "name": "Hishi Amazon",
+      "text": "Hehe, ¡gracias! Pero aún no hemos<n>terminado!"
     },
     "6": {
       "text": "Esa segunda corona definitivamente va a<n>Narita\nBrian en el Derby Japonés la próxima<n>semana. Este no es\nmomento para complacerse."
     },
-    "7": {
-      "text": "Voy a dar todo lo que tengo al Shuka Sho,<n>así que\nmejor mantente al día conmigo,<n>¡Profe!",
-      "choice_data_list": {
-        "0": "¡Lo haré!",
-        "1": "¡Lo haré!"
-      }
+    {
+      "name": "Hishi Amazon",
+      "text": "I'm gonna give the Shuka Sho everything<n>I've got,\nso you'd better keep up with<n>me, Teach!",
+      "choice_data_list": [
+        "¡Lo haré!",
+        "¡Lo haré!"
+      ]
     },
-    "8": {
-      "text": "¡Es hora de subir nuestro entrenamiento un<n>nivel para el\nShuka Sho!"
+    {
+      "name": "Monólogo",
+      "text": "It's time to kick our training up a notch<n>for the\nShuka Sho!"
     }
   }
 }

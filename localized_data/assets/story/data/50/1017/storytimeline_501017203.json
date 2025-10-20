@@ -1,7 +1,8 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
+  "text_block_list": [
+    {
+      "name": "Symboli Rudolf",
       "text": "El Derby Japonés está sobre nosotros."
     },
     "1": {
@@ -10,12 +11,13 @@
     "2": {
       "text": "Si voy a realizar mis ideales, entonces esta es<n>una carrera que\nno puedo permitirme perder."
     },
-    "3": {
+    {
+      "name": "Symboli Rudolf",
       "text": "La victoria es la única opción.",
-      "choice_data_list": {
-        "0": "Solo intenta mantener la cabeza clara.",
-        "1": "Solo intenta mantener la cabeza clara."
-      }
+      "choice_data_list": [
+        "Solo trata de mantener la cabeza clara.",
+        "Solo trata de mantener la cabeza clara."
+      ]
     },
     "5": {
       "text": "Jaja. Soy un libro abierto para ti, ¿no?<n>Tienes\nrazón, por supuesto—me estoy<n>dejando llevar un\npoco por el espíritu de la carrera."
@@ -29,15 +31,20 @@
         "0": "¿Yo?"
       }
     },
-    "8": {
-      "text": "Aspiras al título de Entrenador del Derby,<n>¿no?\nComo seguramente debe hacerlo<n>cada entrenador.",
-      "choice_data_list": {
-        "0": "Todo lo que quiero es verte coronada.",
-        "1": "Todo lo que quiero es verte coronada."
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "Y tú también.",
+      "choice_data_list": [
+        "¿Yo?"
+      ]
     },
-    "9": {
-      "text": "Ja... ¿Lo haces ahora?"
+    {
+      "name": "Symboli Rudolf",
+      "text": "You aspire to the title of Derby Trainer,<n>don't\nyou? As surely every trainer must.",
+      "choice_data_list": [
+        "Todo lo que quiero es verte coronada.",
+        "Todo lo que quiero es verte coronada."
+      ]
     },
     "10": {
       "text": "Así que si simplemente corro para realizar mis<n>propias\nambiciones, entonces las tuyas<n>vendrán naturalmente."
@@ -45,8 +52,13 @@
     "11": {
       "text": "Bueno, no necesitas hacer nada más que<n>sentarte\ny observar. Las gradas están llenas<n>de fans que\nhan venido a ver<n>sueños volar."
     },
-    "12": {
-      "text": "Deja que el Emperador les dé uno por<n>lo que\nvitorear."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Well, you need do nothing more than sit<n>back\nand watch. The stands are packed<n>with fans who\nhave come to watch<n>dreams take flight."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Deja que el Emperador les dé uno para aplaudir."
     }
   }
 }

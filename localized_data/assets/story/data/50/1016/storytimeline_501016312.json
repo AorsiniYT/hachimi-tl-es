@@ -5,8 +5,8 @@
       "name": "Caster",
       "text": "¡Un Campeón de la Triple Corona ha nacido<n>hoy!\n¡Por fin, Narita Brian lo ha<n>logrado!"
     },
-    "1": {
-      "name": "Spectators",
+    {
+      "name": "Espectadores",
       "text": "Brian! Brian! Brian! Brian!"
     },
     "2": {
@@ -16,22 +16,24 @@
       "name": "Caster",
       "text": "¡El Hipódromo de Kyoto está rugiendo con un<n>coro de\nvivas para Brian!"
     },
-    "4": {
-      "name": "Reporter A",
-      "text": "¡Solo se ha vuelto más y más fuerte<n>desde el\nDerby!"
+    {
+      "name": "Reportero A",
+      "text": "She's only gotten stronger and stronger<n>since the\nDerby!"
     },
-    "5": {
-      "name": "Photographer",
-      "text": "¡Por eso la llaman la Bestia! ...Oh,<n>hey!\n¡Mira aquí!"
+    {
+      "name": "Fotógrafo",
+      "text": "That's why they call her the Beast! ...Oh,<n>hey!\nLook over here!"
     },
-    "6": {
-      "text": "De repente, la prensa fija sus cámaras<n>en ella, pero\nla Campeona de la Triple Corona<n>no tiene quejas."
+    {
+      "name": "Monólogo",
+      "text": "All at once, the press fix their cameras<n>on her, but\nthe Triple Crown Champion<n>has no complaints."
     },
-    "7": {
-      "text": "...Trainer.",
-      "choice_data_list": {
-        "0": "¡Felicidades, Brian!"
-      }
+    {
+      "name": "Narita Brian",
+      "text": "...Entrenador.",
+      "choice_data_list": [
+        "¡Felicidades, Brian!"
+      ]
     },
     "8": {
       "text": "Sí, pero el Kikuka Sho solo<n>termina lo que\nempezamos en el<n>Satsuki Sho."
@@ -39,32 +41,39 @@
     "9": {
       "text": "Este año pasado—no, desde incluso antes de mi<n>debut,\ntú has—"
     },
-    "10": {
+    {
+      "name": "Hishi Amazon",
       "text": "¡Ahora, espera un minuto!"
     },
     "11": {
       "text": "¡Este no es momento de envolver las cosas!<n>¿Qué están\npensando ustedes dos?!"
     },
-    "12": {
+    {
+      "name": "Narita Brian",
       "text": "Oh, eres tú, Amazon."
     },
     "13": {
       "text": "¡Así es, soy yo! Ahora, ven aquí<n>un segundo,\n¿quieres?"
     },
-    "14": {
-      "text": "Hagamos una charla rápida."
+    {
+      "name": "Hishi Amazon",
+      "text": "Hablemos un poco."
     },
-    "15": {
-      "choice_data_list": {
-        "0": "Continúa.",
-        "1": "Continúa."
-      }
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "Continúa.",
+        "Continúa."
+      ]
     },
-    "16": {
+    {
+      "name": "Narita Brian",
       "text": "...Bien."
     },
-    "17": {
-      "text": "Muy bien, ¿qué es?"
+    {
+      "name": "Narita Brian",
+      "text": "Bien, ¿qué es?"
     },
     "18": {
       "text": "Así que, he dejado mi marca en la Tiara Cup<n>y tú has\nganado la Triple Corona."
@@ -81,20 +90,28 @@
     "23": {
       "text": "...Solo inténtalo. ¡Te aplastaré en polvo!"
     },
-    "24": {
-      "text": "Heh..."
+    {
+      "name": "Hishi Amazon",
+      "text": "...Solo inténtalo. ¡Te aplastaré en polvo!"
     },
-    "25": {
+    {
+      "name": "Narita Brian",
+      "text": "Je..."
+    },
+    {
+      "name": "Narita Brian",
       "text": "Entrenador. Nuestra próxima carrera es—",
-      "choice_data_list": {
-        "0": "El Arima Kinen.",
-        "1": "El Arima Kinen."
-      }
+      "choice_data_list": [
+        "El Arima Kinen.",
+        "El Arima Kinen."
+      ]
     },
-    "26": {
+    {
+      "name": "Narita Brian",
       "text": "...Así es."
     },
-    "27": {
+    {
+      "name": "Narita Brian",
       "text": "Y ahí es donde cumpliré mi promesa..."
     }
   }

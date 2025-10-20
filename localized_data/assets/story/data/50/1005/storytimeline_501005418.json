@@ -1,14 +1,17 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "Durante la conferencia de prensa antes del<n>otoño\nTenno Sho, Fuji Kiseki impresiona a la<n>multitud con\nsu prestidigitación."
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "During the press conference before the<n>autumn\nTenno Sho, Fuji Kiseki wows the<n>crowd with her\nsleight of hand."
     },
-    "1": {
-      "text": "Su sonrisa es brillante y audaz ahora que<n>ya no\nestá retenida por la ansiedad.<n>Promete darles el\nmás<n>wonderoso, entretenimiento que detiene el\ncorazón."
+    {
+      "name": "Monólogo",
+      "text": "Her smile is bright and bold now that<n>she's no\nlonger held back by anxiety.<n>She promises to give\nthem the most<n>wondrous, heart-stopping\nentertainment."
     },
-    "2": {
-      "text": "Sus ojos están fijados resueltamente en lo<n>que debe\nhacer, y camina hacia la<n>carrera con la cabeza\nen alto."
+    {
+      "name": "Monólogo",
+      "text": "Her eyes are fixed resolutely on what<n>she must\ndo, and she strides into the<n>race with her head\nheld high."
     }
   }
 }

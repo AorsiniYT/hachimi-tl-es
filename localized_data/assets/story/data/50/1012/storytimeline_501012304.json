@@ -1,32 +1,36 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "name": "Reporter A",
-      "text": "Wow, Hishi Amazon fue realmente algo<n>más. Su\ncarrera hoy fue bastante<n>excelente."
+  "text_block_list": [
+    {
+      "name": "Reportero A",
+      "text": "Wow, Hishi Amazon was truly something<n>else. Her\nrunning today was quite<n>excellent."
     },
-    "1": {
-      "name": "Reporter B",
-      "text": "¡De repente nos ha dado algo para<n>esperar\ncon ansias el próximo año!"
+    {
+      "name": "Reportero B",
+      "text": "She's suddenly given us something to<n>look\nforward to come next year!"
     },
-    "2": {
-      "text": "La impresionante<n>actuación\ncrea revuelo entre los<n>espectadores."
+    {
+      "name": "Monólogo",
+      "text": "Hishi Amazon's jaw-dropping<n>performance\ncreates a stir among the<n>spectators."
     },
-    "3": {
-      "text": "Jeje, no está mal, si lo digo yo<n>misma.",
-      "choice_data_list": {
-        "0": "¡Buen trabajo ahí fuera!"
-      }
+    {
+      "name": "Hishi Amazon",
+      "text": "Hehe, no está mal, si lo digo yo<n>misma.",
+      "choice_data_list": [
+        "¡Buen trabajo ahí fuera!"
+      ]
     },
-    "4": {
-      "text": "Justo cuando estoy a punto de sugerir que<n>descansara\nun poco merecido, una voz interrumpe<n>nuestra\nconversación."
+    {
+      "name": "Monólogo",
+      "text": "Just as I'm about to suggest she gets<n>some\nhard-earned rest, a voice cuts into<n>our\nconversation."
     },
-    "5": {
-      "name": "Miho Student A",
+    {
+      "name": "Estudiante de Miho A",
       "text": "¡Hishiama! ¡Fuiste increíble!"
     },
-    "6": {
-      "text": "¡Hey! ¿Qué están haciendo aquí<n>tan lejos?"
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Hey! ¿Qué hacen ustedes aquí tan<n>lejos?"
     },
     "7": {
       "name": "Miho Student B",
@@ -34,10 +38,12 @@
     },
     "8": {
       "name": "Miho Student B",
-      "text": "¡Nos emocionamos tanto, que tuvimos que<n>venir a\ndecírtelo!"
+      "text": "¡Nos emocionamos tanto, que tuvimos<n>que venir a
+decírtelo!"
     },
-    "9": {
-      "text": "Jeje... Así que todos me tienen los ojos<n>encima,<n>¿eh?"
+    {
+      "name": "Hishi Amazon",
+      "text": "Hehe... Así que todos me tienen los<n>ojos encima,<n>¿eh?"
     },
     "10": {
       "text": "¡Gracias por el aviso! Supongo que<n>esto significa\nno holgazanear para mí!"
@@ -45,33 +51,39 @@
     "11": {
       "text": "¡Muy bien! ¡De vuelta a la academia para<n>algo de\nentrenamiento!"
     },
-    "12": {
+    {
+      "name": "Hishi Amazon",
       "text": "¡Me voy ahora, Profe!",
-      "choice_data_list": {
-        "0": "¡¿Eh?!"
-      }
+      "choice_data_list": [
+        "¿Eh?!"
+      ]
     },
     "13": {
       "name": "Miho Students",
       "text": "¡Espera, Hishiamaaa!"
     },
-    "14": {
-      "text": "Hishi Amazon deja el Hipódromo de Hanshin<n>con\nsus residentes siguiéndola<n>atrás. No pude meter\nuna palabra para detenerlos<n>a ellos."
+    {
+      "name": "Monólogo",
+      "text": "Hishi Amazon leaves the Hanshin<n>Racecourse with\nher residents trailing<n>after her. I couldn't get a\nword in to stop<n>them."
     },
-    "15": {
-      "text": "Una vez que llegue el nuevo año, Hishi Amazon<n>finalmente\nentrará en su año clásico."
+    {
+      "name": "Monólogo",
+      "text": "Once the new year comes, Hishi Amazon<n>will\nfinally enter her classic year."
     },
-    "16": {
-      "text": "Pronto, será el momento para que ella decida<n>si\nquiere perseguir el tour Triple<n>Tiara o el\ntour Classic Triple Crown<n>."
+    {
+      "name": "Monólogo",
+      "text": "Soon, it'll be time for her to decide<n>whether she\nwants to pursue the Triple<n>Tiara tour or the\nClassic Triple Crown<n>tour."
     },
-    "17": {
-      "text": "En mi opinión, el tour Tiara es mejor<n>adecuado para\nella, considerando su aptitud<n>para carreras de milla y\nmedio fondo.<n>Sin embargo...",
-      "choice_data_list": {
-        "0": "(Me pregunto qué elegirá.)"
-      }
+    {
+      "name": "Monólogo",
+      "text": "In my opinion, the Tiara tour is better<n>suited for\nher, considering her aptitude<n>for mile and\nmedium-distance races.<n>However...",
+      "choice_data_list": [
+        "(Me pregunto qué elegirá?)"
+      ]
     },
-    "18": {
-      "text": "Le pediré que empiece a considerar sus<n>opciones, pero\npor ahora, enfocaré nuestros<n>planes de entrenamiento en la primera\ncarrera Tiara, el<n>Oka Sho."
+    {
+      "name": "Monólogo",
+      "text": "I'll ask her to start considering her<n>options, but\nfor now, I'll focus our<n>training plans on the first\nTiara race, the<n>Oka Sho."
     }
   }
 }

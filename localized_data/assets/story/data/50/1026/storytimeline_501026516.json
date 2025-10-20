@@ -7,15 +7,17 @@
     "1": {
       "text": "¡El Sweet Stamp Rally está a punto de<n>comenzar! ☆ ¡Ahora\nreclutando participantes!"
     },
-    "2": {
-      "text": "Sweet... ¿Stamp Rally?"
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Dulce... Rally de Sellos?"
     },
-    "3": {
-      "text": "¡Oh! ¡Hey, ustedes dos! ¿Quieren unirse al<n>evento?",
-      "choice_data_list": {
-        "0": "¿Qué es?",
-        "1": "¿Qué es?"
-      }
+    {
+      "name": "Ines Fujin",
+      "text": "¡Oh! ¡Hola, ustedes dos! ¿Quieren unirse al<n>evento?",
+      "choice_data_list": [
+        "¿Qué es?",
+        "¿Qué es?"
+      ]
     },
     "4": {
       "text": "¡Recoges un sello por cada postre<n>que comes\nde las diferentes tiendas en el<n>distrito comercial!"
@@ -23,7 +25,8 @@
     "5": {
       "text": "¡Si recoges todos los cincuenta sellos, puedes<n>comer un\nconfección exclusivo, completamente<n>hecho a medida!"
     },
-    "6": {
+    {
+      "name": "Mihono Bourbon",
       "text": "Completamente... hecho... a medida..."
     },
     "7": {
@@ -35,12 +38,13 @@
     "9": {
       "text": "Entrenador. El contenido calórico total de cincuenta<n>variedades\nde postres es masivo."
     },
-    "10": {
-      "text": "Sin embargo, la recompensa es atractiva...<n><i>Extremadamente</i>\natractiva. Por favor, dame<n>instrucciones.",
-      "choice_data_list": {
-        "0": "...Lo siento, pero no podemos esta vez.",
-        "1": "¡Vamos a llenarnos de postres!"
-      }
+    {
+      "name": "Mihono Bourbon",
+      "text": "However, the reward is alluring...<n><i>Extremely</i>\nalluring. Please, give me<n>instructions.",
+      "choice_data_list": [
+        "...Lo siento, pero no podemos esta vez.",
+        "¡Llenémonos de postres!"
+      ]
     },
     "11": {
       "text": "¡Oh, qué lástima! Bueno, tienes<n>algunas carreras\npróximas, así que probablemente<n>sea mejor vigilar lo que\ncomes."
@@ -51,14 +55,16 @@
     "13": {
       "text": "Para mí, tus órdenes son infalibles.<n>Por lo tanto,\nlas disculpas son innecesarias. De<n>hecho..."
     },
-    "14": {
+    {
+      "name": "Mihono Bourbon",
       "text": "Aprecio tu consideración.",
-      "choice_data_list": {
-        "0": "Bourbon..."
-      }
+      "choice_data_list": [
+        "Bourbon..."
+      ]
     },
-    "15": {
-      "text": "U-uhhh... Siento que soy la tercera rueda<n>aquí."
+    {
+      "name": "Ines Fujin",
+      "text": "U-uhhh... Me siento como la tercera rueda<n>aquí."
     },
     "16": {
       "text": "Jeje... Ustedes dos se llevan muy bien.<n>Diablos, el\npar de ustedes podría ser incluso<n>más dulce que todos estos\npostres juntos<n>!"
@@ -93,8 +99,28 @@
       "name": "Store Manager",
       "text": "Je... Jajaja, ¡entendido! Esto pondrá a<n>prueba mis\ntreinta años como pastelero."
     },
-    "25": {
-      "text": "Algunos días después, llega un pastel<n>negro como el\ncarbón que parece incluir todos los<n>ingredientes que Mihono Bourbon<n>solicitó, y ella lo termina con<n>satisfacción."
+    {
+      "name": "Ines Fujin",
+      "text": "Oh, um, you wanted a \"flawless\" dessert,<n>right?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Yes. One that includes fruits that<n>provide relief\nfrom fatigue and nutrients<n>for increasing muscle\nmass."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "I require it to include the following<n>\ningredients—apple, natto, oyster, miso,<n>\nfermented fish, and protein powder.",
+      "choice_data_list": [
+        "...¿Cómo es eso siquiera un postre?!",
+        "...¿Cómo es eso siquiera un postre?!"
+      ]
+    },
+    {
+      "name": "Store Manager",
+      "text": "Heh... Hahaha, got it! This will put my<n>thirty years\nas a pastry chef to the test!"
+    },
+    {
+      "text": "Some days later, a jet-black cake that<n>seems to\ninclude all the ingredients<n>Mihono Bourbon\nrequested arrives, and<n>she polishes it off with\nsatisfaction."
     }
   }
 }

@@ -5,17 +5,20 @@
       "name": "Cafe Lady",
       "text": "¡Gracias por esperar! ¡Aquí tienes! El<n>Especial\nEstamina Sanzoku Pollo Frito<n>Set con cinco\npiezas extra y lado de<n>cerdo con jengibre!"
     },
-    "1": {
+    {
+      "name": "Narita Brian",
       "text": "Gracias."
     },
-    "2": {
-      "text": "Encuentro a Narita Brian en la cafetería con una<n>comida\nque parece algo salido de un desafío<n>alimenticio.",
-      "choice_data_list": {
-        "0": "¿Qué pasa con ese almuerzo?!",
-        "1": "¿Qué pasa con ese almuerzo?!"
-      }
+    {
+      "name": "Monólogo",
+      "text": "I find Narita Brian in the cafeteria with a<n>meal\nresembling something out of a food<n>challenge.",
+      "choice_data_list": [
+        "¡¿Qué pasa con ese almuerzo?!",
+        "¡¿Qué pasa con ese almuerzo?!"
+      ]
     },
-    "3": {
+    {
+      "name": "Narita Brian",
       "text": "Ah... Me siento un poco mal en este momento."
     },
     "4": {
@@ -24,11 +27,13 @@
     "5": {
       "text": "Una vez que como carne, eso usualmente arregla<n>cualquier\ncosa que esté mal."
     },
-    "6": {
-      "text": "Me pregunto si esta forma salvaje de autocuidado<n>realmente\nla hará sentir mejor."
+    {
+      "name": "Monólogo",
+      "text": "I wonder if this wild form of self-care<n>really will\nmake her feel better."
     },
-    "7": {
-      "text": "Puede que quiera replantear su horario<n>de carreras..."
+    {
+      "name": "Monólogo",
+      "text": "Puede que quiera replantear su<n>horario de carreras..."
     }
   }
 }

@@ -1,7 +1,8 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
+  "text_block_list": [
+    {
+      "name": "T.M. Opera O",
       "text": "¡Excelente!"
     },
     "1": {
@@ -10,16 +11,18 @@
     "2": {
       "text": "Ahora, debemos regresar a casa de inmediato para<n>preparar un\nescenario! ¡Estos pequeños han<n>esperado lo suficiente!"
     },
-    "3": {
-      "text": "¡Ah, lo sé! ¡Prepararé el mejor asiento en<n>la casa\npara ti, Entrenador!",
-      "choice_data_list": {
-        "0": "Eh, ¿el mejor asiento?"
-      }
+    {
+      "name": "T.M. Opera O",
+      "text": "Ah, I know! I'll prepare the best seat in<n>the house\nfor you, Trainer!",
+      "choice_data_list": [
+        "Eh, ¿el mejor asiento?"
+      ]
     },
     "4": {
       "text": "Sí, ¡serás puesto en el centro de la<n>primera fila!\nComo recompensa por ese brillante<n>rescate, puedes\ndelirte en mi radiancia a<n>tu corazón contento!"
     },
-    "5": {
+    {
+      "name": "Monólogo",
       "text": "¡Eso no podría haber ido mejor!"
     }
   }

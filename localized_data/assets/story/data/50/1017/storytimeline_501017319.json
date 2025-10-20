@@ -1,28 +1,33 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "Con todas las carreras de Symboli Rudolf<n>terminadas,\nahora es tan buen momento como cualquier otro<n>para reflexionar\nsobre sus logros."
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "With all of Symboli Rudolf's races over,<n>now is as\ngood a time as any to reflect<n>on her\nachievements."
     },
-    "1": {
-      "text": "Juzgando puramente por el número<n>de reconocimientos,\nmi registro no es tan incontestable<n>como podría haber\nesperado.",
-      "choice_data_list": {
-        "0": "Pero todos aún saben que eres el Emperador."
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "Judging purely by number of accolades,<n>my\nrecord is not as incontestable as I<n>might have\nhoped.",
+      "choice_data_list": [
+        "Pero todos aún saben que eres el Emperador."
+      ]
     },
-    "2": {
-      "text": "Eso... es amable de tu parte."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Eso... es amable de tu parte decirlo."
     },
     "3": {
       "text": "Si he logrado tanto, puedo llamar<n>a\nmi campaña imperial un éxito."
     },
-    "4": {
-      "text": "Estas victorias me impulsarán a perseguir<n>aún\nmayores hazañas.",
-      "choice_data_list": {
-        "0": "Lo hiciste bien."
-      }
+    {
+      "name": "Symboli Rudolf",
+      "text": "These victories will fuel me to pursue<n>even\ngreater feats.",
+      "choice_data_list": [
+        "Lo hiciste bien."
+      ]
     },
-    "5": {
+    {
+      "name": "Symboli Rudolf",
       "text": "Como tú, Entrenador. Gracias."
     }
   }

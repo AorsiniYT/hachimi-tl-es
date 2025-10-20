@@ -1,14 +1,17 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "Incluso solo el anuncio de la carrera<n>debut de Symboli Rudolf\nha causado bastante revuelo<n>en el mundo de las carreras,\npero ella misma<n>parece imperturbable por la\natención."
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Even just the announcement of Symboli<n>Rudolf's\ndebut race has caused quite a<n>stir in the racing\nworld, but she herself<n>seems unfazed by the\nattention."
     },
-    "1": {
-      "text": "Me ha dicho sus objetivos: primero reclamar<n>la\nTriple Corona Clásica, luego<n>consolidar su estatus como\nel verdadero Emperador<n>con más honores."
+    {
+      "name": "Monólogo",
+      "text": "She has told me her objectives: first to<n>claim the\nClassic Triple Crown, then to<n>cement her status as\nthe true Emperor<n>with further accolades."
     },
-    "2": {
-      "text": "Juntos, nos embarcamos para realizar su<n>visión: un mundo\nen el que todas las Umamusume<n>puedan vivir en felicidad!"
+    {
+      "name": "Monólogo",
+      "text": "Together, we set out to realize her<n>vision: a world\nin which all Umamusume<n>can live in bliss!"
     }
   }
 }

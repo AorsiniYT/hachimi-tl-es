@@ -1,8 +1,9 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "¡¿Eh?! ¡¿Qué estoy haciendo aquí?!"
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Eh?! ¿Qué estoy haciendo aquí?!"
     },
     "1": {
       "text": "Hmm... Bueno, pensar en ello no me<n>lleva\na ningún lado."
@@ -10,7 +11,8 @@
     "2": {
       "text": "...¡Oh!"
     },
-    "3": {
+    {
+      "name": "Taiki Shuttle",
       "text": "¡Hola, Tres Diosas!"
     }
   }

@@ -1,14 +1,16 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
       "text": "¡Ha llegado! ¡Finalmente ha llegado! ¡El Arima<n>Kinen!"
     },
     "1": {
       "text": "¡Muy bien! Asegúrate de mantener tus ojos<n>en mí,\nEntrenador. En esta carrera, yo—"
     },
-    "2": {
-      "text": "¡Espera! ¿Esos dos...?"
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Espera! ¿Esos dos son..."
     },
     "3": {
       "text": "¡Hey! Parece que nos enfrentamos de nuevo este<n>año.\n¿Estás listo para comer mi polvo?"
@@ -22,41 +24,51 @@
     "7": {
       "text": "<i>Suspiro...</i> Ahorra tu aliento."
     },
-    "8": {
-      "text": "Deberías conocerme lo suficiente para<n>ahora. Si es una\npelea conmigo lo que deseas..."
+    {
+      "name": "Narita Brian",
+      "text": "<i>Suspiro...</i> Ahorra tu aliento."
     },
     "9": {
       "text": "Hazlo en la pista, no con tus palabras."
     },
-    "10": {
-      "text": "...Ya veo."
+    {
+      "name": "Narita Brian",
+      "text": "Hazlo en la pista, no con tus palabras."
     },
-    "11": {
+    {
+      "name": "Hishi Amazon",
+      "text": "...Entiendo."
+    },
+    {
+      "name": "Hishi Amazon",
       "text": "Entonces vamos—tú y yo. En el Arima<n>Kinen."
     },
-    "12": {
+    {
+      "name": "Narita Brian",
       "text": "Je... Tienes una mirada bastante<n>en tus ojos."
     },
-    "13": {
-      "text": "Mayano Top Gun está mirando fijamente al<n>campeón de la Triple\nCorona Narita Brian y a la<n>\"Reina de las\nAmazonas\" Hishi Amazon."
+    {
+      "name": "Monólogo",
+      "text": "Mayano Top Gun is staring at Triple<n>Crown\nchampion Narita Brian and the<n>\"Queen of the\nAmazons\" Hishi Amazon."
     },
-    "14": {
-      "choice_data_list": {
-        "0": "¿Mayano?"
-      }
+    {
+      "name": "Mayano Top Gun",
+      "text": "...",
+      "choice_data_list": [
+        "¿Mayano?"
+      ]
     },
-    "15": {
+    {
+      "name": "Mayano Top Gun",
       "text": "¿¡Eh?!"
     },
-    "16": {
+    {
+      "name": "Mayano Top Gun",
       "text": "¡Lo siento, Entrenador! ¡Me distraje un poco ahí!",
-      "choice_data_list": {
-        "0": "Seguro que dejan una impresión, ¿no?",
-        "1": "Seguro que dejan una impresión, ¿no?"
-      }
-    },
-    "17": {
-      "text": "¡Hey, para! ¡No puedes decir eso! ¡No<n>voy a\nperder!"
+      "choice_data_list": [
+        "Seguro que dejan una impresión, ¿no?",
+        "Seguro que dejan una impresión, ¿no?"
+      ]
     },
     "18": {
       "text": "¡No se te permite mirar a nadie<n>más que a mí\ndurante la carrera! ¿Entendido?"

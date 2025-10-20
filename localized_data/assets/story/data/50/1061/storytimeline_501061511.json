@@ -1,20 +1,28 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "Mientras discuto el horario de entrenamiento<n>del día con\nKing Halo, un ruido repentino<n>me interrumpe."
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "As I'm discussing the day's training<n>schedule with\nKing Halo, a sudden noise<n>interrupts me."
     },
-    "2": {
+    {
+      "name": "King Halo",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
       "text": "<i>Thunk!</i>"
     },
-    "3": {
-      "text": "¡OUCH!!! Diablos, eso dolió!"
+    {
+      "name": "King Halo",
+      "text": "¡OUCH!!! ¡Caray, eso dolió!"
     },
-    "4": {
-      "text": "Habiendo golpeado su propia cabeza en el<n>escritorio, King\nHalo parece enojada consigo<n>misma.",
-      "choice_data_list": {
-        "0": "Dozing off?"
-      }
+    {
+      "name": "Monólogo",
+      "text": "Having banged her own head on the<n>desk, King\nHalo appears angry at<n>herself.",
+      "choice_data_list": [
+        "¿Dormitando?"
+      ]
     },
     "5": {
       "text": "¡P-por supuesto que no! Solo estaba practicando<n>\n¡cabezazos!"
@@ -22,18 +30,21 @@
     "6": {
       "text": "De todos modos, necesitamos enfocarnos en<n>el plan de\nentrenamiento de hoy!"
     },
-    "7": {
-      "text": "...Entonces, ¿dónde estábamos de nuevo?"
+    {
+      "name": "King Halo",
+      "text": "...Entonces, ¿dónde estábamos?"
     },
-    "8": {
-      "text": "Lo sabía. Se quedó dormida en medio de<n>nuestra\nconversación.",
-      "choice_data_list": {
-        "0": "Pareces bastante cansado.",
-        "1": "Pareces bastante cansado."
-      }
+    {
+      "name": "Monólogo",
+      "text": "I knew it. She fell asleep in the middle of<n>our\nconversation.",
+      "choice_data_list": [
+        "Pareces bastante cansado.",
+        "Pareces bastante cansado."
+      ]
     },
-    "9": {
-      "text": "Dios, no hay necesidad de tu preocupación."
+    {
+      "name": "King Halo",
+      "text": "Caray, no hay necesidad de tu preocupación."
     },
     "10": {
       "text": "Bueno, <i>sí</i> agregué un poco de entrenamiento<n>personal a\nmi horario..."
@@ -50,23 +61,26 @@
     "14": {
       "text": "¡Adiós al yo antiguo, hola al<n>nuevo yo!\n¡La victoria me está llamando!"
     },
-    "15": {
-      "text": "Ahora, ¿qué tipo de entrenamiento será<n>hoy? ¡Vamos\na repasarlo una vez más!",
-      "choice_data_list": {
-        "0": "El plan de hoy es tomar una siesta en la hierba.",
-        "1": "Estamos haciendo un entrenamiento ligero hoy."
-      }
+    {
+      "name": "King Halo",
+      "text": "Now, what kind of training will it be<n>today? Let's\ngo over it one more time!",
+      "choice_data_list": [
+        "El plan de hoy es tomar una siesta en el césped.",
+        "Estamos haciendo un entrenamiento ligero hoy."
+      ]
     },
-    "16": {
-      "text": "¿Disculpe? Creo que le dije que este<n>nivel de\nfatiga no es problema en absoluto.",
-      "choice_data_list": {
-        "0": "Shh, solo ven conmigo por un minuto."
-      }
+    {
+      "name": "King Halo",
+      "text": "Excuse me? I believe I told you that this<n>level of\nfatigue is no problem at all.",
+      "choice_data_list": [
+        "Shh, solo ven conmigo por un minuto."
+      ]
     },
     "17": {
       "text": "¡Oh, vamos! ¡Ya me he preparado<n>para\nempezar a correr!"
     },
-    "18": {
+    {
+      "name": "King Halo",
       "text": "¿Quieres que me acueste aquí y tome<n>una siesta?"
     },
     "19": {
@@ -81,8 +95,9 @@
     "22": {
       "text": "<i>Zzz... Zzz...</i>"
     },
-    "23": {
-      "text": "Ah!"
+    {
+      "name": "King Halo",
+      "text": "¡Ah!"
     },
     "25": {
       "text": "¡N-no estaba durmiendo, sabes! Solo<n>estaba relajándome!\n¡Durante un período extendido de<n>tiempo!"
@@ -93,8 +108,9 @@
     "27": {
       "text": "Después de su sueño profundo, King Halo<n>está rebosante\nde energía y motivación."
     },
-    "28": {
-      "text": "¿¡Qué?! ¿No acabo de decir que solo<n>los de segunda clase\nse rinden tan pronto?!"
+    {
+      "name": "Monólogo",
+      "text": "Following her deep sleep, King Halo is<n>brimming\nwith energy and motivation."
     },
     "29": {
       "text": "¡Ser de primera clase significa nunca rendirse!<n>Significa\navanzar incluso cuando las<n>cosas se ponen difíciles!",
@@ -108,12 +124,13 @@
     "31": {
       "text": "<i>Pant... pant...</i>"
     },
-    "32": {
-      "text": "Esto debería sentirse... mucho menos<n>agotador...<n>que de costumbre...\npero mi cuerpo no se mueve...",
-      "choice_data_list": {
-        "0": "Esto está justo bien, considerando lo cansado que estás.",
-        "1": "Esto está justo bien, considerando lo cansado que estás."
-      }
+    {
+      "name": "King Halo",
+      "text": "This should feel... far less strenuous...<n>than usual...\nbut my body won't move...",
+      "choice_data_list": [
+        "Esto está justo bien, considerando lo cansado que estás.",
+        "Esto está justo bien, considerando lo cansado que estás."
+      ]
     },
     "33": {
       "text": "Ugh!"
@@ -124,21 +141,25 @@
     "35": {
       "text": "¡Esto fue una prueba! ¡Así es, una prueba!<n>Para\nasegurarme de que no dejarás que tu<n>aprendiz se comporte imprudentemente!"
     },
-    "36": {
-      "text": "Me asignaste un entrenamiento que<n>era apropiado\npara mi condición... Una<n>respuesta bastante\nbuena. ¡Te presento con una<n>calificación aprobatoria!",
-      "choice_data_list": {
-        "0": "Me alegro de haber aprobado.",
-        "1": "Me alegro de haber aprobado."
-      }
+    {
+      "name": "King Halo",
+      "text": "You assigned me training that was<n>appropriate\nfor my condition... Quite a<n>fine response. I\npresent you with a<n>passing grade!",
+      "choice_data_list": [
+        "Me alegro de haber aprobado.",
+        "Me alegro de haber aprobado."
+      ]
     },
-    "37": {
-      "text": "¡Ohohoho! ¡Y con eso, terminé por<n>el día!"
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! Y con eso, terminé por<n>el día!"
     },
-    "38": {
-      "text": "...Uf. Estoy bastante lista para un descanso..."
+    {
+      "name": "King Halo",
+      "text": "...Uf. Estoy bastante listo para un descanso..."
     },
-    "39": {
-      "text": "Esta dosis ligera de entrenamiento resultó<n>ser más que\nsuficiente para King Halo hoy."
+    {
+      "name": "Monólogo",
+      "text": "This light dose of training proved to be<n>more than\nenough for King Halo today."
     }
   }
 }

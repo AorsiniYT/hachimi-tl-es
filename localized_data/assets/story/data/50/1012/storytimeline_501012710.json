@@ -1,15 +1,17 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
+  "text_block_list": [
+    {
+      "name": "Hishi Amazon",
       "text": "¡Gaaah! ¡Maldición, perdí! ¡No tuve<n>oportunidad!"
     },
-    "1": {
-      "text": "Eso fue una competencia real... Supongo<n>que\nesto significa que mis oponentes eran mucho<n>más fuertes que yo!",
-      "choice_data_list": {
-        "0": "¡Ganarás la próxima vez!",
-        "1": "¡Hagamos más entrenamiento!"
-      }
+    {
+      "name": "Hishi Amazon",
+      "text": "That was some real competition... Guess<n>this\nmeans my opponents were a lot<n>stronger than me!",
+      "choice_data_list": [
+        "¡Ganarás la próxima vez!",
+        "¡Hagamos más entrenamiento!"
+      ]
     },
     "2": {
       "text": "Sí, lo sé! ¡Detenerse ahora simplemente no<n>se siente\nbien!"
@@ -26,8 +28,9 @@
     "6": {
       "text": "¡Va sin decir! ¡No voy a dejar que<n>ellos me\nempujen para siempre!"
     },
-    "7": {
-      "text": "¡Mis piernas no conocen límites! ¡Voy a entrenar<n>hasta caer!"
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Mis piernas no conocen límites!<n>Voy a entrenar hasta caer!"
     },
     "8": {
       "text": "No planeo aflojar—todos en<n>esa pista\nvan a recibir una paliza!"

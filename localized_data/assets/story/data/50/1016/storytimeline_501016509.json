@@ -4,27 +4,32 @@
     "0": {
       "text": "<i>Huff... Puff...</i>"
     },
-    "1": {
-      "text": "...Tch. Patético. Esa fue una carrera tan<n>perezosa...",
-      "choice_data_list": {
-        "0": "¿Todo bien?",
-        "1": "¿Todo bien?"
-      }
+    {
+      "name": "Narita Brian",
+      "text": "...Tch. Patético. Esa fue una carrera tan<n>torpe...",
+      "choice_data_list": [
+        "¿Todo bien?",
+        "¿Todo bien?"
+      ]
     },
-    "2": {
-      "text": "¡Estoy bien! ¡Solo preocúpate por tu propio<n>trabajo!"
+    {
+      "name": "Narita Brian",
+      "text": "¡Estoy bien! ¡Tú preocúpate por tu propio<n>trabajo!"
     },
     "3": {
       "text": "Maldición, ¡soy tan débil! ¡Débil! No debería estar<n>cansada\nya."
     },
-    "4": {
+    {
+      "name": "Narita Brian",
       "text": "Corre más fuerte... más fuerte. ¡Tengo que correr<n>más fuerte!"
     },
-    "5": {
-      "text": "Incapaz de obtener resultados debido a la fatiga,<n>Narita Brian\nse ha vuelto más impaciente<n>y irritada de lo\nhabitual... Esto no es bueno."
+    {
+      "name": "Monólogo",
+      "text": "Unable to get results due to fatigue,<n>Narita Brian\nhas become more impatient<n>and irritated than\nusual... This isn't good."
     },
-    "6": {
-      "text": "No deberíamos presionarla más. Probablemente debería<n>\nreplantear su horario de carreras..."
+    {
+      "name": "Monólogo",
+      "text": "We shouldn't push it any harder. I should<n>\nprobably rethink her race schedule..."
     }
   }
 }

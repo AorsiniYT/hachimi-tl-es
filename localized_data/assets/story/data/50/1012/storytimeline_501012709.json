@@ -1,7 +1,8 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
+  "text_block_list": [
+    {
+      "name": "Hishi Amazon",
       "text": "¡Gahhh! ¡Esto apesta! ¡Pensé que lo tenía!"
     },
     "1": {
@@ -10,21 +11,23 @@
     "2": {
       "text": "¡Se siente genial correr contra tales<n>formidables\noponentes! Mi cola aún<n>tiembla con\nadrenalina!"
     },
-    "3": {
-      "text": "Claramente estaba fuera de mi alcance, lo<n>que apesta, pero\nfue una batalla para recordar.",
-      "choice_data_list": {
-        "0": "Estuviste cerca.",
-        "1": "¡Seguro que tienes la próxima!"
-      }
+    {
+      "name": "Hishi Amazon",
+      "text": "I was clearly out of my depth, which<n>sucks, but it\nwas a battle to remember.",
+      "choice_data_list": [
+        "Estuviste cerca.",
+        "¡Seguro que tienes la próxima!"
+      ]
     },
     "4": {
       "text": "Pensé que tenía en mí para salir adelante,<n>pero eso\nfue solo pensamiento ingenuo. Ahora<n>que ha llegado a esto,\nhay solo una<n>cosa que puedo hacer..."
     },
-    "5": {
-      "text": "¡Y eso es mover mi cuerpo como si no<n>hubiera\nmañana! ¡Hora de hacer algo de correr<n>para aclarar mi\nmente!",
-      "choice_data_list": {
-        "0": "¡Pero acabas de terminar una carrera!"
-      }
+    {
+      "name": "Hishi Amazon",
+      "text": "And that's to move my body like there's<n>no\ntomorrow! Time to do some running<n>to clear my\nmind!",
+      "choice_data_list": [
+        "¡Pero acabas de terminar una carrera!"
+      ]
     },
     "6": {
       "text": "Sí, así que ahora tengo que hacer una carrera post-carrera!<n>Hora de\nreservar todo el camino a casa!<n>¡Raaaah!"
@@ -35,12 +38,13 @@
     "8": {
       "text": "Va sin decir que nunca me rendiré,<n>no\nimporta cuán buenos sean mis oponentes<n>!"
     },
-    "9": {
-      "text": "¡Cada segundo que no estoy comiendo o durmiendo,<n>estoy\ngonna estar entrenando! O y'know qué?<n>¡Olvida\ndormir también!",
-      "choice_data_list": {
-        "0": "¡No puedes simplemente <i>no</i> dormir!",
-        "1": "¡No puedes simplemente <i>no</i> dormir!"
-      }
+    {
+      "name": "Hishi Amazon",
+      "text": "Every second I'm not eating or sleeping,<n>I'm\ngonna be training! Or y'know what?<n>Forget\nsleeping too!",
+      "choice_data_list": [
+        "¡No puedes simplemente <i>no</i> dormir!",
+        "¡No puedes simplemente <i>no</i> dormir!"
+      ]
     },
     "10": {
       "text": "Sí, lo que sea! Solo digo que eso es<n>cuán lejos estoy\ndispuesta a ir! Tengo que seguir<n>entrenando para asegurar la\npróxima victoria!"

@@ -10,32 +10,35 @@
     "2": {
       "text": "Análisis situacional basado en la persona,<n>la\nubicación y otros factores. Examinando todas<n>las\nposibilidades..."
     },
-    "3": {
+    {
+      "name": "Mihono Bourbon",
       "text": "...Procesamiento completo. Veredicto—mi cara<n>es aterradora.",
-      "choice_data_list": {
-        "0": "¿Tu cara?"
-      }
+      "choice_data_list": [
+        "¿Tu cara?"
+      ]
     },
-    "4": {
+    {
+      "name": "Mihono Bourbon",
       "text": "Oh, Entrenador. No te noté ahí."
     },
     "5": {
       "text": "Sí, mi cara. Estaba caminando por el<n>distrito comercial\nantes, y un bebé<n>comenzó a llorar después de que nuestros\nojos se encontraron."
     },
-    "6": {
-      "text": "Basado en las circunstancias, he llegado<n>a la\nconclusión de que tengo una \"cara<n>aterradora.\"",
-      "choice_data_list": {
-        "0": "No es aterradora en absoluto."
-      }
+    {
+      "name": "Mihono Bourbon",
+      "text": "Based on the circumstances, I have come<n>to the\nconclusion that I have a \"scary<n>face.\"",
+      "choice_data_list": [
+        "No es aterradora en absoluto."
+      ]
     },
     "7": {
       "text": "¿Es eso cierto? No puedo identificar otras<n>explicaciones."
     },
-    "8": {
-      "text": "No parece que sus sentimientos estén heridos<n>por el\nllanto del bebé, pero sí parece<n>que le está pesando en\nla mente.",
-      "choice_data_list": {
-        "0": "El bebé probablemente solo estaba de mal humor."
-      }
+    {
+      "text": "It doesn't look like her feelings are hurt<n>from the\nbaby crying, but it does look<n>like it's weighing on\nher mind.",
+      "choice_data_list": [
+        "El bebé probablemente solo estaba de mal humor."
+      ]
     },
     "9": {
       "text": "Ya veo... Fallé en tener en cuenta la<n>disposición de la\notra parte."
@@ -43,10 +46,11 @@
     "10": {
       "text": "Mira su cara en el espejo de nuevo<n>y se frota\nlas mejillas."
     },
-    "11": {
+    {
       "text": "Unos días después..."
     },
-    "12": {
+    {
+      "name": "Mihono Bourbon",
       "text": "Hice llorar al bebé de nuevo."
     },
     "13": {
@@ -55,33 +59,36 @@
     "14": {
       "text": "Identifiqué el estado emocional del bebé como<n>uno de\n\"disfrute\" hasta que vio mi<n>cara."
     },
-    "15": {
-      "text": "He determinado que la causa de esto<n>reside en\nmí.",
-      "choice_data_list": {
-        "0": "No, eso no—",
-        "1": "No, eso no—"
-      }
+    {
+      "name": "Mihono Bourbon",
+      "text": "I have determined that the cause of this<n>lies with\nme.",
+      "choice_data_list": [
+        "No, eso no es—",
+        "No, eso no es—"
+      ]
     },
     "16": {
       "text": "¡Ah, Bourbon!\n¡Oh, estás aquí con tu<n>entrenador también! ¡Hola!"
     },
-    "17": {
-      "text": "Sí. Hola, Nishino Flower.",
-      "choice_data_list": {
-        "0": "Hola."
-      }
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sí. Hola.",
+      "choice_data_list": [
+        "Hola."
+      ]
     },
     "18": {
       "text": "Eh... ¿Pasó algo? Ambos<n>parecen\npreocupados."
     },
-    "19": {
-      "text": "Nishino Flower parece preocupada, así que<n>la pongo al día."
+    {
+      "text": "Parece preocupada, así que la pongo al día."
     },
     "20": {
       "text": "...Por lo tanto, el problema reside en mí. Esa es<n>mi\nconclusión."
     },
-    "21": {
-      "text": "Hmm... Ya veo."
+    {
+      "name": "Nishino Flower",
+      "text": "Hmm... Entiendo."
     },
     "22": {
       "text": "Um, Bourbon, ¿qué pensaste cuando<n>viste\nal bebé?"
@@ -95,16 +102,19 @@
     "25": {
       "text": "Su cuerpo era suave y carecía de durabilidad,<n>y sus\nojos grandes y redondos me miraban<n>fijamente..."
     },
-    "26": {
+    {
+      "name": "Nishino Flower",
       "text": "Uh-huh. ¡Así que, estás diciendo que el bebé era<n>lindo!"
     },
-    "27": {
-      "text": "...Ya veo. Sí. Dicho simplemente, ese puede ser el<n>caso."
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Entiendo. Sí. Dicho simplemente, ese puede ser el<n>caso."
     },
     "28": {
       "text": "¡Entonces quizás deberías convertir esos<n>sentimientos en una\ngran sonrisa!"
     },
-    "29": {
+    {
+      "name": "Mihono Bourbon",
       "text": "Una sonrisa..."
     },
     "30": {
@@ -113,14 +123,16 @@
     "31": {
       "text": "¡Un bebé que vivía en mi vecindario<n>era de la\nmisma manera, así que estoy segura de que<n>puedes hacer sonreír a este bebé\ntambién!"
     },
-    "32": {
-      "text": "...Ya veo. Así que en otras palabras, intentan<n>copiar\nlas expresiones de otros.",
-      "choice_data_list": {
-        "0": "¡Intenta darle una sonrisa al bebé la próxima vez!",
-        "1": "¡Intenta mostrarle al bebé un montón de caras diferentes\nla próxima vez!"
-      }
+    {
+      "name": "Mihono Bourbon",
+      "text": "...I see. So in other words, they attempt<n>to copy\nthe expressions of others.",
+      "choice_data_list": [
+        "¡Intenta darle una sonrisa al bebé la próxima vez!",
+        "Try showing the baby a bunch of different faces\nnext time!"
+      ]
     },
-    "33": {
+    {
+      "name": "Mihono Bourbon",
       "text": "Entendido."
     },
     "34": {
@@ -183,23 +195,26 @@
     "51": {
       "text": "Justo cuando estoy a punto de llamarla, ella<n>me nota."
     },
-    "52": {
-      "text": "Tiempo perfecto, Entrenador.",
-      "choice_data_list": {
-        "0": "¿Es ese el bebé?"
-      }
+    {
+      "name": "Mihono Bourbon",
+      "text": "Perfect timing, Trainer.",
+      "choice_data_list": [
+        "¿Es ese el bebé?"
+      ]
     },
     "53": {
       "text": "Sí. Vine aquí para ejecutar la operación<n>\"hacer\nmuchas caras.\""
     },
-    "54": {
+    {
+      "name": "Mihono Bourbon",
       "text": "Estoy lista para reportar los resultados."
     },
-    "55": {
-      "text": "Solo pude producir la expresión \"sonrisa\"<n>y no pude llevar a cabo las<n>expresiones \"enojo\" o \"tristeza\".",
-      "choice_data_list": {
-        "0": "¿Y por qué es eso?"
-      }
+    {
+      "name": "Mihono Bourbon",
+      "text": "I was only able to produce the \"smile\"<n>expression\nand could not carry out the<n>\"anger\" or \"sadness\"\nexpressions.",
+      "choice_data_list": [
+        "¿Y por qué?"
+      ]
     },
     "56": {
       "text": "No lo sé. Cuando sonreí y<n>recibí una a cambio, percibí una especie<n>de sensación cálida dentro de\nmi región<n>del pecho."
@@ -210,7 +225,8 @@
     "58": {
       "text": "Causa desconocida. La expresión se quedó<n>atascada en\nsonrisa. Creo que algún tipo de<n>error puede haber\nocurrido en mis músculos faciales<n>o área del pecho."
     },
-    "59": {
+    {
+      "name": "Mihono Bourbon",
       "text": "...Desconcertante. Se requiere aclaración."
     },
     "60": {
