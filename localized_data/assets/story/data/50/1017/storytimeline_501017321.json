@@ -3,23 +3,26 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "With all of Symboli Rudolf's races over,<n>now is as\ngood a time as any to reflect<n>on her\nachievements.",
+      "text": "Con todas las carreras de<n>Symboli Rudolf\nterminadas, ahora es un<n>momento tan bueno como\ncualquier otro para reflexionar<n>sobre sus logros.",
       "choice_data_list": [
-        "I never dreamed you'd claim more than seven\ncrowns!"
+        "¡Nunca soñé que reclamarías más de siete\ncoronas!"
       ]
-    },
-    "1": {
-      "text": "Incluso yo estoy asombrada por la magnitud<n>de lo que\nhe logrado."
-    },
-    "2": {
-      "text": "Pero eres tú quien merece el crédito.<n>Nada de esto\nhabría sido posible<n>sin tu infalible\nguía."
-    },
-    "3": {
-      "text": "Gracias, Entrenador. Me has hecho<n>la\nUmamusume más rápida que jamás<n>haya existido."
     },
     {
       "name": "Symboli Rudolf",
-      "text": "I should thank my lucky stars that I<n>chose you that\nday... Or perhaps I should<n>say that you chose me.",
+      "text": "Incluso yo estoy asombrada por la<n>magnitud de\nlo que he logrado."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero eres tú quien merece el<n>crédito. Nada de\nesto habría sido posible<n>sin tu infalible\nguía."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Gracias, Entrenador. Me has<n>hecho la\nUmamusume más rápida que jamás<n>haya existido."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Debería agradecer a mis estrellas<n>afortunadas que\nte elegí ese día... O quizás<n>debería decir que tú\nme elegiste.",
       "choice_data_list": [
         "Agradece tu propio esfuerzo.",
         "Agradece tu propio esfuerzo."
@@ -27,20 +30,22 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "No, it is thanks to—wait, I see where this<n>is going.\nAt this rate, we will be<n>complimenting one\nanother all day.",
+      "text": "No, es gracias a—espera, veo a dónde<n>va esto.\nA este ritmo, estaremos<n>complaciéndonos el uno\nal otro todo el día.",
       "choice_data_list": [
         "Buen punto..."
       ]
     },
-    "6": {
-      "text": "Llamémoslo empate y digamos que<n>ambos <i>fuimos</i>\nresponsables."
-    },
-    "7": {
-      "text": "Ahora, creo que nos hemos ganado<n>algo\ncomo una recompensa,<n>¿no crees?"
+    {
+      "name": "Symboli Rudolf",
+      "text": "Llamémoslo empate y digamos<n>que <i>ambos</i>\neramos responsables."
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Something worthy of commemorating<n>this\nmonumental feat.",
+      "text": "Ahora, creo que nos hemos<n>ganado algo como\nuna recompensa,<n>¿no crees?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Algo digno de conmemorar<n>esta hazaña\nmonumental.",
       "choice_data_list": [
         "¿Qué podría igualar eso?"
       ]
@@ -49,14 +54,17 @@
       "name": "Symboli Rudolf",
       "text": "¿Luchando por ideas? Bueno, la verdad sea dicha,<n>yo también."
     },
-    "10": {
-      "text": "Jaja... Pensar en regalos para uno mismo no<n>es fácil,\n¿verdad?"
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja... Pensar en regalos para uno<n>mismo no es\nfácil, ¿verdad?"
     },
-    "11": {
-      "text": "Pero afortunadamente, tenemos mucho<n>tiempo. Si\nponemos nuestras cabezas juntas, estoy<n>segura de que\nlo lograremos."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero afortunadamente, tenemos<n>mucho tiempo.\nSi ponemos nuestras cabezas<n>juntas, estoy segura\nde que lo lograremos."
     },
-    "12": {
-      "text": "No menos porque el tiempo pasado contigo es<n>tanto\ncomo cualquier recompensa."
+    {
+      "name": "Symboli Rudolf",
+      "text": "No menos porque el tiempo pasado<n>contigo es\ntanto una recompensa como<n>cualquier otra."
     }
   }
 }

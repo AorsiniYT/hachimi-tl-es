@@ -1,41 +1,41 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "Fuji Kiseki se encuentra con una estudiante más\njoven<n>que está angustiada por su propia aptitud\npara la distancia.<n>Fuji Kiseki decide animarla con\nun milagro."
+  "text_block_list": [
+    {
+      "text": "Fuji Kiseki se encuentra con una estudiante<n>más joven que está\nmolesta por su propia aptitud<n>para distancias. Fuji\nKiseki decide<n>animarla con un milagro."
     },
-    "1": {
-      "text": "Entiendo cómo se siente y ahora puede<n>decidir\nentre continuar la gira del Classic<n>Triple Crown o\nempezar la gira de la milla.<n>El mejor camino para ella es...",
-      "choice_data_list": {
-        "0": "La gira del Triple Crown.",
-        "1": "La gira de la milla."
-      }
+    {
+      "text": "Entiendo cómo se siente y ahora puedo<n>decidir\nentre continuar con el Clásico<n>Triple Corona\ntour o comenzar el tour<n>de milla. El mejor camino para ella es...",
+      "choice_data_list": [
+        "El tour de la Triple Corona.",
+        "El tour de milla."
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "This makes our next race the Japanese<n>Derby."
+      "text": "Esto hace que nuestra próxima carrera sea el Derby<n>Japonés."
     },
-    "3": {
-      "text": "Fuji Kiseki decide enfrentar de lleno su<n>inaptitud\npara carreras más largas y<n>avanza con la gira\nClassic Triple<n>Crown."
+    {
+      "text": "Fuji Kiseki decide abordar su<n>inaptitud para\ncarreras más largas de frente y<n>avanza con el\ntour Clásico Triple<n>Corona."
     },
-    "4": {
-      "text": "Cuando anuncia su falta de afinidad<n>por las\ncarreras largas, el público se sorprende, pero<n>las\nexpectativas de sus fans no disminuyen en<n>lo más\nmínimo."
+    {
+      "text": "Cuando anuncia su falta de afinidad<n>por las\ncarreras largas, el público se sorprende,<n>pero<n>las expectativas de sus fans\nno disminuyen en lo<n>más mínimo."
     },
-    "5": {
-      "text": "Para mostrarle un milagro a su compañera<n>más\njoven, Fuji Kiseki apunta al<n>Derby japonés.\n¡Esto es el comienzo de<n>un desafío muy difícil!"
+    {
+      "text": "Para mostrarle a su compañera más joven<n>un\nmilagro, Fuji Kiseki apunta al<n>Japanese Derby.\nEste es el comienzo de<n>un desafío muy difícil."
     },
     {
       "name": "Monólogo",
-      "text": "This makes our next race the NHK Mile<n>Cup."
+      "text": "Esto hace que nuestra próxima carrera sea la Copa NHK<n>Milla."
     },
-    "7": {
-      "text": "Fuji Kiseki apunta a la cima y<n>avanza con la\ngira de la milla."
+    {
+      "text": "Fuji Kiseki fija su mirada en lo más alto y<n>avanza\ncon el tour de milla."
     },
-    "8": {
-      "text": "El público se sorprende cuando ella<n>anuncia su\nrepentino cambio de agenda,<n>pero las expectativas\nde sus fans no disminuyen en<n>lo más mínimo."
+    {
+      "text": "El público se sorprende cuando<n>anuncia su\ncambio repentino de agenda,<n>pero las\nexpectativas de sus fans\nno disminuyen en<n>lo más mínimo."
     },
-    "9": {
-      "text": "Para mostrarle un milagro a su compañera<n>más\njoven, Fuji Kiseki apunta a la NHK<n>Mile Cup.\n¡Esto es el comienzo de un nuevo<n>desafío!"
+    {
+      "text": "Para mostrarle a su compañera más joven<n>un\nmilagro, Fuji Kiseki apunta al NHK<n>Mile Cup.\nEste es el comienzo de un nuevo<n>desafío!"
     }
   }
 }

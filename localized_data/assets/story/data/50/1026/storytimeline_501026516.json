@@ -1,11 +1,12 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "Un fin de semana, me dirijo al<n>distrito comercial\ncon Mihono Bourbon,<n>cuando..."
+  "text_block_list": [
+    {
+      "text": "Un fin de semana, me dirijo al<n>distrito comercial con\nMihono Bourbon,<n>cuando..."
     },
-    "1": {
-      "text": "¡El Sweet Stamp Rally está a punto de<n>comenzar! ☆ ¡Ahora\nreclutando participantes!"
+    {
+      "name": "Ines Fujin",
+      "text": "¡El Rally de Sellos Dulces está a<n>punto de comenzar! ☆ ¡Ahora\nreclutando participantes!"
     },
     {
       "name": "Mihono Bourbon",
@@ -19,40 +20,48 @@
         "¿Qué es?"
       ]
     },
-    "4": {
+    {
+      "name": "Ines Fujin",
       "text": "¡Recoges un sello por cada postre<n>que comes\nde las diferentes tiendas en el<n>distrito comercial!"
     },
-    "5": {
-      "text": "¡Si recoges todos los cincuenta sellos, puedes<n>comer un\nconfección exclusivo, completamente<n>hecho a medida!"
+    {
+      "name": "Ines Fujin",
+      "text": "¡Si recoges los cincuenta sellos,<n>te toca comer un\ndulce exclusivo, completamente<n>hecho a medida!"
     },
     {
       "name": "Mihono Bourbon",
       "text": "Completamente... hecho... a medida..."
     },
-    "7": {
-      "text": "Así que... ¿estás diciendo que sería posible<n>crear un\ntrato impecable que use<n>frutas que aumentan la adrenalina\ny nutrientes<n>para aumentar la masa muscular?"
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entonces... ¿estás diciendo que sería<n>posible crear un\ndulce impecable que use<n>frutas que aumentan la adrenalina\ny nutrientes<n>para aumentar la masa muscular?"
     },
-    "8": {
-      "text": "...Bueno, sí, ¡es completamente<n>hecho a medida, después de\ntodo! ¡No hay problema! El<n>gerente debería poder\npreparar<n>algo como eso!"
-    },
-    "9": {
-      "text": "Entrenador. El contenido calórico total de cincuenta<n>variedades\nde postres es masivo."
+    {
+      "name": "Ines Fujin",
+      "text": "...Bueno, sí, ¡está completamente<n>hecho a medida, después\nde todo! ¡No hay problema! El<n>gerente debería poder\npreparar<n>algo así!"
     },
     {
       "name": "Mihono Bourbon",
-      "text": "However, the reward is alluring...<n><i>Extremely</i>\nalluring. Please, give me<n>instructions.",
+      "text": "Entrenador. El contenido calórico total<n>de cincuenta\nvariedades de postres es masivo."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sin embargo, la recompensa es atractiva...<n><i>Extremadamente</i>\natractiva. Por favor, dame<n>instrucciones.",
       "choice_data_list": [
         "...Lo siento, pero no podemos esta vez.",
         "¡Llenémonos de postres!"
       ]
     },
-    "11": {
-      "text": "¡Oh, qué lástima! Bueno, tienes<n>algunas carreras\npróximas, así que probablemente<n>sea mejor vigilar lo que\ncomes."
+    {
+      "name": "Ines Fujin",
+      "text": "¡Oh, qué lástima! Bueno, tienes<n>algunas carreras\npróximas, así que probablemente<n>sea mejor vigilar qué\ncomes."
     },
-    "12": {
-      "text": "...Entendido, Entrenador. Sin embargo, por favor<n>permíteme\naclarar un punto."
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Entendido, Entrenador. Sin embargo,<n>por favor permíteme\naclarar un punto."
     },
-    "13": {
+    {
+      "name": "Mihono Bourbon",
       "text": "Para mí, tus órdenes son infalibles.<n>Por lo tanto,\nlas disculpas son innecesarias. De<n>hecho..."
     },
     {
@@ -66,61 +75,46 @@
       "name": "Ines Fujin",
       "text": "U-uhhh... Me siento como la tercera rueda<n>aquí."
     },
-    "16": {
-      "text": "Jeje... Ustedes dos se llevan muy bien.<n>Diablos, el\npar de ustedes podría ser incluso<n>más dulce que todos estos\npostres juntos<n>!"
+    {
+      "name": "Ines Fujin",
+      "text": "Jeje... Ustedes dos realmente se llevan<n>bien. Diablos, el\npar de ustedes podría ser incluso<n>más dulces que todos estos\npostres juntos<n>!"
     },
-    "17": {
-      "text": "No terminamos participando en el<n>evento... pero\nescuchar las amables palabras de Mihono Bourbon<n>calienta mi\ncorazón."
+    {
+      "text": "No terminamos participando en el<n>evento... pero\nescuchar las palabras amables de<n>Mihono Bourbon calienta mi\ncorazón."
     },
-    "18": {
+    {
       "text": "Y así, terminamos participando en el<n>rally de\nsellos..."
     },
-    "19": {
-      "text": "<i>Masticar, masticar... tragar.</i> Consumo de<n>ítem cincuenta,\nel Deluxe Special Sundae, está<n>completo."
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Masticar, masticar... tragar.</i> El consumo<n>del artículo cincuenta,\nel Sundae Especial Deluxe, está<n>completo."
     },
-    "20": {
-      "name": "Gerente de Tienda",
-      "text": "¡Gracias por participar! Ahora, ¿qué<n>te gustaría\npara tu confección<n>hecha a medida?"
-    },
-    "21": {
-      "text": "Oh, um, querías un postre \"impecable\",<n>¿verdad?"
-    },
-    "22": {
-      "text": "Sí. Uno que incluye frutas que<n>proporcionan alivio\ndel cansancio y nutrientes<n>para aumentar la masa\nmuscular."
-    },
-    "23": {
-      "text": "Requiere que incluya los siguientes<n>ingredientes—manzana, natto, ostra,<n>miso, pescado fermentado y polvo<n>de proteína.",
-      "choice_data_list": {
-        "0": "...How is that even a dessert?!",
-        "1": "...How is that even a dessert?!"
-      }
-    },
-    "24": {
-      "name": "Store Manager",
-      "text": "Je... Jajaja, ¡entendido! Esto pondrá a<n>prueba mis\ntreinta años como pastelero."
+    {
+      "name": "Gerente de tienda",
+      "text": "¡Gracias por participar! Ahora, ¿qué<n>te gustaría\npara tu dulce hecho a<n>medida?"
     },
     {
       "name": "Ines Fujin",
-      "text": "Oh, um, you wanted a \"flawless\" dessert,<n>right?"
+      "text": "Oh, eh, querías un postre \"perfecto\",<n>¿verdad?"
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Yes. One that includes fruits that<n>provide relief\nfrom fatigue and nutrients<n>for increasing muscle\nmass."
+      "text": "Sí. Uno que incluya frutas que<n>proporcionen alivio\ndel cansancio y nutrientes<n>para aumentar la masa\nmuscular."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I require it to include the following<n>\ningredients—apple, natto, oyster, miso,<n>\nfermented fish, and protein powder.",
+      "text": "Requiere que incluya los siguientes<n>\ningredientes—manzana, natto, ostra, miso,<n>\npescado fermentado y polvo de proteína.",
       "choice_data_list": [
         "...¿Cómo es eso siquiera un postre?!",
         "...¿Cómo es eso siquiera un postre?!"
       ]
     },
     {
-      "name": "Store Manager",
-      "text": "Heh... Hahaha, got it! This will put my<n>thirty years\nas a pastry chef to the test!"
+      "name": "Gerente de tienda",
+      "text": "Je... Jajaja, ¡entendido! ¡Esto pondrá a<n>prueba mis\ntreinta años como pastelero!"
     },
     {
-      "text": "Some days later, a jet-black cake that<n>seems to\ninclude all the ingredients<n>Mihono Bourbon\nrequested arrives, and<n>she polishes it off with\nsatisfaction."
+      "text": "Algunos días después, llega un pastel<n>negro como\nel carbón que parece incluir<n>todos los ingredientes\nque Mihono Bourbon<n>solicitó, y ella lo devora\ncon satisfacción."
     }
   }
 }

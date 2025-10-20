@@ -3,10 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "The day is growing late as Symboli<n>Rudolf and I\nhead back after our day<n>out."
+      "text": "El día se está haciendo tarde mientras Symboli<n>Rudolf y yo\nregresamos después de nuestro día<n>fuera."
     },
-    "1": {
-      "text": "Si no te importa, hay algún lugar<n>donde me gustaría\npasar antes de que regresemos<n>a la academia."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si no te importa, hay algún lugar<n>al que me gustaría\npasar antes de regresar<n>a la academia."
     },
     {
       "name": "Symboli Rudolf",
@@ -16,39 +17,45 @@
         "Claro, ¿adónde vamos?"
       ]
     },
-    "3": {
-      "text": "Se supone que la luna será una<n>media luna\nperfecta esta noche, y he oído que el cielo<n>estará despejado..."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Se supone que la luna será una<n>media luna\nperfecta esta noche, y escuché que el cielo<n>estará despejado..."
     },
     {
       "name": "Monólogo",
-      "text": "Symboli Rudolf leads me to a shrine<n>located on a\nsmall hill."
+      "text": "Symboli Rudolf me lleva a un<n>santuario ubicado\nen una pequeña colina."
     },
-    "5": {
-      "text": "No hay edificios ni luces brillantes<n>alrededor\naquí. Deberíamos tener una<n>vista perfecta."
+    {
+      "name": "Symboli Rudolf",
+      "text": "No hay edificios ni luces<n>brillantes alrededor.\nDeberíamos tener una<n>vista perfecta."
     },
     {
       "name": "Monólogo",
-      "text": "Perfect is right. A beautiful crescent<n>moon shines\nbrightly in the sky above us."
+      "text": "Perfecto es correcto. Una hermosa<n>luna creciente\nbrilla intensamente en el<n>cielo sobre nosotros."
     },
     {
       "name": "Symboli Rudolf",
       "text": "Rara vez hablo de esto, pero..."
     },
-    "8": {
-      "text": "Cuando era joven, a menudo me llamaban<n>Luna, debido\na la raya blanca en<n>mi cabello."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Cuando era joven, a menudo me<n>llamaban Luna,\npor la raya blanca en<n>mi cabello."
     },
-    "9": {
-      "text": "¿Difícilmente podrías imaginarlo ahora,<n>¿verdad? Pero\nme quedaba bien entonces."
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Difícilmente podrías imaginarlo<n>ahora, ¿verdad?\nPero me quedaba bien<n>entonces."
     },
-    "10": {
-      "text": "Siempre amé el sonido de eso, y una vez<n>que aprendí\nde dónde venía, sonreí<n>cada vez que veía\nla luna."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Siempre amé el sonido de eso,<n>y una vez que\naprendí de dónde venía,<n>sonreí cada vez que\nveía la luna."
     },
     {
       "name": "Symboli Rudolf",
       "text": "...Pero eso está en el pasado ahora."
     },
-    "12": {
-      "text": "Dejé ese nombre atrás cuando resolví<n>caminar\nel camino del Emperador."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Dejé ese nombre atrás cuando<n>decidí caminar\npor el camino del Emperador."
     },
     {
       "name": "Symboli Rudolf",
@@ -56,7 +63,7 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "I can't explain why, but... I simply felt<n>that you\nought to know.",
+      "text": "No puedo explicar por qué, pero...<n>Simplemente\nsentí que debías saberlo.",
       "choice_data_list": [
         "Me alegra que me lo hayas dicho.",
         "Es un nombre bonito.",
@@ -66,7 +73,7 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "I can't explain why, but... I simply felt<n>that you\nought to know.",
+      "text": "No puedo explicar por qué, pero... Simplemente sentí<n>que tú\ndebías saberlo.",
       "choice_data_list": [
         "Me alegra que me lo hayas dicho.",
         "Es un nombre bonito.",
@@ -82,29 +89,32 @@
       "name": "Symboli Rudolf",
       "text": "Siento... ¿Cómo debería decirlo?"
     },
-    "18": {
-      "text": "Es como si se hubiera levantado un peso de<n>mis\nhombros. Mi corazón se siente tan claro como<n>el aire nocturno."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Es como si una carga hubiera<n>sido levantada\nde mis hombros. Mi corazón<n>se siente tan claro\ncomo el aire nocturno."
     },
     {
       "name": "Symboli Rudolf",
       "text": "...Deberíamos regresar."
     },
-    "20": {
-      "text": "Cuento contigo, Entrenador. Mañana<n>y\nmás allá..."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Cuento contigo, Entrenador.<n>Mañana y más\nallá..."
     },
     {
       "name": "Monólogo",
-      "text": "With the memory she shared still fresh in<n>my\nmind, I quietly swear to stay by<n>Symboli Rudolf's\nside."
+      "text": "Con el recuerdo que compartió<n>aún fresco en\nmi mente, silenciosamente<n>juro quedarme al lado\nde Symboli Rudolf."
     },
-    "22": {
-      "text": "Jaj. Sea como sea, llámame así en<n>público y\nsonarás como un lunático."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaj. Sea como sea, llámame así<n>en público y\nsonarás como un lunático."
     },
     "23": {
       "text": "...¡Oh!"
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Call me Luna, and you'll sound like...<n>Pffft. That's\nrather good.",
+      "text": "Llámame Luna, y sonarás como...<n>Pffft. Eso es\nbastante bueno.",
       "choice_data_list": [
         "¿Qué es?",
         "¿Qué es?"
@@ -114,19 +124,21 @@
       "name": "Symboli Rudolf",
       "text": "Luna... Lunático..."
     },
-    "26": {
-      "text": "Eso es un juego de palabras de calidad. Perfecto para<n>un\nchiste interno entre camaradas."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Eso es un juego de palabras de<n>calidad. Perfecto\npara una broma interna<n>entre camaradas."
     },
     {
       "name": "Monólogo",
-      "text": "We walk back to the academy under the<n>\nmoonlight, with Symboli Rudolf stifling<n>giggles all\nthe while."
+      "text": "Caminamos de vuelta a la academia<n>bajo la\nluz de la luna, con Symboli<n>Rudolf reprimiendo\nrisitas todo el tiempo."
     },
     {
       "name": "Symboli Rudolf",
       "text": "Eso... significa mucho para mí."
     },
-    "29": {
-      "text": "Es reconfortante pensar que, incluso después de que<n>haya\ncaminado mi camino hasta el final y<n>haya hecho realidad mis\nsueños..."
+    {
+      "name": "Symboli Rudolf",
+      "text": "Es reconfortante pensar que,<n>incluso después\nde que haya caminado mi<n>camino hasta el final\ny hecho realidad mis<n>sueños..."
     },
     {
       "name": "Symboli Rudolf",
@@ -142,7 +154,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "I swear to myself that I will stay by her<n>side, come\nwhat may."
+      "text": "Me juro a mí misma que me<n>quedaré a su lado,\npase lo que pase."
     }
   }
 }

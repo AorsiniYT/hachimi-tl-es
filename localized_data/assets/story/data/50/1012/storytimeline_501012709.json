@@ -5,49 +5,55 @@
       "name": "Hishi Amazon",
       "text": "¡Gahhh! ¡Esto apesta! ¡Pensé que lo tenía!"
     },
-    "1": {
-      "text": "¡Pero qué gran carrera! ¡Vencerme es un<n>gran\ndeal!"
-    },
-    "2": {
-      "text": "¡Se siente genial correr contra tales<n>formidables\noponentes! Mi cola aún<n>tiembla con\nadrenalina!"
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Pero qué gran carrera! ¡Vencerme es<n>un gran\nasunto!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "I was clearly out of my depth, which<n>sucks, but it\nwas a battle to remember.",
+      "text": "¡Se siente genial correr contra tales<n>oponentes\nformidables! ¡Mi cola todavía<n>tiembla con\nadrenalina!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Claramente estaba fuera de mi alcance,<n>lo cual\napesta, pero fue una batalla<n>para recordar.",
       "choice_data_list": [
         "Estuviste cerca.",
         "¡Seguro que tienes la próxima!"
       ]
     },
-    "4": {
-      "text": "Pensé que tenía en mí para salir adelante,<n>pero eso\nfue solo pensamiento ingenuo. Ahora<n>que ha llegado a esto,\nhay solo una<n>cosa que puedo hacer..."
+    {
+      "name": "Hishi Amazon",
+      "text": "Pensé que tenía en mí para salir<n>adelante, pero\neso era solo pensamiento<n>ingenuo. Ahora que\nha llegado a esto,<n>solo hay una cosa que<n>puedo hacer..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "And that's to move my body like there's<n>no\ntomorrow! Time to do some running<n>to clear my\nmind!",
+      "text": "¡Y eso es mover mi cuerpo como si<n>no hubiera\nmañana! ¡Hora de hacer algo de<n>correr para aclarar\nmi mente!",
       "choice_data_list": [
         "¡Pero acabas de terminar una carrera!"
       ]
     },
-    "6": {
-      "text": "Sí, así que ahora tengo que hacer una carrera post-carrera!<n>Hora de\nreservar todo el camino a casa!<n>¡Raaaah!"
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Sí, así que ahora tengo que hacer una<n>carrera\npost-carrera! ¡Hora de reservar<n>todo el camino a\ncasa! ¡Raaaah!"
     },
-    "7": {
-      "text": "Me apresuro tras ella, pero no puedo mantener el ritmo con<n>Hishi\nAmazon sprintando a toda velocidad."
-    },
-    "8": {
-      "text": "Va sin decir que nunca me rendiré,<n>no\nimporta cuán buenos sean mis oponentes<n>!"
+    {
+      "text": "Me apresuro tras ella, pero no puedo<n>mantener el\nritmo con Hishi Amazon<n>sprintando a toda velocidad."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Every second I'm not eating or sleeping,<n>I'm\ngonna be training! Or y'know what?<n>Forget\nsleeping too!",
+      "text": "Va sin decir que nunca me rendiré,<n>no importa\ncuán buenos sean mis<n>oponentes!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Cada segundo que no estoy comiendo<n>o durmiendo,\nvoy a estar entrenando!<n>O sabes qué? ¡Olvida\ndormir también!",
       "choice_data_list": [
         "¡No puedes simplemente <i>no</i> dormir!",
         "¡No puedes simplemente <i>no</i> dormir!"
       ]
     },
-    "10": {
-      "text": "Sí, lo que sea! Solo digo que eso es<n>cuán lejos estoy\ndispuesta a ir! Tengo que seguir<n>entrenando para asegurar la\npróxima victoria!"
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Sí, lo que sea! ¡Solo digo que eso es<n>cuán lejos\nestoy dispuesto a ir! ¡Tengo<n>que seguir entrenando\npara asegurar la próxima<n>victoria!"
     }
   }
 }

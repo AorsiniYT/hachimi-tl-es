@@ -3,26 +3,30 @@
   "text_block_list": {
     "0": {
       "text": "<i>Yawn...</i>",
-      "choice_data_list": {
-        "0": "Alguien está somnoliento.",
-        "1": "Alguien está somnoliento."
-      }
+      "choice_data_list": [
+        "Alguien está somnoliento.",
+        "Alguien está somnoliento."
+      ]
     },
-    "1": {
-      "text": "Oh, estaba viendo una de las obras de mi madre<n>en un\nsitio de streaming anoche."
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh, estaba viendo una de las obras de teatro de mi madre<n>en un\nsitio de streaming anoche."
     },
-    "2": {
-      "text": "Ni siquiera recuerdo cuántas veces la<n>vi, pero\npara cuando me di cuenta, ya<n>era de mañana.",
-      "choice_data_list": {
-        "0": "Debes amar mucho las obras de tu madre.",
-        "1": "Debes amar mucho las obras de tu madre."
-      }
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ni siquiera recuerdo cuántas veces la<n>vi,\npero cuando me di cuenta, ya<n>era\nmañana.",
+      "choice_data_list": [
+        "Debes amar mucho las obras de teatro de tu madre.",
+        "Debes amar mucho las obras de teatro de tu madre."
+      ]
     },
-    "3": {
-      "text": "Lo hago. Ver una obra a través de la pantalla<n>no es\nnada como experimentar las<n>acústicas e intensidad\nen persona, pero aún así es<n>...<i>Bostezo.</i>"
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sí. Ver una obra a través de la pantalla<n>no\nes nada como experimentar la<n>acústica e\nintensidad en persona, pero aún<n>así... <i>Bostezo.</i>"
     },
-    "4": {
-      "text": "Lo siento. Tendré que ser cuidadosa para no hacer<n>más\nnoches en vela. Intentaré despertarme<n>a tiempo\npara el entrenamiento."
+    {
+      "name": "Fuji Kiseki",
+      "text": "Lo siento. Tendré que ser cuidadoso para no hacer<n>más\nnoches en vela. Intentaré despertarme<n>a tiempo para\nel entrenamiento."
     }
   }
 }

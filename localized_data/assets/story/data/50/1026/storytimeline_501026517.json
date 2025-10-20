@@ -1,40 +1,44 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "name": "Umamusume Foodie",
-      "text": "¡El buffet de postres de ayer estaba<n>tan delicioso! ¡Estoy\ncargada de energía! ♪"
+  "text_block_list": [
+    {
+      "name": "Umamusume golosa",
+      "text": "¡El buffet de postres de ayer estaba<n>delicioso! ¡Estoy\ncargada de energía! ♪"
     },
     {
       "name": "Mihono Bourbon",
       "text": "Postre... energía... cargada..."
     },
-    "2": {
-      "name": "Shy Umamusume",
-      "text": "U-um... ¿Bourbon nos está mirando? ¿Crees<n>que\nestá enojada? ¿Fuimos demasiado ruidosos?"
+    {
+      "name": "Umamusume tímida",
+      "text": "E-eh... ¿Bourbon nos está mirando? ¿Crees<n>que\nestá enojada? ¿Estábamos demasiado ruidosos?"
     },
     "3": {
       "text": "<i>Groooowl...</i>"
     },
-    "4": {
-      "name": "Shy Umamusume",
-      "text": "¡Whoa! ¿Sintieron ese bajo?! ¿Es este el<n>sonido de\nerror que suena cuando<n>Bourbon se enoja?!"
+    {
+      "name": "Umamusume tímida",
+      "text": "¡Guau! ¿Sintieron ese bajo?! ¿Es este el<n>sonido de\nerror que suena cuando<n>Bourbon se enoja?!"
     },
-    "5": {
-      "name": "Umamusume Foodie",
-      "text": "¡Eeep! ¡Lo sentimos! ¡Estábamos siendo<n>demasiado ruidosos!\n¡Iremos a correr para quemar esta<n>energía!"
+    {
+      "name": "Umamusume golosa",
+      "text": "¡Eeep! ¡Lo sentimos! ¡Estábamos siendo<n>demasiado\nruidosos! ¡Iremos a correr para quemar<n>esta energía!"
     },
-    "6": {
-      "text": "No, quiero que me cuentes sobre este<n>método de\nrecarga de ener—"
+    {
+      "name": "Mihono Bourbon",
+      "text": "No, quiero que me cuenten sobre este<n>método de\nrecarga de ener—"
     },
-    "7": {
+    {
+      "name": "Mihono Bourbon",
       "text": "...Se fueron. Comenzando análisis de la<n>\nsituación."
     },
-    "8": {
+    {
+      "name": "Mihono Bourbon",
       "text": "Malentendidos respecto a mi expresión<n>facial\ny sonidos abdominales<n>hicieron que los sujetos huyeran.\nAlta densidad<n>de multitud hará la persecución... difícil."
     },
-    "9": {
-      "text": "Concluyo que la comunicación sigue<n>siendo la\noperación más difícil para mí<n>ejecutar..."
+    {
+      "name": "Mihono Bourbon",
+      "text": "Concluyo que la comunicación sigue<n>siendo la\noperación más difícil para mí<n>de ejecutar..."
     }
   }
 }

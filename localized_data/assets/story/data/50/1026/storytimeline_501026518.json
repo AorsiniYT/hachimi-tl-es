@@ -1,37 +1,43 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
+  "text_block_list": [
+    {
+      "name": "Mihono Bourbon",
       "text": "\"He terminado de observar la carrera, y<n>ahora\nhe llegado a la estación de tren<n>más cercana.\"\n...Mensaje enviado."
     },
-    "1": {
-      "name": "International Reporter",
-      "text": "¡Oh, cómo estás, jovencita! Soy un<n>reportero de\ncarreras de la otra punta del mundo.<n>¿Te importa si tomo unas fotos<n>tuyas para las noticias?"
+    {
+      "name": "Reportero internacional",
+      "text": "Oh, ¡hola, jovencita! Soy un<n>reportero de carreras\nde la otra mitad del mundo!<n>¿Te importa si tomo unas fotos<n>tuyas para las\nnoticias?"
     },
-    "2": {
+    {
+      "name": "Mihono Bourbon",
       "text": "No tengo planes en este momento... Es<n>decir, \"unas\npocas fotos\" están bien."
     },
-    "3": {
-      "name": "International Reporter",
+    {
+      "name": "Reportero internacional",
       "text": "¡Yeehaw! ¡Estas encantarán los periódicos<n>en casa!\n¡Ahora que tengas un buen día, Señorita<n>Mihono\nBarbin! ♪"
     },
-    "4": {
+    {
+      "name": "Mihono Bourbon",
       "text": "...Mi nombre es Mihono <i>Bourbon.</i> Se<n>escribe\nM-I-H-O-N-O B-O-U-R-B-O-N..."
     },
-    "5": {
-      "name": "Platform Announcement",
-      "text": "El tren expreso limitado en el andén uno<n>partirá\npronto. Por favor, quédese<n>detrás de la línea\namarilla."
+    {
+      "name": "Anuncio de plataforma",
+      "text": "El tren expreso limitado en el andén uno<n>partirá\npronto. Por favor, quédense<n>detrás de la línea\namarilla."
     },
-    "6": {
+    {
+      "name": "Mihono Bourbon",
       "text": "Analizando situación. El reportero ha<n>abordado el\ntren expreso. Intento de<n>corrección fallido. Alto\nriesgo de que mi nombre<n>sea impreso incorrectamente\nmundialmente."
     },
-    "7": {
-      "text": "Ningún otro tren lo alcanzará a tiempo.<n>Sin embargo, mi\nvelocidad máxima excede<n>la del expreso.\nIniciando carrera."
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ningún otro tren lo alcanzará a tiempo.<n>Sin embargo, mi\nvelocidad máxima supera<n>a la del expreso.\nIniciando carrera."
     },
-    "8": {
-      "text": "<i>Jadeo... Jadeo...</i> Corrección completa.<n>Fatiga\nde... ejercicio inesperado...<n>detectada."
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Jadeo... Jadeo...</i> Corrección completa.<n>Cansancio\nde... ejercicio inesperado...<n>detectado."
     },
-    "9": {
+    {
       "text": "Mihono Bourbon señala exitosamente<n>el\nerror al reportero, pero ahora<n>está completamente\nagotada."
     }
   }

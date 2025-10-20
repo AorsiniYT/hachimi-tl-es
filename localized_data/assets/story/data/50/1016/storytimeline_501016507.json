@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "I call Narita Brian over so I can give her<n>some fan\nmail."
+      "text": "Llamo a Narita Brian para darle<n>algo de correo\nde fans."
     },
     {
       "name": "Narita Brian",
@@ -21,12 +21,13 @@
       "name": "Narita Brian",
       "text": "Bueno..."
     },
-    "4": {
-      "text": "Es mi carta. Lo que haga con ella es<n>mi asunto,\n¿verdad?",
-      "choice_data_list": {
-        "0": "¡Promete que no la tirarás sin más, al\nmenos!",
-        "1": "¡Promete que no la tirarás sin más, al\nmenos!"
-      }
+    {
+      "name": "Narita Brian",
+      "text": "Es mi carta. Lo que haga con ella es mi<n>asunto,\n¿verdad?",
+      "choice_data_list": [
+        "¡Promete que no la tirarás simplemente, al\nmenos!",
+        "¡Promete que no la tirarás simplemente, al\nmenos!"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -35,8 +36,9 @@
     "7": {
       "text": "Simplemente no la voy a leer aquí. Eso es<n>todo lo\nque quise decir."
     },
-    "8": {
-      "text": "Nunca tiraría una carta de un fan..."
+    {
+      "name": "Narita Brian",
+      "text": "Solo no la voy a leer aquí. Eso es<n>todo lo que\nquise decir."
     },
     {
       "name": "Narita Brian",
@@ -48,7 +50,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Narita Brian carefully puts the fan letter<n>in her\npocket, then leaves brusquely."
+      "text": "Narita Brian pone cuidadosamente la carta de fan<n>en su\nbolsillo, luego se va bruscamente."
     }
   }
 }

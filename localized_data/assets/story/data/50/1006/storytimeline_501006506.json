@@ -13,11 +13,13 @@
         "¿Qué pasa?"
       ]
     },
-    "2": {
-      "text": "Se me ocurrió algo de coreografía<n>durante mi\nlección de baile, pero no puedo<n>figurar qué hacer\npara el coro."
+    {
+      "name": "Oguri Cap",
+      "text": "Se me ocurrió una coreografía<n>durante mi\nlección de baile, pero no puedo<n>figurar qué hacer para\nel coro."
     },
-    "3": {
-      "text": "Te mostraré lo que he ideado hasta<n>ahora, así\nque por favor dame tu opinión<n>honesta."
+    {
+      "name": "Oguri Cap",
+      "text": "Te mostraré lo que he ideado hasta<n>ahora, así que\npor favor dame tu opinión<n>honesta."
     },
     {
       "name": "Oguri Cap",
@@ -32,7 +34,7 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Thanks for the advice. So... What do you<n>think I\nshould do?",
+      "text": "Gracias por el consejo. Entonces...<n>¿Qué crees que\nharía?",
       "choice_data_list": [
         "¿Tienes un movimiento de baile favorito?",
         "¿Tienes un movimiento de baile favorito?"
@@ -44,21 +46,23 @@
     },
     {
       "name": "Monólogo",
-      "text": "I search for \"banana dance\" online, and a<n>video of\npeople dancing in festival coats<n>comes up.",
+      "text": "Busco \"baile de banana\" en línea, y sale<n>un video de\ngente bailando en abrigos de<n>fiesta.",
       "choice_data_list": [
         "¿Es esto?",
         "¿Es esto?"
       ]
     },
-    "9": {
-      "text": "Sí. Hacíamos este baile en nuestros festivales<n>en\ncasa."
-    },
-    "10": {
-      "text": "Cada vez que los veo a todos bailando al<n>ritmo de\nla música del festival, me anima."
+    {
+      "name": "Oguri Cap",
+      "text": "Sí. Haríamos este baile en nuestros<n>festivales en\ncasa."
     },
     {
       "name": "Oguri Cap",
-      "text": "It might be a little unconventional for a<n>winning\nconcert, but I really like this<n>dance.",
+      "text": "Cada vez que los veo a todos bailando<n>al ritmo de la\nmúsica del festival, me anima."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Puede que sea un poco poco convencional<n>para un\nconcierto de victoria, pero realmente<n>me gusta este\nbaile.",
       "choice_data_list": [
         "¿Por qué no incorporar algunos de sus elementos?"
       ]
@@ -69,38 +73,43 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Which part do you like? I'll try and<n>incorporate it\ninto my choreography.",
+      "text": "¿Qué parte te gusta? Intentaré<n>incorporarla\nen mi coreografía.",
       "choice_data_list": [
         "Sus pasos forzados.",
         "Sus movimientos fluidos."
       ]
     },
-    "14": {
+    {
+      "name": "Oguri Cap",
       "text": "Tienes razón... Verlos moverse así<n>es súper\nenergizante."
     },
-    "15": {
-      "text": "Me gusta cómo se mueven después de golpear<n>los\ntambores taiko también. Tal vez si<n>combinamos los\ndos..."
+    {
+      "name": "Oguri Cap",
+      "text": "Me gusta cómo se mueven después de<n>golpear los\ntambores taiko también.<n>Tal vez si combinamos\nlos dos..."
     },
-    "16": {
-      "text": "Okay, eso es perfecto. Todo lo que me queda<n>por\nhacer ahora es practicar."
+    {
+      "name": "Oguri Cap",
+      "text": "Está bien, eso es perfecto. Todo lo que<n>me queda por\nhacer ahora es practicar."
     },
     {
       "name": "Monólogo",
-      "text": "When Oguri Cap shows off her perfected<n>\nchoreography, she captivates everybody<n>\nwatching with her forceful movements."
+      "text": "Cuando Oguri Cap muestra su coreografía<n>\nperfeccionada, cautiva a todos los<n>\nespectadores con sus movimientos<n>enérgicos."
     },
     {
       "name": "Oguri Cap",
       "text": "Sí... Es difícil apartar los ojos de<n>ellos."
     },
-    "19": {
-      "text": "Me gusta cómo se mueven después de golpear<n>los\ntambores taiko también. Tal vez si<n>combinamos los\ndos..."
+    {
+      "name": "Oguri Cap",
+      "text": "Me gusta cómo se mueven después de<n>golpear los\ntambores taiko también.<n>Tal vez si combinamos\nlos dos..."
     },
-    "20": {
-      "text": "Okay, eso es perfecto. Todo lo que me queda<n>por\nhacer ahora es practicar."
+    {
+      "name": "Oguri Cap",
+      "text": "Está bien, eso es perfecto. Todo lo que<n>me queda por\nhacer ahora es practicar."
     },
     {
       "name": "Monólogo",
-      "text": "When Oguri Cap shows off her perfected<n>\nchoreography, she captivates everybody<n>\nwatching with her graceful movements."
+      "text": "Cuando Oguri Cap muestra su coreografía<n>\nperfeccionada, cautiva a todos los<n>\nespectadores con sus movimientos<n>gráciles."
     }
   }
 }
