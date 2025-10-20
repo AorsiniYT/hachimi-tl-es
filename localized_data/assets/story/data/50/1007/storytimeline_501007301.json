@@ -10,7 +10,7 @@
       "text": "¡Eso da exactamente siete!<n>¡La pregunta es,\n¿de qué?!",
       "choice_data_list": [
         "El número de sandías que partiste en el campamento.",
-        "El número de caparazones de cigarra que recolectaste en el campamento."
+        "El número de caparazones de cigarra que\nrecolectaste en el campamento."
       ]
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡Pero eso no tiene nada que ver con el<n>campamento\nde verano!"
+      "text": "¡Pero eso no tiene nada que ver con\nel<n>campamento de verano!"
     },
     {
       "name": "Gold Ship",

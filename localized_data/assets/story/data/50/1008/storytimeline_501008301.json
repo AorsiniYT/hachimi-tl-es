@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Hoy es el último día del campamento<n>de verano.<n>Vodka mira el océano por su<n>cuenta."
+      "text": "Hoy es el último día del campamento<n>de\nverano.<n>Vodka mira el océano por su<n>cuenta."
     },
     {
       "name": "Vodka",
-      "text": "¿Hm? Ah, hola. ¿Ya es hora de que<n>salga el autobús?",
+      "text": "¿Hm? Ah, hola. ¿Ya es hora de que<n>salga el\nautobús?",
       "choice_data_list": [
         "Todavía tenemos un poco de tiempo. ¿Qué pasa?",
         "Todavía tenemos un poco de tiempo. ¿Qué pasa?"
@@ -15,7 +15,7 @@
     },
     {
       "name": "Vodka",
-      "text": "Nada. Solo estaba reflexionando sobre<n>nuestro tiempo<n>en el campamento. Hice mucho<n>mejor entrenamiento del que esperaba."
+      "text": "Nada. Solo estaba reflexionando sobre<n>nuestro\ntiempo<n>en el campamento. Hice mucho<n>mejor\nentrenamiento del que esperaba."
     },
     {
       "name": "Vodka",
@@ -27,7 +27,7 @@
     },
     {
       "name": "Vodka",
-      "text": "Pero por alguna razón, nunca me cansé de<n>entrenar.\nAlgo me impulsaba a seguir.",
+      "text": "Pero por alguna razón, nunca me cansé\nde<n>entrenar. Algo me impulsaba a seguir.",
       "choice_data_list": [
         "Quizás era la sensación de volverte más<n>genial."
       ]
@@ -54,7 +54,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Estamos una al lado del otro y<n>contemplamos juntas\nel cielo veraniego al<n>atardecer."
+      "text": "Estamos una al lado del otro y<n>contemplamos\njuntas el cielo veraniego al<n>atardecer."
     },
     {
       "name": "Vodka",

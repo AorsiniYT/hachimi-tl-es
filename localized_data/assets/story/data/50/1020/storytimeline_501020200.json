@@ -2,7 +2,7 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Finalmente ha llegado el día del<n>debut de Seiun<n>Sky. Sin embargo..."
+      "text": "Finalmente ha llegado el día del<n>debut de\nSeiun<n>Sky. Sin embargo..."
     },
     {
       "name": "Seiun Sky",
@@ -19,7 +19,7 @@
       "name": "Seiun Sky",
       "text": "Me agotaré si doy todo desde el<n>principio.",
       "choice_data_list": [
-        "¿Así que le darás a la carrera<n>con todo lo que tienes?"
+        "¿Así que le darás a la carrera<n>con todo lo que\ntienes?"
       ]
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Como el viento sopla hacia<n>donde quiere,<n>yo también. Tendrás que<n>esperar y ver."
+      "text": "Como el viento sopla hacia<n>donde quiere,<n>yo\ntambién. Tendrás que<n>esperar y ver."
     }
   ]
 }

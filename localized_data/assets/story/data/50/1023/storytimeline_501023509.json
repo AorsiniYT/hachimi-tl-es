@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Biwa Hayahide ha perdido algo y<n>ha<n>solicitado mi ayuda para encontrarlo."
+      "text": "Biwa Hayahide ha perdido algo y<n>ha<n>solicitado\nmi ayuda para encontrarlo."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¡Tampoco está aquí! No encuentro el<n>cuaderno donde<n>escribí mi ecuación ganadora<n><i>por ningún lado!</i>",
+      "text": "¡Tampoco está aquí! No encuentro el<n>cuaderno\ndonde<n>escribí mi ecuación ganadora<n><i>por\nningún lado!</i>",
       "choice_data_list": [
         "¿Dónde sueles guardarlo?",
         "¿Dónde sueles guardarlo?"
@@ -18,10 +18,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Jajaja... Aquí está. Bueno... Debo estar<n>más cansada<n>de lo que pensaba."
+      "text": "Jajaja... Aquí está. Bueno... Debo estar<n>más\ncansada<n>de lo que pensaba."
     },
     {
-      "text": "No es propio de ella ser tan olvidadiza. La<n>fatiga<n>debe estar afectándola. Quizás<n>sea hora de ajustar<n>su horario para que<n>pueda tomar un descanso."
+      "text": "No es propio de ella ser tan olvidadiza.\nLa<n>fatiga<n>debe estar afectándola. Quizás<n>sea\nhora de ajustar<n>su horario para que<n>pueda\ntomar un descanso."
     }
   ]
 }

@@ -13,8 +13,8 @@
       "name": "Narita Brian",
       "text": "Oye, ¿todavía tenemos tiempo? Me<n>quedé sin cinta.",
       "choice_data_list": [
-        "Ahora que lo mencionas, ¿por qué siempre te pones cinta en la nariz?",
-        "Ahora que lo mencionas, ¿por qué siempre te pones cinta en la nariz?"
+        "Ahora que lo mencionas, ¿por qué siempre te pones\ncinta en la nariz?",
+        "Ahora que lo mencionas, ¿por qué siempre te pones\ncinta en la nariz?"
       ]
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Probablemente sea cierto, pero Narita<n>Brian ya se\ncambió de ropa para la<n>carrera. Definitivamente\nllamará la<n>atención si sale así."
+      "text": "Probablemente sea cierto, pero Narita<n>Brian ya\nse cambió de ropa para la<n>carrera.\nDefinitivamente llamará la<n>atención si sale así."
     },
     {
       "name": "Monólogo",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "La calidad no importa, solo consigue la<n>más barata."
+      "text": "La calidad no importa, solo consigue la<n>más\nbarata."
     },
     {
       "name": "Monólogo",
@@ -64,7 +64,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "¿Qué diablos? ¿Compraste toda la<n>tienda o algo así?",
+      "text": "¿Qué diablos? ¿Compraste toda la<n>tienda o algo\nasí?",
       "choice_data_list": [
         "...Yo la pago, así que no te preocupes.",
         "...Yo la pago, así que no te preocupes."
@@ -76,7 +76,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Primero que nada, el contrato de un<n>entrenador solo\ndura tres años desde la carrera de<n>debut. Y si no\nobtienes resultados, ese<n>contrato incluso puede\nterminarse antes."
+      "text": "Primero que nada, el contrato de un<n>entrenador\nsolo dura tres años desde la carrera de<n>debut. Y\nsi no obtienes resultados, ese<n>contrato incluso\npuede terminarse antes."
     },
     {
       "name": "Narita Brian",
@@ -89,7 +89,7 @@
       "name": "Narita Brian",
       "text": "...¿Eh?",
       "choice_data_list": [
-        "¡Vas a ganar, sin importar contra quién te enfrentes!"
+        "¡Vas a ganar, sin importar contra quién te\nenfrentes!"
       ]
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Jaja... ¿Qué pasa con esa fe ciega?<n>¿Te golpeaste\nla cabeza o algo?"
+      "text": "Jaja... ¿Qué pasa con esa fe ciega?<n>¿Te\ngolpeaste la cabeza o algo?"
     },
     {
       "name": "Narita Brian",
@@ -122,10 +122,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Esto es carreras. La primera en cruzar la<n>meta gana,\n¿verdad?",
+      "text": "Esto es carreras. La primera en cruzar la<n>meta\ngana, ¿verdad?",
       "choice_data_list": [
-        "¡Vas a ganar, sin importar contra quién te enfrentes!",
-        "¡Vas a ganar, sin importar contra quién te enfrentes!"
+        "¡Vas a ganar, sin importar contra quién te\nenfrentes!",
+        "¡Vas a ganar, sin importar contra quién te\nenfrentes!"
       ]
     },
     {
@@ -142,11 +142,11 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Muy bien, Brian! ¡No nos aburras ahí<n>fuera o vendré\na reírme en tu cara cuando<n>termines!"
+      "text": "¡Muy bien, Brian! ¡No nos aburras ahí<n>fuera o\nvendré a reírme en tu cara cuando<n>termines!"
     },
     {
       "name": "Monólogo",
-      "text": "Y así, el Asahi Hai F.S. está por<n>comenzar bajo la\nmirada atenta de una<n>enorme multitud."
+      "text": "Y así, el Asahi Hai F.S. está por<n>comenzar bajo\nla mirada atenta de una<n>enorme multitud."
     }
   ]
 }

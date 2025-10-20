@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Tokai Teio",
-      "text": "<i>Murmura, murmura...</i> La respuesta es tres...<n>\n<i>Bostezo...</i>",
+      "text": "<i>Murmura, murmura...</i> La respuesta es\ntres...<n> <i>Bostezo...</i>",
       "choice_data_list": [
         "¿De qué estás hablando?"
       ]
@@ -14,7 +14,7 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Al principio fue más fácil de lo que<n>esperaba, pero\ncada vez que supero una<n>etapa aparece otra..."
+      "text": "Al principio fue más fácil de lo que<n>esperaba,\npero cada vez que supero una<n>etapa aparece\notra..."
     },
     {
       "name": "Tokai Teio",
