@@ -1,0 +1,267 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Casi es el White Day, y necesito pensar en un\nregalo para Eishin Flash.",
+      "choice_data_list": [
+        "Hmm..."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "He pasado días buscando en tiendas en línea, pero\nnada me ha llamado la atención. Quizás sea mejor\nir de compras en persona para este tipo de cosas...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entrenador, ha estado hablando consigo mismo durante\nbastante tiempo.",
+      "choice_data_list": [
+        "¡¿Qué?! ¡¿Cuánto tiempo llevas aquí?!",
+        "¡¿Qué?! ¡¿Cuánto tiempo llevas aquí?!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "He estado aquí todo el tiempo. Hice varios\nintentos de llamar su atención, pero fue en vano..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Qué es lo que le preocupa tanto?",
+      "choice_data_list": [
+        "¡Nada me preocupa! ¡T-todo está bien!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Nein, eso no es lo que parece. Para ser franca, su\nnegación solo aumenta mis sospechas.",
+      "choice_data_list": [
+        "¡Estoy bien, de verdad! ¡Uh, nos vemos luego!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Espere—¿Entrenador?!"
+    },
+    {
+      "text": "No hay forma de que pueda preguntarle a Eishin Flash qué debería\nregalarle para el White Day.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Me siento mal por huir sin dar explicaciones,\npero escapo antes de que pueda detenerme.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entrenador de Flash identificado a las doce en punto."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Hola! ¿Estás de compras hoy? Hace un día\nmuy agradable, ¿no crees?",
+      "choice_data_list": [
+        "¡Oh, esto es perfecto!"
+      ]
+    },
+    {
+      "name": "Las Dos",
+      "text": "¿Hm?"
+    },
+    {
+      "text": "Les explico la situación y les pido consejo sobre\nqué regalarle a Eishin Flash.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Entonces deberías visitar la tienda de variedades\nlocal! ¡Tienen muchísimas cosas lindas!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Aparentemente, esa tienda es muy popular entre las\nestudiantes. City mencionó antes que tienen\ncosméticos junto con artículos en general."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Espero que encuentres algo bonito! ¡Oh! ¡Creo que una\ntarjeta también la haría feliz!"
+    },
+    {
+      "text": "Les agradezco su consejo y me dirijo a\nla tienda. Resulta que Tosen Jordan también\nestá allí.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Estás buscando un regalo de agradecimiento por lo que\nrecibiste en San Valentín? ¿Y viniste <i>aquí</i> a buscarlo?\nEh."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "O sea, la gente es exigente con este tipo de cosas,\ny darle algo que no quiere apestaría\npara los dos."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Pero conociendo a Flash, ella diría algo como: \"La\nintención es lo que cuenta\". Como sea, ella te regaló un\npastel, así que ¿por qué no le regalas uno también?"
+    },
+    {
+      "text": "Echo un vistazo a la tienda de todos modos, pero las palabras\nde Tosen Jordan me persiguen. Es entonces cuando...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡¿Qué es lo que escucho?! ¡¿Así que buscas un\nregalo de agradecimiento?! ¡Qué amable de tu parte mostrar\ngratitud! ¡Un comportamiento verdaderamente ejemplar!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Solo para que lo sepas, ¡le di chocolates a toda mi\nclase, ¡PERO! ¡No espero nada a\ncambio! ¡Soy una estudiante modelo, después de todo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Todo lo que necesito es una palabra de agradecimiento! ¡GUAU! ¿Acaso no soy\nincreíble? ¡Una estudiante ejemplar, si me lo\npreguntas! Pero si quieren darme algo, ¡lo\naceptaré con gusto!"
+    },
+    {
+      "text": "...No puedo decidirme. Sakura Bakushin O\ntiene un buen punto. Pero solo decir \"gracias\" a\nEishin Flash no se siente suficiente...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Después de mucha deliberación, finalmente decido...",
+      "choice_data_list": [
+        "Escribir una carta.",
+        "¡Hornear algo!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Decido escribirle una carta, no solo para agradecerle\npor su regalo del día de San Valentín, sino también para dejarle\nsaber lo conmovido que estoy por su arduo trabajo.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Pierdo la cuenta de cuántas veces empiezo la carta de nuevo.\nEl sol ya se ha puesto para cuando logro terminarla.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Aun así, siento que no sería suficiente\ndarle solo una carta. Tal vez podría darle\nalgo más también, como...",
+      "choice_data_list": [
+        "Una flor o algo..."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Excepto que todas las floristerías ya cerraron hace dos\nhoras. Tendrá que comprar algunas más\ntarde.",
+      "choice_data_list": [
+        "¡Uau!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Jeje. Esta es la segunda vez que lo asusto\nhoy."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Estaba murmurando en voz alta otra vez. ¿Todo este tiempo,\nse estuvo estresando sobre qué regalarme?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Esa carta... es para mí?",
+      "choice_data_list": [
+        "Eh, bueno... Sí..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Estaba al tanto de la práctica cultural del White Day,\npero no pensé que recibiría nada por\nello..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "A juzgar por el estado de su escritorio, debe haber\npasado por muchos borradores y reescrituras..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Si simplemente hubiera comenzado escribiendo a la ligera un\nborrador, no habría tenido que usar tantas\nhojas de—"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...No, no importa. Eso no es lo que deseo decir."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Gracias... Leeré y atesoraré cada palabra."
+    },
+    {
+      "text": "No quería darle la carta de esta manera, pero\ncuando se la entrego, Eishin Flash la sostiene como si fuera\nla cosa más importante del mundo.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Mi repostería no le llega a los talones a la de Eishin Flash,\npero tal vez pueda hacer unos cupcakes...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Habiendo decidido qué hacer, busco una receta\ny salgo a comprar los ingredientes.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Después de buscar un rato, me encuentro con un\ndilema.",
+      "choice_data_list": [
+        "¿Cuál de estos es mejor para un pastel?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Resulta que hay varios tipos de crema\npara batir, y no tengo idea de cuál comprar. ¿Debería\nllevar una cara solo para estar seguro?",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Qué tiene la intención de hornear? Si quiere hacer\nalgo con un sabor más fuerte, le recomiendo\nla del estante a su derecha.",
+      "choice_data_list": [
+        "¡Uau!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Cielos..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Si está horneando algo, estaría más\nque dispuesta a ayudar. ¿Por qué no me pidió\nayuda?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "A menos que... ¿Haya alguna razón por la que no pudiera\npreguntarme?",
+      "choice_data_list": [
+        "En realidad..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Quería hornearme un regalo de agradecimiento por\nel día de San Valentín? Oh... Había olvidado la\npráctica cultural del White Day en Japón."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sin embargo, ya es de tarde. Incluso si empieza\nahora..."
+    },
+    {
+      "text": "Tiene un buen punto. No estoy acostumbrado a hornear, así que quién\nsabe cuándo podré terminar. Puede que ni siquiera\nllegue a tiempo para el White Day.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por favor, no se ponga triste. La intención es lo que cuenta."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Hm, veamos... ¿Por qué no horneamos juntos cuando\nhaya tiempo? Puedo enseñarle qué hacer."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "De esa manera, puedo experimentar la alegría de enseñar,\nhornear y comer el producto terminado con usted."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Esa alegría sería la misma, sin importar si lo hacemos\nen el White Day o no. ¿Cierto?"
+    },
+    {
+      "text": "Eishin Flash me consuela y se ríe para sí misma.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Y así, celebramos el White Day unos días después\nhorneando un pastel y comiéndolo juntos.",
+      "name": "Monólogo"
+    }
+  ]
+}

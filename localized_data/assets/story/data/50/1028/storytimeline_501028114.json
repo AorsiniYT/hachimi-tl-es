@@ -1,0 +1,394 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Unos días después de los Swan Stakes..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Entrenador, ¿puedo hablar contigo?",
+      "choice_data_list": [
+        "Claro. ¿Qué pasa?",
+        "Claro. ¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Estoy preocupada por Biko."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Escucho con atención lo que tiene que decir, y\n<n>parece que Biko Pegasus no ha estado en su estado<n>\nnormal recientemente."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ella sonríe como siempre, pero a <n>veces, es como si\ncaminara con una gran <n>nube sobre su cabeza.",
+      "choice_data_list": [
+        "¿Alguna idea de por qué?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Bueno, ella estuvo realmente desanimada durante<n>\nlos Sprinters S..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Todos quedaron tan impactados por<n> tu forma de\ncorrer, y sus ojos brillaban <n>mientras te\nobservaban..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Sin embargo, yo... yo..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Siento que ella ha estado poniéndose más y más<n>\ntriste desde entonces..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Como probablemente ella esté preocupada por<n> sus\ncarreras, me preguntaba qué podría hacer<n> para\nayudarla...",
+      "choice_data_list": [
+        "¿Qué tal si la sacamos para un día de diversión?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo cómo pasar un día divertido afuera <n>puede\nayudar a aliviar su estrés y hacer que le <n>sea más\nfácil abrirse sobre lo que la<n> está molestando."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Tienes razón! ¡Buena idea, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Guau! ¡Hay naranjas hasta donde <n>alcanza la vista!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí! ¡El aire también huele tan dulce!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Los tres decidimos ir a recoger<n> naranjas juntos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como es temporada alta de naranjas,<n> el huerto está\na tope. El personal <n>está repartiendo globos a los\nniños que <n>se van a casa, y hay puestos llenos<n> de\nsouvenirs por todas partes. Está en pleno<n> apogeo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todos se están divirtiendo mucho recogiendo<n> y\neligiendo sus propias naranjas."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Bono, mira mi cosecha! ¡He recogido <n>tantas\nnaranjas de olor dulce!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Wow, eso es genial! ¿Sabías? Las<n> naranjas más\npequeñas son más <n>sabrosas porque están llenas de\ndulzura!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿E-ellos son?! ¡Eres tan sabia,<n> Bono."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Pueden ser pequeñas, pero son <n>deliciosas y\ngeniales. Recordé ese dato<n> sobre las naranjas de\ninmediato <n>porque me recordó a ti, Biko."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "O-oh..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Biko?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Pero no soy nada genial! ¡Ni siquiera puedo\nconseguir<n> una victoria durante el momento más\ndecisivo<n> de una carrera!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Soy malísima manteniendo mi posición, y<n> nunca\npuedo abrirme paso entre el grupo <n>cuando me\nbloquean!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "A este ritmo... Nunca inspiraré valor en nadie\ndesde<n> entonces..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh, Biko..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Gah! ¡Lo siento! ¡Olvida lo que dije!"
+    },
+    {
+      "name": "Niña",
+      "text": "¡Waaah!"
+    },
+    {
+      "name": "Bono y Biko",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente, una niña grita cuando un<n> globo rojo se\nescapa de su mano y se eleva<n> alto en el cielo."
+    },
+    {
+      "name": "Madre",
+      "text": "Lo siento, cariño, pero no hay forma de<n>\nrecuperarlo. Vamos a buscar uno nuevo,<n> ¿vale?"
+    },
+    {
+      "name": "Niña",
+      "text": "¡No! Esta es la última vez que voy a <n>jugar con\nMio, ¡y quiero tener el <n>mismo globo que ella!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Oh... Ese globo debe significar mucho para<n> ella..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡No temáis! ¡Juro por mi honor<n> que lo recuperaré\npara ti!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Vamos también, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Perseguimos a Biko Pegasus y la <n>vemos en la cima\nde un árbol, extendiendo la<n> mano para el globo que\nse <n>había enredado en sus ramas."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Nrghhh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero por más que lo intenta, el globo está\ndemasiado<n> lejos para que sus brazos cortos lo\nalcancen."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "...",
+      "choice_data_list": [
+        "Esto es demasiado peligroso. Voy a subir allá.",
+        "Esto es demasiado peligroso. Voy a subir allá."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Espera, no lo hagas. Estoy seguro de que Biko\npodrá<n> conseguirlo."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Sé que lo hará."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "S-solo un poco más... ¡Casi!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Ten cuidado, Biko!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Bono!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Gracias, pero estoy bien! ¡Solo aguanta<n> un\nmomento!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Muy bien, ¡allá voy! Nnngh... ¡Hiyah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biko Pegasus se agarra de una rama,<n> se lanza hacia\nadelante y ¡arrebata<n> el globo! Pero justo cuando\nlo hace..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Oh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La rama se rompe, haciéndola<n> caer en picado ...",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Hup!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y directamente en los brazos esperantes<n> de Hishi\nAkebono."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "L-lo siento, ¡Bono! ¿Estás bien?!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí, sí! ¡Fuiste muy genial ahora,<n> Biko!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Recuperaste el globo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Akebono mira con intensa<n> admiración a Biko\nPegasus, <n>que agarra el globo con fuerza en <n>su\nmano."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Uf... Pasaron tantas cosas hoy, pero fue<n> muy\ndivertido! ¡También recogimos muchas <n>naranjas!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Qué debería hacer con ellas cuando <n>volvamos? La\nmermelada estaría bien, pero<n> también hacer dulce\nsería bueno."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Cuál prefieres, Biko?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "...¿Hm? ¡Oh! ¡Lo siento! ¡No estaba escuchando!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oye, ¿qué tal si partimos una naranja?<n> ¡Apuesto a\nque esta sabrá muy buena!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Akebono elige una naranja pequeña<n> de su\nmontón, la pela y le da la mitad a<n> Biko Pegasus."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "<i>¡Gracias! <i>Munch...</i> ¡Guau, tienes razón!<n> ¡Es súper\ndulce y rico!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "...Oye, Biko? Realmente creo que eres<n> genial."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Solo puedo imaginar las luchas a las que<n> te\nenfrentas, ya que yo no tengo la misma<n> complexión\nque tú, pero..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Debe ser realmente difícil conseguir<n> una buena\nposición en una carrera y abrirte<n> paso cuando\nestás bloqueada por <n>tu estatura..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Y debe ser tan frustrante no poder<n> desatar tu\nsprint final porque otras<n> personas alteraron tu\nritmo, y no <n>puedes alcanzar la línea de meta como<n>\nquieres..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Sí..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Pero a pesar de todo eso, sigues <n>avanzando."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Nunca te rindes, no importa cuán<n> difíciles sean\nlas cosas ni cuánto duela."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Creo que por eso pudiste recuperar<n> ese globo."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Bono..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Todas esas partes de ti son lo que te hacen<n> un\nhéroe para mí."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Creo que todos también vendrán a verte<n> de esa\nmanera algún día."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El suave y sereno flujo de palabras de Hishi<n>\nAkebono hace que Biko Pegasus se detenga<n> por un\nmomento."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Hm? ¿Qué pasa?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Gracias, Bono... Sí, tienes razón..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Lo siento! No lo estoy haciendo ni de cerca tan<n>\nbien como pensaba que podría en mis carreras..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Quiero decir, incluso tuviste que venir<n> a\nrescatarme antes. Empecé a pensar en mí misma<n> como\nuna verdadera fracasada..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Parte de mí empezó a preguntarse <n>si quizás—solo\nquizás—no tenía lo que se <n>necesita para ser un\nhéroe."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Pero eso es cosa del pasado!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡No me desanimaré! No importa cuántas<n> veces me\npongan de rodillas, ¡me <n>levantaré de nuevo!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Uh-huh! ¡Esa es la Biko que conozco!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ver a Biko Pegasus de mejor humor hace<n> que Hishi\nAkebono también sonría <n>brillantemente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es entonces cuando recuerdo algo que<n> me dijo\nanteriormente."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "No es solo cualquier persona corriendo—somos<n> yo y\nBiko, ¡así que estoy seguro de que<n> todos saldrán\nsintiéndose llenos y satisfechos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El fuerte vínculo entre Hishi<n> Akebono y Biko\nPegasus seguramente<n> nunca cambiará."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy hizo que ese hecho quedara cristalino."
+    }
+  ]
+}

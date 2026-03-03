@@ -1,0 +1,195 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Chica con Sombrero Rojo",
+      "text": "¡No! ¡Nunca, nunca te perdonaré!"
+    },
+    {
+      "name": "Chica con Pelo Corto",
+      "text": "<i>¡Hip! Snif...</i> P-pero..."
+    },
+    {
+      "text": "Parece que esas chicas están teniendo una<n> pelea.\nJusto cuando estoy a punto de ir a<n> ver si todo\nestá bien, dos rostros familiares<n> llegan primero.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Ustedes dos tuvieron una pelea? ¿Todo<n> bien?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Está bien, no llores... Umm, ¡aquí!<n> ¡Puedes usar\nmi pañuelo!"
+    },
+    {
+      "name": "Chica con Pelo Corto",
+      "text": "E-estoy bien... Tengo <i>uno... <i>Snif.</i>"
+    },
+    {
+      "name": "Chica con Sombrero Rojo",
+      "text": "..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Me gustaría escuchar lo que pasó aquí,<n> pero...\nHum..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Ya sé! ¿Les gustaría tomar <n>un helado con\nnosotros?"
+    },
+    {
+      "name": "Chica con Pelo Corto",
+      "text": "Quiero helado de fresa..."
+    },
+    {
+      "name": "Chica con Sombrero Rojo",
+      "text": "Y yo quiero de chocolate..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Entendido! ¡Iré a conseguir algunas<n> para todos ya\nmismo!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Espera, Ines. ¿No acabas de decir que el dinero<n>\nestá bastante ajustado para ti este mes?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Ah, es cierto! El día de pago todavía está<n>\nlejos...",
+      "choice_data_list": [
+        "Puedo pagar por todas, si quieren."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Espera, ¿en serio?! ¡Acepto tu oferta,<n> entonces!"
+    },
+    {
+      "name": "Chicas",
+      "text": "¡Gracias por el helado!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Jeje... Gracias también por invitarnos.",
+      "choice_data_list": [
+        "De nada."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Parece que ahora se sienten mejor. <n>Entonces,\n¿sobre qué estaban peleando, de <n>todos modos?"
+    },
+    {
+      "name": "Niña con Sombrero Rojo",
+      "text": "¡Me dijo que se muda! ¡Así nada<n> más!"
+    },
+    {
+      "name": "Niña de Pelo Corto",
+      "text": "Yo tampoco quiero irme, pero tenía que<n> venir a\ndespedirme..."
+    },
+    {
+      "name": "Niña con Sombrero Rojo",
+      "text": "Así que ya no vas a jugar conmigo,<n> ¿eh? ¡Entonces\nvete! Ve a jugar con<n> todos tus nuevos amigos y\nolvídate por <n>completo de mí!"
+    },
+    {
+      "name": "Niña con Sombrero Rojo",
+      "text": "Yo... ¡yo no quiero eso!"
+    },
+    {
+      "name": "Niña de Pelo Corto",
+      "text": "¡Yo tampoco quiero eso! Yo... <i>¡Snif! ¡Hic!</i>"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Allá, allá. Ustedes dos deben <n>quererse mucho."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Sabes, yo salgo mucho con Ryan."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Pero también paso tiempo con mis<n> otros compañeros\ny me reúno con amigos <n>que viven lejos."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Lo mismo! ¡Todos mis amigos son importantes <n>para\nmí!"
+    },
+    {
+      "name": "Niña con Sombrero Rojo",
+      "text": "...¿Todos ellos?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Así es! Así que incluso si están lejos,<n> seguirán\nsiendo mejores amigos mientras<n> lo deseen!"
+    },
+    {
+      "name": "Niña con Sombrero Rojo",
+      "text": "Está <i>bien... <i>Snif...</i> Perdón por enojarme<n> contigo.\nQuiero ser tu amiga para siempre."
+    },
+    {
+      "name": "Niña de Pelo Corto",
+      "text": "¡E-entonces hagámoslo! ¡Seamos mejores amigos<n> para\nsiempre!"
+    },
+    {
+      "name": "Niña con Sombrero Rojo",
+      "text": "¡E-está bien!",
+      "choice_data_list": [
+        "¡Qué bueno que se reconciliaron!",
+        "Ahora no estarán solos ni siquiera si están\nseparados."
+      ]
+    },
+    {
+      "name": "Niña de Pelo Corto",
+      "text": "¡Gracias!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡De nada! Todo bien cuando termina<n> bien, ¿eh?"
+    },
+    {
+      "text": "Después de despedirnos de las dos niñas, todos<n>\nempezamos caminar de regreso a la academia.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Oye Ryan, ¿qué harías si me voy<n> a algún lugar muy\nlejano?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Eh? Estaría triste, pero... nuestro lazo es lo\nsuficientemente<n> fuerte para sobrevivir cualquier\ndistancia."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eh, ¡olvida lo que dije! ¡Jaja! Vaya, <n>eso fue\n¡vergonzoso!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ay, vamos, ¡déjame escuchar de nuevo lo <n>que\ndijiste! ¿Qué era eso de nuestro lazo?"
+    },
+    {
+      "name": "Niña con Sombrero Rojo",
+      "text": "Pero ya no podremos jugar <n>cuando queramos..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Aún pueden llamarse y verse los fines <n>de semana!\n¡Así, no estarán solos ni<n> siquiera si no pueden\nestar juntos todos<n> los días!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Y se divertirán aún más <n>cuando se vean porque\nserá muy<n> especial!"
+    },
+    {
+      "name": "Niña de Pelo Corto",
+      "text": "¡Oh, está bien! Sí, así no se sentirá<n> tan solo!"
+    },
+    {
+      "name": "Niña con Sombrero Rojo",
+      "text": "¡Ehehe! ¡Llamémonos montones de veces!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Qué tal si se dan la mano, entonces?<n> No para\ndecir adiós, sino para <n>prometerse que se verán de\nnuevo?"
+    }
+  ]
+}

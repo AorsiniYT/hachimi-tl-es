@@ -2,47 +2,47 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "El día de la carrera de Biwa Hayahide, llevo<n>a\nNarita Brian al Hipódromo de Hanshin para<n>ver el\ndebut de su hermana."
+      "text": "El día de la carrera de Biwa Hayahide, llevo<n> a\nNarita Brian al Hipódromo de Hanshin para <n>ver el\ndebut de su hermana."
     },
     {
       "name": "Narita Brian",
-      "text": "Más te vale que hayas dicho la verdad<n>esta mañana.",
+      "text": "Mejor haber dicho la verdad <n>esta mañana.",
       "choice_data_list": [
-        "¿Sobre qué?"
+        "¿De qué?"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "No finjas ignorancia. No te dejaré<n>echarte atrás\nde tu promesa después de<n>haber llegado hasta\naquí."
+      "text": "No finjas ser tonto. No te permitiré retractarte\n<n>de tu promesa después de haber llegado tan lejos."
     },
     {
       "name": "Narita Brian",
-      "text": "Tch... ¡Simplemente no te rindes! ¿Por qué<n>diablos iría contigo?",
+      "text": "Tch... ¡No te rindes! ¿Por qué diablos<n> iría\ncontigo?",
       "choice_data_list": [
-        "¡De verdad creo que necesitas ver esto!",
-        "¡De verdad creo que necesitas ver esto!"
+        "Creo que realmente debes ver esto.",
+        "Creo que realmente debes ver esto."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "Bien, pero prometerás nunca más venir<n>husmeando\nalrededor mío. Espera, eso no<n>es\nsuficiente—¡entrega tu placa de entrenador\ntambién!",
+      "text": "Está bien, pero prometerás no volver a husmear<n>\nalrededor de mí nunca más. Espera, eso no es\n<n>suficiente—también debes entregar tu insignia de\nentrenador.",
       "choice_data_list": [
-        "¡Trato!"
+        "Trato hecho."
       ]
     },
     {
       "name": "Narita Brian",
       "text": "...Hmm.",
       "choice_data_list": [
-        "(¡¿Qué acabo de prometer?!)"
+        "(¿Qué acabo de prometer?)"
       ]
     },
     {
-      "text": "Bueno, ella está aquí, así que al menos funcionó. Todo<n>lo que queda es..."
+      "text": "Bueno, ella está aquí, así que al menos funcionó.\n<n>Todo lo que queda es..."
     },
     {
-      "name": "Comentarista",
-      "text": "¡Es hora del Junior Make Debut! ¿Quién<n>brillará\ncomo nuestra victoriosa hoy?"
+      "name": "Locutor",
+      "text": "Es hora de que los juniors hagan su debut. ¿Quién<n>\nbrillará como nuestra victoriosa hoy?"
     },
     {
       "name": "Narita Brian",
@@ -50,42 +50,42 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "(¿Estás viendo, Brian?)"
+      "text": "(¿Estás mirando, Brian?)"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "(Siempre has amado correr más que<n>nadie. Es\nnatural que anheles un<n>oponente a la altura.)"
+      "text": "(Siempre has amado correr más que<n> nadie. Es solo\nnatural que anheles un<n> oponente digno.)"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "(Pero simplemente eres demasiado talentosa, así\nque tus<n>esperanzas siempre se\nfrustraban...<n>Por eso eres tan rápida en\nrendirte con los demás.)"
+      "text": "(Pero eres demasiado talentosa, así que<n> siempre te\ndesanimas... Eso es por qué<n> te rindes tan rápido\ncon los demás.)"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "(Pero debes aprender, Brian, que un<n>oponente a\nla altura puede venir de<n>cualquier\nparte—¡incluso de las profundidades del fracaso!)"
+      "text": "(Pero debes aprender, Brian, que un oponente <n>digno\npuede venir de cualquier lugar—incluso<n> de las\nprofundidades del fracaso.)"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¡Haaaaah!"
+      "text": "Haaaaah."
     },
     {
-      "name": "Comentarista",
-      "text": "¡Biwa Hayahide va en la delantera! ¡Va<n>muy\nadelante del grupo! Va por dos, no,\ntres<n>longitudes—esperen, ¡esto se está\nconvirtiendo en una<n>victoria aplastante!"
+      "name": "Locutor",
+      "text": "Biwa Hayahide está en la delantera. Está <n>mucho\nadelante del grupo. Está dos, no, tres\n<n>longitudes—espera, esto se está convirtiendo en\n<n>una victoria aplastante."
     },
     {
       "name": "Narita Brian",
-      "text": "¿Qué es esto? ¿Desde cuándo puede correr así?<n>Es\ncomo si estuviera en persecución y todo lo<n>que\nve es la línea de meta..."
+      "text": "¿Qué es esto? ¿Desde cuándo podía correr así?<n> Es\ncomo si estuviera en la caza y todo lo que <n>puede\nver es la línea de meta..."
     },
     {
       "name": "Narita Brian",
-      "text": "¡Tch!",
+      "text": "Tch.",
       "choice_data_list": [
-        "¿Brian?"
+        "Brian."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "¡Hermana! ¿Por qué has estado ocultando\nesa<n>habilidad increíble todo este tiempo? ¿Por\nqué<n>nunca me has pedido que corramos?"
+      "text": "Hermana, ¿por qué has estado ocultando <n>esa\nhabilidad asombrosa todo este tiempo? ¿Por qué\n<n>nunca me has pedido que corriera contigo?"
     },
     {
       "name": "Biwa Hayahide",
@@ -93,30 +93,30 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Vayamos a las gradas, ¿de acuerdo?"
+      "text": "Vamos a las gradas, ¿de acuerdo?"
     },
     {
       "name": "Narita Brian",
-      "text": "¿Eh? Estoy tratando de hablar contigo aquí—"
+      "text": "¿Eh? Estoy tratando de hablarte aquí—"
     },
     {
-      "text": "<i>¡Wooooo!</i>"
+      "text": "<i>Wooooo!</i>"
     },
     {
       "name": "Narita Brian",
-      "text": "¡¿Eh?! ¿Qué pasa con esos vítores? Es aún<n>más\nfuerte que cuando corriste..."
+      "text": "¿Eh?! ¿Qué pasa con ese aplauso? Es incluso más<n>\nfuerte que cuando tú corriste..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Es fuerte, de hecho. Por buena que fuera\nmi<n>carrera, fue apenas un debut. Palidece\nen<n>comparación con el evento principal."
+      "text": "Es fuerte de verdad. Sin embargo buena carrera<n> que\nhice, fue solo un debut. Palidece en <n>comparación\ncon el evento principal."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No subestimes a los demás, Brian. Hay<n>corredoras\naquí mucho más grandes que yo."
+      "text": "No subestimes a los demás, Brian. Hay <n>corredores\naquí mucho mejores que yo."
     },
     {
-      "name": "Comentarista",
-      "text": "¡Finalmente es hora de la carrera principal\ndel<n>día! Entre todas estas atletas\nincreíbles,<n>¿quién se destacará y alcanzará la\ngloria?"
+      "name": "Locutor",
+      "text": "Finalmente es hora de la carrera principal del<n>\ndía. Entre todos estos atletas increíbles,<n> ¿quién\nse adelantará y logrará la gloria?"
     },
     {
       "name": "Biwa Hayahide",
@@ -124,111 +124,111 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Para ser honesta, no me importa. Todo lo que<n>quiero es competir contra\nti—"
+      "text": "Para ser honesto, no me importa. Solo quiero\ncorrer<n> contra ti—"
     },
     {
       "name": "Biwa Hayahide",
       "text": "Creo que será ella."
     },
     {
-      "name": "Uma Musume Senior",
-      "text": "¡Hraaaaagh!"
+      "name": "Umamusume Senior",
+      "text": "Hraaaaagh."
     },
     {
       "name": "Narita Brian",
       "text": "Espera, esa voz..."
     },
     {
-      "name": "Uma Musume Senior",
-      "text": "¡Esa no fue una victoria! Nunca\ndebería...<n>haberme enfrentado a una bestia\ncomo<n>esa!"
+      "name": "Umamusume Senior",
+      "text": "Esa no fue una victoria. Nunca debí... <n>haberme\nenfrentado a una bestia como esa."
     },
     {
       "name": "Narita Brian",
-      "text": "Debes estar bromeando. No era así<n>cuando corrí\ncontra ella. ¡Ni siquiera tenía<n>el impulso para\nganar!"
+      "text": "Estás bromeando. No era así cuando<n> la corrí. Ni\nsiquiera tenía la motivación<n> para ganar."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ella me dijo algo... \"No me importa\ncuán<n>adelante esté Brian—la derrotaré.\"\nIncluso<n>empezó a entrenar desde cero\npara<n>enfrentarte nuevamente algún día."
+      "text": "Me dijo algo... \"No me importa cuánto esté<n>\nadelante Brian—la derrotaré.\" Incluso <n>comenzó a\nentrenar desde cero para enfrentarla<n> de nuevo\nalgún día."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Pero dijo que primero va a ganar esta carrera."
+      "text": "Pero dijo que va a ganar esta carrera<n> primero."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Esta es la Twinkle Series, Brian. Todas<n>aquí\nluchan hasta el final para<n>alcanzar un lugar en\nla cima."
+      "text": "Esta es la Serie Twinkle, Brian. Todos<n> aquí luchan\nhasta el final para <n>lograr un lugar en la cima."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Este mundo es donde perteneces. Pero aún<n>no has\ndado tu primer paso en él."
+      "text": "Este mundo es donde perteneces. Pero todavía<n> no\nhas dado tu primer paso en él."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Cuando lo hagas, estaré allí esperando—en\nla<n>cúspide de las carreras, el nivel G1."
+      "text": "Cuando lo hagas, estaré allí esperando—en <n>la cima\nde las carreras, el nivel G1."
     },
     {
       "name": "Narita Brian",
       "text": "..."
     },
     {
-      "text": "Trago saliva y hago un ruido audible, pero<n>el\nsonido queda completamente ahogado..."
+      "text": "Trago saliva y hago un audible golpe de garganta,<n>\npero el sonido está completamente ahogado..."
     },
     {
-      "text": "¡Wooooo!"
+      "text": "Wooooo."
     },
     {
-      "text": "Los aplausos en la Twinkle Series se<n>vuelven aún\nmás fuertes, con una energía suficiente<n>para\ncaptar la atención de Narita Brian.",
+      "text": "El aplauso en la Serie Twinkle crece aún más\n<n>fuerte, con una energía lo suficientemente grande\n<n>como para captar la atención de Narita Brian.",
       "choice_data_list": [
-        "¿Quieres competir aquí?",
-        "¿Quieres competir aquí?"
+        "¿Quieres correr aquí?",
+        "¿Quieres correr aquí?"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "¡Claro que sí! <i>¡Tch!</i>"
+      "text": "¡Claro que sí! <i>Tch!</i>"
     },
     {
       "name": "Narita Brian",
-      "text": "Cambio los términos de tu promesa.<n>Puedes seguir\nsiendo entrenador, pero bajo una<n>condición..."
+      "text": "Estoy cambiando los términos de tu promesa.<n> Puedes\nseguir siendo entrenador, pero con <n>una\ncondición..."
     },
     {
       "name": "Narita Brian",
-      "text": "Sé <i>mi</i> entrenadora... ¡Y llévame a la Twinkle<n>Series!"
+      "text": "<i>Sé <i>mi</i> entrenador... Y llévame a la Serie<n> Twinkle."
     },
     {
       "text": "Unos días después..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Brian... ¿Qué carrera vas a hacer después?"
+      "text": "Brian... ¿Qué carrera vas a correr después?"
     },
     {
       "name": "Narita Brian",
-      "text": "<i>Suspiro...</i> ¿Por qué? No tiene nada que ver<n>contigo."
+      "text": "<i>Suspiro...</i> ¿Por qué? No tiene nada que ver<n>\ncontigo."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Sí, tiene, idiota. Voy a someterme\na<n>entrenamiento especial solo para ese<n>día. Y\nvoy a <i>aplastarte</i>."
+      "text": "Sí, tiene que ver contigo, idiota. Me<n> someteré a\nun entrenamiento especial solo para<n> ese día. Y te\n<i>derrotaré</i>.</i>"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¿Sabes lo que significa uno contra uno?<n>Corremos\nhasta que una caiga. Y yo aún no<n>estoy en el\nsuelo, así que no te atrevas a<n>echarte atrás\nahora."
+      "text": "Sabes qué significa uno contra uno! Corremos<n> hasta\nque uno de los dos se rinda. Y yo todavía no<n> estoy\nen el suelo, así que no te atreves a echarte atrás<n>\nahora."
     },
     {
       "name": "Narita Brian",
       "text": "...!",
       "choice_data_list": [
-        "Algo me dice que va a mejorar mucho.",
-        "Algo me dice que va a mejorar mucho."
+        "Algo me dice que ella va a mejorar mucho.",
+        "Algo me dice que ella va a mejorar mucho."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "¡Jaja! Ahora entiendo—realmente\nestaba<n>subestimando a la gente. Así que de\nesto<n>se trata Tracen."
+      "text": "¡Ja! Ahora entiendo—realmente estaba<n> subestimando\na la gente. Así que esto es lo <n>que Tracen es en\nrealidad."
     },
     {
       "name": "Narita Brian",
-      "text": "Sirve. Me quedaré para destrozar a cada una<n>de\nellas. ¡Manos a la obra, Entrenadora!"
+      "text": "Está bien. Me quedaré para deshacerme de todos<n>\nellos. ¡Vamos a empezar, Entrenador!"
     }
   ]
 }

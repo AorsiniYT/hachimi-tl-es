@@ -3,37 +3,39 @@
   "text_block_list": [
     {
       "name": "Espectador A",
-      "text": "Apuesto a que Fuji Kiseki ganará hoy<n>ya que lo\nhizo tan bien en la Copa Milla NHK."
+      "text": "Apuesto a que Fuji Kiseki ganará hoy ya que<n> lo\nhizo tan bien en la Copa Milla NHK!"
     },
     {
       "name": "Espectador B",
-      "text": "No estaría tan seguro. Biko Pegasus y<n>Hishi\nAkebono también corren, y<n>son competidoras\nmuy fuertes."
+      "text": "No estaría tan seguro. Biko Pegasus<n> y Hishi\nAkebono también corren,<n> y son competidores muy\nfuertes."
     },
     {
       "name": "Espectador A",
-      "text": "Eso es cierto. Las gradas suelen estar<n>llenas de\nvítores, pero hoy está tan tenso..."
+      "text": "Es verdad. Las gradas suelen estar llenas<n> de\nánimos, pero hoy están tan tensas..."
     },
     {
-      "text": "Varias conversaciones llenan el<n>hipódromo\nmientras todos esperan que<n>comience la carrera.\nMientras tanto, en la sala de espera..."
+      "name": "Monólogo",
+      "text": "Varias conversaciones llenan el hipódromo <n>mientras\ntodos esperan a que comience la carrera.<n> Mientras\ntanto, en la sala de espera..."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "¡Uf! Me siento un poco nerviosa."
+      "text": "¡Uf! Estoy un poco nerviosa."
     },
     {
+      "name": "Monólogo",
       "text": "<i>Toc, toc</i>"
     },
     {
       "name": "Biko Pegasus",
-      "text": "¡Hola, Fuji! Espero que podamos tener<n>una buena\ncarrera hoy."
+      "text": "¡Hola, Fuji! ¡Espero que tengamos una buena\n<n>carrera hoy!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "¡Biko! Gracias por pasar. Estoy segura<n>de que\nserá una gran carrera."
+      "text": "¡Biko! Gracias por pasar. Seguro que<n> será una\ngran."
     },
     {
       "name": "Biko Pegasus",
-      "text": "¡Eres muy bienvenida! Ya sabes lo que<n>dicen.\n¡Los modales hacen a los héroes!"
+      "text": "¡De nada! Ya sabes lo que dicen.<n> ¡Los modales\nhacen a los héroes!"
     },
     {
       "name": "Hishi Akebono",
@@ -41,38 +43,39 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "¡Oh, Akebono, tú también viniste! ¡Se<n>siente tan\nanimado aquí ahora!"
+      "text": "¡Oh, Akebono, tú también viniste! ¡Ahora se <n>siente\ntan animado por aquí!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Ejeje. Qué bueno verte, Fuji. Vamos,<n>Biko, ¡es\nhora de hacer nuestro<n>ritual pre-carrera!"
+      "text": "Jeje. Qué gusto verte, Fuji. Vamos, Biko, es<n> hora\nde hacer nuestro ritual previo a la carrera!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "¿Tienen un ritual pre-carrera?"
+      "text": "¿Tienes un ritual previo a la carrera?"
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡Sip! Esta es una carrera grande, así<n>que\nhicimos una promesa para<n>animarnos mutuamente."
+      "text": "¡Sí! Esta es una carrera grande, así que hicimos<n>\nuna promesa de ¡animarnos mutuamente!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡Ya sé! Deberías hacerlo con<n>nosotras también,\nFuji. ¡Será muy divertido!"
+      "text": "¡Lo sé! ¡Deberías hacerlo con nosotros <n>también,\nFuji! ¡Será muy divertido!"
     },
     {
       "name": "Biko Pegasus",
-      "text": "¡Es una gran idea ya que<n>competiremos\nunas contra otras hoy!"
+      "text": "¡Es una gran idea ya que <n>competiremos entre\nnosotros hoy!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "¡Jajaja! Gracias, ustedes dos. Ya no me<n>siento\ntan nerviosa."
+      "text": "¡Jajaja! Gracias, las dos. Ya no me <n>siento tan\nnerviosa."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "¡Bien! ¡Hagamos de hoy una carrera<n>para recordar!"
+      "text": "¡Así es! ¡Hagamos de hoy una carrera <n>para\nrecordar!"
     },
     {
-      "text": "Las tres juntan sus manos en una<n>ronda y su\ncanto enérgico llena la<n>habitación, dando inicio\nal Campeonato de Milla."
+      "name": "Monólogo",
+      "text": "Las tres juntan las manos en<n> un círculo y su\nenérgico cántico llena<n> la habitación, dando inicio\nal Campeonato<n> de Millas!"
     }
   ]
 }

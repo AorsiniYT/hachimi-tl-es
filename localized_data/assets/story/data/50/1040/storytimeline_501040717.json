@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Gold City no se siente bien, así que la<n>llevo a\nla enfermería a descansar."
+      "text": "Gold City no se siente bien, así que la llevo<n> a la\nenfermería para que descanse."
     },
     {
       "name": "Gold City",
-      "text": "Perdón, pero voy a cerrar los ojos un<n>momento.\nPondré una alarma, por si acaso."
+      "text": "Perdón, pero voy a cerrar los ojos por <n>un segundo.\nPondré una alarma, por si acaso."
     },
     {
       "name": "Gold City",
@@ -18,42 +18,42 @@
     },
     {
       "name": "Gold City",
-      "text": "¡Uf, qué montaña rusa! ¡Hacía tiempo<n>que no\ngritaba tanto!"
+      "text": "Uf, ¡qué montaña rusa! ¡No he<n> gritado así en un\ntiempo!"
     },
     {
-      "name": "Personal del Parque",
-      "text": "¡Bienvenidos de vuelta! ¡Espero que la<n>pasen\ngenial en el parque de diversiones<n>de sus\nsueños!"
-    },
-    {
-      "name": "Gold City",
-      "text": "A ver, ¿qué sigue? Hay tazas giratorias,<n>o las\naventuras piratas..."
-    },
-    {
-      "name": "Personal del Parque",
-      "text": "¿Puedo recomendar también un tour<n>gourmet? ¡Mire\nnuestro folleto!"
+      "name": "Personal del parque de atracciones",
+      "text": "¡Bienvenido de vuelta! ¡Espero que la <n>pases genial\nen el parque de atracciones de<n> tus sueños!"
     },
     {
       "name": "Gold City",
-      "text": "Oh, ¿de verdad? Suena buena idea."
+      "text": "Veamos, ¿qué sigue? Están las tazas de té,<n> o las\naventuras piratas..."
     },
     {
-      "text": "<i>¡BIP! ¡BIP! ¡BIP! ¡BIP!</i>"
-    },
-    {
-      "name": "Gold City",
-      "text": "¡Agh! ¡Cielos, qué <i>es</i> eso! ¡Es tan fuerte!"
+      "name": "Personal del parque de atracciones",
+      "text": "¿Puedo también recomendar un tour gastronómico?<n>\n¡Echa un vistazo a nuestro folleto!"
     },
     {
       "name": "Gold City",
-      "text": "Suena como... ¿mi alarma?"
+      "text": "Oh, ¿en serio? Suena como una buena idea."
+    },
+    {
+      "text": "<i>¡BEEP! ¡BEEP! ¡BEEP! ¡BEEP!</i>"
     },
     {
       "name": "Gold City",
-      "text": "¡Ahhh! ¡Es cierto! ¡Tengo que irme!"
+      "text": "¡Agh! Caray, <i>¡qué <i>es</i> eso?! ¡Es tan fuerte!"
     },
     {
-      "name": "Personal del Parque",
-      "text": "¡El desfile empezará pronto! ¿Por qué<n>no se\nqueda y disfruta un poco más?"
+      "name": "Gold City",
+      "text": "Suena como... ¿mi despertador?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Ahhh! ¡Es verdad! ¡Tengo que irme!"
+    },
+    {
+      "name": "Personal del parque de atracciones",
+      "text": "¡El desfile comenzará pronto! ¿Por <n>qué no te\nquedas y disfrutas un poco más?"
     },
     {
       "name": "Gold City",
@@ -69,18 +69,18 @@
     },
     {
       "name": "Gold City",
-      "text": "¿Qué? ¿Era solo un sueño?"
+      "text": "¿Qué? ¿Solo fue un sueño?"
     },
     {
       "name": "Gold City",
-      "text": "Jejej. \"Tengo que correr\", ¿eh? Sí, ¡es<n>cierto!"
+      "text": "Jeje. \"Tengo que correr,\" ¿eh? ¡Sí, es<n> verdad!"
     },
     {
-      "text": "Gold City recupera su energía y se<n>reincorpora\nde inmediato a su entrenamiento."
+      "text": "Gold City recupera su energía y <n>vuelve a saltar al\nentrenamiento."
     },
     {
       "name": "Anuncio",
-      "text": "Atención, clientes. Quisiéramos<n>presentar una\ndisculpa."
+      "text": "Atención, clientes. Quisiéramos ofrecer<n> una\ndisculpa."
     },
     {
       "name": "Gold City",
@@ -88,11 +88,11 @@
     },
     {
       "name": "Anuncio",
-      "text": "La alerta que acaban de escuchar fue<n>activada\npor nuestro personal de<n>mantenimiento para\nprobar el sistema.<n>Disculpen las molestias."
+      "text": "La alerta que acaban de escuchar fue activada <n>por\nnuestro personal de mantenimiento para probar<n> el\nsistema. Nos disculpamos por <n>cualquier\ninconveniente causado."
     },
     {
       "name": "Gold City",
-      "text": "Oh, está bien... Supongo que iré al<n>siguiente juego."
+      "text": "Ah, ya veo... Supongo que iré a la siguiente\n<n>atracción."
     },
     {
       "name": "Gold City",
@@ -103,7 +103,7 @@
       "text": "¡Espera, me quedé dormida!"
     },
     {
-      "text": "Gold City parece decepcionada por<n>haberse\ndormido mucho más allá de su horario."
+      "text": "Gold City parece decepcionada por haberse<n> quedado\ndormida mucho después de su horario."
     }
   ]
 }

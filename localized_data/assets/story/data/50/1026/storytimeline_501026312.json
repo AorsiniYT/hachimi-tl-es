@@ -1,126 +1,126 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Mejiro McQueen",
-      "text": "...!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "<i>Jadea... Jadea...</i>"
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "<i>Jadea... Jadea...</i>"
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "...¡Gané!"
-    },
-    {
-      "text": "¡Wuuuuuuh!"
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Reportando resultados. He derrotado\na<n>ambas,<n>McQueen y Rice.",
-      "choice_data_list": [
-        "¡Eso fue increíble!",
-        "¡Eso fue increíble!"
-      ]
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "¡Muchísimas gracias! Ahora, este...<n>Entrenador..."
-    },
-    {
-      "text": "Me mira con una expresión<n>vagamente<n>perdida.\nNo puedo evitar<n>preocuparme por su<n>salud.",
-      "choice_data_list": [
-        "¿E-estás bien?",
-        "¿E-estás bien?"
-      ]
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Siento que podría salir<n>corriendo en<n>cualquier\nmomento si no me<n>contengo.",
-      "choice_data_list": [
-        "¿Eh?"
-      ]
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "O quizás... saltar por ahí..."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Los controles del sistema no<n>funcionan.<n>Se\nrequiere mantenimiento de<n>emergencia."
-    },
-    {
-      "text": "Al ver el comportamiento<n>asustado de\nMihono<n>Bourbon, no puedo evitar<n>reírme a\ncarcajadas."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "No entiendo su reacción.",
-      "choice_data_list": [
-        "Lo que sientes ahora es felicidad.",
-        "Lo que sientes ahora es felicidad."
-      ]
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "¿\"Felicidad\"?"
-    },
-    {
-      "text": "Le digo que la mayoría se siente feliz<n>al ganar\ny<n>frustrado al perder."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Ganar crea \"felicidad\". Perder\ncrea<n>\"frustración\".<n>Nuevo conocimiento\nadquirido."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Mi estado actual parece<n>corresponder\ncon<n>\"felicidad\"."
-    },
-    {
-      "text": "Mihono Bourbon se lleva una mano al<n>pecho,\ncomo<n>para revisar físicamente sus<n>emociones."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "La \"felicidad\" es reconfortante. Pero<n>no es solo<n>eso..."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Mi \"deseo de ganar\" también está<n>creciendo\na<n>un ritmo exponencial."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Entrenador, yo... quiero\ncompetir<n>contra<n>oponentes aún más fuertes."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "¡Por ejemplo... Tokai Teio!",
-      "choice_data_list": [
-        "...!"
-      ]
-    },
-    {
-      "text": "Como está ahora, Mihono\nBourbon<n>ciertamente<n>podría rivalizar con Tokai\nTeio."
-    },
-    {
-      "text": "Tokai Teio se está recuperando de una<n>lesión,\nasí<n>que trato de pensar en la carrera<n>que\nmás<n>probablemente tomará después<n>de sanar.",
-      "choice_data_list": [
-        "¡Entonces nuestro próximo destino es la Japan Cup!"
-      ]
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "¡Entendido!"
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "¡Así que esa es Mihono Bourbon!"
-    },
-    {
-      "text": "Y así, comienza una nueva batalla.<n>¡Damos<n>todo\nen el entrenamiento<n>diario una vez más<n>rumbo a\nla Japan Cup!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "...!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Jadeo... Jadeo...</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Jadeando... Jadeando...</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...¡Gané!"
+        },
+        {
+            "text": "¡Wooooo!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Reportando resultados. He derrotado tanto a<n>\nMcQueen como a Rice.",
+            "choice_data_list": [
+                "¡Eso fue increíble!",
+                "¡Eso fue increíble!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "¡Muchas gracias! Ahora, um... <n>Entrenador..."
+        },
+        {
+            "text": "Ella me mira con una expresión <n>vagamente perdida.\nNo puedo evitar preocuparme<n> por su salud.",
+            "choice_data_list": [
+                "¿E- estás bien?",
+                "¿E- estás bien?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Siento como si pudiera salir corriendo <n>en\ncualquier momento si no me contengo.",
+            "choice_data_list": [
+                "¿Eh?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "O tal vez... saltar por ahí..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Los controles del sistema no están funcionando.<n> Se\nrequiere mantenimiento de emergencia."
+        },
+        {
+            "text": "Viendo el comportamiento paniqueado<n> de Mihono\nBourbon, no puedo evitar reírme<n> a carcajadas."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No entiendo tu reacción.",
+            "choice_data_list": [
+                "Lo que sientes ahora mismo es felicidad.",
+                "Lo que sientes ahora mismo es felicidad."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "\"Felicidad\"?"
+        },
+        {
+            "text": "Le digo cómo la mayoría de las personas se <n>sienten\nfelices cuando ganan y frustradas cuando<n> pierden."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Ganar crea \"felicidad\". Perder <n>crea \"frustración\".\nNuevo conocimiento<n> adquirido."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Mi estado actual parece corresponderse<n> con\n\"felicidad\"."
+        },
+        {
+            "text": "Mihono Bourbon se lleva una mano al <n>pecho, como si\npara revisar físicamente sus<n> emociones."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "\"Felicidad\" es reconfortante. Pero no<n> es solo\neso..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Mi \"deseo de ganar\" también está creciendo a<n> una\ntasa exponencial."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Entrenador, yo... quiero competir contra<n> oponentes\naún más fuertes."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Por ejemplo... ¡Tokai Teio!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "Como está ahora, Mihono Bourbon ciertamente<n> podría\nrivalizar con Tokai Teio."
+        },
+        {
+            "text": "Tokai Teio actualmente se está recuperando de una<n>\nlesión, asi que trato de pensar en la carrera en\nla que<n> probablemente entrará después de sanar.",
+            "choice_data_list": [
+                "¡Entonces nuestro próximo destino es el Japan Cup!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "¡Entendido!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "¡Así que esa es Mihono Bourbon!"
+        },
+        {
+            "text": "Y así, comienza una nueva batalla. ¡Ponemos <n>todo\nen el entrenamiento diario una vez más mientras<n>\nnos dirigimos al Japan Cup!"
+        }
+    ]
 }

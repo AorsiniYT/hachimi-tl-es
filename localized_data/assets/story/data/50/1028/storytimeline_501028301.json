@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Akebono",
+      "text": "No puedo creer que el campamento ya haya\n<n>terminado... Realmente pasó volando."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "El mes que viene es la Sprinters S..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Akebono mencionó que quería<n> participar en la\nSprinters S. la próxima."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero aún no sabemos si debería intentar <n>perder\npeso y participar en una categoría de <n>peso\ninferior o enfrentarlo como está ahora.",
+      "choice_data_list": [
+        "(De cualquier manera, es una decisión difícil.)"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "No hay forma de saber qué <n>pasará en el futuro..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Así que mantengámonos positivos, Entrenador/a!",
+      "choice_data_list": [
+        "¡Sí!",
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, mi ardiente experiencia <n>de campamento\nde verano con Hishi Akebono<n> llega a su fin."
+    }
+  ]
+}

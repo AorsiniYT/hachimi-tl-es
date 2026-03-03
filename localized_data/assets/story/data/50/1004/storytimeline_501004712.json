@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Maruzensky aún no llega al entrenamiento,\nasí<n>que empiezo a hacer otras tareas<n>cuando..."
+      "text": "Maruzensky aún no está aquí para entrenar,<n> así que\nempiezo a hacer otro trabajo<n> cuando..."
     },
     {
       "name": "Maruzensky",
-      "text": "¡Oye, Entrenador!",
+      "text": "¡Oh, rayos, Entrenador!",
       "choice_data_list": [
         "¿Qué te retuvo?",
         "¿Qué te retuvo?"
@@ -15,7 +15,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "¡Oye, Entrenador!",
+      "text": "¡Oh, rayos, Entrenador!",
       "choice_data_list": [
         "¿Qué te retuvo?",
         "¿Qué te retuvo?"
@@ -27,27 +27,27 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Pero tenía asuntos urgentes que atender.<n>Así que\n¡dame un respiro, colega! ¡Jeje!"
+      "text": "Pero tenía algunos asuntos urgentes que <n>atender.\nAsí que córtame un poco, Jack. ¡Jeje!"
     },
     {
       "name": "Maruzensky",
-      "text": "No te preocupes. ¡Ya sabes que lo<n>compensaré!",
+      "text": "No te preocupes. ¡Sabes que lo <n>compensaré!",
       "choice_data_list": [
-        "Solo trata de no llegar tarde la próxima vez.",
-        "Solo trata de no llegar tarde la próxima vez."
+        "Intenta no llegar tarde la próxima vez.",
+        "Intenta no llegar tarde la próxima vez."
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "Está bien. Lo siento por hacerte preocupar."
+      "text": "Bien. Perdón por hacerte preocupar."
     },
     {
       "name": "Monólogo",
-      "text": "Seguro que hay una razón, y no<n>quiero\nser demasiado estricto... Decido<n>no presionar más."
+      "text": "Estoy seguro de que debe haber una razón,<n> y no\nquiero ser demasiado estricto... Decido no<n>\ninsistir en el tema."
     },
     {
       "name": "Monólogo",
-      "text": "Después, me entero de que Maruzensky<n>ha estado\ntratando de ayudar a las<n>juniors con sus problemas."
+      "text": "Más tarde, me entero de que Maruzensky ha estado<n>\nintentando ayudar a los estudiantes de cursos\n<n>inferiores con sus problemas."
     }
   ]
 }

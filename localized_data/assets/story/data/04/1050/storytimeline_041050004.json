@@ -2,28 +2,28 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Entrenadora Nueva A",
-      "text": "Oye, ¿escuchaste? Ya sabes, sobre el<n>partido de práctica este fin de\nsemana."
+      "name": "Entrenador Nuevo A",
+      "text": "Oye, ¿escuchaste? Sabes, sobre la <n>práctica este\nfin de semana."
     },
     {
-      "name": "Entrenadora Hábil A",
-      "text": "Cierto, el que Narita Taishin va a<n>correr. \"Otra\noportunidad para ver de<n>qué está realmente\nhecha,\" ¿verdad?"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Todos en la academia saben del partido<n>de\npráctica gracias a Winning Ticket y<n>su juerga de\ngritar por todo el<n>campus durante días."
+      "name": "Entrenador Habilidoso A",
+      "text": "Sí, esa en la que Narita Taishin va a<n> correr.\n\"Otra oportunidad para ver de qué<n> está hecha\",\n¿era eso?"
     },
     {
       "name": "Monólogo",
-      "text": "Pero las reacciones a la gran noticia son<n>mixtas."
+      "text": "Todos en la academia saben sobre<n> la práctica\ngracias a Winning <n>Ticket y sus días de gritar por\ntodo el<n> campus."
     },
     {
-      "name": "Entrenadora Veterana A",
-      "text": "Biwa Hayahide es precisa, y Winning<n>Ticket corre\ncomo un cohete. Y no son solo<n>ellas... Las otras\ncorredoras han estado<n>entrenando igual de duro."
+      "name": "Monólogo",
+      "text": "Pero las reacciones a la gran noticia son<n> mixtas."
     },
     {
-      "name": "Entrenadora Veterana A",
-      "text": "No hay forma de que Taishin gane esto.\nSolo<n>espero que no se exceda y se lastime."
+      "name": "Entrenador Veterano A",
+      "text": "Biwa Hayahide es precisa, y Winning <n>Ticket corre\ncomo un cohete. Y no son solo ellas... <n>Las otras\ncorredoras también han estado entrenando<n> igual de\nduro."
+    },
+    {
+      "name": "Entrenador Veterano A",
+      "text": "No hay forma de que Taishin gane esta. Solo<n> espero\nque no se exceda y se lastime."
     },
     {
       "name": "Narita Taishin",
@@ -34,14 +34,14 @@
     },
     {
       "name": "Monólogo",
-      "text": "Intento acercarme a la corredora de<n>aspecto sombrío."
+      "text": "Intento acercarme a la corredora de aspecto\nsombrío."
     },
     {
       "name": "Monólogo",
-      "text": "Es cercana a Biwa Hayahide y<n>Winning Ticket, así\nque probablemente conoce<n>más sobre sus muy\ncomentadas<n>habilidades que la mayoría.",
+      "text": "Ella es cercana a Biwa Hayahide y <n>Winning Ticket,\nasí que probablemente sabe<n> más sobre sus\nmucho-discutidas <n>habilidades que la mayoría.",
       "choice_data_list": [
-        "Debes estar sintiendo la presión.",
-        "Debes estar sintiendo la presión."
+        "Debes de sentir la presión.",
+        "Debes de sentir la presión."
       ]
     },
     {
@@ -50,36 +50,36 @@
     },
     {
       "name": "Monólogo",
-      "text": "Se ve sombría, pero aún recuerdo ese<n>video—su\nardiente esprint por la<n>recta final.",
+      "text": "Se ve sombría, pero aún recuerdo ese<n> video—su\nsprint ardiente por la<n> recta final.",
       "choice_data_list": [
         "No necesitas enredarte en la lucha por la\nposición."
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "¿Disculpa? ¿Con quién crees que estás<n>hablando?"
+      "text": "¿Perdón? ¿Con quién crees que <n>estás hablando?"
     },
     {
       "name": "Narita Taishin",
-      "text": "¿Quieres decir que ya soy una desgracia?<n>¿Así\nque debería perder sin armar un<n>maldito\nalboroto?!",
+      "text": "¿Quieres decir que ya soy una desgracia? ¿Entonces<n>\ndebería simplemente perder sin hacer ni un maldito<n>\nescándalo?!",
       "choice_data_list": [
-        "¡Espera! Quiero decir, ¡si no peleas, puedes ganar!",
-        "¡Espera! Quiero decir, ¡si no peleas, puedes ganar!"
+        "¡Espera! Quiero decir, si no luchas, ¡puedes\nganar!",
+        "¡Espera! Quiero decir, si no luchas, ¡puedes\nganar!"
       ]
     },
     {
       "name": "Narita Taishin",
       "text": "¿Eh?",
       "choice_data_list": [
-        "Tómalo con calma al principio."
+        "Ve despacio al principio."
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "Eso es una locura... Si dejo que las<n>grandes\ncorredoras como Hayahide se adelanten,<n>¡nunca\nlas alcanzaré!",
+      "text": "Eso es una locura... Si dejo que las grandes\ncorredoras<n> como Hayahide se adelanten, ¡nunca las\nalcanzaré!",
       "choice_data_list": [
-        "¡Con tu velocidad de ruptura, puedes superar a\ncualquiera!",
-        "¡Con tu velocidad de ruptura, puedes superar a\ncualquiera!"
+        "¡Con tu velocidad de despegue, puedes superar a\ncualquiera!",
+        "¡Con tu velocidad de despegue, puedes superar a\ncualquiera!"
       ]
     },
     {
@@ -88,42 +88,42 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "No lo entiendo... ¿Por qué te<n>molesta tanto <i>a ti</i>?"
+      "text": "No lo entiendo... <i>¿Por qué </i>te molestas<n> <i>tú</i>?"
     },
     {
       "name": "Monólogo",
-      "text": "No estoy segura si realmente entendió mi consejo."
+      "text": "No estoy seguro si realmente entendió mi consejo."
     },
     {
       "name": "Monólogo",
-      "text": "Pero ya es demasiado tarde—¡las<n>puertas se abren!"
+      "text": "Pero ya es demasiado tarde—¡las puertas<n> se abren!"
     },
     {
       "name": "Monólogo",
       "text": "<i>¡Clank!</i>"
     },
     {
-      "name": "Entrenadora Hábil A",
-      "text": "Guau... Biwa Hayahide arranca en\nexcelente<n>forma. Tiene una buena posición al\nfrente."
+      "name": "Entrenador Habilidoso A",
+      "text": "Guau... Biwa Hayahide sale en excelente<n> forma.\nTiene una buena posición en la delantera."
     },
     {
-      "name": "Entrenadora Nueva A",
-      "text": "Winning Ticket también. Debe estar de<n>buen humor\nporque conoce a muchas de las<n>corredoras! ¡No\npuedo esperar a verla en la<n>última recta!"
+      "name": "Entrenador Nuevo A",
+      "text": "Winning Ticket también. Debe estar de<n> buen humor\nporque conoce a tantas de las<n> corredoras. ¡No\npuedo esperar a verla en la <n>recta final!"
     },
     {
-      "name": "Entrenadora Veterana A",
-      "text": "¿Eh? Narita Taishin está muy atrás...\nMe<n>pregunto si tropezó en su salida.",
+      "name": "Entrenador Veterano A",
+      "text": "¿Eh? Narita Taishin está muy atrás...<n> Me pregunto\nsi tuvo un mal inicio.",
       "choice_data_list": [
         "...!"
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "<i>Resuello... Resoplo...</i>"
+      "text": "<i>Jadeo... Resuello...</i>"
     },
     {
       "name": "Narita Taishin",
-      "text": "(Mierda, no puedo soportar esto. El frente\nse<n>está bloqueando... Es como un muro.)"
+      "text": "(Mierda, no aguanto más. La delantera se está<n>\nbloqueando... Es como una pared.)"
     },
     {
       "name": "Narita Taishin",
@@ -131,67 +131,67 @@
     },
     {
       "name": "Monólogo",
-      "text": "\"No necesitas enredarte en la lucha por<n>la posición.\""
+      "text": "\"No necesitas enredarte en la lucha<n> por la\nposición.\""
     },
     {
       "name": "Monólogo",
-      "text": "\"Tómalo con calma al principio.\""
+      "text": "\"Ve despacio al principio.\""
     },
     {
       "name": "Monólogo",
-      "text": "\"¡Espera! Quiero decir, ¡si no peleas, puedes<n>ganar!\""
+      "text": "\"¡Espera! Quiero decir, si no luchas, ¡puedes<n>\nganar!\""
     },
     {
       "name": "Monólogo",
-      "text": "\"¡Espera! Quiero decir, ¡si no peleas, puedes<n>ganar!\""
+      "text": "\"¡Espera! Quiero decir, si no luchas, ¡puedes<n>\nganar!\""
     },
     {
       "name": "Monólogo",
-      "text": "\"¡Con tu velocidad de ruptura, puedes<n>superar a cualquiera!\""
+      "text": "\"¡Con tu velocidad de despegue, puedes<n> superar a\ncualquiera!\""
     },
     {
       "name": "Monólogo",
-      "text": "\"¡Con tu velocidad de ruptura, puedes<n>superar a cualquiera!\""
+      "text": "\"¡Con tu velocidad de despegue, puedes<n> superar a\ncualquiera!\""
     },
     {
       "name": "Narita Taishin",
       "text": "Bien."
     },
     {
-      "name": "Entrenadora Nueva A",
-      "text": "¡Aquí está, la última curva! Ah, ¡Winning<n>Ticket viene rápido!"
+      "name": "Entrenador Nuevo A",
+      "text": "¡Aquí está, la última curva! Ah, ¡Winning<n> Ticket\nse acerca rápido!"
     },
     {
       "name": "Winning Ticket",
-      "text": "¡RAAAAAGH! ¡A TODA VELOCIDAD ADELANTE!"
+      "text": "¡RAAAAAGH! ¡VELOCIDAD MÁXIMA ADELANTE!"
     },
     {
       "name": "Biwa Hayahide",
       "text": "Je, como predije, ¡Winning Ticket!"
     },
     {
-      "name": "Entrenadora Hábil A",
-      "text": "¡Son Biwa Hayahide y Winning Ticket!<n>¿Se\nreducirá a una lucha entre<n>esas dos potencias?!"
+      "name": "Entrenador Habilidoso A",
+      "text": "¡Es Biwa Hayahide y Winning Ticket!<n> ¿Se decidirá\nen una lucha entre<n> esas dos potencias?!"
     },
     {
-      "name": "Entrenadora Veterana A",
-      "text": "¡Espera! ¡Desde afuera!"
+      "name": "Entrenador Veterano A",
+      "text": "¡Esperen! ¡Desde afuera!"
     },
     {
       "name": "Narita Taishin",
       "text": "¡Haaaaargh!"
     },
     {
-      "name": "Entrenadora Veterana A",
-      "text": "¡¿Narita Taishin?! ¡Mira esa explosión de<n>velocidad!"
+      "name": "Entrenador Veterano A",
+      "text": "¿¡Narita Taishin!? ¡Miren esa ráfaga de <n>velocidad!"
     },
     {
       "name": "Narita Taishin",
-      "text": "(Esto es—¡no pierdas el enfoque!\n¡Mírame!<n>¡Mírame hacer esto!)"
+      "text": "(¡Es ahora—no pierdas el enfoque! ¡Manten <n>los ojos\nen mí! ¡Mira cómo lo hago!)"
     },
     {
       "name": "Narita Taishin",
-      "text": "(¡Soy Narita Taishin, una corredora de<n>nacimiento!)"
+      "text": "(¡Soy Narita Taishin, una corredora de pura cepa!)"
     },
     {
       "name": "Narita Taishin",
@@ -199,39 +199,39 @@
     },
     {
       "name": "Monólogo",
-      "text": "Está incluso más concentrada que en el<n>video...\nComo una espada forjada de toda<n>su fuerza de\nvoluntad y perseverancia, corta<n>directamente al\nfrente."
+      "text": "Está aún más enfocada que en el video...<n> Como una\nhoja forjada de toda su fuerza de<n> voluntad y\nperseverancia, se abre paso <n>directamente a la\ndelantera."
     },
     {
       "name": "Monólogo",
-      "text": "Todos contienen la respiración cuando termina,\ny<n>Narita Taishin gana un final cerrado.\nTras<n>ella vienen Biwa Hayahide y\nWinning<n>Ticket."
+      "text": "Todos contienen el aliento cuando termina,<n> y\nNarita Taishin gana en un final reñido. Detrás<n> de\nella van Biwa Hayahide y Winning<n> Ticket."
     },
     {
       "name": "Monólogo",
-      "text": "Es más que suficiente para dar a conocer<n>su\npleno potencial—una carrera<n>realmente\nimpresionante."
+      "text": "Es más que suficiente para dar a conocer su máximo<n>\npotencial—una carrera verdaderamente\nimpresionante."
     },
     {
-      "name": "Entrenadora Veterana A",
-      "text": "Bueno, parece que todavía tengo que<n>estudiar\nmás. ¿Cómo pude juzgar mal a una<n>corredora como\nella?"
+      "name": "Entrenador Veterano A",
+      "text": "Bueno, parece que aún tengo que estudiar más.<n>\n¿Cómo pude juzgar mal a una corredora como<n> ella?"
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Aaaaagh! ¡Perdííí!"
+      "text": "¡Aaaaagh! ¡Perdí!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Déjalo ya. No puedo soportar tu doloroso<n>llanto\ntan pronto después de una carrera."
+      "text": "Déjalo. No puedo soportar tus quejas dolorosas<n> tan\npronto después de una carrera."
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Pero, pero, pero! ¡Di todo de mí!\nRealmente<n>pensé que sería como, \"Yay,\ngané\",<n>¡como siempre!"
+      "text": "¡Pero, pero, pero! ¡Di todo! ¡De <n>verdad pensé que\niba a ser como, \"¡Yay, <n>gané!\", como siempre!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Pero... ¡Simplemente no pude seguirte el<n>ritmo!\n¡Todavía estoy ardiendo de emoción!"
+      "text": "Pero... ¡Simplemente no pude seguirte el <n>ritmo!\n¡Todavía ardo de emoción!"
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Por eso! Definitivamente,\nno,<n><i>ABSOLUTAMENTE</i> deberíamos correr de\nnuevo con<n>todo lo que tenemos!"
+      "text": "¡Por eso! Definitivamente, no, <n><i>ABSOLUTAMENTE</i>\ndebemos </i>correr de nuevo con todo <n>lo que tenemos."
     },
     {
       "name": "Narita Taishin",
@@ -239,11 +239,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Jaja. No gracias, no soporto más tus<n>gritos, tonta."
+      "text": "Jaja. No, gracias, no puedo aguantar<n> más tus\ngritos, tonta."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Creo que hemos comunicado bien nuestras<n>razones\npara querer ayudar."
+      "text": "Creo que hemos comunicado bien nuestras<n> razones\npara querer ayudar."
     },
     {
       "name": "Narita Taishin",
@@ -251,30 +251,30 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ninguna de nosotras puede permitirse<n>perder a\nnuestras rivales más poderosas aquí.<n>Estamos\njuntas en esto."
+      "text": "Ninguna de nosotras puede permitirse perder a<n>\nnuestras rivales más poderosas aquí. Estamos <n>en\nesto juntas."
     },
     {
       "name": "Narita Taishin",
-      "text": "Suficiente con la charla sentimental."
+      "text": "Basta de hablar cursi."
     },
     {
       "name": "Monólogo",
-      "text": "El alboroto se calma, y Narita Taishin<n>camina\nvacilante hacia mí."
+      "text": "El alboroto se calma, y Narita <n>Taishin camina\nhacia mí con vacilación."
     },
     {
       "name": "Narita Taishin",
-      "text": "Um... Oye."
+      "text": "Eh... Hola."
     },
     {
       "name": "Narita Taishin",
-      "text": "Entonces, Ticket puso palabras en tu boca\nel<n>otro día, pero eh... Si <i>realmente,</i>\num,<n>ya sabes... Puedes decirlo ahora.",
+      "text": "Entonces, Ticket te puso palabras en la boca<n> el\notro día, pero eh... Si tú <i>realmente,</i> eh,<n> ya\nsabes... Puedes decirlo ahora.",
       "choice_data_list": [
-        "¿Que estoy \"tan conmovida\"?"
+        "¿Que estoy \"conmovida\"?"
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "¡NO, idiota! ¡Te pateo el trasero! Quiero<n>decir, si quieres...",
+      "text": "¡NO, idiota! ¡Te voy a dar una patada! <n>Quiero\ndecir, si quieres...",
       "choice_data_list": [
         "¡Sí! ¡Quiero reclutarte!",
         "¡Sí! ¡Quiero reclutarte!"

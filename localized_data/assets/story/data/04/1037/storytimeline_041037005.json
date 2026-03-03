@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Eishin Flash",
-      "text": "Bien, nuestra próxima sesión de entrenamiento es a\nlas 3:00.<n>Nos vemos en seis horas y media.",
+      "text": "Bien, nuestra próxima sesión de entrenamiento es a\nlas<n> 3 p.m. Nos vemos en seis horas y media.",
       "choice_data_list": [
         "Sí, descansa un poco.",
         "Sí, descansa un poco."
@@ -11,71 +11,70 @@
     },
     {
       "name": "Monólogo",
-      "text": "Después de una sesión de entrenamiento\ntemprano,<n>camino con Eishin Flash a clase."
+      "text": "Después de una sesión de entrenamiento en la\nmañana <n>temprano, camino con Eishin Flash hacia la\nclase."
     },
     {
-      "name": "Uma Musume A",
-      "text": "¿Oyeron? ¡Best Crepe estará en<n>la puerta después de clases!"
+      "name": "Umamusume A",
+      "text": "¿Escuchaste? Best Crepe estará en las <n>puertas\ndespués de la escuela."
     },
     {
-      "name": "Uma Musume B",
-      "text": "¿En serio? ¡Eso es súper raro! ¡Tenemos que ir!"
+      "name": "Umamusume B",
+      "text": "¿En serio? Eso es muy raro. ¡Tenemos que ir!"
     },
     {
       "name": "Eishin Flash",
-      "text": "La mejor crepe...",
+      "text": "Mejor Crepe...",
       "choice_data_list": [
-        "¿Best Crepe?"
+        "¿Qué es eso?"
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "Es un camión de comida—no tienen una\ntienda<n>real. Sus crepes han sido tema\nde<n>conversación entre los estudiantes\ndurante<n>aproximadamente medio año."
+      "text": "Es un camión de comida para crepes, no <n>tienen una\ntienda real. Sus crepes han sido el<n> tema de\nconversación entre los estudiantes durante<n> unos\nseis meses ahora."
+    },
+    {
+      "text": "\"Toma un bocado, escucha el llamado del destino.\"\nSe dice<n> que las palabras no pueden capturar\nrealmente el sabor."
     },
     {
       "name": "Eishin Flash",
-      "text": "\"Toma un bocado, y escucha el llamado\ndel<n>destino.\" Dicen que las palabras no\npueden<n>capturar realmente el sabor."
+      "text": "El dueño hace las cosas por capricho, lo que\nsignifica<n> que la tienda puede aparecer en\ncualquier momento<n> sin previo aviso. Se conoce como\nla \"tienda de crepes<n> fantasma.\""
     },
     {
       "name": "Eishin Flash",
-      "text": "El dueño hace las cosas por capricho, lo\nque<n>significa que la tienda puede aparecer<n>en\ncualquier momento sin ningún tipo de<n>anuncio. Se\nle conoce como la<n>tienda de crepes fantasma."
-    },
-    {
-      "name": "Eishin Flash",
-      "text": "Y, si esas dos tienen razón, vendrá<n>aquí después de clases."
+      "text": "Si esas dos están en lo correcto, vendrá aquí\ndespués<n> de la escuela."
     },
     {
       "name": "Monólogo",
-      "text": "Bueno, la mención de este camión de\ncrepes<n>ciertamente la puso de buen humor para\nhablar.",
+      "text": "Bueno, la mención de este camión de crepes\n<n>definitivamente la puso de buen humor.",
       "choice_data_list": [
-        "¿Por qué no vas a echar un vistazo?"
+        "¿Por qué no vas a echarle un vistazo?"
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "No es posible. Tenemos entrenamiento de 3:00<n>a\n8:00 p.m., y no hay registro de que<n>se quede tan\ntarde.",
+      "text": "No es posible. Tenemos entrenamiento de 3<n> a 8 p.m.\ny no hay registro de que se <n>quede hasta tan tarde.",
       "choice_data_list": [
-        "Entonces, ¿por qué no movemos un poco nuestra hora de inicio?"
+        "Entonces, ¿por qué no movemos nuestro horario de\ninicio un poco?"
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "...No, no necesitamos cambiar nada.<n>Hemos\nestablecido nuestro horario, así que<n>debemos\ncumplirlo."
+      "text": "...No, no necesitamos cambiar nada. Hemos\n<n>establecido nuestro horario, así que debemos\nceñirnos<n> a él."
     },
     {
       "name": "Eishin Flash",
-      "text": "Esa es la forma correcta de hacer las cosas.\nAhora<n>bien, tengo clase en catorce minutos, así\nque<n>debo irme."
+      "text": "Esa es la forma correcta de hacer las cosas.<n> Ahora\nbien, tengo clase en catorce minutos, <n>así que\ndebería irme."
     },
     {
       "name": "Monólogo",
-      "text": "Sigue siendo tan firme como siempre acerca de\ncumplir<n>sus horarios, pero no creo que\nesté<n>muy contenta de perdérselo..."
+      "text": "Ella sigue siendo tan decidida como siempre<n> sobre\nceñirse a sus horarios, pero no<n> parece muy feliz\nde perderse..."
     },
     {
       "name": "Eishin Flash",
-      "text": "<I>Jadeo, jadeo...</I> Fiu...",
+      "text": "<i>Jadeo, jadeo...</i> Uf...",
       "choice_data_list": [
-        "Muy bien, eso es todo por hoy.",
-        "Muy bien, eso es todo por hoy."
+        "Bien, eso es todo por hoy.",
+        "Bien, eso es todo por hoy."
       ]
     },
     {
@@ -84,7 +83,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Una vez que terminan nuestras sesiones después de\nclases,<n>normalmente charlamos sobre su progreso,\npero..."
+      "text": "Una vez que nuestras sesiones después de la\nescuela<n> terminan, normalmente hablamos sobre su\nprogreso, pero..."
     },
     {
       "name": "Eishin Flash",
@@ -92,16 +91,16 @@
     },
     {
       "name": "Monólogo",
-      "text": "Sale corriendo de inmediato... Su entusiasmo\nme<n>recuerda nuestro intercambio de esta mañana.",
+      "text": "Ella sale corriendo... Su entusiasmo me recuerda<n> a\nnuestro intercambio de esta mañana.",
       "choice_data_list": [
-        "(Podría ser...)"
+        "(¿Podría ser...)"
       ]
     },
     {
       "name": "Eishin Flash",
       "text": "...",
       "choice_data_list": [
-        "Destello."
+        "Flash."
       ]
     },
     {
@@ -110,52 +109,52 @@
     },
     {
       "name": "Monólogo",
-      "text": "Mi suposición resulta ser correcta—la\nencuentro<n>frente a la puerta de la escuela, pero\nno hay<n>nadie más alrededor.",
+      "text": "Mi suposición resulta ser correcta, la encuentro<n>\nfrente a las puertas de la escuela, pero no hay<n>\nnadie más alrededor.",
       "choice_data_list": [
         "¿Dónde está el camión de crepes?"
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "Según las publicaciones etiquetadas en\nredes<n>sociales, se fue en algún momento entre\nuna<n>hora y una hora cuarenta y seis minutos\natrás."
+      "text": "Según las publicaciones con hashtags en las<n> redes\nsociales, se fue en algún momento entre una<n> hora y\nuna hora y cuarenta y seis minutos atrás."
     },
     {
       "name": "Eishin Flash",
-      "text": "...Best Crepe ha venido a la escuela tres<n>veces\nahora, y las tres veces, no ha<n>encajado en mi\nhorario."
+      "text": "...Best Crepe ha venido a la escuela <n>tres veces\nahora, y las tres veces, no ha encajado<n> en mi\nhorario."
     },
     {
       "name": "Monólogo",
-      "text": "Esto significa más para ella de lo que pensaba.\nPero<n>dada lo impredecible que es el camión\nde<n>comida, realmente solo hay una cosa que puede\nhacer.",
+      "text": "Esto significa más para ella de lo que pensé. <n>Pero\ndado lo impredecible que es el camión de comida,<n>\nrealmente solo hay una cosa que ella puede hacer.",
       "choice_data_list": [
         "La próxima vez, ¿por qué no intentas ajustar tu\nhorario sobre la marcha?"
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "Sé que intentas ser útil, pero no<n>puedo hacer eso."
+      "text": "Sé que estás tratando de ser útil, pero no<n> puedo\nhacer eso."
     },
     {
       "name": "Eishin Flash",
-      "text": "Sí <I>tengo</I> curiosidad, pero no puedo dejar\nque<n>una emoción aleatoria desbarate mi<n>horario\nperfecto."
+      "text": "<i>Estoy <i>curioso</i> al respecto, pero no puedo<n> dejar que\nuna simple curiosidad arruine mi horario<n> perfecto."
     },
     {
       "name": "Eishin Flash",
-      "text": "Seguirlo al pie de la letra es lo que me\nhace<n>más fuerte. Así que no, no puedo ajustarlo.",
+      "text": "Seguirlo al pie de la letra es lo que me hace más<n>\nfuerte. Así que no, no puedo ajustarlo.",
       "choice_data_list": [
-        "Mientras estés bien con eso."
+        "Siempre y cuando estés bien con eso."
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "...La próxima vez, intentaré averiguar cuándo\nestará<n>aquí antes de hacer mi horario."
+      "text": "...La próxima vez, trataré de averiguar cuándo\n<n>estará aquí antes de hacer mi horario."
     },
     {
       "name": "Eishin Flash",
-      "text": "Bueno, volveré a mi dormitorio. Nos vemos<n>mañana a las seis."
+      "text": "Bueno, voy a regresar a mi dormitorio. Nos <n>vemos\nmañana a las 6 a.m."
     },
     {
       "name": "Monólogo",
-      "text": "Esa es una de sus mejores\nfortalezas—mantenerse<n>firme a sus creencias sin\nimportar lo que<n>le suceda. Aunque... siento que\npodría aprender a<n>consentirse de vez en cuando."
+      "text": "Esa es una de sus mejores fortalezas, ceñirse<n> a\nsus creencias sin importar lo que venga en <n>su\ncamino. Aun así... siento que podría aprender a<n>\ndarse un gusto de vez en cuando."
     }
   ]
 }

@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Curren Chan",
-      "text": "¡Hermano! ¡¿Cómo estuve?!"
+      "text": "¡Hermano! ¿Cómo estuve?!"
     },
     {
       "name": "Curren Chan",
-      "text": "¡Hermana! ¡¿Cómo estuve?!"
+      "text": "¡Hermana! ¿Cómo estuve?!"
     },
     {
       "name": "Curren Chan",
-      "text": "Si me preguntas, ¡creo que lo hice<n>bastante bien!",
+      "text": "Si me preguntas, creo que lo hice bastante<n> bien!",
       "choice_data_list": [
         "Veamos...",
         "Veamos..."
@@ -19,7 +19,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Corrió bien, y los resultados fueron<n>lo que\nesperábamos, pero... tuve la<n>sensación de que no\nhabría podido<n>mantenerlo por mucho más tiempo.",
+      "text": "Ella corrió bien, y los resultados fueron <n>más o\nmenos lo que esperábamos, pero...<n> Tuve la\nsensación de que ella no habría podido<n> mantenerlo\npor mucho tiempo más.",
       "choice_data_list": [
         "Si soy completamente honesto, creo que las\ncarreras más largas podrían ser demasiado para ti."
       ]
@@ -30,37 +30,33 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Pero... realmente quiero la Triple Tiara."
+      "text": "Pero... de verdad quiero la Triple Tiara."
     },
     {
       "name": "Monólogo",
-      "text": "Al ver su determinación, me cuesta<n>darle la\nnoticia.",
+      "text": "Al ver su determinación, me cuesta<n> mucho romperle\nla noticia.",
       "choice_data_list": [
-        "No diría que no hay ninguna posibilidad, pero..."
+        "No diría que no hay ninguna oportunidad, pero..."
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "Está bien. Lo entiendo."
+      "text": "Está bien. Ya entiendo."
     },
     {
       "name": "Curren Chan",
-      "text": "Está bien. ¡Entonces no a la Triple Tiara!",
+      "text": "Muy bien. ¡Entonces no habrá Triple Tiara!",
       "choice_data_list": [
         "...¿Eh?"
       ]
     },
     {
       "name": "Monólogo",
-      "text": "No veo ninguna señal de resignación<n>o compromiso\nen su expresión. Todo<n>lo que puedo ver es... un\nbrillo en sus<n>ojos mirando hacia el futuro."
+      "text": "No veo ningún signo de resignación o<n> compromiso en\nsu expresión. Todo lo que<n> veo es... un brillo en\nsus ojos que <n>resplandece hacia el futuro."
     },
     {
       "name": "Curren Chan",
-      "text": "La tiara es algo que solo se puede<n>alcanzar en\ntu año clásico. No es<n>algo que puedas posponer\npara<n>\"algún día\"."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Confío en tu decisión. Además..."
+      "text": "La tiara es algo que solo se puede<n> obtener en tu\naño clásico. No es algo<n> que puedas posponer para\n<n>\"algún día\"."
     },
     {
       "name": "Curren Chan",
@@ -68,7 +64,11 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Solo tendré que brillar más que la<n>Triple Tiara,\n¿verdad?",
+      "text": "Confío en tu decisión. Además..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Simplemente tendré que brillar más que la<n> Triple\nTiara, ¿verdad?",
       "choice_data_list": [
         "¡Así es!",
         "¡Así es!"
@@ -76,103 +76,103 @@
     },
     {
       "name": "Monólogo",
-      "text": "Es difícil desechar un sueño.\nEstoy<n>profundamente impresionado por\nsu<n>capacidad de seguir adelante."
+      "text": "Es difícil renunciar a un sueño. Estoy\nprofundamente<n> impresionada por su capacidad para\nseguir <n>adelante."
     },
     {
       "name": "Curren Chan",
-      "text": "¡He decidido! Voy a poner toda mi<n>energía en\nsprints de ahora en adelante!"
+      "text": "¡He decidido! Voy a poner toda mi energía<n> en\ncarreras de velocidad a partir de ahora."
     },
     {
       "name": "Curren Chan",
-      "text": "¡Ganaré todos ellos y recorreré un<n>camino aún\nmás adorable que el<n>tour de la Triple Tiara! ♪"
+      "text": "Las ganaré todas y recorreré un camino aún más<n>\nlindo que la gira de la Triple Tiara! ♪"
     },
     {
       "name": "Monólogo",
-      "text": "Ahora que ha tomado su decisión,<n>hay una carrera\nque me gustaría<n>proponerle.",
+      "text": "Ahora que ha tomado su decisión,<n> hay una carrera\nque me gustaría proponerle.",
       "choice_data_list": [
-        "Hagamos las Sprinters Stakes."
+        "Hagamos los Sprinters Stakes."
       ]
     },
     {
       "name": "Monólogo",
-      "text": "Las Sprinters Stakes es un G1 de sprint<n>donde se\ndecide al mejor sprinter,<n>así que quiero\nestablecerlo como su<n>próxima gran meta de\ncarrera."
+      "text": "Los Sprinters Stakes son una carrera G1 de\nvelocidad <n>donde se decide al mejor velocista, así\nque quiero <n>establecerlo como su próximo gran\nobjetivo de carreras."
     },
     {
       "name": "Curren Chan",
-      "text": "¡Wow! ¡Un G1! Me gusta. Perfecto para<n>mi nuevo sueño!",
+      "text": "¡Guau! ¡Un G1! Me gusta. ¡Perfecto para mi <n>nuevo\nsueño!",
       "choice_data_list": [
         "¿Tu nuevo sueño?"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "¡Sip! Un sueño para reemplazar la tiara."
+      "text": "¡Sí! Un sueño para ocupar el lugar de<n> la tiara."
     },
     {
       "name": "Curren Chan",
-      "text": "Un sueño para ganar una gran carrera<n>y\nconvertirme en la corredora más<n>amada de todas.\n♪",
+      "text": "Un sueño de ganar una gran carrera y convertirme<n>\nen la corredora más querida de todas. ♪",
       "choice_data_list": [
-        "¿A-amada?"
+        "¿B-querida?"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "¡Sip! No importa dónde corra, la<n>Uma Musume más\namada siempre<n>será la más adorable."
+      "text": "¡Sí! No importa a dónde corra, la <n>Umamusume más\nquerida siempre será la <n>más linda."
     },
     {
       "name": "Curren Chan",
-      "text": "Bañándome en el spotlight con\ntodos<n>animándome... Eso es, como, ¡la<n>cúspide\nde lo adorable!"
+      "text": "Bañándose en los reflectores con <n>todos\nanimándome... Eso, como, ¡es la<n> cima de lo lindo!"
     },
     {
       "name": "Curren Chan",
-      "text": "Jeje. ¡Ahora me estoy emocionando! ♪<n>¡Haré mi\nmejor esfuerzo para<n>convertirme en la corredora\nmás amada!"
+      "text": "Jeje. ¡Ahora me estoy motivando! ♪ Voy<n> a dar lo\nmejor para convertirme en la <n>corredora más\nquerida!"
     },
     {
       "name": "Monólogo",
-      "text": "Como siempre, Curren Chan tiene una<n>forma única\nde pensar. Pero las<n>carreras G1 no son un\npaseo.<n>¿Es esta nueva dirección<n>realmente la\nmejor?"
+      "text": "Como siempre, Curren Chan tiene una forma<n> única de\npensar. Pero las carreras G1 no son un<n> paseo en el\nparque. ¿Este nuevo rumbo realmente<n> es lo mejor?"
     },
     {
       "name": "Curren Chan",
-      "text": "Oh, pero... ¿no falta mucho para esa<n>carrera?"
+      "text": "Oh, pero... ¿no falta mucho para esa <n>carrera?"
     },
     {
       "name": "Curren Chan",
-      "text": "No quiero tener cero exposición\nhasta<n>entonces... ¿Podemos decidir\notra<n>carrera también?"
+      "text": "No quiero no correr hasta entonces...<n> ¿Podemos\ndecidir otra carrera <n>también?"
     },
     {
       "name": "Monólogo",
-      "text": "Iba a sugerirlo yo mismo.<n>Junto con su\nentrenamiento, una<n>buena carrera para actuar\ncomo<n>un escalón hacia su sueño sería...",
+      "text": "Yo iba a sugerir eso mismo. Junto<n> con su\nentrenamiento, una buena carrera<n> que sirva como\npeldaño hacia su <n>sueño sería...",
       "choice_data_list": [
-        "¿Qué tal las Aoi Stakes?",
-        "¿Qué tal las Aoi Stakes?"
+        "¿Y los Aoi Stakes?",
+        "¿Y los Aoi Stakes?"
       ]
     },
     {
       "name": "Monólogo",
-      "text": "Puede ser de menor estatus, pero<n>sería una buena\nmanera de<n>re familiarizarse con una carrera<n>de\n1,200 metros."
+      "text": "Puede que sea de menor estatus, pero sería una<n>\nbuena forma de reencontrarse con una <n>carrera de\n1,200 metros."
     },
     {
       "name": "Curren Chan",
-      "text": "¡Hagámoslo! Será el primer paso hacia<n>mi sueño\nde ser la corredora más<n>amada."
+      "text": "¡Hagámoslo! Será el primer paso hacia<n> mi sueño de\nser la corredora más<n> querida."
     },
     {
       "name": "Monólogo",
-      "text": "¡Y así, decidimos poner nuestra<n>mirada en las\nAoi Stakes!"
+      "text": "Y así, decidimos apuntar a los<n> Aoi Stakes!"
     },
     {
       "name": "Curren Chan",
-      "text": "...Pero no solo la carrera. Podría ser<n>hora de\nponer \"eso\" en movimiento.",
+      "text": "...Pero no solo la carrera. Podría ser <n>hora de\nponer \"eso\" en marcha.",
       "choice_data_list": [
-        "¿\"Eso\"?"
+        "\"¿Eso?\""
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "¡Nada! Hagamos nuestro mejor esfuerzo. ♪"
+      "text": "¡Nada! Vamos a dar lo mejor. ♪"
     },
     {
       "name": "Curren Chan",
-      "text": "¡Nada! Hagamos nuestro mejor esfuerzo. ♪"
+      "text": "¡Nada! Vamos a dar lo mejor. ♪"
     }
   ]
 }

@@ -1,109 +1,109 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Vodka",
-      "text": "¡Es mi debut en la carrera! Guau,<n>¡suena\ntan<n>genial solo decirlo en voz alta!"
-    },
-    {
-      "name": "Vodka",
-      "text": "Entrenador, realmente estamos<n>aquí,\n¿verdad?<n>¿El paddock realmente estará<n>ahí\ncuando salga, verdad?",
-      "choice_data_list": [
-        "¡Sí! ¡Por supuesto!",
-        "¡Sí! ¡Por supuesto!"
-      ]
-    },
-    {
-      "name": "Vodka",
-      "text": "¡Guau! ¡Esto es totalmente<n>diferente a\nun<n>ensayo! ¡Aquí me juego la vida!"
-    },
-    {
-      "name": "Vodka",
-      "text": "¡Allá vamos!"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Vodka da un paso valiente y<n>mira alrededor<n>del\npaddock. Entonces..."
-    },
-    {
-      "name": "Vodka",
-      "text": "...Esto no es."
-    },
-    {
-      "name": "Vodka",
-      "text": "Está un poco fuera... ¡Algo es<n>diferente!",
-      "choice_data_list": [
-        "¿Qué pasa?",
-        "¿Qué pasa?"
-      ]
-    },
-    {
-      "name": "Vodka",
-      "text": "Mira a todos los demás..."
-    },
-    {
-      "name": "Umamusume Rival A",
-      "text": "¡Sí! ¡Allá vamos! ¡Pum, pum!"
-    },
-    {
-      "name": "Umamusume Rival B",
-      "text": "¿La primera carrera, eh? Esto será<n>básicamente\ncomo<n>práctica. No es gran cosa. ♪"
-    },
-    {
-      "name": "Vodka",
-      "text": "¡Esto no está bien! ¡La carrera de<n>debut\nse<n>supone que es más...<n>deslumbrante!"
-    },
-    {
-      "name": "Vodka",
-      "text": "¡Augh! ¡Esto me molesta! ¡Todos<n>aquí actúan\ncomo<n>si no fuera gran cosa!"
-    },
-    {
-      "name": "Vodka",
-      "text": "¡Bien! ¡Les mostraré a todos cómo<n>se ve la\n<i>verdadera</i><n>pasión!",
-      "choice_data_list": [
-        "¡Ese es el espíritu!",
-        "¡Ese es el espíritu!"
-      ]
-    },
-    {
-      "name": "Vodka",
-      "text": "¡Acabaré con todos, así que<n>mantén los\nojos<n>bien abiertos!"
-    },
-    {
-      "name": "Espectador",
-      "text": "¡Ay! ¡Qué Umamusume más<n>creída!"
-    },
-    {
-      "name": "Espectador",
-      "text": "¿No crees que es pura palabrería,<n>verdad?\n¿Te<n>imaginas que pierda después<n>de decir todo\neso? ¡Ja!"
-    },
-    {
-      "name": "Vodka",
-      "text": "...Oye, Entrenador? Déjame<n>preguntarte algo."
-    },
-    {
-      "name": "Vodka",
-      "text": "Si termino perdiendo contra todas<n>esas\ncorredoras<n>con poca pasión, ¿eso me<n>convertirá\nen la más débil?",
-      "choice_data_list": [
-        "...Creo que sí.",
-        "...Creo que sí."
-      ]
-    },
-    {
-      "name": "Vodka",
-      "text": "¡Guau, ¿en serio?! Eso es tan<n>patético...<n>¡Lo\nmás patético!"
-    },
-    {
-      "name": "Vodka",
-      "text": "¡No puedo dejar que eso pase!<n>¡Ganaré esto!<n>¡Tengo que hacerlo!",
-      "choice_data_list": [
-        "Está bien. ¡Tú puedes!",
-        "Está bien. ¡Tú puedes!"
-      ]
-    },
-    {
-      "name": "Monólogo",
-      "text": "La animo lo más fuerte que<n>puedo. Viéndola\ntan<n>apasionada, ¡creo que Vodka<n>realmente\nllegará lejos!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Vodka",
+            "text": "¡Es mi debut en carrera! ¡Guau, suena tan<n> genial\ndecirlo en voz alta!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Entrenador, realmente estamos aquí, <n>¿verdad? El\npaddock realmente va a estar<n> allí cuando salga,\n¿verdad?",
+            "choice_data_list": [
+                "¡Sí! ¡Por supuesto!",
+                "¡Sí! ¡Por supuesto!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "¡Guau! ¡Esto es totalmente diferente<n> de un\nscrimmage! ¡Aquí me estoy jugando <n>la vida!"
+        },
+        {
+            "name": "Vodka",
+            "text": "¡Aquí vamos!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vodka da un paso valiente y mira<n> alrededor del\npaddock. Luego..."
+        },
+        {
+            "name": "Vodka",
+            "text": "...Esto no es."
+        },
+        {
+            "name": "Vodka",
+            "text": "Está un poco off... ¡Algo es diferente!",
+            "choice_data_list": [
+                "¿Qué pasa?",
+                "¿Qué pasa?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Mira a todos los demás..."
+        },
+        {
+            "name": "Umamusume Rival A",
+            "text": "¡Sí! ¡Aquí vamos! ¡Pow, pow!"
+        },
+        {
+            "name": "Umamusume Rival B",
+            "text": "La primera carrera, ¿eh? Esto básicamente será<n>\ncomo práctica. No es gran cosa. ♪"
+        },
+        {
+            "name": "Vodka",
+            "text": "¡Esto no está bien! Se suponía que la <n>carrera\ndebut sería más... ¡deslumbrante!"
+        },
+        {
+            "name": "Vodka",
+            "text": "¡Agh! ¡Esto me molesta! ¡Todos aquí <n>actúan como si\nno fuera gran cosa!"
+        },
+        {
+            "name": "Vodka",
+            "text": "¡Bien! ¡Les voy a mostrar a todos <i>cómo es el\n<n></i><i>verdadero</i> entusiasmo!",
+            "choice_data_list": [
+                "¡Ese es el espíritu!",
+                "¡Ese es el espíritu!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "¡Voy a eliminarlos a todos, así que mantengan los\n<n>ojos bien abiertos!"
+        },
+        {
+            "name": "Espectador Masculino",
+            "text": "¡Yikes! ¡Esa Uma Musume sí que es arrogante!"
+        },
+        {
+            "name": "Espectador Masculino",
+            "text": "¿No crees que es solo palabras, verdad? ¿Te<n> la\nimaginas perdiendo después de decir todo<n> eso?\n¡Jah!"
+        },
+        {
+            "name": "Vodka",
+            "text": "...Oye, Entrenador? Permíteme preguntarte algo."
+        },
+        {
+            "name": "Vodka",
+            "text": "Si al final pierdo esto contra todas<n> esas\ncorredoras mediocres, ¿eso me hará<n> la más débil?",
+            "choice_data_list": [
+                "...Creo que sí.",
+                "...Creo que sí."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "¡Guau, en serio?! Eso es tan patético... ¡Como,<n> lo\nmás patético de lo patético!"
+        },
+        {
+            "name": "Vodka",
+            "text": "¡No puedo permitir que eso pase! ¡Ganaré esto!\n¡Tengo<n> que hacerlo!",
+            "choice_data_list": [
+                "Muy bien. ¡Tú puedes!",
+                "Muy bien. ¡Tú puedes!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "La animo tan fuerte como puedo. Viéndola<n> tan\napasionada, ¡creo que Vodka<n> realmente llegará\nlejos!"
+        }
+    ]
 }

@@ -3,19 +3,19 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Llevo a Oguri Cap a cenar como premio<n>por su\ncontinuo éxito en las carreras G1."
+      "text": "Llevo a Oguri Cap a cenar como <n>recompensa por su\ncontinuo éxito en las <n>carreras G1."
     },
     {
       "name": "Oguri Cap",
-      "text": "<i>...Trago.</i> Oye, ¿puedo pedir otra hamburguesa?",
+      "text": "<i>...Gulp.</i> Oye, ¿podría pedir otra hamburguesa?",
       "choice_data_list": [
-        "¿T-todavía puedes comer?",
-        "¿T-todavía puedes comer?"
+        "¿Y-y aún puedes comer?",
+        "¿Y-y aún puedes comer?"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "¿No dijiste que podía llenar mi<n>estómago?",
+      "text": "¿No dijiste que podía llenar la<n> barriga?",
       "choice_data_list": [
         "Bueno, sí...",
         "Bueno, sí..."
@@ -23,35 +23,35 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "En realidad, mejor no. En cambio..."
+      "text": "En realidad, mejor no. En su lugar..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Terminaré con algo de ensalada. ¿Te<n>importa si\npido diez ensaladas de maíz?"
+      "text": "Terminaré con un poco de ensalada. ¿Te <n>importa si\npido diez ensaladas de maíz?"
     },
     {
       "name": "Monólogo",
-      "text": "Queriendo premiarla por su repetido<n>éxito en las\ncarreras G1, asiento y<n>trato de olvidarme de mi\npobre billetera."
+      "text": "Queriendo recompensarla por su repetido<n> éxito en\nlas carreras G1, asiento e intento <n>olvidarme de mi\npobre billetera."
     },
     {
-      "name": "Transeúnte A",
+      "name": "Peatón A",
       "text": "¡Oye, mira! ¿No es esa Ogurin?"
     },
     {
-      "name": "Transeúnte B",
-      "text": "¡Dios mío, tienes razón! ¡Oguriiin!"
+      "name": "Peatón B",
+      "text": "¡Oh por Dios, tienes razón! ¡Oguriiin!"
     },
     {
       "name": "Oguri Cap",
       "text": "...¿Ogurin?"
     },
     {
-      "name": "Transeúnte B",
+      "name": "Peatón B",
       "text": "¡Guau! ¡Nos miró! ¡Es <i>tan</i> genial!"
     },
     {
-      "name": "Transeúnte B",
-      "text": "¡Somos grandes fans tuyas, Ogurin! ¡Buena<n>suerte\nen tu próxima carrera!"
+      "name": "Peatón B",
+      "text": "¡Somos grandes admiradores tuyos, Ogurin! ¡Buena<n>\nsuerte en tu próxima carrera!"
     },
     {
       "name": "Oguri Cap",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Recientemente, Oguri Cap ha estado<n>encabezando\ntodas las listas de<n>popularidad—incluso aquí en\nla ciudad.<n>Supongo que eso pasa\ncuando<n>compites en suficientes carreras.",
+      "text": "Recientemente, Oguri Cap ha estado encabezando<n>\ntodas las listas de popularidad—incluso aquí<n> en la\nciudad. Supongo que eso es lo que pasa<n> cuando\ncompites en suficientes carreras.",
       "choice_data_list": [
         "¡¿No es genial?!",
         "¡¿No es genial?!"
@@ -67,11 +67,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Sí... Me hace feliz saber que la gente<n>me apoya."
+      "text": "Sí... Me hace feliz saber que <n>la gente está de mi\nlado."
     },
     {
       "name": "Oguri Cap",
-      "text": "Espero tener su apoyo en la próxima<n>carrera\ntambién.",
+      "text": "Espero contar con su apoyo en la próxima<n> carrera\ntambién.",
       "choice_data_list": [
         "Esa será el Tenno Sho de otoño, ¿verdad?",
         "Esa será el Tenno Sho de otoño, ¿verdad?"
@@ -79,35 +79,35 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Síp. Tama ha estado esperando este<n>desafío, así\nque necesito seguir<n>mejorando."
+      "text": "Sí. Tama ha estado esperando este <n>desafío, así que\nnecesito seguir mejorando <n>mi juego."
     },
     {
       "name": "Oguri Cap",
-      "text": "...Es como si un fuego se encendiera en<n>mi estómago."
+      "text": "...Es como si un fuego se hubiera encendido en mi\ninterior."
     },
     {
       "name": "Oguri Cap",
-      "text": "Después de terminar estas ensaladas,<n>¡voy a\npedir cincuenta hamburguesas<n>grandes!"
+      "text": "¡Después de terminar con estas ensaladas,<n> voy a\npedir cincuenta hamburguesas grandes!"
     },
     {
       "name": "Monólogo",
-      "text": "Sus ojos brillantes están tan<n>resplandecientes\nahora que casi ciegan."
+      "text": "Sus ojos brillantes están resplandeciendo<n> tanto\nahora, que casi ciegan."
     },
     {
       "name": "Oguri Cap",
-      "text": "...Espera, ¿qué? ¿Quieres decir que<n>este lugar\n<i>no</i> es todo lo que puedas<n>comer?!"
+      "text": "...¿Espera, qué? ¿Quieres decir que <i>este lugar <i>no<n>\n</i>es</i> comida libre?!"
     },
     {
       "name": "Oguri Cap",
-      "text": "L-lo siento mucho... Pensé que era<n>algún tipo de\nbufet..."
+      "text": "L-lo siento mucho... Pensé que era algún<n> tipo de\nbuffet..."
     },
     {
       "name": "Oguri Cap",
-      "text": "...¡Oye! ¿Estás bien? ¡Despierta!"
+      "text": "...¡Oye! ¿Estás bien?! ¡Despierta!"
     },
     {
       "name": "Monólogo",
-      "text": "Con eso, las celebraciones por las<n>victorias de\nOguri Cap en carreras G1<n>llegan a su fin."
+      "text": "Con eso, las celebraciones por las victorias de\n<n>Oguri Cap en carreras G1 llegan a su fin."
     }
   ]
 }

@@ -2,35 +2,38 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "2度目の夏合宿を、エイシンフラッシュは――\nとてもすっきりした表情で迎えていた。"
+      "name": "Monólogo",
+      "text": "Eishin Flash recibe su segundo campamento<n> de\nverano con frialdad y serenidad."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "目標としている『天皇賞（秋）』は、\nそう遠くありません。"
+      "name": "Eishin Flash",
+      "text": "No tenemos mucho tiempo antes del <n>Tenno Sho de\notoño."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "この夏合宿が地力をつける\n最後の機会と考えて取り組みましょう。",
+      "name": "Eishin Flash",
+      "text": "Abordemos este campamento de verano como si<n> fuera\nla última oportunidad para prepararme<n> para él.",
       "choice_data_list": [
-        "（最後……）"
+        "(La última oportunidad...)"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。なすべきことをなしたら――\r\n引退も視野に入れています。"
+      "name": "Eishin Flash",
+      "text": "Una vez que haya hecho lo que necesito <n>hacer,\npondré mis ojos en la jubilación."
     },
     {
-      "text": "エイシンフラッシュと迎える夏合宿は、\nこれで最後になるかもしれない……。"
+      "name": "Monólogo",
+      "text": "Este podría ser mi último campamento de verano<n> con\nEishin Flash..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……？\r\nトレーナーさん、どうかしましたか？",
+      "name": "Eishin Flash",
+      "text": "¿Hm? ¿Pasa algo?",
       "choice_data_list": [
-        "……なんでもない！"
+        "¡No! Para nada!"
       ]
     },
     {
-      "text": "彼女の走る姿を目に焼き付けよう。\n心の中で、そう決意したのだった。"
+      "name": "Monólogo",
+      "text": "Será mejor que grabe la imagen de ella <n>corriendo\npor la pista en mi memoria. Puede <n>que no haya\nmuchas más oportunidades."
     }
   ]
 }

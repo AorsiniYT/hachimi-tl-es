@@ -3,19 +3,19 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Ha pasado un tiempo desde que tuve un día<n>libre,\nasí que decido ir de compras por<n>algunos\nesenciales. Me encuentro con una<n>cara familiar\nen el centro comercial."
+      "text": "Ha pasado un tiempo desde que he tenido un día\nlibre,<n> así que decido ir de compras para algunas\ncosas<n> esenciales. Me encuentro con una cara\nfamiliar en el <n>centro comercial."
     },
     {
-      "name": "Niña A",
-      "text": "<i>Solloza, solloza...</i>"
-    },
-    {
-      "name": "Super Creek",
-      "text": "Ya, ya. Seguro que fue aterrador, ¿verdad?<n>Pero\nahora todo va a estar bien."
+      "name": "Chica A",
+      "text": "<i>Sollozo, sollozo...</i>"
     },
     {
       "name": "Super Creek",
-      "text": "Solo espera aquí un segundo, ¿vale? Yo...<n>umm...",
+      "text": "Allí, allí. Estoy seguro de que fue aterrador,<n>\n¿verdad? Pero todo va a estar bien ahora."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Espera aquí un segundo, ¿de acuerdo? Voy <n>a...\numm...",
       "choice_data_list": [
         "¿Qué pasa?",
         "¿Qué pasa?"
@@ -23,154 +23,154 @@
     },
     {
       "name": "Super Creek",
-      "text": "¡Entrenador! Perfecto—parece que esta<n>niñita se perdió."
+      "text": "Entrenador. Tiempo perfecto — parece <n>que esta\npequeña se perdió."
     },
     {
       "name": "Super Creek",
-      "text": "La encontré llorando sola en la esquina<n>y traté\nde preguntarle qué pasaba..."
+      "text": "La encontré llorando en la esquina sola<n> y traté de\npreguntarle qué pasa..."
     },
     {
-      "name": "Niña A",
-      "text": "<i>Solloza, solloza...</i>"
+      "name": "Chica A",
+      "text": "<i>Sollozo, sollozo...</i>"
     },
     {
       "name": "Super Creek",
-      "text": "Ay, ¿fue aterrador estar sola? Ya, ya.<n>Ahora está bien.",
+      "text": "Ay, ¿fue aterrador estar sola? Allí, allí.<n> Está\nbien ahora.",
       "choice_data_list": [
         "¿Dónde están tus padres?",
         "¿Dónde están tus padres?"
       ]
     },
     {
-      "name": "Niña A",
+      "name": "Chica A",
       "text": "...",
       "choice_data_list": [
         "¿Te separaste?"
       ]
     },
     {
-      "name": "Niña A",
-      "text": "Umm... Yo... no sé... ¡waaaah!"
+      "name": "Chica A",
+      "text": "Umm... yo... no sé... ¡uuuaaaah!"
     },
     {
       "name": "Monólogo",
-      "text": "¡Mierda, no debería haber hecho esa pregunta!<n>Ahora está llorando a gritos.",
+      "text": "Maldición, no debería haber hecho esa pregunta.<n>\nAhora está llorando.",
       "choice_data_list": [
-        "¡L-Lo siento!",
-        "¡L-Lo siento!"
+        "¡Lo siento!",
+        "¡Lo siento!"
       ]
     },
     {
       "name": "Monólogo",
-      "text": "Saco rápidamente mi pañuelo de mi<n>bolsillo y le\nseco la cara a la niña."
+      "text": "Rápidamente saco mi pañuelo del <n>bolsillo y limpio\nla cara de la niña."
     },
     {
-      "name": "Niña A",
-      "text": "<i>Solloza, solloza...</i>"
-    },
-    {
-      "name": "Super Creek",
-      "text": "Ay, ¡Entrenador! Muchas gracias."
+      "name": "Chica A",
+      "text": "<i>Sollozo, sollozo...</i>"
     },
     {
       "name": "Super Creek",
-      "text": "Tu carita está toda limpia ahora. ¿No es<n>lindo?\nAsí que dime... ¿estabas aquí<n>de compras?"
+      "text": "Ay, Entrenador. Muchas gracias."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Tu cara está toda limpia ahora. ¿No es<n> agradable?\nAsí que dime... ¿estabas<n> comprando?"
     },
     {
       "name": "Monólogo",
-      "text": "La niñita asiente con la cabeza."
+      "text": "La pequeña asiente con la cabeza."
     },
     {
       "name": "Super Creek",
-      "text": "¡Ya veo! ¿Qué querías comprar?"
+      "text": "¿Ves? ¿Qué querías comprar?"
     },
     {
-      "name": "Niña A",
-      "text": "Quería... una Varita Umágica... porque<n>Papá y\nMamá dijeron... que me la<n>comprarían..."
+      "name": "Chica A",
+      "text": "Quería... una Varita Mágica... porque<n> Papá y Mamá\ndijeron... que me la <n>comprarían..."
     },
     {
       "name": "Super Creek",
-      "text": "Bueno, ¿no es agradable? ¡Debiste\nestar<n>emocionada! ¿Eso significa que\nviniste<n>aquí junto con tu Papá y Mamá?"
+      "text": "Bueno, ¿no es agradable? Debes haber<n> estado\nemocionada. ¿Eso significa <n>que viniste aquí con\nPapá y Mamá?"
     },
     {
       "name": "Monólogo",
-      "text": "La niñita asiente de nuevo. No hay duda<n>de que\nestá perdida. Me detengo,<n>pensando en lo mejor\nque hacer en esta<n>situación...",
+      "text": "La pequeña asiente de nuevo. No hay duda <n>de que\nestá perdida. Me detengo, pensando en <n>lo mejor que\nhacer en esta situación...",
       "choice_data_list": [
-        "¡Iré al mostrador de información y avisaré al\npersonal!"
+        "Iré al mostrador de información y dejaré que el\npersonal sepa."
       ]
     },
     {
       "name": "Super Creek",
-      "text": "Sí, por favor hazlo. Yo me quedaré aquí con ella."
+      "text": "Sí, por favor hazlo. Me quedaré aquí con ella."
     },
     {
       "name": "Monólogo",
-      "text": "Al acercarme al mostrador, veo a un esposo<n>y una\nesposa parados allí, con caras<n>afligidas por la\npreocupación. ¡Deben ser<n>los padres de la niña!"
+      "text": "Al acercarme al mostrador, veo a un esposo<n> y una\nesposa parados allí, con caras llenas<n> de\npreocupación. Deben ser los padres de la niña."
     },
     {
       "name": "Super Creek",
-      "text": "Entrenador, muchas gracias por tu ayuda<n>hoy. Me\nalegra tanto que esa niñita<n>pudiera reunirse con\nsus padres.",
+      "text": "Entrenador, muchísimas gracias por tu<n> ayuda hoy.\nMe alegra que la pequeña haya <n>podido reunirse con\nsus padres.",
       "choice_data_list": [
-        "Pero en realidad no hice nada...",
-        "Pero en realidad no hice nada..."
+        "No hice nada en realidad...",
+        "No hice nada en realidad..."
       ]
     },
     {
       "name": "Super Creek",
-      "text": "No, en serio. Siéntete orgulloso—fuiste<n>de gran ayuda."
+      "text": "No, de verdad. Está orgulloso de ti mismo — <n>fuiste\nde gran ayuda."
     },
     {
       "name": "Super Creek",
-      "text": "Hasta que apareciste, no estaba segura de<n>qué\niba a hacer. No podía simplemente<n>irme con la\nniña, así que pensé en pedir<n>ayuda..."
+      "text": "Hasta que llegaste, no sabía qué <n>iba a hacer. No\npodía simplemente irme<n> con la niña, así que pensé\nen pedir<n> ayuda..."
     },
     {
       "name": "Super Creek",
-      "text": "Pero tampoco había personal cerca.<n>Honestamente, me sentí atrapada."
+      "text": "Pero no había personal cerca tampoco.\n<n>Honestamente, me sentí atascado."
     },
     {
       "name": "Super Creek",
-      "text": "Así que cuando llegaste, fue un gran alivio.<n>Me alegró mucho verte.",
+      "text": "Así que cuando llegaste, fue un gran <n>alivio. Me\nalegró mucho verte.",
       "choice_data_list": [
-        "Pero hice llorar a la pobre niña..."
+        "Pero hice que la pobre niña llorara..."
       ]
     },
     {
       "name": "Super Creek",
-      "text": "Jeje, quizás no estaría mal aprender un<n>poco más\nsobre cómo manejar a los<n>niños pequeños."
+      "text": "Jajaja, tal vez no estaría mal aprender un <n>poco\nmás sobre cómo manejar a los pequeños."
     },
     {
       "name": "Super Creek",
-      "text": "Pero en realidad... me sentí segura contigo<n>allí."
+      "text": "Pero de verdad... me sentí seguro con<n> tu\npresencia."
     },
     {
       "name": "Super Creek",
-      "text": "Aprecié tenerte conmigo, así que<n>por favor no te menosprecies.",
+      "text": "Agradecí tenerte conmigo, así<n> que no te\nmenosprecies.",
       "choice_data_list": [
         "Supongo que me he vuelto un poco más confiable\nentonces."
       ]
     },
     {
       "name": "Super Creek",
-      "text": "¡Por supuesto!"
+      "text": "¡Claro!"
     },
     {
       "name": "Super Creek",
-      "text": "Y no olvidaste tu pañuelo esta vez.<n>¡Buen trabajo! ♪",
+      "text": "Y no te olvidaste de tu pañuelo esta<n> vez. ¡Bien\nhecho! ♪",
       "choice_data_list": [
-        "...Lo estás haciendo otra vez."
+        "...Lo estás haciendo de nuevo."
       ]
     },
     {
       "name": "Super Creek",
-      "text": "Jeje, no puedo evitarlo. ♪"
+      "text": "Jajaja, no puedo evitarlo aunque lo intente. ♪"
     },
     {
       "name": "Monólogo",
-      "text": "Aunque nuestra dinámica no ha<n>cambiado mucho,\nsiento que pude<n>ganar más de la confianza de\nSuper Creek hoy."
+      "text": "Aunque nuestra dinámica no ha<n> cambiado mucho,\nsiento que pude ganar<n> más la confianza de Super\nCreek hoy."
     },
     {
       "name": "Super Creek",
-      "text": "(Me alegra poder contar contigo, Entrenador.)"
+      "text": "(Me alegra poder confiar en ti, Entrenador.)"
     }
   ]
 }

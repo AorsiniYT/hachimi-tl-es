@@ -1,149 +1,149 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monólogo",
-      "text": "¡Uuuuuh!"
-    },
-    {
-      "name": "Espectadores",
-      "text": "¡Eres tan genial, Brian! Ahhh, ¡mira<n>hacia acá!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...Hmph."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...Si nos vamos ahora, quizás<n>alcancemos un\ntren bala más temprano."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "¡Oye, Entrenador! Apúrate.",
-      "choice_data_list": [
-        "¡Estoy listo!"
-      ]
-    },
-    {
-      "name": "Monólogo",
-      "text": "A pesar de su actitud, Narita Brian tiene<n>otra\ncarrera increíble hoy."
-    },
-    {
-      "name": "Monólogo",
-      "text": "Si sigue así, probablemente le irá bien<n>en el\nTenno Sho de primavera también."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "¡Entrenador!",
-      "choice_data_list": [
-        "Perdón, solo estaba pens—"
-      ]
-    },
-    {
-      "name": "Espectador A",
-      "text": "¡Oye, es Narita Brian!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Tch... Esto es <i>culpa tuya</i>."
-    },
-    {
-      "name": "Espectador B",
-      "text": "¡Ahhh! ¡La carrera de hoy estuvo tan<n>bien! Oye,\n¿vas a correr en el Tenno<n>Sho de primavera?"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "El Tenno Sho de primavera..."
-    },
-    {
-      "name": "Espectador A",
-      "text": "¡Oh! Escuché un rumor de que la Asesina<n>Sable va\na estar ahí. ¡La corredora<n>de cabello negro con\nuna rosa azul—Rice<n>Shower!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "¿Es fuerte o algo así?"
-    },
-    {
-      "name": "Espectador B",
-      "text": "Ha sido un obstáculo tanto para Mihono<n>Bourbon\ncomo para Mejiro McQueen, así que, sí,<n>diría que\nes bastante fuerte."
-    },
-    {
-      "name": "Espectador A",
-      "text": "Pero te apoyamos a ti, así que ¡acaba<n>con ella por nosotros!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...Rice Shower, ¿eh?"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Entrenador, sé que el entrenamiento<n>continúa\nmañana, pero me<n>gustaría que hicieras algunos\najustes para el Tenno Sho de primavera.",
-      "choice_data_list": [
-        "¿Quieres participar en el Tenno Sho de primavera?",
-        "¿Quieres participar en el Tenno Sho de primavera?"
-      ]
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Sí. Si hay alguien tan fuerte como para<n>que la\nllamen \"la asesina\", entonces<n>definitivamente\nquiero ver de qué es capaz."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "No, no solo quiero ver de qué es<n>capaz. Quiero\nvencerla.",
-      "choice_data_list": [
-        "¡Entendido!"
-      ]
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Muy bien. Entonces..."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "<i>Uff, uff...</i> ¡Uf!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Agua... Necesito... agua.",
-      "choice_data_list": [
-        "Oye, ¿no eres tú...?",
-        "Oye, ¿no eres tú...?"
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "¡Gyaaah!"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Cabello negro y una rosa azul... No hay<n>error:\ncoincide con las<n>características de la Asesina\nSable<n>de la que hemos oído rumores.",
-      "choice_data_list": [
-        "¿Rice Shower?"
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "¡I-iik!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Ah... E-em... ¡P-perdón!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "..."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "<i>...¿Esa</i> es la Asesina?"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Es cierto, \"Asesina Sable\" no parece<n>un nombre\napropiado para una chica tan<n>pequeña y delicada."
-    },
-    {
-      "name": "Monólogo",
-      "text": "Pero no será hasta el Tenno Sho de<n>primavera que\npodremos ver su<n>fuerza con nuestros propios\nojos."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Espectadores",
+            "text": "¡Eres tan genial, Brian! ¡Ahhh, mira por<n> aquí!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Hmph."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Si nos vamos ahora, probablemente <n>podamos tomar\nun tren bala más temprano."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "¡Oye, Entrenador! Apúrate.",
+            "choice_data_list": [
+                "I'm ready!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "A pesar de su actitud, Narita Brian tiene<n> otra\ncarrera increíble hoy."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Si sigue así, probablemente también le vaya <n>bien\nen el Tenno Sho de primavera."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Trainer!",
+            "choice_data_list": [
+                "Lo siento, solo estaba pensando—"
+            ]
+        },
+        {
+            "name": "Espectador A",
+            "text": "¡Oye, es Narita Brian!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Tch... Esto <i>es <i>tu</i> culpa."
+        },
+        {
+            "name": "Espectador B",
+            "text": "¡Ahhh! ¡La carrera de hoy fue tan <n>buena! Oye, ¿vas\na correr en el Tenno Sho<n> de primavera?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "El Tenno Sho de primavera..."
+        },
+        {
+            "name": "Espectador A",
+            "text": "¡Oh! ¡Escuché el rumor de que el Asesino Azabache\nestará ahí! La corredora de cabello negro y una\nrosa azul... ¡Rice Shower!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "¿Es fuerte o algo así?"
+        },
+        {
+            "name": "Espectador B",
+            "text": "Ha sido un obstáculo tanto para Mihono <n>Bourbon\ncomo para Mejiro McQueen, así que, <n>sí, diría que\nes bastante fuerte!"
+        },
+        {
+            "name": "Espectador A",
+            "text": "¡Pero te apoyamos, así que derrótala<n> por nosotros!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...¿Rice Shower, eh?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Entrenador, sé que el entrenamiento se<n> reanuda\nmañana, pero me gustaría que hicieras <n>algunos\najustes para el Tenno Sho de primavera.",
+            "choice_data_list": [
+                "¿Quieres entrar en el Tenno Sho de primavera?",
+                "¿Quieres entrar en el Tenno Sho de primavera?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Sí. Si hay alguien lo suficientemente fuerte<n> como\npara ser llamado \"el asesino\", <n>entonces\ndefinitivamente quiero ver lo que tiene."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "No, no solo quiero ver lo que <n>tiene. Quiero\nderrotarla.",
+            "choice_data_list": [
+                "Got it!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Bien. Entonces..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Huff, huff...</i> ¡Uf!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Agua... Necesito... agua.",
+            "choice_data_list": [
+                "Oye, no eres...",
+                "Oye, no eres..."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Gyaaah!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Cabello negro y una rosa azul... No hay duda de\nque coincide con las características del Asesino\nAzabache del que hemos escuchado rumores.",
+            "choice_data_list": [
+                "¿Rice Shower?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "E-eek!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah... U-um... ¡D-disculpe!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "<i>...¿Ese es</i> el Asesino?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Es cierto, \"Asesino de Sable\" difícilmente <n>parece\nun nombre apropiado para una chica tan <n>pequeña y\ndelicada."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pero no será hasta el Tenno Sho de <n>primavera que\npodremos ver su fuerza<n> con nuestros propios ojos."
+        }
+    ]
 }

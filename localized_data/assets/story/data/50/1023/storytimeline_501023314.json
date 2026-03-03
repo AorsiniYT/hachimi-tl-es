@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Comentarista",
-      "text": "¡Qué contienda tan intensa entre\nestas<n>fantásticas<n>corredoras sénior!"
+      "name": "Locutor",
+      "text": "¡Qué reñida competencia entre estas <n>fantásticas\ncorredoras senior!"
     },
     {
-      "name": "Comentarista",
+      "name": "Locutor",
       "text": "La ganadora de la carrera de hoy es—"
     },
     {
@@ -15,11 +15,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Igualmente. Luciste bien ahí,\ncomo<n>siempre.<n>Pero..."
+      "text": "Tú también. Te viste bien allí, como <n>siempre.\nPero..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Mañana las cosas serán diferentes.\n<i>Yo</i><n>seré<n>diferente mañana. ¡Siempre\nque<n>tenga otra<n>oportunidad, ganaré!"
+      "text": "Las cosas serán diferentes <i>mañana. <i>Yo</i> <n></i>seré\ndiferente mañana. Mientras obtenga<n> otra\noportunidad, ¡ganaré!"
     },
     {
       "name": "Narita Taishin",
@@ -27,41 +27,41 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Je... Y yo estaré ahí para enfrentarte."
+      "text": "Je... Y yo estaré allí para <n>enfrentarte."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ya regresé.",
+      "text": "He vuelto.",
       "choice_data_list": [
         "¡Lo hiciste genial!"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Gracias. Yo también lo creo. Pude<n>correr al\nmáximo<n>de mis capacidades hoy."
+      "text": "Gracias. Yo también lo creo. Pude <n>correr a mi\nmejor nivel hoy."
     },
     {
-      "text": "Al ver a Biwa Hayahide sonreír con\norgullo,<n>me<n>invade una sensación de\narrepentimiento.",
+      "text": "Mientras veo a Biwa Hayahide sonriendo con\norgullo, una<n> sensación de arrepentimiento me\nllena.",
       "choice_data_list": [
-        "(Si tan solo hubiéramos sabido desde el principio\nque esta carrera sería en Hanshin...)"
+        "(Si solo hubiéramos sabido que esta carrera sería\nen Hanshin desde el principio...)"
       ]
     },
     {
-      "text": "Entonces quizás habría podido<n>desempeñarse<n>aún\nmejor. Tal vez<n>habría..."
+      "text": "Entonces quizás ella habría podido<n> dar una\nactuación aún mejor. Ella <n>podría haber..."
     },
     {
-      "name": "Comentarista",
-      "text": "¡Esto es increíble, amigos! Narita Brian\nno<n>solo<n>ganó la carrera, ¡sino que estableció\nun<n>nuevo récord!"
+      "name": "Locutor",
+      "text": "¡Esto es increíble, gente! Narita Brian no solo<n> ha\nganado la carrera, ¡ha establecido un nuevo<n>\nrécord!"
     },
     {
-      "text": "Tal vez incluso habría establecido un nuevo récord..."
+      "text": "Ella podría haber establecido incluso un nuevo\nrécord..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¡Entrenador, estoy aquí! ¿En qué estás<n>pensando\ntan<n>seriamente?",
+      "text": "¡Entrenador! ¿En qué estás pensando<n> tan\nseriamente?",
       "choice_data_list": [
-        "Pensaba en lo cerca que estuviste de un resultado\naún mejor.",
-        "Pensaba en lo cerca que estuviste de un resultado\naún mejor."
+        "Estaba pensando en cómo estuviste tan cerca de un\nresultado aún mejor.",
+        "Estaba pensando en cómo estuviste tan cerca de un\nresultado aún mejor."
       ]
     },
     {
@@ -70,43 +70,43 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Jeje. Ciertamente es importante\nno<n>volverse<n>complaciente. Y estoy de acuerdo:\ntampoco<n>estoy<n>satisfecha con mi desempeño\nde<n>hoy."
+      "text": "Jeje. Ciertamente es importante no <n>volverse\ncomplaciente. Y estoy de acuerdo—no<n> estoy\nsatisfecha con mi actuación hoy<n> tampoco."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Por eso quiero probarme en la<n>Takarazuka<n>Kinen\na continuación. Debo hacerlo<n>si quiero<n>ser la\nmejor de mi generación."
+      "text": "Es por eso que quiero ponerme a prueba en <n>el\nTakarazuka Kinen próximo. Debo hacerlo si <n>quiero\nser la mejor de mi generación."
     },
     {
-      "text": "La Takarazuka Kinen... Solo las mejores<n>y\nmás<n>famosas Umamusume son<n>invitadas a\nparticipar.<n>No solo eso...",
+      "text": "El Takarazuka Kinen... Solo las mejores<n> y más\nfamosas Umamusume son<n> invitadas a participar en\nél. No solo eso...",
       "choice_data_list": [
-        "La Takarazuka Kinen se realiza en Hanshin, ¿verdad?",
-        "La Takarazuka Kinen se realiza en Hanshin, ¿verdad?"
+        "El Takarazuka Kinen se lleva a cabo en Hanshin,\n¿verdad?",
+        "El Takarazuka Kinen se lleva a cabo en Hanshin,\n¿verdad?"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Sí. La longitud de la carrera es diferente,<n>pero\nsí,<n>también se realiza aquí en el<n>Hipódromo de\nHanshin."
+      "text": "Correcto. La longitud de la carrera es diferente,<n>\npero sí, también se lleva a cabo aquí en<n> el\nHipódromo de Hanshin."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¿Sigues molesto por el cambio de<n>sede?",
+      "text": "¿Aún estás molesta por el cambio<n> de sede?",
       "choice_data_list": [
         "Un poco..."
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Vaya. No tiene sentido preocuparse por<n>eso. No\nes<n>como si se hubiera podido hacer<n>algo al\nrespecto."
+      "text": "Vaya. No tiene sentido preocuparse por<n> eso. No es\ncomo si algo se pudiera haber <n>hecho al respecto."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Mejor concentrémonos en la próxima<n>carrera.\nPrimero,<n>deberíamos investigar contra<n>quiénes\nes más<n>probable que me enfrente en\nla<n>Takarazuka Kinen..."
+      "text": "Enfoquémonos en la próxima carrera. Primero,<n>\ndebemos buscar contra quién es más probable<n> que me\nenfrente en el Takarazuka Kinen..."
     },
     {
-      "text": "Hago lo posible por dejar\nmis<n>preocupaciones<n>atrás y cambiar de marcha\npara<n>empezar a<n>prepararnos para la\nTakarazuka<n>Kinen junto con<n>Biwa Hayahide."
+      "text": "Hago lo mejor para dejar mis preocupaciones<n> atrás\ny cambiar de marcha para comenzar a <n>prepararme\npara el Takarazuka Kinen junto con <n>Biwa Hayahide."
     },
     {
-      "text": "¡Esta vez me aseguraré de que<n>realmente\npueda<n>correr a su máximo potencial!"
+      "text": "¡Esta vez, me aseguraré de que pueda correr<n> al\nmáximo de su potencial!"
     }
   ]
 }

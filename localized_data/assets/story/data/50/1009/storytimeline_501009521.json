@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Me dirijo a mi oficina una<n>mañana cuando\nveo a Daiwa Scarlet."
+      "text": "Me dirijo a mi oficina una <n>mañana cuando veo a\nDaiwa Scarlet."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Ngg... Tomas la frecuencia relativa...<n>y luego\npara obtener la acumulativa...<n>tú... tú, eh... <i>Bostezo...</i>",
+      "text": "Ngh... Tomas la frecuencia relativa... y luego<n>\npara obtener la acumulativa... tú... tú, <n>eh...\n<i>Bostezo...</i>",
       "choice_data_list": [
         "¿Qué estás haciendo?",
         "¿Qué estás haciendo?"
@@ -15,19 +15,19 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "¡Ah! B-buenos d—"
+      "text": "¡Ah! B-buenos días—"
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Oh... solo eres tú. ¿No ves que\nestoy<n>estudiando? Tengo un examen... pronto..."
+      "text": "Oh... solo eres tú. ¿No ves que estoy <n>estudiando?\nTengo un examen... próximamente..."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "<i>Bostezo...</i> Las estudiantes<n>modelo...\ntienen que sacar puro 10... No<n>tengo tiempo...\npara... dormir..."
+      "text": "<i>Bostezo...</i> Las estudiantes modelo...<n> tienen que\nsacar todas A... No tengo tiempo... para...<n>\ndormir..."
     },
     {
       "name": "Monólogo",
-      "text": "Parece que apenas ha dormido.<n>Probablemente\ndebería aligerar su carga un poco."
+      "text": "Parece que casi no ha dormido. Probablemente\n<n>debería reducirle un poco la carga de trabajo."
     }
   ]
 }

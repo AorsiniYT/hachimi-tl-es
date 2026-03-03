@@ -3,80 +3,82 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Se está realizando un concurso de<n>comida en la\nacademia. Veo a Oguri Cap<n>entre las\nparticipantes.",
+      "text": "Se está llevando a cabo un concurso de comer<n> en la\nacademia. Veo a Oguri Cap entre <n>los concursantes.",
       "choice_data_list": [
-        "¡Espera, Oguri! ¡Volverás a subir de peso!",
-        "¡Espera, Oguri! ¡Volverás a subir de peso!"
+        "¡Espera, Oguri! ¡Vas a subir de peso otra vez!",
+        "¡Espera, Oguri! ¡Vas a subir de peso otra vez!"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "¡No me detengas! ¡Ahora no es\nmomento!<n><i>Debo</i> ganar este concurso."
+      "text": "¡No te interpongas en mi camino! ¡Ahora no es el\n<n><i>momento! <i>Tengo</i> que ganar este concurso."
     },
     {
       "name": "Oguri Cap",
-      "text": "¡La ganadora obtiene un cupón para un<n>tazón\nsúper grande de ramen!"
+      "text": "¡El ganador obtiene un cupón para un tazón<n> de\nramen gigante!"
     },
     {
       "name": "Monólogo",
-      "text": "Tiene la mente decidida. Solo hay<n>una cosa que\npuedo decir...",
+      "text": "Ella tiene la mente puesta en esto. Solo hay<n> una\ncosa que puedo decir...",
       "choice_data_list": [
-        "¡Da todo de ti!",
-        "¡Da todo de ti!",
-        "No te excedas."
+        "¡Dale todo lo que tienes!",
+        "¡Dale todo lo que tienes!",
+        "No te excedas.",
+        "¡Limpia ese plato!"
       ]
     },
     {
       "name": "Monólogo",
-      "text": "Tiene la mente decidida. Solo hay<n>una cosa que\npuedo decir...",
+      "text": "Ella tiene la mente puesta en esto. Solo hay<n> una\ncosa que puedo decir...",
       "choice_data_list": [
-        "¡Da todo de ti!",
-        "¡Da todo de ti!",
-        "No te excedas."
+        "¡Dale todo lo que tienes!",
+        "¡Dale todo lo que tienes!",
+        "No te excedas.",
+        "¡Limpia ese plato!"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "...Gracias. Solo siéntate y observa."
+      "text": "...Gracias. Tú solo siéntate y<n> mira."
     },
     {
       "name": "Oguri Cap",
-      "text": "¡Haré lo que sea necesario para ganar<n>ese\ncupón de ramen súper grande!"
+      "text": "¡Haré lo que sea para ganar ese<n> cupón de ramen\ngigante!"
     },
     {
       "name": "Monólogo",
-      "text": "Habla con convicción audaz e<n>inquebrantable.\nVerla así me recuerda<n>a cuando está\ncorriendo."
+      "text": "Ella habla con una convicción <n>audaz e\ninquebrantable. Verla así me recuerda<n> a cuando\nestá corriendo."
     },
     {
       "name": "Anfitrión",
-      "text": "¡Oguri Cap gana! ¡Felicidades!"
+      "text": "¡Oguri Cap gana! ¡Felicitaciones!"
     },
     {
       "name": "Oguri Cap",
-      "text": "¡Sí, lo logré! ¡El premio es mío!"
+      "text": "¡Sí, lo hice! ¡El premio es mío!"
     },
     {
       "name": "Monólogo",
-      "text": "La sonrisa de Oguri Cap es aún más<n>brillante que\nlo usual."
+      "text": "La sonrisa de Oguri Cap es aún más brillante de <n>lo\nhabitual."
     },
     {
       "name": "Anfitrión",
-      "text": "¿Lo pueden creer? ¡Tenemos dos<n>\nganadoras—Oguri Cap y Special Week!"
+      "text": "¿Lo creerías? ¡Tenemos dos <n>ganadoras—Oguri Cap y\nSpecial Week!"
     },
     {
       "name": "Oguri Cap",
-      "text": "Argh, empaté con Special Week. Espero<n>que ambas\ntodavía obtengamos el premio..."
+      "text": "Argh, empaté con Special Week. Espero que<n> ambas\naún recibamos el premio..."
     },
     {
       "name": "Monólogo",
-      "text": "Oguri Cap parece un poco frustrada, pero<n>antes\nde que pueda consolarla, debo<n>pensar en algunas\nopciones de comida<n>saludable para compensar esta\ngran<n>interrupción de su dieta usual."
+      "text": "Oguri Cap parece un poco frustrada, pero <n>antes de\nque pueda consolarla, necesito pensar en<n> algunas\nopciones de comidas saludables <n>para compensar esta\ngran disrupción en su dieta <n>habitual."
     },
     {
       "name": "Oguri Cap",
-      "text": "Pero esto es un concurso de comida. <i>Tienes</i>\nque<n>excederte si quieres tener oportunidad\nde<n>ganar.",
+      "text": "Pero esto es un concurso de comer. <i>Tienes <i>que</i><n>\n</i>excederte si quieres tener oportunidad<n> de ganar.",
       "choice_data_list": [
-        "Puedo comprarte ramen si lo deseas tanto.",
-        "Puedo comprarte ramen si lo deseas tanto."
+        "Puedo comprarte algo de ramen si lo quieres tanto.",
+        "Puedo comprarte algo de ramen si lo quieres tanto."
       ]
     },
     {
@@ -85,15 +87,51 @@
     },
     {
       "name": "Anfitrión",
-      "text": "¡Y la ganadora es Special Week!<n>¡Felicidades!"
+      "text": "¡Y la ganadora es Special Week!<n> ¡Felicitaciones!"
     },
     {
       "name": "Oguri Cap",
-      "text": "Perdí... Pero supongo que no importa.<n>De todos\nmodos me invitarás ramen,<n>¿verdad?"
+      "text": "Perdí... Pero supongo que no importa.<n> De todas\nformas me invitas a<n> ramen, ¿verdad?"
     },
     {
       "name": "Monólogo",
-      "text": "Oguri Cap me mira con una mirada<n>resuelta.\nMentalmente anoto buscar un<n>lugar que sirva\nramen saludable."
+      "text": "Oguri Cap me clava una mirada resuelta. <n>Tomo nota\nmental para encontrar un lugar que<n> sirva ramen\nsaludable."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Mmm... ¿Quieres decir que ni siquiera debo<n> dejar\nuna mancha de salsa?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ah que lo mencionas, seguro que eso también<n>\ngustaría a las personas que hicieron la <n>comida.\nHaré lo mejor que pueda."
+    },
+    {
+      "name": "Anfitrión",
+      "text": "Para la siguiente ronda, nuestros <n>concursantes\ndeben devorar una pila de pollo <n>frito del tamaño\ndel Monte Fuji! ¡Espero<n> que incluso los glotones\nmás confiados se<n> rindan!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡No puedo! ¡No puedo caber ni un bocado<n> más!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No te preocupes. Yo lo terminaré por ti."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿Qué? P-pero ¿por qué?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Uf... Ni una miga queda. ¡Qué comida!"
+    },
+    {
+      "name": "Anfitrión",
+      "text": "¡Tenemos una ganadora! Oguri Cap—que,<n> por alguna\nrazón, incluso se ofreció a<n> comer la comida de\notro concursante! ¡Ella<n> está en otro nivel!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Completamente invencible, Oguri Cap<n> ha redefinido\nlo que significa ganar un <n>concurso de comer... a\ncosta de una ingesta <n>calórica sustancial."
     }
   ]
 }

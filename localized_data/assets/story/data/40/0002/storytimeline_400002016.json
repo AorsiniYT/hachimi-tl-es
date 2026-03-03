@@ -2,23 +2,24 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "『アオハル杯』プレシーズン3戦目！\r\n控室にて、ハルウララは自信満々だった。"
+      "name": "Monólogo",
+      "text": "¡Es la tercera ronda de la pretemporada<n> de la Copa\nde la Unidad! Haru Urara rebosa<n> de confianza en la\nsala de espera."
     },
     {
-      "name": "ハルウララ",
-      "text": "今日は！　勝てる気がする！！",
+      "name": "Haru Urara",
+      "text": "¡Sí, sé que vamos a ganar hoy!",
       "choice_data_list": [
-        "強気だな",
-        "強気だね"
+        "Suenas muy segura.",
+        "Suenas muy segura."
       ]
     },
     {
-      "name": "ハルウララ",
-      "text": "うん！　だって、みんながんばったし、\nそれにすーっごく仲良しになったんだよ！"
+      "name": "Haru Urara",
+      "text": "¡Porque lo estoy! Trabajamos<n> mucho, y ¡todas nos\nhemos acercado<n> mucho!"
     },
     {
-      "name": "ハルウララ",
-      "text": "だから、なんかね、勝てる気がする！"
+      "name": "Haru Urara",
+      "text": "No sé por qué, pero eso me hace sentir que<n> podemos\nganar esto!"
     }
   ]
 }

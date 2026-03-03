@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Manhattan Cafe no aparece para el<n> entrenamiento.\nPreocupada, voy a buscarla,<n> solo para encontrarla\nsaludando a nadie <n>en particular."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Adiós. No te pierdas en el camino<n> a casa...",
+      "choice_data_list": [
+        "...¿Con quién estás hablando?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Oh, Entrenador... Esa persona se perdió, así<n> que\nle estaba dando indicaciones..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Vale, empecemos con el entrenamiento...",
+      "choice_data_list": [
+        "No tenemos tiempo para eso ahora..."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Oh... el sol ya se está poniendo..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Pero estoy segura de que solo hablamos por <n>unos\nsegundos..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...No, eso no es excusa. Lo siento, seré más<n>\ncuidadosa en el futuro..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se ve genuinamente apenada. Y sí dijo<n> que sería\nmás cuidadosa, así que no la<n> presionaré por más\ndetalles..."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Encuentro a Mihono Bourbon de pie en<n>el pasillo\naturdida.",
+      "text": "Encuentro a Mihono Bourbon parada en el<n> pasillo,\nensimismada.",
       "choice_data_list": [
         "¿Qué estás haciendo?",
         "¿Qué estás haciendo?"
@@ -12,7 +12,7 @@
       "name": "Mihono Bourbon",
       "text": "...",
       "choice_data_list": [
-        "Emmm, ¿Bourbon?"
+        "Emm, Bourbon?"
       ]
     },
     {
@@ -21,14 +21,14 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Perdóneme... Capacidades<n>cognitivas en\ndecadencia. Incapaz de<n>reconocer al Entrenador..."
+      "text": "Perdóname... Capacidades cognitivas en <n>declive.\nIncapaz de reconocer al Entrenador..."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "La causa puede ser... fatiga severa...<n>por\ncarreras excesivas..."
+      "text": "La causa puede ser... fatiga severa... por<n> exceso\nde carreras..."
     },
     {
-      "text": "La fatiga de las carreras ha comenzado<n>a afectar\nsu vida cotidiana. Podría<n>ser mejor ajustar su\ncalendario de carreras."
+      "text": "La fatiga de las carreras ha empezado a<n> interferir\nen su vida diaria. Podría ser mejor<n> ajustar su\ncalendario de carreras."
     }
   ]
 }

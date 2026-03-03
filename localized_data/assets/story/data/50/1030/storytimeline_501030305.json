@@ -1,126 +1,126 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Rice Shower",
-      "text": "<i>Jadeo... resuello... boqueo...</i>",
-      "choice_data_list": [
-        "¡¿Estás bien?!"
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "E-estoy bien... Estoy bien. ¿Estabas mirando?"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "E-estoy bien... Estoy bien. ¿Estabas mirando?"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "¡Yo... alcancé a Bourbon!",
-      "choice_data_list": [
-        "¡Lo vi!",
-        "¡Lo vi!"
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Je... yo... lo hice..."
-    },
-    {
-      "name": "Monólogo",
-      "text": "<i>¡Zas!</i>",
-      "choice_data_list": [
-        "¡¿Rice?!"
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "<i>Zzz... zzz...</i>"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Agotada su fuerza, se desploma<n>frente a mí."
-    },
-    {
-      "name": "Monólogo",
-      "text": "Me apresuro a ofrecerle mi hombro<n>para que\ndescanse. Y mientras lo hago..."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Su elección de palabras no coincide<n>con el\nescenario en el que estamos.",
-      "choice_data_list": [
-        "¡Mihono Bourbon!"
-      ]
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Considerando el resultado de la carrera,<n>debió\nhaber dicho que me \"venció\"."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "La frase \"alcanzó a\" es engañosa.<n>¿No deberías\ncorregirla?",
-      "choice_data_list": [
-        "Alcanzarte era lo importante para ella."
-      ]
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Esto... no computa."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "¡L-lo siento! No quise causarte problemas!",
-      "choice_data_list": [
-        "Está bien. Estabas agotada."
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "P-pero...",
-      "choice_data_list": [
-        "No te preocupes. Tenemos que enfocarnos en lo que\nviene después."
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "¿Hm? ¿Después?",
-      "choice_data_list": [
-        "Los Clásicos aún no terminan."
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "...¡Ah! ¡Tienes razón!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "...¡Ah! ¡Tienes razón!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Puede que haya ganado esta vez...<n>pero no puedo\nconformarme solo con<n>eso."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Hm... La próxima carrera en la que<n>Bourbon\ncorrerá debe ser...",
-      "choice_data_list": [
-        "Apuesto que el Kikuka Sho.",
-        "Apuesto que el Kikuka Sho."
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Entonces correré en esa también...<n>Hagámoslo."
-    },
-    {
-      "name": "Monólogo",
-      "text": "El Kikuka Sho es la última carrera de<n>la gira de\nla Triple Corona—una<n>carrera de larga distancia\nde 3000<n>metros en césped."
-    },
-    {
-      "name": "Monólogo",
-      "text": "Como Rice Shower es fondista, ¡eso<n>significa que\nsus posibilidades de<n>victoria son las más altas\nque<n>nunca han sido!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Rice Shower",
+            "text": "<i>Resoplido... soplo... jadeo...</i>",
+            "choice_data_list": [
+                "¿Estás bien?!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "E-Estoy bien... Estoy bien. ¿Me estabas viendo?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "E-Estoy bien... Estoy bien. ¿Me estabas viendo?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yo... yo alcancé a Bourbon!",
+            "choice_data_list": [
+                "I saw!",
+                "I saw!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Je... Lo... logré..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Thud!</i>",
+            "choice_data_list": [
+                "Rice?!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Zzz... zzz...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Agotada su fuerza, se desploma <n>frente a mí."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Me acerco rápidamente para ofrecerle mi hombro\ndonde<n> apoyarse. Y mientras lo hago..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Su forma de hablar no encaja con la situación<n> en\nla que estamos.",
+            "choice_data_list": [
+                "¡Mihono Bourbon!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Dado el resultado de la carrera, ella<n> debería\nhaber dicho que me \"ganó\"."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "La frase \"alcanzado\" es engañosa.<n> ¿No deberías\ncorregirla?",
+            "choice_data_list": [
+                "Alcanzarte era lo que le importaba a ella."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Esto... no tiene sentido."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡L-lo siento! No quería causarte problemas.",
+            "choice_data_list": [
+                "Está bien. Estabas agotada."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "B-but...",
+            "choice_data_list": [
+                "No te preocupes. Tenemos que concentrarnos en lo\nque viene después."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hm? Next?",
+            "choice_data_list": [
+                "Las clásicas aún no han terminado."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...¡Ah! ¡Tienes razón!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...¡Ah! ¡Tienes razón!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Puede que haya ganado esta vez... pero no<n> me\nconformo solo con eso."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hum... La próxima carrera en la que Bourbon va a<n>\ncorrer tiene que ser...",
+            "choice_data_list": [
+                "El Kikuka Sho, apuesto.",
+                "Apuesto a que el Kikuka Sho..."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Entonces también correré en esa... ¡Hagámoslo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "El Kikuka Sho es la carrera final del tour de <n>la\nTriple Corona—una carrera de césped de<n> larga\ndistancia de 3000 metros."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Como Rice Shower es una fondista, eso significa<n>\nque sus posibilidades de victoria son las más<n>\naltas de la historia!"
+        }
+    ]
 }

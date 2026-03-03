@@ -2,210 +2,218 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "お出かけの後、2人で遊園地にやってきた。\r\nエイシンフラッシュが友人にもらった\n入場券を使いたいと言ったからだ。"
+      "name": "Monólogo",
+      "text": "A Eishin Flash le regalaron unos boletos <n>para un\nparque de diversiones, así que las<n> dos decidimos\nvisitarlo después de salir."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "夜の遊園地――新鮮ですね。\nネオンに照らされたアトラクション……\n幻想的な風景です。",
+      "name": "Eishin Flash",
+      "text": "Los parques de diversiones se ven tan<n> diferentes\npor la noche. Las atracciones<n> son una vista\nmágica, iluminadas con<n> luces de neón...",
       "choice_data_list": [
-        "ワクワクするな",
-        "ワクワクするね"
+        "Esto es bastante emocionante, ¿eh?",
+        "Esto es bastante emocionante, ¿eh?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。とても、楽しい時間が\n過ごせそうですね。"
+      "name": "Eishin Flash",
+      "text": "Sí. Creo que nos divertiremos aquí."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "とはいえ、時間は有限です。\n予定はきっちり作ってきましたので、順番に\nアトラクションを回っていきましょう。"
+      "name": "Eishin Flash",
+      "text": "Sin embargo, tenemos tiempo limitado, así<n> que\nsigamos este horario que hice y <n>visitemos cada\natracción en orden. Lo hice <n>lo más detallado\nposible."
     },
     {
-      "text": "というわけで、エイシンフラッシュの立てた\n予定のもと、まずはジェットコースターへ――"
+      "name": "Monólogo",
+      "text": "Lo primero en el horario de Eishin Flash<n> es una\nmontaña rusa."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――このペースなら、あと7秒で\r\n最高高度に到達。それから一気に\n急降下することになりますね。"
+      "name": "Eishin Flash",
+      "text": "A este ritmo, alcanzaremos la <n>altitud máxima en\nexactamente siete segundos.<n> Luego caeremos a una\nvelocidad<n> increíble."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……5、4、3、2……。",
+      "name": "Eishin Flash",
+      "text": "Cinco, cuatro, tres, dos...",
       "choice_data_list": [
-        "こ、怖いからやめてくれ！",
-        "こ、怖いからやめて！"
+        "¡P-por favor no cuentes atrás!",
+        "¡P-por favor no cuentes atrás!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "えっ？\nあ――0ですッ！"
+      "name": "Eishin Flash",
+      "text": "¿Eh? Oh—¡cero!"
     },
     {
-      "text": "……その後も様々なアトラクションを回り――"
+      "name": "Monólogo",
+      "text": "Después subimos a todo tipo de atracciones."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――さて。コーヒーカップと観覧車も終了。\n次はフリーフォールへ――",
+      "name": "Eishin Flash",
+      "text": "Allá, eso es todo por las tazas giratorias y <n>la\nrueda de la fortuna. Lo siguiente es la torre <n>de\ncaída—",
       "choice_data_list": [
-        "向こうにあるお化け屋敷は？"
+        "¿Y qué hay de la casa embrujada de allá?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……あそこは予定には入れていません。",
+      "name": "Eishin Flash",
+      "text": "...Eso no está en el horario.",
       "choice_data_list": [
-        "なぜ？"
+        "¿Por qué no?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……ゾンビが出るかも、しれないからです。"
+      "name": "Eishin Flash",
+      "text": "Porque puede haber... zombis."
     },
     {
-      "text": "――ともかく、予定通りに\r\n楽しい時間は過ぎていった。"
+      "name": "Monólogo",
+      "text": "Aun así, lo pasamos genial <n>mientras seguimos su\nhorario."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……さて、ではお土産を\n見ていきましょうか。ファルコンさんへ\n贈るものも選ばなくては。"
+      "name": "Eishin Flash",
+      "text": "Ahora, ¿damos una vuelta por la tienda de\nsouvenirs?<n> Debo comprar un recuerdo para Falcon."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "売店は……あちらですね。\n19時20分までに購入を済ませ、\n19時30分までに遊園地を出ましょう。"
+      "name": "Eishin Flash",
+      "text": "Oh, ahí está la tienda. Hagamos nuestras<n> compras\nantes de las 7:20 p.m. y salgamos<n> del lugar a las\n7:30 p.m."
     },
     {
-      "text": "……と、いうわけで、売店へ向かうと――"
+      "name": "Monólogo",
+      "text": "Con estos horarios en mente, nos dirigimos a <n>la\ntienda."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "こ、これは……ドイツ・フェア？"
+      "name": "Eishin Flash",
+      "text": "Oh... Están organizando una feria alemana."
     },
     {
-      "text": "お土産売り場では、偶然にも、\nドイツをテーマにした\nフェアが開かれていた。"
+      "name": "Monólogo",
+      "text": "No teníamos idea de que hubiera <n>un evento, pero\nparece que la tienda de <n>souvenirs y los puestos\nvenden cosas de Alemania<n> hoy."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ああ、これは……\nドナウヴェレ、ですね。",
+      "name": "Eishin Flash",
+      "text": "Ah... Tienen Donauwelle.",
       "choice_data_list": [
-        "それもドイツのお菓子？"
+        "¿También es un pastel alemán?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。ヴェレとは『さざ波』という意味で……\nほら、表面のチョコレートが波のような\n形をしているんです。"
+      "name": "Eishin Flash",
+      "text": "Sí. \"Welle\" significa \"ola\", como<n> las olas del\nagua... ¿Ves cómo <n>el chocolate parece pequeñas\nolas?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "これはおすすめですね。\nケーキ屋の娘としても、\n味をチェックしておきたいかも……。"
+      "name": "Eishin Flash",
+      "text": "Está muy bueno. Lo recomiendo. Aunque,<n> como hija\nde pasteleros, quizás necesite<n> probar el sabor\npara autenticidad..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "あっ、あそこにあるのはもしかして――\nシュトロイゼルクーヘンに、\nレープクーヘン……？"
+      "name": "Eishin Flash",
+      "text": "¡Ah! ¿Serán Streuselkuchen y<n> Lebkuchen?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "すごい……雑貨も充実してます。\n工場生産ではありませんね。\n恐らく、マイスターの手作り――"
+      "name": "Eishin Flash",
+      "text": "Vaya... Tienen tanta variedad, y <n>nada parece hecho\nen fábrica. Quizás todos<n> fueron hechos a mano por\nverdaderos<n> maestros..."
     },
     {
-      "text": "……と、その時、ふと腕時計を見ると、\n予定時刻の19時20分になっていた。"
+      "name": "Monólogo",
+      "text": "Por casualidad veo mi reloj. Ya<n> son las 7:20 p.m."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "あ……！　見てください、トレーナーさん。\nこれ、フンメル人形って言うんですよ。"
+      "name": "Eishin Flash",
+      "text": "¡Oh! ¡Mira! Esto se llama muñeca <n>Hummel."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "実家の店にも、子どもの頃から\r\n飾ってあったんです。"
+      "name": "Eishin Flash",
+      "text": "Hay una dentro de la tienda de mis padres <n>también.\nHa estado ahí desde que era niña."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "置き場所は、入ってすぐ左の棚です。\n子羊を連れた、小さな女の子の人形――"
+      "name": "Eishin Flash",
+      "text": "Era un muñeco de una niña con un corderito.<n> Lo\nmantuvimos en el estante justo a la <n>izquierda de\nla entrada."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ああ……思い出してきました。\r\nまだ小さい頃、お人形遊びに使って\n怒られてしまって……ふふ――"
+      "name": "Eishin Flash",
+      "text": "Ahh... Qué recuerdos tan gratos. Una vez<n> me\nregañaron por jugar con ese muñeco cuando<n> era muy\npequeña... ¡Jeje!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……はあ。まさかここで、\n故郷を思い出す機会に恵まれるとは\n思いませんでした――"
+      "name": "Eishin Flash",
+      "text": "<i>Suspiro...</i> Nunca imaginé que tendría<n> la\noportunidad de recordar mi tierra natal<n> en un día\ncomo hoy. Cómo—"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……？\nこの音は……？"
+      "name": "Eishin Flash",
+      "text": "¿Eh? Ese sonido..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はっ！？\nしまった……時間……！？"
+      "name": "Eishin Flash",
+      "text": "¡Oh no! ¿Qué hora es?!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……申し訳ありません……！\n夢中になってしまって……\n予定を狂わせてしまうなんて……！",
+      "name": "Eishin Flash",
+      "text": "¡Mis más sinceras disculpas! He arruinado<n> nuestro\nhorario por haberme perdido en <n>sueños sin sentido!",
       "choice_data_list": [
-        "……今日に限っては正解だよ",
-        "……今日に限っては正解かな",
-        "せっかくだし、もっと見ていったら？"
+        "Está bien. Hoy es lo correcto.",
+        "Está bien. Hoy es lo correcto.",
+        "Ya que estamos aquí, ¿por qué no damos una vuelta\nmás?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……申し訳ありません……！\n夢中になってしまって……\n予定を狂わせてしまうなんて……！",
+      "name": "Eishin Flash",
+      "text": "¡Mis más sinceras disculpas! He arruinado<n> nuestro\nhorario por haberme perdido en <n>sueños sin sentido!",
       "choice_data_list": [
-        "……今日に限っては正解だよ",
-        "……今日に限っては正解かな",
-        "せっかくだし、もっと見ていったら？"
+        "Está bien. Hoy es lo correcto.",
+        "Está bien. Hoy es lo correcto.",
+        "Ya que estamos aquí, ¿por qué no damos una vuelta\nmás?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "えっ……？",
+      "name": "Eishin Flash",
+      "text": "¿Qué?",
       "choice_data_list": [
-        "それだけ夢中になれたなら"
+        "Te estás divirtiendo mucho, ¿verdad?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……っはい……。\r\n確かに、故郷の思い出が、蘇ってきて……\nとても、楽しい時間でした。"
+      "name": "Eishin Flash",
+      "text": "Bueno... sí. Revivir momentos de mi<n> infancia ha\nsido muy divertido."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "しかし、予定時間を忘れてしまったのは\nやはり私の未熟さゆえで……ううん……。"
+      "name": "Eishin Flash",
+      "text": "Pero perderme tanto en mis pensamientos como<n> para\ndescarrilar nuestro horario... Todavía tengo mucho<n>\nque aprender sobre ser disciplinada..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……決めました。これから出かける時は、\nもっと予定に余裕を作るようにします。"
+      "name": "Eishin Flash",
+      "text": "Me he decidido. En el futuro,<n> incluiré más margen\nen mis<n> horarios."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――楽しくてつい時間を忘れてしまうことが\nあっても、大丈夫なように。"
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, no será un problema incluso si<n> me\ndivierto tanto que pierda la noción del<n> tiempo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "今日のように楽しい時間は――\n後顧の憂いなく満喫したいですから。"
+      "name": "Eishin Flash",
+      "text": "Quiero divertirme al máximo cuando tenga<n> una\noportunidad como esta de nuevo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "い、いえ、それでは\nますます予定が狂って……！",
+      "name": "Eishin Flash",
+      "text": "¡No debemos! Si lo hacemos, ¡el horario estará<n>\ncompletamente arruinado!",
       "choice_data_list": [
-        "嬉しいハプニングじゃないか",
-        "嬉しいハプニングじゃない"
+        "Pero, ¿no es agradable estar aquí? Piensa en esto\ncomo un accidente feliz.",
+        "Pero, ¿no es agradable estar aquí? Piensa en esto\ncomo un accidente feliz."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ハ、ハプニング、ですか……。"
+      "name": "Eishin Flash",
+      "text": "¿Un accidente feliz?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……確かに、不測の事態に合わせ、\nスケジュールを変更するのは……\n必要なことですね。"
+      "name": "Eishin Flash",
+      "text": "Supongo que es importante que los horarios<n> sean\nflexibles para acomodar<n> circunstancias inesperadas\ny<n> accidentes, felices o no..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――わかりました。\nそれでは予定を変更して、\nもう少しお土産を見ていきましょうか。"
+      "name": "Eishin Flash",
+      "text": "Muy bien. Ajustaré el horario para que podamos<n>\ntomar nuestro tiempo buscando souvenirs."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……今しばらく、故郷の思い出に\n浸らせていただきますね。"
+      "name": "Eishin Flash",
+      "text": "Aprovecharé este momento para perderme en\n<n>recuerdos de mi hogar."
     },
     {
-      "text": "その後。多くのお土産を抱えた\nエイシンフラッシュと一緒に、\n帰路についたのだった。"
+      "name": "Monólogo",
+      "text": "Después de eso, Eishin Flash y yo nos vamos a<n> casa\ncon los brazos llenos de souvenirs."
     }
   ]
 }

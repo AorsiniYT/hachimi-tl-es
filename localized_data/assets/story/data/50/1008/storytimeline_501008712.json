@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Vodka no se presentó al entrenamiento,<n>así que\nestoy buscándola..."
+      "text": "Vodka no se presentó al entrenamiento, así<n> que\nestoy buscándola..."
     },
     {
       "name": "Vodka",
@@ -11,26 +11,26 @@
     },
     {
       "name": "Vodka",
-      "text": "Supongo que tomé la curva un\npoco<n><i>demasiado</i> rápido. Tengo que<n>frenar\nmás la próxima vez.",
+      "text": "Supongo que tomé la curva un poco <i>demasiado</i>\n<n></i>rápido. Tengo que ir más lento la próxima vez.",
       "choice_data_list": [
-        "Estuvo cerca, ¿eh?",
-        "Estuvo cerca, ¿eh?"
+        "Eso estuvo cerca, ¿eh?",
+        "Eso estuvo cerca, ¿eh?"
       ]
     },
     {
       "name": "Vodka",
-      "text": "Sí, ha pasado tiempo desde que jugué<n>un juego de\nmotocicletas. Fue divertido,<n>pero quiero\napurarme y volver a la<n>vida real—"
+      "text": "Sí, ha pasado un tiempo desde que jugué <n>un juego\nde motocicletas. Fue divertido, pero<n> quiero darme\nprisa y volver a lo real—"
     },
     {
       "name": "Vodka",
-      "text": "¡¿Entrenador?! ¡¿Qué haces aquí?!",
+      "text": "¡Entrenador?! ¿Qué estás haciendo aquí?!",
       "choice_data_list": [
         "Es hora de entrenar."
       ]
     },
     {
       "name": "Vodka",
-      "text": "¿Eh?"
+      "text": "¿Qué?"
     },
     {
       "name": "Vodka",
@@ -38,15 +38,15 @@
     },
     {
       "name": "Vodka",
-      "text": "L-lo siento, Entrenador. Estaba cerca<n>de\nestablecer un nuevo récord y<n>perdí la noción del\ntiempo..."
+      "text": "L-lo siento, Entrenador. Estaba a punto de\nestablecer<n> un nuevo récord y perdí la noción del\ntiempo..."
     },
     {
       "name": "Vodka",
-      "text": "¡Tendré más cuidado la próxima vez!<n>¡Nos vemos luego!"
+      "text": "¡Seré más cuidadosa la próxima vez! ¡Nos<n> vemos!"
     },
     {
       "name": "Monólogo",
-      "text": "Vodka intenta huir, pero la atrapo en<n>el último\nsegundo y le doy una<n>regañina severa."
+      "text": "Vodka intenta escapar, pero la atrapo en<n> el último\nsegundo y le doy una <n>buena regañina."
     }
   ]
 }

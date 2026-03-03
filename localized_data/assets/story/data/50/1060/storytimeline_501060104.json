@@ -2,43 +2,42 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
       "text": "Un día, durante el campamento de entrenamiento..."
     },
     {
       "name": "Nice Nature",
       "text": "Entrenador, ¿tienes un minuto?",
       "choice_data_list": [
-        "¿Qué sucede?",
-        "¿Qué sucede?"
+        "¿Qué pasa?",
+        "¿Qué pasa?"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Nada, solo... ¿Puedo pedirte prestado un<n>segundo?"
+      "text": "Nada, solo... ¿Puedo prestarte un<n> momento?"
     },
     {
       "name": "Nice Nature",
-      "text": "Okay, no hay nadie alrededor...",
+      "text": "Bueno, no hay nadie alrededor...",
       "choice_data_list": [
         "¿Hay algo de lo que quieras hablar conmigo?"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Um, no es gran cosa, pero sobre nuestro<n>entrenamiento..."
+      "text": "Um, no es gran cosa, pero sobre nuestro\n<n>entrenamiento..."
     },
     {
       "name": "Nice Nature",
-      "text": "Dímelo directamente. ¿Qué crees que<n>le falta a\nmi rendimiento?"
+      "text": "Dímelo directamente. ¿Qué crees que<n> falta en mi\nrendimiento?"
     },
     {
       "name": "Nice Nature",
-      "text": "Pero no digas \"todo.\" Eso solo me<n>pondría\ntriste."
+      "text": "No digas \"todo,\" aunque. Eso solo <n>me pondría\ntriste."
     },
     {
       "name": "Nice Nature",
-      "text": "Quiero hacer entrenamiento extra, pero<n>primero\nnecesito tu opinión experta. Así que<n>suéltalo.",
+      "text": "Quiero hacer un entrenamiento extra, <n>pero primero,\nnecesito tu opinión experta. Así<n> que dímelo.",
       "choice_data_list": [
         "Claro, pero ¿por qué de repente?",
         "Claro, pero ¿por qué de repente?"
@@ -46,23 +45,22 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Mira, estoy detrás de todas las demás en<n>cuanto\na entrenamiento y experiencia en carreras."
+      "text": "Mira, voy rezagada respecto a todas las demás en<n>\ncuanto a entrenamiento y experiencia en carreras."
     },
     {
       "name": "Nice Nature",
-      "text": "Pero... estoy compitiendo con <i>Teio</i> aquí,<n>¿verdad?"
+      "text": "Pero... Estoy compitiendo <i>con <i>Teio</i> aquí,<n> ¿verdad?"
     },
     {
       "name": "Nice Nature",
-      "text": "Sé que va a ser super, <i>super</i>\ndifícil<n>enfrentarme a ella."
+      "text": "Sé que va a ser súper, <i>súper</i> difícil<n> enfrentarme a\nella."
     },
     {
       "name": "Nice Nature",
-      "text": "Así que quiero estar lo más preparada posible."
+      "text": "Así que quiero estar tan lista como pueda."
     },
     {
-      "name": "Monólogo",
-      "text": "Aunque todavía ansiosa por sus<n>perspectivas,\nestá claro que Nice Nature está<n>motivada. Si ese\nes el caso, lo que puedo<n>decirle es...",
+      "text": "Aunque aún ansiosa por sus <n>perspectivas, está\nclaro que Nice Nature <n>está motivada. Si ese es el\ncaso, lo que le<n> puedo decir es...",
       "choice_data_list": [
         "Deberías trabajar tu núcleo en la playa.",
         "Hagamos algo de entrenamiento mental."
@@ -70,26 +68,25 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Eh... ¿Y qué quieres decir exactamente?"
+      "text": "¿Eh? Y exactamente qué quieres decir?"
     },
     {
-      "name": "Monólogo",
-      "text": "Sugiero que entrene en la arena para<n>fortalecer\nsu núcleo, lo que puede llevar a<n>más estabilidad\ndurante las carreras."
-    },
-    {
-      "name": "Nice Nature",
-      "text": "Es cierto. Un núcleo fuerte es importante.<n>Okay,\nlo haré."
+      "text": "Sugiero que entrene en la arena para <n>fortalecer su\nnúcleo, lo que puede llevar a más <n>estabilidad\ndurante las carreras."
     },
     {
       "name": "Nice Nature",
-      "text": "Muy bien, entonces me voy a entrenar. Nos<n>vemo—",
+      "text": "Es verdad. Un núcleo fuerte es importante.<n> Bueno,\nlo haré."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Muy bien, entonces me voy a entrenar. Nos vemos<n>\nla—",
       "choice_data_list": [
-        "Pero no permitiré ningún entrenamiento por tu cuenta."
+        "Pero no permitiré ningún entrenamiento por tu\ncuenta."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "¿Qué? ¿Por qué? Acabas de darme un<n>consejo para\neso.",
+      "text": "¿Qué? ¿Por qué? Acabas de darme consejos<n> para eso.",
       "choice_data_list": [
         "Solo lo permitiré si estoy allí contigo.",
         "Solo lo permitiré si estoy allí contigo."
@@ -97,14 +94,14 @@
     },
     {
       "name": "Nice Nature",
-      "text": "¿Eh? Espera... ¿Quieres unirte a mí\npara<n>entrenamiento extra?",
+      "text": "¿Eh? Espera... ¿Quieres unirte a mí para<n>\nentrenamiento extra?",
       "choice_data_list": [
         "¡Por supuesto!"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Ay, ¿estás seguro? Lo siento... Seguro<n>tienes\notras cosas que hacer.",
+      "text": "Ay, ¿seguro? Lo siento... Seguro<n> que tienes otras\ncosas que hacer.",
       "choice_data_list": [
         "Nada es más importante que apoyarte.",
         "Nada es más importante que apoyarte."
@@ -116,30 +113,29 @@
     },
     {
       "name": "Nice Nature",
-      "text": "De veras no dudas en decir cosas<n>cursis como\nesa..."
+      "text": "De verdad no dices cosas <n>cursis como esa..."
     },
     {
       "name": "Nice Nature",
-      "text": "¿E-entrenamiento mental? ¡¿Qué quieres<n>decir con\neso exactamente?!"
+      "text": "¿E-entrenamiento mental? ¿A qué te <n>refieres\nexactamente?!"
     },
     {
-      "name": "Monólogo",
-      "text": "Sugiero que agregue límites de tiempo a\nsus<n>ejercicios para estar más preparada para\nla<n>presión durante las carreras."
-    },
-    {
-      "name": "Nice Nature",
-      "text": "Ah, ya entiendo. Me alegra que no fuera<n>un\nmétodo extremo."
+      "text": "Sugiero que ella agregue límites de tiempo a sus<n>\nejercicios para estar más preparada para la\n<n>presión durante las carreras."
     },
     {
       "name": "Nice Nature",
-      "text": "Okay, ahora que capté la idea, voy a<n>empeza—",
+      "text": "Ah, ya entiendo. Me alegra que no fuera algún<n>\nmétodo extremo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, ahora que entendí la idea,<n> empezaré—",
       "choice_data_list": [
-        "Pero no permitiré ningún entrenamiento por tu cuenta."
+        "Pero no permito que entrenes por tu cuenta."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "¿Qué? ¿Por qué? Acabas de darme un<n>consejo para\neso.",
+      "text": "¿Qué? ¿Por qué? Acabas de darme consejos<n> al\nrespecto.",
       "choice_data_list": [
         "Solo lo permitiré si estoy allí contigo.",
         "Solo lo permitiré si estoy allí contigo."
@@ -147,14 +143,14 @@
     },
     {
       "name": "Nice Nature",
-      "text": "¿Eh? Espera... ¿Quieres unirte a mí\npara<n>entrenamiento extra?",
+      "text": "¿Eh? Espera... ¿Quieres unirte a mi <n>entrenamiento\nextra?",
       "choice_data_list": [
         "¡Por supuesto!"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Ay, ¿estás seguro? Lo siento... Seguro<n>tienes\notras cosas que hacer.",
+      "text": "Ay, ¿seguro? Lo siento... Seguro<n> que tienes otras\ncosas que hacer.",
       "choice_data_list": [
         "Nada es más importante que apoyarte.",
         "Nada es más importante que apoyarte."
@@ -166,34 +162,33 @@
     },
     {
       "name": "Nice Nature",
-      "text": "De veras no dudas en decir cosas<n>cursis como\nesa..."
+      "text": "De verdad no dices cosas <n>cursis como esa..."
     },
     {
       "name": "Nice Nature",
-      "text": "¡Muy bien! Volvamos a entrenar."
+      "text": "¡Bien! Volvamos al entrenamiento."
     },
     {
       "name": "Nice Nature",
-      "text": "De todos modos, perdón por molestarte.\nPuedes<n>volver ahora si quieres.",
+      "text": "De todos modos, perdón por molestarte. Puedes<n>\nvolver ahora si quieres.",
       "choice_data_list": [
         "¿Por qué tuvimos que venir hasta aquí?"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Um, bueno, ya sabes... Pensé que esto<n>no es algo\nque otros deberían oír."
+      "text": "Eh, bueno, ya sabes... Solo pensé que<n> esto no es\nalgo que otros deban <n>escuchar."
     },
     {
       "name": "Nice Nature",
-      "text": "Quería preguntarte sobre tu rutina\nde<n>entrenamiento ultrasecreta, que estoy\nsegura<n>de que no quieres que se filtre."
+      "text": "Quería preguntarte sobre tu rutina<n> de\nentrenamiento ultra secreta, que estoy<n> seguro no\nquieres que se sepa."
     },
     {
       "name": "Nice Nature",
-      "text": "Además, definitivamente no quiero que<n>otros\nsepan que estoy haciendo esto para<n>competir con\nTeio."
+      "text": "Además, definitivamente no quiero que<n> otros sepan\nque hago esto para competir con<n> Teio."
     },
     {
-      "name": "Monólogo",
-      "text": "Parece que Nice Nature todavía no\ntiene<n>suficiente confianza para\ncompetir<n>abiertamente con una corredora tan\nfuerte."
+      "text": "Parece que Nice Nature todavía no tiene suficiente<n>\nconfianza para competir abiertamente con una\n<n>corredora tan fuerte."
     }
   ]
 }

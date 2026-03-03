@@ -2,44 +2,47 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "ある日、\r\nエイシンフラッシュと出かけた先で――"
+      "name": "Monólogo",
+      "text": "Un día, mientras estábamos por ahí con Eishin<n>\nFlash..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "見てください、ウマ娘のぬいぐるみが\r\n景品になっていますよ。"
+      "name": "Eishin Flash",
+      "text": "Mira, tienen peluches de Umamusume como<n> premios."
     },
     {
-      "text": "エイシンフラッシュが示すほうを見てみると、\nウマ娘たちをモチーフにしたぬいぐるみが\n入った、クレーンゲームがあった。"
+      "name": "Monólogo",
+      "text": "Miro en la dirección que señala Eishin<n> Flash y veo\nuna máquina de garra llena<n> de peluches de\nUmamusume."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "精密さを大胆に捨てていますが、\r\n特徴をよく捉えていてかわいいですね。",
+      "name": "Eishin Flash",
+      "text": "Hay una ausencia evidente de detalle, pero las<n>\ncaracterísticas lindas en ellos son bastante<n>\nencantadoras.",
       "choice_data_list": [
-        "取ってみれば？"
+        "¿Quieres intentar jugar?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……いえ、それには問題が1つあります。\r\nそれは……この機械です。"
+      "name": "Eishin Flash",
+      "text": "No. Hay un gran obstáculo para ganar<n> este juego, y\nese es la máquina en sí."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "繊細な操作を要求される一方で、\r\nミリ単位での調整を許さないシステム。"
+      "name": "Eishin Flash",
+      "text": "A pesar de la necesidad de una<n> operación precisa\nhasta el milímetro<n> para ganar un premio, el\nsistema de control<n> es muy impreciso."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そしてモノを掴むのに適さない形状のアーム。\r\n……あまりに条件がアンフェアです。",
+      "name": "Eishin Flash",
+      "text": "Peor aún, el diseño defectuoso de la garra hace<n>\nque agarrar objetos sea increíblemente\nineficiente.<n> Tales condiciones son groseramente\ninjustas.",
       "choice_data_list": [
-        "なら……ここは俺が！",
-        "なら……ここは私が！"
+        "¡Lo intentaré yo en su lugar, entonces!",
+        "¡Lo intentaré yo en su lugar, entonces!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "なるほど、自信があるのですね。\r\nではトレーナーさん、お任せします。"
+      "name": "Eishin Flash",
+      "text": "De hecho pareces bastante confiado.<n> Muy bien, te\nencomiendo con este esfuerzo."
     },
     {
-      "text": "――このゲーム、負けられない！！"
+      "name": "Monólogo",
+      "text": "¡No hay manera de que falle ahora!"
     }
   ]
 }

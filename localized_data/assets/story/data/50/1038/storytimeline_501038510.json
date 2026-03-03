@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Umamusume A",
-      "text": "¡Oh! ¡Curren! ¡Eres tú! ¿Puedo tomarte<n>una foto?"
+      "text": "¡Oh! ¡Curren! ¡Eres tú! ¿Puedo tomar<n> una foto?"
     },
     {
       "name": "Curren Chan",
@@ -11,22 +11,23 @@
     },
     {
       "name": "Umamusume B",
-      "text": "¡Ahhh! ¡Curren! ¿Puedo tener tu<n>autógrafo?"
+      "text": "¡Ahhh! ¡Curren! ¿Puedo tener <n>tu autógrafo?"
     },
     {
       "name": "Curren Chan",
-      "text": "¡Eje, si lo quieres!"
+      "text": "Ehe, ¡si lo quieres!"
     },
     {
       "name": "Umamusume",
-      "text": "¡Ahhh! ¡Curren! ¡Tu foto de esta mañana<n>fue tan\nlinda!"
+      "text": "¡Ahhh! ¡Curren! Tu foto de esta mañana fue<n> muy\nadorable!"
     },
     {
       "name": "Curren Chan",
-      "text": "Jeje. ¡Gracias por verla!"
+      "text": "Hehe. ¡Gracias por verla!"
     },
     {
-      "text": "Entonces, cuando Curren Chan aparece<n>en la pista\nde entrenamiento..."
+      "name": "Monólogo",
+      "text": "Luego, cuando Curren Chan aparece en la pista<n> de\nentrenamiento..."
     },
     {
       "name": "Umamusume",
@@ -41,7 +42,8 @@
       "text": "¡Kyaaaaa!"
     },
     {
-      "text": "Parece que hoy hay más fans de Curren<n>Chan\nreunidos en la pista de lo usual.",
+      "name": "Monólogo",
+      "text": "Parece que hoy hay más fans de Curren<n> Chan\nreunidos en la pista de lo habitual.",
       "choice_data_list": [
         "¿Estás bien?",
         "¿Estás bien?"
@@ -49,7 +51,7 @@
     },
     {
       "name": "Curren Chan",
-      "text": "¿Mm? Por supuesto, tonto.",
+      "text": "¿Hm? Por supuesto, tonto.",
       "choice_data_list": [
         "...¿Podrás concentrarte?",
         "...¿Podrás concentrarte?"
@@ -57,27 +59,27 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Ohhh, así que te refieres a eso."
+      "text": "Ahhh, ya entiendo a qué te refieres."
     },
     {
       "name": "Curren Chan",
-      "text": "En ese caso, déjame cambiar mi<n>respuesta a\n\"¡absoolutamente!\" ♪"
+      "text": "En ese caso, déjame cambiar mi respuesta a<n>\n\"¡absoluuutamente!\" ♪"
     },
     {
       "name": "Curren Chan",
-      "text": "Definitivamente hay un poooquito más<n>de gente\naquí que de costumbre."
+      "text": "Definitivamente hay unas cuantas <n>personas más aquí\nde lo habitual."
     },
     {
       "name": "Curren Chan",
-      "text": "Pero nunca son demasiados<n>animadores. ♪\nTengo esto bajo<n>control."
+      "text": "Pero nunca puedes tener <n>demasiados animadores. ♪\nTengo esto bajo<n> control."
     },
     {
       "name": "Curren Chan",
-      "text": "Así que no te preocupes... Solo mantén<n>tus ojos en\nmí, ¿vale?"
+      "text": "Así que no te preocupes... Solo mantén tus ojos<n> en\nmí, ¿vale?"
     },
     {
       "name": "Curren Chan",
-      "text": "Así que no te preocupes... Solo mantén<n>tus ojos en\nmí, ¿vale?"
+      "text": "Así que no te preocupes... Solo mantén tus ojos<n> en\nmí, ¿vale?"
     },
     {
       "name": "Umamusume",
@@ -88,76 +90,81 @@
       "text": "¡Esa soy yo! ♪"
     },
     {
+      "name": "Monólogo",
       "text": "...",
       "choice_data_list": [
-        "¡Sal y muéstrame una carrera nítida!",
-        "¡Sal y muéstrame una carrera nítida!",
+        "¡Sal ahí y muéstrame un buen ritmo de carrera!",
+        "¡Sal ahí y muéstrame un buen ritmo de carrera!",
         "¿Estás segura?"
       ]
     },
     {
+      "name": "Monólogo",
       "text": "...",
       "choice_data_list": [
-        "¡Sal y muéstrame una carrera nítida!",
-        "¡Sal y muéstrame una carrera nítida!",
+        "¡Sal ahí y muéstrame un buen ritmo de carrera!",
+        "¡Sal ahí y muéstrame un buen ritmo de carrera!",
         "¿Estás segura?"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "Jeje. Estoy súper feliz de que tengas<n>tan altas\nexpectativas de mí. ♪"
+      "text": "Hehe. Estoy súper feliz de que tengas<n> expectativas\ntan altas de mí. ♪"
     },
     {
       "name": "Curren Chan",
-      "text": "Si corro bien, mejor que me des<n>montones de\ncumplidos, ¿vale? ♪"
+      "text": "Si corro bien, más vale que me des un montón<n> de\ncumplidos, ¿vale? ♪"
     },
     {
       "name": "Umamusume",
-      "text": "<i>¡Squeeee!</i> ¡Curreeen!"
+      "text": "<i>¡Chillido!</i> ¡Curreeen!"
     },
     {
       "name": "Curren Chan",
       "text": "¡Hup!"
     },
     {
+      "name": "Monólogo",
       "text": "<i>¡Fwoooosh!</i>"
     },
     {
-      "text": "Curren Chan corre tan rápido que creo<n>que podría\nromper la barrera del sonido."
+      "name": "Monólogo",
+      "text": "Curren Chan corre tan rápido que creo<n> que podría\nromper la barrera del sonido."
     },
     {
       "name": "Curren Chan",
-      "text": "Eje... ¿Qué tal estuvo?",
+      "text": "Ehe... ¿Cómo estuvo?",
       "choice_data_list": [
         "¡Eso fue fantástico!"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "¡Yaaay! ♪ ¡Elogiame más, hermano!"
+      "text": "¡Yaaay! ♪ ¡Elógiame más, Hermano!"
     },
     {
       "name": "Curren Chan",
-      "text": "¡Yaaay! ♪ ¡Elogiame más, hermana!"
+      "text": "¡Yaaay! ♪ ¡Elógiame más, Hermana!"
     },
     {
       "name": "Umamusume",
-      "text": "¡Gyahhh! ¡Es tan linda! ¡La linda Curren<n>Chaaaaan!"
+      "text": "¡Gyahhh! ¡Es tan adorable! ¡Adorable <n>Curren\nChaaaaan!"
     },
     {
       "name": "Curren Chan",
       "text": "¡Esa soy yo! ♪"
     },
     {
-      "text": "Curren Chan demuestra tanto<n>excelente\nconcentración como velocidad."
+      "name": "Monólogo",
+      "text": "Curren Chan demuestra tanto <n>excelente\nconcentración como velocidad."
     },
     {
       "name": "Curren Chan",
-      "text": "Buuu, te preocupas demasiado."
+      "text": "Boooo, te preocupas demasiado."
     },
     {
       "name": "Curren Chan",
-      "text": "Pero sé que es solo porque te<n>importo\nmucho."
+      "text": "Pero sé que es solo porque te importo<n> mucho."
     },
     {
       "name": "Curren Chan",
@@ -165,38 +172,42 @@
     },
     {
       "name": "Umamusume",
-      "text": "¡Linda Curren Chaaaaan!"
+      "text": "¡Adorable Curren Chaaaaan!"
     },
     {
       "name": "Curren Chan",
       "text": "..."
     },
     {
-      "text": "Curren Chan se queda ahí un momento..."
+      "name": "Monólogo",
+      "text": "Curren Chan se queda allí por un momento..."
     },
     {
-      "text": "Antes de levantar silenciosamente su mano."
+      "name": "Monólogo",
+      "text": "Antes de levantar silenciosamente su mano en alto."
     },
     {
       "name": "Umamusume",
       "text": "..."
     },
     {
+      "name": "Monólogo",
       "text": "...",
       "choice_data_list": [
-        "(¡Se puso tan silencioso!)"
+        "(¡Se puso tan quieto!)"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "Hoy los haré animar con el volumen en<n>mudo. ♪"
+      "text": "Haré que animen con el volumen en <n>silencio hoy. ♪"
     },
     {
       "name": "Curren Chan",
-      "text": "Estoy segura de que todos entienden.<n>Después de\ntodo, mis fans me aman. ☆"
+      "text": "Estoy segura de que todos entienden. Después de\n<n>todo, mis fans me quieren. ☆"
     },
     {
-      "text": "Al presenciar su hermosa muestra de<n>liderazgo,\nno puedo evitar decir:<n>\"Increíble.\""
+      "name": "Monólogo",
+      "text": "Al presenciar su hermosa demostración<n> de\nliderazgo, no puedo evitar decir,<n> \"Increíble.\""
     }
   ]
 }

@@ -3,25 +3,25 @@
   "text_block_list": [
     {
       "name": "Winning Ticket",
-      "text": "Otra vez... perdí otra vez..."
+      "text": "Otra vez... Perdí otra vez..."
     },
     {
       "name": "Winning Ticket",
-      "text": "¿Por qué sigo perdiendo? Sé que hice<n>todo lo que\npude..."
+      "text": "¿Por qué sigo perdiendo? Sé que <n>hice todo lo que\npude..."
     },
     {
       "name": "Winning Ticket",
-      "text": "¿Acaso mi máximo poder no es suficiente? ¿Será que solo..."
+      "text": "¿El poder total no es suficiente? ¿Solo soy..."
     },
     {
       "name": "Winning Ticket",
-      "text": "<i>Snif...</i> Uf... <i>Sollozo...</i>"
+      "text": "<i>Snif...</i> Ugh... <i>Sollozando...</i>"
     },
     {
       "name": "Winning Ticket",
-      "text": "S-se... acabó todo para mí...",
+      "text": "E-esto... se acabó para mí...",
       "choice_data_list": [
-        "¡No se ha acabado para ti, Ticket!",
+        "¡No se acabó para ti, Ticket!",
         "¿Vas a dejar que termine aquí?"
       ]
     },
@@ -31,9 +31,9 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "¡O sea, mira cuántas veces he perdido<n>ahora!",
+      "text": "Quiero decir, ¡mira cuántas veces he perdido<n> ya!",
       "choice_data_list": [
-        "¡Pero creo que ganarás la próxima! ¡Creo en\n<i>ti!</i>"
+        "¡Pero creo que ganarás la próxima! ¡Creo <i>en <i>ti!</i>"
       ]
     },
     {
@@ -42,18 +42,18 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "¡GUAAAAAAH!"
+      "text": "¡WAAAAAH!"
     },
     {
       "name": "Monólogo",
-      "text": "<i>¡Slap!</i>"
+      "text": "<i>¡Bofetada!</i>"
     },
     {
       "name": "Winning Ticket",
-      "text": "Ay... ¡E-eso dolió! ¡Me di una bofetada demasiado<n>fuerte!",
+      "text": "Ay... ¡E-eso dolió! ¡Me di una bofetada muy<n>\nfuerte!",
       "choice_data_list": [
-        "¡¿Q-qué estás haciendo?!",
-        "¡¿Q-qué estás haciendo?!"
+        "¿Q-qué estás haciendo?!",
+        "¿Q-qué estás haciendo?!"
       ]
     },
     {
@@ -62,19 +62,19 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Tú crees en mí, pero yo solo he sido<n>\nindecisa?"
+      "text": "¡Crees en mí, pero todo lo que he sido<n> es\nindeciso!"
     },
     {
       "name": "Winning Ticket",
-      "text": "¡No más! Me lo saqué de encima a bofetadas, así que<n>¡ahora estoy bien!"
+      "text": "¡No más! Me lo saqué con la bofetada, ¡así que\n<n>ahora estoy bien!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Tengo que estar a la altura de cómo me ves.<n>Y la\npróxima vez, ¡<i>no</i> perderé!"
+      "text": "¡Tengo que estar a la altura de cómo me ves.<n> Y la\n<i>próxima vez, <i>no</i> perderé!"
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Seguiré con esto, una y otra vez,<n>hasta que\nrompa esta barrera!"
+      "text": "¡Seguiré con esto, una y otra vez,<n> hasta que rompa\nesta pared!"
     },
     {
       "name": "Winning Ticket",
@@ -82,17 +82,17 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "¡I-imposible! ¡NO PUEDO parar ahora!"
+      "text": "¡N-no way! ¡NO puedo detenerme ahora!"
     },
     {
       "name": "Winning Ticket",
-      "text": "¡O sea, todavía no le he dado suficiente<n>\nemoción a todos!"
+      "text": "Quiero decir, ¡aún no le he dado a todos<n>\nsuficiente emoción!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Así que... así que... ¡Todavía no puede terminar!\n¡No puedo dejar<n>que acabe así!",
+      "text": "Entonces... entonces... ¡No puede terminar aún!\n¡No puedo<n> dejar que termine así!",
       "choice_data_list": [
-        "En ese caso, sequemos esas lágrimas."
+        "En ese caso, limpiemos esas lágrimas."
       ]
     },
     {
@@ -101,22 +101,22 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Tienes que decirme! ¿Cómo detengo esta<n>racha de\nderrotas?",
+      "text": "¡Tienes que decírmelo! ¿Cómo detengo esta<n> racha de\nperder?",
       "choice_data_list": [
-        "¡Nos fortaleceremos trabajando juntos!"
+        "¡Nos volveremos más fuertes, trabajando juntos!"
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Sí, tienes razón. ¡Es la única manera!"
+      "text": "Sí, tienes razón. ¡Es la única forma!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Entrenador, voy a dar lo mejor de mí. Y\nla<n>próxima vez que llore..."
+      "text": "Entrenador, voy a dar lo mejor de mí. Y la <n>próxima\nvez que llore..."
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Serán lágrimas de felicidad después de ganar<n>la carrera!"
+      "text": "¡Serán lágrimas de felicidad después de ganar<n> la\ncarrera!"
     }
   ]
 }

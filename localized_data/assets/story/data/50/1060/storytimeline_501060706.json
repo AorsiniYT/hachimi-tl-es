@@ -2,18 +2,17 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
-      "text": "De regreso a casa con Nice<n>Nature..."
+      "text": "De vuelta a casa con Nice<n> Nature..."
     },
     {
       "name": "Nice Nature",
-      "text": "Oye... Ya que todavía nos queda\ntiempo...<n>¿quieres ir a ver unos peces?"
+      "text": "Oye... Como aún tenemos tiempo... <n>¿quieres ir a\nver algunos peces?"
     },
     {
       "name": "Nice Nature",
-      "text": "La señora de la tienda de peces me dijo<n>que te\ntrajera algún día.",
+      "text": "La señora de la tienda de peces me dijo <n>que te\ntrajera algún día.",
       "choice_data_list": [
-        "Claro, me apunto."
+        "Claro, estoy dentro."
       ]
     },
     {
@@ -21,101 +20,100 @@
       "text": "Genial. ¿Vamos, entonces?"
     },
     {
-      "name": "Monólogo",
-      "text": "La sigo, pensando que quizás tiene su<n>ojo puesto\nen un pez en particular que quiere<n>comprar, pero..."
+      "text": "La sigo, pensando que quizás tiene el ojo <n>puesto\nen un pez en particular que quiere comprar,<n>\npero..."
     },
     {
       "name": "Nice Nature",
-      "text": "¡Oooh, mira cómo nadan! Estos peces<n>tan sabrosos\nsí que saben nadar.",
+      "text": "¡Ohhh, mira cómo nadan! Estos <n>peces que se ven\napetitosos seguro que saben<n> nadar.",
       "choice_data_list": [
         "No esperaba venir a un acuario."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "...Jeje."
+      "text": "...Hehe."
     },
     {
       "name": "Nice Nature",
-      "text": "¡Créeme, te entiendo! Probablemente<n>estés\npensando: \"¿Eh? ¿Qué onda con la<n>forma en que me\ninvitó?\" ¿Verdad?"
+      "text": "¡Confía en mí, lo entiendo! Probablemente<n> estés\npensando: \"¿Eh, qué pasó con la <n>forma en que me\ninvitó?\" ¿Verdad?"
     },
     {
       "name": "Nice Nature",
-      "text": "Así es la vieja Nature. No puedo<n>hacer las cosas\nde manera mona."
+      "text": "Esa es la buena vieja Nature para ti. Realmente<n> no\npuedo hacer las cosas de manera cursi."
     },
     {
       "name": "Nice Nature",
-      "text": "Después de que la señora de la tienda<n>de peces\nse dió la molestia de darme<n>las entradas para\nque nos relajáramos,<n>tenía que traerte de alguna\nmanera..."
+      "text": "Después de que la señora de la pescadería<n> se tomó\nla molestia de darme los boletos<n> para que nos\nrelajáramos, tuve que traerte aquí<n> de alguna\nmanera..."
     },
     {
       "name": "Nice Nature",
-      "text": "De verdad no quise engañarte ni<n>nada, lo juro.",
+      "text": "Realmente no quise engañarte ni nada <n>por el\nestilo, lo juro.",
       "choice_data_list": [
         "Gracias por traerme aquí."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Vaya, quién lo diría... ¿Quién es este<n>tipo tan\ntranquilo por aquí? Seguro que lo<n>llevas con\ncalma."
+      "text": "Bueno, vaya... ¿Quién es este tipo tan tranquilo<n>\npor aquí? Seguro que lo estás tomando<n> con calma."
     },
     {
       "name": "Nice Nature",
-      "text": "Bueno, eso es bueno. Me alegra que no<n>estés molesta."
+      "text": "Bueno, eso es bueno. Me alegra que no estés<n>\nmolesto."
     },
     {
       "name": "Nice Nature",
-      "text": "En fin, no sé si compensará, pero...<n>¡veamos qué\nquieres ver hoy!"
+      "text": "En fin, no sé si esto compensará,<n> pero... ¡veamos\nqué quieres ver<n> hoy!"
     },
     {
       "name": "Nice Nature",
-      "text": "Parece que tienen muchas cosas<n>interesantes\npor aquí. No te puedes<n>equivocar con el lugar\nde siempre para—digo,<n>el punto de reunión de\ntodos."
+      "text": "Parece que tienen un montón de cosas<n> interesantes\npasando aquí. No se puede fallar<n> con el lugar al\nque todos van—digo, el punto<n> de encuentro."
     },
     {
       "name": "Nice Nature",
-      "text": "La exhibición de medusas, rayas,<n>pargos... Todos\nse veían tan sabrosos."
+      "text": "La exhibición de medusas, rayas, <n>pargos... Todos\nse veían tan apetitosos."
     },
     {
       "name": "Nice Nature",
-      "text": "Oh, ¿qué tal si vamos a ver el<n>espectáculo de\ndelfines?"
+      "text": "Oh, ¿qué tal si vamos a ver el espectáculo<n> de\ndelfines?"
     },
     {
       "name": "Nice Nature",
-      "text": "...En realidad, apuesto a que no<n>quieres ver\ncosas monas así conmigo."
+      "text": "...En realidad, apuesto a que no quieres<n> ver cosas\ncursis como esa conmigo."
     },
     {
       "name": "Nice Nature",
-      "text": "¡Bueno, te lo dejo a ti! ¿Qué quieres<n>ir a ver?",
+      "text": "Bueno, ¡lo dejo en tus manos! ¿Qué <n>quieres ir a\nver?",
       "choice_data_list": [
         "El espectáculo de delfines.",
-        "¡La exhibición <i>Las Criaturas Marinas más Espeluznantes del Mundo</i>!"
+        "¡La <i>exhibición de <i>Las criaturas marinas más\nespeluznantes </i>del mundo</i>!"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Em... ¿Estabas escuchando?",
+      "text": "Eh... ¿Estabas escuchando?",
       "choice_data_list": [
         "Sí, estaba escuchando."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Okey, entiendo, pero ¿lo dices porque<n>de verdad\n<i>quieres</i> hacerlo, o..."
+      "text": "Vale, entiendo, pero ¿lo dices porque<n> <i>quieres</i> hacerlo, o..."
     },
     {
       "name": "Nice Nature",
-      "text": "No, olvídalo... Supongo que sí dije que<n>veríamos\nlo que tú quisieras."
+      "text": "No, olvídalo... Supongo que dije que <n>veríamos lo\nque tú quisieras ver."
     },
     {
       "name": "Nice Nature",
-      "text": "Bien. Si eso te ayuda a relajarte,<n>entonces\nhagámoslo."
+      "text": "De acuerdo. Si eso te ayuda a relajarte, entonces<n>\nhagámoslo."
     },
     {
       "name": "Nice Nature",
-      "text": "Espero que entiendas que no voy a<n>hacer gritos\nmonos, eso sí."
+      "text": "Espero que entiendas que no haré <n>ningún grito\ncursi, aunque."
     },
     {
       "name": "Nice Nature",
-      "text": "¡Vaya, mira qué animado está ese<n>delfín!\nEspera... ¡Agua! ¡Viene hacia acá!"
+      "text": "¡Wow, mira lo vivo que está ese delfín!<n> Espera...\n¡Agua! ¡Viene hacia acá!"
     },
     {
       "name": "Nice Nature",
@@ -123,15 +121,15 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Maldición... Esa salpicadura fue mucho<n>más\ngrande de lo que esperaba."
+      "text": "Rayos... Esa salpicadura fue mucho más grande de\n<n>lo que esperaba."
     },
     {
       "name": "Nice Nature",
-      "text": "No esperaba que el espectáculo de<n>delfines fuera\nuna experiencia cercana a la<n>muerte..."
+      "text": "No esperaba que el espectáculo de delfines fuera\nuna<n> experiencia cercana a la muerte..."
     },
     {
       "name": "Nice Nature",
-      "text": "Cielos... No solo terminé gritando,<n>sino que fue\nmás como un aullido.",
+      "text": "Caray... No solo terminé gritando, fue<n> más como un\naullido.",
       "choice_data_list": [
         "Eso fue divertido.",
         "Eso fue divertido."
@@ -139,38 +137,36 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Je... Supongo que sí, ¿no? Quizás<n>lugares como\neste sí son lo mío, después de<n>todo."
+      "text": "Je... Supongo que sí, ¿verdad? Quizás <n>lugares como\nestos son lo mío, después de todo."
     },
     {
-      "name": "Monólogo",
-      "text": "Nice Nature y yo la pasamos genial en<n>el\nacuario, y ambos nos vamos<n>sintiendo\ncompletamente refrescados."
-    },
-    {
-      "name": "Nice Nature",
-      "text": "¡Oh, eso suena emocionante!"
+      "text": "Nice Nature y yo la pasamos genial en el<n> acuario,\ny ambas nos vamos sintiendo <n>completamente\nrenovadas."
     },
     {
       "name": "Nice Nature",
-      "text": "Dice \"las más espeluznantes\". Me<n>pregunto qué\ntan espantosos pueden ser<n>estos peces..."
+      "text": "Oh, ¡eso suena emocionante!"
     },
     {
-      "name": "Monólogo",
-      "text": "Nos movemos al área de la exhibición.<n>Después de\nmirar yo mismo, echo un<n>vistazo a Nature para\nver su reacción."
+      "name": "Nice Nature",
+      "text": "Dice \"más espeluznantes\". Me pregunto qué tan\naterradores<n> pueden ser estos peces..."
+    },
+    {
+      "text": "Nos dirigimos al área de exhibición. <n>Después de\nmirar por mi cuenta, echo un vistazo<n> a Nature para\nver su reacción."
     },
     {
       "name": "Nice Nature",
       "text": "Entonces...",
       "choice_data_list": [
-        "...¿Entonces?"
+        "...¿Y?"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "¡Tan adoooorables!"
+      "text": "¡Qué adorable!"
     },
     {
       "name": "Nice Nature",
-      "text": "¡Awww! ¡Mira sus ojitos! ¡Y se llaman<n>pulpos\nflapjack!"
+      "text": "¡Awww! ¡Mira sus ojitos! ¡Y<n> se llaman pulpos\ntortita!"
     },
     {
       "name": "Nice Nature",
@@ -178,29 +174,28 @@
     },
     {
       "name": "Nice Nature",
-      "text": "¡Ooh!",
+      "text": "¡Oh!",
       "choice_data_list": [
         "Me alegra que te estés divirtiendo."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "V-vamos, ¡esto es publicidad engañosa!<n>De\nninguna manera podrías llamar<n>\"espeluznantes\" a\ncositas tan lindas."
+      "text": "Vamos, esto es publicidad engañosa. De ninguna<n>\nmanera puedes llamar \"espeluznantes\" a monadas<n>\ncomo estas."
     },
     {
       "name": "Nice Nature",
       "text": "Oooh... Son demasiado adorables.",
       "choice_data_list": [
-        "Oye, ese de allá también es bastante lindo..."
+        "Oye, aquel de allá también es bastante lindo..."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "¡Tienes razón! Es un poco feo, pero ¡de<n>una manera\nlinda!"
+      "text": "¡Tienes razón! Es algo feo, pero de una manera<n>\nlinda."
     },
     {
-      "name": "Monólogo",
-      "text": "Nice Nature y yo la pasamos genial en<n>el\nacuario, y ambos nos vamos<n>sintiendo\ncompletamente refrescados."
+      "text": "Nice Nature y yo la pasamos genial en el<n> acuario,\ny ambas nos vamos sintiendo <n>completamente\nrenovadas."
     }
   ]
 }

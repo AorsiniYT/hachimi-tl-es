@@ -3,88 +3,88 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Un día, durante el entrenamiento,<n>siento que\nalguien me mira. Me doy la<n>vuelta para comprobar,\nsolo para encontrar..."
+      "text": "Un día, durante el entrenamiento, siento <n>que\nalguien me está mirando. Me giro para verificar,<n>\nsolo para encontrar..."
     },
     {
       "name": "Monólogo",
-      "text": "Una mujer desconocida observa<n>nuestra sesión\ncon atención. Supongo que es<n>solo una fan o\nespectadora y trato de<n>ignorarlo."
+      "text": "Una mujer desconocida está observando <n>nuestra\nsesión atentamente. Supongo que es solo una fan<n> o\nespectadora y trato de restarle importancia."
     },
     {
       "name": "Monólogo",
-      "text": "Pero... se queda allí de pie, incluso<n>después de\nque el entrenamiento haya<n>terminado. ¿Estaba\nesperándome?",
+      "text": "Pero... se queda ahí parada, incluso <n>después de\nque el entrenamiento termina. ¿Me<n> estaba\nesperando?",
       "choice_data_list": [
         "Disculpe, ¿puedo ayudarla en algo?"
       ]
     },
     {
       "name": "???",
-      "text": "Oh, disculpe. ¿Interrumpí su<n>sesión de\nentrenamiento?",
+      "text": "Oh, disculpe. ¿Molestó su sesión<n> de entrenamiento?",
       "choice_data_list": [
-        "No, acabábamos de terminar."
+        "No, solo estábamos terminando."
       ]
     },
     {
       "name": "???",
-      "text": "¡Eso es un alivio! En realidad esperaba<n>pedirle\nun par de preguntas, si<n>tiene un minuto."
+      "text": "¡Qué alivio! En realidad esperaba<n> pedirte un par\nde preguntas, si<n> tienes un minuto."
     },
     {
-      "name": "Reportera Otonashi",
-      "text": "Mi nombre es Etsuko Otonashi. Soy<n>una reportera\nde <i>Twinkle Monthly.</i>"
+      "name": "Reporter Otonashi",
+      "text": "Mi nombre es Etsuko Otonashi. Soy <n>reportera <i>de\n<i>Twinkle Monthly.</i>"
     },
     {
-      "name": "Reportera Otonashi",
-      "text": "Estaba asombrada viéndolas a<n>usted y a su\naprendiz practicar. Me<n>encantaría escribir una\nhistoria sobre ustedes<n>dos y sus actividades para\nmostrar mi apoyo. Si eso está<n>bien con usted, por\nsupuesto."
+      "name": "Reporter Otonashi",
+      "text": "Quedé asombrada viéndote a ti y a tu <n>pupila\npracticar. Me encantaría escribir una historia<n>\nsobre ustedes dos y sus actividades para<n> mostrar\nmi apoyo. Si eso está bien con ustedes,<n> por\nsupuesto."
     },
     {
       "name": "Monólogo",
-      "text": "Parece una persona educada, y suena<n>sincera. Por\nno mencionar, un artículo<n>bien escrito traería más\nfans a<n><chrname>.",
+      "text": "Parece una persona educada y suena <n>sincera. Para\nno mencionar, un <n>artículo bien escrito le traería\n<n>más fans a <chrname>.",
       "choice_data_list": [
         "Nos encantaría."
       ]
     },
     {
-      "name": "Reportera Otonashi",
-      "text": "Muchas gracias. Entonces,<n>vamos directo\nal grano... ¿Qué criterios<n>considera al desarrollar\nsu régimen de<n>entrenamiento?",
+      "name": "Reporter Otonashi",
+      "text": "Muchas gracias. Entonces, empecemos...<n> ¿Qué\ncriterios consideras al <n>desarrollar tu régimen de\nentrenamiento?",
       "choice_data_list": [
-        "Pienso mucho en cuáles son los objetivos de mi\naprendiz y cómo puedo ayudarla a alcanzarlos."
+        "Pienso mucho en cuáles son los objetivos de mi\npupila y cómo puedo ayudarla a alcanzarlos."
       ]
     },
     {
-      "name": "Reportera Otonashi",
-      "text": "Ya veo. En resumen, su papel como<n>entrenadora\nes...",
+      "name": "Reporter Otonashi",
+      "text": "Entiendo. Así que en resumen, tu rol como\nentrenador<n> es...",
       "choice_data_list": [
-        "¡Ayudar a mi aprendiz a lograr sus sueños!"
+        "¡Ayudar a mi pupila a cumplir sus sueños!"
       ]
     },
     {
-      "name": "Reportera Otonashi",
+      "name": "Reporter Otonashi",
       "text": "Eso... Eso es simplemente...",
       "choice_data_list": [
-        "Em..."
+        "Eh..."
       ]
     },
     {
-      "name": "Reportera Otonashi",
-      "text": "¡ESO ES SIMPLEMENTE INCREÍBLE!"
+      "name": "Reporter Otonashi",
+      "text": "¡ESO ES SIMPLEMENTE ASOMBROSO!"
     },
     {
-      "name": "Reportera Otonashi",
-      "text": "¡Parece que está dispuesta a hacer<n>cualquier\ncosa para ayudar a su aprendiz a<n>alcanzar sus\nsueños!"
+      "name": "Reporter Otonashi",
+      "text": "¡Parece que estás listo para hacer <n>cualquier cosa\npara ayudar a tu pupila a alcanzar<n> sus sueños!"
     },
     {
-      "name": "Reportera Otonashi",
-      "text": "¡Entrenar donde y cuando ella<n>lo pida! ¡Llevarla\na tours de aguas termales<n>para recuperarse de las\ncarreras! ¡Aventurarse a<n>arroyos remotos en las\nmontañas solo<n>para traerle una taza de agua!",
+      "name": "Reporter Otonashi",
+      "text": "¡Entrenar donde sea y cuando sea que ella<n> pida!\n¡Llevarla a tours de aguas termiales para<n>\nrecuperarse de las carreras! ¡Aventurarse a\n<n>arroyos de montaña remotos solo para conseguirle\nuna<n> copa de agua!",
       "choice_data_list": [
         "(¡No recuerdo haber dicho eso!)"
       ]
     },
     {
-      "name": "Reportera Otonashi",
-      "text": "Ah... Qué devoción... ¡Estoy tan<n>conmovida!\n¡Prometo que mi artículo inspirará<n>una pasión\nardiente en todos los que lo lean!"
+      "name": "Reporter Otonashi",
+      "text": "Ah... ¡Qué dedicación...! ¡Estoy tan conmovida!<n>\n¡Prometo que mi artículo inculcará una pasión<n>\nardiente en todos los que lo lean!"
     },
     {
       "name": "Monólogo",
-      "text": "Y así, creo que me gané el favor de<n>una aliada\n<i>muy</i> inspirada."
+      "text": "Y así, creo que me gané el favor<n> de una <i>aliada muy\n</i>inspirada."
     }
   ]
 }

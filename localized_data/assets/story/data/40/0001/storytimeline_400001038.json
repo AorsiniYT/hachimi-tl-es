@@ -3,62 +3,62 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "De regreso a casa de la sesión<n>informativa de la\nclase Oro, veo el cuaderno de un\nentrenador<n>tirado en el camino."
+      "text": "De camino a casa después de la sesión <n>informativa\nde la clase Gold, veo una libreta de<n> entrenador\ntirada en la carretera."
     },
     {
       "name": "Monólogo",
-      "text": "Al echar un vistazo, veo que está lleno\nde<n>información detallada sobre la pupila del\ndueño."
+      "text": "Echando un vistazo por dentro, veo que está <n>llena\nde información detallada sobre la pupila<n> de su\ndueño."
     },
     {
       "name": "Monólogo",
-      "text": "No solo su horario de entrenamiento,<n>sino\ntambién su amor por los acuarios,\nsus<n>restaurantes favoritos y varias<n>recetas\nrelacionadas...",
+      "text": "No solo su horario de entrenamiento, <n>sino también\nsu amor por los acuarios, sus<n> restaurantes\nfavoritos y varias <n>recetas relacionadas...",
       "choice_data_list": [
         "(Todo esto me suena mucho...)"
       ]
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Buen trabajo, Meek. Terminemos por hoy."
-    },
-    {
-      "name": "Meek contenta",
-      "text": "Está bien...\nEm..."
-    },
-    {
-      "name": "Entrenadora Kiryuin",
-      "text": "¿Sí? ¿Qué sucede?"
+      "name": "Trainer Kiryuin",
+      "text": "Buen trabajo, Meek. Terminemos aquí por hoy."
     },
     {
       "name": "Happy Meek",
-      "text": "Sobre la cena... ¿Qué te... gustaría<n>comer?"
+      "text": "Está bien... Um..."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Mmm... Viendo tu ingesta dietética<n>reciente,\nparece que te falta un poco de grasa."
+      "name": "Trainer Kiryuin",
+      "text": "¿Sí? ¿Qué pasa?"
     },
     {
-      "name": "Entrenadora Kiryuin",
+      "name": "Happy Meek",
+      "text": "Sobre la cena... ¿Qué... te gustaría<n> comer?"
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Mmm... Viendo tu ingesta dietética <n>reciente,\nparece que le falta un poco de grasa."
+    },
+    {
+      "name": "Trainer Kiryuin",
       "text": "¡Vamos a cocinar algo para solucionarlo!"
     },
     {
       "name": "Happy Meek",
-      "text": "Em..."
+      "text": "Um..."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "¡Ah! Y por supuesto, agregaré algunos<n>de tus\ncomidas favoritas."
+      "name": "Trainer Kiryuin",
+      "text": "¡Ah! Y añadiré algunas de tus <n>comidas favoritas,\npor supuesto."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "¡Disfrutar tu comida es tan importante como<n>\nel equilibrio nutricional!"
+      "name": "Trainer Kiryuin",
+      "text": "¡Disfrutar de la comida es tan importante como<n> el\nequilibrio nutricional!"
     },
     {
       "name": "Happy Meek",
       "text": "...Gracias."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Ahora, mejor cámbiate de ropa<n>antes de\nque te enfríes. Yo me uniré pronto."
+      "name": "Trainer Kiryuin",
+      "text": "Ahora, será mejor que te cambies de <n>ropa antes de\nque cojas frío. Yo iré pronto."
     },
     {
       "name": "Happy Meek",
@@ -68,113 +68,113 @@
       ]
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Ah, Entrenador<n><username>.\nQué<n>gusto verte de nuevo."
+      "name": "Trainer Kiryuin",
+      "text": "Ah, Entrenador/a<n> <username>. <n>Qué gusto verte de nuevo."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Me enteré por ahí que<n>\n<chrname> ¡llegó a la clase<n>Oro!"
+      "name": "Trainer Kiryuin",
+      "text": "Me enteré de que <chrname><n> ha alcanzado la clase<n> Gold."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "De hecho, acabamos de lograr lo mismo.<n>Jeje,\n¡me honra alcanzar una clase<n>tan élite al\nmismo tiempo que tú!"
+      "name": "Trainer Kiryuin",
+      "text": "De hecho, acabamos de lograr lo <n>mismo. Je, je, es\nun honor llegar a una<n> clase tan élite al mismo\ntiempo que tú."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Aun así, todavía nos queda camino por\nrecorrer.<n>Pero no te\npreocupes—¡estamos<n>esforzándonos más que nunca!"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Si Happy Meek también llegó a la clase<n>Oro,\nla Entrenadora Kiryuin debe haber estado<n>en la\nsesión informativa anterior."
+      "name": "Trainer Kiryuin",
+      "text": "Aun así, aún nos queda un largo camino. Pero<n> no te\npreocupes: ¡estamos trabajando<n> más duro que nunca!"
     },
     {
       "name": "Monólogo",
-      "text": "Y según el contenido de este<n>cuaderno, no\nhay<n>error. Saco<n>el cuaderno de la entrenadora\ny<n>se lo muestro.",
+      "text": "Si Happy Meek también ha alcanzado la<n> clase Gold,\nel Entrenador Kiryuin debió estar<n> en la sesión\ninformativa anterior."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y dado el contenido de <n>esta libreta, no hay duda.\nSaco la <n>libreta del entrenador y se la <n>muestro.",
       "choice_data_list": [
         "¿Reconoces esto?"
       ]
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Ah... ¡Así que ahí estaba!"
+      "name": "Trainer Kiryuin",
+      "text": "Ah... ¡Así que ahí es donde se fue!"
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "¡Gracias! No lo encontraba desde que<n>regresé\nde<n>la sesión informativa, y estaba<n>buscándolo\npor<n>todas partes."
+      "name": "Trainer Kiryuin",
+      "text": "¡Gracias! No la encontré después de volver<n> de la\nsesión informativa y la estuve buscando<n> por todas\npartes."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "No puedo creer que se me cayera<n>regresando\nde<n>una reunión oficial... Qué<n>verguenza."
+      "name": "Trainer Kiryuin",
+      "text": "No puedo creer que la haya dejado caer en <n>el\ncamino de vuelta de una reunión oficial...<n> Qué\nvergüenza."
     },
     {
       "name": "Monólogo",
-      "text": "Comento que supuse que era suyo<n>basándome\nen<n>los detalles de dentro."
+      "text": "Menciono que supuse que era suya basándome<n> en los\ndetalles del interior."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Jeje... Ese es el consejo que me<n>diste en<n>acción."
+      "name": "Trainer Kiryuin",
+      "text": "Je, je... Ese es el consejo que me diste<n> en\nacción."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Cada vez que aprendo más sobre Meek,<n>me pongo\ntan<n>feliz que termino escribiendo<n>montones de\npáginas."
+      "name": "Trainer Kiryuin",
+      "text": "Cada vez que aprendo más sobre Meek, me pongo<n> tan\ncontenta que termino escribiendo página <n>tras\npágina."
     },
     {
-      "name": "Entrenadora Kiryuin",
+      "name": "Trainer Kiryuin",
       "text": "Es solo que...",
       "choice_data_list": [
-        "¿Solo qué?"
+        "¿El qué?"
       ]
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "¿Eh? ¡Oh, nada! Ajajá, no hay nada<n>que ver aquí."
+      "name": "Trainer Kiryuin",
+      "text": "¿Eh? ¡Oh, no! Ajaja, no<n> es nada."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "¡Bien, se acabó el entrenamiento!<n>¡Hora de limpiar!"
+      "name": "Trainer Kiryuin",
+      "text": "¡Bueno, el entrenamiento terminó! ¡Hora de\nlimpiar!"
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Nos vemos,<n>Entrenador<n><username>."
+      "name": "Trainer Kiryuin",
+      "text": "Nos vemos, Entrenador/a<n> <username>."
     },
     {
       "name": "Monólogo",
-      "text": "Con lo abruptamente que la Entrenadora<n>Kiryuin\ncorta<n>la conversación, es difícil no<n>sentirse\npreocupado.",
+      "text": "Con la forma tan abrupta en que la Entrenadora<n>\nKiryuin sale de la conversación, es difícil <n>no\npreocuparse.",
       "choice_data_list": [
         "(¿Estará bien?)",
         "(¿Estará bien?)"
       ]
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Es que no lo entiendo."
+      "name": "Trainer Kiryuin",
+      "text": "Simplemente no lo entiendo."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "¿Por qué Meek avanza tan poco?"
+      "name": "Trainer Kiryuin",
+      "text": "¿Por qué Meek está progresando tan poco?"
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "No debería haber problemas con<n>su rutina\nde<n>entrenamiento."
+      "name": "Trainer Kiryuin",
+      "text": "No debería haber problemas con su <n>horario de\nentrenamiento."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Las generaciones anteriores de la<n>familia\nKiryuin<n>lograron resultados siguiendo<n>las\nindicaciones del<n>Manual del Entrenador."
+      "name": "Trainer Kiryuin",
+      "text": "Las generaciones anteriores de la familia<n> Kiryuin\ntodas lograron resultados siguiendo<n> las\nindicaciones del Manual del Entrenador."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Las umamusume entrenadas con\neste<n>manual<n>ganaron carreras G1 y<n>recibieron\nmontones de<n>reconocimientos... Es\nla<n>acumulación de la sabiduría\nde<n>generaciones."
+      "name": "Trainer Kiryuin",
+      "text": "Las Umamusume entrenadas con este manual<n> han\nganado carreras G1 y han recibido<n> innumerables\nreconocimientos... Es la <n>acumulación de la\nsabiduría de generaciones."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Y Meek no se queda atrás, ni en<n>motivación<n>ni\nen habilidad."
+      "name": "Trainer Kiryuin",
+      "text": "Y Meek no se queda atrás, ni en <n>motivación ni en\nhabilidad."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Así que el eslabón débil debe ser..."
+      "name": "Trainer Kiryuin",
+      "text": "Entonces el eslabón débil debe ser..."
     },
     {
-      "name": "Entrenadora Kiryuin",
+      "name": "Trainer Kiryuin",
       "text": "..."
     }
   ]

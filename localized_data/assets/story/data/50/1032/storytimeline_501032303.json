@@ -3,69 +3,69 @@
   "text_block_list": [
     {
       "name": "Fan A",
-      "text": "El nombre de esa corredora, creo que era\nAgnes<n>Tachyon,"
+      "text": "¿El nombre de esa corredora? Creo que era <n>Agnes\nTachyon, ¿verdad? ¡Fue increíble!"
     },
     {
       "name": "Fan B",
-      "text": "Sí, ya es súper talentosa, y todavía<n>tiene"
+      "text": "Sí, ya es muy talentosa, y aún le<n> queda mucho por\ncrecer!"
     },
     {
       "name": "Monólogo",
-      "text": "La actuación deslumbrante de Agnes\nTachyon<n>cautiva"
+      "text": "La deslumbrante actuación de Agnes Tachyon<n> cautiva\na todos los presentes en la carrera!"
     },
     {
       "name": "Agnes Tachyon",
-      "text": "¡Uf! ¡Y así es como se hace!",
+      "text": "¡Uf! ¡Así se hace!",
       "choice_data_list": [
-        "¡Buen trabajo ahí afuera, Tachyon!",
-        "¡Excelente trabajo ahí afuera, Tachyon!"
+        "¡Buen trabajo en la carrera, Tachyon!",
+        "¡Gran trabajo en la carrera, Tachyon!"
       ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Vaya, ¡pero si es el Entrenador! Como\nsiempre,<n>tienes esa"
+      "text": "¡Pero si no es el Entrenador! Como siempre, tienes<n>\nesa apariencia pura e inocente que le queda<n>\nperfecta a un conejillo de Indias modelo."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "¿Conseguiste las hojas de té que quería?"
+      "text": "¿Trajiste las hojas de té que necesitaba?"
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Ah cierto, ahora no es momento para esto.\nDebo<n>hablar"
+      "text": "Ah, cierto, ahora no es momento <n>para esto. Debo\nhablarte de algo más."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Con la carrera de debut fuera del camino,<n>en\nlugar de"
+      "text": "Con la carrera debut superada,<n> en lugar de\ndescansar un poco, debo<n> informarte de algo\nimportante. Sabes<n> a qué me refiero, ¿verdad?"
     },
     {
       "name": "Monólogo",
-      "text": "¿Algo importante? ¿Y justo después de<n>la carrera\nde debut?",
+      "text": "¿Algo importante? ¿Y justo después<n> de la carrera\ndebut? Si me atrevo a <n>adivinar...",
       "choice_data_list": [
         "(¿Podría ser sobre la próxima carrera?)"
       ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Mi experimentación ha llegado a un<n>punto muerto,\ntú"
+      "text": "Mi experimentación se ha <n>estancado, ¿ves? Debo\nvolver al laboratorio<n> de inmediato."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Dicho esto, me retiraré."
+      "text": "Dicho esto, me retiro."
     },
     {
       "name": "Monólogo",
-      "text": "Y dicho esto, efectivamente,<n>se retira",
+      "text": "Y con eso dicho, ella efectivamente<n> se retira.",
       "choice_data_list": [
-        "(¡...Debí haberlo sabido!)"
+        "(...¡Debería haberlo sabido!)"
       ]
     },
     {
       "name": "Monólogo",
-      "text": "Se va rápidamente sin siquiera un<n>comentario"
+      "text": "Ella se va de inmediato sin siquiera <n>un comentario\nsobre la carrera debut o una<n> palabra sobre sus\nperspectivas futuras."
     },
     {
       "name": "Monólogo",
-      "text": "Sin embargo, es cierto que ha<n>acumulado"
+      "text": "Sin embargo, es cierto que ha llamado<n> mucho la\natención como una<n> corredora notable!"
     }
   ]
 }

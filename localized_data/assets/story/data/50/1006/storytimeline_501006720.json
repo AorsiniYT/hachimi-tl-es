@@ -3,41 +3,41 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Un día, llevo a <chrname><n>a la\nenfermería para un chequeo."
+      "text": "Un día, llevo a <chrname> a<n> la enfermería para una\nrevisión."
     },
     {
       "name": "???",
-      "text": "¡Oh! ¡Una clie—digo, una estudiante! ¡Hola!"
+      "text": "¡Oh! Una... ¡digo, una estudiante! ¡Hola!"
     },
     {
       "name": "???",
-      "text": "¿Estás lastimada? ¿Enferma? ¿Estresada?<n>Lo que\nsea, ¡yo lo trato todo!",
+      "text": "¿Estás herida? ¿Enferma? ¿Estresada? ¡Sea <n>lo que\nsea, yo lo curo todo!",
       "choice_data_list": [
-        "¡¿Quién eres?!"
+        "¿Quién eres tú?!"
       ]
     },
     {
       "name": "???",
-      "text": "Bueno, considerando que estás en la<n>enfermería\nde la academia, diría que soy tu<n>confiable\nenfermera escolar. ¡Sip, solo una<n>empleada\nescolar promedio!",
+      "text": "Bueno, considerando que estás en la enfermería<n> de\nla academia, diría que eso me convierte en<n> tu\nconfiable enfermera escolar. ¡Sí, solo<n> una\nempleada escolar promedio!",
       "choice_data_list": [
         "...¿No lo eres?"
       ]
     },
     {
       "name": "???",
-      "text": "¡Ajaja! Supongo que no puedo engañarte.<n>Creo que\ndebo empezar por darte mi<n>nombre."
+      "text": "¡Ajaja! Parece que no puedes ser engañada.<n> Supongo\nque debería empezar dándote mi<n> nombre."
     },
     {
       "name": "???",
-      "text": "¡Ejem! ¡Permítame presentarme!"
+      "text": "¡Ahem! ¡Permíteme presentarme!"
     },
     {
       "name": "???",
-      "text": "Soy (probablemente) la salvadora de<n>todas las\nUmamusume, la<n>acupunturista legendaria\n(autoproclamada)<n>con un toque mágico..."
+      "text": "Soy (probablemente) la salvadora <n>de todas las\nUmamusume, la (autoproclamada)<n> legendaria\nacupunturista con un toque<n> mágico..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡La única Sasami Anshinzawa!<n>¿Ves? ¡Sin\npreocupaciones! ☆",
+      "text": "¡La única e inigualable Sasami Anshinzawa!<n> ¿Ves?\n¡No te preocupes! ☆",
       "choice_data_list": [
         "..."
       ]
@@ -48,30 +48,30 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Dios! ¡Pareces muy preocupada! ☆"
+      "text": "¡Caray! ¡Pareces muy preocupada! ☆"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No importa! ¡No importa! Ya nos<n>presentamos,\nasí que acuéstate y<n>déjame poner estas\nagujas a trabajar."
+      "text": "¡No importa! ¡No importa! Ya nos<n> presentamos, así\nque acuéstate y <n>déjame usar estas agujas."
     },
     {
       "name": "Oguri Cap",
-      "text": "¡¿Agujas?! ¡Las agujas me preocupan<n>mucho!\n¡Duelen!"
+      "text": "¿¡Agujas!? ¡Las agujas me <n>preocupan mucho! ¡Duele!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Jajaja! ¡No hay que asustarse! Solo<n>voy a\ndeslizar estas extraordinarias<n>agujas\nprecisamente en tus puntos<n>de chakra."
+      "text": "¡Jajaja! No hay por qué asustarse. Todo<n> lo que\nharé es deslizar estas agujas <n>extraordinarias\nprecisamente en tus puntos<n> de chakra."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y voilà, presto! ¡Algo<n>indescriptible\nocurrirá!",
+      "text": "¡Y luego, voilà, presto! <n>¡Sucederá algo\nindescriptible!",
       "choice_data_list": [
         "(Esto es indescriptiblemente sospechoso...)"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Y déjame asegurarte que no hay<n>absolutamente\nnada sospechoso en<n>esto. ¡Nunca ha salido\nmenos que<n>perfectamente!"
+      "text": "¡Y permíteme asegurarte<n> que no hay nada sospechoso\nen esto!<n> ¡Nunca ha salido nada menos que<n> perfecto!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -82,107 +82,107 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No te preocupes! Esta será mi primera<n>vez, así\nque técnicamente, nunca he<n>fallado a un paciente\ntampoco."
+      "text": "¡No te preocupes! Esta será mi primera vez,<n> así\nque técnicamente, ¡tampoco he fallado con un<n>\npaciente!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y no es que no tenga experiencia!<n>Pasé diez\naños bajo un maestro<n>legendario, trayendo\nbebi—digo, ¡entrenando!"
+      "text": "¡Y no es como si no tuviera experiencia! <n>Pasé diez\naños bajo un maestro legendario,<n> consiguiendo\ngotas—¡digo, entrenando!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¿Ves? ¡Sin preocupaciones! ☆",
+      "text": "¿Ves? ¡No te preocupes! ☆",
       "choice_data_list": [
-        "(¡Tenemos que salir de aquí, rápido!)"
+        "(¡Necesitamos salir de aquí, ya!)"
       ]
     },
     {
       "name": "Monólogo",
-      "text": "No hay forma de que hagamos esto. Tomo<n>a\n<chrname> y me dirijo a la<n>puerta,\ncuando..."
+      "text": "De ninguna manera vamos a hacer esto. Tomo<n> a <chrname> y me\ndirijo a la <n>puerta, cuando..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡E-espera! ¡¿Adónde vas?!"
+      "text": "¡E-espera! ¿¡A dónde vas!?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Tú eres Oguri Cap, ¿verdad? ¡La<n>Umamusume que\nestá luchando como loca para<n>hacer que la\ngente en casa se sienta<n>orgullosa!",
+      "text": "Eres Oguri Cap, ¿verdad? ¡La<n> Umamusume que lucha\ncomo loca para hacer<n> orgullosos a los de su\ntierra!",
       "choice_data_list": [
         "¿Has oído hablar de ella?"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¿Si he oído hablar de ella? ¡Claro que sí!<n>Soy\nuna gran fan."
+      "text": "¿He oído hablar de ella? ¡Por supuesto! <n>¡Soy una\ngran fan!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Por eso mismo estoy aquí! ¡Para darte<n>mi\napoyo! ¡Déjame ayudarte!"
+      "text": "¡Por eso estoy aquí! ¡Para darte<n> mi apoyo! ¡Déjame\nayudarte!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Solo dame una oportunidad! ¡Por faaavor!"
+      "text": "¡Dame una oportunidad! ¡Por favor!"
     },
     {
       "name": "Oguri Cap",
-      "text": "Hmmm... ¿Qué piensas, Entrenador?"
+      "text": "Hmmm... ¿Qué opinas, Entrenador?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Por favor! ¡Por favor con zanahoria<n>encima!\n¡Hasta te dejaré elegir qué<n>chakra activar!"
+      "text": "¡Por favor! ¡Por faaavor con zanahoria<n> encima!\n¡Incluso te dejaré elegir<n> qué chakra activar!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Estoy <i>segura</i> de que no la voy a<n>equivocar!"
+      "text": "<i>¡Estoy <i>segura</i> de que no arruinaré nada!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, bastante segura.",
+      "text": "Bueno, más o menos segura.",
       "choice_data_list": [
-        "¡¿Bastante segura?!"
+        "<i>¡¿<i>Más o menos</i> segura?!"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Digo, ¡está del lado seguro! Eso es\n<i>bueno,</i><n>¿verdad? De todos modos, ¡no\nte<n>detengas en los detalles!"
+      "text": "Quiero decir, que está del lado seguro! Eso <i>es\n<i>bueno,</i> <n></i>¿verdad? De todos modos, ¡no te quedes\natascado en<n> los detalles!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Vamos a lo bueno! ¿Qué chakra<n>debería\nactivar? ¿Quieres un impulso<n>a tus habilidades?\n¿Tu salud? ¿O quizás<n>tu <i>encanto?</i>"
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debería<n> activar?\n¿Quieres un impulso a tus <n>habilidades? ¿A tu\nsalud? ¿O tal vez a tu <n><i>encanto?</i>"
     },
     {
       "name": "Monólogo",
-      "text": "Huelo peligro en el aire, pero calculo<n>que\npodría—y enfatizo <i>podría</i>—haber<n>una posibilidad\nde obtener algo especial<n>de este tratamiento."
+      "text": "Huelo peligro en el aire, pero creo que<n> podría—y\nenfatizo <i>podría</i>—haber <n></i>una oportunidad de obtener\nalgo especial<n> de este tratamiento."
     },
     {
       "name": "Monólogo",
       "text": "¿Qué deberíamos hacer?",
       "choice_data_list": [
         "Activar el chakra de fuerza.",
-        "Activar el chakra de victoria.",
-        "Activar el chakra de salud.",
-        "Activar el chakra de encanto.",
-        "Esto es muy sospechoso. Salgamos mientras podamos."
+        "Activar el chakra de la victoria.",
+        "Activar el chakra de la salud.",
+        "Activar el chakra del encanto.",
+        "Esto es demasiado sospechoso. Salgamos de aquí\nmientras podamos."
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. ¿Así que quieres que<n>active el\nchakra de fuerza?"
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que <n>active el\nchakra de fuerza?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después de esto!",
+      "text": "¡Entonces empecemos! ¿Estás lista? ¡No<n> hay vuelta\natrás después de esto!",
       "choice_data_list": [
         "Adelante.",
-        "Espera, aguarda."
+        "Espera, un momento."
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! ¡Hora de<n>localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Es hora de\n<n>localizar ese chakra! ¡Ollie, ollie, oxen free!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ahora, solo reláaajate... ¿Ves? ¡Sin<n>preocupaciones! ☆"
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -190,11 +190,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "¡Ack!"
+      "text": "¡Ay!"
     },
     {
       "name": "Monólogo",
-      "text": "¡Punción perfecta!"
+      "text": "¡Pinchazo perfecto!"
     },
     {
       "name": "Oguri Cap",
@@ -202,23 +202,23 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "¡Voy a entrenar! ¡Sé que puedo estar a la<n>altura\nde las expectativas de todos ahora!"
+      "text": "¡Voy a entrenar! ¡Sé que ahora puedo estar a <n>la\naltura de las expectativas de todos!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "<i>Jadeo...</i> ¿Me estás vacilando?<n>¿Realmente\nfuncionó?!"
+      "text": "<i>Jadeo...</i> No puede ser... ¡¿En serio<n> funcionó?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No puede seeer! ¡No puedo creerlo!<n>¡Soy un\ngenio total!"
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
     },
     {
       "name": "Monólogo",
-      "text": "<chrname> está rebosante<n>de tanto\npoder que es casi<n>irreconocible."
+      "text": "<chrname> está rebosante<n> de tanto poder que casi no<n> es\nreconocible."
     },
     {
       "name": "Monólogo",
-      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
+      "text": "¡Arriesgamos y salió bien! ¡Este es un<n> gran salto\nhacia lograr nuestra meta!"
     },
     {
       "name": "Oguri Cap",
@@ -226,43 +226,43 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Lo siento... De repente me siento...<n>totalmente\ndrenada..."
+      "text": "Lo siento... Me siento... completamente agotada<n> de\nrepente..."
     },
     {
       "name": "Monólogo",
-      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+      "text": "El estado de <chrname><n> se deteriora rápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Así que... Eso fue todo, supongo..."
+      "text": "Así que... Eso es todo, supongo..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+      "text": "Bueno, ¿mira la hora? <n>¡Debería irme! ¡Adiós! ☆"
     },
     {
       "name": "Monólogo",
-      "text": "Debería haber sabido que no debíamos<n>tentar a la\nsuerte. Aunque no soy yo quien<n>sufre, de\nalguna manera me<n>inunda un sentido de\narrepentimiento."
+      "text": "Debí haber sabido mejor que probar nuestra<n> suerte.\nAunque no soy la que sufre, de<n> alguna manera estoy\nllena de un sentido<n> de arrepentimiento."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. ¿Así que quieres que<n>active el\nchakra de victoria?"
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active <n>el\nchakra de la victoria?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después de esto!",
+      "text": "¡Entonces empecemos! ¿Estás lista? ¡No<n> hay vuelta\natrás después de esto!",
       "choice_data_list": [
         "Adelante.",
-        "Espera, aguarda."
+        "Espera, un momento."
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! ¡Hora de<n>localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Es hora de\n<n>localizar ese chakra! ¡Ollie, ollie, oxen free!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ahora, solo reláaajate... ¿Ves? ¡Sin<n>preocupaciones! ☆"
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -270,11 +270,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "¡Ack!"
+      "text": "¡Ay!"
     },
     {
       "name": "Monólogo",
-      "text": "¡Punción perfecta!"
+      "text": "¡Pinchazo perfecto!"
     },
     {
       "name": "Oguri Cap",
@@ -282,23 +282,23 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "¡Voy a entrenar! ¡Sé que puedo estar a la<n>altura\nde las expectativas de todos ahora!"
+      "text": "¡Voy a entrenar! ¡Sé que ahora puedo estar a <n>la\naltura de las expectativas de todos!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "<i>Jadeo...</i> ¿Me estás vacilando?<n>¿Realmente\nfuncionó?!"
+      "text": "<i>Jadeo...</i> No puede ser... ¡¿En serio<n> funcionó?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No puede seeer! ¡No puedo creerlo!<n>¡Soy un\ngenio total!"
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
     },
     {
       "name": "Monólogo",
-      "text": "Puedo sentir una gran mejora en las<n>habilidades\nde <chrname>."
+      "text": "Puedo percibir una enorme mejora en las<n>\nhabilidades de <chrname>."
     },
     {
       "name": "Monólogo",
-      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
+      "text": "¡Arriesgamos y salió bien! ¡Este es un<n> gran salto\nhacia lograr nuestra meta!"
     },
     {
       "name": "Oguri Cap",
@@ -306,43 +306,43 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Lo siento... De repente me siento...<n>totalmente\ndrenada..."
+      "text": "Lo siento... Me siento... completamente agotada<n> de\nrepente..."
     },
     {
       "name": "Monólogo",
-      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+      "text": "El estado de <chrname><n> se deteriora rápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Así que... Eso fue todo, supongo..."
+      "text": "Así que... Eso es todo, supongo..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+      "text": "Bueno, ¿mira la hora? <n>¡Debería irme! ¡Adiós! ☆"
     },
     {
       "name": "Monólogo",
-      "text": "Debería haber sabido que no debíamos<n>tentar a la\nsuerte. Aunque no soy yo quien<n>sufre, de\nalguna manera me<n>inunda un sentido de\narrepentimiento."
+      "text": "Debí haber sabido mejor que probar nuestra<n> suerte.\nAunque no soy la que sufre, de<n> alguna manera estoy\nllena de un sentido<n> de arrepentimiento."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. ¿Así que quieres que<n>active el\nchakra de salud?"
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active<n> el\nchakra de la salud?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después de esto!",
+      "text": "¡Entonces empecemos! ¿Estás lista? ¡No<n> hay vuelta\natrás después de esto!",
       "choice_data_list": [
         "Adelante.",
-        "Espera, aguarda."
+        "Espera, un momento."
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! ¡Hora de<n>localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Es hora de\n<n>localizar ese chakra! ¡Ollie, ollie, oxen free!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ahora, solo reláaajate... ¿Ves? ¡Sin<n>preocupaciones! ☆"
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -350,11 +350,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "¡Agh!"
+      "text": "¡Ay!"
     },
     {
       "name": "Monólogo",
-      "text": "¡Punción perfecta!"
+      "text": "¡Pinchazo perfecto!"
     },
     {
       "name": "Oguri Cap",
@@ -362,23 +362,23 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "¡Voy a entrenar! ¡Sé que puedo estar a la<n>altura\nde las expectativas de todos ahora!"
+      "text": "¡Voy a entrenar! ¡Sé que ahora puedo estar a <n>la\naltura de las expectativas de todos!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "<i>Jadeo...</i> ¿Me estás vacilando?<n>¿Realmente\nfuncionó?!"
+      "text": "<i>Jadeo...</i> No puede ser... ¡¿En serio<n> funcionó?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No puede seeer! ¡No puedo creerlo!<n>¡Soy un\ngenio total!"
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
     },
     {
       "name": "Monólogo",
-      "text": "Todo el cuerpo de <chrname><n>irradia un\nbrillo saludable. Es la<n>imagen absoluta de la salud."
+      "text": "Todo el cuerpo de <chrname><n> está irradiando un brillo\nsaludable. Es<n> el absoluto ejemplo de salud."
     },
     {
       "name": "Monólogo",
-      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
+      "text": "¡Arriesgamos y salió bien! ¡Este es un<n> gran salto\nhacia lograr nuestra meta!"
     },
     {
       "name": "Oguri Cap",
@@ -386,43 +386,43 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Lo siento... De repente me siento...<n>totalmente\ndrenada..."
+      "text": "Lo siento... Me siento... completamente agotada<n> de\nrepente..."
     },
     {
       "name": "Monólogo",
-      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+      "text": "El estado de <chrname><n> se deteriora rápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Así que... Eso fue todo, supongo..."
+      "text": "Así que... Eso es todo, supongo..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+      "text": "Bueno, ¿mira la hora? <n>¡Debería irme! ¡Adiós! ☆"
     },
     {
       "name": "Monólogo",
-      "text": "Debería haber sabido que no debíamos<n>tentar a la\nsuerte. Aunque no soy yo quien<n>sufre, de\nalguna manera me<n>inunda un sentido de\narrepentimiento."
+      "text": "Debí haber sabido mejor que probar nuestra<n> suerte.\nAunque no soy la que sufre, de<n> alguna manera estoy\nllena de un sentido<n> de arrepentimiento."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. ¿Así que quieres que<n>active el\nchakra de encanto?"
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active<n> el\nchakra del encanto?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después de esto!",
+      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡Después de\nesto no hay vuelta atrás!",
       "choice_data_list": [
         "Adelante.",
-        "Espera, aguarda."
+        "Espera, un momento."
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! ¡Hora de<n>localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de localizar<n> ese\nchakra! ¡Ollie, ollie, oxen free!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ahora, solo reláaajate... ¿Ves? ¡Sin<n>preocupaciones! ☆"
+      "text": "Ahora, solo relájate... ¿Ves? ¡Sin preocupaciones!\n☆"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -430,11 +430,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "¡Ack!"
+      "text": "¡Ay!"
     },
     {
       "name": "Monólogo",
-      "text": "¡Punción perfecta!"
+      "text": "¡Pinchazo perfecto!"
     },
     {
       "name": "Oguri Cap",
@@ -442,23 +442,23 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "¡Voy a entrenar! ¡Sé que puedo estar a la<n>altura\nde las expectativas de todos ahora!"
+      "text": "¡Voy a entrenar! ¡Ahora sé que puedo estar a <n>la\naltura de las expectativas de todos!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "<i>Jadeo...</i> ¿Me estás vacilando?<n>¿Realmente\nfuncionó?!"
+      "text": "<i>Jadeo...</i> No puede ser... ¿¡De verdad<n> funcionó?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No puede seeer! ¡No puedo creerlo!<n>¡Soy un\ngenio total!"
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
     },
     {
       "name": "Monólogo",
-      "text": "<chrname> está rebosante<n>de encanto.\nSeguro que llamará la atención<n>dondequiera que vaya."
+      "text": "<chrname> rebosa de <n>encanto. Está destinada a volver\nmiradas por<n> dondequiera que vaya."
     },
     {
       "name": "Monólogo",
-      "text": "¡Arriesgamos y valió la pena! ¡Esto es<n>un gran\nsalto hacia lograr nuestra meta!"
+      "text": "¡Arriesgamos y funcionó! ¡Este es un<n> gran paso\npara alcanzar nuestra meta!"
     },
     {
       "name": "Oguri Cap",
@@ -466,27 +466,27 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Lo siento... De repente me siento...<n>totalmente\ndrenada..."
+      "text": "Lo siento... Me siento... completamente agotada<n> de\nrepente..."
     },
     {
       "name": "Monólogo",
-      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
+      "text": "El estado de <chrname><n> empeora rápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Así que... Eso fue todo, supongo..."
+      "text": "Bueno... Así son las cosas, supongo..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
+      "text": "Bueno, ¡mira qué hora es! <n>¡Debería irme! ¡Adiós! ☆"
     },
     {
       "name": "Monólogo",
-      "text": "Debería haber sabido que no debíamos<n>tentar a la\nsuerte. Aunque no soy yo quien<n>sufre, de\nalguna manera me<n>inunda un sentido de\narrepentimiento."
+      "text": "Debí haber sabido que no era buena idea<n> tentar a\nla suerte. Aunque no soy<n> la que sufre, de alguna\nmanera estoy<n> llena de pesar."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Oh, vamos! ¡No seas así!",
+      "text": "¡Ay, vamos! ¡No seas así!",
       "choice_data_list": [
         "Rechazar.",
         "Reconsiderar."
@@ -494,15 +494,15 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Oye! ¡Tú ahí! Espero que sepas que<n>a los\nintrusos <i>sí</i> se les procesará."
+      "text": "¡Oye! ¡Tú! ¡Espero que sepas que <n>los <i>intrusos\n<i>serán</i> procesados!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Gah! ¡Me descubrieron!"
+      "text": "¡Ay! ¡Me han descubierto!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Bueno, me largo de aquí! ☆"
+      "text": "¡Bueno, me voy! ☆"
     },
     {
       "name": "Tazuna Hayakawa",
@@ -514,7 +514,7 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "¿Sabes cómo los encurtidos caseros son<n>los más\ndeliciosos? Es el tiempo y<n>esfuerzo requerido\npara prepararlos lo<n>que los hace saber tan\nbien. ¡Creo que<n>es mejor que nosotros también\ntrabajemos duro cada día!",
+      "text": "¿Sabes cómo los encurtidos caseros<n> son los más\ndeliciosos? Es el tiempo y<n> el esfuerzo necesarios\npara prepararlos<n> lo que los hace tan buenos. Creo\nque <n>también es mejor que nos esforcemos cada día.",
       "choice_data_list": [
         "De acuerdo.",
         "De acuerdo."
@@ -522,31 +522,31 @@
     },
     {
       "name": "Monólogo",
-      "text": "Tengo curiosidad por saber quién es<n>realmente\nesta Anshinzawa, pero no tiene<n>sentido\nrumiarlo. Mejor olvidarnos<n>de hoy y seguir\nadelante."
+      "text": "Tengo curiosidad sobre quién es realmente<n> ese\npersonaje de Anshinzawa, pero no sirve <n>de nada\ndarle vueltas. Lo mejor es olvidar el día <n>de hoy y\nseguir adelante."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¿Cambiaste de opinión, verdad? No<n>te\npreocupes, ¡pasa!"
+      "text": "¿Te arrepentiste? No te preocupes,<n> ¡a todos les\npasa!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Adelante y dime qué chakra quieres<n>que active,\nentonces!"
+      "text": "¡Adelante, dime qué chakra<n> quieres que active!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡¿Bueno?! ¡No me dejes colgada! Espera<n>un\nsegundo... ¿Cuánto tiempo llevo aquí?"
+      "text": "¡Bueno! ¡No me dejes en ascuas! Espera<n> un\nsegundo... ¿Cuánto tiempo llevo aquí?"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Oye! ¡Tú ahí! Espero que sepas que<n>a los\nintrusos <i>sí</i> se les procesará."
+      "text": "¡Oye! ¡Tú! ¡Espero que sepas que <n>los <i>intrusos\n<i>serán</i> procesados!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Gah! ¡Me descubrieron!"
+      "text": "¡Ay! ¡Me han descubierto!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Bueno, me largo de aquí! ☆"
+      "text": "¡Bueno, me voy! ☆"
     },
     {
       "name": "Tazuna Hayakawa",
@@ -554,11 +554,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "La situación da un giro brusco antes de<n>que\npueda tomar una decisión."
+      "text": "La situación da un giro brusco antes de que <n>pueda\ntomar una decisión."
     },
     {
       "name": "Monólogo",
-      "text": "¿De qué trataba todo eso?<n><chrname>\ny yo nos<n>miramos perplejos."
+      "text": "¿Qué fue todo eso?<n> <chrname> y yo nos <n>miramos\ndesconcertadas."
     }
   ]
 }

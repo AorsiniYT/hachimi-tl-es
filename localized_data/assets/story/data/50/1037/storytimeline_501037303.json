@@ -2,57 +2,58 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "エイシンフラッシュ",
-      "text": "――戻りました。",
+      "name": "Eishin Flash",
+      "text": "He regresado.",
       "choice_data_list": [
-        "お疲れさま！"
+        "¡Buen trabajo!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "まずまずのスタート、\nというところでしょうか。"
+      "name": "Eishin Flash",
+      "text": "Fue un comienzo decente, creo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "しかし……。"
+      "name": "Eishin Flash",
+      "text": "Sin embargo..."
     },
     {
-      "text": "何か気がかりがあるのか、\nと尋ねようとしたのだが――"
+      "name": "Monólogo",
+      "text": "Se ve preocupada, pero justo cuando estoy a <n>punto\nde preguntarle qué pasa..."
     },
     {
-      "name": "記者A",
-      "text": "おいっ！　この間京都でデビューした子、\nどうだった！？"
+      "name": "Reportero A",
+      "text": "¡Oye! ¿Qué te pareció la corredora<n> que debutó en\nKyoto el otro día?"
     },
     {
-      "name": "記者B",
-      "text": "いやぁ、将来に期待大って感じだな！\nそっちは？"
+      "name": "Reportero B",
+      "text": "¡Creo que el cielo es el límite para <n>ella! ¿Y tú?"
     },
     {
-      "name": "記者A",
-      "text": "こっちは期待なんてもんじゃないよ！\nいやー、今年はすごい子が集まってるな。\nクラシック級が楽しみだ！"
+      "name": "Reportero A",
+      "text": "¡Sería quedarse corto decir que solo tengo<n>\n\"grandes esperanzas\" en ella! Tengo que decirlo,<n>\nla plantilla de este año es increíble. <n>¡Los\nClásicos van a ser emocionantes de ver!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……今年はかなり、\n期待されている方が多いようです。"
+      "name": "Eishin Flash",
+      "text": "Parece que hay muchas corredoras <n>prometedoras este\naño."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "今の仕上がりでは、\nやや不安が残りますね。"
+      "name": "Eishin Flash",
+      "text": "No estoy segura de poder competir con <n>ellas dado\nmi nivel actual de preparación."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "クラシック三冠レースで、\n結果を残すためには――",
+      "name": "Eishin Flash",
+      "text": "Para lograr buenos resultados en la <n>Triple Corona\nde Clásicos, debo—",
       "choice_data_list": [
-        "予定通り『京成杯』で感覚を掴もう"
+        "Tomar el pulso a la competencia en el Keisei Hai,\n¿verdad?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。結果次第で、クラシック級での\nトレーニング方法も変わるでしょう。"
+      "name": "Eishin Flash",
+      "text": "Exacto. Dependiendo de mis resultados, quizás<n>\ntengamos que ajustar mis métodos de entrenamiento<n>\npara los Clásicos."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "1番重要なのはクラシック三冠レースを\n走り切ること。それが全てですから。"
+      "name": "Eishin Flash",
+      "text": "Lo más importante para mí es <n>completar cada\ncarrera de la Triple Corona<n> de Clásicos. Eso lo es\ntodo para mí."
     }
   ]
 }

@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "<chrname> ha dado<n>pasos\nasombrosos estos últimos años,<n>ganándonos a\nambos un merecido descanso."
+      "text": "<chrname> ha dado <n>pasos asombrosos en los últimos años,\n<n>ganándonos a ambos un descanso bien merecido."
     },
     {
       "name": "Monólogo",
-      "text": "Recibo una invitación de Tazuna para<n>ver una\ncarrera, así que me dirijo al<n>hipódromo."
+      "text": "Recibo una invitación de Tazuna para ver<n> una\ncarrera, así que me dirijo<n> al hipódromo."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -15,48 +15,48 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Esta no es la hora que acordamos. ¡Llegaste<n>temprano!",
+      "text": "Esta no es la hora que acordamos. ¡Llegas<n>\ntemprano!",
       "choice_data_list": [
         "¡Tú también!"
       ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Jeje, es cierto. ¡Es que no podía esperar!"
+      "text": "Jeje, es verdad. ¡Simplemente no podía esperar!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Bueno, vamos!"
+      "text": "Bueno, ¡vamos!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "<i>Uf...</i> ¡Hoy fue tan emocionante\ncomo<n>siempre! ¡Pero eso es de esperar de una\ncarrera G1!",
+      "text": "<i>Suspiro...</i> ¡Hoy fue tan emocionante como <n>siempre!\nPero eso es de esperarse de una carrera G1!",
       "choice_data_list": [
         "¡La pasión de la multitud fue increíble!"
       ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Sí, exactamente! ¡Juraría que el suelo<n>temblaba\ntanto por los gritos en un<n>momento!"
+      "text": "¡Sí, exactamente! ¡Podría jurar que el <n>suelo\nestaba vibrando por todos los ánimos en un<n>\nmomento!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "La emoción, el sentimiento... No se<n>puede negar\n—¡las carreras son maravillosas!",
+      "text": "¡La emoción, el sentimiento... No hay<n> duda—las\ncarreras son maravillosas!",
       "choice_data_list": [
         "¡Tienes toda la razón!"
       ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Este, Entrenador..."
+      "text": "Eh, Entrenador..."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Gracias por aceptar mi invitación<n>hoy."
+      "text": "Gracias por aceptar mi invitación<n> hoy."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Realmente quería aprovechar esta<n>oportunidad\npara expresarte mi gratitud.",
+      "text": "Realmente quería aprovechar esta oportunidad<n> para\nexpresarte mi gratitud.",
       "choice_data_list": [
         "¿A mí?"
       ]
@@ -67,15 +67,15 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Tú y <chrname> han<n>barrido\ncarrera tras carrera estos últimos<n>tres años."
+      "text": "Tú y <chrname> han <n>arrasado carrera tras carrera en los\núltimos<n> tres años."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Ver los esfuerzos de ambos siempre<n>hacía que mi\ncorazón saltara de emoción,<n>ya fuera en\npersona o por TV."
+      "text": "Ver los esfuerzos de ambos siempre<n> hacía que mi\ncorazón saltara de <n>emoción, ya sea en persona o en\nTV."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "He presenciado tantos momentos<n>milagrosos\ngracias a ti... Es como<n>algo de un sueño."
+      "text": "He presenciado tantos momentos <n>milagrosos gracias\na ustedes... Es como<n> algo sacado de un sueño."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -83,18 +83,18 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Oh, y por favor sigan esforzándose<n>hacia el\nfuturo! ¡Libres de lesiones, claro!",
+      "text": "¡Oh, y por favor, sigan esforzándose por<n> el\nfuturo! ¡Sin lesiones, por supuesto!",
       "choice_data_list": [
         "¡Lo haremos!"
       ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Me alegra oír eso! ♪"
+      "text": "¡Qué bueno escuchar eso! ♪"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Seguiré vigilándolos a ambos de aquí<n>en\nadelante!"
+      "text": "¡Seguiré cuidando de ustedes dos de aquí<n> en\nadelante!"
     },
     {
       "name": "Tazuna Hayakawa",
@@ -102,7 +102,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Más tarde, nos reunimos con<n><chrname>\ny disfrutamos la<n>siguiente carrera juntos."
+      "text": "Más tarde, nos encontramos <n>con <chrname> y disfrutamos\njuntos<n> de la siguiente carrera."
     }
   ]
 }

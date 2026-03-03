@@ -3,28 +3,19 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Ya casi es hora del toque de queda, pero\nlas<n>luces del gimnasio aún están encendidas, así\nque<n>voy a investigar qué está pasando."
+      "text": "Es casi la hora del toque de queda, pero las luces<n>\nen el gimnasio aún están encendidas, así que<n> voy a\ninvestigar qué está pasando."
     },
     {
       "name": "Narita Taishin",
-      "text": "Bueno. Terminé con la barra. Ahora<n>cincuenta\nprensa de piernas.",
+      "text": "Muy bien. Terminé con la barra. Lo siguiente son\n<n>cincuenta prensas de piernas.",
       "choice_data_list": [
-        "Oye, el toque de queda es muy pronto.",
-        "Oye, el toque de queda es muy pronto."
+        "Oye, el toque de queda se acerca bastante pronto.",
+        "Oye, el toque de queda se acerca bastante pronto."
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "¿Y? Estoy concentrada aquí, así que no<n>me molestes.",
-      "choice_data_list": [
-        "Está bien, solo no llegues tarde...",
-        "Está bien, solo no llegues tarde...",
-        "No te excedas."
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "¿Y? Estoy concentrada aquí, así que no<n>me molestes.",
+      "text": "¿Y qué? Estoy en la zona aquí, así que no me\n<n>molestes.",
       "choice_data_list": [
         "Está bien, solo no llegues tarde...",
         "Está bien, solo no llegues tarde...",
@@ -33,7 +24,16 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Cállate. Como si necesitara que me lo digan."
+      "text": "¿Y qué? Estoy en la zona aquí, así que no me\n<n>molestes.",
+      "choice_data_list": [
+        "Está bien, solo no llegues tarde...",
+        "Está bien, solo no llegues tarde...",
+        "No te excedas."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Cállate. Como si necesitara que me digan."
     },
     {
       "name": "Winning Ticket",
@@ -41,27 +41,27 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Ugh. Otro miembro para añadir al<n>gentío. Justo\nlo que necesitaba."
+      "text": "Ugh. Otro miembro para añadir a la <n>chusma. Justo\nlo que necesito."
     },
     {
       "name": "Winning Ticket",
-      "text": "No pudimos jugar la versión de caras<n>graciosas\nde piedra, papel o tijera en el<n>almuerzo, así\nque ¡volvamos rápido<n>y juguemos ahora!"
+      "text": "No pudimos jugar la versión de caras graciosas<n> de\npiedra, papel o tijera en el almuerzo, ¡así<n> que\napresurémonos a volver y jugarlo ahora!"
     },
     {
       "name": "Narita Taishin",
-      "text": "¡¿Vas a parar con eso?! ¡No voy a<n>jugarlo, no\nimporta cuánto me<n>persigas y me fastidies\ncon eso!"
+      "text": "¿Puedes dejar eso? ¡No voy a <n>jugarlo, no importa\ncuánto me <n>persigas y me fastidies con eso!"
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Ooh! Si quieres que te persiga,<n>debes querer\njugar a las atrapadas<n>en su lugar! Bueno, prepárate,\n¡porque<n>voy a atraparte!"
+      "text": "¡Ooh! Si quieres que te persiga, eso debe<n>\nsignificar que quieres jugar a las <n>escondidas en\nsu lugar. ¡Okay, prepárate, porque<n> voy a\natraparte!"
     },
     {
       "name": "Narita Taishin",
-      "text": "¡¿Qué?! ¡Eso ni siquiera es lo que—!"
+      "text": "¿Qué? ¡Eso no es lo que yo siquiera—"
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Listos, ya, GOOOO!"
+      "text": "¡Listos, listos, ¡GOOOO!"
     },
     {
       "name": "Narita Taishin",
@@ -69,19 +69,19 @@
     },
     {
       "name": "Monólogo",
-      "text": "Narita Taishin sale corriendo con una<n>ferocidad\naterradora, dejando a Winning Ticket<n>atrás."
+      "text": "Narita Taishin sale corriendo con una ferocidad<n>\naterradora, dejando a Winning Ticket en <n>el polvo."
     },
     {
       "name": "Narita Taishin",
-      "text": "¿Quién crees que soy? ¡Sé muy bien<n>cómo cuidar\nmis límites!"
+      "text": "¿Quién te crees que soy? ¡Sé cómo vigilar<n> mis\nlímites perfectamente!"
     },
     {
       "name": "Monólogo",
-      "text": "De repente, noto un cuaderno abierto<n>debajo del\nequipo de entrenamiento de<n>Narita Taishin. Está lleno de\nejercicios<n>meticulosamente planeados."
+      "text": "De repente, noto un cuaderno abierto <n>bajo el\nequipo de entrenamiento de <n>Narita Taishin. Está\nlleno de ejercicios <n>meticulosamente planificados."
     },
     {
       "name": "Narita Taishin",
-      "text": "¡Oye! ¿Quién te dijo que podías mirar\nmi<n>cuaderno?",
+      "text": "¡Oye! ¿Quién te dijo que podías mirar<n> mi cuaderno?",
       "choice_data_list": [
         "¡Esto es increíble!",
         "¡Esto es increíble!"
@@ -89,11 +89,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Hmph. Es solo lo que tengo que hacer\npara<n>asegurarme de que gane."
+      "text": "Hmph. Es solo lo que tengo que hacer para\n<n>asegurarme de ganar."
     },
     {
       "name": "Narita Taishin",
-      "text": "Tengo que trabajar duro para compensar<n>todos los\ntalentos y atributos con los que<n>no fui bendecida."
+      "text": "Tengo que trabajar duro para compensar <n>todos los\ntalentos y atributos con los que<n> no fui bendecido."
     },
     {
       "name": "Winning Ticket",
@@ -104,23 +104,23 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Ugh, ¡¿tú otra vez, Ticket?! ¿Por qué<n>siempre\nestallas en llanto?! ¡Es tan<n>molesto!"
+      "text": "Ugh, no otra vez tú, Ticket. ¿Por qué<n> siempre\nestallas en lágrimas? ¡Es <n>tan molesto!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Vine—<i>¡hip!</i>—a buscarte, pero después<n>de\nescuchar tu historia... Waaah! ¡Eres\ntan<n>increíble, Taishiiiin!"
+      "text": "<i>Vine—<i>¡hip!</i>—a </i>buscarte, pero después<n> de escuchar tu\nhistoria... ¡Waaah! ¡Eres <n>tan increíble,\nTaishiiiin!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Eres tan genial, pero me preocupa que<n>te estés\nesforzando demasiado! ¡No te<n>excedas!"
+      "text": "Eres tan genial, pero me preocupa que <n>te estés\nesforzando demasiado. ¡No te excedas<n> iiiit!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Sí, sí, está bien. Entiendo. No hay<n>forma de que\nme pueda concentrar así."
+      "text": "Sí, sí, está bien. Lo entendí. No hay manera<n> de\nque pueda concentrarme así."
     },
     {
       "name": "Narita Taishin",
-      "text": "Mira, ¡me voy ahora, así que deja de llorar!"
+      "text": "Mira, me iré ahora, así que deja de llorar!"
     }
   ]
 }

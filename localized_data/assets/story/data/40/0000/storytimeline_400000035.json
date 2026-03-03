@@ -2,23 +2,21 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Reportera Otonashi",
-      "text": "¡Felicidades! Qué victoria tan<n>espectacular.",
+      "name": "Reporter Otonashi",
+      "text": "¡Felicitaciones! ¿Qué victoria más <n>espectacular.",
       "choice_data_list": [
-        "Todo es gracias a su arduo trabajo."
+        "Es gracias a su arduo trabajo."
       ]
     },
     {
-      "name": "Reportera Otonashi",
-      "text": "Ahora estoy segura. El próximo especial<n>extra\ngrande a todo color <i>tiene</i> que ser<n>sobre\nustedes dos!"
+      "name": "Reporter Otonashi",
+      "text": "Ahora estoy segura. La próxima función especial<n>\nextra-grande y a todo color <i>tiene</i> que ser sobre<n>\nustedes dos."
     },
     {
-      "name": "Monólogo",
-      "text": "Parece que podemos esperar una gran<n>respuesta\ndel próximo <i>¡Twinkle Monthly!</i>"
+      "text": "Parece que podemos esperar una gran respuesta<n> de\nla próxima <i>edición mensual de Twinkle!</i>"
     },
     {
-      "name": "Monólogo",
-      "text": "Voy a felicitar a <chrname> por<n>su\nvictoria."
+      "text": "Voy a felicitar a <chrname> <n>por su victoria."
     }
   ]
 }

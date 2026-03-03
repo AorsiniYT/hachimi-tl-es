@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Estoy paseando por un parque en<n>mi día libre,\ncuando..."
+      "text": "Estoy dando un paseo por un parque en mi <n>día\nlibre, cuando..."
     },
     {
       "name": "Yaeno Muteki",
@@ -11,27 +11,27 @@
     },
     {
       "name": "Monólogo",
-      "text": "Me encuentro con Yaeno Muteki<n>practicando\nartes marciales.",
+      "text": "Me encuentro con Yaeno Muteki practicando<n> artes\nmarciales.",
       "choice_data_list": [
-        "¿Trabajando duro, eh?",
-        "¿Trabajando duro, eh?"
+        "Trabajando duro, ¿eh?",
+        "Trabajando duro, ¿eh?"
       ]
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Eres de la academia... Sí, este<n>entrenamiento\nes mi rutina diaria."
+      "text": "Eres de la academia... Sí, este <n>entrenamiento es\nmi rutina diaria."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Sin embargo, mis habilidades aún<n>palidecen en\ncomparación con las de<n>cualquiera de mis maestros..."
+      "text": "Sin embargo, mis habilidades aún palidecen<n> en\ncomparación con cualquiera de mis maestros..."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Pensé que podría aplicar las<n>artes marciales\nantiguas que he<n>estudiado a las carreras\ntambién...<n>Creí que si corría rápido,\ntambién<n>podría golpear más rápido..."
+      "text": "Pensé que podría aplicar las antiguas<n> artes\nmarciales que he estudiado también a las<n>\ncarreras... Creí que si corría rápido, también\npodría<n> golpear más rápido..."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Entré a la academia por esta<n>razón, pero\nhacerlo solo abrió mis ojos<n>a lo mucho que me falta\npor recorrer.",
+      "text": "Entré a la academia por esta razón, pero<n> hacerlo\nsolo me abrió los ojos a lo <n>mucho que aún me falta\npor recorrer.",
       "choice_data_list": [
         "¿Quiénes son tus maestros?",
         "¿Quiénes son tus maestros?"
@@ -39,19 +39,19 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Mis abuelos. Son maestros del<n>estilo Kongo\nYaegaki."
+      "text": "Mis abuelos. Son maestros del <n>estilo Kongo\nYaegaki."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "¿Qué puedo hacer para acercarme<n>más a su\nnivel?",
+      "text": "¿Qué puedo hacer para acercarme más<n> a alcanzar su\nnivel?",
       "choice_data_list": [
-        "Deberías concentrarte en qué tan<n>rápido puedes\ngolpear.",
-        "Deberías concentrarte en qué tan<n>fuerte puedes\ngolpear."
+        "Deberías concentrarte en qué tan rápido puedes\ngolpear.",
+        "Deberías concentrarte en qué tan fuerte puedes\ngolpear."
       ]
     },
     {
       "name": "Yaeno Muteki",
-      "text": "...Ya veo. Concentraré mis<n>esfuerzos en\naumentar la velocidad de mis<n>golpes, entonces."
+      "text": "...Entiendo. Concentraré mis esfuerzos en <n>aumentar\nla velocidad de mis golpes, entonces."
     },
     {
       "name": "Yaeno Muteki",
@@ -61,25 +61,25 @@
       "name": "Monólogo",
       "text": "<i>¡Whoosh!</i>",
       "choice_data_list": [
-        "¡T-tan rápido!",
-        "¡T-tan rápido!"
+        "¡¡R-rápido!!",
+        "¡¡R-rápido!!"
       ]
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Hm. Concentrarme en la velocidad<n>de mis\ngolpes me ha hecho ver que<n>necesito mejorar mi forma."
+      "text": "Hm. Concentrarme en la velocidad de mis<n> golpes me\nha hecho darme cuenta de que necesito<n> mejorar mi\nforma."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "¡Siento como si fuera una<n>principiante de\nnuevo, viendo las cosas por<n>primera vez! Continuaré este\nejercicio un<n>poco más."
+      "text": "¡Siento como si fuera un novato<n> de nuevo, viendo\nlas cosas por primera<n> vez! Continuaré este\nejercicio un <n>poco más."
     },
     {
       "name": "Monólogo",
-      "text": "Yaeno Muteki continúa<n>estoicamente\npracticando sus golpes."
+      "text": "Yaeno Muteki continúa estoicamente<n> practicando sus\ngolpes."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "...Ya veo. Concentraré mis<n>esfuerzos en\naumentar la fuerza de mis<n>golpes, entonces."
+      "text": "...Entiendo. Concentraré mis esfuerzos <n>en aumentar\nla fuerza de mis golpes, <n>entonces."
     },
     {
       "name": "Yaeno Muteki",
@@ -89,21 +89,21 @@
       "name": "Monólogo",
       "text": "<i>¡Wham!</i>",
       "choice_data_list": [
-        "¡T-tan fuerte!",
-        "¡T-tan fuerte!"
+        "¡¡F-fuerte!!",
+        "¡¡F-fuerte!!"
       ]
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Hm. Concentrarme en la fuerza de<n>mis golpes\nme ha hecho ver cuánta<n>energía consume cada\ngolpe."
+      "text": "Hm. Concentrarme en la fuerza de mis<n> golpes me ha\nhecho darme cuenta de cuánta<n> energía consume cada\ngolpe."
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Sin embargo, ese es exactamente<n>el punto del\nentrenamiento. ¡Me siento<n>aún más motivada para\ncontinuar ahora!"
+      "text": "Sin embargo, ese es exactamente el punto <n>del\nentrenamiento. ¡Me siento aún más motivado para<n>\ncontinuar ahora!"
     },
     {
       "name": "Monólogo",
-      "text": "Yaeno Muteki continúa<n>estoicamente\npracticando sus golpes."
+      "text": "Yaeno Muteki continúa estoicamente<n> practicando sus\ngolpes."
     }
   ]
 }

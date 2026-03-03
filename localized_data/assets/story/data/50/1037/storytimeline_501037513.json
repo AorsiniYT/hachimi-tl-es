@@ -2,275 +2,283 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "『特別なトレーニング』を行いたい、という\nエイシンフラッシュの申し出を受け、\nグラウンドへ向かうと――"
+      "name": "Monólogo",
+      "text": "Eishin Flash me ha pedido un <n>entrenamiento\nespecial, que me complace <n>prepararle, pero cuando\nllego a las <n>instalaciones..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……お待ちしておりました。\n貴方の到着を期し、身心とも\n準備一切抜かりなし。"
+      "name": "Eishin Flash",
+      "text": "Por fin llegaste. Me he preparado <n>tanto mental\ncomo físicamente para tu<n> llegada."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "では、共に歩を進めましょう。\r\n『完璧なる勝利への道』へと。"
+      "name": "Eishin Flash",
+      "text": "Ahora, avancemos por la ruta hacia la<n> victoria\nperfecta."
     },
     {
-      "text": "――エイシンフラッシュはさながら\n騎士のように畏まった雰囲気だ。勝負服姿で\nあることといい、果たして何故なのか……。",
+      "name": "Monólogo",
+      "text": "Eishin Flash me saluda como un caballero<n> listo\npara la batalla. Incluso lleva su icónico<n> equipo\nde carrera... pero ¿por qué?",
       "choice_data_list": [
-        "……ど、どうした！？",
-        "……ど、どうしたの！？"
+        "¿Qué...? ¿Por qué vas vestida así?",
+        "¿Qué...? ¿Por qué vas vestida así?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……おかしい、でしょうか？",
+      "name": "Eishin Flash",
+      "text": "¿Parezco... rara?",
       "choice_data_list": [
-        "う、うーん……"
+        "Bueno, no, pero..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……やはり、まだ私では……！\n――失礼します！"
+      "name": "Eishin Flash",
+      "text": "¡Lo sabía! ¡No debería haber hecho esto!<n>\n¡Disculpa!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……申し訳ありません。\n突然、逃げ出したりして……。",
+      "name": "Eishin Flash",
+      "text": "Disculpa por salir corriendo tan abruptamente...",
       "choice_data_list": [
-        "君らしくないな",
-        "貴方らしくないね"
+        "¿Qué pasó? Eso no fue propio de ti.",
+        "¿Qué pasó? Eso no fue propio de ti."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――それは……貴方から見ても、\nまだまだ私は至らないのかと思うと、\n恥ずかしくなりまして……。",
+      "name": "Eishin Flash",
+      "text": "Bueno... La vergüenza se volvió <n>demasiado para\nsoportarla cuando <n>pensé en lo incompetente que\ndebo parecerte<n> aún, así que...",
       "choice_data_list": [
-        "一体何があったんだ？",
-        "一体何があったの？"
+        "Espera, ¿qué te hizo pensar eso?",
+        "Espera, ¿qué te hizo pensar eso?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――この勝負服のこと……。\n悩んでいるんです。"
+      "name": "Eishin Flash",
+      "text": "Para ser sincera, he estado preocupada <n>por mi\nicónico equipo de carrera..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "この服を作る時、私は故国を思い出せる\n意匠を入れてくれるよう、オーダーしました。"
+      "name": "Eishin Flash",
+      "text": "Durante su fase de creación, pedí que <n>se diseñara\npara reflejar mi país<n> de origen."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そして完成した勝負服は、まさに\nマイスターの魂が込められたもの。\n出来栄えには感服するばかりでした。"
+      "name": "Eishin Flash",
+      "text": "Y cuando se completó, era <n>evidente que el espíritu\ndel meister residía<n> en cada puntada. La artesanía\nme<n> dejó asombrada."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……だからこそ、潰されそうになるんです。\nこの勝負服の重さに――",
+      "name": "Eishin Flash",
+      "text": "El atuendo es magnífico, pero se siente tan<n>\npesado... ¡Como si pudiera aplastarme<n> debajo de\nél...!",
       "choice_data_list": [
-        "重さ？"
+        "¿Qué quieres decir?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "この服を着て背負うことになる\n故国の“伝統”と“誇り”――その重さです。"
+      "name": "Eishin Flash",
+      "text": "Cuando me pongo este atuendo, no es solo<n> tela lo\nque descansa sobre mis hombros, sino<n> también el\npeso del orgullo y las tradiciones<n> de mi patria."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "故国のレースで走っていた母も、\nきっと、今の私と同じ重みを\n感じていたのだと思います。"
+      "name": "Eishin Flash",
+      "text": "Mi madre debió haber sentido este <n>mismo peso y\npresión cuando corrió en<n> Alemania."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――果たして、私はこの服に\r\nふさわしい振る舞いが\nできているんでしょうか。"
+      "name": "Eishin Flash",
+      "text": "Pero no sé si soy realmente digna de<n> usar estas\nropas y representar todo<n> lo que significan."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……今日は、それを貴方に\n見ていただきたかったんです。",
+      "name": "Eishin Flash",
+      "text": "...Quería que me ayudaras a <n>determinarlo hoy.",
       "choice_data_list": [
-        "だから勝負服を着てきたのか",
-        "だから勝負服を着てきたんだね"
+        "Así que por eso estás con tu equipo de carrera\nicónico...",
+        "Así que por eso estás con tu equipo de carrera\nicónico..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。先ほどの挨拶も、その一環でした。\n残念ながら、上滑りしたものに\nなってしまっていたようですが――"
+      "name": "Eishin Flash",
+      "text": "Sí. También es por eso que te saludé así <n>antes.\nDesafortunadamente, parezco haber actuado<n>\ndescuidadamente..."
     },
     {
-      "text": "……ようやく、事情を呑み込むことができた。\nさて、今の彼女に必要なのは――",
+      "name": "Monólogo",
+      "text": "Ahora que finalmente entiendo la<n> situación, creo\nsaber lo que necesita<n> ahora.",
       "choice_data_list": [
-        "とにかくたくさん走って慣れる、かな",
-        "……ここはお菓子作りだ！"
+        "Haz que corras con él para que te acostumbres.",
+        "¡Creo que te mereces una sesión de repostería!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……そうですね。\n私も、それが正道だと思います。"
+      "name": "Eishin Flash",
+      "text": "Sí, es una buena idea. Yo también <n>creo que sería\nel mejor remedio."
     },
     {
-      "text": "というわけで、直近の模擬レースへ、\nあえて勝負服姿で出走することにした。\n気になる彼女の走りは――"
+      "name": "Monólogo",
+      "text": "Y así, Eishin Flash participa en su siguiente<n>\nscrimmage con su equipo de carrera<n> icónico. En\ncuanto a cómo le va..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……っ、はぁっ！"
+      "name": "Eishin Flash",
+      "text": "<i>Jadeo... Jadeo!</i>"
     },
     {
-      "text": "……多少、掛かり気味になる場面はあった\nものの、最終的には見事、1着をものにした！"
+      "name": "Monólogo",
+      "text": "A pesar de parecer un poco incómoda, <n>¡logra quedar\nen primer lugar al final!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……トレーナーさん。\nただいま戻りました。",
+      "name": "Eishin Flash",
+      "text": "He regresado.",
       "choice_data_list": [
-        "……あまりスッキリしてなさそうだな",
-        "……あまりスッキリしてなさそうだね"
+        "Pareces un poco preocupada. ¿Qué pasa?",
+        "Pareces un poco preocupada. ¿Qué pasa?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――途中から、意識できていませんでした。\n自分が今、“誇り”を背負うにふさわしい\n振る舞いができているかどうか――"
+      "name": "Eishin Flash",
+      "text": "Dejé de pensar en si soy digna<n> de cargar con el\norgullo de mi <n>país y representar a mi gente a<n>\nmitad de la carrera..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ただ、全力で走ることに\n夢中になってしまって――"
+      "name": "Eishin Flash",
+      "text": "Me absorbí tanto en correr tan rápido <n>como pudiera\nque lo olvidé por completo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "これでは、この服を着るにふさわしくない\nばかりか、戦った方々にも失礼です。"
+      "name": "Eishin Flash",
+      "text": "A este ritmo, no solo seré indigna de mi<n> atuendo,\nsino que haré un mal servicio a mis <n>compañeras de\ncompetencia."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……今は、せめて相手の方々への\n挨拶だけは、礼を尽くさなければ。"
+      "name": "Eishin Flash",
+      "text": "Lo menos que puedo hacer ahora es <n>agradecerles por\nhoy."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "皆さん。今日はお相手いただき、\nありがとうございました。\n…………ただその、今日、私は――"
+      "name": "Eishin Flash",
+      "text": "Todos, permítanme extender mi más<n> sincero\nagradecimiento por la carrera<n> de hoy. Además, debo\ndisculparme por cómo<n> yo—"
     },
     {
-      "name": "ウマ娘A",
-      "text": "あ、フラッシュさん！　いい勝負だったねえ！\n一緒に走ってくれてありがとう！"
+      "name": "Umamusume A",
+      "text": "¡Oh! ¡Hola, Flash! ¡Fue una gran carrera! ¡Me\n<n>alegra haber podido correr contigo!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……えっ？　は、はい――"
+      "name": "Eishin Flash",
+      "text": "...¿Eh? P-pero—"
     },
     {
-      "name": "ウマ娘A",
-      "text": "やー、負けは負けだから悔しいけどさ。\r\nなんか、相手がフラッシュさんだと、\n『もっと私も頑張ろ！』って気持ちになるね。"
+      "name": "Umamusume A",
+      "text": "Honestamente, apesta que haya perdido,<n> pero cada\nvez que compito contra ti, me dan<n> ganas de\nintentarlo aún más."
     },
     {
-      "name": "ウマ娘B",
-      "text": "そーそー。一緒に走ってて気持ちいいからね。\r\nどんな時でもフェアプレイだし、\n全力で挑んできてくれるし！"
+      "name": "Umamusume B",
+      "text": "¡Lo mismo! ¡Correr contigo realmente es<n> divertido!\nSiempre sé que estás dando tu máximo<n> y\nofreciéndonos una carrera honesta."
     },
     {
-      "name": "ウマ娘A",
-      "text": "こうして必ず挨拶にも来てくれるわけで。\nこうなっちゃあ、こちらも\n襟を正すしかありませんよ。"
+      "name": "Umamusume A",
+      "text": "Quiero decir, también siempre nos agradeces<n>\ndespués de cada carrera. Eres tan <n>considerada y\neducada, ¡que me dan ganas de pulir <n>mis modales!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "…………！"
+      "name": "Eishin Flash",
+      "text": "...!"
     },
     {
-      "name": "ウマ娘B",
-      "text": "あ、ごめん、ゴチャゴチャ言っちゃって！\nとにかく！　次はもっと速くなるから！\nまた一緒に走ってよね！"
+      "name": "Umamusume B",
+      "text": "¡Ups, perdón por enrollarme tanto! De <n>todos modos,\nvoy a trabajar para ser más <n>rápida, ¡así que\ncorramos de nuevo algún día!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――はい！　こちらこそ……\n再戦の際は、全身全霊で\n挑ませていただきます。"
+      "name": "Eishin Flash",
+      "text": "¡Sería un placer! Te enfrentaré con cada<n> fibra de\nmi ser la próxima vez también."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……トレーナーさん。私――",
+      "name": "Eishin Flash",
+      "text": "Entrenador, yo...",
       "choice_data_list": [
-        "君はその服にふさわしいってことだな",
-        "貴方はその服にふさわしいってことだね"
+        "¡Parece que <i>sí</i> eres digna de ese equipo de\ncarrera!",
+        "¡Parece que <i>sí</i> eres digna de ese equipo de\ncarrera!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……そう思っていただけますか？\n私は本当に、この服を着るに\nふさわしく、振る舞えていると――",
+      "name": "Eishin Flash",
+      "text": "...¿De verdad lo crees? ¿De verdad<n> crees que me\nconduzco de una manera<n> digna de él?",
       "choice_data_list": [
-        "もちろん！"
+        "¡Por supuesto!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……ふふ。ありがとうございます。\n胸のつかえが取れた気がします。"
+      "name": "Eishin Flash",
+      "text": "Jeje. Gracias. Siento como si un<n> peso se hubiera\nlevantado de mí."
     },
     {
-      "text": "何のことはない。既に、彼女は\n国の誇りを背負うに値する\nウマ娘になっていた、ということだ――"
+      "name": "Monólogo",
+      "text": "No hubo nada de eso. Eishin Flash<n> siempre ha sido\ndigna de cargar con<n> el orgullo de su país."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "えっ？　なぜ……ですか？"
+      "name": "Eishin Flash",
+      "text": "¿Eh? Eh... ¿Por qué?"
     },
     {
-      "text": "彼女にとって、最も慣れ親しんだ故国の\n“伝統”。それがきちんと身についていると\n実感できれば、きっと自信につながるはずだ。"
+      "name": "Monólogo",
+      "text": "La repostería corre por sus venas, y estoy <n>segura\nde que se sentirá más segura una vez que <n>se dé\ncuenta de lo profundamente conectada<n> que ya está\ncon su país de origen."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……確かに、製法には累代のマイスターが\r\n積み重ねてきた伝統がこもっていますね。"
+      "name": "Eishin Flash",
+      "text": "Supongo que hornear es una especie de arte\n<n>tradicional que ha sido refinado a través<n> de\ngeneraciones de meisters."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……そうですね。それでは、作ってみます。\n両親から学び、受け継いだドイツのケーキ――"
+      "name": "Eishin Flash",
+      "text": "Muy bien. Intentaré hornear algo<n> que mis padres me\nenseñaron."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "フランクフルタークランツを。"
+      "name": "Eishin Flash",
+      "text": "Específicamente, un pastel alemán llamado<n>\nFrankfurter Kranz."
     },
     {
-      "text": "調理は寮のキッチンを借りることにし、\n完成までトレーナー室で待つことにした。"
+      "name": "Monólogo",
+      "text": "Después de reservarle la cocina de la residencia,<n>\ndecido esperar en mi oficina hasta que <n>termine de\nhornear."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――さて。次は砂糖。\nそれから、バターを混ぜて……。"
+      "name": "Eishin Flash",
+      "text": "Ahora, el azúcar. Y luego tengo que mezclar<n> la\nmantequilla..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……これで生地は完璧。あとは――\n…………。"
+      "name": "Eishin Flash",
+      "text": "Listo, la masa ya está completa. Lo <n>único que\nfalta es..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "（……不思議。こうしていると、\n意識せずとも体が勝手に動く――）"
+      "name": "Eishin Flash",
+      "text": "(Raro. Mi cuerpo está llevando a cabo todos los<n>\npasos correctos sin ningún pensamiento<n>\nconsciente...)"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "(La cantidad que tomó resulta ser justo la ideal.\r\nSin un gramo de error… como si estuviera\ngrabado en su cuerpo――)"
+      "name": "Eishin Flash",
+      "text": "(Todo lo que mido es correcto hasta<n> el gramo\ntambién... Es como si el proceso<n> estuviera\ninstaurado en mí.)"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "（……ああ、そうか。\n私は……既に――）"
+      "name": "Eishin Flash",
+      "text": "(Oh... Ya entiendo. Esto debe significar<n> que ya\nsoy...)"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "お待たせいたしました。トレーナーさん。"
+      "name": "Eishin Flash",
+      "text": "Disculpa la espera."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "Entonces… Guten Appetit.",
+      "name": "Eishin Flash",
+      "text": "Aquí tienes. Guten Appetit.",
       "choice_data_list": [
-        "いただきます"
+        "¡Gracias! No puedo esperar a probarlo."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……はい。\n……いかがでしょうか？",
+      "name": "Eishin Flash",
+      "text": "...¿Cómo está?",
       "choice_data_list": [
-        "美味しい！"
+        "¡Está delicioso!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ありがとうございます。\n――とても、嬉しいです。"
+      "name": "Eishin Flash",
+      "text": "Gracias. Estoy muy feliz de escuchar<n> eso."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "実は、貴方にお出しする前に、\n私も少しだけ味見をさせていただきました。"
+      "name": "Eishin Flash",
+      "text": "De hecho, probé un poco antes de venir<n> aquí."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "これこそ、私の故郷の味です――\r\n子どもの頃から慣れ親しみ、\n練習してきたレシピ通りの……。"
+      "name": "Eishin Flash",
+      "text": "El sabor me recordó a mi patria...<n> Sabe\nexactamente como los pasteles que comí <n>mientras\ncrecía. Es una receta que he conocido <n>por tanto\ntiempo..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……私の中に“伝統”は\nしっかりと根付いていたんですね。\n無理に、肩に力を入れずとも。"
+      "name": "Eishin Flash",
+      "text": "Me di cuenta de que nunca hubo necesidad<n> de que\nintentara encarnar los valores de<n> mi país. Las\ntradiciones de mi patria ya<n> son parte de mi\nnúcleo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――ありがとうございます、トレーナーさん。\nおかげで、迷いが晴れた気がします。"
+      "name": "Eishin Flash",
+      "text": "Gracias por ayudarme a darme cuenta de esto.<n> Mi\ncorazón y mente se sienten mucho más claros<n> ahora."
     }
   ]
 }

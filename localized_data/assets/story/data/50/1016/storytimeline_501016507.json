@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Llamo a Narita Brian para darle<n>algo de correo\nde fans."
+      "text": "Llamo a Narita Brian para poder darle algo <n>de\ncorreo de fans."
     },
     {
       "name": "Narita Brian",
-      "text": "Oh, una carta de fan."
+      "text": "Oh, una carta de fans."
     },
     {
       "name": "Narita Brian",
@@ -23,10 +23,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Es mi carta. Lo que haga con ella es mi<n>asunto,\n¿verdad?",
+      "text": "Es mi carta. Lo que haga con ella es <n>asunto mío,\n¿verdad?",
       "choice_data_list": [
-        "¡Promete que no la tirarás simplemente, al\nmenos!",
-        "¡Promete que no la tirarás simplemente, al\nmenos!"
+        "¡Promete que al menos no la tirarás!",
+        "¡Promete que al menos no la tirarás!"
       ]
     },
     {
@@ -39,19 +39,19 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Solo no la voy a leer aquí. Eso es<n>todo lo que\nquise decir."
+      "text": "Solo que no la voy a leer aquí. Eso es todo lo<n> que\nquise decir."
     },
     {
       "name": "Narita Brian",
-      "text": "Nunca tiraría una carta de un fan..."
+      "text": "Nunca tiraría una carta de una fan..."
     },
     {
       "name": "Narita Brian",
-      "text": "Entonces, ¿estamos bien? Me voy."
+      "text": "Entonces, ¿todo bien? Me voy."
     },
     {
       "name": "Monólogo",
-      "text": "Narita Brian pone cuidadosamente la carta de\nfan<n>en su bolsillo, luego se va bruscamente."
+      "text": "Narita Brian guarda cuidadosamente la carta de\nfans<n> en su bolsillo, luego se marcha bruscamente."
     }
   ]
 }

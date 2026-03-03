@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Me encuentro con Tosen Jordan mientras <n>hago un\nrecado en la biblioteca."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "<i>Gruñido...</i> Mi cabeza... No me siento bien...",
+      "choice_data_list": [
+        "¿Dolor de cabeza?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Eh? Oh, eres tú."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Mi amiga solo me estaba ayudando a estudiar, y<n>\nahora mi cabeza me está matando...",
+      "choice_data_list": [
+        "¡¿Estabas estudiando?! ¡Wow!",
+        "¡¿Estabas estudiando?! ¡Wow!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Sabes, ¡no me gusta exactamente esa<n> reacción!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "De todos modos, mi amiga hizo tiempo para <n>ayudarme\na estudiar, ¡así que lo estoy tomando en serio!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Lo que significa que estoy cansada. No tengo\ntiempo<n> para lidiar contigo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Urgh! ¡Empieza a latir de nuevo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Preocupantemente, su dolor de cabeza continúa<n> por\nun rato después de eso..."
+    }
+  ]
+}

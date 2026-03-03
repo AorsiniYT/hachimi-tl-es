@@ -2,7 +2,7 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Narita Brian y yo vamos a cenar después<n>de un\ndía de salida, cuando..."
+      "text": "Narita Brian y yo estamos cenando después<n> de un\ndía fuera, cuando..."
     },
     {
       "name": "Narita Brian",
@@ -14,11 +14,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "¿Tú también cenando fuera?"
+      "text": "¿Tú también estás comiendo fuera?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Bueno, es que justo salí un rato."
+      "text": "Bueno, yo solo pasaba por aquí un rato."
     },
     {
       "name": "Biwa Hayahide",
@@ -28,13 +28,13 @@
       "name": "Narita Brian",
       "text": "...",
       "choice_data_list": [
-        "Ya que estamos todos aquí, ¿por qué no comemos juntos?",
-        "Ya que estamos todos aquí, ¿por qué no comemos juntos?"
+        "Ya que estamos todos aquí, ¿por qué no comemos\njuntos?",
+        "Ya que estamos todos aquí, ¿por qué no comemos\njuntos?"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...Sí, por qué no. ¿Te molesta si me<n>uno, Brian?"
+      "text": "...Sí, por qué no. ¿Te importa si<n> me uno, Brian?"
     },
     {
       "name": "Narita Brian",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Oh, puedes agregar sopa a la comida. Hmm,<n>qué\nhacer..."
+      "text": "Ah, puedes agregar sopa a la comida. <n>Mmm, qué\nhacer..."
     },
     {
       "name": "Biwa Hayahide",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Yo tomaré el combo de hamburguesa.<n>Extra arroz."
+      "text": "Tomaré el combo de hamburguesa de carne. Arroz<n>\nextra."
     },
     {
       "name": "Narita Brian",
@@ -62,11 +62,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¡Jeje!"
+      "text": "¡Hehe!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Eso estuvo sabroso."
+      "text": "Eso estuvo delicioso."
     },
     {
       "name": "Narita Brian",
@@ -74,23 +74,23 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¡Pero me sorprende! Nunca pensé ver el<n>día en\nque <i>tú</i> pidieras sopa de verduras."
+      "text": "¡Pero me sorprende! Nunca pensé que vería el día<n>\nen que <i>tú</i> pidieras sopa de verduras."
     },
     {
       "name": "Narita Brian",
-      "text": "Solo lo hice para callar a todos los que<n>me han\nestado fastidiando. Incluyéndote a ti."
+      "text": "Lo hice solo para callar a todos los que han<n>\nestado molestándome. Incluyéndote."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Vaya. Sabes, gente como tú..."
+      "text": "Caray. Sabes, personas como tú..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No importa. Cualquiera sea la razón, me<n>alegra\nque hayas madurado. Aunque sea<n>solo un poco."
+      "text": "No importa. Cualquiera que sea la <n>razón, solo me\nalegra que hayas crecido. Aunque sea<n> un poco."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Disculpa, aún tengo que hacer algunas<n>compras.\nCon permiso."
+      "text": "Perdón, aún tengo que hacer algunas compras.<n> Si me\nexcusan."
     },
     {
       "name": "Narita Brian",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Perdón por hacerte pasar por eso.",
+      "text": "Perdón por hacerte sentarte a escuchar eso.",
       "choice_data_list": [
         "¡Me alegra ver cuánto has crecido!",
         "¡Me alegra ver cuánto has crecido!"
@@ -106,21 +106,21 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Je, no te ves nada satisfecho...",
+      "text": "Heh, no pareces más que <n>satisfecho...",
       "choice_data_list": [
-        "¡Sigue así!",
-        "¡Todo ese esfuerzo definitivamente dará frutos en\ntu carrera!",
-        "¡Todo ese esfuerzo definitivamente dará frutos en\ntu carrera!",
+        "¡Sigue con el buen trabajo!",
+        "¡Todo ese esfuerzo definitivamente valdrá la pena\nen tu carrera!",
+        "¡Todo ese esfuerzo definitivamente valdrá la pena\nen tu carrera!",
         "Avísame si tienes algún problema."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "Je, no te ves nada satisfecho...",
+      "text": "Heh, no pareces más que <n>satisfecho...",
       "choice_data_list": [
-        "¡Sigue así!",
-        "¡Todo ese esfuerzo definitivamente dará frutos en\ntu carrera!",
-        "¡Todo ese esfuerzo definitivamente dará frutos en\ntu carrera!",
+        "¡Sigue con el buen trabajo!",
+        "¡Todo ese esfuerzo definitivamente valdrá la pena\nen tu carrera!",
+        "¡Todo ese esfuerzo definitivamente valdrá la pena\nen tu carrera!",
         "Avísame si tienes algún problema."
       ]
     },
@@ -134,39 +134,39 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...Bueno, lo dejaré como opción.<n>¿Satisfecho?"
+      "text": "...Bueno, lo dejaré como opción. <n>¿Satisfecho?"
     },
     {
-      "text": "Comparado con cuando no pensaba<n>nada en lo que\ncomía, me alegra verla<n>haciendo estos pequeños\ncambios."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...Quizás."
+      "text": "Comparado con cuando no pensaba en<n> absoluto en lo\nque comía, me alegra verla<n> haciendo estos pequeños\ncambios."
     },
     {
       "name": "Narita Brian",
-      "text": "Bueno, ¿cómo han cambiado las cosas<n>hasta ahora?\nTú dime."
+      "text": "...Tal vez."
     },
     {
       "name": "Narita Brian",
-      "text": "Porque no puedo ver los cambios cuando<n>estoy corriendo."
-    },
-    {
-      "text": "¿Cómo ha cambiado desde que se ha<n>vuelto más\nconsciente de la comida?<n>Supongo que tendré que\nvigilar eso<n>más de cerca desde ahora."
+      "text": "Bueno, ¿cómo han cambiado las cosas hasta<n> ahora?\nTú dime."
     },
     {
       "name": "Narita Brian",
-      "text": "Ya que lo mencionas, sí <i>hay</i> algo que<n>me\nmolesta bastante.",
+      "text": "Porque no puedo ver los cambios cuando estoy<n>\ncorriendo."
+    },
+    {
+      "text": "¿Cómo ha cambiado desde que se ha <n>vuelto más\nconsciente de la comida? Supongo que <n>necesitaré\nprestar más atención a eso de ahora <n>en adelante."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ya que lo mencionas, <i>hay algo que </i>me<n> molesta\nbastante.",
       "choice_data_list": [
         "Sea lo que sea, por favor dime."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "...Se ha vuelto más difícil comer comida<n>rápida abiertamente."
+      "text": "...Se ha vuelto más difícil comer comida rápida\n<n>abiertamente."
     },
     {
-      "text": "Ya que parece haberse vuelto más<n>consciente de\nsu dieta, puede ser una<n>buena idea ofrecerle\ncomida rápida de<n>vez en cuando."
+      "text": "Ya que parece haberse vuelto más<n> consciente de su\ndieta, podría ser una<n> buena idea ofrecerle comida\nrápida de<n> vez en cuando."
     }
   ]
 }

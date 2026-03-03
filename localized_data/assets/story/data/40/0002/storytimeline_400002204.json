@@ -2,58 +2,62 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "駿川たづな",
-      "text": "おめでとうございます！\nついに、チームメンバーが集まりましたね。"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Felicitaciones por armar un equipo!"
     },
     {
-      "name": "駿川たづな",
-      "text": "さっそくですが、チームのみなさんのための\n部室を用意させていただきました。"
+      "name": "Tazuna Hayakawa",
+      "text": "Para empezar, he preparado una <n>sala del club para\ntodos."
     },
     {
-      "name": "駿川たづな",
-      "text": "……ですが、今はまだ必要最低限の状態です。\nトレーニング器具も十分ではありません。"
+      "name": "Tazuna Hayakawa",
+      "text": "Desafortunadamente, solo logré asegurar<n> lo básico.\nNi siquiera hay suficiente<n> equipo de entrenamiento\nallí todavía..."
     },
     {
-      "name": "駿川たづな",
-      "text": "でも、『アオハル杯』で勝利し、\nチームのランキングが上がっていけば、\nその分予算も沢山もらえるようになります！"
+      "name": "Tazuna Hayakawa",
+      "text": "Pero a medida que aumentes tu ranking <n>asegurando\nvictorias en la Unity Cup, ¡estoy <n>seguro de que\npodemos encontrar fondos para <n>mejorarla!"
     },
     {
-      "name": "駿川たづな",
-      "text": "そうすれば、より充実したハイレベルな\nチームトレーニングができるようになるかと♪"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Y esas mejoras a su vez ayudarán a tu <n>equipo a\nentrenar más duro y de manera más<n> eficiente—estoy\nseguro de ello! ♪"
     },
     {
-      "name": "駿川たづな",
-      "text": "より良いチーム活動を行うためにも、\n『アオハル杯』でのご活躍を\n目指してくださいね！",
+      "name": "Tazuna Hayakawa",
+      "text": "¡Tendrás que trabajar diligentemente en la<n> Unity\nCup por el bien de tu equipo, así que <n>mucha\nsuerte!",
       "choice_data_list": [
-        "わかりました！"
+        "¡Gracias!"
       ]
     },
     {
-      "name": "駿川たづな",
-      "text": "ではさっそく、『アオハル杯』へ出走する\nために必要な手続きを行いましょう。"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Muy bien, entonces! Vamos a inscribirte<n> en la\nUnity Cup de inmediato."
     },
     {
-      "name": "駿川たづな",
-      "text": "出走登録の用紙をお渡ししますので、\n必要事項を記入のうえ提出をお願いします。"
+      "name": "Tazuna Hayakawa",
+      "text": "Aquí está el papeleo de registro.<n> Por favor,\ncomplétalo y envíalo cuando <n>puedas."
     },
     {
-      "name": "駿川たづな",
-      "text": "それでは、ご健闘お祈りしています。"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Estaré apoyando tu éxito!"
     },
     {
-      "text": "出走登録用紙には、チーム名の欄がある。\nチーム＜キャロッツ＞なんてどうだろうか。"
+      "name": "Monólogo",
+      "text": "Hay un espacio en blanco en el formulario <n>para\nescribir el nombre de nuestro equipo. Quizás<n> \"Team\nCarrot\" sería una buena opción."
     },
     {
-      "text": "チーム名は――",
+      "name": "Monólogo",
+      "text": "Vamos a nombrar a nuestro equipo...",
       "choice_data_list": [
-        "チーム＜キャロッツ＞"
+        "Equipo Zanahoria"
       ]
     },
     {
-      "text": "チーム名をチーム＜キャロッツ＞に決め、\n出走登録用紙に記入した！"
+      "name": "Monólogo",
+      "text": "Lleno nuestro nombre en el formulario como<n> \"Team\nCarrot\". ¡Eso lo hace oficial!"
     },
     {
-      "text": "これから、チーム一丸となって\n頑張っていきたい！"
+      "name": "Monólogo",
+      "text": "¡Estoy listo para trabajar con mi equipo y<n>\nmostrarle a todos lo que podemos hacer!"
     }
   ]
 }

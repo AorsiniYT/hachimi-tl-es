@@ -3,81 +3,81 @@
   "text_block_list": [
     {
       "name": "Maruzensky",
-      "text": "¡Oye, entrenador! ¡Gracias por venir a verme!",
+      "text": "Hey, Entrenador. Gracias por venir a <n>verme.",
+      "choice_data_list": [
+        "¿Cómo te fue!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hey, Entrenador. Gracias por venir a <n>verme.",
       "choice_data_list": [
         "¿Cómo te fue?"
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "¡Oye, entrenador! ¡Gracias por venir a verme!",
-      "choice_data_list": [
-        "¿Cómo te fue?"
-      ]
+      "text": "Oh, fue genial. Siempre se siente tan bien<n> correr."
     },
     {
       "name": "Maruzensky",
-      "text": "¡Oh, estuvo genial! ¡Siempre se siente tan<n>bien correr!"
+      "text": "Aun así, no puedo permitirme estar satisfecho."
     },
     {
       "name": "Maruzensky",
-      "text": "Aún así, no puedo conformarme."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "¡Seguiré a todo gas hasta que <i>todos</i>\nme<n>estén persiguiendo!"
+      "text": "Seguiré adelante a toda velocidad <i>hasta que <i>todos</i><n>\n</i>me estén siguiendo."
     },
     {
       "name": "Special Week",
-      "text": "¡Maruzensky!"
+      "text": "Maruzensky."
     },
     {
       "name": "Maruzensky",
-      "text": "¡Oigan, chicas!"
+      "text": "Hey, ustedes."
     },
     {
       "name": "Special Week",
-      "text": "¡Gran trabajo! ¡La carrera de hoy fue tan emocionante!"
+      "text": "Buen trabajo. La carrera de hoy fue emocionante."
     },
     {
       "name": "Grass Wonder",
-      "text": "Parecía que tu fuerza, tu impulso, tu<n>\n<i>todo</i> había mejorado desde la<n>carrera anterior."
+      "text": "Parecía que tu fuerza, tu impulso, <n><i>todo</i> había\n</i>mejorado desde la <n>carrera anterior."
     },
     {
       "name": "Special Week",
-      "text": "¡Así es! Sobre todo, ¡parecía que te<n>estabas\ndiviertiendo un montón!"
+      "text": "Así es. Sobre todo, parecías que te<n> estabas\ndivirtiendo mucho."
     },
     {
       "name": "Maruzensky",
-      "text": "¡Jeje! ¡Me alegra ver que transmití el<n>mensaje!"
+      "text": "Jeje. Me alegra ver que les <n>transmití el mensaje."
     },
     {
       "name": "Maruzensky",
-      "text": "¡Pero la próxima vez, te mostraré una<n>carrera aún\nmejor!"
+      "text": "Pero la próxima vez, les mostraré una <n>carrera aún\nmejor."
     },
     {
       "name": "Special Week",
-      "text": "¿¿Mejor que hoy??"
+      "text": "¿Mejor que hoy?"
     },
     {
       "name": "Maruzensky",
-      "text": "La próxima carrera es considerada la<n>más\nprestigiosa del año, después de todo...",
+      "text": "La carrera que se avecina es considerada<n> la más\nprestigiosa del año, después de todo...",
       "choice_data_list": [
-        "¡El Japanese Derby!",
-        "¡El Japanese Derby!"
+        "El Derby Japonés.",
+        "El Derby Japonés."
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "Es un gran espectáculo, y les daré a<n>todos una\ncarrera que los mantendrá<n>pegados a sus\nasientos!"
+      "text": "Es un gran espectáculo y les daré a<n> todos una\ncarrera que los tendrá <n>pegados a sus asientos."
     },
     {
       "name": "Special Week",
-      "text": "¡De acuerdo! ¡Realmente lo espero con<n>ansias!\n¡Mucha suerte!"
+      "text": "Muy bien. Estoy emocionado de verdad. <n>¡Buena\nsuerte!"
     },
     {
       "name": "Monólogo",
-      "text": "Después de superar algunas grandes<n>carreras,\nel próximo objetivo de Maruzensky es el<n>Japanese\nDerby—¡la cumbre de las carreras!"
+      "text": "Después de pasar por algunas carreras <n>importantes,\nla próxima meta de Maruzensky es el Derby<n> Japonés,\nla cima de las carreras."
     }
   ]
 }

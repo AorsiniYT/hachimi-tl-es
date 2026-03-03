@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Joven Hayahide",
-      "text": "Lo siento, Brian. El doctor dice que no puedo correr<n>contigo por un tiempo."
+      "text": "Lo siento, Brian. El doctor dice que no puedo\n<n>correr contigo por un tiempo."
     },
     {
       "name": "Joven Brian",
@@ -11,35 +11,35 @@
     },
     {
       "name": "Joven Hayahide",
-      "text": "Pero hay montones de otras personas con\nquienes<n>puedes competir. Así que no te preocupes\npor mí—ve<n>y diviértete."
+      "text": "Pero hay montones de otras personas con las que\n<n>puedes correr. Así que no te preocupes por mí, ve<n>\ny diviértete."
     },
     {
       "name": "Joven Brian",
-      "text": "...'Ta bien."
+      "text": "...Está bien."
     },
     {
-      "name": "Joven Uma Musume A",
-      "text": "<i>Uff, puff...</i> Brian... ¡Eres demasiado rápida!"
+      "name": "Joven Umamusume A",
+      "text": "<i>Respiro, respiro...</i> Brian... Eres demasiado\nrápido."
     },
     {
       "name": "Joven Brian",
-      "text": "La próxima vez correré aún más rápido. Así que<n>hagamos otra vuelta."
+      "text": "Voy a correr aún más rápido la próxima vez. <n>Así\nque hagamos otra vuelta."
     },
     {
-      "name": "Joven Uma Musume B",
-      "text": "¡D-dame un respiro! Quizás tú te\ndiviertes<n>porque estás ganando, pero ¡yo no!"
+      "name": "Joven Umamusume B",
+      "text": "Dame un respiro. Puedes estar divirtiéndote<n> porque\nestás ganando, pero yo no."
     },
     {
       "name": "Joven Brian",
       "text": "...¿Eh?"
     },
     {
-      "name": "Joven Uma Musume B",
-      "text": "<i>Snif...</i> Eres demasiado rápida... Yo... ¡te odio!"
+      "name": "Joven Umamusume B",
+      "text": "<i>Sollozo...</i> Eres demasiado rápido... Te odio."
     },
     {
-      "name": "Joven Uma Musume A",
-      "text": "E-em... Brian, ¿quieres probar las<n>clases de\ncarreras? Apuesto a que hay montones de corredoras\nrápidas<n>ahí."
+      "name": "Joven Umamusume A",
+      "text": "E-eh... Brian, ¿quieres probar las lecciones<n> de\ncarreras? Apuesto a que hay muchos corredores\n<n>rápidos allí."
     },
     {
       "name": "Monólogo",
@@ -47,27 +47,27 @@
     },
     {
       "name": "Narita Brian",
-      "text": "<i>Uff... uff...</i>"
+      "text": "<i>Respiro... respiro...</i>"
     },
     {
       "name": "Instructor de Carreras A",
-      "text": "Esa Narita Brian corre muy bien. Escuché<n>que no\nha podido establecerse en ningún lado,<n>sin\nembargo."
+      "text": "Esa Narita Brian corre muy bien. Oí que no<n> ha\npodido establecerse en ningún lugar, sin<n> embargo."
     },
     {
       "name": "Instructor de Carreras B",
-      "text": "Uh, no imagino por qué. Con solo ver su<n>talento,\ncualquiera se sentiría apenado de perdérsela<n>al\nno tenerla."
+      "text": "No puedo imaginar por qué. Con solo <n>mirar su\ntalento, cualquiera se arrepentiría<n> de perderla."
     },
     {
-      "name": "Uma Musume A",
-      "text": "Yo... renuncio... Esto <i>apesta.</i> ¡¿Para qué está una chica tan rápida<n>aquí?!"
+      "name": "Umamusume A",
+      "text": "M-me rindo... Esto <i>es un desastre.</i> ¿Por qué hay un\nniño tan rápido<n> aquí, de todos modos?"
     },
     {
       "name": "Narita Brian",
-      "text": "(¡Otra vez no! ¿Por qué no te esfuerzas más? ¡Esta<n>es una carrera! Pero tú solo...)"
+      "text": "(No otra vez. ¿Por qué no te esfuerzas? Esto<n> es\nuna carrera. Pero tú solo...)"
     },
     {
-      "name": "Uma Musume B",
-      "text": "No puedooo... Uf, esto es desesperante, sin importar<n>cuánto me esfuerce."
+      "name": "Umamusume B",
+      "text": "N-no puedo... Uf, esto es desesperante, no importa<n>\ncuánto me esfuerce."
     },
     {
       "name": "Narita Brian",
@@ -75,11 +75,11 @@
     },
     {
       "name": "Instructor de Carreras A",
-      "text": "P-pero ¡¿por qué?! ¡Estoy seguro de que nuestra\nclase era mucho<n>mejor que tu última! Nuestra\npista es de nivel<n>casi profesional—¡no\nencontrarás una<n>experiencia de mayor calidad en\notro lado!"
+      "text": "P-pero ¿por qué? Estoy seguro de que nuestra clase<n>\nera mucho mejor que la tuya anterior. Nuestra\npista está<n> cerca del nivel profesional, no puedes\nencontrar una <n>experiencia de mayor calidad en otro\nlugar."
     },
     {
       "name": "Narita Brian",
-      "text": "Olvídalo. Este lugar ya no es un desafío<n>... No\ntiene sentido cuando todos<n>los demás han perdido\nsu impulso por ganar."
+      "text": "Olvida eso. Este lugar ya no es un <n>desafío... Es\ninútil cuando todos los demás<n> han perdido su\nimpulso para ganar."
     },
     {
       "name": "Biwa Hayahide",
@@ -91,35 +91,23 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ven a la Academia Tracen. Ahí es\ndonde<n>encontrarás carreras de verdad. Tal vez\nsatisfaga<n>esa hambre tuya."
+      "text": "Ven a la Academia Tracen. Ahí es donde<n> encontrarás\ncarreras de verdad. Puede que <n>satisfaga ese hambre\ntuyo."
     },
     {
       "name": "Narita Brian",
       "text": "..."
     },
     {
-      "name": "Comentarista",
-      "text": "¡Y arrancan! ¡La primera en salir es la<n>número seis!"
+      "name": "Locutor",
+      "text": "Y ya salen. El primero en salir es el<n> número seis."
     },
     {
-      "name": "Comentarista",
-      "text": "¡La número ocho, Narita Brian, espera\nla<n>oportunidad perfecta para destacarse!<n>¡Pero\nla ventaja de la número seis sigue creciendo!"
+      "name": "Locutor",
+      "text": "El número ocho, Narita Brian, está esperando <n>la\noportunidad perfecta para adelantar. Pero <n>la\nventaja del número seis sigue creciendo."
     },
     {
-      "name": "Uma Musume Número Seis",
-      "text": "¡Haaagh!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "..."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...!"
-    },
-    {
-      "name": "Uma Musume Número Seis",
-      "text": "Qué..."
+      "name": "Umamusume Número Seis",
+      "text": "¡Aaah!"
     },
     {
       "name": "Narita Brian",
@@ -127,31 +115,43 @@
     },
     {
       "name": "Narita Brian",
-      "text": "(¿Realmente está pasando aquí también?)"
+      "text": "..."
+    },
+    {
+      "name": "Umamusume Número Seis",
+      "text": "¿Q-qué..."
     },
     {
       "name": "Narita Brian",
-      "text": "No importa adónde vaya, no importa a\nquién<n>desafíe, siempre es lo mismo. Me\nquedo<n>con más hambre que antes."
+      "text": "..."
     },
     {
       "name": "Narita Brian",
-      "text": "Supongo que no tiene sentido quedarme aquí..."
+      "text": "(¿Está sucediendo aquí también?)"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No importa dónde vaya, no importa a<n> quién desafíe,\nsiempre es lo mismo. Me <n>quedo con más hambre que\nantes."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Supongo que no hay punto en quedarme aquí..."
     },
     {
       "name": "Monólogo",
-      "text": "No hay mejor manera de ordenar tus<n>pensamientos\nque un paseo, así que voy a la<n>orilla del río a\nreflexionar."
+      "text": "No hay mejor manera de recopilar<n> tus pensamientos\nque un paseo, así <n>que voy al río para reflexionar."
     },
     {
-      "name": "Entrenador Hábil",
-      "text": "¿Realmente vas a hacer esto?"
+      "name": "Entrenador Experimentado",
+      "text": "¿De verdad vas a hacer esto?"
     },
     {
-      "name": "Uma Musume Senior",
-      "text": "Sí... Nunca quiero fracasar así otra vez.<n>Por eso..."
+      "name": "Umamusume Senior",
+      "text": "Sí... Nunca quiero fallar de esa manera de <n>nuevo.\nPor eso..."
     },
     {
       "name": "Monólogo",
-      "text": "Es la estudiante senior que compitió\ncontra<n>Narita Brian. Supongo que este es uno de\nsus<n>lugares de entrenamiento."
+      "text": "Es la estudiante senior que corrió contra <n>Narita\nBrian. Supongo que este es uno de sus lugares<n> de\nentrenamiento."
     },
     {
       "name": "Biwa Hayahide",
@@ -162,61 +162,61 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Jeje, no quise tomarte por<n>sorpresa. Soy Biwa\nHayahide, hermana de<n>Narita Brian."
+      "text": "Ja ja, no quería sorprenderte.<n> Soy Biwa Hayahide,\nla hermana de Narita<n> Brian."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "He escuchado historias sobre tus muchos<n>intentos\nobstinados de hablar con ella. Así que<n>cuando te\nvi aquí, tuve que venir a hablar<n>contigo.",
+      "text": "He oído historias sobre tus muchos <n>intentos\nobstinados de hablar con ella. Así <n>que cuando te\nvi aquí, tuve que venir a hablar <n>contigo.",
       "choice_data_list": [
         "¿Q-quieres hablar?"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No hay necesidad de ponerse nervioso. Solo<n>quisiera unos minutos de tu\ntiempo."
+      "text": "No hay necesidad de estar nervioso. Solo quiero<n>\nunos minutos de tu tiempo."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "<i>Uf.</i> Hora de enfriar. ¿Podrías<n>anotar mi\núltimo tiempo con la pluma<n>azul?"
+      "text": "<i>Uf.</i> Tiempo para enfriarme. ¿Podrías<n> anotar mi\ntiempo más reciente con el bolígrafo<n> azul!"
     },
     {
       "name": "Monólogo",
-      "text": "Sin darme cuenta, estoy ayudando a Biwa<n>Hayahide con su entrenamiento."
+      "text": "Antes de que me dé cuenta, estoy ayudando<n> a Biwa\nHayahide con su entrenamiento."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Gracias. Esto será un excelente dato.<n>Esa\ncarrera de viento que sugeriste fue<n>efectiva\ntambién. Siempre busco<n>maneras de mejorar."
+      "text": "Gracias. Esto será un dato excelente. Ese<n> sprint\nde viento que sugiriste <n>también fue efectivo.\nSiempre estoy buscando<n> formas de mejorar."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Más importante, me hiciste compañía<n>hasta esta\nhora tardía, lo que significa que<n>pusiste a tus\nentrenadas primero... Sí, creo que lo harás bien."
+      "text": "Más importante aún, me acompañaste hasta esta<n> hora\ntan tardía, lo que significa que pusiste a tus<n>\nentrenados en primer lugar... Sí, creo que te irá\nbien."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¿Pasemos al tema principal de<n>discusión?",
+      "text": "¿Por qué no pasamos al tema principal de <n>nuestra\ndiscusión!",
       "choice_data_list": [
         "¿El tema principal?"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Perdóname. Quería probarte.<n>Según mi hipótesis,\nla actitud de uno<n>hacia el entrenamiento también\nexpresa quién<n>es como persona."
+      "text": "Disculpa. Quería ponerte a prueba.<n> Según mi\nhipótesis, la actitud hacia el<n> entrenamiento\ntambién expresa quién es<n> uno como persona."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Soy muy consciente de mi descortesía,\npero<n>simplemente tenía que saberlo\ncon<n>seguridad—si puedo o no depositar mis\nesperanzas en ti."
+      "text": "Soy muy consciente de mi descortesía, pero\n<n>simplemente tenía que estar seguro —de si puedo<n>\ndepositar mis esperanzas en ti o no."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Me gustaría pedirte que acompañes a<n>Narita Brian a mi carrera debut."
+      "text": "Me gustaría pedirte que acompañes a <n>Narita Brian a\nmi carrera de debut."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Verás, escuché un rumor preocupante<n>que circula.\nSi es cierto, quiero que ella<n>vea una carrera de\nverdad..."
+      "text": "Verás, escuché un rumor inquietante <n>que está\ncirculando. Si es cierto, quiero que ella<n> vea una\ncarrera real..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Antes de que abandone la academia para siempre."
+      "text": "Antes de que deje la academia para siempre."
     }
   ]
 }

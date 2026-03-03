@@ -2,16 +2,16 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, justo cuando nuestro<n>entrenamiento\nestá terminando...",
+      "text": "Un día, justo cuando nuestro entrenamiento<n> está\nterminando...",
       "choice_data_list": [
         "(¡Me duele mucho el estómago!)"
       ]
     },
     {
-      "text": "Pensé que podía aguantar hasta que<n>terminara el\nentrenamiento, pero no parece<n>que vaya a ser\nposible.",
+      "text": "Pensé que podría aguantar hasta que <n>terminara el\nentrenamiento, pero no parece <n>que vaya a ser\nposible.",
       "choice_data_list": [
-        "Oye, regresa después de enfriarte adecuadamente,\n¿vale?",
-        "Oye, regresa después de enfriarte adecuadamente,\n¿vale?"
+        "Oye, vuelve a casa después de que te hayas\nenfriado adecuadamente, ¿vale?",
+        "Oye, vuelve a casa después de que te hayas\nenfriado adecuadamente, ¿vale?"
       ]
     },
     {
@@ -19,25 +19,25 @@
       "text": "Entendido, Entrenador."
     },
     {
-      "text": "Tranquilizado por su firme respuesta,<n>me dirijo\nrápidamente al baño."
+      "text": "Reconfortado por su firme respuesta, me <n>dirijo\nrápidamente al baño."
     },
     {
-      "text": "Una hora después, mis problemas<n>estomacales han\npasado, pero me doy cuenta<n>de que olvidé algo\nen el campo. Vuelvo<n>por ello, solo para encontrar..."
+      "text": "Una hora después, mis problemas estomacales<n> han\npasado, pero me doy cuenta de que olvidé<n> algo en\nel campo. Vuelvo por ello, solo para <n>encontrar..."
     },
     {
       "name": "Mihono Bourbon",
       "text": "Bienvenido de vuelta, Entrenador."
     },
     {
-      "text": "Mihono Bourbon aún se está<n>enfriando.",
+      "text": "Mihono Bourbon todavía está enfriándose.",
       "choice_data_list": [
-        "¡¿Sigues en eso?!",
-        "¡¿Sigues en eso?!"
+        "¡¿Todavía sigues?!",
+        "¡¿Todavía sigues?!"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Sí. Sus palabras implicaban que<n>debería\nenfriarme hasta que mi ritmo<n>cardíaco volviera a un\nnivel normal.",
+      "text": "Sí. Tus palabras implicaban que debía <n>enfriarme\nhasta que mi frecuencia cardíaca volviera<n> a un\nnivel normal.",
       "choice_data_list": [
         "...¿Qué?",
         "...¿Qué?"
@@ -45,60 +45,60 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Usó el término \"adecuadamente\". Eso<n>es un\nadverbio que significa<n>\"suficientemente—no\nexcesivamente\"."
+      "text": "Usaste el término \"adecuadamente\". Ese es<n> un\nadverbio que significa \"suficientemente—no<n> en\nexceso\"."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Por lo tanto, he estado esperando<n>aquí a que\nmi ritmo cardíaco vuelva<n>suficientemente a los\nllamados niveles de<n>\"reposo\"..."
+      "text": "Por lo tanto, he estado esperando aquí a que <n>mi\nfrecuencia cardíaca regrese suficientemente a<n> los\nllamados niveles de \"descanso\"..."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Estoy trotando y caminando como<n>parte de mi\nrutina de enfriamiento."
+      "text": "Estoy trotando y caminando como parte de mi<n> rutina\nde enfriamiento."
     },
     {
-      "text": "Primero que nada, su ritmo cardíaco<n>no va a\nllegar a niveles de reposo si<n>sigue trotando..."
+      "text": "Para empezar, su frecuencia cardíaca no va a<n>\nllegar a niveles de descanso si sigue<n> trotando..."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Midiendo ritmo cardíaco... Cuarenta<n>latidos por\nminuto por encima del ritmo<n>de \"reposo\"...\nContinuando enfriamiento."
+      "text": "Midiendo frecuencia cardíaca... Cuarenta latidos\npor<n> minuto por encima de la tasa de \"descanso\"...\nContinuando <n>el enfriamiento."
     },
     {
-      "text": "Tras detener a Mihono Bourbon de<n>continuar su\n\"enfriamiento\", tomo nota de<n>ser más claro con\nmis instrucciones en<n>el futuro. Unos días después..."
+      "text": "Después de detener a Mihono Bourbon<n> de continuar\nsu \"enfriamiento\", tomo <n>nota para ser más claro\ncon mis instrucciones<n> en el futuro. Unos días\ndespués..."
     },
     {
-      "text": "Justo cuando nuestro entrenamiento está por\nterminar,<n>recibo"
+      "text": "Justo cuando nuestro entrenamiento está\n<n>terminando, recibo un mensaje de la Directora<n>\nAkikawa."
     },
     {
-      "text": "\"¡Atención todos los entrenadores!<n>¡Reunión de\nemergencia de inmediato!\""
+      "text": "\"¡Atención todos los entrenadores! Reunión de<n>\nemergencia de inmediato\""
     },
     {
-      "text": "Todavía me preocupa el último<n>error de Mihono\nBourbon, pero cuando<n>la Directora Akikawa dice\nreunirse,<n>lo dice sin demora.",
+      "text": "Todavía estoy preocupado por <n>el último error de\nBourbon, pero <n>cuando la Directora Akikawa dice\n<n>reunirse, es sin demora.",
       "choice_data_list": [
         "(¡Esta vez daré instrucciones con números\nconcretos!)",
         "(¡Esta vez daré instrucciones con números\nconcretos!)"
       ]
     },
     {
-      "text": "Le dejo un régimen de entrenamiento<n>ligero con\n<i>números muy específicos</i> y<n>dejo el gimnasio."
+      "text": "Le dejo un régimen de entrenamiento ligero <i>con<n>\nnúmeros <i>muy específicos</i> y salgo del <n>gimnasio."
     },
     {
-      "text": "A la mañana siguiente, voy al gimnasio<n>para\nrevisar nuestro equipo de<n>entrenamiento..."
+      "text": "A la mañana siguiente, voy al gimnasio a<n> revisar\nnuestro equipo de entrenamiento..."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Buenos días, Entrenador. Mi<n>entrenamiento\nterminará en precisamente<n>cuatro minutos y dos\nsegundos.",
+      "text": "Buenos días, Entrenador. Mi entrenamiento\n<n>terminará en exactamente cuatro minutos y dos<n>\nsegundos.",
       "choice_data_list": [
-        "¡¿Por qué demonios sigues entrenando?!",
-        "¡¿Pero por qué sigues entrenando?!"
+        "¡¿Por qué demonios todavía estás entrenando?!",
+        "¡¿Por qué demonios todavía estás entrenando?!"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Anoche, mi equipo de entrenamiento<n>se dañó.\nMis intentos de reparación fueron<n>inútiles, ya que mi\nbase de datos carece de<n>métodos adecuados..."
+      "text": "Anoche, mi equipo de entrenamiento se <n>dañó. Mis\nintentos de reparación fueron <n>inútiles, ya que mi\nbase de datos carece de métodos<n> adecuados..."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Solicité asistencia con las<n>reparaciones al\nconserje a las 8:00 a.m. de<n>esta mañana.\nFinalmente pude<n>reanudar el entrenamiento\nhace un rato.",
+      "text": "Solicité ayuda para las reparaciones <n>al conserje a\nlas 8:00 a.m. de esta mañana.<n> Finalmente pude\nreanudar el entrenamiento<n> hace poco.",
       "choice_data_list": [
         "...!"
       ]
@@ -108,22 +108,22 @@
       "text": "¿Entrenador?"
     },
     {
-      "text": "Resistiendo el impulso de desmayarme,<n>le explico\nclaramente que está bien que<n>se vaya a casa\ncuando algo así suceda, y<n>la envío de vuelta a su\ndormitorio.",
+      "text": "Resistiendo las ganas de desmayarme, le<n> explico\nclaramente que está bien que se vaya<n> a casa cuando\npase algo así, y la envío<n> de vuelta a su\ndormitorio.",
       "choice_data_list": [
         "(¡No dejaré que esto vuelva a pasar!)"
       ]
     },
     {
-      "text": "Hago esa promesa a mí mismo, y luego<n>unos días\ndespués..."
+      "text": "Hago esa promesa para mí mismo, y luego<n> unos días\nmás tarde..."
     },
     {
-      "text": "Justo cuando nuestro entrenamiento<n>está\nterminando, recibo un mensaje<n>de que un pájaro\nchocó contra la ventana de<n>mi oficina y la rompió!"
+      "text": "Justo cuando nuestro entrenamiento está\nterminando,<n> recibo un mensaje de que un pájaro se\nestrelló contra<n> la ventana de mi oficina y la hizo\nañicos."
     },
     {
-      "text": "Todavía me preocupan los últimos<n><i>dos</i>\nerrores con Bourbon, pero... Tengo<n>que limpiar\nel vidrio antes de que alguien<n>salga herido.",
+      "text": "Todavía estoy preocupado por los <i>últimos <n></i><i>dos</i>\nerrores con Bourbon, pero... Tengo que<n> limpiar el\nvidrio antes de que alguien se<n> lastime.",
       "choice_data_list": [
-        "(¡Esta vez no la voy a arruinar!)",
-        "(¡Esta vez no la voy a arruinar!)"
+        "(¡Esta vez no voy a equivocarme!)",
+        "(¡Esta vez no voy a equivocarme!)"
       ]
     },
     {
@@ -131,68 +131,68 @@
       "text": "¿Pasa algo, Entrenador?"
     },
     {
-      "text": "Resumo la situación para ella y le\ndoy<n>instrucciones a seguir para el resto de<n>su\nsesión de entrenamiento.",
+      "text": "Le resumo la situación y le <n>doy instrucciones para\nel resto de<n> su sesión de entrenamiento.",
       "choice_data_list": [
         "¡Dos vueltas corriendo alrededor del perímetro de\nla academia!",
-        "¡Una ejecución de nuestro régimen de entrenamiento\nde fuerza!"
+        "¡Una sesión completa de nuestro régimen de\nentrenamiento de fuerza!"
       ]
     },
     {
-      "text": "Agrego que quiero que haga un<n>enfriamiento de\nquince minutos y luego<n>que se vaya a casa\ndespués de terminar."
+      "text": "Añado que quiero que haga un <n>enfriamiento de\nquince minutos y luego se <n>vaya a casa después de\nterminar."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Instrucciones reconocidas. Procediendo<n>al\nperímetro de la academia."
+      "text": "Instrucciones reconocidas. Procediendo<n> al\nperímetro de la academia."
     },
     {
-      "text": "Mihono Bourbon va a la puerta de la<n>escuela.",
+      "text": "Mihono Bourbon va a la puerta de la<n> escuela.",
       "choice_data_list": [
         "(La vigilaré solo un poco más...)"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...Dos vueltas alrededor del perímetro<n>de la\nacademia completadas. Iniciando<n>enfriamiento."
+      "text": "...Dos vueltas alrededor del perímetro<n> de la\nacademia completadas. Iniciando<n> enfriamiento."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Han transcurrido quince minutos.<n>Cambiando a\nfase \"ir a casa\". Un trabajo<n>bien hecho."
+      "text": "Han transcurrido quince minutos. Cambiando<n> a la\nfase \"ir a casa\". Buen trabajo."
     },
     {
-      "text": "Mihono Bourbon sigue mis órdenes y<n>se dirige\na su dormitorio, ¡tal como le<n>dije!",
+      "text": "¡Mihono Bourbon sigue mis órdenes<n> y se dirige a su\ndormitorio, justo como<n> le dije!",
       "choice_data_list": [
         "¡Muy bien!"
       ]
     },
     {
-      "text": "Aunque hay vidrio esparcido por todo<n>el piso de\nmi oficina, estoy de bastante<n>buen humor."
+      "text": "Aunque hay vidrios esparcidos por todo el <n>suelo de\nmi oficina, estoy de bastante buen humor."
     },
     {
-      "text": "Agrego que quiero que sea consciente<n>de la\ncarga física que pone en cada<n>músculo mientras\nentrena."
+      "text": "Añado que quiero que sea consciente de<n> la carga\nfísica que pone en cada <n>músculo mientras entrena."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Instrucciones reconocidas.\nIniciaré<n>entrenamiento de\nfuerza<n>inmediatamente."
+      "text": "Instrucciones reconocidas. Comenzaré<n> el\nentrenamiento de fuerza<n> de inmediato."
     },
     {
-      "text": "Ruego que las cosas vayan bien esta<n>vez y me\napresuro a mi oficina. En el<n>camino, otro\nentrenador que conozco me<n>llama."
+      "text": "Ruego porque las cosas salgan bien esta vez<n> y me\napresuro a mi oficina. En el camino, <n>otro\nentrenador que conozco me llama."
     },
     {
       "name": "Nuevo Entrenador",
-      "text": "Um, acabo de ver a Mihono Bourbon<n>con un\nmontón de neumáticos<n>atados a ella... ¿Está\nbien?",
+      "text": "Em, acabo de ver a Mihono Bourbon<n> con un montón de\nllantas atadas... <n>¿Está bien?",
       "choice_data_list": [
         "...!"
       ]
     },
     {
-      "text": "Me apresuro de vuelta para encontrar<n>una escena\ndescontrolada."
+      "text": "Me apresuro a volver y encuentro una escena\nsalvaje."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Carga abdominal suficiente\nconfirmada.<n>Reanudando ejercicio de\nentrenamiento de<n>fuerza uno—\"abdominales\"."
+      "text": "Carga abdominal suficiente confirmada. <n>Reanudando\nejercicio de entrenamiento de fuerza<n>\nuno—\"abdominales\"."
     },
     {
-      "text": "Luciendo una expresión seria, Mihono<n>Bourbon\ncontinúa sus abdominales con<n>un gran número de\nneumáticos atados a su<n>cintura."
+      "text": "Con una expresión seria, Mihono <n>Bourbon continúa\nsus abdominales con un<n> gran número de llantas\natadas a su<n> cintura."
     }
   ]
 }

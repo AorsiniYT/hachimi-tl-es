@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento de verano, donde <n>pasaremos cada día\nentrenando duro, comienza<n> hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero antes que eso..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Tengo que ir al <i>hospital <i>otra <n></i>vez?</i> Y tú, eres algo\nmás."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Solo ve al campamento. Sabes <n>que no tienes que\nvenir conmigo, <n>¿verdad?",
+      "choice_data_list": [
+        "Olvídate de eso. ¡Vamos!",
+        "Olvídate de eso. ¡Vamos!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que Tosen Jordan se hace examinar<n> las\nuñas de los pies y recoge su medicina, nos<n>\nencontramos con todos en el campamento."
+    }
+  ]
+}

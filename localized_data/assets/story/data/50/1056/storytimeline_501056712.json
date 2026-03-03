@@ -3,31 +3,31 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Matikanefukukitaru no se presenta\nal<n>entrenamiento,"
+      "text": "Matikanefukukitaru no se presenta al\n<n>entrenamiento, así que voy a buscarla..."
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "El presagio de tener cuidado con los\nrayos...<n>¡¿otra vez?! Pero",
+      "text": "El presagio de cuidado con los rayos... <n>¡otra\nvez?! Pero ¿por qué? Está tan soleado afuera...",
       "choice_data_list": [
-        "Veo que estás ocupada con la adivinación...",
-        "Veo que estás ocupada con la adivinación..."
+        "Estás ocupada con la adivinación, veo...",
+        "Estás ocupada con la adivinación, veo..."
       ]
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "¡¿Entrenador?!"
+      "text": "¡Entrenador?!"
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Al mirar más de cerca... E-esas<n>nubes se ven",
+      "text": "Al inspeccionar más de cerca... Es-esas<n> nubes se\nven un poco amenazantes, ¿verdad?",
       "choice_data_list": [
-        "¿No se te está olvidando algo? Empieza con\n<i>e,</i>",
-        "¿No se te está olvidando algo? Empieza con\n<i>e,</i>"
+        "¿No estás olvidando algo? <i>¡Se llama <i></i>entrenamiento!</i>",
+        "¿No estás olvidando algo? <i>¡Se llama <i></i>entrenamiento!</i>"
       ]
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "¡Oooh!"
+      "text": "¡Ohhh!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -35,11 +35,11 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "¡Lo siento muchísimo!"
+      "text": "¡Lo siento muchooooo!"
     },
     {
       "name": "Monólogo",
-      "text": "Le echo una buena regañiza para que esto<n>no"
+      "text": "Le doy una tormenta de regaños para que <n>esto no\nvuelva a ocurrir."
     }
   ]
 }

@@ -3,27 +3,27 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Hoy es el día que Special Week y yo<n>acordamos\npara entrenar fuera de<n>la academia. O, bueno,\nese era el plan..."
+      "text": "Hoy es el día que Special Week y yo <n>acordamos para\nhacer algún entrenamiento fuera<n> de la academia. O,\nbueno, ese era el plan..."
     },
     {
       "name": "Special Week",
       "text": "Jadeo... jadeo...",
       "choice_data_list": [
-        "¿Qué pasa? Pareces distraída.",
-        "¿Qué pasa? Pareces distraída."
+        "¿Qué pasa? Pareces estar fuera de ti.",
+        "¿Qué pasa? Pareces estar fuera de ti."
       ]
     },
     {
       "name": "Special Week",
-      "text": "¿Eh? ¿D-de verdad? ¡Pero me siento bien!"
+      "text": "¿Eh? ¿Y-yo? Pero me siento bien"
     },
     {
       "name": "Special Week",
-      "text": "¡B-bueno! ¡Sigamos dando todo hoy!"
+      "text": "¡T-tenemos que seguir adelante! ¡Vamos a darlo<n>\ntodo hoy"
     },
     {
       "name": "Monólogo",
-      "text": "Sospecho que algo le pasa a Special<n>Week, pero\nlo dejo pasar por ahora<n>para enfocarme en su\nentrenamiento."
+      "text": "Sospecho que algo está pasando con Special<n> Week,\npero lo dejo por el momento para enfocarme<n> en su\nentrenamiento."
     },
     {
       "name": "Monólogo",
@@ -31,19 +31,19 @@
     },
     {
       "name": "Special Week",
-      "text": "¡Uf! ♪ ¡Otro día, otra gran sesión\nde<n>entrenamiento! Aunque siento que<n>podría\nhacer otra vuelta de carrera!"
+      "text": "¡Uf! ♪ Otro día, otra gran <n>sesión de\nentrenamiento. Me siento como<n> si pudiera correr\notro rato"
     },
     {
       "name": "Special Week",
-      "text": "¡Oh, tengo una idea! Entrenador, ¿qué tal<n>si\ncorro de regreso? Será como<n>entrenamiento extra—"
+      "text": "Oh, tengo una idea. Entrenador, ¿qué tal<n> si corro\nde regreso? Será como entrenar un<n> poco más"
     },
     {
       "name": "Niño pequeño",
-      "text": "¡Mami! ¡Quiero una croqueta! ¡La <i>quiero</i>!"
+      "text": "Mamá, quiero una croqueta. <i>La <i>quiero</i>"
     },
     {
       "name": "Madre",
-      "text": "¡Si comes ahora, no tendrás espacio<n>para la\ncena! Nos vamos a casa,<n>cariño."
+      "text": "Si comes ahora, no tendrás espacio <n>para la cena.\nVamos a casa, cariño"
     },
     {
       "name": "Special Week",
@@ -55,11 +55,11 @@
     },
     {
       "name": "Special Week",
-      "text": "¿Eh? ¡Oh, nada! Solo me recordó a mi<n>propia mamá, eso es todo."
+      "text": "¿Eh? Oh, no es nada. Solo me recordó a <n>mi propia\nmamá, eso es todo"
     },
     {
       "name": "Special Week",
-      "text": "Yo también solía molestarla por cosas y<n>que me regañara por ello.",
+      "text": "Yo también solía molestarla y recibía <n>regañinas\npor ello",
       "choice_data_list": [
         "¿La extrañas?",
         "¿La extrañas?"
@@ -67,107 +67,107 @@
     },
     {
       "name": "Special Week",
-      "text": "¡Claro que sí! Pero... está muy lejos. No<n>puedo verla así nomás."
+      "text": "Por supuesto que sí. Pero... está muy lejos. No\npuedo<n> simplemente ir a verla cuando quiera"
     },
     {
       "name": "Special Week",
-      "text": "Aunque ayer sí hablamos por teléfono."
+      "text": "Ayer hablamos por <n>teléfono, aunque"
     },
     {
       "name": "Special Week",
-      "text": "Me contó sobre la vaca de nuestra<n>vecina y cómo\ndio a luz a un nuevo<n>ternero\nrecientemente.<n>También habló de nuestras\nzanahorias y<n>cómo están creciendo muy grandes."
+      "text": "Me contó sobre la vaca de nuestro <n>vecino y cómo\ntuvo un nuevo ternero. También<n> habló sobre\nnuestras zanahorias y <n>cómo están creciendo muy\ngrandes"
     },
     {
       "name": "Special Week",
-      "text": "Hablamos mucho, y bueno... Me dio<n>nostalgia de\ncasa, así que le dije que<n>extrañaba su estofado\nde<n>zanahoria."
+      "text": "Hablamos mucho, y bien... Me hizo extrañar mi<n>\nhogar, así que le dije que extrañaba su estofado\nde<n> zanahoria"
     },
     {
       "name": "Special Week",
-      "text": "Me preguntó si estaba desanimada y si<n>estaba\nbien. Me dijo que no me<n>esforzara demasiado.\nSonaba muy<n>preocupada."
+      "text": "Me preguntó si me sentía mal y si <n>estaba bien. Me\ndijo que no me esforzara<n> demasiado. Sonaba muy\npreocupada"
     },
     {
       "name": "Special Week",
-      "text": "Quiero hacer sentir orgullosas a Mamá y<n>Mama, pero todo lo que hago es<n>preocuparlas...",
+      "text": "Quiero hacer que Mamá y mi madre estén orgullosas,<n>\npero solo causo preocupación...",
       "choice_data_list": [
-        "Por eso estás distraída hoy.",
-        "Por eso estás distraída hoy."
+        "Así que por eso estás fuera de ti hoy",
+        "Así que por eso estás fuera de ti hoy"
       ]
     },
     {
       "name": "Special Week",
-      "text": "Sí... <i>Suspiro...</i> Si tan solo estuviera aquí ahora..."
+      "text": "Sí... <i>Suspiro...</i> Ojalá estuviera aquí ahora..."
     },
     {
       "name": "Special Week",
-      "text": "Entonces podría decirle en persona—que<n>es un\npoco solitario, pero que aún<n>así me estoy\nesforzando."
+      "text": "Entonces podría decirle en persona que es un<n> poco\nsolitario, pero sigo haciendo mi mejor esfuerzo"
     },
     {
       "name": "Special Week",
-      "text": "Oh... Q-que tonta. No debería hablar de<n>esto\ncontigo. No quiero causarte<n>más problemas de los\nque ya te he<n>causado."
+      "text": "Oh... ¡T-tontería mía! No debería hablar<n> de esto\ncontigo. No quiero causarte <n>más problemas de los\nque ya tengo"
     },
     {
       "name": "Special Week",
-      "text": "De todos modos, ¡apuremos y regresemos a<n>la\nacademia! Espera, ¿qué es eso?",
+      "text": "De todos modos, apresurémonos y regresemos a <n>la\nacademia. Espera, ¿qué es eso!",
       "choice_data_list": [
-        "¿Qué qué?",
-        "¿Qué qué?"
+        "¿Qué es qué?",
+        "¿Qué es qué?"
       ]
     },
     {
       "name": "Special Week",
-      "text": "Allá... ¡en la librería! ¡Suzuka está en\nla<n>portada de esa revista!"
+      "text": "Allí... en la librería. Suzuka está<n> en la portada\nde esa revista"
     },
     {
       "name": "Monólogo",
-      "text": "Decidimos desviarnos y pasar por la<n>librería\npara comprar un ejemplar de<n>la revista en\ncuestión."
+      "text": "Decidimos desviarnos y parar en la<n> librería para\ncomprar una copia de <n>la revista en cuestión"
     },
     {
       "name": "Special Week",
-      "text": "¡Guau! ¡¿No es esta revista súper\nfamosa?!<n>¡Incluso la he visto en casa\nen<n>Hokkaido!"
+      "text": "¡Guau! ¿No es esta revista super famosa?<n> Incluso\nla he visto en mi hogar<n> en Hokkaido"
     },
     {
       "name": "Special Week",
-      "text": "Suzuka es increíble, ¿verdad? Siempre<n>está\ncorriendo en una carrera u<n>otra."
+      "text": "Suzuka es increíble, ¿no? Siempre está <n>corriendo\nen una carrera u otra"
     },
     {
       "name": "Special Week",
-      "text": "Hm, necesito dejar de quejarme y<n>trabajar lo\nsuficiente para estar en<n>la portada de revistas.",
+      "text": "Hm, necesito dejar de estar triste y <n>trabajar lo\nsuficiente para estar en la portada <n>de las\nrevistas",
       "choice_data_list": [
-        "Eso también le mostraría a tu mamá lo bien que lo\nestás haciendo.",
-        "Eso también le mostraría a tu mamá lo bien que lo\nestás haciendo."
+        "Eso también le mostraría a tu mamá lo bien que\nestás haciendo",
+        "Eso también le mostraría a tu mamá lo bien que\nestás haciendo"
       ]
     },
     {
       "name": "Special Week",
-      "text": "¿Eh? ¿Qué haría? Ah, ya entiendo."
+      "text": "¿Eh? ¿Qué sería? Oh, espera, entiendo"
     },
     {
       "name": "Special Week",
-      "text": "Si llego a la portada de una revista,<n>podría\nmostrarle a mi mamá que<n>estoy bien por mi\ncuenta."
+      "text": "Si llego a la portada de una revista,<n> podré\nmostrarle a mi mamá que estoy<n> bien por mi cuenta"
     },
     {
       "name": "Special Week",
-      "text": "¡Estoy segura de que eso la haría feliz!",
+      "text": "Seguro que la haría feliz",
       "choice_data_list": [
-        "¡Ese es el espíritu!",
-        "¡Ese es el espíritu!"
+        "Ese es el espíritu",
+        "Ese es el espíritu"
       ]
     },
     {
       "name": "Special Week",
-      "text": "¡Sí! Gracias, Entrenador."
+      "text": "Sí. Gracias, Entrenador"
     },
     {
       "name": "Special Week",
-      "text": "Puede que no haya vastos pastizales aquí<n>para\ncorrer, y mis campos de<n>zanahoria\nfavoritos<n>pueden faltar, pero..."
+      "text": "Puede que no haya vastos pastos aquí <n>para correr,\ny mis campos de zanahorias <n>favoritos pueden\nfaltar, pero..."
     },
     {
       "name": "Special Week",
-      "text": "¡Aún así me esforzaré al máximo! ¡Haré lo<n>que\nsea necesario para convertirme en<n>la mejor\nversión de mí misma!"
+      "text": "Voy a intentar con todas mis fuerzas. Haré lo que<n>\nsea para convertirme en la mejor versión <n>de mí\nmisma"
     },
     {
       "name": "Monólogo",
-      "text": "Special Week mira solemnemente al<n>cielo\nnocturno. Su semblante es de<n>tristeza, pero sus\nojos cuentan una<n>historia diferente—la chica es\nmuy<n>determinada."
+      "text": "Special Week mira solemnemente al cielo<n> de la\ntarde. Su complexión es de <n>tristeza, pero sus ojos\ncuentan una historia <n>diferente: la chica no es\nnada si no determinada"
     }
   ]
 }

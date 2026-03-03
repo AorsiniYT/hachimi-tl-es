@@ -2,41 +2,41 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, llevo a <chrname><n>a la\nenfermería para un chequeo."
+      "text": "Un día, llevo a <chrname><n> a la enfermería para un chequeo."
     },
     {
       "name": "???",
-      "text": "¡Oh! ¡Una cli—digo, una estudiante! ¡Hola!"
+      "text": "¡Oh! Un custo—¡quiero decir, un estudiante! ¡Hola!"
     },
     {
       "name": "???",
-      "text": "¿Estás lastimada? ¿Enferma? ¿Estresada? Lo\nque<n>sea, ¡yo trato todo!",
+      "text": "¿Estás herido? ¿Enfermo? ¿Estresado? ¡Lo<n> que sea,\nyo lo curo todo!",
       "choice_data_list": [
-        "¡¿Quién eres?!"
+        "¿Quién eres?!"
       ]
     },
     {
       "name": "???",
-      "text": "Bueno, considerando que estás en la<n>enfermería\nde la academia, diría que soy tu<n>enfermera\nescolar confiable. ¡Sip, solo una<n>empleada\nescolar promedio!",
+      "text": "Bueno, considerando que estás en la enfermería<n> de\nla academia, diría que eso me convierte en<n> tu\nconfiable enfermera escolar! ¡Sí, solo<n> una\nempleada escolar promedio!",
       "choice_data_list": [
-        "...¿No lo eres?"
+        "...¿No eres?"
       ]
     },
     {
       "name": "???",
-      "text": "¡Ajaja! Supongo que no puedo engañarte.\nMe<n>imagino que debería empezar por darte\nmi<n>nombre."
+      "text": "¡Ajaja! Supongo que no hay manera de <n>engañarte.\nSupongo que debería empezar dándote mi<n> nombre."
     },
     {
       "name": "???",
-      "text": "¡Ejem! ¡Permítame presentarme!"
+      "text": "¡Ahem! ¡Permíteme presentarme!"
     },
     {
       "name": "???",
-      "text": "Soy la (probable) salvadora de todas<n>las\nUmamusume, la (autoproclamada)<n>acupunturista\nlegendaria con el toque<n>mágico..."
+      "text": "Soy la (probable) salvadora de <n>todas las\nUmamusume, la (auto-proclamada)<n> legendaria\nacupunturista con el toque<n> mágico..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡La única Sasami Anshinzawa!<n>¿Ves? ¡Sin\npreocupaciones! ☆",
+      "text": "¡La única e inigualable Sasami Anshinzawa!<n> ¿Ves?\n¡No te preocupes! ☆",
       "choice_data_list": [
         "..."
       ]
@@ -51,390 +51,153 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Dios! ¡Pareces muy preocupada! ☆"
+      "text": "¡Caramba! ¡Pareces preocupado! ☆"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No importa! ¡No importa! Ya nos<n>presentamos,\nasí que acuéstate y déjame<n>poner estas agujas a\ntrabajar!"
+      "text": "¡No importa! ¡No importa! Ya nos hemos<n> presentado,\nasí que acuéstate y déjame <n>poner estas agujas a\ntrabajar!"
     },
     {
       "name": "Curren Chan",
-      "text": "¡Eep! ¡¿Agujas?!"
+      "text": "¡Eep! ¿¡Agujas!?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Jajaja! ¡No hay que asustarse! Solo voy<n>a\ndeslizar extraordinarias agujas<n>precisamente en\ntus puntos de<n>chakra."
+      "text": "¡Jajaja! ¡No hay necesidad de asustarse! <n>Todo lo\nque voy a hacer es deslizar estas agujas<n>\nextraordinarias precisamente en tus puntos<n> de\nchakra."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y voilà, presto! ¡Algo<n>indescriptible\nsucederá!",
+      "text": "¡Entonces, voilà, presto! ¡Algo<n> indescriptible\nsucederá!",
       "choice_data_list": [
         "(Esto es indescriptiblemente sospechoso...)"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y déjame asegurarte que no hay<n>absolutamente\nnada sospechoso en esto!<n>¡Nunca ha salido menos\nque perfectamente!"
+      "text": "¡Y permíteme asegurarte, <n>no hay absolutamente nada\nsospechoso <n>en esto! ¡Nunca ha ido nada menos que<n>\nperfecto!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "...Para mi maestra.",
+      "text": "...Para mi maestro.",
       "choice_data_list": [
-        "¡¿Para tu maestra?! ¡¿Y para ti?!"
+        "¿¡Para tu maestro!? ¿¡Y para ti!?"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No te preocupes! Esta es mi primera vez,\nasí<n>que técnicamente, ¡tampoco he<n>fallado a un\npaciente!"
+      "text": "¡No te preocupes! Esta es mi primera vez, así<n> que\ntécnicamente, ¡tampoco he fallado nunca con <n>un\npaciente!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y no es que no tenga experiencia! Pasé<n>diez\naños bajo una maestra legendaria,<n>trayendo\nbeb—digo, ¡entrenando!"
+      "text": "¡Y no es como si no tuviera experiencia! Pasé<n> diez\naños bajo un maestro legendario,<n> trayendo\ngotas—¡quiero decir, entrenando!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¿Ves? ¡Sin preocupaciones! ☆",
+      "text": "¿Ves? ¡No te preocupes! ☆",
       "choice_data_list": [
-        "(¡Tenemos que salir de aquí, rápido!)"
+        "(¡Necesitamos salir de aquí, ya!)"
       ]
     },
     {
-      "text": "No hay forma de que hagamos esto. Tomo a<n>\n<chrname> y me dirijo a la<n>puerta,\ncuando..."
+      "text": "De ninguna manera vamos a hacer esto. Tomo<n> a <chrname> y me\ndirijo a la <n>puerta, cuando..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡E-espera! ¡¿Adónde vas?!"
+      "text": "¡E-espera! ¿¡A dónde van!?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡¿Tú eres Curren Chan, verdad?! ¡La<n>Umamusume\nque, a pesar de ya ser una<n>Umastagrammer popular,\nsigue explorando<n>las profundidades de la\nternura!",
+      "text": "¡Eres Curren Chan, ¿verdad?! La <n>Umamusume que, a\npesar de ya ser una <n>popular Umastagrammer,\ncontinúa explorando<n> las profundidades de la\nlindura!",
       "choice_data_list": [
-        "¿Has oído de ella?"
+        "¿La conoces?"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¿Si he oído de ella? ¡Claro que sí!<n>¡Soy una\ngran fan!"
+      "text": "¿He oído hablar de ella? ¡Por supuesto que sí!<n>\n¡Soy una gran fan!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Por eso mismo estoy aquí! ¡Para darte mi<n>apoyo!\n¡Déjame ayudarte!"
+      "text": "¡Es precisamente por eso que estoy aquí! <n>¡Para\ndarte mi apoyo! ¡Déjame ayudarte!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Solo dame una oportunidad! ¡Poooor favor!"
+      "text": "¡Dame una oportunidad! ¡Por faaavor!"
     },
     {
       "name": "Curren Chan",
-      "text": "Guau... ¿Qué deberíamos hacer? Quizás<n>deberíamos\nayudarla..."
+      "text": "¡Guau...! ¿Qué deberíamos hacer? Quizás<n> deberíamos\nayudarla..."
     },
     {
       "name": "Curren Chan",
-      "text": "Guau... ¿Qué deberíamos hacer? Quizás<n>deberíamos\nayudarla..."
+      "text": "¡Guau...! ¿Qué deberíamos hacer? Quizás<n> deberíamos\nayudarla..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Por favor! ¡Por favor con una zanahoria<n>encima!\n¡Hasta te dejaré elegir qué<n>chakra activo!"
+      "text": "¡Por favor! ¡Por faaavor con zanahoria<n> encima!\n¡Incluso te dejaré elegir<n> qué chakra activo!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Estoy <i>segura</i> de que no la voy a<n>estropear!"
+      "text": "<i>¡Estoy <i>segura</i> de que no voy a meter la pata!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno... bastante segura.",
+      "text": "Bueno... más o menos segura.",
       "choice_data_list": [
-        "¡¿Bastante segura?!"
+        "<i>¿¡<i>Más o menos</i> segura!?"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Digo, ¡está del lado seguro! Eso es\n<i>bueno,</i><n>¿verdad? De todos modos, ¡no\nte<n>detengas en los detalles!"
+      "text": "¡Quiero decir, está del lado seguro! ¡Eso es\n<i>bueno,</i> <n></i>¿verdad? De todos modos, no te quedes\natascado en<n> los detalles!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Vamos a lo bueno! ¿Qué chakra<n>debería activar?\n¿Quieres un impulso<n>a tus habilidades?\n¿Tu salud? ¿O quizás<n>tu <i>encanto?</i>"
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debería<n> activar?\n¿Quieres un impulso a tus <n>habilidades? ¿Tu salud?\n¿O quizás tu <n><i>encanto?</i>"
     },
     {
-      "text": "Huelo peligro en el aire, pero calculo<n>que\ntal vez—y enfatizo <i>tal vez</i>—haya<n>una posibilidad de\nobtener algo especial<n>con este tratamiento."
+      "text": "Huelo peligro en el aire, pero calculo<n> que\npodría—y enfatizo <i>podría</i>—haber <n></i>una oportunidad de\nobtener algo especial<n> de este tratamiento."
     },
     {
       "text": "¿Qué deberíamos hacer?",
       "choice_data_list": [
         "Activar el chakra de fuerza.",
-        "Activar el chakra ganador.",
-        "Activar el chakra de salud.",
-        "Activar el chakra de encanto.",
-        "Esto es muy sospechoso. Salgamos mientras podamos."
+        "Activar el chakra de la victoria.",
+        "Activar el chakra de la salud.",
+        "Activar el chakra del encanto.",
+        "Esto es demasiado sospechoso. Abandonemos mientras\naún podamos."
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de fuerza?"
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que <n>active el\nchakra de fuerza?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
+      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
       "choice_data_list": [
         "Adelante.",
-        "Espera, aguarda."
+        "Espera, aguanta."
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! ¡Hora de<n>localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
+      "text": "¡Muy bien, déjalo en mis manos! ¡Es hora de\n<n>localizar ese chakra! ¡Ollie, ollie, todos libres!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ahora, solo reláaajate... ¿Ves? ¡Sin preocupaciones! ☆"
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y... pinchazo!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "¡Oof!"
-    },
-    {
-      "text": "¡Pinchazo Perfecto!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "¡Esto es una locura!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "¡Esto es una locura!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "¡Siento que soy una persona completamente\nnueva!<n>¡Podría ser incluso más tierna que antes!"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "<i>Gasp...</i> ¿Estás bromeando...? ¡¿En<n>realidad\nfuncionó?!"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy una<n>genio\ntotal!"
-    },
-    {
-      "text": "¡<chrname> está rebosante<n>de tanto\npoder que casi es<n>irreconocible!"
-    },
-    {
-      "text": "¡Arriesgamos y valió la pena! ¡Esto es un<n>gran\nsalto hacia lograr nuestra meta!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Oh..."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Guau... Me siento débil... Creo que<n>podría estar\nterminada por hoy..."
-    },
-    {
-      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Así que... Eso fue todo, supongo..."
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
-    },
-    {
-      "text": "Debería haber sabido que no debíamos<n>tentar a la\nsuerte. No soy quien sufre, pero<n>estoy lleno de\narrepentimiento."
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra ganador?"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
-      "choice_data_list": [
-        "Adelante.",
-        "Espera, aguarda un momento."
-      ]
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! ¡Hora de<n>localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin<n>preocupaciones! ☆"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "¡Y... pinchazo!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "¡Oof!"
-    },
-    {
-      "text": "¡Pinchazo Perfecto!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "¡Esto es una locura!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "¡Esto es una locura!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "¡Siento que soy una persona completamente nueva!\nYo<n>podría ser"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "<i>Gasp...</i> ¿Estás bromeando...? ¡¿En<n>realidad\nfuncionó?!"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy una<n>genio\ntotal!"
-    },
-    {
-      "text": "¡Puedo notar una gran mejora en las<n>habilidades\nde <chrname>!"
-    },
-    {
-      "text": "¡Arriesgamos y valió la pena! ¡Esto es un<n>gran\nsalto hacia lograr nuestra meta!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Oh..."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Guau... Me siento débil... Creo que<n>podría estar\nterminada por hoy..."
-    },
-    {
-      "text": "La condición de <chrname><n>se\ndeteriora rápidamente."
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Así que... Eso fue todo, supongo..."
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿miras la hora? ¡Debería<n>irme! ¡Adiós! ☆"
-    },
-    {
-      "text": "Debería haber sabido que no debíamos<n>tentar a la\nsuerte. No soy quien sufre, pero<n>estoy lleno de\narrepentimiento."
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. ¿Así que quieres que active<n>el\nchakra de salud?"
-    },
-    {
-      "name": "S极mi Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás lista?<n>¡No hay\nvuelta atrás después!",
-      "choice_data_list": [
-        "Adelante.",
-        "Espera, aguarda."
-      ]
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! ¡Hora de<n>localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Ahora, solo relááájate... ¿Ves? ¡Sin<n>preocupaciones! ☆"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "¡Y... pinchazo!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "¡O极f!"
-    },
-    {
-      "text": "¡Pinchazo Perfecto!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "¡Esto es una locura!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "¡Esto es una locura!"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "¡Siento que soy una persona completamente nueva!\nYo<n>podría ser"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "<i>¡Santo cielo...</i> Estás bromeando... ¿De verdad<n>funcionó?!"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "¡No puede ser! ¡No lo creo! ¡Soy un<n>genio total!"
-    },
-    {
-      "text": "Todo el cuerpo de <chrname> está<n>irradiando una"
-    },
-    {
-      "text": "¡Nos arriesgamos y valió la pena! Esto es<n>un\ngran"
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Oh..."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Uf... Me siento sin fuerzas... Creo que\npodría<n>estar acabado"
-    },
-    {
-      "text": "La condición de <chrname><n>empeora"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Así que... Eso es todo, supongo..."
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿miras la hora? Yo<n>debería irme"
-    },
-    {
-      "text": "Debí saber que no era buena idea tentar a<n>la\nsuerte. Estoy"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. Entonces, quieres que active<n>el"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "¡Pues empecemos! ¿Estás listo?<n>No hay",
-      "choice_data_list": [
-        "Adelante.",
-        "Espera, aguarda."
-      ]
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! Hora de localizar<n>ese"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Ahora, solo reláaajate... ¿Ves? ¡Sin preocupaciones! ☆"
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "¡Yyy pinchazo!"
+      "text": "¡Y pinchazo!"
     },
     {
       "name": "Curren Chan",
       "text": "¡Uf!"
     },
     {
-      "text": "¡Pinchazo perfecto!"
+      "text": "¡Pinchazo Perfecto!"
     },
     {
       "name": "Curren Chan",
@@ -446,21 +209,21 @@
     },
     {
       "name": "Curren Chan",
-      "text": "¡Siento que soy una persona completamente nueva!\nYo<n>podría ser"
+      "text": "¡Me siento como una persona completamente nueva!<n>\n¡Podría ser incluso más linda que antes!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "<i>¡Santo cielo...</i> Estás bromeando... ¿De verdad<n>funcionó?!"
+      "text": "<i>Jadeo...</i> Estás bromeando... ¡¿En serio<n> funcionó?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No puede ser! ¡No lo creo! ¡Soy un<n>genio total!"
+      "text": "¡No puede ser! ¡No puedo creerlo! ¡Soy un <n>genio\ntotal!"
     },
     {
-      "text": "¡<chrname> está rebosando<n>de encanto!"
+      "text": "<chrname> está rebosante<n> de tanta potencia que casi no<n> es\nreconocible!"
     },
     {
-      "text": "¡Nos arriesgamos y valió la pena! Esto es<n>un\ngran"
+      "text": "¡Arriesgamos y pagó! ¡Este es un <n>gran salto hacia\nlograr nuestra meta!"
     },
     {
       "name": "Curren Chan",
@@ -468,10 +231,10 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Uf... Me siento sin fuerzas... Creo que\npodría<n>estar acabado"
+      "text": "Guau... Me siento sin fuerzas... Creo que quizás<n>\nestoy hecho por hoy..."
     },
     {
-      "text": "La condición de <chrname><n>empeora"
+      "text": "La condición de <chrname><n> se deteriora rápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -479,14 +242,251 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿miras la hora? Yo<n>debería irme"
+      "text": "Bueno, ¿mira la hora? <n>¡Debería irme! ¡Adiós! ☆"
     },
     {
-      "text": "Debí saber que no era buena idea tentar a<n>la\nsuerte. Estoy"
+      "text": "Debería haber sabido mejor que probar nuestra\n<n>suerte. Yo no soy el que sufre, y sin embargo\nestoy <n>lleno de remordimiento."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Oh, vamos! ¡No seas así!",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active <n>el\nchakra de la victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguanta."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Es hora de\n<n>localizar ese chakra! ¡Ollie, ollie, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Uf!"
+    },
+    {
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Esto es una locura!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Esto es una locura!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Me siento como una persona completamente nueva!<n>\n¡Podría ser incluso más linda que antes!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> Estás bromeando... ¡¿En serio<n> funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No puedo creerlo! ¡Soy un <n>genio\ntotal!"
+    },
+    {
+      "text": "¡Puedo percibir una enorme mejora en las<n>\nhabilidades de <chrname>!"
+    },
+    {
+      "text": "¡Arriesgamos y pagó! ¡Este es un <n>gran salto hacia\nlograr nuestra meta!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oh..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Guau... Me siento sin fuerzas... Creo que quizás<n>\nestoy hecho por hoy..."
+    },
+    {
+      "text": "La condición de <chrname><n> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? <n>¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debería haber sabido mejor que probar nuestra\n<n>suerte. Yo no soy el que sufre, y sin embargo\nestoy <n>lleno de remordimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active<n> el\nchakra de la salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguanta."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Es hora de\n<n>localizar ese chakra! ¡Ollie, ollie, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Uf!"
+    },
+    {
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Esto es una locura!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Esto es una locura!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Me siento como una persona completamente nueva!<n>\n¡Podría ser incluso más linda que antes!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> Estás bromeando... ¡¿En serio<n> funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No puedo creerlo! ¡Soy un <n>genio\ntotal!"
+    },
+    {
+      "text": "¡Todo el cuerpo de <chrname><n> está irradiando un brillo\nsaludable! ¡Es<n> el retrato absoluto de la salud!"
+    },
+    {
+      "text": "¡Arriesgamos y pagó! ¡Este es un <n>gran salto hacia\nlograr nuestra meta!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oh..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Guau... Me siento sin fuerzas... Creo que quizás<n>\nestoy hecho por hoy..."
+    },
+    {
+      "text": "La condición de <chrname><n> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? <n>¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debería haber sabido mejor que probar nuestra\n<n>suerte. Yo no soy el que sufre, y sin embargo\nestoy <n>lleno de remordimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active<n> el\nchakra del encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, aguanta."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Es hora de\n<n>localizar ese chakra! ¡Ollie, ollie, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Uf!"
+    },
+    {
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Esto es una locura!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Esto es una locura!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Me siento como una persona completamente nueva!<n>\n¡Podría ser incluso más linda que antes!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> Estás bromeando... ¡¿En serio<n> funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No puedo creerlo! ¡Soy un <n>genio\ntotal!"
+    },
+    {
+      "text": "¡<chrname> está rebosante<n> de encanto! ¡Seguro que llama la\natención<n> dondequiera que vaya!"
+    },
+    {
+      "text": "¡Arriesgamos y pagó! ¡Este es un <n>gran salto hacia\nlograr nuestra meta!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oh..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Guau... Me siento sin fuerzas... Creo que quizás<n>\nestoy hecho por hoy..."
+    },
+    {
+      "text": "La condición de <chrname><n> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? <n>¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debería haber sabido mejor que probar nuestra\n<n>suerte. Yo no soy el que sufre, y sin embargo\nestoy <n>lleno de remordimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh, venga! ¡No seas así!",
       "choice_data_list": [
         "Rechazar.",
         "Reconsiderar."
@@ -494,15 +494,15 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Oye! ¡Tú ahí! Espero que sepas que<n>los intrusos\n<i>sí</i>"
+      "text": "¡Oye! ¡Tú allí! ¡Espero que sepas que<n> los <i>intrusos\n<i>serán</i> procesados!</i>"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Aah! ¡Me descubrieron!"
+      "text": "¡Gah! ¡Me han descubierto!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¡me largo de aquí! ☆"
+      "text": "Bueno, ¡me voy de aquí! ☆"
     },
     {
       "name": "Tazuna Hayakawa",
@@ -510,52 +510,52 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Tazuna es increíble... Quizás esa\nseñora<n>realmente era"
+      "text": "Tazuna es increíble... Quizás esa señora<n> realmente\nera peligrosa..."
     },
     {
       "name": "Curren Chan",
-      "text": "Ejeje. Gracias por protegerme. ♪ Si<n>alguna vez\nestoy en",
+      "text": "Ehehe. Gracias por protegerme. ♪ Si alguna<n> vez\nestoy en problemas de nuevo, probablemente<n> debería\nsimplemente salir de allí corriendo.",
       "choice_data_list": [
         "De acuerdo.",
         "De acuerdo."
       ]
     },
     {
-      "text": "Tengo curiosidad de quién es realmente\neste<n>personaje Anshinzawa"
+      "text": "Tengo curiosidad sobre quién es <n>realmente este\npersonaje Anshinzawa, pero no <n>sirve de nada\nrumiarlo. Mejor olvidar el día de<n> hoy y seguir\nadelante."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¿Cambiaste de opinión, no? Sin<n>problemas, eso"
+      "text": "¿Has cambiado de opinión, eh? No te<n> preocupes, ¡es\nnormal!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Adelante, dime qué chakra quieres<n>que yo"
+      "text": "¡Adelante y dime qué chakra quieres<n> que active,\nentonces!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡¿Y bien?! ¡No nos dejes con la duda! Espera un<n>"
+      "text": "¡¿Bueno?! ¡No nos dejes en suspense! Espera<n> un\nsegundo... ¿Cuánto tiempo llevo aquí?"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Oye! ¡Tú ahí! Espero que sepas que<n>los intrusos\n<i>sí</i>"
+      "text": "¡Oye! ¡Tú allí! ¡Espero que sepas que<n> los <i>intrusos\n<i>serán</i> procesados!</i>"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Aah! ¡Me descubrieron!"
+      "text": "¡Gah! ¡Me han descubierto!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¡me largo de aquí! ☆"
+      "text": "Bueno, ¡me voy de aquí! ☆"
     },
     {
       "name": "Tazuna Hayakawa",
       "text": "¡Oye! ¡Alto ahí!"
     },
     {
-      "text": "La situación da un giro inesperado antes de\nque<n>pueda"
+      "text": "La situación toma un giro agudo antes de que<n> pueda\ntomar una decisión."
     },
     {
-      "text": "¿De qué se trató todo eso?<n><chrname>"
+      "text": "¿Qué fue todo eso?<n> <chrname> y yo nos<n> miramos perplejos."
     }
   ]
 }

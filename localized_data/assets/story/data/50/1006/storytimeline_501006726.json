@@ -2,16 +2,16 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
-      "text": "Un día, mientras andamos por ahí con<n>Oguri Cap..."
+      "name": "monólogo",
+      "text": "Un día, mientras andaba por ahí con Oguri<n> Cap..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Ooh..."
+      "text": "¡Oh..."
     },
     {
       "name": "Monólogo",
-      "text": "Está mirando fijamente una máquina de<n>garra\nllena de peluches de Umamusume.",
+      "text": "Ella está mirando una máquina de garra llena<n> de\npeluches de Umamusume.",
       "choice_data_list": [
         "¿Quieres un peluche?",
         "¿Quieres un peluche?"
@@ -19,33 +19,33 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Solo me recuerdan a los peluches que<n>Masa solía\ndarme."
+      "text": "Solo me recuerdan a los peluches<n> que Masa solía\ndarme."
     },
     {
       "name": "Oguri Cap",
-      "text": "Cada vez que ganaba una carrera, Masa<n>me traía\nun peluche para motivarme a<n>seguir con el buen\ntrabajo."
+      "text": "Cada vez que ganaba una carrera, <n>Masa me traía un\npeluche para motivarme a <n>seguir con el buen\ntrabajo."
     },
     {
       "name": "Oguri Cap",
-      "text": "Eran peluches caseros de forma extraña,<n>pero\nrealmente me hacían<n>feliz.",
+      "text": "Eran peluches hechos en casa con <n>formas extrañas,\npero realmente me hacían<n> feliz.",
       "choice_data_list": [
-        "¡Muy bien, consigamos uno!"
+        "¡Muy bien, vamos a conseguir uno!"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "¿E-estás segura? Supongo que sí quiero<n>uno,\npero... ¿por qué?",
+      "text": "¿E-estás seguro? La verdad sí quiero uno,<n> pero...\n¿por qué?",
       "choice_data_list": [
-        "¡Quiero mantenerte motivada!"
+        "¡Quiero seguir motivándote!"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Oh... Gracias. Me alegra oírte decir<n>eso. En ese\ncaso, estaré<n>animándote."
+      "text": "Oh... Gracias. Me hace feliz escuchar<n> que digas\neso. En ese caso, te<n> estaré animando."
     },
     {
       "name": "Monólogo",
-      "text": "No hay forma de que falle."
+      "text": "No hay manera de que pueda fallar."
     }
   ]
 }

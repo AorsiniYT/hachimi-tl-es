@@ -2,24 +2,24 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
-      "text": "Un día en el dormitorio, hay un programa<n>de\nviajes en la tele."
+      "name": "Narración",
+      "text": "Un día en la residencia, hay un programa <n>de viajes\nen la TV."
     },
     {
       "name": "Special Week",
-      "text": "¡Wow! ¡Qué bonito es eso!"
+      "text": "¡Guau! ¡Eso sí que es bonito!"
     },
     {
       "name": "Seiun Sky",
-      "text": "¿Aguas termales escondidas? Suena a un<n>viaje que\nvale la pena hacer."
+      "text": "Aguas termales escondidas, ¿eh? Seguro que suena<n>\ncomo un viaje que vale la pena."
     },
     {
       "name": "Silence Suzuka",
-      "text": "(Jeje. Spe está de muy buen humor<n>hoy.)"
+      "text": "(Hehe. Spe está de tan buen <n>humor hoy.)"
     },
     {
       "name": "Silence Suzuka",
-      "text": "(Mmm... Hablando de aguas termales...)"
+      "text": "(Hm... Hablando de aguas termales...)"
     },
     {
       "name": "Silence Suzuka",
@@ -27,31 +27,31 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "¿Recuerdas que gané ese cupón de<n>vacaciones en\naguas termales en la rifa del<n>distrito\ncomercial?"
+      "text": "¿Recuerdas cómo gané ese cupón de<n> vacaciones en\naguas termales en la rifa<n> del distrito comercial?"
     },
     {
-      "name": "Monólogo",
-      "text": "Ahora que lo mencionas, sí me acuerdo..."
-    },
-    {
-      "name": "Silence Suzuka",
-      "text": "¿A quién debería invitar? Las vacaciones\nson<n>ocasiones tan especiales, después de todo..."
+      "name": "Narración",
+      "text": "Ah que lo pienso, sí recuerdo..."
     },
     {
       "name": "Silence Suzuka",
-      "text": "¿Podrías guardarme este cupón<n>por favor?"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Pensándolo bien, he estado guardando<n>ese cupón\ndesde entonces."
+      "text": "¿A quién debería invitar? Las vacaciones son\n<n>ocasiones especiales, después de todo..."
     },
     {
       "name": "Silence Suzuka",
-      "text": "No podía decidir qué quería hacer con<n>él en ese\nmomento, pero..."
+      "text": "¿Crees que podrías guardarme <n>este cupón, por\nfavor?"
+    },
+    {
+      "name": "Narración",
+      "text": "Pensando en ello, he estado guardando ese<n> cupón a\nsalvo desde entonces."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Creo que ahora lo sé. ¿Te gustaría ir<n>conmigo?",
+      "text": "No podía decidir qué quería hacer con<n> él en ese\nentonces, pero..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Creo que lo sé ahora. ¿Te gustaría ir<n> conmigo?",
       "choice_data_list": [
         "¿Me estás invitando?",
         "¿Me estás invitando?"
@@ -62,50 +62,50 @@
       "text": "Sí. Me encantaría que vinieras."
     },
     {
-      "name": "Monólogo",
-      "text": "Remojándome en las aguas termales..."
+      "name": "Narración",
+      "text": "Remojándome en el agua termal..."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Eso estuvo maravilloso. Estaba tan<n>tranquilo, y\nel agua estaba bien calientita."
+      "text": "Eso fue maravilloso. Estaba tan tranquilo, y el<n>\nagua estaba agradable y caliente."
     },
     {
-      "name": "Monólogo",
-      "text": "Las aguas termales eran tan relajantes<n>como\ndice. Casi pierdo la noción del\ntiempo<n>relajándome ahí.",
+      "name": "Narración",
+      "text": "El agua termal era tan relajante como <n>dice ella.\nCasi pierdo la noción del tiempo <n>mientras me\nrelajaba allí.",
       "choice_data_list": [
-        "Quizá me remojé demasiado. Me siento un poco\nmareado."
+        "Puede que me haya remojado un poco demasiado. Me\nsiento un poco mareado."
       ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "¡Oh no!..."
+      "text": "Oh no..."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Jeje... Sé qué podemos hacer para<n>ayudarte a\nenfriarte.",
+      "text": "Hehe... Sé qué podemos hacer para ayudarte<n> a\nrefrescarte.",
       "choice_data_list": [
-        "¿En serio?"
+        "¿De verdad?"
       ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "Sí, justo estaba pensando que me<n>gustaría dar\nun paseo afuera."
+      "text": "Sí, estaba pensando en cómo me <n>gustaría salir a\ncaminar afuera."
     },
     {
       "name": "Silence Suzuka",
       "text": "¿Te gustaría acompañarme?"
     },
     {
-      "name": "Monólogo",
-      "text": "Camino con Silence Suzuka por un camino<n>rural\nque parece extenderse por millas."
+      "name": "Narración",
+      "text": "Caminé con Silence Suzuka por un camino<n> rural que\nparece extenderse por millas."
     },
     {
       "name": "Silence Suzuka",
-      "text": "¿No se siente súper bien la brisa?"
+      "text": "¿No se siente genial la brisa?"
     },
     {
-      "name": "Monólogo",
-      "text": "Se ve tan feliz, que no puedo evitar<n>preguntarme\nsi la razón por la que quiso<n>venir de vacaciones\nera disfrutar de la<n>naturaleza exuberante\nalrededor de la posada.",
+      "name": "Narración",
+      "text": "Se ve tan feliz, que no puedo evitar preguntarme<n>\nsi la razón por la que quería irse de <n>vacaciones\nera para disfrutar de la exuberante <n>naturaleza\nalrededor del posada.",
       "choice_data_list": [
         "Es tan abierto por aquí.",
         "Es tan abierto por aquí."
@@ -113,11 +113,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "¿Verdad? Parece que este camino podría<n>seguir para\nsiempre."
+      "text": "¿Verdad? Parece que este camino podría continuar<n>\npara siempre."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Apuesto a que si empezara a correr,<n>podría ver\nmontones de paisajes nuevos...",
+      "text": "Apuesto a que si empezara a correr, podría <n>ver\ntodo tipo de paisajes nuevos...",
       "choice_data_list": [
         "No vas a salir corriendo de repente, ¿verdad?",
         "No vas a salir corriendo de repente, ¿verdad?"
@@ -129,59 +129,59 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Sí que me apetece salir a correr..."
+      "text": "Sí tengo ganas de salir a correr..."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Pero justo ahora, este es exactamente<n>el lugar\ndonde quiero estar."
+      "text": "Pero ahora mismo, esto es exactamente donde<n> quiero\nestar."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Quiero quedarme a tu lado, caminando<n>juntos al\nmismo ritmo."
+      "text": "Quiero quedarme a tu lado, caminando<n> juntos al\nmismo ritmo."
     },
     {
-      "name": "Monólogo",
-      "text": "Me sorprende por un momento su<n>anuncio\ninesperado."
-    },
-    {
-      "name": "Silence Suzuka",
-      "text": "¿Recuerdas cuando nos conocimos?<n>El paisaje en\naquella época era justo así."
+      "name": "Narración",
+      "text": "Me sorprendo por un momento con<n> su inesperado\nanuncio."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Desde entonces, he corrido tanto, y<n>visto tantos\npaisajes diferentes."
+      "text": "¿Recuerdas cuando nos conocimos? El<n> paisaje en ese\nentonces era justo como este."
     },
     {
       "name": "Silence Suzuka",
-      "text": "A veces corría tan rápido que ni<n>siquiera podía\nver lo que había alrededor.",
+      "text": "Desde entonces, he corrido tanto, y he visto<n>\ntantos paisajes diferentes."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "A veces corría tan rápido que ni siquiera <n>podía\nver lo que había a mi alrededor.",
       "choice_data_list": [
         "...Sí.",
         "...Sí."
       ]
     },
     {
-      "name": "Monólogo",
-      "text": "El camino que hemos recorrido para<n>llegar hasta\naquí es justo como este por el<n>que estamos\ncaminando ahora—con baches,<n>áspero, y\ncualquier cosa menos fácil de<n>atravesar."
+      "name": "Narración",
+      "text": "El camino que hemos recorrido para llegar <n>hasta\naquí es justo como este por el que estamos<n>\ncaminando ahora —irregular, áspero y <n>cualquier\ncosa menos fácil de transitar."
     },
     {
-      "name": "Monólogo",
-      "text": "Y durante tres años, no hemos hecho<n>más que\ncorrer por él con determinación."
-    },
-    {
-      "name": "Silence Suzuka",
-      "text": "Quizá por eso me siento así."
+      "name": "Narración",
+      "text": "Y durante tres años, no hemos hecho más que<n> correr\npor él con determinación."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Como si estuviera bien tomar las cosas<n>con calma\nde vez en cuando, y simplemente<n>avanzar un paso\na la vez..."
+      "text": "Quizás por eso me siento así."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Todo mientras disfruto de nuevos<n>paisajes contigo."
+      "text": "Como que está bien tomar las cosas con<n> calma de\nvez en cuando, y simplemente<n> avanzar un paso a la\nvez..."
     },
     {
-      "name": "Monólogo",
-      "text": "Sus ojos brillan como estrellas fugaces<n>en el\ncielo nocturno.",
+      "name": "Silence Suzuka",
+      "text": "Todo mientras disfruto de nuevos paisajes contigo."
+    },
+    {
+      "name": "Narración",
+      "text": "Sus ojos brillan como estrellas fugaces en<n> el\ncielo nocturno.",
       "choice_data_list": [
         "Tienes razón.",
         "Tienes razón."
@@ -189,19 +189,19 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Espero poder ver más paisajes nuevos<n>en el futuro."
+      "text": "Espero poder ver más paisajes nuevos<n> en el futuro."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Y espero que todavía estés a mi lado<n>cuando lo haga."
+      "text": "Y espero que aún estés a mi lado <n>cuando lo haga."
     },
     {
-      "name": "Monólogo",
-      "text": "Pasamos el resto de la caminata por<n>ese\ninterminable camino rural con\nbaches<n>intercambiando solo unas pocas\npalabras<n>de vez en cuando."
+      "name": "Narración",
+      "text": "Pasamos el resto del paseo por esa interminable,<n>\ncarretera rural irregular intercambiando<n> solo unas\npocas palabras de vez en cuando."
     },
     {
-      "name": "Monólogo",
-      "text": "Siento que Silence Suzuka y yo hemos<n>formado un\nvínculo irremplazable durante este<n>tiempo juntos."
+      "name": "Narración",
+      "text": "Siento que Silence Suzuka y yo hemos <n>formado un\nvínculo irremplazable durante este<n> tiempo juntas."
     }
   ]
 }

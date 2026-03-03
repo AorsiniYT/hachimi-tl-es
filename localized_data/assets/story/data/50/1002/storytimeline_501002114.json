@@ -2,60 +2,60 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
-      "text": "Ya entrando en la segunda mitad de\nfebrero,<n>seguimos con los preparativos para\nla<n>Copa Yayoi en este frío."
+      "name": "Narración",
+      "text": "Acercándose a la segunda mitad de febrero,<n> estamos\ncontinuando nuestros preparativos <n>para el Yayoi\nSho en el clima frío."
     },
     {
-      "name": "Monólogo",
+      "name": "Narración",
       "text": "Un día..."
     },
     {
       "name": "Special Week",
-      "text": "<i>Jaah... Jaah...</i>"
+      "text": "<i>Jadeo... Jadeo...</i>"
     },
     {
       "name": "Silence Suzuka",
-      "text": "Vaya, mira a Spe. Ese neumático que arrastra<n>es enorme.",
+      "text": "Guau, mira a Spe. Esa llanta que está tirando<n> es\nenorme.",
       "choice_data_list": [
-        "¿Está esforzándose mucho, eh?",
-        "¿Está esforzándose mucho, eh?"
+        "Ella está trabajando duro, ¿eh?",
+        "Ella está trabajando duro, ¿eh?"
       ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "Sí. Últimamente, también sale<n>a correr por las\nmañanas."
+      "text": "Sí. Recientemente, también ha estado saliendo<n> a\ncorrer por la mañana."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Me pregunto por qué entrena así..."
+      "text": "Me pregunto por qué está entrenando así..."
     },
     {
       "name": "Special Week",
-      "text": "¡Oh! ¡Suzuka! ¡Oye!"
+      "text": "¡Oh! Suzuka! ¡Oye!"
     },
     {
       "name": "Special Week",
-      "text": "Em, ¿quieres hacer un trote en<n>pareja conmigo\ndespués del entrenamiento hoy?"
+      "text": "Eh, ¿quieres hacer un poco de carrera <n>en pareja\nconmigo después del entrenamiento hoy?"
     },
     {
-      "name": "Monólogo",
-      "text": "Silence Suzuka acepta, y ambas salen<n>a trotar en\npareja después de nuestra<n>sesión."
+      "name": "Narración",
+      "text": "Silence Suzuka acepta, y las dos van<n> a carrera en\npareja después de nuestra<n> sesión."
     },
     {
-      "name": "Monólogo",
-      "text": "Special Week persigue a Silence<n>Suzuka con todas\nsus fuerzas, pero Silence<n>Suzuka logra\nmantenerse adelante<n>sin casi sudar."
+      "name": "Narración",
+      "text": "Special Week persigue a Silence<n> Suzuka con todas\nsus fuerzas, pero<n> Silence Suzuka logra mantenerse\npor<n> delante sin sudar mucho."
     },
     {
       "name": "Silence Suzuka",
-      "text": "¡Uff!"
+      "text": "¡Uf!"
     },
     {
       "name": "Special Week",
-      "text": "<i>Uff... Uff...</i>"
+      "text": "<i>Jadeo... Jadeo...</i>"
     },
     {
       "name": "Special Week",
-      "text": "Urgh... Supongo que aún no estoy lista.\nDebo<n>esforzarme más..."
+      "text": "Urgh... Supongo que aún no estoy lista. Tengo que<n>\ntrabajar más duro..."
     },
     {
       "name": "Silence Suzuka",
@@ -63,31 +63,31 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "¡Oh, Spe! ¿Otra vez trotando en pareja<n>por aquí?"
+      "text": "¡Oh, Spe! ¿Estás aquí haciendo carrera en pareja<n>\nde nuevo?"
     },
     {
       "name": "Special Week",
-      "text": "Hola, Sei. Sí, solo un poco. Jeje..."
+      "text": "Hola, Sei. Sí, solo un poco. Hehe..."
     },
     {
       "name": "Silence Suzuka",
-      "text": "¿\"Otra vez\"?"
+      "text": "\"¿De nuevo\"?"
     },
     {
       "name": "Seiun Sky",
-      "text": "Últimamente, viene todos los días,<n>trotando en\npareja con casi cualquiera,<n>a pesar de ser\ndespués del horario de entrenamiento."
+      "text": "Últimamente, ella ha estado aquí todos los días,\n<n>haciendo carrera en pareja con casi cualquier\npersona, <n>incluso aunque sea después del horario de\nentrenamiento."
     },
     {
       "name": "Seiun Sky",
-      "text": "No te agotes demasiado, ¿de acuerdo?"
+      "text": "No te quemes, ¿vale?"
     },
     {
       "name": "Special Week",
-      "text": "Gracias, no lo haré. Nos vemos luego."
+      "text": "Gracias, no lo haré. Hasta luego."
     },
     {
       "name": "Special Week",
-      "text": "Uff... Muy bien, Suzuka. ¿Qué tal si hacemos<n>una más—"
+      "text": "Uf... Muy bien, Suzuka. ¿Qué tal una<n> más—"
     },
     {
       "name": "Special Week",
@@ -95,21 +95,21 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "¡¿Estás bien?!"
+      "text": "¿Estás bien?!"
     },
     {
       "name": "Special Week",
-      "text": "A-ajaja... Perdí la sensación en las piernas.",
+      "text": "A-ahaha... Perdí la sensación en mis piernas.",
       "choice_data_list": [
-        "¿No crees que te has estado esforzando un poco\nde más?"
+        "¿No crees que has estado trabajando un poco\ndemasiado duro?"
       ]
     },
     {
       "name": "Special Week",
-      "text": "¡¿Eh?! ¡No! ¡Para nada!",
+      "text": "¿¡Eh!? ¡No! ¡Para nada!",
       "choice_data_list": [
-        "El descanso adecuado es tan importante como el\nentrenamiento, sabes.",
-        "El descanso adecuado es tan importante como el\nentrenamiento, sabes."
+        "El descanso adecuado es tan importante como el\nentrenamiento, lo sabes.",
+        "El descanso adecuado es tan importante como el\nentrenamiento, lo sabes."
       ]
     },
     {
@@ -126,31 +126,31 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "¿Por qué haces todo esto?"
+      "text": "¿Por qué estás haciendo todo esto?"
     },
     {
       "name": "Special Week",
-      "text": "¿A qué te refieres?"
+      "text": "¿Qué quieres decir?"
     },
     {
       "name": "Silence Suzuka",
-      "text": "No paras, corriendo por la<n>mañana y por la\nnoche, incluso después del entrenamiento..."
+      "text": "Has estado en ello sin parar, corriendo por <n>la\nmañana y la noche, incluso después del\nentrenamiento..."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Tanto que casi te desmayas hace<n>un momento..."
+      "text": "Tanto que casi te desmayaste hace un <n>momento..."
     },
     {
       "name": "Silence Suzuka",
-      "text": "¿Por qué te exiges tanto?"
+      "text": "¿Por qué te estás esforzando así?"
     },
     {
-      "name": "Monólogo",
-      "text": "Es una pregunta sencilla, y aunque<n>inicialmente\nla recibe con pausa, no parece<n>que tenga nada\nque ocultar."
+      "name": "Narración",
+      "text": "Es una pregunta simple, y aunque <n>inicialmente\nrecibida con una pausa, no <n>parece que ella tenga\nnada que ocultar."
     },
     {
       "name": "Special Week",
-      "text": "Em... Bueno..."
+      "text": "Eh... Bueno..."
     },
     {
       "name": "Special Week",
@@ -162,15 +162,15 @@
     },
     {
       "name": "Special Week",
-      "text": "Sí. Pero ahora mismo, no soy lo<n>suficientemente buena."
+      "text": "Sí. Pero ahora mismo, no soy lo suficientemente<n>\nbuena."
     },
     {
       "name": "Special Week",
-      "text": "Por eso me esfuerzo tanto cada<n>día—¡para\nmejorar!"
+      "text": "Es por eso que he estado intentando tan duro<n> cada\ndía—para ¡mejorar!"
     },
     {
       "name": "Special Week",
-      "text": "Cada día, poco a poco, intento<n>acercarme a ser\nla mejor Uma Musume<n>de Japón!"
+      "text": "¡Cada día, poco a poco, intento acercarme<n> más a\nconvertirme en la mejor Umamusume<n> de Japón!"
     },
     {
       "name": "Silence Suzuka",
@@ -178,18 +178,18 @@
     },
     {
       "name": "Special Week",
-      "text": "Así que, sí... En resumen, eso es todo... ¿Eh?",
+      "text": "Entonces, sí... En pocas palabras, eso es todo...\n¿Eh?",
       "choice_data_list": [
         "¿Suzuka?"
       ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "Oh... Lo siento, es que me sorprendí<n>un poco."
+      "text": "Oh... Lo siento, solo estaba un poco<n> sorprendida."
     },
     {
       "name": "Silence Suzuka",
-      "text": "(Ese neumático enorme... Salir a correr\ntemprano...<n>Trotar en pareja por la tarde... Lo\nmucho que<n>intentaba alcanzarme...)"
+      "text": "(Esa llanta enorme... Correr temprano en la\n<n>mañana... Carrera en pareja por la noche... <n>Cuánto\nse esforzaba por alcanzarme...)"
     },
     {
       "name": "Silence Suzuka",
@@ -197,47 +197,47 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "(¿Será que todas las demás son así?)"
+      "text": "(¿Todos los demás también son así?)"
     },
     {
-      "name": "Monólogo",
-      "text": "Después, Silence Suzuka convence a la<n>agotada\nSpecial Week de regresar a<n>su dormitorio antes\nde que el sol se ponga por completo."
+      "name": "Narración",
+      "text": "Después, Silence Suzuka convence a la exhausta<n>\nSpecial Week de regresar a su residencia<n> antes de\nque el sol se ponga completamente."
     },
     {
-      "name": "Monólogo",
-      "text": "Unos días después, hay un partido de<n>práctica en\nlos terrenos de la academia."
+      "name": "Narración",
+      "text": "Unos días después, hay una práctica en los<n>\nterrenos de la academia."
     },
     {
       "name": "Silence Suzuka",
-      "text": "<i>Uff... Jaah...</i>"
+      "text": "<i>Jadeo... Jadeo...</i>"
     },
     {
       "name": "Monólogo",
-      "text": "Como era de esperar, Silence Suzuka logra<n>quedar\nprimera. Sin embargo..."
+      "text": "Como era de esperar, Silence Suzuka logra tomar<n> el\nprimer lugar. Sin embargo..."
     },
     {
-      "name": "Uma Musume A",
-      "text": "¡Ugh! ¡Otra vez no pude alcanzarla!"
+      "name": "Umamusume A",
+      "text": "¡Ugh! ¡No pude alcanzarla de nuevo!"
     },
     {
       "name": "Silence Suzuka",
       "text": "...!"
     },
     {
-      "name": "Uma Musume A",
-      "text": "¡¿Por qué?! Después de todo... ¡Después de<n>todo\nel esfuerzo que hice!"
+      "name": "Umamusume A",
+      "text": "¿¡Por qué?! Después de todo... ¡Después de todo el<n>\ntrabajo que he hecho!"
     },
     {
-      "name": "Uma Musume A",
+      "name": "Umamusume A",
       "text": "<i>Sollozo...</i>"
     },
     {
       "name": "Monólogo",
-      "text": "No es la primera vez que Silence Suzuka<n>se\nencuentra rodeada de<n>Uma Musume devastadas por\nsu fracaso<n>al no poder seguirle el ritmo."
+      "text": "Esta no es la primera vez que Silence <n>Suzuka se ha\nencontrado rodeada de<n> Umamusume devastadas por su\nincapacidad<n> de seguirle el ritmo."
     },
     {
       "name": "Monólogo",
-      "text": "Pero hasta ahora, no les prestaba<n>atención—o más\nbien, ni siquiera se<n>daba cuenta de que ocurría."
+      "text": "Pero hasta ahora, no les prestó atención—o<n> más\nbien, ni siquiera se dio cuenta de<n> que ocurría."
     },
     {
       "name": "Silence Suzuka",
@@ -245,7 +245,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Ahora, un cambio ha comenzado a<n>ocurrir dentro de ella."
+      "text": "Ahora, un cambio ha comenzado a surgir en su\n<n>interior."
     }
   ]
 }

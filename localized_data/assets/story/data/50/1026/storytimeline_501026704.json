@@ -3,18 +3,18 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Mihono Bourbon y yo vamos de regreso<n>a casa\ncuando ella lanza una pregunta."
+      "text": "Mihono Bourbon y yo volvemos a <n>casa cuando ella\nsuelta una pregunta."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Entrenador, ¿tienes algo de tiempo libre<n>el\npróximo día que descansemos?",
+      "text": "Entrenador, ¿tienes tiempo disponible para <n>nuestro\npróximo día libre?",
       "choice_data_list": [
-        "¡Claro! ¿Quieres entrenar?"
+        "Claro, ¿quieres entrenar?"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "No. Te lo explicaré con detalle ese día."
+      "text": "No. Te lo explicaré en detalle ese día."
     },
     {
       "name": "Mihono Bourbon",
@@ -22,11 +22,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Y con eso, Mihono Bourbon regresa<n>a su\ndormitorio."
+      "text": "Y con eso, Mihono Bourbon regresa a<n> su residencia."
     },
     {
       "name": "Monólogo",
-      "text": "Quizás solo me lo imagino, pero parecía<n>que\nsonreía al irse."
+      "text": "Tal vez solo estoy imaginando cosas,<n> pero parecía\nque sonreía al irse."
     },
     {
       "name": "Monólogo",
@@ -34,67 +34,67 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Llevamos dos minutos de adelanto.<n>El tren\ndebería llegar pronto.",
+      "text": "Vamos dos minutos adelantados.<n> El tren debería\nllegar pronto.",
       "choice_data_list": [
-        "¿Adónde vamos?",
-        "¿Adónde vamos?"
+        "¿A dónde vamos?",
+        "¿A dónde vamos?"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Eso es algo que te toca anticipar<n>con ilusión."
+      "text": "Eso es algo que debes esperar con <n>ilusión."
     },
     {
       "name": "Monólogo",
-      "text": "De algún modo parece distinta a lo<n>habitual,\ntanto en sus palabras como en<n>su comportamiento."
+      "text": "De alguna manera parece diferente a lo habitual,\ntanto<n> en sus palabras como en su comportamiento."
     },
     {
       "name": "Monólogo",
-      "text": "¿Tendrá esto que ver con eso de<n>los \"recuerdos\nvaliosos\"?"
+      "text": "¿Esto tiene algo que ver con eso <n>de los \"recuerdos\npreciosos\"?"
     },
     {
       "name": "Monólogo",
-      "text": "Puede que aún no sepa qué vamos a<n>hacer, pero\nseguro que no es nada malo.<n>Decido quedarme\ntranquilo y seguirla."
+      "text": "Todavía no sé qué estamos haciendo,<n> pero\nseguramente no es nada malo. Decido<n> quedarme\ncallado y seguirla."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Llegamos.",
+      "text": "Hemos llegado.",
       "choice_data_list": [
         "¿Una granja?"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Sí. Cuando era pequeña, fui una vez con<n>mis\npadres a entrenar cerca de una<n>granja."
+      "text": "Sí. Cuando era joven, una vez fui con mis <n>padres a\nentrenar cerca de una granja."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "De regreso a casa, compartimos una<n>comida en\nla granja."
+      "text": "De regreso a casa, compartimos una comida<n> en la\ngranja."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Pensé que me gustaría hacer lo mismo<n>contigo,\nasí que te invité a venir.",
+      "text": "Pensé que me gustaría hacer lo mismo<n> contigo, así\nque te invité aquí.",
       "choice_data_list": [
-        "¡Ah, ¡conque era eso!"
+        "¡Ah, así que eso es!"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Sí. Primero, echemos un vistazo.<n>Después,\npodemos comprar helado."
+      "text": "Sí. Primero, demos una vuelta. <n>Después, podemos\ncomer un helado."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Tengo un mapa del interior de la<n>granja\nmemorizado. Sé dónde están<n>todas las\ninstalaciones, así que<n>deja la navegación en mis\nmanos."
+      "text": "Tengo un mapa del interior de la granja<n> grabado en\nla memoria. Sé dónde están <n>ubicadas todas las\ninstalaciones, así que deja la <n>navegación en mis\nmanos."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Ahora, fijaré nuestro destino, y nos<n>apuraremos\nhacia..."
+      "text": "Ahora, estableceré nuestro destino, y nos<n>\napresuraremos a..."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...No, deberíamos tomárnoslo con<n>calma. He\ndeterminado que no hay<n>motivo para apresurarnos.",
+      "text": "...No, deberíamos tomarnos nuestro tiempo. He<n>\ndeterminado que no hay razón para apresurarse.",
       "choice_data_list": [
-        "Vamos a relajarnos, entonces."
+        "Tomémoslo con calma, entonces."
       ]
     },
     {
@@ -103,11 +103,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Damos una larga vuelta por la granja,<n>rodeados\ndel aroma nostálgico de la<n>hierba fresca."
+      "text": "Dedicamos mucho tiempo a recorrer la <n>granja,\nrodeados por el nostálgico olor a<n> hierba fresca."
     },
     {
       "name": "Monólogo",
-      "text": "Después de almorzar y comer helado,<n>Mihono\nBourbon inicia una conversación<n>con calma."
+      "text": "Después de terminar el almuerzo y comer <n>un helado,\nMihono Bourbon inicia calmadamente<n> una\nconversación."
     },
     {
       "name": "Mihono Bourbon",
@@ -115,17 +115,17 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Creo que hoy he creado un recuerdo<n>\"valioso\"\ncontigo."
+      "text": "Creo que he creado un recuerdo <n>\"precioso\" contigo\nhoy."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Hasta ahora, no entendía qué<n>significaba\n\"valioso\", ni comprendía los<n>criterios para\ndeterminar esa<n>importancia."
+      "text": "Hasta ahora, no entendía lo que <n>\"precioso\"\nsignificaba, ni comprendía los<n> criterios para\ndeterminar dicha<n> importancia."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Fue desafiante...",
+      "text": "Fue un desafío...",
       "choice_data_list": [
-        "Solo relájate y tómatelo con calma."
+        "Solo relájate y tómalo con calma."
       ]
     },
     {
@@ -134,31 +134,31 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...Para decirlo simple, lo que me<n>faltaba no era\ncomprensión, sino<n>realización."
+      "text": "...Para decirlo simplemente, lo que me faltaba<n> no\nera comprensión, sino realización."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Después de verte esforzarte tanto por<n>mí, al fin\nme di cuenta."
+      "text": "Después de verte trabajar tan duro por<n> mi bien,\nfinalmente lo entendí."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Para mí, los días normales que<n>damos por\nsentado son los que más<n>atesoro."
+      "text": "Para mí, los días normales que damos<n> por sentado\nson los que más atesoro."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Cuando decidí mi sueño de niña,<n>mis padres\nhicieron todo lo posible por<n>apoyarme."
+      "text": "Cuando decidí mi sueño de niño, <n>mis padres\nhicieron todo lo posible <n>por apoyarme."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Entrenaba con mi padre todos los<n>días sin falta,\ny mi madre nos<n>supervisaba."
+      "text": "Entrenaría con Padre todos los<n> días sin fallar, y\nMadre nos <n>vigilaba."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "No tengo muchos recuerdos de<n>jugar como\notros niños, pero..."
+      "text": "No tengo muchos recuerdos de <n>jugar como otros\nniños, pero..."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Ahora veo que pasé mucho más<n>tiempo con mis\npadres que la mayoría<n>de mis compañeros."
+      "text": "Ahora veo que pasé mucho más tiempo con<n> mis padres\nque la mayoría de mis compañeros."
     },
     {
       "name": "Mihono Bourbon",
@@ -166,78 +166,78 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Fueron tiempos alegres."
+      "text": "Eran tiempos alegres."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Ya fuera mi entrenamiento diario, o<n>simplemente\nuna comida con mi<n>familia..."
+      "text": "Ya fuera mi entrenamiento diario, o <n>simplemente\nuna comida con mi familia..."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Todos esos fueron recuerdos<n>\"valiosos\" para\nmí.",
+      "text": "Todos esos eran recuerdos \"preciosos\" <n>para mí.",
       "choice_data_list": [
-        "Parece que fue una época maravillosa para ti.",
-        "Parece que fue una época maravillosa para ti."
+        "Parece que fue un tiempo maravilloso para ti.",
+        "Parece que fue un tiempo maravilloso para ti."
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "S-sí... Así es."
+      "text": "S-sí... Eso es correcto."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Entonces... en aquel entonces, cuando<n>no pude\nresponder de inmediato al<n>preguntarme sobre\nrecuerdos<n>\"valiosos\" contigo..."
+      "text": "Así que... en ese entonces, cuando no pude\nresponder<n> inmediatamente cuando me preguntaron<n>\nsobre los recuerdos \"preciosos\" contigo..."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Me confundió, pero ahora me doy<n>cuenta de que\nla razón es bastante<n>simple."
+      "text": "Me confundió, pero ahora me doy cuenta<n> de que la\nrazón es bastante simple."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Es porque <i>todo</i> mi tiempo contigo me<n>es\nvalioso.",
-      "choice_data_list": [
-        "¿Incluso este mismo momento?",
-        "Yo siento lo mismo.",
-        "Yo siento lo mismo.",
-        "Me alegra oír eso."
-      ]
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Es porque <i>todo</i> mi tiempo contigo me<n>es\nvalioso.",
+      "text": "Es porque <i>todo</i> mi tiempo contigo es<n> precioso para\nmí.",
       "choice_data_list": [
         "¿Incluso este mismo momento?",
-        "Yo siento lo mismo.",
-        "Yo siento lo mismo.",
-        "Me alegra oír eso."
+        "Me siento igual.",
+        "Me siento igual.",
+        "Me hace feliz escuchar eso."
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Sí. He determinado que este mismo<n>momento\ntambién lo es."
+      "text": "Es porque <i>todo</i> mi tiempo contigo es<n> precioso para\nmí.",
+      "choice_data_list": [
+        "¿Incluso este mismo momento?",
+        "Me siento igual.",
+        "Me siento igual.",
+        "Me hace feliz escuchar eso."
+      ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Sin embargo, continuar así podría<n>ser\nproblemático en el futuro.",
+      "text": "Sí. He determinado que este mismo<n> momento es lo\nmismo."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sin embargo, continuar de esta manera <n>podría ser\nproblemático en el futuro.",
       "choice_data_list": [
         "¿Por qué?"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "A este paso, mi registro de\nmemoria<n>probablemente se inundará de<n>recuerdos\ntuyos."
+      "text": "A este ritmo, mi registro de memoria <n>probablemente\nse inundará con recuerdos<n> de ti."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Esto debe abordarse de inmediato.<n>Por favor,\ndime cómo puedo solucionar<n>este problema."
+      "text": "Esto debe abordarse de inmediato. Por<n> favor, dime\ncómo puedo rectificar este<n> problema."
     },
     {
       "name": "Monólogo",
-      "text": "Mihono Bourbon vuelve a su ser<n>habitual, pero\npuedo ver una leve sonrisa en<n>su rostro."
+      "text": "Mihono Bourbon vuelve a su yo habitual,<n> pero puedo\nver una leve sonrisa en su<n> rostro."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "¿Tú... quieres decir eso?",
+      "text": "¿Quieres decir... eso?",
       "choice_data_list": [
         "¡Por supuesto!"
       ]
@@ -248,11 +248,11 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Entrenar contigo me hace sentir la<n>misma calidez\nen el corazón que cuando<n>era niña."
+      "text": "Entrenar contigo me hace sentir <n>el mismo calor en\nmi corazón que sentía<n> de niño."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Así que creo que esto también se<n>convertirá en\nun recuerdo \"valioso\"."
+      "text": "Así que creo que esto también se convertirá en<n> un\nrecuerdo \"precioso\"."
     },
     {
       "name": "Mihono Bourbon",
@@ -260,13 +260,13 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Hay algo diferente en este<n>sentimiento\n\"valioso\" comparado con lo<n>que sentía de niña."
+      "text": "Hay algo diferente en este sentimiento<n> \"precioso\"\nen comparación con lo que<n> sentía de niño."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "¿Eso te hace feliz?",
+      "text": "¿Te hace feliz?",
       "choice_data_list": [
-        "Por supuesto. Me alegra que valores nuestro\ntiempo juntos."
+        "Por supuesto. Me hace feliz que valores nuestro\ntiempo juntos."
       ]
     },
     {
@@ -275,22 +275,22 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Yo... eh, yo... El tiempo que paso<n>entrenando\ncontigo... Incluso este mismo<n>momento..."
+      "text": "Yo... eh, yo... El tiempo que paso entrenando\n<n>contigo... Incluso este mismo momento..."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Todo es... muy valioso para mí.",
+      "text": "Es todo... muy precioso para mí.",
       "choice_data_list": [
         "¡Gracias!"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...No entiendo el significado de tu<n>gratitud."
+      "text": "...No entiendo el significado <n>de tu gratitud."
     },
     {
       "name": "Monólogo",
-      "text": "Mihono Bourbon murmura esta<n>débil respuesta\nevadiendo la mirada."
+      "text": "Mihono Bourbon murmura esta tenue respuesta<n>\nmientras desvía la mirada."
     }
   ]
 }

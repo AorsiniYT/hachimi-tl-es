@@ -2,42 +2,44 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "いよいよエイシンフラッシュの\nメイクデビューだが、彼女はというと――"
+      "name": "Monólogo",
+      "text": "Finalmente es el momento del debut de Eishin\nFlash.<n> Esperaba que estuviera más nerviosa,\npero..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――30分後には発走ですね。\r\n最終確認を済ませておきましょう。",
+      "name": "Eishin Flash",
+      "text": "La carrera comienza en treinta minutos, así que\ntomemos<n> el tiempo para completar nuestras\nrevisiones<n> finales.",
       "choice_data_list": [
-        "落ち着いてるな",
-        "落ち着いてるね"
+        "No pareces asustada en absoluto.",
+        "No pareces asustada en absoluto."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "緊張する理由がありませんから。"
+      "name": "Eishin Flash",
+      "text": "No hay razón para tener miedo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私は今日のために、トレーナーさんと\nトレーニングを重ねてきました。"
+      "name": "Eishin Flash",
+      "text": "He estado entrenando metódicamente contigo<n> para\neste mismo día, después de todo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "であれば後は、やるべきことをやるだけ。\n違いますか？"
+      "name": "Eishin Flash",
+      "text": "Todo lo que queda es seguir con nuestro<n> plan. ¿Me\nequivoco?"
     },
     {
-      "text": "その通りだが、それでも感情が邪魔をして\n冷静になれない子も多い。",
+      "name": "Monólogo",
+      "text": "Ella tiene razón, pero hay muchos corredores<n> que\nson incapaces de mantener sus emociones<n> a raya y\nse sienten abrumados en tales<n> situaciones.",
       "choice_data_list": [
-        "やっぱり君はすごいね",
-        "やっぱり貴方はすごいね"
+        "Estoy realmente impresionado.",
+        "Estoy realmente impresionado."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……すごくありませんよ。\n当たり前のことをしているだけです。"
+      "name": "Eishin Flash",
+      "text": "No puedo ver por qué. Solo estoy haciendo lo <n>que\nse espera."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――発走25分前。\nでは、行ってまいります。"
+      "name": "Eishin Flash",
+      "text": "La carrera comienza en veinticinco<n> minutos. Me voy\nahora."
     }
   ]
 }

@@ -2,84 +2,86 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "エイシンフラッシュ",
-      "text": "申し訳ありません。\r\nまさかケガをしてしまうなんて……。"
+      "name": "Eishin Flash",
+      "text": "Me disculpo por sufrir tal lesión..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ですが、この程度でスケジュールを\r\n変更するわけにはいきません。"
+      "name": "Eishin Flash",
+      "text": "Sin embargo, no es lo suficientemente grave<n> como\npara justificar cambios en el horario."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "幸い軽傷ですから、\r\n少し休んだら練習に戻ろうと思います。",
+      "name": "Eishin Flash",
+      "text": "Con un poco de tiempo para descansar, debería\n<n>poder reanudar el entrenamiento como se planeó.",
       "choice_data_list": [
-        "今はしっかり休んで",
-        "続けられるのか？",
-        "続けられるの？"
+        "No te preocupes y solo descansa por ahora.",
+        "¿Estás segura de que puedes continuar?",
+        "¿Estás segura de que puedes continuar?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "幸い軽傷ですから、\r\n少し休んだら練習に戻ろうと思います。",
+      "name": "Eishin Flash",
+      "text": "Con un poco de tiempo para descansar, debería\n<n>poder reanudar el entrenamiento como se planeó.",
       "choice_data_list": [
-        "今はしっかり休んで",
-        "続けられるのか？",
-        "続けられるの？"
+        "No te preocupes y solo descansa por ahora.",
+        "¿Estás segura de que puedes continuar?",
+        "¿Estás segura de que puedes continuar?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "休んでいたら\r\n予定がどんどん遅れてしまいます……。",
+      "name": "Eishin Flash",
+      "text": "Si hago eso, terminaremos retrasando el <n>horario,\nsin embargo...",
       "choice_data_list": [
-        "悪化したら元も子もないぞ",
-        "悪化したら元も子もないよ"
+        "Y si tu lesión empeora, perderás todo tu progreso.",
+        "Y si tu lesión empeora, perderás todo tu progreso."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "確かに……おっしゃる通りですね。"
+      "name": "Eishin Flash",
+      "text": "Eso... es un punto válido."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "すみません、少し焦り過ぎていたようです。\r\n今は休養に専念します……。"
+      "name": "Eishin Flash",
+      "text": "Disculpas. La presión parece estar <n>afectándome. Me\nenfocaré en la recuperación<n> por ahora..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "調整、間に合うといいのですが……。"
+      "name": "Eishin Flash",
+      "text": "Solo espero que podamos volver al <n>camino\ndespués..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ええ、軽い走り込みくらいでしたら\r\n問題ないと思います。"
+      "name": "Eishin Flash",
+      "text": "Sí. Correr suave no debería ser un <n>problema."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……っ、く……！"
+      "name": "Eishin Flash",
+      "text": "...Ngh!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……やはり少し痛みますね。"
+      "name": "Eishin Flash",
+      "text": "Eso fue más doloroso de lo que esperaba."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "もっと練習しないと、いけないのに……。"
+      "name": "Eishin Flash",
+      "text": "Debo practicar más, y sin embargo..."
     },
     {
-      "text": "無理はしないよう釘を刺し、\r\nエイシンフラッシュをしっかり休養させた。"
+      "name": "Monólogo",
+      "text": "Advierto a Eishin Flash que no se presione y<n> le\ndoy un tiempo fuera para recuperarse."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――はぁっ……ふぅ……。"
+      "name": "Eishin Flash",
+      "text": "<i>Jadeo...</i> Uf..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……この感じですと、\r\n大丈夫そうですね。"
+      "name": "Eishin Flash",
+      "text": "...Hm, este nivel de incomodidad parece<n> manejable."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "早速、ケガの状態に合わせた\r\n新しい練習メニューを考えましょう。"
+      "name": "Eishin Flash",
+      "text": "Creemos un nuevo horario que<n> acomode mi lesión de\ninmediato."
     },
     {
-      "text": "エイシンフラッシュは無理のない\r\nトレーニングで無事に復帰したのだった。"
+      "name": "Monólogo",
+      "text": "Y así, volvemos a Eishin Flash a un régimen<n> de\nentrenamiento que no sea demasiado<n> agotador."
     }
   ]
 }

@@ -2,81 +2,81 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Una tarde, Meisho Doto me invita a<n>unirme a ella\npara practicar baile."
+      "text": "Una tarde, Meisho Doto me invita a <n>unirme a ella\npara practicar baile."
     },
     {
       "name": "Meisho Doto",
-      "text": "Uno, dos, tres, cuatro. Salto, paso, tres,<n>cuatro..."
+      "text": "Uno, dos, tres, cuatro. Salto, paso, tres,<n>\ncuatro..."
     },
     {
-      "text": "Noto que ha hecho un esfuerzo real por<n>mejorar.\nSu<n>contacto visual podría mejorar,<n>pero su\ntrabajo de pies es<n>sólido. Aun así...",
+      "text": "Puedo decir que ha hecho un verdadero esfuerzo<n> por\nmejorar. Su contacto visual podría<n> usar algo de\nmejora, pero su trabajo de pies <n>es sólido. Aun\nasí...",
       "choice_data_list": [
-        "Lo estás haciendo genial.",
-        "Lo haces de maravilla."
+        "Lo estás haciendo muy bien.",
+        "Lo estás haciendo muy bien."
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Waagh?! Dos, tres, cuatro! Uno, dos..."
+      "text": "¡Waaagh?! Dos, tres, cuatro. Uno, doo..."
     },
     {
       "name": "Meisho Doto",
-      "text": "Lo siento, es que... me da vergüenza cuando<n>la\ngente<br>me anima, y yo, pues... pierdo...<n>el\npaso...<br>Nngh."
+      "text": "L-lo siento, es que... me da vergüenza <n>cuando la\ngente me anima, y, um... pierdo... <n>el\nequilibrio... Nngh."
     },
     {
       "name": "Meisho Doto",
-      "text": "Uno, tres, dos, cuatro, uno?!",
+      "text": "¿Uno, tres, dos, cuatro, uno?!",
       "choice_data_list": [
-        "E-eh, ¿adónde te vas?",
-        "E-eh, ¿adónde te vas?"
+        "E-espera, ¿a dónde vas?",
+        "E-espera, ¿a dónde vas?"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¡Aah, no me puedo calmar!"
+      "text": "¡Eeek, n-no puedo frenar!"
     },
     {
       "name": "Meisho Doto",
-      "text": "Uff... Lo siento por lo que pasó... Me<n>bailé\nhasta<br>llegar a la esquina del<n>salón."
+      "text": "Uugh... Lo siento por eso... Me<n> bailé hasta la\nesquina de la <n>habitación."
     },
     {
       "name": "Meisho Doto",
-      "text": "¿Por qué me pasa esto? Cada vez<n>que siento que\nme observan, es como si mi<n>cuerpo dejara de\nresponder..."
+      "text": "¿Por qué me pasa esto? Cada vez que <n>siento que me\nestán observando, es como si mi <n>cuerpo dejara de\nobedecer..."
     },
     {
       "name": "Meisho Doto",
-      "text": "¿Qué podemos hacer? Si nada\ncambia,<n>mi<br>actuación en el concierto\nserá<n>un desastre...",
+      "text": "¿Qué debemos hacer? Si nada cambia, <n>mi actuación\nen el concierto será <n>un desastre...",
       "choice_data_list": [
-        "Vamos a fingir que nuestro ensayo es el verdadero.",
-        "Busquemos un amuleto para tener paz mental."
+        "Finjamos que nuestro ensayo es el verdadero\nconcierto.",
+        "Busquemos un amuleto de la suerte para\ntranquilizarnos."
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Eh... ¿la verdadera? ¿Qué quieres<n>decir\ncon<br>eso? —oh, eso no suena<n>muy bien..."
+      "text": "¿Eh... el verdadero concierto? ¿Q-qué<n> quieres\ndecir con—oh, eso no suena muy<n> bien..."
     },
     {
       "name": "Meisho Doto",
-      "text": "¡Aah! ¿Por qué hacemos un mini<n>concierto?\n¡Y<br>gente de verdad vino a<n>vernos?!"
+      "text": "¡Eeek! ¿P-por qué estamos haciendo <n>un mini\nconcierto? Y, ¿realmente hay gente aquí<n> para\nverlo?!"
     },
     {
       "name": "Meisho Doto",
-      "text": "P-por favor, no puedo. Yo haré las<n>disculpas,\nasí que<br>cancelen el concierto de<n>hoy —"
+      "text": "¡N-no hay manera! Yo me <n>disculparé, así que por\nfavor cancelen <n>el con—"
     },
     {
       "name": "Meisho Doto",
-      "text": "¿Eh?!"
+      "text": "¿¡Eh?!"
     },
     {
-      "text": "¡Wooooo!"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Oh no, ¿es... este el\nescenario?!<n>To-todos<br>están... Todos están\nmirándome<n>a mí, ¿verdad?"
+      "text": "Wooooo!"
     },
     {
       "name": "Meisho Doto",
-      "text": "¡Eep! ¡De verdad, de verdad que no puedo hacerlo!"
+      "text": "Oh no, ¿e-este es el escenario?!<n> T-todos... Todos\nme están mirando,<n> ¿verdad?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Eeep! De verdad, <i>de verdad</i> no puedo hacer esto!"
     },
     {
       "name": "T.M. Opera O",
@@ -84,7 +84,7 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "¡Qué entrada tan creativa y única!<n>Tú\nrealmente<n>eres un genio, Doto. Sin embargo,<n>mi\npropia inteligencia<n>se mantiene suprema!"
+      "text": "¡Qué entrada tan creativa y única! <n>Realmente eres\nun genio, Doto. Aunque, mi <n>propia inteligencia ¡es\nsuprema!"
     },
     {
       "name": "Meisho Doto",
@@ -92,22 +92,22 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Jejeje... Escuché que un aliado jurado<n>mío\nestaba<n>dando un pequeño concierto, y<n>pues...\n¡simplemente tenía que<n>venir y robar—digo...\n¡prestarte mi apoyo!"
+      "text": "Jejeje... Escuché que un aliado jurado<n> mío estaba\norganizando un mini <n>concierto, y así...\nsimplemente tuve que <n>venir y robe—digo... ¡te\napoyo!"
     },
     {
       "name": "T.M. Opera O",
-      "text": "Vamos, Doto. Debemos adornar este escenario<n>con\nnuestro<n>brillo único y novedoso—con\nél,<n>marcamos el<n>inicio de una nueva<n>era\nteatral!"
+      "text": "Ven, Doto. Debemos adornar este escenario<n> con\nnuestro espíritu único y novedoso—con<n> él, marcamos\nel comienzo de una<n> nueva era teatral!"
     },
     {
       "name": "Meisho Doto",
-      "text": "Ummm, espera un segundo... Es que este<n>concierto\nes<n>para que yo practique—¡Waaagh!"
+      "text": "Ummm, espera un segundo... Mira, este<n> concierto es\npara practicar—¡Waaagh!"
     },
     {
-      "text": "El lugar se llena de energía con la<n>llegada de\nnuestra<n>invitada especial. Meisho Doto<n>termina\nsu ecléctica<n>sesión de práctica con<n>algunas\nnuevas habilidades en la<manga."
+      "text": "El lugar estalla de energía con la <n>llegada de\nnuestra invitada especial. Meisho Doto<n> termina su\nsesión de práctica ecléctica con algunas<n>\nhabilidades nuevas bajo la manga."
     },
     {
       "name": "Meisho Doto",
-      "text": "P-pero, ¿crees que algo así\nde<n>conveniente...<n>realmente existe?"
+      "text": "P-pero, ¿crees que algo tan <n>conveniente...\nrealmente existe?"
     },
     {
       "name": "Matikanefukukitaru",
@@ -115,23 +115,23 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "¿Hwaaagh?!"
+      "text": "¡Hwaaagh?!"
     },
     {
       "name": "Meisho Doto",
-      "text": "E-eso me tomó por sorpresa... Oh, es<n>Fukukitaru."
+      "text": "E-eso me sorprendió... Oh, es<n> Fukukitaru."
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "¡El único e inigualable! Y sé justo el<n>encanto\npara<br>brindarte felicidad y paz<n>mental!"
+      "text": "¡La única! ¡Y conozco el amuleto<n> perfecto para\ndarte felicidad y <n>tranquilidad!"
     },
     {
       "name": "Meisho Doto",
-      "text": "Uf... ¿Entonces, puedes arreglarme? ¿Hay<n>algo\nque<br>pueda ayudar con mis nervios al bailar?"
+      "text": "Uugh... Entonces, ¿puedes curarme? <n>¿Hay algo que\npueda ayudar a mis nervios cuando<n> bailo?"
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "¡Claro que sí! Solo se necesita un<n>juego de\nrayuela con una<p>pierna alrededor de la\npista!<n>Es una carrera de<n>resistencia. Si\ntropiezas, ¡se<n>acabó el juego! ☆"
+      "text": "¡Por supuesto! Solo se necesita un juego<n> de\nrayuela de una pierna alrededor de la<n> pista. Es\nuna carrera de resistencia. ¡Si tropiezas,<n> se\nacabó! ☆"
     },
     {
       "name": "Meisho Doto",
@@ -139,14 +139,14 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Si eso es lo que se necesita... ¡Empezaré a\nsaltar<n>ahora mismo!"
+      "text": "Si eso es lo que se necesita... ¡Empezaré a saltar<n>\nahora mismo!"
     },
     {
       "name": "Meisho Doto",
-      "text": "¡Hgwaugh!"
+      "text": "Hgwaugh!"
     },
     {
-      "text": "Meisho Doto cae en su primer salto.<n>Esta\nsolución parece ser<n>un buen\nentrenamiento<br>adicional del core."
+      "text": "Meisho Doto tropieza inmediatamente en su <n>primer\nsalto. Esta solución parece servir <n>también como un\nbuen entrenamiento del núcleo."
     }
   ]
 }

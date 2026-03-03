@@ -2,179 +2,186 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "エイシンフラッシュ",
-      "text": "トレーナーさん、戻りました。",
+      "name": "Eishin Flash",
+      "text": "Entrenador, he vuelto.",
       "choice_data_list": [
-        "お疲れさま！"
+        "¡Buen trabajo!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。概ね想定通りの走りを\nできたかと思います。"
+      "name": "Eishin Flash",
+      "text": "Gracias. Pude correr en gran medida <n>dentro de mis\nparámetros previstos."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "この勢いを殺さずに、\n次は――",
+      "name": "Eishin Flash",
+      "text": "Me gustaría mantener este impulso y <n>prepararme\npara mi próxima carrera—",
       "choice_data_list": [
-        "いよいよ『日本ダービー』だな！",
-        "いよいよ『日本ダービー』だね！"
+        "¡El Japanese Derby!",
+        "¡El Japanese Derby!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。"
+      "name": "Eishin Flash",
+      "text": "Sí."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "『日本ダービー』まで、残りひと月――\nスケジュール通りに鍛えて……。"
+      "name": "Eishin Flash",
+      "text": "Solo queda un mes hasta el <n>Japanese Derby. Debo\ncontinuar entrenando<n> según el horario..."
     },
     {
-      "name": "フラッシュの母親",
-      "text": "『Es súper, genial, de primera,"
+      "name": "Madre de Flash",
+      "text": "¡Eres genial, <n>Flash!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……。"
+      "name": "Eishin Flash",
+      "text": "..."
     },
     {
-      "text": "帰り道、エイシンフラッシュはスマホに\n『ダービー　評価』と打ち込んでいた。",
+      "name": "Pensamiento",
+      "text": "De camino a casa, Eishin Flash busca el<n> término\n\"clasificación del Derby\" en su<n> teléfono.",
       "choice_data_list": [
-        "何してるんだ？",
-        "何してるの？"
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ウマート検索です。今皆さんが\n出走者たちをどう考えているのか、\nリアルタイムで追うことができます。"
+      "name": "Eishin Flash",
+      "text": "Buscando publicaciones en Umatter. Es una buena<n>\nforma de seguir el consenso general sobre las<n>\ncorredoras, ya que el público publica cosas en\n<n>tiempo real."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "『皐月賞』を終えて、私への目は\nどう変わったのか……。"
+      "name": "Eishin Flash",
+      "text": "Tengo curiosidad por ver si la opinión pública\n<n>sobre mí ha cambiado después del Satsuki Sho..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……出てきました。\n追いきれないほどの件数ですね。"
+      "name": "Eishin Flash",
+      "text": "Allí, la búsqueda está completa. El <n>número de\nresultados es asombroso..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "『敗れた夢の代わりに勝て！』\n『ライバルを今度こそ捉えてくれ』……。\n他のウマ娘への声援がほとんどです。"
+      "name": "Eishin Flash",
+      "text": "\"¡Toma tus sueños rotos y conviértelos<n> en\nvictoria!\" \"¡Vencerás a tu rival la próxima<n> vez!\"\nCasi todos parecen ser mensajes<n> de apoyo para\notras Umamusume."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……『ダービー　エイシンフラッシュ』\nではどうでしょうか。"
+      "name": "Eishin Flash",
+      "text": "¿Y si en cambio busco \"Derby\" y<n> \"Eishin Flash\"?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……結果は3190件。評価の声ばかりですが、\n全体を見ると私への言及は少ないですね。"
+      "name": "Eishin Flash",
+      "text": "Hay 3,190 resultados. Sin embargo, la <n>mayoría\nparecen ser evaluaciones generales<n> que no me\nmencionan directamente."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "やはりダービーは誰にとっても特別、\nそれぞれの思い入れが重要なのでしょうか。",
+      "name": "Eishin Flash",
+      "text": "Parece que todos tienen un <n>apego especial al Derby\ndebido a su <n>importancia para los involucrados.",
       "choice_data_list": [
-        "君にとっても特別なレースだ",
-        "貴方にとっても特別なレースだ"
+        "También es una carrera especial para ti.",
+        "También es una carrera especial para ti."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……“誰にとっても”、です。"
+      "name": "Eishin Flash",
+      "text": "No solo para mí. Para todos."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "今、評価されている皆さんには、\nそれだけの理由があります。"
+      "name": "Eishin Flash",
+      "text": "Todos los que están siendo juzgados ahora<n> tienen\nsu propia razón especial para correr<n> el Derby."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "やはり現状のままでは……。"
+      "name": "Eishin Flash",
+      "text": "Las cosas como están ahora..."
     },
     {
-      "text": "そう呟いたエイシンフラッシュは、\nしばらく黙り込んでしまった……。"
+      "name": "Pensamiento",
+      "text": "La voz de Eishin Flash se apaga mientras se<n>\nsumerge en silencio con sus pensamientos."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――というわけで、実力強化を目的とした\nトレーニングスケジュールを提出します。"
+      "name": "Eishin Flash",
+      "text": "Y así, he elaborado un horario de <n>entrenamiento\ndiseñado para mejorar mis<n> capacidades en todos los\naspectos."
     },
     {
-      "text": "『皐月賞』の翌日、エイシンフラッシュが\n持ってきた調整後のスケジュールは……\n凄まじいものだった。",
+      "name": "Pensamiento",
+      "text": "El día después del Satsuki Sho, Eishin<n> Flash me\nentrega un horario actualizado.<n> La mejor forma de\ndescribirlo es \"absolutamente<n> aterrador\".",
       "choice_data_list": [
-        "毎週、模擬レースをやる！？"
+        "¿¡Quieres hacer una carrera de práctica cada\nsemana?!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "Sí. En una forma más cercana al combate real"
+      "name": "Eishin Flash",
+      "text": "Sí. Cada una debería tener dieciocho <n>participantes\ncorriendo en una carrera de 2400 <n>metros para\nimitar las condiciones reales de carrera<n> lo más\nfielmente posible."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "La lista de participantes ya está hecha.",
+      "name": "Eishin Flash",
+      "text": "Compilé una lista de posibles corredoras,<n> todas\nlas cuales han competido<n> a nivel G1. Con tu\npermiso, las<n> contactaré yo misma.",
       "choice_data_list": [
-        "体に負担がかかりすぎる"
+        "Tu cuerpo no aguantará."
       ]
     },
     {
-      "text": "模擬とはいえ、レースに変わりはない。\n通常のトレーニングと並行して行えば、\nかなり消耗してしまうはずだ。"
+      "name": "Pensamiento",
+      "text": "Incluso si son \"solo\" carreras de práctica,<n> una\ncarrera sigue siendo una carrera. Se agotará<n> si\nparticipa en tantas además de su régimen<n> de\nentrenamiento habitual."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ですが、今の私は抜きんでた存在ではない……\n勝算を高める必要があります。"
+      "name": "Eishin Flash",
+      "text": "Pero en este momento no me destaco entre la\n<n>multitud, así que debo mejorar mis posibilidades."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ダービーで完璧な結果を残すために、\n短い期間でできることといえば……\n経験を積むことしかないと考えました。",
+      "name": "Eishin Flash",
+      "text": "Obtener tanta experiencia como<n> sea posible es la\núnica forma en que puedo<n> lograr resultados\nperfectos en el Derby<n> en tan corto tiempo.",
       "choice_data_list": [
-        "経験？"
+        "¿Experiencia?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。実力は急激には伸びませんが、\n経験は重ねて増やすことができます。"
+      "name": "Eishin Flash",
+      "text": "Sí. Aunque no pueda mejorar mis <n>habilidades\nrápidamente, puedo ganar mucha experiencia<n>\nrápidamente."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "であれば、模擬レースを重ねて差をつける。\r\n……それしか勝利への道はありません。"
+      "name": "Eishin Flash",
+      "text": "Y para eso, debo correr en tantas carreras<n> de\npráctica como sea posible. Ese es el único<n> camino\na la victoria."
     },
     {
-      "text": "エイシンフラッシュの説明は、ある程度\n理に適ってはいる。しかし、現実的ではない。"
+      "name": "Pensamiento",
+      "text": "El argumento de Eishin Flash tiene sentido <n>hasta\ncierto punto, pero es completamente impráctico."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。貴方には、このスケジュールが\n現実的といえるラインになるまで、\n私を鍛えてほしいんです。"
+      "name": "Eishin Flash",
+      "text": "Sí. Quiero que me entrenes hasta el <n>punto en que\neste horario sea realista y<n> alcanzable."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……私は、とても未熟です。1人では、\n全ては夢物語に終わってしまうでしょう。"
+      "name": "Eishin Flash",
+      "text": "...Soy consciente de mis propias limitaciones.<n> No\npuedo realizar estos sueños por mi cuenta."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "だからトレーナーさんに望みます。\n完璧なスケジュールを全うするにふさわしい、\n完璧な私に仕上げてください。"
+      "name": "Eishin Flash",
+      "text": "Es por eso que busqué tu ayuda. Por favor,<n>\nentréname para convertirme en la versión<n> perfecta\nde mí misma, digna de ejecutar este<n> plan perfecto."
     },
     {
-      "text": "……ならば今こそ、トレーナーとしての\n役目を果たすべきだ。",
+      "name": "Pensamiento",
+      "text": "Ahora más que nunca es el momento de estar a la<n>\naltura de mi título como entrenador.",
       "choice_data_list": [
-        "この件、一旦預かってもいい？"
+        "¿Podemos posponer este tema por el momento?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……一旦、とはいつまでですか？\n先ほどもお伝えしたように、\nダービーまで時間はありません。",
+      "name": "Eishin Flash",
+      "text": "...¿Cuánto durará este \"momento\"? Como dije<n> antes,\nel Derby se acerca rápidamente.",
       "choice_data_list": [
-        "2日欲しい",
-        "2日ちょうだい"
+        "Dame dos días.",
+        "Dame dos días."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……わかりました。"
+      "name": "Eishin Flash",
+      "text": "Muy bien."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "模擬レースの件は、2日後に再度伺います。\nよろしくお願いします。",
+      "name": "Eishin Flash",
+      "text": "Volveré a consultarte en dos días.",
       "choice_data_list": [
-        "（必要なのは経験……なら――）"
+        "(Si lo que necesita es experiencia, entonces...)"
       ]
     },
     {
-      "text": "次の目標、『日本ダービー』……\nその前に、やるべきことが生まれた。"
+      "name": "Pensamiento",
+      "text": "Nuestro próximo objetivo es el <n>Japanese Derby...\npero surge algo que debemos<n> atender primero."
     }
   ]
 }

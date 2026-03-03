@@ -2,149 +2,155 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "――いよいよ迎えた『有馬記念』。\r\n最強時代にふさわしい精鋭の中に……。"
+      "name": "Monólogo",
+      "text": "El Arima Kinen finalmente está aquí, y<n> entre los\ncorredores de élite de la Era <n>Definitiva..."
     },
     {
-      "text": "新世代の挑戦者の姿もあった。"
+      "name": "Monólogo",
+      "text": "Una joven corredora da un paso al frente para\n<n>desafiarlos."
     },
     {
-      "name": "ゴールドシップ",
-      "text": "なあ、なんかこう飛び上がってみねー？\nゲートの中でさ。多分おもしれーぞ。"
+      "name": "Gold Ship",
+      "text": "Oye, ¿quieres intentar saltar de la puerta<n> de\nsalida? Podría ser divertido."
     },
     {
-      "text": "――ゴールドシップ。\r\n今年のクラシック二冠ウマ娘。\n破天荒な勢いで、中山に殴り込んできた。"
+      "name": "Monólogo",
+      "text": "Está Gold Ship, la campeona de la<n> Doble Corona de\neste año, que ha llegado<n> a Nakayama con toda la\nenergía."
     },
     {
-      "name": "エアグルーヴ",
-      "text": "たわけっ、レース前に絡むな！\n大体ゲートで飛ぶ愚か者などいるか！"
+      "name": "Air Groove",
+      "text": "¡Deja de molestarme antes de la carrera!<n> Además,\nnadie es lo suficientemente tonto como<n> para saltar\nde la puerta!"
     },
     {
-      "name": "ゴールドシップ",
-      "text": "えーダメ？　な～んかやる気でねーから、\nそーしてくれっと楽しい気がすんだけどなー。"
+      "name": "Gold Ship",
+      "text": "Aw, hombre... Hoy realmente no lo siento, así<n> que\npensé que si tú hacías eso, me ayudaría a <n>entrar\nen el ánimo para correr..."
     },
     {
-      "name": "ゴールドシップ",
-      "text": "ったく、どいつもこいつも覇気がねーぞ？\nしょーがね～。"
+      "name": "Gold Ship",
+      "text": "¡Caramba! ¿Nadie tiene motivación<n> hoy? Bien,\ntendré que hacer esto <n>yo misma."
     },
     {
-      "name": "ゴールドシップ",
-      "text": "――ゴルシちゃんが荒らしてやっかぁ！"
+      "name": "Gold Ship",
+      "text": "¡Golshi va a desatarse!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "今日のレースは、どの世代も\n一筋縄ではいかない方ばかりが揃っています。"
+      "name": "Eishin Flash",
+      "text": "La carrera de hoy está llena únicamente de\n<n>corredores poco convencionales y difíciles de\nmanejar<n> de cada generación."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "今日このメンバーの中で\r\n1着を取ることができれば……。"
+      "name": "Eishin Flash",
+      "text": "Si tomo el primer lugar contra todos ellos..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私は栄誉あるウマ娘として、\n華麗にキャリアを終えられます。"
+      "name": "Eishin Flash",
+      "text": "Puedo terminar mi carrera con una nota hermosa<n>\ncomo corredora con gloria en su nombre."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "素晴らしい“最後”を、\n迎えられるでしょう。"
+      "name": "Eishin Flash",
+      "text": "Será un final magnífico y apropiado para<n> todo."
     },
     {
-      "text": "あまりにも未練のない言い方に、\nこれ以上黙っていられず――",
+      "name": "Monólogo",
+      "text": "Sus palabras suenan tan definitivas... Ya no<n> puedo\nguardar silencio.",
       "choice_data_list": [
-        "そのことなんだけど……！"
+        "Espera—tengo algo para ti."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……？"
+      "name": "Eishin Flash",
+      "text": "...?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "これは……『有馬記念』以降の、\nレーススケジュール？"
+      "name": "Eishin Flash",
+      "text": "¿Esto es... un horario de carreras después <n>del\nArima Kinen?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "トレーナーさんが、作成したんですか？",
+      "name": "Eishin Flash",
+      "text": "¿Tú hiciste esto?",
       "choice_data_list": [
-        "雑かもしれないけど……"
+        "Sí. Aunque puede que sea un poco tosco..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……確かに、粗が目立ちますね。\nどうして作ったのか、聞いてもいいですか？",
+      "name": "Eishin Flash",
+      "text": "De hecho, necesita algunos ajustes, pero<n> ¿puedo\npreguntar por qué lo elaboraste en primer<n> lugar?",
       "choice_data_list": [
-        "君に走り続けてほしいから！",
-        "貴方に走り続けてほしいから！"
+        "¡Porque quiero que sigas compitiendo!",
+        "¡Porque quiero que sigas compitiendo!"
       ]
     },
     {
-      "text": "もし。もし彼女の人生の1番大切な予定に、\n少しでも『走ること』があるのなら……！",
+      "name": "Monólogo",
+      "text": "Quizás, solo quizás, si correr todavía tiene<n> un\nlugar en el horario más importante de<n> su vida,\nentonces...",
       "choice_data_list": [
-        "君の走る姿を見ていたい！",
-        "貴方の走る姿を見ていたい！"
+        "¡Quiero verte correr!",
+        "¡Quiero verte correr!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……。"
+      "name": "Eishin Flash",
+      "text": "..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "トレーナーさん。\r\nこの手帳には、私の10年先までの\nスケジュールが書かれています。"
+      "name": "Eishin Flash",
+      "text": "Entrenador. Este cuaderno contiene<n> un horario que\nelaboré para los próximos <n>diez años de mi vida."
     },
     {
-      "text": "（ビリッ……ビリビリ！）"
+      "name": "Monólogo",
+      "text": "<i>¡Riiip! ¡Rip! ¡RIP!</i>"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……想像していたより、\n罪悪感が強く湧きあがりますね。",
+      "name": "Eishin Flash",
+      "text": "...Eso me hizo sentir mucho más culpable<n> de lo que\nanticipé.",
       "choice_data_list": [
-        "なんで破ったんだ……！？",
-        "なんで破ったの……！？"
+        "¡¿Por qué hiciste eso?!",
+        "¡¿Por qué hiciste eso?!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "先ほど“最後”と言いましたが、\n――まだ未定なんです。",
+      "name": "Eishin Flash",
+      "text": "Antes, dije que este sería el final...<n> pero ese\nfinal definitivo mío aún <n>no ha sido decidido.",
       "choice_data_list": [
-        "え……"
+        "¿Qué quieres decir?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……両親に誇り高い姿を見せられた。\nもう走る理由が私にはありません。"
+      "name": "Eishin Flash",
+      "text": "Ya he hecho orgullosos a mis padres.<n> Por lo tanto,\nya no tengo razón para <n>continuar corriendo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "けれど――『まだ走りたい』という気持ちが、\n強く……強く残っています。",
+      "name": "Eishin Flash",
+      "text": "Sin embargo, mi deseo de seguir corriendo, <n>de\nseguir compitiendo—todavía está aquí, y es tan<n>\nfuerte como siempre.",
       "choice_data_list": [
-        "……！"
+        "...!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そこで私は考えました。\n『憧れの人ならばどうするだろう？』"
+      "name": "Eishin Flash",
+      "text": "Así que me pregunté, \"¿Qué harían aquellos<n> a\nquienes admiro en esta situación?\""
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "両親ならば、予定通りの道を進むでしょう。\nけれど――"
+      "name": "Eishin Flash",
+      "text": "Mis padres probablemente mantendrían su<n>\ntrayectoria predeterminada hasta el final."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "貴方なら。貴方は……まだ走りたいと感じた\nその直感を、正しさと呼ぶと思いました。",
+      "name": "Eishin Flash",
+      "text": "En tu caso, sin embargo... Creo <n>que dirías que\nperseguir mi deseo<n> de seguir compitiendo sería lo\n<n>correcto.",
       "choice_data_list": [
-        "フラッシュ……！"
+        "¡Flash!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……この先のスケジュールは、\n戻ってきたら考えましょう。"
+      "name": "Eishin Flash",
+      "text": "Creemos un horario para mis planes <n>futuros cuando\nregresemos."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "この『有馬記念』は、最後じゃない。\n私たちの新たな始まりとして――"
+      "name": "Eishin Flash",
+      "text": "Este Arima Kinen no es el final de mi<n> carrera,\nsino el comienzo de nuestro nuevo<n> camino juntos..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ふさわしい勝利を。\n貴方へ持ち帰ってきます！"
+      "name": "Eishin Flash",
+      "text": "¡Y así, reclamaré una victoria digna <n>para ti!"
     }
   ]
 }

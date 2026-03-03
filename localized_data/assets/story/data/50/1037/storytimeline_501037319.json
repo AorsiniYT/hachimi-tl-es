@@ -2,79 +2,83 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "たくさんのレースを走り抜いてきたある日――"
+      "name": "Monólogo",
+      "text": "Para ahora, Eishin Flash tiene un número<n> de\nvictorias en su haber."
     },
     {
-      "text": "エイシンフラッシュのこれまでの戦績を\n整理していて、ふと気づいたことがあった。"
+      "name": "Monólogo",
+      "text": "Mientras ordeno su historial de carreras, <n>me doy\ncuenta de algo..."
     },
     {
-      "text": "そこで彼女を連れてきたのは――\n東京レース場だった。",
+      "name": "Monólogo",
+      "text": "Así que la llevo al Hipódromo Tokio.",
       "choice_data_list": [
-        "Aquí tú ganaste muchos GⅠ",
-        "Aquí usted ganó muchos GⅠ"
+        "Has ganado muchas carreras G1 aquí.",
+        "Has ganado muchas carreras G1 aquí."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……！"
+      "name": "Eishin Flash",
+      "text": "...!"
     },
     {
-      "text": "No solo ganó muchas carreras GⅠ, que son\ndifíciles,\r sino que además dejó su marca en este\nTokyo Racecourse.",
+      "name": "Monólogo",
+      "text": "No solo ha ganado muchas carreras G1<n> de alto\nnivel, sino que realmente se ha <n>hecho un nombre\naquí en el Hipódromo Tokio.",
       "choice_data_list": [
-        "素晴らしい記録だな",
-        "素晴らしい記録だね"
+        "Tu récord aquí es excelente.",
+        "Tu récord aquí es excelente."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……ありがとうございます。"
+      "name": "Eishin Flash",
+      "text": "...Muchas gracias."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "走ったレースは全てすぐ思い出せますが、\nこの東京レース場でそこまでの記録を\n残していたとは、気づきませんでした。"
+      "name": "Eishin Flash",
+      "text": "A pesar de recordar cada carrera que<n> he corrido,\nno me di cuenta de que había <n>logrado tanto en el\nHipódromo Tokio."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "記憶に新しいのは、\nシニア級の『天皇賞（秋）』……でしょうか。"
+      "name": "Eishin Flash",
+      "text": "Mi recuerdo más reciente es... el Tenno<n> Sho de\notoño de mi año sénior."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "あの日、両親の見ている前で\n勝利することができました。"
+      "name": "Eishin Flash",
+      "text": "Pude ganar una carrera a la que mis padres<n>\nasistieron para verme."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "さらに貴方も見てくれていましたね。\n喜んでくれているのが、伝わってきました。"
+      "name": "Eishin Flash",
+      "text": "Tú también me estabas viendo. Podía<n> decir lo feliz\nque eras ese día."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "それだけで、色々な思い出も蘇って……\n礼をしたのは、本当に自然な行動でした。"
+      "name": "Eishin Flash",
+      "text": "Eso solo desencadenó tantos recuerdos <n>que\ncompartimos... Agradecerte salió tan<n> naturalmente\nese día."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――あの場面は、\n私の一生の思い出になるでしょう。"
+      "name": "Eishin Flash",
+      "text": "Recordaré ese momento mientras<n> viva."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "それほど強烈に、\n心に残っています……。",
+      "name": "Eishin Flash",
+      "text": "Así de fuerte fue la impresión que me<n> dejó.",
       "choice_data_list": [
-        "あの日の君は本当に美しかった",
-        "あの日の貴方は本当に美しかった"
+        "Estuviste absolutamente deslumbrante ese día.",
+        "Estuviste absolutamente deslumbrante ese día."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……っ。"
+      "name": "Eishin Flash",
+      "text": "...!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……ありがとう、ございます。\n嬉しいです。",
+      "name": "Eishin Flash",
+      "text": "...Muchas gracias. Estoy conmovida.",
       "choice_data_list": [
-        "今日はたくさん思い出話をしよう"
+        "Usemos hoy para recorrer el camino de los\nrecuerdos."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――はいっ。"
+      "name": "Eishin Flash",
+      "text": "Me encantaría."
     }
   ]
 }

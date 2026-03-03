@@ -3,55 +3,31 @@
   "text_block_list": [
     {
       "name": "Matikanefukukitaru",
-      "text": "¡La felicidad ha llegado! ¡La fortuna está aquí!"
+      "text": "¡La felicidad está aquí! ¡La fortuna ha llegado!"
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "¡Qué resultado tan increíblemente afortunado!\nYo<n>¡quedé primera! A"
+      "text": "¡Qué resultado increíblemente afortunado!<n> ¡Quedé\nprimera! ¡Una victoria sorpresa<n> para\nMatikanefukukitaru!"
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "No me fallaste, Entrenador, y tampoco<n>lo hizo la"
+      "text": "¡No me fallaste, Entrenador, y tampoco<n> el gran\nShiraoki! Justo <n>como pensé..."
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "¡El cielo siempre me está sonriendo!",
+      "text": "¡Los cielos siempre me sonríen!",
       "choice_data_list": [
-        "¡Exactamente!",
-        "Oye, no te emociones demasiado."
+        "¡Exacto!",
+        "Oye, no te dejes llevar demasiado."
       ]
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "¡Jeje! Nadie puede siquiera acercarse a\nrivalizar<n>con una como"
+      "text": "¡Jeje! ¡Nadie puede siquiera rivalizar<n> con alguien\ncomo yo! ¡Y no es <n>una exageración!"
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "¡Qué ocasión tan alegre! Por eso mismo..."
-    },
-    {
-      "name": "Matikanefukukitaru",
-      "text": "¡Quiero que tengas esto como agradecimiento!"
-    },
-    {
-      "name": "Matikanefukukitaru",
-      "text": "Es un amuleto de la suerte que ayuda con\ntomar<n>los huesos"
-    },
-    {
-      "name": "Monólogo",
-      "text": "No estoy muy segura del regalo, pero<n>agradezco"
-    },
-    {
-      "name": "Matikanefukukitaru",
-      "text": "¡Argh! ¡Eso lo sé, obviamente! No me<n>estoy"
-    },
-    {
-      "name": "Matikanefukukitaru",
-      "text": "Bueno, <i>sí</i> me estoy dejando llevar por esta\nola de<n>buena"
-    },
-    {
-      "name": "Matikanefukukitaru",
-      "text": "Y es gracias a tu guía que puedo<n>"
+      "text": "¡Qué ocasión tan alegre! Por eso..."
     },
     {
       "name": "Matikanefukukitaru",
@@ -59,11 +35,35 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "¡Es un amuleto de la suerte que te ayuda\na<n>hacerte amigo de surfistas!"
+      "text": "Es un amuleto de la suerte que ayuda a <n>quitar los\nhuesos de la dorada. ¡Es para celebrar<n> la alegría\nque me <i>tiene <i>dorando</i>!</i>"
     },
     {
       "name": "Monólogo",
-      "text": "No estoy muy segura del regalo, pero<n>agradezco"
+      "text": "No estoy muy seguro sobre el regalo,<n> pero aprecio\nel gesto de todos modos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Argh! ¡Lo sé, obviamente! ¡No me <n>estoy dejando\nllevar, en serio!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Bueno, <i>¡<i>sí</i> que estoy siendo llevado por<n> esta ola\nde buena suerte! Ehehe!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Y es gracias a tu guía que puedo<n> montar esa ola!\nDicho eso..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Quiero que tengas esto como agradecimiento!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Es un amuleto de la suerte que te ayuda<n> a hacerte\namigo de los surfistas! ¡Así podrás <n>atrapar\nalgunas olas increíbles propias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy muy seguro sobre el regalo,<n> pero aprecio\nel gesto de todos modos!"
     }
   ]
 }

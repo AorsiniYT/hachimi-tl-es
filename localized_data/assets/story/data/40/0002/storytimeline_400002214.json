@@ -2,10 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Cuando le pregunté a la Umamusume que\r\napoya el entrenamiento de <chrname>\nsi quería unirse al equipo――"
+      "name": "Monólogo",
+      "text": "Después de la sesión de entrenamiento<n> de <chrname>, invito\na la Umamusume que<n> entrenó con ella a unirse a\nnuestro equipo."
     },
     {
-      "text": "¡Dijo que sí amablemente!\r\n¡Aumentaron los miembros del equipo!"
+      "name": "Monólogo",
+      "text": "¡Es un sí! ¡Nuestro equipo está creciendo<n> aún más!"
     }
   ]
 }

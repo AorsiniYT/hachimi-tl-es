@@ -1,0 +1,59 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El último día del campamento de verano ha llegado."
+    },
+    {
+      "name": "Chica A",
+      "text": "¡Oye, Jordan! ¿Te sientas junto a nosotras en el\nautobús?"
+    },
+    {
+      "name": "Chica B",
+      "text": "¡Sí, sí! ¡Por aquí, hermana!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Genial! Claro, ¡voy! ☆ ..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Qué vas a hacer, Entrenador?",
+      "choice_data_list": [
+        "Tengo un asiento asignado."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ah..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el autobús de regreso a la<n> academia..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Bzzzt...</i>",
+      "choice_data_list": [
+        "¿Es un mensaje de texto?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Saco mi teléfono y reviso mis<n> mensajes."
+    },
+    {
+      "name": "Jordan (Carril)",
+      "text": "Aburrida. Todos están durmiendo. ¿Tienes alguna\nhistoria<n> divertida?"
+    },
+    {
+      "name": "Jordan (carril)",
+      "text": "¡Ahora es el momento de compartir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan y yo charlamos un rato por mensajes<n>\nde texto."
+    }
+  ]
+}

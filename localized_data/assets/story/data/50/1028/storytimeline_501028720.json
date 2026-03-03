@@ -1,0 +1,564 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llevo a <chrname><n> a la enfermería para un chequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! Un custo―¡quiero decir, un estudiante! ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás herido? ¿Enfermo? ¿Estresado? ¡Sea<n> lo que\nsea, lo curo todo!",
+      "choice_data_list": [
+        "¡¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la enfermería<n> de\nla academia, diría que eso me convierte en tu\n<n>confiable enfermera escolar. ¡Sí, solo una\n<n>empleada escolar común y corriente!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Jajaja! Veo que no puedo engañarte.<n> Supongo que\ndebería empezar por darte mi<n> nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ahem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (probable) salvadora de <n>todas las\nUmamusume, la (autoproclamada)<n> legendaria\nacupunturista con el toque<n> mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única e insustituible Sasami Anshinzawa!<n> ¿Ves?\n¡No te preocupes! ☆",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Eh? Um... No... ¿no hay problema?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Caramba! ¡Pareces muy preocupado! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos <n>presentamos, así\nque acuéstate y déjame <n>poner estas agujas a\ntrabajar!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Agujas? En realidad no sé qué está<n> pasando, pero\nesas parecen palillos<n> de bambú..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay por qué tener miedo! <n>Todo lo que\nvoy a hacer es introducir estas <n>extraordinarias\nagujas justo en tus puntos<n> de chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces, voilà, presto! <n>¡Ocurrirá algo\nindescriptible!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y permíteme asegurarte que<n> no hay absolutamente\nnada sospechoso <n>en esto! ¡Nunca ha salido nada\nmenos que<n> perfecto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestro.",
+      "choice_data_list": [
+        "¡¿Para tu maestro?! ¡¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Esta es mi primera vez, así<n> que\ntécnicamente, ¡tampoco he fallado nunca con <n>un\npaciente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es que no tenga experiencia! Pasé <n>diez años\nbajo un maestro legendario,<n> sirviéndole―¡quiero\ndecir, entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡No te preocupes! ☆",
+      "choice_data_list": [
+        "(¡Necesitamos salir de aquí, ya!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "De ninguna manera vamos a hacer esto. Tomo<n> a <chrname> y me\ndirijo a la <n>puerta, cuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¿¡A dónde van?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Eres Hishi Akebono, ¿verdad?! ¡La <n>Umamusume que\nquiere hacer sonreír a la <n>gente y alimentar al\nmundo entero hasta que<n> todos estén felices y\nllenos!",
+      "choice_data_list": [
+        "¿Has oído hablar de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Si he oído hablar de ella? ¡Por supuesto!<n> ¡Soy\nuna gran fan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Justamente por eso estoy aquí! ¡Para<n> darte mi\napoyo! ¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Dame una oportunidad! ¡Por faaaavor!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh! ¡Quieres prestarme tu ayuda<n> y apoyo?! ¡Son\ncosas tan buenas<n> que decir! ☆ ¿Qué opinas,\nEntrenador?<n> ¿La dejamos?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Por faaaavor con una <n>zanahoria\nencima! ¡Incluso te dejaré elegir<n> qué chakra\nactivo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Estoy <i>seguro</i> de que no voy a equivocarme!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... bastante seguro.",
+      "choice_data_list": [
+        "<i>¿<i>Bastante</i> seguro?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Quiero decir, que está del lado seguro! ¡Eso <i>es\n<i>bueno,</i><n> </i>¿no? De cualquier forma, ¡no te quedes\natascado en<n> los detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debería<n> activar?\n¿Quieres un impulso a tus <n>habilidades? ¿A tu\nsalud? ¿O tal vez a tu <n><i>encanto?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Huelo peligro en el aire, pero calculo<n> que\npodría—y enfatizo <i>podría</i>—haber <n></i>una oportunidad de\nobtener algo especial<n> de este tratamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué debemos hacer?",
+      "choice_data_list": [
+        "Activar el chakra de fuerza.",
+        "Activar el chakra de la victoria.",
+        "Activar el chakra de la salud.",
+        "Activar el chakra del encanto.",
+        "Esto es demasiado sospechoso. Salgamos de aquí\nmientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que <n>active el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Hora de localizar<n>\nese chakra! ¡Ulala, ulala, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Guau!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh, woooow! ¡Me siento tan rápido y fuerte!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Mi corazón y cuerpo se sienten tan bien y en\n<n>perfecto estado! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> No puede ser... ¡¿De verdad<n> funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡<chrname> está rebosante<n> de tanto poder que casi <n>no la\nreconozco!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y salió bien! ¡Este es un<n> gran salto\nhacia lograr nuestra meta!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿E-eh?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "De repente tengo muuucha hambre... <n>Entrenador...\nAyuda..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estado de <chrname><n> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Entonces... Así que eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿qué hora es? ¡Debería<n> irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido mejor que probar nuestra suerte.<n>\nYo no soy la que sufre, y sin embargo estoy llena<n>\nde remordimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active <n>el\nchakra de la victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Hora de localizar<n>\nese chakra! ¡Ulala, ulala, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Guau!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh, woooow! ¡Me siento tan rápido y fuerte!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Mi corazón y cuerpo se sienten tan bien y en\n<n>perfecto estado! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> No puede ser... ¡¿De verdad<n> funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puedo percibir una enorme mejora en las<n>\nhabilidades de <chrname>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y salió bien! ¡Este es un<n> gran salto\nhacia lograr nuestra meta!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿E-eh?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "De repente tengo muuucha hambre... <n>Entrenador...\nAyuda..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estado de <chrname><n> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Entonces... Así que eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿qué hora es? ¡Debería<n> irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido mejor que probar nuestra suerte.<n>\nYo no soy la que sufre, y sin embargo estoy llena<n>\nde remordimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active<n> el\nchakra de la salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Hora de localizar<n>\nese chakra! ¡Ulala, ulala, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Guau!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh, woooow! ¡Me siento tan rápido y fuerte!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Mi corazón y cuerpo se sienten tan bien y en\n<n>perfecto estado! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> No puede ser... ¡¿De verdad<n> funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Todo el cuerpo de <chrname><n> irradia un resplandor\nsaludable! ¡Es <n>el retrato perfecto de la salud!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y salió bien! ¡Este es un<n> gran salto\nhacia lograr nuestra meta!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿E-eh?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "De repente tengo muuucha hambre... <n>Entrenador...\nAyuda..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estado de <chrname><n> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Entonces... Así que eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿qué hora es? ¡Debería<n> irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido mejor que probar nuestra suerte.<n>\nYo no soy la que sufre, y sin embargo estoy llena<n>\nde remordimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active<n> el\nchakra del encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Hora de localizar<n>\nese chakra! ¡Ulala, ulala, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Guau!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh, woooow! ¡Me siento tan rápido y fuerte!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Mi corazón y cuerpo se sienten tan bien y en\n<n>perfecto estado! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> No puede ser... ¡¿De verdad<n> funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡<chrname> está rebosante<n> de encanto! ¡Hará que todos la\nmiren<n> donde quiera que vaya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y salió bien! ¡Este es un<n> gran salto\nhacia lograr nuestra meta!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿E-eh?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "De repente tengo muuucha hambre... <n>Entrenador...\nAyuda..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estado de <chrname><n> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Entonces... Así que eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Mira nada más la hora que es!<n> Debería irme.\n¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido que no era buena idea tentar<n> la\nsuerte. No soy quien sufre, pero estoy lleno<n> de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Ay, vamos! ¡No seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Reconsiderar."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! ¡Espero que sepas que <n>los <i>intrusos\n<i>serán</i> procesados!</i>"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh no! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "En fin, me voy de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Vaya... Se fue con tanta prisa."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Qué persona tan enérgica e <n>interesante!\nDeberíamos prepararle algo<n> la próxima vez que nos\nveamos. ☆",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo curiosidad sobre quién es realmente<n> este\npersonaje de Anshinzawa, pero no sirve<n> de nada\ndarle vueltas. Lo mejor es olvidar el día <n>de hoy y\nseguir adelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Has cambiado de opinión, eh? ¡No <n>te preocupes,\neso pasa!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Adelante, dime qué chakra quieres<n> que active,\nentonces!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Y bien?! ¡No nos dejes en suspense! Espera<n> un\nsegundo... ¿Cuánto tiempo llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! ¡Espero que sepas que <n>los <i>intrusos\n<i>serán</i> procesados!</i>"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh no! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "En fin, me voy de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La situación da un giro brusco antes de que <n>pueda\ntomar una decisión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué fue todo eso?<n> <chrname> y yo nos<n> miramos perplejos."
+    }
+  ]
+}

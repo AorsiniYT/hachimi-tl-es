@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Taiki Shuttle y yo vamos de regreso a casa<n>de\nuna salida cuando decidimos pasar por<n>el\ndistrito comercial."
+      "text": "Taiki Shuttle y yo estamos de camino a casa<n>\ndespués de un paseo cuando decidimos pasar<n> por el\ndistrito comercial."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¿Qué dice ese letrero, Entrenador? \"Rif\"...<n>¿\"Ruffle\"?"
+      "text": "¿Qué dice ese letrero, Entrenador? \"Rif\"...<n>\n\"Ruffle\"?"
     },
     {
       "name": "Monólogo",
@@ -17,35 +17,35 @@
       ]
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Acérquense y prueben su suerte con<n>nuestra rifa\nde Año Nuevo! ¡El gran premio de este<n>año es\nunas vacaciones en aguas<n>termales para dos!"
+      "name": "Empleado de la Rifa",
+      "text": "¡Acérquense y prueben su suerte con nuestra <n>rifa\nde Año Nuevo! ¡El gran premio de este año es unas<n>\nvacaciones en aguas termales para dos!"
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Los ganadores del primer premio obtienen<n>un\nhamburguesa de zanahoria de lujo!<n>¡Los del segundo\npremio se llevan un<n>montón de zanahorias! ¡Y los del\ntercer<n>premio pueden llevarse una sola\nzanahoria!"
+      "name": "Empleado de la Rifa",
+      "text": "¡Los ganadores del primer premio reciben una\nhamburguesa<n> de zanahoria de lujo! ¡Los ganadores\ndel segundo <n>premio reciben un cesto de zanahorias!\n¡Y los ganadores del <n>tercer premio pueden llevarse\na casa una sola zanahoria!"
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Ustedes dos de allá! ¿Les interesa<n>probar suerte?"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "¡Guau! ¡Así es como se ve una rifa<n>japonesa! ¡Me\nmoría de ganas de probar una!"
+      "name": "Empleado de la Rifa",
+      "text": "¡Ustedes dos por allá! ¿Quieren probar su<n> suerte?"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Vamos a echarle un vistazo,\nEntrenador!<n>¡Podríamos ganarnos algo grande!",
+      "text": "¡Guau! ¡Así que así se ve una rifa <n>japonesa! ¡He\nestado ansioso por probar una!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Echemos un vistazo, Entrenador! ¡Podríamos<n>\nganarnos algo grande!",
       "choice_data_list": [
-        "Tenemos que comprar algo para obtener un boleto de rifa."
+        "Tenemos que comprar algo para obtener un boleto de\nrifa."
       ]
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Uy, se me olvidó por completo esa parte!<n>A\nver... ¿Qué debería comprar?"
+      "text": "¡Ups, olvidé por completo esa parte!<n> A ver... ¿Qué\ndebería comprar?"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Muy bien, ya sé qué! ¡Voy a comprarme<n>un jarro\nde leche!"
+      "text": "Muy bien, ¡tengo justo lo que necesito! ¡Voy<n> a\ncomprarme un jarro de leche!"
     },
     {
       "name": "Monólogo",
@@ -53,39 +53,39 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Solo tenemos una oportunidad! Parece<n>bastante\ndifícil..."
+      "text": "¡Solo tenemos una oportunidad! Seguro que<n> parece\nun tiro largo..."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Pero aún así voy por el primer premio!"
+      "text": "¡Pero aún así voy por el gran premio!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Wuuju! ¡Vamos, gran premio!"
+      "text": "¡Wujuu! ¡Vamos, gran premio!"
     },
     {
       "name": "Monólogo",
-      "text": "Taiki se anima y gira el tambor de la<n>rifa con\nentusiasmo."
+      "text": "Taiki se anima y le da a la <n>ruleta de rifa un giro\nentusiasta."
     },
     {
       "name": "Monólogo",
-      "text": "Una pequeña bola de plástico sale por\nla<n>abertura del tambor..."
+      "text": "Una pequeña pelota de plástico cae de la<n> abertura\nde la ruleta..."
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Santos cielos! ¡Tenemos una ganadora del<n>gran\npremio! ¡Vengan por el cupón de sus<n>vacaciones\nen aguas termales!<n>¡Felicidades!"
+      "name": "Empleado de la Rifa",
+      "text": "¡Caramba! ¡Tenemos un ganador del <n>gran premio!\n¡Vengan a recoger el cupón<n> para sus vacaciones en\naguas termales!<n> ¡Felicitaciones!"
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste:<n><itemname>"
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Yiju! ¡Esto sí que me alegró el día!"
+      "text": "¡Yeehaaaw! ¡Esto me ha alegrado el día!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Lo logré, Entrenador! ¿Cuándo vamos?",
+      "text": "¡Lo logré, Entrenador! Entonces, ¿cuándo vamos?",
       "choice_data_list": [
         "¿Q-quieres ir conmigo?",
         "¿Q-quieres ir conmigo?"
@@ -93,11 +93,11 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Pues claro! ¡Estamos juntos en esto!"
+      "text": "¡Pues, por supuesto! ¡Estamos en esto juntos!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¿Cuándo quieres salir? ¿Tal vez<n>mañana—o pasado?\n¿O qué tal<n>¡ahora mismo?! Okey, ¡hagamos las<n>maletas y vámonos!",
+      "text": "¿Cuándo quieres salir? ¿Quizás <n>mañana—o el día\ndespués? ¿O qué tal ¡ahora<n> mismo?! 'Ka, ¡vamos a\nempacar nuestras<n> cosas y vámonos!",
       "choice_data_list": [
         "¡E-espera! ¡Guardémoslo para después!",
         "¡E-espera! ¡Guardémoslo para después!"
@@ -105,35 +105,35 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¿Después, eh?"
+      "text": "Después, ¿eh?"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Mmm. ¿Estás diciendo que no me he<n>esforzado\nlo suficiente para ir a unas aguas<n>termales todavía?"
+      "text": "Hmm. ¿Estás diciendo que no he trabajado<n> lo\nsuficiente para ir a un aguas termales aún?"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¿Y que es un desperdicio ir cuando no<n>estás\nagotada? ¡Eso sí es espíritu<n>japonés de verdad!"
+      "text": "¿Y es un desperdicio ir cuando no <n>estás agotado?\n¡Ese es el verdadero <n>espíritu japonés allí!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Okey, te entiendo! ¡Vamos cuando sea el<n>momento\nadecuado! ¡Es una promesa!"
+      "text": "¡Vale, te entiendo! ¡Vamos cuando sea el momento<n>\nadecuado! ¡Es una promesa!"
     },
     {
       "name": "Monólogo",
-      "text": "Sería bueno usar el viaje como<n>recompensa una\nvez que alcance un hito..."
+      "text": "Sería bueno usar el viaje como recompensa<n> una vez\nque ella alcance un hito..."
     },
     {
       "name": "Monólogo",
-      "text": "Con eso en mente, decido guardar su<n>boleto por\nahora."
+      "text": "Con eso en mente, decido guardar<n> su boleto por\nahora."
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Parece que tenemos otro ganador del<n>primer\npremio! ¡Felicidades! ¡Obtienes una<n>hamburguesa\nde zanahoria de lujo!"
+      "name": "Empleado de la Rifa",
+      "text": "¡Parece que tenemos otro ganador del <n>primer\npremio! ¡Felicitaciones! ¡Reciben una<n> hamburguesa\nde zanahoria de lujo!"
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste:<n><itemname>"
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
       "name": "Taiki Shuttle",
@@ -141,15 +141,15 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Pero esta hamburguesa gigante sí que<n>se ve\nllena de energía!"
+      "text": "¡Pero esta gran hamburguesa <n>se ve llena de\nenergía!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Jeje. Además, ¡los trozos grandes de<n>carne me\nrecuerdan a mi familia en casa!"
+      "text": "Jeje. Además, grandes trozos de carne me<n> recuerdan\na mi familia en casa!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Oh, ¡deberíamos tomar una foto para<n>mostrarle a\nmi familia lo que gané!"
+      "text": "¡Oh, deberíamos tomarnos una foto para poder<n>\nmostrarle a mi gente lo que gané!"
     },
     {
       "name": "Taiki Shuttle",
@@ -157,90 +157,90 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Digamos whisky!"
+      "text": "¡Di patata!"
     },
     {
       "name": "Monólogo",
-      "text": "Después de eso, Taiki Shuttle devora\nla<n>hamburguesa de lujo y se llena\nde<n>suficiente energía para aguantar hasta\nel<n>día siguiente."
+      "text": "Después de eso, Taiki Shuttle devora la\n<n>hamburguesa de lujo y se llena de suficiente<n>\nenergía para durar hasta el día siguiente."
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Tenemos un ganador del segundo premio!<n>¡Es tu\ndía de suerte! ¡Te llevas a casa un<n>montón de\nzanahorias!"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Obtuviste:<n><itemname>"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "¡Uuh, casi lo logramos! ¡Maldición!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Pero, estas zanahorias están tan<n>brillantes—¡se\nven deliciosas!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Como tenemos tantas, ¿qué tal si<n>invitamos a\ntodos en el dormitorio a una<n>gran barbacoa?!"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "¡Seguro será divertidísimo! ¡Vamos ahora<n>mismo a\nempezar!"
+      "name": "Empleado de la Rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es<n> tu día\nde suerte! ¡Te vas a casa con <n>un cesto de\nzanahorias!"
     },
     {
       "name": "Monólogo",
-      "text": "Esa noche, todos disfrutan a<n>conciencia de la\nbarbacoa centrada en<n>zanahorias."
-    },
-    {
-      "name": "Empleado de la rifa",
-      "text": "¡Miren nada más! ¡Han ganado el<n>tercer premio!\n¡Aquí está su zanahoria!"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Obtuviste:<n><itemname>"
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Aww! ¿¡Tercer premio?!",
+      "text": "¡Uy, casi lo teníamos! ¡Maldición!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pero estas zanahorias son tan brillantes—se<n> ven\ndeliciosas!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ya que tenemos tantas, ¿qué tal si <n>invitamos a\ntodos en el dormitorio a un<n> gran asado?!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Seguro que será una fiesta! ¡Vamos ahora<n> mismo y\nempecemos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa noche, todos disfrutan a <n>fondo en el asado\ncentrado en <n>zanahorias."
+    },
+    {
+      "name": "Empleado de la Rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer<n> premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste:<n> <itemname>"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Aww! ¡Tercer premio?!",
       "choice_data_list": [
         "Estas cosas pasan."
       ]
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Urgh... ¡Eso no significa que tenga que<n>gustarme!"
+      "text": "Urgh... ¡Eso no significa que me tenga que gustar!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Okey, esto es lo que haremos! ¡Vamos a<n>seguir\ncomprando hasta conseguir<n>otro boleto!"
+      "text": "¡Muy bien, esto es lo que vamos a hacer! <n>¡Vamos a\nseguir comprando hasta que <n>obtengamos otro boleto!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "No será barato, pero necesito ese<n>gran premio...\nDiablos, ¡conformarme<n>con el primero o segundo!"
+      "text": "No será barato, pero necesito ese gran<n> premio...\n¡Demonios, incluso me conformaré<n> con el primero o\nsegundo!"
     },
     {
       "name": "Monólogo",
-      "text": "Disuado a Taiki Shuttle de su fervor por<n>la rifa\ny la regreso a medias a la<n>academia."
+      "text": "Hablo a Taiki Shuttle de su fervor por <n>la rifa y\nmedio la arrastro de vuelta a <n>la academia."
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Ohhh, mala suerte! Parece que sacaste<n>un boleto\nen blanco! Toma este paquete de<n>pañuelos como\npremio de consolación."
-    },
-    {
-      "name": "Monólogo",
-      "text": "Obtuviste:<n><itemname>"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Uff... Esta rifa es bastante dura. Supongo<n>que\nla vida no es solo sol y arcoíris, ¿eh?"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Así es como termina mi primera rifa..."
+      "name": "Empleado de la Rifa",
+      "text": "¡Oh, qué mala suerte! Parece que te salió<n> el\nblanco. Toma este paquete de pañuelos como<n> premio\nde consolación."
     },
     {
       "name": "Monólogo",
-      "text": "Me uno a la decepción de Taiki Shuttle..."
+      "text": "Obtuviste:<n> <itemname>"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Uf... Este sorteo está bastante difícil. Supongo<n>\nque la vida no es solo sol y arcoíris, ¿verdad?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Así que así termina mi primer sorteo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me uno a la decepción de<n> Taiki Shuttle..."
     }
   ]
 }

@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>Jadeo... Jadeo...</i> Entrenador...",
+      "choice_data_list": [
+        "¡Lo hiciste genial!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Gracias... muchísimas gracias..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras dice esto, Kawakami Princess<n> se desploma\nlentamente sobre el césped como<n> un globo viejo.",
+      "choice_data_list": [
+        "(Debió de estar muy tensa.)",
+        "(Debió de estar muy tensa.)"
+      ]
+    },
+    {
+      "name": "Fan A",
+      "text": "¡El Oka Sho de este año fue asombroso! ¿Alguna<n> de\nestas corredoras llegará a ser <n>estrella de la gira\nde la Tiara?!"
+    },
+    {
+      "name": "Fan B",
+      "text": "Oye, ¿ya tienes a alguien en <n>mente? A mí me gusta\nmucho..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los espectadores parecen más emocionados<n> que\nnunca. Ella debió de ser muy consciente<n> de todos\nesos ojos sobre ella—y en <n>un evento único en la\nvida, para colmo."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿Qué te pareció mi carrera hoy, <n>Entrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aun así, no se dejó llevar por la <n>persecución\nciega de la victoria. Se <n>mantuvo enfocada en\nlograr sus metas <n>actuales.",
+      "choice_data_list": [
+        "Fue fantástico."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Jeje. Me alivia escuchar eso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sé que ella estará bien."
+    }
+  ]
+}

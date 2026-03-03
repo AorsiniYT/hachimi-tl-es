@@ -1,0 +1,273 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Ha llegado el día de las pruebas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque esperaba haber reclutado <n>formalmente a\nManhattan Cafe para ahora,<n> no ha aparecido un\nmomento oportuno."
+    },
+    {
+      "name": "Entrenador nuevo A",
+      "text": "<username>, ¿de <n>verdad estás buscando reclutarla?",
+      "choice_data_list": [
+        "Ese es el plan."
+      ]
+    },
+    {
+      "name": "Entrenador nuevo B",
+      "text": "Claro, es una gran corredora, pero la<n> forma en que\nsigue hablando<n> de ese amigo imaginario suyo es\n<n>inquietante. ¿No te molesta?",
+      "choice_data_list": [
+        "No creo que sea imaginario."
+      ]
+    },
+    {
+      "name": "Entrenador nuevo A",
+      "text": "¿E-estás bromeando? Puedo entender <n>que quieras\napoyarla, pero..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Buenos días."
+    },
+    {
+      "name": "Los dos",
+      "text": "¡Aaaaah! ¡Guaaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Tac, tac, tac!</i>"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "... Lo siento... Estabas en<n> medio de algo.",
+      "choice_data_list": [
+        "No hay problema, acabamos de terminar."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...",
+      "choice_data_list": [
+        "¿Está tu amiga aquí hoy?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Sí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay muchas corredoras capaces que <n>saldrán a la\npista hoy. Ella necesitará <n>enfocarse en superarlas\na todas antes que<n> nada. Me pregunto si su amiga\nterminará <n>liderando el grupo...",
+      "choice_data_list": [
+        "Mantén la calma y corre a tu propio ritmo."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Estaba segura... de que no podías verla. <n>Pero\nrealmente parece... que puedes...",
+      "choice_data_list": [
+        "Lo siento, fue un poco bajo. ¿Puedes—"
+      ]
+    },
+    {
+      "name": "Personal de pruebas A",
+      "text": "Las pruebas están a punto de comenzar. ¿Podrían<n>\nlos corredores que participan reunirse—"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "... Por favor, regresa aquí... esta noche."
+    },
+    {
+      "name": "Locutor",
+      "text": "Las corredoras están en la línea de salida. Y...<n>\n¡ya salieron! La carrera ha comenzado."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "(Corre... corre... corre... El olor del césped...<n>\nLa tierra está firme y agradable... Estoy en gran<n>\nforma.)"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "(Las palabras de esa persona... Las palabras de\nese<n> entrenador parecen haberme dado un impulso. <n>Mi\nrespiración es estable... Me siento como si\npudiera correr<n> mucho más tiempo de lo habitual...)"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "(Hay tantas corredoras... delante de<n> mí...)"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "(Pero sé que ella está allí... Sé que <n>mi amiga\nestá allí arriba... Esperándome a<n> que la alcance.)"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "(Nadie más puede verla... pero es muy <n>querida para\nmí...)"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "(Nunca me importó que la gente <n>no creyera lo que\nno podía ver... Solo...<n> deseaba que la\nrespetaran...)"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "(Pero ahora...)"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "(Ese entrenador... quiere saber más sobre<n> ella...)"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "(Precisamente porque no puede ser vista. <n>Solo por\ndecir eso... mi amiga ha obtenido <n>finalmente el\nrespeto que se merece.)"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¡Haaaah!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "(Hemos soportado tanto ridículo...<n> Tanta\ncrueldad... Nunca nos han dado<n> la hora...)"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "(Es hora de correr más allá de todo eso... Si\n<n>puedo acercarme un poco más a ti hoy de lo <n>que\npude ayer... entonces yo...)"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Puedo correr libremente... detrás de ti... detrás\nde<n> mis sueños."
+    },
+    {
+      "name": "Locutor",
+      "text": "¿Qué aceleración? ¡Pasa a través del <n>grupo como\nuna aguja! ¡Es como una sombra que <n>engulle todo lo\nque hay antes de ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Woooo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En contraste con las pruebas de la tarde, <n>la pista\nesta noche está quieta y silenciosa.<n> Manhattan\nCafe está frente a mí,<n> pensativa."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Por favor, ¿puedes escucharme un momento?<n> Me\ngustaría contarte... sobre mi amiga..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "En realidad... Puedo ver muchas, muchas <n>cosas que\nlos demás no pueden. Hay otras criaturas...<n> además\nde mi amiga..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Sin embargo... Nadie ha creído nunca que<n> cuando se\nlo dije."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"No hay forma de que existan.\" \"Es espeluznante.\"<n>\n\"Es solo tu imaginación.\" \"Estás delirando.\"<n> \"Está\ntodo en tu cabeza.\""
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Esas terribles palabras... Solo sirvieron para<n>\nlastimar a mis queridos compañeros... Me\nentristeció<n> también."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Debido a eso... Solía mantenerme a mí<n> misma como\nuna niña. No quería que ellos se<n> lastimaran...\nmás."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Siempre fui bastante frágil... La gente a<n> mi\nalrededor nunca se sorprendió demasiado de<n> que me\nquedara callada."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Pero un día... vi a una chica que se parecía<n> mucho\na mí, aunque solo desde atrás... <n>Estaba corriendo."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Y aunque no podía ver su rostro... podía<n> decir que\nse estaba divirtiendo. Empecé a<n> sentir...\nenvidia..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "La seguí... Salí de la habitación oscura en la<n> que\nme había encerrado."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "El mundo exterior era brillante...<n> Abrumadoramente\nasí. Pero mi amiga...<n> Seguía corriendo...\nDivirtiéndose..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Empecé a preguntarme... qué era exactamente<n> lo que\ntemía. Aunque nadie<n> creería en ella... podía\ncorrer sin<n> preocupaciones..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Desde entonces... mi amiga ha seguido corriendo<n>\nhacia adelante... Delante de mí...",
+      "choice_data_list": [
+        "Puedo ver por qué es tan importante para ti.",
+        "Puedo ver por qué es tan importante para ti."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Sí... Pero todavía..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Todo este tiempo... todavía no he visto su<n>\nrostro."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No puedo alcanzarla... Y ella nunca se<n> vuelve...\nSolo la he visto desde <n>atrás... mientras corre\nhacia adelante."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Así que quiero... alcanzarla. Quiero correr...<n> a\nsu lado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque me lo dice con su voz baja<n> habitual, puedo\nsentir el<n> fervor directo que ha surgido dentro<n> de\nella."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "... Todavía no puedes verla, ¿verdad? Así que...\nUm...",
+      "choice_data_list": [
+        "Puedes contarme más sobre ella en cualquier\nmomento."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...",
+      "choice_data_list": [
+        "Me gustaría reclutarte.",
+        "Me gustaría reclutarte."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "... ¿Crees que... puedo alcanzarla?",
+      "choice_data_list": [
+        "¡Absolutamente!"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...¡Genial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al compartir una sonrisa con Manhattan Cafe,\n<n>siento un fuerte golpe en la espalda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Confío en ti.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay voz, no hay palabras habladas. Y sin<n>\nembargo... puedo sentir el sentimiento que\nproviene<n> de alguien."
+    }
+  ]
+}

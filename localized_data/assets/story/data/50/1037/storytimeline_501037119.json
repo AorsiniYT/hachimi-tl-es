@@ -2,251 +2,257 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "ミスターシービー",
-      "text": "――フラッシュとまた走るの？\nんー……どうしようかな。"
+      "name": "Mr. C.B.",
+      "text": "¿Quieres que corra con Flash otra vez?<n> Mmm..."
     },
     {
-      "text": "旅行から帰ってきてすぐ、\nミスターシービーにリベンジマッチを\nお願いしに行ったのだが……。"
+      "name": "Monólogo",
+      "text": "Le pido al Sr. C.B. una revancha inmediatamente<n>\ndespués de volver de nuestro viaje, pero..."
     },
     {
-      "name": "ミスターシービー",
-      "text": "ダービーのすぐ後だったら、\n面白そうだったけど……。",
+      "name": "Mr. C.B.",
+      "text": "Podría haber sido divertido justo después<n> del\nDerby, pero yo no sé...",
       "choice_data_list": [
-        "今の彼女のほうが面白い"
+        "Hay mucho más en ella ahora."
       ]
     },
     {
-      "name": "ミスターシービー",
-      "text": "……へぇ？\n自信ありそうだね。"
+      "name": "Mr. C.B.",
+      "text": "¿Oh? Pareces muy seguro de eso."
     },
     {
-      "name": "ミスターシービー",
-      "text": "なら、楽しませてもらおうかな。\n――今すぐ！"
+      "name": "Mr. C.B.",
+      "text": "Muy bien, entonces déjame ver de qué es\n<n>capaz—¡ahora mismo!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "Entonces… igual que la última vez,"
+      "name": "Eishin Flash",
+      "text": "Muy bien. Corramos una carrera de 2,400<n> metros a\nla izquierda de nuevo, como <n>hicimos antes."
     },
     {
-      "name": "ミスターシービー",
-      "text": "わかった。\nじゃ、よろしくー。"
+      "name": "Mr. C.B.",
+      "text": "Suena bien. Estoy listo cuando tú lo estés."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――トレーナーさん。\nアドバイスをください。"
+      "name": "Eishin Flash",
+      "text": "Entrenador, me gustaría tu consejo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……彼女と再び走ると決まった時から、\nずっと勝てるビジョンが浮かばないんです。",
+      "name": "Eishin Flash",
+      "text": "...No he podido visualizarme ganando<n> desde que se\ndecidió esta <n>revancha.",
       "choice_data_list": [
-        "確かに負けるかもしれないな",
-        "確かに負けるかもしれないね"
+        "Podrías perder, seguro.",
+        "Podrías perder, seguro."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "え……。\nあの、トレーナーさん……？",
+      "name": "Eishin Flash",
+      "text": "Um... ¿Entrenador?",
       "choice_data_list": [
-        "でも挫折だって君は武器にしてきた",
-        "でも挫折だって貴方は武器にしてきた"
+        "Pero has convertido contratiempos en éxitos muchas\nveces antes.",
+        "Pero has convertido contratiempos en éxitos muchas\nveces antes."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……！"
+      "name": "Eishin Flash",
+      "text": "...!"
     },
     {
-      "text": "前回ミスターシービーに負けたから、\n彼女は勝ちたい想いを自覚できた。"
+      "name": "Monólogo",
+      "text": "Perder contra el Sr. C.B. la última vez fue<n> lo que\ndespertó su deseo de ganar."
     },
     {
-      "text": "その気持ちを推進力に理想に挑み……\n結果を出した。"
+      "name": "Monólogo",
+      "text": "Esa pérdida la impulsó a perseguir su<n> meta con\ntotal seriedad y obtener <n>resultados de ello."
     },
     {
-      "text": "En cierto modo, lo del 'Kikka-shō' también fue un\nrevés."
+      "name": "Monólogo",
+      "text": "En cierto modo, el Kikuka Sho también fue<n> un\ncontratiempo. Esa experiencia la ayudó<n> a aprender\na seguir mirando hacia <n>adelante y le permitió\nenfrentar a rivales <n>fuertes en la Japan Cup y el\nArima Kinen."
     },
     {
-      "text": "――失敗を繰り返して成長し、\n“完璧”に向かって歩み寄ってきたのだ。",
+      "name": "Monólogo",
+      "text": "Ella ha crecido y aprendido mucho a través<n> de sus\nfracasos mientras perseguía su idea<n> de perfección.",
       "choice_data_list": [
-        "今の君が誇らしいよ",
-        "今の貴方が誇らしいよ"
+        "Estoy muy orgulloso de en lo que te has\nconvertido.",
+        "Estoy muy orgulloso de en lo que te has\nconvertido."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……！",
+      "name": "Eishin Flash",
+      "text": "...!",
       "choice_data_list": [
-        "誰よりも努力してきた自分を信じて"
+        "Has trabajado más que nadie. Ten fe en ti misma."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……っ。"
+      "name": "Eishin Flash",
+      "text": "...!"
     },
     {
-      "name": "スマートファルコン",
-      "text": "だから、やりたいようにやっちゃえばいいよ♪\nフラッシュさんなら、なんだってできるもん！"
+      "name": "Smart Falcon",
+      "text": "¡Por eso creo que deberías simplemente <n>intentarlo\ny hacer lo que quieras! ♪ ¡Sé <n>que puedes lograr\ncualquier cosa que te<n> propongas!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……。"
+      "name": "Eishin Flash",
+      "text": "..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "…Todavía siento que voy a perder."
+      "name": "Eishin Flash",
+      "text": "Aún siento que voy a perder... que las cosas<n>\ncambiarán en mi contra en los últimos<n> cien\nmetros..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "Pero… la yo de ahora,"
+      "name": "Eishin Flash",
+      "text": "Sin embargo... Creo que, como soy ahora... puedo<n>\ncambiar las cosas a mi favor en los últimos <n>diez\nmetros."
     },
     {
-      "name": "ミスターシービー",
-      "text": "準備はできた？\nそろそろ始めよっか。"
+      "name": "Mr. C.B.",
+      "text": "¿Estás lista? ¿Debemos empezar?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……っはい！"
+      "name": "Eishin Flash",
+      "text": "¡Sí!"
     },
     {
-      "name": "ミスターシービー",
-      "text": "へえ。今日は……\nアタシだけに集中してくれそうだね。"
+      "name": "Mr. C.B.",
+      "text": "¿Oh? Parece que hoy tengo tu <n>atención."
     },
     {
-      "name": "ミスターシービー",
-      "text": "――じゃ、やろっか！"
+      "name": "Mr. C.B.",
+      "text": "¡Vamos a hacerlo!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ふっ……！"
+      "name": "Eishin Flash",
+      "text": "<i>Huff!</i>"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "（目の前のレースだけを見て……\nいつも通りに……ただ走る……！）"
+      "name": "Eishin Flash",
+      "text": "(Enfócate en la carrera frente a ti... y <n>solo\ncorre... ¡como siempre!)"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私を――信じる……！"
+      "name": "Eishin Flash",
+      "text": "¡Creo... en mí!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "（……っ？　脚が軽い。\nシービーさんの動きも、よくわかる……）"
+      "name": "Eishin Flash",
+      "text": "(¿Eh? Mis piernas se sienten ligeras, y puedo ver<n>\nlos movimientos del Sr. C.B. perfectamente...)"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "（――いける！）"
+      "name": "Eishin Flash",
+      "text": "(¡Puedo hacerlo!)"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ふっ……はぁああああああ！！"
+      "name": "Eishin Flash",
+      "text": "Uf... ¡Haaaaah!"
     },
     {
-      "name": "ミスターシービー",
-      "text": "はぁっ……はぁっ……。"
+      "name": "Mr. C.B.",
+      "text": "<i>Jadeo... Jadeo...</i>"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ふっ……ふっ……。"
+      "name": "Eishin Flash",
+      "text": "<i>Jadeo... Jadeo...</i>"
     },
     {
-      "name": "ミスターシービー",
-      "text": "――っぶなかったぁ～。\n逃げられるところだったよ！"
+      "name": "Mr. C.B.",
+      "text": "Eso estuvo muy reñido... ¡Pensé que<n> te ibas a\nescapar!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "捕まってしまいました。\nけれど……。"
+      "name": "Eishin Flash",
+      "text": "Aún lograste alcanzarme, <n>pero..."
     },
     {
-      "name": "ミスターシービー",
-      "text": "末脚、ベストなタイミングで使えてたね。\nいい走りだった！"
+      "name": "Mr. C.B.",
+      "text": "Usaste tu último empujón en el momento<n> exacto. ¡Lo\nhiciste genial!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……！"
+      "name": "Eishin Flash",
+      "text": "...!"
     },
     {
-      "name": "ミスターシービー",
-      "text": "いやー、久々に燃えちゃった。\n面白かったよ！"
+      "name": "Mr. C.B.",
+      "text": "Uf, no he tenido este tipo de emoción en mucho<n>\ntiempo. ¡Eso fue divertido!"
     },
     {
-      "name": "ミスターシービー",
-      "text": "後輩が育ってくれるのって、\nホント嬉しいねぇ……。"
+      "name": "Mr. C.B.",
+      "text": "Ver a la nueva generación crecer y<n> mejorar\nrealmente calienta el corazón..."
     },
     {
-      "name": "ミスターシービー",
-      "text": "またやろう、フラッシュ！\n――いつか、レース場でね！"
+      "name": "Mr. C.B.",
+      "text": "¡Hagámoslo de nuevo! ¡Pero en una carrera real!"
     },
     {
-      "text": "ミスターシービーと別れたあと……。",
+      "name": "Monólogo",
+      "text": "Después de despedirme del Sr. C.B...",
       "choice_data_list": [
-        "スケジュールを全うし続けた結果が出たな",
-        "スケジュールを全うし続けた結果が出たね"
+        "Parece que aferrarse al calendario fue la decisión\ncorrecta.",
+        "Parece que aferrarse al calendario fue la decisión\ncorrecta."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……。\n私は……自分を見失っていたんですね。"
+      "name": "Eishin Flash",
+      "text": "Yo... yo había perdido la pista de mí misma."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "怖くて……今まで積み重ねてきたものを、\n信じられなくなっていた。"
+      "name": "Eishin Flash",
+      "text": "Tenía miedo, y no confiaba en el trabajo duro<n> y\nprogreso que había construido hasta ahora..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "柔軟に、なんて耳ざわりのいい言葉で、\n真っすぐ向き合うことから逃げてしまった。"
+      "name": "Eishin Flash",
+      "text": "Intenté sonar noble diciendo<n> que era flexible,\npero al final,<n> todo lo que hacía era huir <n>de mi\nmiedo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "でも今日は、とても脚が軽かったんです。\n……泥のように重かったのに。"
+      "name": "Eishin Flash",
+      "text": "Mis piernas se sintieron ligeras como una <n>pluma\nhoy, aunque antes se sentían pesadas<n> como lodo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "貴方の言葉が、\n踏み込む力になったんです。"
+      "name": "Eishin Flash",
+      "text": "Tus palabras me dieron el poder <n>de avanzar."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私は……強くなっていた。\n積み重ねられていたんですね。",
+      "name": "Eishin Flash",
+      "text": "He... he crecido y me he vuelto más fuerte.<n> La\nacumulación de mi trabajo duro ha<n> dado frutos.",
       "choice_data_list": [
-        "積み重ねた1秒1秒が君の武器だ",
-        "積み重ねた1秒1秒が貴方の武器だよ"
+        "¡Y no hay arma más poderosa que el trabajo duro!",
+        "¡Y no hay arma más poderosa que el trabajo duro!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……！"
+      "name": "Eishin Flash",
+      "text": "...!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……トレーナーさん、聞かせてください。\nスケジュールを変えなかったとして――"
+      "name": "Eishin Flash",
+      "text": "¿Entrenador? Si... si no hubiera hecho <n>ningún\ncambio a mi calendario en absoluto..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "今の私のままでも、両親に誇り高い姿を、\n見せられると……思いますか？",
+      "name": "Eishin Flash",
+      "text": "¿Crees que aún habría podido hacer que<n> mis padres\nse sientan orgullosos?",
       "choice_data_list": [
-        "絶対に"
+        "Absolutamente."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……。"
+      "name": "Eishin Flash",
+      "text": "..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……曖昧な精神論ではなく、\n私を納得させる根拠を示した。"
+      "name": "Eishin Flash",
+      "text": "...Me has presentado evidencia<n> sólida y\nconvincente en lugar de argumentos<n> vagos y\nfilosóficos."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ならば信じるしかありません。\n私も……自分のこれまでを。",
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, no tengo más remedio que<n> creer en\nti... y en mí misma por haber llegado<n> hasta aquí.",
       "choice_data_list": [
-        "ご両親に誇りを貫く君を見せよう",
-        "ご両親に誇りを貫く貴方を見せよう"
+        "Ve y haz que tus padres se sientan orgullosos.",
+        "Ve y haz que tus padres se sientan orgullosos."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……っ。\nはいっ！"
+      "name": "Eishin Flash",
+      "text": "...¡Lo haré!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "挑みます。\nどのような強敵が、相手でも――！"
+      "name": "Eishin Flash",
+      "text": "Aceptaré el desafío, sin importar<n> mi rival o lo\nformidable que<n> sea."
     }
   ]
 }

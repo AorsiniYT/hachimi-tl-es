@@ -2,402 +2,421 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "クリスマス――"
+      "name": "Monólogo",
+      "text": "Diciembre ha llegado..."
     },
     {
-      "text": "の、25日前のこと。"
+      "name": "Monólogo",
+      "text": "Y las fiestas están a veinticinco<n> días."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "トレーナーさんに、\nぜひ見てほしいものがあります。"
+      "name": "Eishin Flash",
+      "text": "Entrenador. Hay algo que deseo que<n> veas."
     },
     {
-      "text": "エイシンフラッシュが勢い込んで\n持ってきたのは、クリスマスのイラストが\n描かれた箱状のものだった。",
+      "name": "Monólogo",
+      "text": "Ella sostiene emocionada una caja delgada y <n>plana\nhacia mí. Hay una escena festiva en su tapa.",
       "choice_data_list": [
-        "これは？"
+        "¿Qué es esto?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "アドベントカレンダーです。\n聞いたことはありませんか？"
+      "name": "Eishin Flash",
+      "text": "Un calendario de adviento. ¿Has oído <n>hablar de\nellos antes?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ドイツではクリスマスをとても大切にします。\nなので、当日までに様々な催しがあるんです。\nアドベントカレンダーもそのひとつ。"
+      "name": "Eishin Flash",
+      "text": "Diciembre es un mes importante para<n> muchas\npersonas en Alemania, con todo <n>tipo de\nfestividades ocurriendo. Contar<n> los días es una de\nellas."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "日付の書かれた小窓があるでしょう。\nクリスマスまで毎日その窓を開けていきます。"
+      "name": "Eishin Flash",
+      "text": "Las pequeñas puertas están etiquetadas<n> con una\nfecha, y una debe abrirse <n>cada día hasta la gran\ncelebración al <n>final del mes."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "中に入っているのは……早速今日の分を、\n開けてみてください。"
+      "name": "Eishin Flash",
+      "text": "En cuanto al contenido... Por favor, abre<n> la\npuerta de hoy y compruébalo por ti mismo."
     },
     {
-      "text": "エイシンフラッシュに言われるがまま、\n小窓を押し開けてみる。すると中から、\n金色の小さな包みが出てきた。"
+      "name": "Monólogo",
+      "text": "Hago lo que ella pide y abro la solapa, <n>revelando\nun pequeño paquete dorado en su interior."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そちらはチョコレートですね。\nこのカレンダーには\n25日分のお菓子が入っているんです。",
+      "name": "Eishin Flash",
+      "text": "Eso tiene chocolate en su interior.<n> Hay dulces\npara veinticinco<n> días dentro de este calendario.",
       "choice_data_list": [
-        "すごいな！",
-        "すごいね！"
+        "¡Guau!",
+        "¡Guau!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そうでしょう。なにが入っているかは\n当日のお楽しみです。"
+      "name": "Eishin Flash",
+      "text": "Impresionante, lo sé. Poder ver lo que hay<n> dentro\ncada día es bastante emocionante."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "クリスマスまでのカウントダウンを、\n意識していただければ嬉しいです。",
+      "name": "Eishin Flash",
+      "text": "Estaría muy feliz si este calendario<n> de adviento\nte diera algo pequeño<n> que esperar cada día.",
       "choice_data_list": [
-        "フラッシュも一緒にやろう！"
+        "¡Deberíamos abrir estos juntos!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "いえ、私の分はありませんよ。\nトレーナーさん用に製作したので。",
+      "name": "Eishin Flash",
+      "text": "No podemos. No hay suficientes dulces<n> para ambos.\nHice esto específicamente <n>para ti.",
       "choice_data_list": [
-        "手作りなのか！？",
-        "手作りなの！？"
+        "<i>¿¡Tú <i>hiciste</i> esto?!",
+        "<i>¿¡Tú <i>hiciste</i> esto?!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい、中のお菓子は私が作りました。\n全て違う種類になっています。",
+      "name": "Eishin Flash",
+      "text": "Los chocolates y dulces en el interior,<n> sí. Cada\nuno es único.",
       "choice_data_list": [
-        "気合い入ってるな……",
-        "気合い入ってるね……"
+        "Pusiste tanto trabajo en esto...",
+        "Pusiste tanto trabajo en esto..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "クリスマスですから。"
+      "name": "Eishin Flash",
+      "text": "Es porque es una época especial del año."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……というだけでもないのですが。",
+      "name": "Eishin Flash",
+      "text": "Aunque esa no es la única razón.",
       "choice_data_list": [
-        "俺にも何か手伝わせて",
-        "私にも何か手伝わせて"
+        "Déjame ayudarte con algo también.",
+        "Déjame ayudarte con algo también."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "いえ、3か月前から準備を進めていたので、\nお手伝いいただく必要はないです。"
+      "name": "Eishin Flash",
+      "text": "No, está bien. Mi plan para las fiestas se <n>puso en\nmarcha hace tres meses, así que no hay<n> necesidad\nde ayudarme."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "当日にも料理やケーキを用意する予定です。\nぜひ楽しみにしていてください。"
+      "name": "Eishin Flash",
+      "text": "También prepararé comida y pastel. Espero <n>que lo\nestés esperando con ansias."
     },
     {
-      "text": "そうは言うものの、もらってばかりでは\r\n申し訳ない。せめてクリスマスプレゼントを\n渡せないかと考えていたところ――"
+      "name": "Monólogo",
+      "text": "Sé que ella dijo que no necesitaba<n> ayuda, pero aún\nme siento mal por no hacer<n> nada a cambio. Debería\nconseguirle un <n>regalo, al menos."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――私にも同じリースが届きました。\nメッセージは異なりますが。"
+      "name": "Eishin Flash",
+      "text": "Recibí la misma guirnalda. El mensaje<n> adjunto era\ndiferente, sin embargo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "『デビューした喜びが、この先の\n競技人生でも永遠に続きますように』\n……そんな想いを込めてくれたようです。"
+      "name": "Eishin Flash",
+      "text": "\"Que la alegría que sentiste en tu debut <n>continúe\na lo largo de tu carrera de carreras.\" Esa<n> es la\nbendición con la que está imbuida la mía."
     },
     {
-      "text": "……クリスマスまで残り25日。\r\n仕事の合間に通う教室を探すため、\nスマホを手に取った――"
+      "name": "Monólogo",
+      "text": "Faltan veinticinco días para la gran <n>celebración.\nSaco mi teléfono para buscar clases<n> de\nmanualidades a las que pueda asistir<n> entre turnos\nen el trabajo."
     },
     {
-      "text": "そして、クリスマスまでの日々……\nエイシンフラッシュは精力的に動いていた。"
+      "name": "Monólogo",
+      "text": "Eishin Flash sigue trabajando diligentemente<n>\ndurante todo el mes a medida que se <n>acerca el gran\ndía."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――ふっ……ふっ……ふぅ……！"
+      "name": "Eishin Flash",
+      "text": "<i>Jadeo... Jadeo... Jadeo...</i>"
     },
     {
-      "text": "（どしーん！）"
+      "name": "Monólogo",
+      "text": "<i>¡Golpe!</i>"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "始めますか。"
+      "name": "Eishin Flash",
+      "text": "Hora de comenzar."
     },
     {
-      "text": "Lo que Eishin Flash trajo sin esfuerzo fue,",
+      "name": "Monólogo",
+      "text": "Eishin Flash arrastra un árbol masivo que mide\nfácilmente<n> más de dos metros de altura como si\nfuera un <n>palillo de dientes.",
       "choice_data_list": [
-        "何してるんだ……？",
-        "何してるの……？"
+        "¿Empezar con qué, exactamente?",
+        "¿Empezar con qué, exactamente?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ノルトマンモミを仕入れられたので、\n今から手入れをします。"
+      "name": "Eishin Flash",
+      "text": "Pude conseguir un abeto de Nordmann,<n> que intento\nempezar a decorar <n>inmediatamente."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "当日には立派なクリスマスツリーに\nなっていますから、お楽しみに。"
+      "name": "Eishin Flash",
+      "text": "Será un gran centro de mesa para el <n>veinticinco,\nasí que por favor espera con <n>ansias."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "あ、トレーナーさん。\n今日のアドベントカレンダーは開けましたか？",
+      "name": "Eishin Flash",
+      "text": "Ah, Entrenador. ¿Has abierto la puerta de<n> hoy del\ncalendario de adviento?",
       "choice_data_list": [
-        "グミだった！"
+        "¡Sí, conseguí algunos dulces gomosos!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "テディベアの形のものですね。\r\nグミはなかなか作る機会がないので、\n楽しかったです。"
+      "name": "Eishin Flash",
+      "text": "En forma de ositos de peluche, ¿sí? Me <n>divertí\nmucho preparándolos ya que las <n>oportunidades de\nhacer dulces gomosos son<n> escasas."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "では、作業がありますので失礼します。"
+      "name": "Eishin Flash",
+      "text": "Ahora debes disculparme. Todavía tengo <n>trabajo que\nhacer."
     },
     {
-      "text": "また別の日には――"
+      "name": "Monólogo",
+      "text": "En otro día..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "では、5㎏のガチョウでお願いします。\n当日に引き取りにきます。"
+      "name": "Eishin Flash",
+      "text": "Un ganso de cinco kilogramos, por favor. Lo<n>\nrecogeré el mismo día."
     },
     {
-      "name": "肉屋の主人",
-      "text": "あいよーっ！\nとびっきりの仕入れておくからな！"
+      "name": "Butcher",
+      "text": "¡Lo tengo! ¡Conseguiré el mejor que pueda solo<n>\npara ti!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ありがとうございます。"
+      "name": "Eishin Flash",
+      "text": "Gracias."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "次は八百屋ですね。ジャガイモ4㎏、\n紫キャベツ4玉、りんご2㎏――"
+      "name": "Eishin Flash",
+      "text": "Lo siguiente es el supermercado. <n>Necesito cuatro\nkilogramos de papas, cuatro<n> repollos morados, dos\nkilogramos de<n> manzanas..."
     },
     {
-      "text": "こうして、トレーニングに励みつつ\r\n準備のため東奔西走する彼女を見守り――"
+      "name": "Monólogo",
+      "text": "Y así, la vigililo mientras equilibra los\n<n>preparativos de las fiestas y su entrenamiento."
     },
     {
-      "text": "――迎えたクリスマス当日。\n最後のアドベントカレンダーを\nエイシンフラッシュと一緒に開けると……。",
+      "name": "Monólogo",
+      "text": "Diciembre se acerca a su fin. Eishin<n> Flash y yo\nabrimos juntos la última puerta<n> del calendario de\nadviento.",
       "choice_data_list": [
-        "クリスマスツリー？"
+        "¿Un abeto?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。マジパンで作りました。\n甘くて美味しいですよ。"
+      "name": "Eishin Flash",
+      "text": "Así es. Es delicioso y dulce ya<n> que está hecho de\nmazapán."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "これで全て開け終わりましたね。\nお疲れ様でした。",
+      "name": "Eishin Flash",
+      "text": "Con eso, todas las puertas han sido<n> abiertas. Bien\nhecho.",
       "choice_data_list": [
-        "ありがとう、すごく楽しかった！"
+        "¡Gracias! ¡Fue muy divertido!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。毎朝トレーナーさんから\nご報告をいただけて、私も嬉しかったです。"
+      "name": "Eishin Flash",
+      "text": "Me alegro. También disfruté tu informe cada mañana<n>\nantes de nuestras sesiones de entrenamiento."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "さて、クリスマスパーティーの\nスケジュールですが――"
+      "name": "Eishin Flash",
+      "text": "Ahora, con respecto a nuestro horario para<n> la\nfiesta..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "食事をしながらお喋りをします。\n以上です。",
+      "name": "Eishin Flash",
+      "text": "Hablararemos de ello mientras compartimos<n> una\ncomida. Eso es todo.",
       "choice_data_list": [
-        "……それだけ？"
+        "¿Eso es todo?"
       ]
     },
     {
-      "text": "あれほど張り切って準備していたパーティー。\n思いのほかシンプルな内容なので、\n少し驚いてしまった。"
+      "name": "Monólogo",
+      "text": "Me sorprende lo poco detallado que está <n>el\nhorario, especialmente considerando lo mucho<n> que\nella trabajó para preparar todo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。それだけです。元々食事や装飾周りの\n準備しかしていなかったので。"
+      "name": "Eishin Flash",
+      "text": "Sí, eso es todo. Solo preparé comida<n> y decoración."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "では早速、料理を持ってきますね。",
+      "name": "Eishin Flash",
+      "text": "Ahora mismo traigo la comida.",
       "choice_data_list": [
-        "その前に……"
+        "Espera, un momento."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……？"
+      "name": "Eishin Flash",
+      "text": "¿...?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "これは……リース、ですか？"
+      "name": "Eishin Flash",
+      "text": "¿Esto es... una guirnalda?"
     },
     {
-      "text": "エイシンフラッシュにプレゼントしたのは、\r\nコツコツと作っていた\nクリスマスリースだった。",
+      "name": "Monólogo",
+      "text": "Le doy a Eishin Flash la guirnalda<n> que armé con\ntanto esfuerzo durante el <n>último mes.",
       "choice_data_list": [
-        "ご両親のものに比べたら雑だけど……"
+        "No es mucho comparado con el de tus padres,\npero..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "トレーナーさんが、\n作ったんですか……？"
+      "name": "Eishin Flash",
+      "text": "Entrenador, ¿hiciste esto a mano?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私の、ために……？",
+      "name": "Eishin Flash",
+      "text": "¿Solo para mí?",
       "choice_data_list": [
-        "フラッシュの幸せを祈って"
+        "Sí. Lo hice con la esperanza de que siempre seas\nfeliz, Flash."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "あ……――"
+      "name": "Eishin Flash",
+      "text": "Oh..."
     },
     {
-      "name": "フラッシュの父親",
-      "text": "『お祈りしよう。\nフラッシュの幸せのために……』"
+      "name": "Padre de Flash",
+      "text": "Que siempre encuentres felicidad dondequiera<n> que\nla vida te lleve..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……っ。",
+      "name": "Eishin Flash",
+      "text": "¡...!",
       "choice_data_list": [
-        "……！？"
+        "¡¿Flash?!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "あ……あれ？"
+      "name": "Eishin Flash",
+      "text": "¿E-eh?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "すみません、\nすごく、すごく嬉しいんです……。"
+      "name": "Eishin Flash",
+      "text": "Disculpa. E-estoy tan abrumado <n>de alegría..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……クリスマスは家族と過ごす、\n私にとってすごく特別な日です。"
+      "name": "Eishin Flash",
+      "text": "Esta festividad está pensada para pasar<n> en familia\ny ocupa un lugar especial en mi<n> corazón."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ですが去年は心の余裕がなく、クリスマスを\n大切に過ごすことができませんでした。"
+      "name": "Eishin Flash",
+      "text": "Sin embargo, el año pasado no tuve la <n>tranquilidad\nmental para celebrarlo adecuadamente."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "それに……一緒に過ごす人も、\nいないと思っていたんです。"
+      "name": "Eishin Flash",
+      "text": "Y... no creía tener a nadie con<n> quien celebrarlo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "家族を思い出して寂しくなるくらいなら……\nそんな気持ちもありました。"
+      "name": "Eishin Flash",
+      "text": "Pensé que sería mejor omitirlo <n>si pensar en mi\nfamilia solo me<n> haría sentir solo..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "けれど本当は、ずっと……家族のように\n見守ってくれている方が、いたんですよね。"
+      "name": "Eishin Flash",
+      "text": "Pero en realidad, hubo alguien<n> que me cuidó como\nfamilia todo el <n>tiempo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ですから今年は、その方へお礼も兼ねて……\n素晴らしいクリスマスにしたかったんです。"
+      "name": "Eishin Flash",
+      "text": "Por eso organicé una fiesta este año. Quería<n>\ncelebrarlo adecuadamente y usarlo para <n>agradecer a\nesa persona especial."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そうしたら私が、素晴らしい\nプレゼントをもらってしまいましたね。",
+      "name": "Eishin Flash",
+      "text": "Y aún así, soy yo quien recibió un<n> regalo\nmaravilloso en el proceso.",
       "choice_data_list": [
-        "俺のほうがもらってばかりだよ",
-        "私のほうがもらってばかりだよ"
+        "Tú me has dado mucho más.",
+        "Tú me has dado mucho más."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "いえ、私のほうが――"
+      "name": "Eishin Flash",
+      "text": "No, eres tú quien—"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ふふ。これではラチがあきませんね。\r\n料理も待っていることですし、\n早速パーティーを始めましょうか。"
+      "name": "Eishin Flash",
+      "text": "Jejé. A este ritmo no habrá fin. Los <n>platos se\nestán enfriando, así que ¿por <n>qué no comenzamos la\nfiesta?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "なにから食べますか？\n鯉料理もありますよ。",
+      "name": "Eishin Flash",
+      "text": "¿Qué te gustaría primero? También hay<n> carpa, si\nquieres.",
       "choice_data_list": [
-        "鯉……？"
+        "¿Carpa?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "...Como era de esperar, esa es su reacción."
+      "name": "Eishin Flash",
+      "text": "Anticipé esa reacción. Esto se llama <n>'carpa azul'\ny es un plato estacional<n> encantador."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "日本では鯉料理は一般的ではないようです。\nファルコンさんにも驚かれて――"
+      "name": "Eishin Flash",
+      "text": "Parece que la carpa no es un ingrediente <n>común en\nJapón. Falcon se sorprendió mucho<n> cuando yo..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――だから子ども心に思ったんです。\nサンタクロースは必ず存在すると。"
+      "name": "Eishin Flash",
+      "text": "Era bastante inocente y creía que<n> Papá Noel\nexistía sin lugar a<n> dudas."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私なりに捕縛予定を立て、実行し……\n結果、両親をとても驚かせてしまいました。"
+      "name": "Eishin Flash",
+      "text": "Así que hice un plan para atraparlo y<n> lo puse en\nmarcha... Pero al final solo <n>logré pillar a mis\npadres <n>completamente desprevenidos."
     },
     {
-      "text": "その後もエイシンフラッシュの\n料理に舌鼓を打ちつつ、\nたくさんのことをお喋りした……。"
+      "name": "Monólogo",
+      "text": "Eishin Flash me cuenta aún más historias <n>mientras\ndisfruto de su cocina."
     },
     {
-      "text": "……エイシンフラッシュの、クリスマスへの\r\n並々ならぬ想いに触れ……。もっと彼女を\n笑顔にする方法はないかと考えた。"
+      "name": "Monólogo",
+      "text": "Después de ver cuánto ama Eishin Flash<n> la\ntemporada festiva, quise encontrar<n> otra manera de\nhacerla aún más <n>especial para ella."
     },
     {
-      "text": "そして料理を味わいつつ、\nお喋りをしていたところ――"
+      "name": "Monólogo",
+      "text": "Y así, mientras disfrutamos de la <n>comida y\ncharlamos juntos..."
     },
     {
-      "name": "スマートファルコン",
-      "text": "失礼しまーす♪"
+      "name": "Smart Falcon",
+      "text": "¡Hola, hola! ♪"
     },
     {
-      "name": "スマートファルコン",
-      "text": "フラッシュさんとトレーナーさんっ！\nメリークリスマース♪"
+      "name": "Smart Falcon",
+      "text": "¡Hola, ustedes dos! ¡Felices Fiestas! ♪"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ファルコンさん？\nなぜこちらに……？"
+      "name": "Eishin Flash",
+      "text": "¿Falcon? ¿Qué haces aquí?"
     },
     {
-      "name": "スマートファルコン",
-      "text": "ファル子だけじゃないよ？\n他のみんなもいらっしゃーい！"
+      "name": "Smart Falcon",
+      "text": "¡No soy solo yo! ¡Adelante, todos!"
     },
     {
-      "name": "カレンチャン",
-      "text": "フラッシュさんっ。\nメリークリスマスです♪"
+      "name": "Curren Chan",
+      "text": "¡Felices Fiestas, Flash! ♪"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "メリクリ～。\nうわ、料理すごー！　撮らして！"
+      "name": "Tosen Jordan",
+      "text": "¡Felices Fiestas! ¡Guau, mira toda esta<n> comida!\n¡Tengo que tomarle una foto!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "カレンさん、ジョーダンさん。\n他にも、色んな方が……。"
+      "name": "Eishin Flash",
+      "text": "Curren, Jordan. Y todos los demás...<n> No los\nesperaba a todos."
     },
     {
-      "name": "スマートファルコン",
-      "text": "あっ、先に言っておくと、フラッシュさんの\n静かなクリスマスを邪魔する気はないよ？"
+      "name": "Smart Falcon",
+      "text": "Ah, solo para aclarar, no estamos aquí para<n>\narruinar su fiesta tranquila ni nada."
     },
     {
-      "name": "スマートファルコン",
-      "text": "けどその前に～……日本のわいわい\nガヤガヤクリスマスも楽しんでもらいたくて☆",
+      "name": "Smart Falcon",
+      "text": "¡Pero! ¡Sí queremos que experimentes las<n> fiestas\nde fin de año ruidosas y alborotadas<n> que nos gusta\nhacer en Japón! ☆",
       "choice_data_list": [
-        "俺が呼んだんだ",
-        "私が呼んだんだ"
+        "Yo los invité.",
+        "Yo los invité."
       ]
     },
     {
-      "text": "『一緒に過ごす人はいない』去年の彼女は\nそう感じていたようだが……今は違う。",
+      "name": "Monólogo",
+      "text": "Eishin Flash podría haber pensado<n> que no tenía a\nnadie con quien <n>pasar las fiestas el año pasado,\npero esa <n>creencia suya ya no es cierta.",
       "choice_data_list": [
-        "君にはたくさん仲間がいる",
-        "貴方にはたくさん仲間がいる"
+        "Tienes montones de amigos.",
+        "Tienes montones de amigos."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……！"
+      "name": "Eishin Flash",
+      "text": "¡...!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……はい。そうですね。\nそうでした……。"
+      "name": "Eishin Flash",
+      "text": "Tienes razón... Parece que sí."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私……今日ここで、この学園で。\nクリスマスを過ごせてよかったです――"
+      "name": "Eishin Flash",
+      "text": "Me alegra estar aquí en esta academia<n> ahora,\npasando las fiestas contigo."
     },
     {
-      "text": "その時微笑んだ彼女は、\nまるで幼い子どものようだった。"
+      "name": "Monólogo",
+      "text": "Se ve como una niña con su sonrisa<n> brillante y\nradiante."
     }
   ]
 }

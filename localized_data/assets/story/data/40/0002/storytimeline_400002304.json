@@ -2,103 +2,110 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "マチカネフクキタル",
-      "text": "…………ハァッ！！！"
+      "name": "Matikanefukukitaru",
+      "text": "<i>¡Jadeo!</i>"
     },
     {
-      "text": "チームトレーニングへ行くと、\nマチカネフクキタルが固まっていた。",
+      "name": "Monólogo",
+      "text": "Al dirigirme al entrenamiento, veo<n> a\nMatikanefukukitaru parada muy quieta, con una\n<n>expresión horrorizada en su rostro.",
       "choice_data_list": [
-        "どうした？",
-        "どうしたの？"
+        "Oye, ¿qué pasa?",
+        "Oye, ¿qué pasa?"
       ]
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "きっ、黄緑色が一面に！？\r\nどうしましょうトレーナーさん！？"
+      "name": "Matikanefukukitaru",
+      "text": "¡Toda el área está inundada por una alfombra<n> de\namarillo-verde! ¡Oh, qué <i>hago, <i>Entrenador?</i>"
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "私、今日、走れませーんっ！"
+      "name": "Matikanefukukitaru",
+      "text": "¡De ninguna manera puedo correr hoy!"
     },
     {
-      "text": "――とりあえず落ち着かせて、\r\nよくよく話を聞いてみると……。"
+      "name": "Monólogo",
+      "text": "La calmo para que pueda explicar <n>qué la tiene tan\nagitada."
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "私の本日のアンラッキーカラーは\r\n『黄緑色』なのです……。"
+      "name": "Matikanefukukitaru",
+      "text": "Mi color de la mala suerte hoy es el\namarillo-verde,<n> ¿sabes?..."
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "つまりそう……っ、ここ一面中の\n芝の色がアンラッキーなわけでしてっ！"
+      "name": "Matikanefukukitaru",
+      "text": "¡Lo que significa que toda la hierba a nuestro<n>\nalrededor va a traerme mala suerte!"
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "コースを走ればたちまち大殺界に！？\nぎゃーっ！　やはり今日は無理ですっ！"
+      "name": "Matikanefukukitaru",
+      "text": "¡Acabaré maldiciéndome para siempre si corro<n> en la\npista ahora mismo! ¡Gah! ¡Ni siquiera<n> quiero\npensar en eso! ¡Correr simplemente<n> no es una\nopción hoy!"
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "というわけで本日のトレーニング、休みます！\r\nよろしくお願いいたしますーっ！",
+      "name": "Matikanefukukitaru",
+      "text": "Lo siento, pero ¡me tomo el día libre!",
       "choice_data_list": [
-        "ちょ、ちょっと待って！"
+        "¡E-espera un momento!"
       ]
     },
     {
-      "text": "彼女の思想を否定したくはないが、\nトレーニングには参加して欲しい。"
+      "name": "Monólogo",
+      "text": "No quiero invalidar sus creencias, pero parece<n>\nexcesivo dejar que se salte un día completo<n> de\nentrenamiento."
     },
     {
-      "text": "なんとか工夫して、黄緑色を気にしない\nようにできないだろうか。そう伝えると――"
+      "name": "Monólogo",
+      "text": "Le pregunto si hay algo que podamos hacer para<n> que\npueda entrenar sin preocuparse por su color<n> de la\nmala suerte."
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "工夫、ですか。\nむむむ、新しい視点ですねぇー……。"
+      "name": "Matikanefukukitaru",
+      "text": "Hmm... Pregunta interesante. Tomar el <n>asunto en\nnuestras propias manos es ciertamente <n>un enfoque\nnovedoso..."
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "とはいえ、黄緑を別の色にすることは\nできませんしー……。"
+      "name": "Matikanefukukitaru",
+      "text": "Aún así, no es como si pudiéramos teñir la <n>hierba\nde otro color..."
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "……別の、色……。"
+      "name": "Matikanefukukitaru",
+      "text": "A menos que..."
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "ほっ！　ひらめきましたぁー！\nしばしお待ちをー！"
+      "name": "Matikanefukukitaru",
+      "text": "¡Lo tengo! ¡Espera aquí, Entrenador!"
     },
     {
-      "text": "そうして、しばらく待ってみると――\nサングラスを手にした彼女が帰ってきた。"
+      "name": "Monólogo",
+      "text": "Después de un momento, vuelve <n>corriendo... con un\npar de gafas de sol."
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "これさえかければアラ不思議！\r\n黄緑色も茶色に見えること間違いなし！",
+      "name": "Matikanefukukitaru",
+      "text": "¡Encontré una solución! Si me las pongo, los\ntemidos<n> matices amarillo-verdes a nuestro\nalrededor<n> se verán como un marrón apagado e\ninofensivo!",
       "choice_data_list": [
-        "（それでいいんだ）"
+        "(¿Realmente es tan simple?)"
       ]
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "さっそく装着です！"
+      "name": "Matikanefukukitaru",
+      "text": "¡Lo probaré ahora mismo!"
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "おおー！　なりましたぁ！\n黄緑色が茶色に！　大成功ですっ！"
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh! ¡Tenía razón! ¡Ahora todo <n>es marrón! ¡Hurra!"
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "むしろセピアカラーのグラウンドって\nなんだか神秘的でありがたい感じがしますー！"
+      "name": "Matikanefukukitaru",
+      "text": "De hecho, ¡los terrenos de entrenamiento se\n<n>sienten aún más místicos bañados en tonos sepia!\n<n>¡Oh, qué maravilloso!"
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "いやぁ、工夫というのもやってみる\nものですねぇ～。"
+      "name": "Matikanefukukitaru",
+      "text": "¡Supongo que a veces vale la pena pensar <n>fuera de\nlo común!"
     },
     {
-      "name": "マチカネフクキタル",
-      "text": "これで今日は黄緑色を見ずに済みそうです！\nいやぁ、ありがたや、ありがたや～！"
+      "name": "Matikanefukukitaru",
+      "text": "¡Ahora no tendré que preocuparme por <n>encontrarme\ncon nada amarillo-verde! ¡Ah, qué día<n> tan\nbendecido!"
     },
     {
-      "text": "その後、サングラスをかけて元気いっぱいに\r\n駆けるマチカネフクキタルの様子が見られ――"
+      "name": "Monólogo",
+      "text": "Gracias a sus gafas de sol,<n> Matikanefukukitaru\nestá llena de energía durante<n> toda la sesión de\nentrenamiento."
     },
     {
-      "text": "そんな彼女に影響されて、明るい雰囲気で、\r\nトレーニングを行うことができたのだった。"
+      "name": "Monólogo",
+      "text": "Su entusiasmo brillante también pone de <n>buen humor\na los demás, y lo pasan bien <n>en el entrenamiento."
     }
   ]
 }

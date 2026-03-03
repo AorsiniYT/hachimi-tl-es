@@ -1,75 +1,75 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Meisho Doto",
-      "text": "<i>Suspiro...</i> Blegh... Entrenador..."
-    },
-    {
-      "name": "Monólogo",
-      "text": "Completely spent, Meisho Doto<n>collapses on\nthe\\nturf."
-    },
-    {
-      "name": "T.M. Opera O",
-      "text": "Oh, Doto. Is that your impression of\na<n>soldier\\ndefeated by exhaustion?\nYou<n>appeared a little\\nwilted during the race."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Yeeeeah... I couldn't focus on\nanything<n>but\\nrunning, not even the results..."
-    },
-    {
-      "name": "Monólogo",
-      "text": "Despite her loss to T.M. Opera O,<n>Meisho Doto\nis\\nable to clear her first<n>hurdle in the\nClassic Triple\\nCrown."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Trainer, I'd like to give you my\nthanks.<n>I'm\\nextremely flawed and clumsy...\nI<n>thought the\\nClassics might ruin me."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "But, at least I can say I got through\nit<n>without\\nbothered anyone. This was<n>really a\nrace to\\nremember.",
-      "choice_data_list": [
-        "Es genial oír eso, Doto.",
-        "Es genial oír eso, Doto."
-      ]
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Sí, gracias. Um... pero sería<n>genial hacer\nuna cosa diferente para la<n>ocasión.",
-      "choice_data_list": [
-        "¿Quieres tomar una foto conmemorativa?"
-      ]
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "No, no es eso... Estaba pensando en tener<n>unos\nsnacks en un lindo parche de pasto.<n>La brisa está agradable\nhoy.",
-      "choice_data_list": [
-        "¿Quieres ir de viaje?"
-      ]
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "¡Gyah! No, ¡no es eso a lo que me refiero!"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Supongo que es un no.",
-      "choice_data_list": [
-        "Está bien, pero no podemos quedarnos fuera mucho tiempo.",
-        "Está bien, pero no podemos quedarnos fuera mucho tiempo."
-      ]
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Oh, ¡Entrenador! Muchas gracias. Invitaré\na<n>todos."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "¡Ópera O, Ayabe!"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Como uno puede imaginarse, no <i>todos</i> están\nde<n>acuerdo en venir. Aún así, disfrutamos un\npequeño<n>picnic sentados en el centro de la\npista."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Suspiro...</i> Blegh... Entrenador..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Completamente agotada, Meisho Doto<n> se desploma en\nel césped."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ah, Doto. ¿Es esa tu impresión de un <n>soldado\nderrotado por el agotamiento? <n>Parecías un poco\ndecaída durante la carrera."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Yeeeeah... No podía concentrarme en nada más que<n>\nen correr, ni siquiera en los resultados..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A pesar de su derrota ante T.M. Opera<n> O, Meisho\nDoto es capaz de superar su primer<n> obstáculo en la\nTriple Corona Clásica."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Entrenador, me gustaría darte las gracias. <n>Soy\nextremadamente defectuosa y torpe... <n>Pensé que las\nClásicas podrían arruinarme."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Pero, al menos puedo decir que lo superé<n> sin\nmolestar a nadie. Esta fue realmente<n> una carrera\npara recordar.",
+            "choice_data_list": [
+                "Es genial escuchar eso, Doto.",
+                "Es genial escuchar eso, Doto."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Sí, gracias. Eh... pero sería<n> bueno hacer otra\ncosa para la<n> ocasión.",
+            "choice_data_list": [
+                "¿Quieres tomarte una foto conmemorativa?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "No, no es eso... Estoy pensando en tener algunos<n>\naperitivos en un lindo trozo de césped.<n> La brisa\nestá agradable hoy.",
+            "choice_data_list": [
+                "¿Quieres irte de viaje?!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "¡Gyah! ¡No, no es lo que quise decir!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Supongo que eso es un no.",
+            "choice_data_list": [
+                "Está bien, pero no podemos quedarnos fuera\ndemasiado tiempo.",
+                "Está bien, pero no podemos quedarnos fuera\ndemasiado tiempo."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ah, Entrenador! Muchas gracias. <n>Invitaré a todos."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "¡Opera O, Ayabe!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Como uno puede <i>imaginar, no <i>todos</i> <n></i>aceptan venir.\nAún así, disfrutamos de un <n>pequeño picnic sentados\nen el centro de la pista."
+        }
+    ]
 }

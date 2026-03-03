@@ -1,134 +1,134 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡E-E-Entrenador!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡¿L-lo viste?!",
-      "choice_data_list": [
-        "¡Claro que sí!"
-      ]
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡Corrí unos completos... 1,600 metros!<n>Y no solo\neso, ¡gané!",
-      "choice_data_list": [
-        "¡Felicidades!"
-      ]
-    },
-    {
-      "name": "Monólogo",
-      "text": "Sakura Bakushin O solía tener problemas<n>con las\ndistancias de milla... pero<n>ha demostrado que ya\nno son un<n>desafío para ella."
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Sin embargo, es natural que haya<n>ganado hoy.\nDespués de todo, soy la<n>representante de clase."
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Siempre supe que era del tipo que<n>puede\nlograrlo... pero ¡esto es mucho<n>incluso para mí!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Es simplemente... ¡sublime!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡Mi talento está floreciendo al máximo<n>Bakushin!",
-      "choice_data_list": [
-        "(¿Qué se supone que significa eso?)"
-      ]
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡Acabo de tener una realización!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡No se desmayen con mis palabras!<n>Pero parece\nque después de tres<n>años de esfuerzo continuo..."
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡Ahora puedo correr 400 metros<n>extra!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Si sigo Bakushin-eando a este ritmo..."
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "A ver, si divides 3,000 metros entre<n>400\nmetros... Lleva el uno..."
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡En fin! ¡Dame diez años y ganaré<n>todas las\ncarreras que existan!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡¿Espera, diez años?!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "E-eh? Um... ¿qué?"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Ella <i>podría</i> ganar cualquier carrera\nsi<n>continúa a este ritmo... ¡nada\nes<n>imposible!",
-      "choice_data_list": [
-        "¡Las representantes de clase no sudan por\ntonterías!"
-      ]
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "<i>¡Jadeo!</i> ¡Tienes razón!",
-      "choice_data_list": [
-        "¡Mantengamos este tempo para el Tenno Sho!"
-      ]
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡El Tenno Sho!",
-      "choice_data_list": [
-        "¡Y luego el Arima Kinen!"
-      ]
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Oh... ¡Ooooh!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡Sí, vamos por ello! ¡Lo quiero, sin<n>duda!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡Si estoy contigo, Entrenador,<n>definitivamente sucederá!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡No importa lo que haya ahead, lo<n>enfrentaremos\nal estilo Bakushin!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡Bakushin, BAKUSHIIIN!",
-      "choice_data_list": [
-        "¡Bakushin, BAKUSHIIIN!"
-      ]
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡Bien hecho! ¡Dame uno más!"
-    },
-    {
-      "name": "Monólogo",
-      "text": "...¡El viaje de Sakura Bakushin O continúa!"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "¡BAKUUUSHIIIN!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡E-E-Entrenador!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¿¡V-viste eso!?",
+            "choice_data_list": [
+                "¡Claro que sí!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡Corrí una distancia completa de... 1,600 metros!\nY <n>no solo eso, ¡gané!",
+            "choice_data_list": [
+                "¡Felicidades!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sakura Bakushin O solía tener dificultades con<n> las\ndistancias de milla... ¡pero ha demostrado que <n>ya\nno es un desafío para ella!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Sin embargo, es solo natural que haya ganado<n> hoy.\nSoy representante de clase después de todo."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Siempre supe que era del tipo que puede...<n> ¡pero\nesto es mucho incluso para mí!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Es simplemente... ¡sublime!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡Mi talento está floreciendo al <n>máximo Bakushin!",
+            "choice_data_list": [
+                "(¿Qué se supone que significa eso?)"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡Acabo de tener una revelación!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡No te desmayes con mis palabras! Pero<n> parece que\ntras tres años de esfuerzo<n> continuo..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡Ahora soy capaz de correr 400 <n>metros extra!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Si sigo Bakushin-eando a este ritmo..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Veamos, si divides 3,000 metros entre<n> 400\nmetros... Lleva el uno..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡De todos modos! ¡Dame diez años y ganaré<n> cada\ncarrera que exista!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡Espera, ¿diez años!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¿E-eh? Eh... ¿qué?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Ella <i>podría</i> ganar cualquier <n>carrera si sigue a\neste ritmo... ¡nada<n> es imposible!",
+            "choice_data_list": [
+                "¡Las representantes de clase no se estresan por\ntonterías!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>¡Jadeo!</i> ¡Tienes razón!",
+            "choice_data_list": [
+                "¡Mantengamos este ritmo para el Tenno Sho!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡El Tenno Sho!",
+            "choice_data_list": [
+                "¡Y luego el Arima Kinen!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh... ¡Ooooh!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡Sí, vamos a por ello! ¡Quiero, sin<n> duda!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡Si estoy contigo, Entrenador, definitivamente<n>\nsucederá!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡No importa qué haya adelante, lo enfrentaremos<n> al\nestilo Bakushin!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡Bakushin, BAKUSHIIIN!",
+            "choice_data_list": [
+                "¡Bakushin, BAKUSHIIIN!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "¡Bien hecho! ¡Dame uno más!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "...¡El viaje de Sakura Bakushin O <n>continúa!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "BAKUUUSHIIIN!"
+        }
+    ]
 }

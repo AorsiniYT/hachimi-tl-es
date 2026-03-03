@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Temprano una mañana, El Condor Pasa<n>viene\ncorriendo"
+      "text": "Una mañana temprano, El Condor <n>Pasa viene\ncorriendo hacia mí mientras<n> me dirijo a la\nacademia."
     },
     {
       "name": "El Condor Pasa",
-      "text": "¡Buenos días, Trainer!",
+      "text": "¡Buenos días, Entrenador!",
       "choice_data_list": [
         "¡Te levantaste temprano!",
         "¡Te levantaste temprano!"
@@ -34,11 +34,11 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "¡Cuidado, Trainer, o podrías<n>quemarte!"
+      "text": "¡Cuidado, Entrenador, o podrías <n>quemarte!"
     },
     {
       "name": "El Condor Pasa",
-      "text": "¡Las llamas de la pasión están<n>fuera de control!"
+      "text": "¡Las llamas de la pasión están ardiendo <n>sin\ncontrol!"
     }
   ]
 }

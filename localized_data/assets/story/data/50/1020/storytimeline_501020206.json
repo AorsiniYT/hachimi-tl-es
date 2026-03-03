@@ -3,126 +3,126 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "El día del Takarazuka Kinen, voy a<n>recoger\na<n>Seiun Sky, como de costumbre."
+      "text": "El día del Takarazuka Kinen, voy a <n>recoger a Seiun\nSky, como de costumbre."
     },
     {
       "name": "Seiun Sky",
       "text": "<i>Bostezo...</i>",
       "choice_data_list": [
-        "(Está totalmente agotada.)"
+        "¿No dormiste mucho?"
       ]
     },
     {
       "name": "Seiun Sky",
-      "text": "Estoy acabada... Dame un segundo para descansar."
+      "text": "Oh, dormí lo suficiente. Me encanta dormir <n>tres\nveces más de lo que me encanta la comida,<n> ¿sabes?"
     },
     {
       "name": "Seiun Sky",
-      "text": "Y por \"un segundo\", quiero decir \"hasta el<n>Kikuka Sho.\"",
+      "text": "Solo seguía despertándome, nada más.",
       "choice_data_list": [
-        "¡De ninguna manera!",
-        "¡De ninguna manera!"
+        "Suena a nervios.",
+        "Suena a nervios."
       ]
     },
     {
-      "name": "King Halo",
-      "text": "Sky..."
+      "name": "Seiun Sky",
+      "text": "Nervios, ¿eh?"
     },
     {
       "name": "Seiun Sky",
-      "text": "Oh, King. ¿Por qué te ves tan seria?"
-    },
-    {
-      "name": "King Halo",
-      "text": "Parece que te esforzaste bastante en\nel<n>campamento de<n>verano... ¿Supongo que\nestás<n>tramando algo?"
+      "text": "Si a eso le llamas pensar en <i>un montón</i><n> </i>de\nescenarios y cómo lidiarías<n> con ellos..."
     },
     {
       "name": "Seiun Sky",
-      "text": "¿Tramando? No seas mala. Todos se<n>esfuerzan\nen<n>el campamento de verano."
+      "text": "Entonces, sí. Probablemente sean nervios. Después<n>\nde todo, hoy es..."
     },
     {
-      "name": "King Halo",
-      "text": "Sí, bueno... Yo entrenaba con Special<n>Week."
+      "name": "Fan A",
+      "text": "¡Special Week contra Grass Wonder! <n>Ooooh, ¡estoy\nmuy emocionado por esto!"
     },
     {
-      "name": "King Halo",
-      "text": "Ella mejoró muchísimo en el campamento.<n>Es\n<i>mucho</i><n>más fuerte ahora que en el<n>Derby."
+      "name": "Fan B",
+      "text": "Solo con ellas dos ya sería emocionante<n>\nsuficiente, pero ¡Seiun Sky también está\n<n>corriendo!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Wow! Me pregunto quién va a ganar. ¡Está\n<n>completamente en el aire!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Uy, la multitud está que arde!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Es evidente cuánto han estado <n>anticipando la\ncarrera de hoy."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Por supuesto... Yo también he soñado con<n> hoy,\nmucho."
+    },
+    {
+      "name": "Special Week",
+      "text": "...¡Eso va por mí también!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Y no olvides, Grass..."
     },
     {
       "name": "Seiun Sky",
-      "text": "Bueno, así es Spe. Cuanto más trabaja,<n>mejor se<n>vuelve."
-    },
-    {
-      "name": "King Halo",
-      "text": "¿Nada te preocupa? ¿Por qué eres<n>tan—"
-    },
-    {
-      "name": "King Halo",
-      "text": "No, ¿<i>cómo</i> planeas\nexactamente<n>superar<n>tales obstáculos?"
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Vaya, vaya—incluso si tuviera algunas<n>ideas, ¿qué<n>te hace pensar que las<n>compartiría contigo?"
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Tú también corres en el Kikuka Sho,<n>¿verdad?"
-    },
-    {
-      "name": "King Halo",
       "text": "..."
     },
     {
-      "name": "Seiun Sky",
-      "text": "Bueno, supongo que puedo decirte una cosa."
+      "name": "Special Week",
+      "text": "¡Sei también está corriendo con nosotros!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No renunciaré a mi reclamo de ser <n>nombrado el más\ngrande de esta generación."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Qué conveniente es enfrentarme a las<n> dos al mismo\ntiempo. Hoy, veremos quién<n> está en la cima."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí! Pero no dejaré que nadie más sea el<n> mejor en\nJapón!"
     },
     {
       "name": "Seiun Sky",
-      "text": "¿No sería divertido si la\nfavorita<n>número<n>uno—la que <i>todos</i>\nesperan que<n>gane... recibiera una<n>paliza?</i>"
+      "text": "...En fin, nos vemos en la pista."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh? ¿Sei?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No es propio de ella estar tan tensa."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Pasó algo? No solo es Sei, sino <n>también King..."
     },
     {
       "name": "King Halo",
-      "text": "Qué conveniente es enfrentarme<n>a las dos"
-    },
-    {
-      "name": "King Halo",
-      "text": "¡Ojójojo!"
+      "text": "Sky, te he estado esperando."
     },
     {
       "name": "Seiun Sky",
-      "text": "Uh... No esperaba eso."
+      "text": "Oh, King... Estás aquí, ¿eh?"
     },
     {
       "name": "King Halo",
-      "text": "Je, eso es hablar en grande. ¡Espero que<n>estés<n>lista para respaldarlo!"
-    },
-    {
-      "name": "King Halo",
-      "text": "Te dejo con esto. <i>Yo</i> también he<n>alcanzado<n>nuevas alturas."
-    },
-    {
-      "name": "King Halo",
-      "text": "¡Y no perderé contra Special Week<n><i>ni</i>\ncontra ti!"
+      "text": "¡Ugh?! ¿Por qué tienes que<n> ser tan grosero?"
     },
     {
       "name": "Seiun Sky",
-      "text": "King es tan altiva como siempre, ¿eh?"
+      "text": "No quise decir eso. Sabía que estarías<n> aquí."
     },
     {
       "name": "Seiun Sky",
-      "text": "Bueno, cuanto más alta esté, más<n>divertido<n>será derribarla. ♪"
-    },
-    {
-      "name": "King Halo",
-      "text": "Con eso, nuestra emocionante<n>experiencia de<n>campamento de verano llega a su fin."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "No me refería a eso. Sabía que<n>estarías aquí."
-    },
-    {
-      "name": "Seiun Sky",
-      "text": "Pensaba qué terrible sería<n>verte"
+      "text": "Estaba pensando qué terrible sería verte <n>correr a\ntoda velocidad, con la cabeza alta,<n> mientras yo me\nquedo atrás..."
     },
     {
       "name": "King Halo",
@@ -130,15 +130,15 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Sip, así que ideé una estrategia—la<n>perfecta"
+      "text": "Sí, así que se me ocurrió una estrategia—la<n>\nestrategia perfecta."
     },
     {
       "name": "Seiun Sky",
-      "text": "Mientras me aferre a ella como siempre,<n>la\nvictoria ya no"
+      "text": "Mientras me aferre a ella como siempre,<n> la\nvictoria sin duda será mía."
     },
     {
       "name": "Seiun Sky",
-      "text": "Pero si no lo hago..."
+      "text": "Pero si no..."
     },
     {
       "name": "King Halo",
@@ -146,7 +146,7 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Ahora bien, quiero una carrera limpia.<n>Nada de\ntonterías"
+      "text": "Ahora bien, quiero una carrera limpia allá.<n> Nada\nde cosas raras."
     },
     {
       "name": "King Halo",
@@ -154,15 +154,15 @@
     },
     {
       "name": "King Halo",
-      "text": "Hmph. Por fin está siendo sincera."
+      "text": "Hmph. Ella finalmente está siendo sincera."
     },
     {
       "name": "King Halo",
-      "text": "Está bien. Tengo que concentrarme en<n>la carrera."
+      "text": "Está bien. Tengo que mantener la mente en<n> la\ncarrera."
     },
     {
       "name": "Seiun Sky",
-      "text": "Así es—piensa. Tengo que pensarlo<n>hasta el final"
+      "text": "Eso es—piensa. Tengo que pensar esto<n> hasta el\nfinal. Esa es la única manera<n> de ganar."
     }
   ]
 }

@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Una mañana durante el campamento de<n>verano de\nTracen, noto a Mejiro Ryan<n>acercándose a mí,\nestirando los brazos."
+      "text": "Una mañana durante el campamento de <n>verano de\nTracen, noto a Mejiro Ryan caminando <n>hacia mí,\nestirando los brazos."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "¡Buenos días, Entrenador! ¡Con ganas de<n>otro gran entrenamiento!",
+      "text": "¡Buenos días, Entrenador! ¡Esperando<n> otro gran\nentrenamiento!",
       "choice_data_list": [
         "Enérgica como siempre, veo.",
         "Enérgica como siempre, veo."
@@ -15,27 +15,27 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "¡Oh sí, mis motores están listos para<n>arrancar!\nTu entrenamiento tendrá algo que<n>ver con eso.\nAh, cierto, ¡la reunión matutina!"
+      "text": "¡Oh sí, mis motores están a punto de <n>arrancar! Tu\nentrenamiento puede tener algo que ver<n> con eso.\nAh, cierto, la reunión de la mañana!"
     },
     {
       "name": "Monólogo",
-      "text": "Una tras otra, las practicantes se<n>congregan en\nel lobby del dormitorio del<n>campamento. Luego,\nel entrenador jefe se<n>adelanta."
+      "text": "Una tras otra, las aprendices se reúnen en el\n<n>vestíbulo del dormitorio del campamento. Luego, la\n<n>entrenadora jefe da un paso al frente."
     },
     {
       "name": "Entrenador Jefe",
-      "text": "Hemos llegado a la mitad del campamento<n>de\nverano, y estoy seguro de que están<n>empezando a\nsentir los efectos de su<n>entrenamiento. Sin duda\nquieren<n>probar sus nuevas habilidades."
+      "text": "Hemos llegado a la mitad del campamento<n> de verano,\ny estoy segura de que están empezando<n> a sentir los\nefectos de su entrenamiento.<n> Sin duda, quieren\nprobar sus nuevas habilidades."
     },
     {
       "name": "Entrenador Jefe",
-      "text": "¡Por eso estamos organizando<n>entrenamientos el\núltimo día del campamento!<n>Si están interesadas,\n¡avisen a sus<n>entrenadores, y ellos solicitarán\npor<n>ustedes!"
+      "text": "¡Por eso vamos a realizar carreras de\nentrenamiento<n> el último día del campamento! Si\nestán<n> interesadas, avísenle a sus entrenadoras, y<n>\nellas se encargarán de inscribirlas!"
     },
     {
       "name": "Entrenador Jefe",
-      "text": "Por el momento, ya tenemos una<n>participante... ¡Oguri Cap!"
+      "text": "En este momento, ya tenemos una <n>participante...\n¡Oguri Cap!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Espera, ¿me estás diciendo que podría<n>competir contra Oguri?!",
+      "text": "¿Espera, me estás diciendo que podría correr\ncontra<n> Oguri?!",
       "choice_data_list": [
         "¿Estás interesada?",
         "¿Estás interesada?"
@@ -43,17 +43,17 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Sí, he tenido mis ojos puestos en Oguri<n>desde\nque se transfirió a esta escuela."
+      "text": "Sí, he tenido la mira puesta en Oguri desde<n> que se\ntransfirió a esta escuela."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "No tiene un apellido elegante que la<n>apoye. Se\nlas arregla con puro talento...<n>Ella es la\nverdadera deal."
+      "text": "Ella no tiene un nombre de familia <n>elegante que la\nrespalde. Se las arregla con<n> puro talento... Es la\nverdadera."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Entrenador... ¿puedes inscribirme en\nlos<n>entrenamientos? Quiero competir\ncontra<n>Oguri.",
+      "text": "Entrenador... ¿puedes inscribirme en las carreras<n>\nde entrenamiento? Quiero correr contra Oguri.",
       "choice_data_list": [
-        "¡Consideralo hecho!"
+        "¡Considerado hecho!"
       ]
     },
     {
@@ -62,35 +62,35 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Hablando de eso... ¡mejor ideamos una<n>rutina de\nentrenamiento si queremos vencer<n>a Oguri!"
+      "text": "Hablando de eso... ¡será mejor que ideemos<n> una\nrutina de entrenamiento si queremos vencer<n> a\nOguri!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "La aceleración de Oguri al final de la<n>carrera\nes su arma secreta. Ella es una<n>aceleradora\ntardía, igual que yo."
+      "text": "La aceleración de Oguri al final de la carrera es\nsu<n> arma secreta. Ella es de las que aceleran en la\nrecta <n>final, igual que yo."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Pero ¿es buena idea seguir la misma<n>estrategia aquí?",
+      "text": "Pero ¿es buena idea mantener la misma <n>estrategia\naquí?",
       "choice_data_list": [
-        "Hmmm... Buena pregunta...",
-        "Hmmm... Buena pregunta..."
+        "Mmmm... Buena pregunta...",
+        "Mmmm... Buena pregunta..."
       ]
     },
     {
       "name": "Monólogo",
-      "text": "Inmediatamente me vienen a la mente dos<n>estrategias."
+      "text": "Dos estrategias vienen inmediatamente a la mente."
     },
     {
       "name": "Monólogo",
-      "text": "Podríamos refinar nuestra estrategia<n>actual y\nenfrentar a Oguri Cap de frente.<n>O... podríamos\nsorprenderla con una<n>estrategia de cazadora de\nritmo y tratar de<n>adelantarla."
+      "text": "Podríamos refinar nuestra estrategia actual<n> y\nenfrentar a Oguri Cap de frente. O... podríamos<n>\nsorprenderla con una estrategia de cazador<n> de\nritmo e intentar adelantarla."
     },
     {
       "name": "Monólogo",
-      "text": "Le transmito estas opciones a Mejiro Ryan<n>y le\ndigo que la elección es suya. Después<n>de\nreflexionar un rato, levanta la cabeza."
+      "text": "Transmito estas opciones a Mejiro Ryan y<n> le digo\nque la elección es suya. Después de <n>reflexionar un\nrato, levanta la cabeza."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "¡Quiero probar la estrategia de cazadora de ritmo!",
+      "text": "¡Quiero probar la estrategia de cazador de ritmo!",
       "choice_data_list": [
         "Eso es una sorpresa.",
         "Eso es una sorpresa."
@@ -98,14 +98,14 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Sí. Normalmente, querría enfrentarla<n>de\nfrente—hacerlo una batalla entre<n>aceleradoras.\nPero quiero expandir mis<n>horizontes y probar\nalgo nuevo!"
+      "text": "Sí. Normalmente, querría enfrentarla de\n<n>frente—hacer de esto una batalla de caballos que\naceleran <n>en la recta final. Pero quiero expandir\nmis horizontes<n> y probar algo nuevo!"
     },
     {
       "name": "Monólogo",
-      "text": "Sus ojos están llenos de convicción—aún<n>más que\nde costumbre. Puedo notar<n>fácilmente lo mucho\nque quiere ganar esto.",
+      "text": "Sus ojos están llenos de convicción—incluso<n> más\nque de costumbre. Puedo decir fácilmente<n> cuánto\nquiere ganar esto.",
       "choice_data_list": [
-        "¡Bien, entonces entrenamiento de cazadora de ritmo será!",
-        "¡Bien, entonces entrenamiento de cazadora de ritmo será!"
+        "Muy bien, entonces ¡entrenamiento de cazador de\nritmo!",
+        "Muy bien, entonces ¡entrenamiento de cazador de\nritmo!"
       ]
     },
     {
@@ -114,17 +114,17 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Como nuestra estrategia requiere mantener<n>un\nritmo constante durante un largo<n>período,\n¡necesitamos trabajar en mi resistencia!"
+      "text": "Ya que nuestra estrategia requiere mantener un<n>\nritmo constante durante un largo período,\n¡necesitamos<n> trabajar en mi resistencia!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "¡Un poquito de entrenamiento de<n>resistencia no\nva a derribarme! ¡Vamos,<n>músculos, déjenme\noírlos gritar! ¡Su dolor,<n>mi ganancia!"
+      "text": "¡Un poquito de entrenamiento de resistencia no <n>va\na derribarme! ¡Vamos, músculos, déjenme\n<n>escucharlos gritar! ¡Su dolor, mi ganancia!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "<i>Uff, puff... Jadeo...</i>",
+      "text": "<i>Jadeando, resoplando... Ahogándome...</i>",
       "choice_data_list": [
-        "Bien, tomemos un descanso."
+        "Muy bien, tomemos un descanso."
       ]
     },
     {
@@ -133,42 +133,42 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "No tenemos mucho tiempo, pero deberíamos<n>estar—¿eh?"
+      "text": "No tenemos mucho tiempo, pero <n>deberíamos—¿eh?"
     },
     {
       "name": "Monólogo",
-      "text": "Justo entonces, una ráfaga de viento<n>repentina\nnos golpea a las dos. En ese momento,<n>veo un\ndestello blanco por el rabillo del<n>ojo..."
+      "text": "Justo entonces, una ráfaga de viento repentina<n> nos\ngolpea a las dos. En ese momento, veo una<n> mancha\nblanca con el rabillo del ojo..."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Espera... ¿Esa era Oguri?!",
+      "text": "Espera... ¿Era Oguri?!",
       "choice_data_list": [
         "¿Oguri Cap?"
       ]
     },
     {
       "name": "Mejiro Ryan",
-      "text": "¡Sí, estoy segura! ¡Nunca me perdería\nese<n>cabello plateado suyo! Ese sprint... Ella\ndebe<n>estar entrenando como loca también."
+      "text": "¡Sí, estoy segura! ¡Nunca pasaría por alto ese<n>\ncabello plateado suyo! Ese sprint... Ella también<n>\ndebe estar entrenando como loca."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "...Bien. No querría pelear contra Oguri si<n>ella\nno fuera a dar todo de sí."
+      "text": "...Bien. No querría pelear contra Oguri <n>si ella no\nfuera a darlo todo."
     },
     {
       "name": "Monólogo",
-      "text": "Conmovida por la determinación de Oguri<n>Cap,\nMejiro Ryan sonríe suavemente. Mientras<n>estoy a\nsu lado, noto a algunas practicantes<n>cotilleando\ndetrás de nosotros."
+      "text": "Conmovida por la determinación de Oguri <n>Cap,\nMejiro Ryan sonríe suavemente. Mientras estoy a su<n>\nlado, noto a algunas aprendices cotilleando detrás<n>\nde nosotros."
     },
     {
       "name": "Umamusume A",
-      "text": "Oye... ¿Esa era Oguri? Pensé que estaba<n>en una mala racha..."
+      "text": "Oye... ¿Era Oguri? Pensé que estaba<n> en un bajón..."
     },
     {
       "name": "Umamusume B",
-      "text": "Sí, apuesto a que por eso está<n>entrenando tan duro."
+      "text": "Sí, apuesto a que por eso está entrenando <n>tan\nduro."
     },
     {
       "name": "Monólogo",
-      "text": "Una mala racha... Suena como que la<n>estrategia\nde cazadora de ritmo fue la<n>elección correcta.\nDefinitivamente podemos<n>pillarla por sorpresa a\neste ritmo."
+      "text": "Un bajón... Suena como que la estrategia de\n<n>cazador de ritmo fue la elección correcta.\n<n>Definitivamente podemos agarrarla desprevenida a\neste ritmo."
     },
     {
       "name": "Mejiro Ryan",
@@ -179,11 +179,11 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Fue solo por un momento, pero atrapé una<n>glimpse\ndel rostro de Oguri cuando pasó<n>corriendo. Lucía\ntan determinada. De<n>ninguna manera podrías\nllamar a eso una<n>mala racha."
+      "text": "Fue solo un momento, pero alcancé a ver el<n> rostro\nde Oguri cuando pasó corriendo. Se <n>veía tan\ndeterminada. De ninguna manera podrías<n> llamar a\neso un bajón."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Cuando te preparas para una gran carrera,<n>tienes\nque creer que puedes hacerlo.<n>De otra manera, no\nhay forma de que<n>podrías correr así."
+      "text": "Cuando te estás preparando para una carrera<n>\ngrande, tienes que creer que puedes <n>hacerlo. De lo\ncontrario, no hay forma de que pudieras<n> correr\nasí."
     },
     {
       "name": "Mejiro Ryan",
@@ -191,65 +191,65 @@
     },
     {
       "name": "Monólogo",
-      "text": "Llega el día del entrenamiento, y por lo<n>que\npuedo decir, Oguri Cap está en<n>perfecta forma,\njusto como predijo<n>Mejiro Ryan."
+      "text": "El día de la carrera de entrenamiento <n>llega, y por\nlo que puedo ver, Oguri Cap <n>está en excelente\nforma, justo como Mejiro<n> Ryan predijo."
     },
     {
       "name": "Entrenador Jefe",
-      "text": "Bien, corredoras, tomen posición. Listas,<n>preparadas... ¡ya!"
+      "text": "Muy bien, corredoras, tomen posición. Preparadas,<n>\nlistas... ¡ya!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Oguri, siempre te he admirado, pero<n>ahora... ¡voy a superarte!"
+      "text": "¡Oguri, siempre te he admirado, pero<n> ahora... voy\na superarte!"
     },
     {
       "name": "Umamusume A",
-      "text": "¡Oguri está en una gran posición! Ah, pero<n>¡Ryan\ntambién! Ohhh... ¡No puedo esperar a<n>ver el\nsprint final hacia la meta!"
+      "text": "¡Oguri está en una gran posición! Ah, pero también<n>\nRyan! Ohhh... No puedo esperar para ver el sprint<n>\nfinal hacia la línea de meta!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Esta soy yo... ¡Así es como corre <i>Mejiro Ryan</i>!"
+      "text": "Esta soy yo... ¡Así es <i>como corre <i>Mejiro </i>Ryan</i>!"
     },
     {
       "name": "Umamusume B",
-      "text": "¡Oguri se adelantó, pero Ryan no está<n>lejos! ¡Lo\nestán haciendo! ¡Se están<n>enfrentando cara a\ncara!"
+      "text": "¡Oguri se ha adelantado, pero Ryan no <n>está lejos!\n¡Lo están haciendo! ¡Se están <n>enfrentando de\nfrente!"
     },
     {
       "name": "Monólogo",
-      "text": "¡Van cabeza a cabeza! ¿Quién ganará?!"
+      "text": "¡Van cuello a cuello! ¿Quién ganará?!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Jeje... Rayos. Pensé que la tenía ahí, pero<n>me venció bien."
+      "text": "Jeje... Rayos. Pensé que la tenía ahí,<n> pero me\nganó bien."
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Perdón por cambiar nuestra estrategia a<n>mitad de\ncamino... Ver a Oguri tomar su<n>entrenamiento tan\nen serio me hizo querer<n>enfrentarla como\naceleradora.",
+      "text": "Perdón por cambiar nuestra estrategia a <n>mitad de\ncamino... Ver a Oguri tomar su entrenamiento<n> tan\nen serio me hizo querer enfrentarla <n>acelerando al\nfinal.",
       "choice_data_list": [
         "Bueno, ¿te divertiste?"
       ]
     },
     {
       "name": "Mejiro Ryan",
-      "text": "¡Por supuesto! ¡Esa carrera fue tan<n>intensa! Si\nhubiera sido solo un poquito<n>más rápida,\n¡apuesto a que podría haber<n>ganado!"
+      "text": "¡Por supuesto! ¡Esa carrera fue tan intensa! Si\n<n>hubiera sido un poquito más rápida, ¡apuesto a que\n<n>podría haber ganado!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Estoy decepcionada, claro, pero no estoy<n>triste\nen absoluto. ¡Si acaso, estoy orgullosa<n>de mí\nmisma por hacer las cosas a mi manera!"
+      "text": "Estoy decepcionada, seguro, pero para nada triste.<n>\nSi algo, estoy orgullosa de mí misma por hacer<n> las\ncosas a mi manera!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Quiero hacerme más fuerte—suficientemente<n>fuerte\ncomo para no perder nunca más contra<n>Oguri Cap o\nMejiro McQueen!"
+      "text": "¡Quiero ponerme más fuerte—suficientemente <n>fuerte\npara no volver a perder contra Oguri<n> Cap o Mejiro\nMcQueen!"
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Entrenador... ¿Querrías... ayudarme a llegar allí?",
+      "text": "Entrenador... ¿Me ayudarás... a llegar ahí?",
       "choice_data_list": [
         "¡Por supuesto!"
       ]
     },
     {
       "name": "Monólogo",
-      "text": "Mejiro Ryan me muestra la sonrisa más<n>brillante\nque he visto. En ese momento, mi<n>convicción de\nhacer realidad sus sueños<n>se hace aún más\nfuerte."
+      "text": "Mejiro Ryan me muestra la sonrisa más <n>brillante\nque he visto. En ese momento,<n> mi convicción de\nhacer realidad sus sueños<n> se fortalece aún más."
     }
   ]
 }

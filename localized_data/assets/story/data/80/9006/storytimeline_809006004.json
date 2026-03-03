@@ -2,229 +2,243 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "ある日。\r\nふとゲームセンターの前を通りかかると――"
+      "name": "Monólogo",
+      "text": "Un día, casualmente paso por la sala de juegos,<n>\ncuando..."
     },
     {
-      "name": "樫本理子",
-      "text": "はっ、はっ……。"
+      "name": "Riko Kashimoto",
+      "text": "<i>Jadeo... Jadeo...</i>"
     },
     {
-      "text": "意外な人物がダンスゲームに熱中していた。\r\n真剣に体を動かしているが……\nよく見るとタイミングが全部ズレている。"
+      "name": "Monólogo",
+      "text": "Veo a alguien que no esperaba, absorto<n> en un juego\nde baile. Su expresión es de total<n> concentración\nmientras se mueve... pero<n> su ritmo es pésimo."
     },
     {
-      "name": "樫本理子",
-      "text": "はぁ、はぁ、はぁ……。どうすれば……。"
+      "name": "Riko Kashimoto",
+      "text": "<i>Jadeo... Resoplido... Jadeo...</i> No puedo hacerlo..."
     },
     {
-      "text": "そんな姿が少し意外で、目を離せずにいると、\r\nふいに目が合った。"
+      "name": "Monólogo",
+      "text": "Estoy tan sorprendido que no logro apartar <n>la\nmirada a tiempo. Hacemos contacto visual..."
     },
     {
-      "name": "樫本理子",
-      "text": "…………。",
+      "name": "Riko Kashimoto",
+      "text": "...",
       "choice_data_list": [
-        "…………"
+        "..."
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "…………。\r\nまずは話を聞いていただきたい。"
+      "name": "Riko Kashimoto",
+      "text": "...Antes de que digas algo, déjame hablar."
     },
     {
-      "name": "樫本理子",
-      "text": "私は、基本的になんでも人並み以上に行える\r\nと自負しています。しかし――"
+      "name": "Riko Kashimoto",
+      "text": "Me enorgullece poder hacer la mayoría de <n>las\ntareas mejor que la persona promedio. <n>Sin\nembargo..."
     },
     {
-      "name": "樫本理子",
-      "text": "1つだけ、不得手なものがあります。\r\n運動です。"
+      "name": "Riko Kashimoto",
+      "text": "Hay una cosa en la que soy inepto:<n> la actividad\nfísica."
     },
     {
-      "name": "樫本理子",
-      "text": "マラソン大会では最下位、ボールは捕れた\r\nためしがなく、跳び箱で追試を受けたことも。"
+      "name": "Riko Kashimoto",
+      "text": "Termino último en maratones, nunca he atrapado<n> una\npelota en mi vida, e incluso tuve que hacer el<n>\nexamen de la caja de saltar múltiples veces en<n>\nclase de educación física."
     },
     {
-      "name": "樫本理子",
-      "text": "他教科がオール5の中、体育のみが常に2で……\r\n今でも外出後は即睡魔が襲ってきます。",
+      "name": "Riko Kashimoto",
+      "text": "Notas sobresalientes en todas las demás materias,\npero<n> mis calificaciones en educación física fueron\ndesastrosas...<n> Incluso ahora, me agoto después de\nun día fuera.",
       "choice_data_list": [
-        "（そうだったんだ……！）"
+        "(¡No tenía idea!)"
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "とはいえ、ウマ娘を指導する上で\r\n基礎的な身体能力は不可欠。"
+      "name": "Riko Kashimoto",
+      "text": "Sin embargo, como entrenador, es vital que<n> mi\nsalud física esté en un nivel respetable."
     },
     {
-      "name": "樫本理子",
-      "text": "現に先日ダンスの指導を頼まれました。"
+      "name": "Riko Kashimoto",
+      "text": "El otro día, me pidieron que diera algunas<n> clases\nde baile."
     },
     {
-      "name": "樫本理子",
-      "text": "しかし、私はダンスが出来ませんし、\r\nスクールに通う時間もありません。そこで――"
+      "name": "Riko Kashimoto",
+      "text": "Pero no sé bailar, y mi agenda<n> hace imposible que\ntome clases<n> para prepararme..."
     },
     {
-      "text": "と、堂々たる佇まいで、\r\n『0コンボ』と表示された画面を指さした。"
+      "name": "Monólogo",
+      "text": "Con una postura digna, ella señala la <n>pantalla que\nactualmente muestra un puntaje de<n> combo grandioso\nde cero."
     },
     {
-      "name": "樫本理子",
-      "text": "空き時間を利用し、この機械を用いて、\r\nダンスの練習をしていたわけです。",
+      "name": "Riko Kashimoto",
+      "text": "Así que he estado usando esta máquina en mi<n> tiempo\nlibre para practicar.",
       "choice_data_list": [
-        "なるほど……？"
+        "Oh... vaya..."
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "しかしこれが、案外難しく……。\r\n……はぁ……。"
+      "name": "Riko Kashimoto",
+      "text": "Desafortunadamente, es mucho más difícil de lo<n> que\nesperaba. <i>Suspiro...</i>"
     },
     {
-      "name": "樫本理子",
-      "text": "参考書籍を買い足すか……。しかし、\r\nすでに本棚を圧迫しているし……。"
+      "name": "Riko Kashimoto",
+      "text": "Tal vez debería comprar más<n> libros de referencia.\nOh, <n>pero mis estantes ya están rebosantes..."
     },
     {
-      "name": "樫本理子",
-      "text": "やはり、私には不向きか……？\r\nもっと他の方法が……。"
+      "name": "Riko Kashimoto",
+      "text": "Quizás simplemente no estoy hecho para<n> bailar.\nDebe haber otra forma de<n> mejorar..."
     },
     {
-      "text": "なんでも出来る彼女が困り果てているのは\r\n珍しい。何か力になれないだろうか……。",
+      "name": "Monólogo",
+      "text": "Es un verdadero shock ver a alguien<n> tan capaz como\nella luchando tanto. <n>Debe haber algún consejo que\npueda dar para<n> ayudar...",
       "choice_data_list": [
-        "まずは体力をつけてみては？",
-        "何度でも挑戦してみましょう！",
-        "ちょっと今日は急いでいるので……"
+        "¿Qué tal si primero construyes tu resistencia?",
+        "¡La persistencia es la clave! ¡Sigue intentándolo!",
+        "Lo siento, hoy estoy un poco apurado, así que..."
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "……たしかに、パフォーマンスを持続する\r\nためには不可欠。盲点でした。"
+      "name": "Riko Kashimoto",
+      "text": "Tienes razón. La resistencia es esencial<n> para\nactuar durante largos períodos de tiempo.<n> Pasé por\nalto eso."
     },
     {
-      "name": "樫本理子",
-      "text": "であれば、移動が必要ですね。"
+      "name": "Riko Kashimoto",
+      "text": "Es hora de trasladarme a un espacio más <n>apropiado\npara entrenar."
     },
     {
-      "text": "なんとなくその後が気になり、\r\nついていくと――"
+      "name": "Monólogo",
+      "text": "Curioso por lo que planea hacer,<n> la sigo a su\npróximo destino."
     },
     {
-      "name": "樫本理子",
-      "text": "まずは10往復……いや、5往復だ！"
+      "name": "Riko Kashimoto",
+      "text": "Comenzaré con diez vueltas—no, mejor<n> empezar con\ncinco!"
     },
     {
-      "name": "樫本理子",
-      "text": "は……！　は……！"
+      "name": "Riko Kashimoto",
+      "text": "<i>¡Jadeo! ¡Jadeo!</i>"
     },
     {
-      "text": "彼女のゆっくりとしたランニングは、\r\n夕方まで延々と続いた。"
+      "name": "Monólogo",
+      "text": "Ella continúa trotando a paso de tortuga <n>hasta que\ncae la noche."
     },
     {
-      "name": "樫本理子",
-      "text": "はぁ……はぁ……はぁ……。\r\nも、もう……。",
+      "name": "Riko Kashimoto",
+      "text": "<i>Jadeo... Jadeo... Resuello...</i> N-no puedo...",
       "choice_data_list": [
-        "もう少しでゴールです！"
+        "¡No te rindas! ¡Casi estás allí!"
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "……！"
+      "name": "Riko Kashimoto",
+      "text": "...!"
     },
     {
-      "name": "樫本理子",
-      "text": "はぁ……はぁ……。"
+      "name": "Riko Kashimoto",
+      "text": "<i>Jadeo... Resoplido...</i>"
     },
     {
-      "name": "樫本理子",
-      "text": "……ご声援、ありがとうございました。\r\nよい刺激になりました。",
+      "name": "Riko Kashimoto",
+      "text": "...Gracias por el ánimo. Me<n> ayudó a esforzarme\nmás.",
       "choice_data_list": [
-        "いえ、つい"
+        "Lo siento, simplemente se me escapó."
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "……大したものではありませんが、\r\n今日はラーメンでも奢らせてください。"
+      "name": "Riko Kashimoto",
+      "text": "Sé que no es un gran gesto, de ninguna<n> manera,\npero por favor déjame invitarte<n> a unos ramen."
     },
     {
-      "text": "その後、ラーメン屋へ入り――"
+      "name": "Monólogo",
+      "text": "Nos dirigimos a un restaurante de ramen y<n> tomamos\nasiento."
     },
     {
-      "name": "樫本理子",
-      "text": "ランニングなど数年ぶりに行いましたが、\r\n心地いいものですね。"
+      "name": "Riko Kashimoto",
+      "text": "No había corrido en años. Se sintió bastante\nagradable."
     },
     {
-      "name": "樫本理子",
-      "text": "ウマ娘の見ている景色が、\r\n少々理解できたような気がします。"
+      "name": "Riko Kashimoto",
+      "text": "Creo que tengo una comprensión ligeramente<n> mejor\nde lo que nuestras corredoras ven<n> todos los días."
     },
     {
-      "text": "色々なことを語り合ったのだった。"
+      "name": "Monólogo",
+      "text": "Terminamos hablando de todo tipo de <n>cosas durante\nla cena."
     },
     {
-      "name": "樫本理子",
-      "text": "ここでトレーニングを……\r\nと思いましたが、少々雲行きが怪しいですね。"
+      "name": "Riko Kashimoto",
+      "text": "Estaba pensando en entrenar aquí,<n> pero el clima\nparece que puede<n> empeorar."
     },
     {
-      "name": "樫本理子",
-      "text": "我々が風邪を引くわけにはいきません。\r\n今日は諦めましょう……。"
+      "name": "Riko Kashimoto",
+      "text": "No nos hará ningún bien resfriarnos...<n> Terminemos\npor hoy."
     },
     {
-      "name": "樫本理子",
-      "text": "……ええ、そうですね。\r\n努力なくして手に入るものなどありません。"
+      "name": "Riko Kashimoto",
+      "text": "...Tienes razón. No puedo esperar<n> ganar nada sin\ninvertir el esfuerzo."
     },
     {
-      "name": "樫本理子",
-      "text": "弱音は後、今はただ精進あるのみ……！"
+      "name": "Riko Kashimoto",
+      "text": "¡Este no es momento para autocompasión! <n>Necesito\nconcentrarme en mejorar y nada más!"
     },
     {
-      "text": "（チャチャチャ・チャ・チャ♪）"
+      "name": "Monólogo",
+      "text": "<i>Cha-cha-cha, cha, cha!</i> ♪"
     },
     {
-      "name": "樫本理子",
-      "text": "ふっ、はっ……。そうか、\r\nジャンプとともに右足を上げておけば……。"
+      "name": "Riko Kashimoto",
+      "text": "<i>Jadeo, resoplido...</i> Interesante... Si levanto el\npie<n> derecho cuando salto, entonces..."
     },
     {
-      "text": "（チャチャチャ・チャ・チャ♪）"
+      "name": "Monólogo",
+      "text": "<i>Cha-cha-cha, cha, cha!</i> ♪"
     },
     {
-      "name": "樫本理子",
-      "text": "なるほど、こういうことか。\r\n右、右、左、ターン……よし。"
+      "name": "Riko Kashimoto",
+      "text": "Así que eso es lo que necesito hacer. Derecha,\nderecha,<n> izquierda, giro... Vale."
     },
     {
-      "text": "努力の甲斐あって、少しずつコツを掴んで\r\nきたようだった。そして、数時間後……。"
+      "name": "Monólogo",
+      "text": "Su trabajo duro da frutos, y parece que <n>lentamente\nle va cogiendo el truco. Unas horas<n> después..."
     },
     {
-      "text": "（チャチャチャ・チャーン♪）"
+      "name": "Monólogo",
+      "text": "<i>Cha-cha-cha, cha, chaaa!</i> ♪"
     },
     {
-      "name": "樫本理子",
-      "text": "よし……っ！",
+      "name": "Riko Kashimoto",
+      "text": "¡Muy bien!",
       "choice_data_list": [
-        "おめでとうございます！"
+        "¡Felicitaciones!"
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "ああ、いや……騒いで申し訳ない。\r\n……コホン。"
+      "name": "Riko Kashimoto",
+      "text": "Oh, gracias... Y, eh, perdón por hacer<n> un\nescándalo... ¡Ahem!"
     },
     {
-      "name": "樫本理子",
-      "text": "だいぶ成長できたのではないでしょうか。\r\n諦めずにいてよかった。"
+      "name": "Riko Kashimoto",
+      "text": "He progresado bastante, si digo yo mismo.<n> Me\nalegra haber persistido."
     },
     {
-      "name": "樫本理子",
-      "text": "……励ましの言葉、ありがとうございました。\r\nよければ1杯ご馳走させてください。"
+      "name": "Riko Kashimoto",
+      "text": "Aprecio todas tus palabras de ánimo. Permíteme<n>\ninvitarte a una bebida como agradecimiento."
     },
     {
-      "text": "その後、近所の居酒屋へ行き、\r\nご馳走になって帰宅した。"
+      "name": "Monólogo",
+      "text": "Vamos a un bar local donde ella me <n>invita a una\nbebida. Luego, al salir..."
     },
     {
-      "name": "樫本理子",
-      "text": "トレーナーと言えど、せめてデビュー曲\r\nくらいは全員踊れなければと考えています。"
+      "name": "Riko Kashimoto",
+      "text": "Aunque seamos entrenadores, creo<n> que deberíamos\npoder bailar al menos <n>las canciones de debut de\nnuestras <n>corredoras."
     },
     {
-      "name": "樫本理子",
-      "text": "やはり、ダンスもトレーナー研修に\r\n組み込むべきか……ふむ……。"
+      "name": "Riko Kashimoto",
+      "text": "Quizás podríamos incorporar lecciones<n> de baile en\nlos talleres para entrenadores.<n> Mmm..."
     },
     {
-      "name": "樫本理子",
-      "text": "そうでしたか。\r\n呼び止めてしまい申し訳ない。"
+      "name": "Riko Kashimoto",
+      "text": "No me di cuenta—disculpa <n>por interrumpirte."
     },
     {
-      "name": "樫本理子",
-      "text": "それではまた、トレセン学園で。"
+      "name": "Riko Kashimoto",
+      "text": "Nos vemos en la academia, entonces."
     }
   ]
 }

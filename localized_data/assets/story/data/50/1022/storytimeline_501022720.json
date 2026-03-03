@@ -1,0 +1,564 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llevo a Fine Motion a la <n>enfermería para\nuna revisión."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! Un cliente―digo, ¡una estudiante! ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás herida? ¿Enferma? ¿Estresada? ¡Sea <n>lo que\nsea, yo lo curo todo!",
+      "choice_data_list": [
+        "¡¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la enfermería<n> de\nla academia, diría que eso me convierte<n> en tu\nconfiable enfermera escolar. ¡Sí, <n>solo una\nempleada escolar más!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajaja! Parece que no puedo engañarte.<n> Supongo que\ndebería empezar por darte mi<n> nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ahem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (probable) salvadora de <n>todas las\nUmamusume, la (autoproclamada)<n> legendaria\nacupunturista con el toque<n> mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única e inigualable Sasami Anshinzawa!<n> ¿Ves?\n¡No te preocupes! ☆",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Mmm... ¿Debería llamar a mi equipo de seguridad?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Caramba! ¡Pareces muy preocupada! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos <n>presentamos, así\nque acuéstate y déjame <n>poner estas agujas a\ntrabajar!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Me temo que no. En lo que respecta<n> a\nprocedimientos médicos, le dejo eso a<n> mi médico\njefe y a mi entrenador."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay por qué asustarse! Todo<n> lo que\nharé es deslizar estas agujas <n>extraordinarias\nprecisamente en tus puntos<n> de chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y luego, voilà, presto! <n>¡Sucederá algo\nindescriptible!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y permíteme asegurarte que<n> no hay absolutamente\nnada sospechoso <n>en esto! ¡Nunca ha salido nada\nmenos que<n> perfecto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestro.",
+      "choice_data_list": [
+        "¡¿Para tu maestro?! ¡¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Esta es mi primera vez, así<n> que\ntécnicamente, ¡tampoco he fallado nunca con <n>un\npaciente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es como si no tuviera experiencia! <n>Pasé diez\naños bajo un maestro legendario,<n>\nconsiguiendo...―digo, ¡entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡No te preocupes! ☆",
+      "choice_data_list": [
+        "(¡Necesitamos salir de aquí, ya!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "De ninguna manera vamos a hacer esto. Tomo<n> a Fine\nMotion y me dirijo a la puerta,<n> cuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¿¡A dónde vas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Eres Fine Motion, ¿verdad? La Umamusume<n> que vino\nhasta aquí para perseguir<n> una carrera de carreras,\n¡incluso como <n>dignataria extranjera!",
+      "choice_data_list": [
+        "¿Has oído hablar de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿He oído hablar de ella? ¡Por supuesto que sí!<n>\n¡Soy una gran fan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Es precisamente por eso que estoy aquí! <n>¡Para\ndarte mi apoyo! ¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Dame una oportunidad! ¡Por faaavor!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Bueno, no parece ser una mala<n> persona. Supongo que\nno haría daño <n>escucharla..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Por faaavor con zanahoria<n> encima!\n¡Incluso te dejaré elegir<n> qué chakra activar!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Estoy <i>segura</i> de que no voy a meter la pata!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... más o menos segura.",
+      "choice_data_list": [
+        "<i>¡¿<i>Más o menos</i> segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Quiero decir, está del lado seguro! ¡Eso <i>es\n<i>bueno,</i><n> </i>¿verdad? ¡De todos modos, no te obsesiones\ncon<n> los detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debería<n> activar?\n¿Quieres un impulso a tus <n>habilidades? ¿A tu\nsalud? ¿O tal vez a tu <n><i>encanto?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Huelo peligro en el aire, pero creo que<n> podría—y\nenfatizo <i>podría</i>—haber <n></i>una oportunidad de obtener\nalgo especial<n> de este tratamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué deberíamos hacer?",
+      "choice_data_list": [
+        "Activar el chakra de fuerza.",
+        "Activar el chakra de la victoria.",
+        "Activar el chakra de la salud.",
+        "Activar el chakra del encanto.",
+        "Esto es demasiado sospechoso. Salgamos de aquí\nmientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que <n>active el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista? <n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Es hora de\n<n>localizar ese chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...¡Ngh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...¿Oh? ¿Qué ha pasado? Mi cuerpo de repente<n> se\nsiente relajado... y asombrosamente ligero!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡La acupuntura realmente es algo! Así<n> como así,\n¡me siento como nuevo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> No puede ser... ¡¿De verdad<n> funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Nooo puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Fine Motion está rebosando de tanto<n> poder que\ncasi no la reconozco!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y salió bien! ¡Este es un <n>gran salto\nhacia lograr nuestro objetivo!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ugh... De repente me siento <n>mareada..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Tal vez la acupuntura no es para mí después<n> de\ntodo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de Fine Motion se deteriora<n>\nrápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Supongo que así es..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? <n>¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido mejor que probar nuestra suerte.<n>\nNo soy la que sufre, y sin embargo estoy llena<n> de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active <n>el\nchakra de la victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista? <n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Es hora de\n<n>localizar ese chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...¡Ngh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...¿Oh? ¿Qué ha pasado? Mi cuerpo de repente<n> se\nsiente relajado... y asombrosamente ligero!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡La acupuntura realmente es algo! Así<n> como así,\n¡me siento como nuevo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> No puede ser... ¡¿De verdad<n> funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Nooo puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puedo percibir una enorme mejora en las\n<n>habilidades de Fine Motion!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y salió bien! ¡Este es un <n>gran salto\nhacia lograr nuestro objetivo!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ugh... De repente me siento <n>mareada..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Tal vez la acupuntura no es para mí después<n> de\ntodo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de Fine Motion se deteriora<n>\nrápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Supongo que así es..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? <n>¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido mejor que probar nuestra suerte.<n>\nNo soy la que sufre, y sin embargo estoy llena<n> de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active<n> el\nchakra de la salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista? <n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Es hora de\n<n>localizar ese chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...¡Ngh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...¿Oh? ¿Qué ha pasado? Mi cuerpo de repente<n> se\nsiente relajado... y asombrosamente ligero!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡La acupuntura realmente es algo! Así<n> como así,\n¡me siento como nuevo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> No puede ser... ¡¿De verdad<n> funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Nooo puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Todo el cuerpo de Fine Motion está irradiando<n> un\nbrillo saludable! ¡Es la imagen absoluta<n> de la\nsalud!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y salió bien! ¡Este es un <n>gran salto\nhacia lograr nuestro objetivo!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ugh... De repente me siento <n>mareada..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Tal vez la acupuntura no es para mí después<n> de\ntodo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de Fine Motion se deteriora<n>\nrápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Supongo que así es..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? <n>¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido mejor que probar nuestra suerte.<n>\nNo soy la que sufre, y sin embargo estoy llena<n> de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active<n> el\nchakra del encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista? <n>¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Es hora de\n<n>localizar ese chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...¡Ngh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...¿Oh? ¿Qué ha pasado? Mi cuerpo de repente<n> se\nsiente relajado... y asombrosamente ligero!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡La acupuntura realmente es algo! Así<n> como así,\n¡me siento como nuevo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jadeo...</i> No puede ser... ¡¿De verdad<n> funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Nooo puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Fine Motion está rebosando de encanto!<n> ¡Seguro\nque llamará la atención dondequiera<n> que vaya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y salió bien! ¡Este es un <n>gran salto\nhacia lograr nuestro objetivo!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ugh... De repente me siento <n>mareada..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Tal vez la acupuntura no es para mí después<n> de\ntodo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de Fine Motion se deteriora<n>\nrápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Supongo que así es..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? <n>¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido mejor que probar nuestra suerte.<n>\nNo soy la que sufre, y sin embargo estoy llena<n> de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh, vamos! ¡No seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Reconsiderar."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! ¡Espero que sepas que <n>los <i>intrusos\n<i>serán</i> procesados!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me voy! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Tal vez realmente era un personaje dudoso <n>después\nde todo..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Aún así, debemos tener cuidado tanto con las<n>\nenfermedades como con las lesiones. Un cuerpo <n>sano\nes vital para correr y divertirse.",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo curiosidad sobre quién es <n>realmente este\npersonaje de Anshinzawa, pero no sirve<n> de nada\ndarle vueltas. Mejor olvidar el día de<n> hoy y\nseguir adelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Has cambiado de opinión, eh? No te<n> preocupes, ¡es\nnormal!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Adelante, dime qué chakra<n> quieres que active!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Bueno?! ¡No nos dejes en suspense! Espera<n> un\nsegundo... ¿Cuánto tiempo llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! ¡Espero que sepas que <n>los <i>intrusos\n<i>serán</i> procesados!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me voy! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La situación da un giro brusco antes de que <n>pueda\ntomar una decisión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué fue todo eso? Fine <n>Motion y yo nos miramos<n>\nperplejos."
+    }
+  ]
+}

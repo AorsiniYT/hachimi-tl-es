@@ -3,18 +3,18 @@
   "text_block_list": [
     {
       "name": "Gold City",
-      "text": "<i>Jadeo... jadeo...</i>"
+      "text": "<i>Jadeando... jadeando...</i>"
     },
     {
       "name": "Gold City",
-      "text": "¡Lo hice! ¡Yo! ¡Soy la campeona del Derby!"
+      "text": "¡Lo logré! ¡Yo! ¡Soy la campeona del Derby!"
     },
     {
       "name": "Gold City",
-      "text": "¡¿Vieron eso?! ¡Esta soy yo! ¡Esta es\nla<n>verdadera Gold City!"
+      "text": "¿Vieron eso?! ¡Esto soy yo! ¡Esta es la <n>verdadera\nGold City!"
     },
     {
-      "text": "¡Woooo!"
+      "text": "¡Wooooo!"
     },
     {
       "name": "Gold City",
@@ -22,23 +22,23 @@
     },
     {
       "name": "Fan A",
-      "text": "¡Gold City es increíble! Es la verdadera<n>cosa...\n¡Espero que pronto pueda<n>usar la banda de\nganadora!"
+      "text": "¡Gold City es increíble! Es la verdadera...<n>\n¡Espero que pronto pueda llevar<n> la banda de\nganadora!"
     },
     {
       "name": "Fan B",
-      "text": "¿Cierto? ¡Piensa en lo hermosa que se<n>vería con\nla roja! ¡No veo la hora por<n>el Kikuka Sho!"
+      "text": "¿Verdad? ¡Imagina lo espléndida que se<n> vería con\nla roja! ¡No puedo esperar al Kikuka<n> Sho!"
     },
     {
       "name": "Espectadores",
-      "text": "¡No puedo creer que una modelo<n>pueda correr así!\n¡Eres tan genial,<n>City!"
+      "text": "¡No puedo creer que una modelo pueda correr <n>así!\n¡Eres tan genial, City!"
     },
     {
       "name": "Gold City",
-      "text": "¿Qué? Soy campeona del Derby ahora.<n>Aún así\nsiguen hablando de bandas<n>y modelaje..."
+      "text": "¿Qué? Soy campeona del Derby ahora.<n> Y aún así\nsiguen hablando de bandas<n> y modelaje..."
     },
     {
       "name": "Fan A",
-      "text": "¡Pero también es una corredora<n>asombrosa!"
+      "text": "¡Pero también es una corredora increíble!"
     },
     {
       "name": "Gold City",
@@ -46,18 +46,18 @@
     },
     {
       "name": "Gold City",
-      "text": "No es que mi carrera sea genial, sino<n>que es\ngenial \"también.\""
+      "text": "No que mi carrera sea genial, sino que es genial<n>\n<i>también.</i>"
     },
     {
       "name": "Gold City",
-      "text": "Esto no es una victoria en absoluto.<n>¡Sigo siendo solo una muñeca para<n>ellos!"
+      "text": "Esta no es una victoria en absoluto. ¡Para ellos\nsigo siendo <n>solo una muñeca!"
     },
     {
       "name": "Gold City",
       "text": "...",
       "choice_data_list": [
-        "¡Corriste genial ahí fuera!",
-        "¡Corriste genial ahí fuera!"
+        "¡Corriste genial ahí afuera!",
+        "¡Corriste genial ahí afuera!"
       ]
     },
     {
@@ -69,11 +69,11 @@
     },
     {
       "name": "Gold City",
-      "text": "Porque todos dicen: \"No es <i>solo</i><n>guapa,\"\no, \"Corre bien, <i>para ser<n>modelo.</i>\""
+      "text": "Porque todas dicen, \"No es <i>solo</i> <n></i>bonita\", o, \"Corre\nbien, <i>para ser <n>modelo.</i>\"</i>"
     },
     {
       "name": "Gold City",
-      "text": "No importa lo que digan, siempre<n>tienen que\nmencionar mi apariencia."
+      "text": "No importa lo que digan, siempre <n>tienen que\nmencionar mi apariencia."
     },
     {
       "name": "Gold City",
@@ -81,25 +81,25 @@
     },
     {
       "name": "Gold City",
-      "text": "Solo quiero que todos me miren y<n>vean <i>a mí.</i>"
+      "text": "Solo quiero que todos me miren y vean <n><i>a mí.</i>"
     },
     {
       "name": "Gold City",
-      "text": "Pero bueno, si esto es lo que obtengo<n>incluso\ncuando gano el Derby, entonces<n>quizás... ya\nsabes..."
+      "text": "Pero oye, si esto es todo lo que obtengo incluso<n>\ncuando gano el Derby, entonces quizás... sabes..."
     },
     {
       "name": "Gold City",
       "text": "Esto es todo lo que hay.",
       "choice_data_list": [
-        "¡Todavía está el Kikuka Sho!"
+        "¡Todavía queda el Kikuka Sho!"
       ]
     },
     {
       "name": "Gold City",
       "text": "¿Qué?",
       "choice_data_list": [
-        "Aún puedes convertirte en la más fuerte de todas las corredoras.",
-        "Aún puedes convertirte en la más fuerte de todas las corredoras."
+        "Aún puedes convertirte en la más fuerte de todas\nlas corredoras.",
+        "Aún puedes convertirte en la más fuerte de todas\nlas corredoras."
       ]
     },
     {
@@ -107,15 +107,15 @@
       "text": "El Kikuka Sho..."
     },
     {
-      "text": "Dicen que el Kikuka Sho es para la<n>corredora con\nla mayor fuerza. Si da<n>el gran golpe allí,\npodría poder<n>reescribir su reputación.",
+      "text": "Dicen que el Kikuka Sho va para<n> la corredora con\nla mayor fuerza. Si se<n> destaca allí, puede ser\ncapaz de <n>reescribir su reputación.",
       "choice_data_list": [
-        "Tampoco quiero que las cosas se queden así.",
-        "Tampoco quiero que las cosas se queden así."
+        "Yo tampoco quiero que las cosas se queden así.",
+        "Yo tampoco quiero que las cosas se queden así."
       ]
     },
     {
       "name": "Gold City",
-      "text": "Eh...",
+      "text": "Uh...",
       "choice_data_list": [
         "¡Quiero que la gente reconozca tu fuerza!",
         "¡Quiero que la gente reconozca tu fuerza!"
@@ -127,11 +127,11 @@
     },
     {
       "name": "Gold City",
-      "text": "Sí, solo... perdí confianza, supongo.<n>Pero no te\npreocupes, no me rendiré<n>a medias."
+      "text": "Sí, solo... perdí confianza, supongo. <n>Pero no te\npreocupes, no me rindo a<n> la mitad."
     },
     {
       "name": "Gold City",
-      "text": "No puedo permitir que estés más<n>emocionado por\nmi propia carrera<n>que yo.",
+      "text": "No puedo permitir que tú estés más emocionado <n>por\nmi propia carrera que yo.",
       "choice_data_list": [
         "¡Usaremos este verano para hacerte más fuerte que\nnunca!",
         "¡Usaremos este verano para hacerte más fuerte que\nnunca!"
@@ -143,11 +143,11 @@
     },
     {
       "name": "Gold City",
-      "text": "Está bien entonces, también haré una<n>promesa,\npara igualar tu entusiasmo."
+      "text": "Muy bien, entonces yo también haré una promesa,<n>\npara igualar tu entusiasmo."
     },
     {
       "name": "Gold City",
-      "text": "Voy a hacerme más fuerte y ganar el<n>Kikuka Sho.\n¡Grabaré al verdadero yo<n>en la mente de todos!"
+      "text": "Voy a ponerme más fuerte y ganar el <n>Kikuka Sho.\n¡Grabaré a la verdadera yo en<n> la mente de todos!"
     }
   ]
 }

@@ -1,51 +1,51 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monólogo",
-      "text": "Meisho Doto aún no ha llegado al<n>entrenamiento,\nasí que decido buscarla."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "¿La energía del cosmos te da<n>positividad? ¿Y\ndices que los resultados<n>son permanentes? ¡¿Y\nademás?!"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Nunca pensé que un producto tan asombroso<n>fuera\nreal! ¡Por favor, quiero uno!"
-    },
-    {
-      "name": "Dama Sospechosa",
-      "text": "Hehe, entonces quieres comprar la<n>pulsera\ncósmica. Ahora, ¿cómo vas a<n>pagar?",
-      "choice_data_list": [
-        "¿Estás segura de que hace lo que dices?"
-      ]
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "¿Gyah, Entrenador? ¿Qué estás haciendo<n>aquí?"
-    },
-    {
-      "name": "Dama Sospechosa",
-      "text": "¡Oh, ho, ho, ho! Debo irme, porque<n>acabo de\nrecordar que tengo una agenda<n>muy ocupada!"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "¡¿Huuuh?! Pero ¿y mi pulsera cósmica<n>qué?",
-      "choice_data_list": [
-        "Deberías preocuparte más de que es hora de tu\nentrenamiento."
-      ]
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "La hora de entr—¡Oh nooo!"
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "¡Lo olvidé por completo! ¡Lo siento mucho!"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Le recuerdo a Meisho Doto que debe estar<n>más\nconsciente de su horario de entrenamiento."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Meisho Doto aún no ha aparecido para<n> el\nentrenamiento, así que decido buscarla."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "¿L-la energía del cosmos te da <n>p-positividad? ¿Y\ndices que los resultados <n>son permanentes?!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "¡Nunca supe que un p-producto tan increíble<n>\npudiera ser real! ¡Tomaré uno por favor!"
+        },
+        {
+            "name": "Señora Sospechosa",
+            "text": "Jeje, así que te gustaría comprar<n> la pulsera\ncósmica. Ahora, ¿cómo<n> pagarás?",
+            "choice_data_list": [
+                "¿Estás seguro que hace lo que dices?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "¡Gyah, Entrenador?! ¿Qué estás haciendo<n> aquí?"
+        },
+        {
+            "name": "Señora Sospechosa",
+            "text": "¡Oh, ho, ho, ho! Debo irme, pues <n>ahora recuerdo mi\nagenda muy <n>apretada y ocupada!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "¡Huuuh?! ¡Pero qué hay de mi pulsera<n> cósmica?!",
+            "choice_data_list": [
+                "Deberías preocuparte más de que es hora de tu\nentrenamiento."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "¿Hora de entre—Oh nooo!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "¡Lo olvidé por completo! Lo siento mucho!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Le recuerdo a Meisho Doto que sea más<n> consciente\nde su horario de entrenamiento."
+        }
+    ]
 }

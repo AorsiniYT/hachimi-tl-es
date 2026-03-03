@@ -1,0 +1,63 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Entrando en la cafetería un <n>día de almuerzo, veo a\nMejiro Ardan <n>con varios platos de comida peculiar\nfrente a<n> ella.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Hola, Entrenador. Echa un vistazo a esta<n> cocina—no\nes algo que encuentres todos los<n> días, ¿verdad?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Es un plato de hierbas que mejora<n> la digestión."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Al parecer, la cafetería lo ha introducido<n> a modo\nde prueba, pero el sabor es<n> tan único que apenas\nnadie lo pide."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sería una gran lástima dejar que la comida <n>se\ndesperdicie, y dado que mi paladar<n> está\nacostumbrado a la comida saludable, <n>yo decidí\npedir varias porciones.",
+      "choice_data_list": [
+        "¿No crees que esto es un poco demasiado, aunque?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Un poco, sí. Pero creo que los nutrientes<n>\nadicionales serán beneficiosos.",
+      "choice_data_list": [
+        "Vas a sobredosificar de nutrientes a este ritmo.",
+        "En ese caso, come y gana masa muscular."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Es como temía... No puedo manejar todo esto.<n> Aún\nasí no puedo soportar desperdiciar nada<n> tampoco...",
+      "choice_data_list": [
+        "Te ayudaré a terminar la comida."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Gracias por tu generosa oferta."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ahora, por favor espera un momento <n>mientras\ncalculo el tamaño de porción apropiado en<n> términos\nde nutrición."
+    },
+    {
+      "text": "Mejiro Ardan divide la comida, y<n> yo como lo que\nella no puede terminar.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí. Construiré una figura capaz de <n>ganar carreras,\nasí que por favor esperen<n> mi progreso."
+    },
+    {
+      "text": "Mejiro Ardan continúa y termina cada último<n> bocado\nde la cocina de hierbas, obteniendo<n> una saludable\nporción de nutrición en<n> el proceso.",
+      "name": "Monólogo"
+    }
+  ]
+}

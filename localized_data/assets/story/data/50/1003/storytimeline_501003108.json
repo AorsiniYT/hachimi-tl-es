@@ -2,39 +2,37 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
-      "text": "Es hora del último Fan Fest, un evento<n>\ncon varias atracciones para los fans<n>que\napoyan a las estudiantes de Tracen."
+      "text": "Es hora del último Festival de Fans, un evento<n> con\nvarias atracciones para los fans que <n>apoyan a los\nestudiantes de Tracen."
     },
     {
-      "name": "Monólogo",
-      "text": "El día de la inauguración, veo a Tokai\nTeio<n>luciendo muy entusiasta."
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "¡Bienvenidos al Fan Fest! ¡Esperamos que<n>se\ndiviertan a más no poder!"
+      "text": "El día de la inauguración, veo a Tokai<n> Teio\nluciendo muy entusiasta."
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Vaya, hola, entrenador! Espero que<n>tengas una\nexperiencia muy agradable!",
+      "text": "¡Bienvenidos al Festival de Fans! <n>Esperamos que\ndisfruten al máximo de corazón<n> y alma!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, ¡hola, Entrenador! Espero que estés\nteniendo<n> una experiencia muy placentera!",
       "choice_data_list": [
-        "Hoy suenas diferente..."
+        "Suenas diferente hoy..."
       ]
     },
     {
       "name": "Tokai Teio",
-      "text": "¿No notas? ¡Estoy hablando como la Presi!"
+      "text": "¿No te das cuenta? ¡Estoy hablando como la\nPresidenta!"
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Porque hoy el consejo estudiantil está<n>hasta el\ncuello de cosas por hacer!<n>¡Dijeron que\nestán desesperados por ayuda!"
+      "text": "¡Porque hoy el consejo estudiantil está<n> hasta el\ntope de cosas que hacer! Dijeron<n> que están\ndesperados por ayuda!"
     },
     {
       "name": "Tokai Teio",
-      "text": "¡La Presi hasta me dijo directamente\nque<n>necesitaba que ayudara!"
+      "text": "¡La Presidenta incluso me dijo directamente <n>que me\nnecesitaba para ayudar!"
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Así que soy su suplente! ¿Acaso<n>entiendes lo\nimportante que es esto?",
+      "text": "¡Así que soy su suplente! ¿Acaso <n>entiendes lo\ngrande que es esto?",
       "choice_data_list": [
         "¡Eso es increíble! ¡Buena suerte!",
         "¡Eso es increíble! ¡Buena suerte!"
@@ -46,31 +44,30 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Para ser honesta, una vez que empecé a<n>ayudar,\nme di cuenta de que esto era más de lo<n>que esperaba."
+      "text": "Para ser honesto, una vez que empecé a <n>ayudar, me\ndi cuenta de que esto era mucho más <n>de lo que\nesperaba."
     },
     {
       "name": "Tokai Teio",
-      "text": "Así que por los poderes que me otorga<n>ser la\nPresi actual, ¡te ordeno que ayudes también!"
+      "text": "¡Así que por los poderes que me fueron conferidos,<n>\nla actual Presidenta, yo te ordeno que ayudes\ntambién!"
     },
     {
-      "name": "Monólogo",
-      "text": "Según sus deseos, termino<n>acompañando a Tokai\nTeio mientras camina<n>por el Fan Fest."
+      "text": "Según sus deseos, termino acompañando<n> a Tokai Teio\nmientras ella recorre<n> el Festival de Fans."
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Caray! ¡Esa fila es <i>enorme!</i>"
+      "text": "¡Caramba! ¡Esa fila <i>es <i>enorme!</i>"
     },
     {
       "name": "Nice Nature",
-      "text": "Sí, nuestro set de estofado de res y<n>brochetas\nes un éxito mucho mayor del que<n>esperábamos."
+      "text": "Sí, nuestro estofado de carne y set de brochetas\nes<n> un exito mucho mayor de lo que esperábamos."
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Ooh, eso suena delicioso!"
+      "text": "¡Oh, eso suena delicioso!"
     },
     {
       "name": "Tokai Teio",
-      "text": "...Quiero decir. Ejem. Entendido.\nNosotros<n>miembros del consejo\nestudiantil<n>acudiremos en su ayuda."
+      "text": "...Quiero decir. Ajém. Entendido. <n>Nosotros, los\nmiembros del consejo estudiantil,<n> acudiremos en tu\nayuda."
     },
     {
       "name": "Nice Nature",
@@ -78,7 +75,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ugh... Me rindo..."
+      "text": "Uf... Me rindo..."
     },
     {
       "name": "Tokai Teio",
@@ -86,114 +83,113 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Estoy en medio de la búsqueda del tesoro<n>y\nnecesito alguien que pueda hacer<n>cien\nabdominales."
+      "text": "Estoy en medio de la búsqueda del tesoro<n> y\nnecesito encontrar a alguien que pueda <n>hacer cien\nabdominales."
     },
     {
       "name": "Tokai Teio",
-      "text": "Muy bien. Nosotros miembros del\nconsejo<n>estudiantil acudiremos en su\nayuda.<n>¡Te toca, entrenador!",
+      "text": "Muy bien. Nosotros, los miembros del consejo<n>\nestudiantil, acudiremos en tu ayuda. ¡Te <n>toca,\nEntrenador!",
       "choice_data_list": [
-        "¡¿Yo?!",
-        "¡¿Yo?!"
+        "¿¡Yo!?",
+        "¿¡Yo!?"
       ]
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Encárgate de esta tarea y haz que la<n>escuela se\nsienta orgullosa!"
+      "text": "¡Asume esta tarea y haz que la escuela se sienta<n>\norgullosa!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...¿Esto es algún tipo de sketch?"
+      "text": "...¿Es esto algún tipo de sketch?"
     },
     {
       "name": "Tokai Teio",
-      "text": "Bien, bien. Es un placer ver a<n>todos\ndiviertiéndose. ¡Tú también<n>has sido de gran ayuda,\nentrenador!",
+      "text": "Bien, bien. Es un placer ver a<n> todos disfrutando.\nHas sido de gran<n> ayuda también, ¡Entrenador!",
       "choice_data_list": [
         "Te lo tomaste bastante en serio, Teio."
       ]
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Disculpa! ¿\"Bastante en serio\"? ¡Qué grosero!"
+      "text": "¡Disculpe! \"Bastante en serio\"? ¡Qué grosero!"
     },
     {
       "name": "Tokai Teio",
-      "text": "¡No solo la Presi es increíble corriendo,<n>sino\nque también es una presidenta del<n>consejo\nestudiantil de primera!"
+      "text": "No solo la Presidenta es increíble corriendo,\n<n>¡sino que también es una presidenta del consejo\n<n>estudiantil de primera!"
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Y yo soy su suplente! ¡Claro que<n>enfrentaría\nun deber tan importante con<n>la mayor\nseriedad!"
+      "text": "¡Y soy su suplente! Por supuesto que<n> abordaría un\ndeber tan importante<n> con la máxima seriedad!"
     },
     {
       "name": "Tokai Teio",
-      "text": "...¿Eh? Todos se dirigen al escenario<n>por alguna\nrazón. Vamos a ver."
+      "text": "...¿Eh? Todos se dirigen al <n>escenario por alguna\nrazón. Vamos a ver."
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Ooh, dice \"Concurso Shining Umadol\"!<n>¡Apuesto a\nque habrá mucho canto y<n>baile!"
+      "text": "¡Oh, dice \"Concurso Shining Umadol\"! <n>Apuesto a que\nhabrá montones de canto<n> y baile!"
     },
     {
       "name": "Smart Falcon",
-      "text": "<i>Snif...</i> ¡¿Qué voy a hacer?!"
+      "text": "<i>Snif...</i> ¿Qué voy a hacer?!"
     },
     {
       "name": "Tokai Teio",
-      "text": "Vaya, vaya. ¿Cuál parece ser el<n>problema, joven\nFalco?"
+      "text": "Bueno, bueno. ¿Cuál parece ser el<n> problema, joven\nFalco?"
     },
     {
       "name": "Smart Falcon",
-      "text": "Teio... Iba a unirme al concurso,<n>pero..."
+      "text": "Teio... Iba a unirme al concurso,<n> pero..."
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Mi amiga que se suponía que sería mi<n>compañera\nde inscripción me dijo que<n>no podía hacerlo de\nrepente!"
+      "text": "Mi amiga que se suponía sería mi <n>compañera de\nentrada me dijo que no podía <n>hacerlo de repente!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Intenté decirle que estaríamos bien<n>porque soy\nlo suficientemente linda<n>para las dos, pero ni\nsiquiera escuchó..."
+      "text": "Intenté decirle que estaríamos bien porque soy lo<n>\nsuficientemente linda para las dos, pero ella<n> ni\nsiquiera quiso escuchar..."
     },
     {
       "name": "Tokai Teio",
-      "text": "Mmmm... Ya veo, ya veo..."
+      "text": "Mmm... Veo, veo..."
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Esto suena a trabajo para el\nconsejo<n>estudiantil! ¡De acuerdo, me uniré a ti!"
+      "text": "¡Esto suena como un trabajo para el consejo<n>\nestudiantil! Muy bien, ¡me uniré a ti!"
     },
     {
       "name": "Smart Falcon",
-      "text": "¿D-de verdad? ¡Gracias, Teio!"
+      "text": "¿¿En serio?! ¡Gracias, Teio!"
     },
     {
       "name": "Tokai Teio",
-      "text": "Jeje. No soy Teio... Soy (la suplente<n>de)\nSymboli Rudolf!"
+      "text": "Jeje. No soy Teio... Soy (la suplente<n> de) Symboli\nRudolf!"
     },
     {
-      "name": "Monólogo",
-      "text": "De esta manera, la suplente Symboli\nRudolf<n>anteriormente conocida como Tokai Teio\nva<n>resolviendo varios problemas según<n>surgen."
+      "text": "De esta manera, la suplente Symboli Rudolf,\n<n>anteriormente conocida como Tokai Teio, <n>recorre\nresolviendo varios problemas a medida<n> que surgen."
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Gracias por tu arduo trabajo hoy,<n>Teio."
+      "text": "Gracias por tu duro trabajo hoy,<n> Teio."
     },
     {
       "name": "Tokai Teio",
-      "text": "Jejeje. ¡Me tomé mi trabajo como tu<n>suplente\nmuy,<i>muy</i> en serio!"
+      "text": "Jejeje. Tomé mi trabajo como tu suplente<n> <i>muy, <i>muy</i>\nen </i>serio!"
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Ciertamente... He escuchado muchas<n>palabras de\ngratitud de todos. Parece<n>que has estado bastante\nocupada."
+      "text": "En efecto... He escuchado muchas <n>palabras de\ngratitud de todos. Parece que has<n> estado bastante\nocupada."
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Lo que me lleva a mi siguiente punto..."
+      "text": "Lo que me trae a mi siguiente punto..."
     },
     {
       "name": "Symboli Rudolf",
-      "text": "He estado escuchando muchos pedidos<n>de que los\nganadores de cierto concurso<n>Umadol den una\nactuación adicional."
+      "text": "He estado escuchando muchos clamores para<n> que los\nganadores de un cierto concurso<n> Umadol den una\nactuación bis."
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Y para mi sorpresa, mi nombre parece<n>estar\nlistado como uno de los miembros<n>de la unidad..."
+      "text": "Y para mi sorpresa, mi nombre parece estar<n> listado\ncomo uno de los miembros de la unidad..."
     },
     {
       "name": "Tokai Teio",
@@ -201,51 +197,49 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Y hace un momento, alguien me<n>entregó un\ntraje de ídolo muy con volantes..."
+      "text": "Y hace poco, alguien me entregó<n> un vestido de\nídolo muy fruncido..."
     },
     {
       "name": "Tokai Teio",
-      "text": "Ah, jaja... Bueno, quiero decir... podrías<n>lucir\ncualquier tipo de look así que..."
+      "text": "Ah, jaja... Bueno, quiero decir... podrías lograr<n>\ncualquier tipo de look así que..."
     },
     {
-      "name": "Monólogo",
-      "text": "Tokai Teio recibe un regaño y le dicen que<n>nunca\nvuelva a robar el nombre de alguien más."
+      "text": "Tokai Teio recibe una regañina y se le dice que<n>\nnunca vuelva a robar el nombre de otra persona."
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Por cierto, ¿tienes idea de por qué<n>mi nombre\nestaba listado entre los ganadores<n>de cierto\nconcurso?"
+      "text": "Por cierto, ¿tienes alguna idea de por<n> qué mi\nnombre fue listado entre los ganadores<n> de un\ncierto concurso?"
     },
     {
       "name": "Tokai Teio",
-      "text": "Oh, rayos... Err, debes referirte a esa<n>cosita\nUmadol en la que participé..."
+      "text": "Oh, mierda... Eh, debes referirte a esa <n>cosa\nUmadol en la que participé..."
     },
     {
       "name": "Symboli Rudolf",
-      "text": "No puedo creer que falsamente<n>asumieras mi\nnombre así."
+      "text": "No puedo creer que asumas falsamente<n> mi nombre\nasí."
     },
     {
       "name": "Symboli Rudolf",
-      "text": "En cualquier caso, todos los fans con<n>los que he\nhablado parecían<n>profundamente impresionados por la\nactuación."
+      "text": "En cualquier caso, todos los fans con los que he\n<n>hablado parecían profundamente impresionados<n> por\nla actuación."
     },
     {
       "name": "Symboli Rudolf",
-      "text": "...La actuación de Smart Falcon y<n>Tokai\nTeio, quiero decir."
+      "text": "...La actuación de Smart Falcon y <n>Tokai Teio, es\ndecir."
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Están clamando por un bis. Asegúrate<n>de darles\ntu<i>verdadero</i> nombre esta<n>vez."
+      "text": "Están pidiendo un bis. Asegúrate de<n> darles tu\n<i>verdadero</i> nombre <n>esta vez."
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Guau! Bien, ¡lo haré! ¡Me aseguraré de<n>que vean\na Tokai Teio en todo su esplendor!"
+      "text": "¡Guau! ¡Ok, lo haré! ¡Asegurarme de que vean<n> a\nTokai Teio en todo su esplendor!"
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Mis fans me esperan allá afuera! ¡Este debe<n>ser\nel inicio de mi carrera como Umadol!"
+      "text": "¡Mis seguidores están esperando allá afuera! ¡Este<n>\ndebe ser el inicio de mi carrera como ídolo!"
     },
     {
-      "name": "Monólogo",
-      "text": "Gracias al apoyo de Tokai Teio, el Fan<n>Fest\ntermina con un éxito rotundo."
+      "text": "Gracias al apoyo de Tokai Teio, el festival de<n>\nseguidores termina en un rotundo éxito."
     }
   ]
 }

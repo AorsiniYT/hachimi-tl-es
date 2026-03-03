@@ -2,67 +2,67 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Caster",
-      "text": "¡El partido del siglo está por comenzar—<n>el tipo\nde enfrentamiento que solo<n>encuentras en la\nJapan Cup!"
+      "name": "Locutor",
+      "text": "¡El partido del siglo está a punto de <n>comenzar—el\ntipo de enfrentamiento que solo <n>encontrarás en la\nJapan Cup!"
     },
     {
-      "name": "Caster",
-      "text": "Solo hay una pregunta en la mente de<n>todos—\n¿Mihono Bourbon o Tokai Teio?<n>¿Quién será\nhoy?!"
+      "name": "Locutor",
+      "text": "¡Solo hay una pregunta en la mente<n> de todos—Mihono\nBourbon o Tokai<n> Teio? ¿Quién será hoy?!"
     },
     {
-      "text": "¡Wuuuuu!"
+      "text": "¡Wooooo!"
     },
     {
       "name": "Espectador A",
-      "text": "Tiene que ser Teio, ¿verdad? Ha estado<n>fuera del\njuego un tiempo, pero es una<n>prodigio."
+      "text": "Tiene que ser Teio, ¿verdad? Ha estado fuera<n> del\njuego por un tiempo, pero es <n>un prodigio."
     },
     {
       "name": "Espectador B",
-      "text": "¡De ninguna manera, Mihono Bourbon te<n>probará\nlo contrario! ¿No recuerdas el<n>Tenno Sho de\nprimavera?"
+      "text": "¡Ni hablar, Mihono Bourbon te va a demostrar<n> que\nestás equivocado! ¿No recuerdas<n> el spring Tenno\nSho?"
     },
     {
       "name": "Espectador A",
-      "text": "¡Argh, estoy tan nervioso que no puedo<n>soportar\nver!"
+      "text": "¡Argh, estoy tan nervioso que no puedo soportar<n>\nverlo!"
     },
     {
-      "text": "Todos en las gradas esperan con<n>el aliento\nretenido la competencia<n>entre Tokai Teio y\nMihono Bourbon."
+      "text": "Todos en las gradas están esperando con<n> el aliento\ncontenido por la <n>competencia entre Tokai Teio y\nMihono<n> Bourbon."
     },
     {
-      "text": "Mientras tanto, en el túnel de<n>corredoras..."
+      "text": "Mientras tanto, en el túnel de las corredoras..."
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Oye, Bourbon! ¡Tengamos una buena<n>carrera!"
+      "text": "¡Oye, Bourbon! ¡Tengamos una buena carrera!"
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Así es."
+      "text": "Ciertamente."
     },
     {
-      "text": "Tokai Teio mira fijamente la mano<n>extendida de\nMihono Bourbon."
-    },
-    {
-      "name": "Tokai Teio",
-      "text": "Para ser honesta, apenas me<n>recuperé de mi\nlesión, así que me sentía<n>nerviosa por correr\nhoy."
+      "text": "Tokai Teio mira la mano extendida<n> de Mihono\nBourbon."
     },
     {
       "name": "Tokai Teio",
-      "text": "Pero cuando vi el Tenno Sho de<n>primavera...\nDe repente... tuve esta<n>sensación liberadora."
+      "text": "Para ser honesta, solo me he <n>recuperado de mi\nlesión, así que estaba <n>nerviosa por correr hoy."
     },
     {
       "name": "Tokai Teio",
-      "text": "Por supuesto, ya sabía todo sobre ti<n>porque\ninvestigué mucho, pero<n>me di cuenta de que\n¡nada de<n>eso importa!"
+      "text": "Pero cuando vi el spring Tenno Sho...<n> De alguna\nmanera... de repente tuve esta<n> sensación\nliberadora."
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Todo lo que quiero hacer es competir<n>contra ti!"
+      "text": "Por supuesto, ya sabía todo sobre ti <n>porque\ninvestigué un montón, ¡pero me di <n>cuenta de que\ntoda esa basura no importa!"
     },
     {
-      "text": "Ella agarra firmemente la mano de<n>Mihono Bourbon."
+      "name": "Tokai Teio",
+      "text": "¡Todo lo que quiero hacer es correr contra ti!"
+    },
+    {
+      "text": "Ella agarra firmemente la mano de Mihono Bourbon."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Me siento honrada de oír eso."
+      "text": "Me honra escuchar eso."
     },
     {
       "name": "Tokai Teio",
@@ -70,11 +70,11 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Entonces te veo en el paddock!"
+      "text": "¡Nos vemos en la zona de preparación, entonces!"
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Creo que finalmente entiendo lo que<n>Rice quiso\ndecir cuando dijo que quería<n>\"alcanzarme\".",
+      "text": "Creo que finalmente entiendo lo que<n> Rice quiso\ndecir cuando dijo que <n>quería \"alcanzarme\".",
       "choice_data_list": [
         "...!"
       ]
@@ -84,7 +84,7 @@
       "text": "Me voy ahora, Entrenador."
     },
     {
-      "text": "¡Y así comienza la tan anticipada<n>Japan Cup!"
+      "text": "Y así, la muy esperada Japan Cup<n> comienza!"
     }
   ]
 }

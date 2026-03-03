@@ -3,27 +3,27 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Un día, mientras caminábamos por el<n>distrito\ncomercial de regreso a casa..."
+      "text": "Un día, mientras caminamos por el <n>distrito\ncomercial de regreso a casa..."
     },
     {
       "name": "Narita Taishin",
-      "text": "Vaya, qué ruidoso..."
+      "text": "Caray, eso es ruidoso..."
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Acérquense y prueben suerte con nuestra<n>rifa de\nAño Nuevo! ¡El gran premio de este año<n>es unas\nvacaciones en aguas termales para dos!"
+      "name": "Empleado de la Rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa<n> de\nAño Nuevo! ¡El gran premio de este año es unas<n>\nvacaciones en aguas termales para dos!"
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Los ganadores del primer premio obtienen<n>un\nbistec de hamburguesa de zanahoria de lujo!<n>¡Los\ndel segundo premio se llevan<n>un montón de\nzanahorias! ¡Y los del tercero<n>pueden llevarse\nuna sola zanahoria!"
+      "name": "Empleado de la Rifa",
+      "text": "¡Los ganadores del primer premio reciben un filete\nde <n>hamburguesa de zanahoria de lujo! ¡Los\nganadores del segundo<n> premio reciben un haz de\nzanahorias! ¡Y los ganadores del<n> tercer premio\npueden llevarse a casa una sola zanahoria!"
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡No dejen pasar esta oportunidad!<n>¡Consigan un\nboleto ahora y giren para<n>tener la chance de\nganar!"
+      "name": "Empleado de la Rifa",
+      "text": "¡No dejen pasar esta oportunidad! ¡Consigan<n> un\nboleto ahora y giren para tener la <n>oportunidad de\nganar!"
     },
     {
       "name": "Monólogo",
-      "text": "Recibí un boleto de rifa antes cuando<n>compré\nalgo, lo cual es perfecto<n>porque...",
+      "text": "Recibí un boleto de rifa antes cuando<n> compré algo,\nlo cual es perfecto<n> porque...",
       "choice_data_list": [
         "¡Tenemos que intentarlo, Taishin!",
         "¡Tenemos que intentarlo, Taishin!"
@@ -31,23 +31,23 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "¿Por qué no lo haces tú sola? Yo me<n>voy a casa."
+      "text": "¿Por qué no lo haces tú mismo? Yo<n> me voy a casa."
     },
     {
       "name": "Narita Taishin",
-      "text": "Esas cosas siempre están arregladas para<n>que no\nganes nada en realidad."
+      "text": "Esas cosas siempre están amañadas para<n> que no\nganes nada en realidad."
     },
     {
       "name": "Narita Taishin",
-      "text": "Ese gran premio no es más que un<n>sueño imposible."
+      "text": "Ese gran premio no es más que un sueño <n>imposible."
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Ojo! ¡Veo que tienes puestos los ojos en\nel<n>gran premio, señorita! ¡Ese es el\nespíritu!<n>¡Sueña en grande o vete a casa!"
+      "name": "Empleado de la Rifa",
+      "text": "¡Oh! ¡Veo que tienes puestos los ojos en el <n>gran\npremio, señorita! ¡Ese es el espíritu! ¡Soñar<n> en\ngrande o volver a casa!"
     },
     {
       "name": "Narita Taishin",
-      "text": "¡¿Eh?! Ni siquiera estaba—",
+      "text": "¿¡Qué?! Yo ni siquiera—",
       "choice_data_list": [
         "¡Ese gran premio es nuestro!",
         "¡Ese gran premio es nuestro!"
@@ -55,23 +55,23 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "¡Uf! ¡Cierra el pico, tonta!"
+      "text": "¡Ugh! ¡Cierra la boca, tonta!"
     },
     {
       "name": "Monólogo",
-      "text": "Narita Taishin gira la palanca de la<n>máquina de\nrifa con una expresión<n>un poco fruncida."
+      "text": "Narita Taishin gira la palanca de<n> la máquina de\nrifa con una <n>expresión algo fruncida."
     },
     {
       "name": "Monólogo",
-      "text": "Una pequeña bola de plástico sale por\nla<n>abertura del tambor..."
+      "text": "Una pequeña bola de plástico cae de <n>la abertura\ndel tambor..."
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Santos cielos! ¡Tenemos una ganadora del<n>gran\npremio! ¡Vengan a recoger el<n>cupón para sus\nvacaciones en aguas<n>termales! ¡Felicidades!"
+      "name": "Empleado de la Rifa",
+      "text": "¡Caramba! ¡Tenemos una ganadora del<n> gran premio!\n¡Venga a recoger el cupón<n> para sus vacaciones en\naguas termales!<n> ¡Felicitaciones!"
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste:<n><itemname>"
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
       "name": "Narita Taishin",
@@ -79,9 +79,9 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "¿De verdad gané el viaje a aguas termales?",
+      "text": "¿Realmente gané el viaje a las aguas termales?",
       "choice_data_list": [
-        "¡Felicidades!"
+        "¡Felicitaciones!"
       ]
     },
     {
@@ -90,13 +90,13 @@
     },
     {
       "name": "Monólogo",
-      "text": "Narita Taishin está tan sorprendida que\nsolo<n>puede mostrar un agradecimiento genuino."
+      "text": "Narita Taishin está tan sorprendida que<n> solo puede\nmostrar una genuina<n> gratitud."
     },
     {
       "name": "Narita Taishin",
-      "text": "Toma. Esto te pertenece ya que era<n>tu boleto de\nrifa.",
+      "text": "Aquí. Esto te pertenece ya que fue<n> tu boleto de\nrifa.",
       "choice_data_list": [
-        "Pero fuiste tú quien ganó el premio. Deberías\ndisfrutarlo."
+        "Pero fuiste tú la que ganó el premio. Deberías\ndisfrutarlo."
       ]
     },
     {
@@ -105,47 +105,47 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Está bien."
+      "text": "Bien."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ah, así que por eso preguntas cuál de<n>nosotras\nquisiera acompañarte en el viaje."
+      "text": "Ah, por eso estás preguntando cuál de nosotras<n> le\ngustaría acompañarte en un viaje."
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Oooh, guau! ¿Un viaje a aguas termales?<n>¡Me encantaría—"
+      "text": "¡Ooh, wow! ¿Un viaje a aguas termales? Me\n<n><i>encantaría</i>—</i>"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Espera, Ticket."
+      "text": "Ahora, espera, Ticket."
     },
     {
       "name": "Winning Ticket",
-      "text": "¡¿Bwah?!"
+      "text": "¿Bwah?!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Realmente necesitas ser más sensible a<n>los\nsentimientos de tus amigas."
+      "text": "Realmente necesitas ser más sensible a los<n>\nsentimientos de tus amigas."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Mis disculpas, Taishin. Nosotras dos<n>estaremos\nocupadas en el futuro cercano,<n>así que me temo\nque no podemos acompañarte."
+      "text": "Mis disculpas, Taishin. Las dos estaremos<n> ocupadas\nen el futuro previsible, así que<n> me temo que no\npodemos ir contigo."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "También hay mucho por hacer después de\nla<n>Twinkle Series."
+      "text": "Hay mucho que hacer después de la Serie<n> Destello\ntambién."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Además, estoy segura de que hay alguien<n>que\nsería una compañía de viaje<n>mucho más adecuada."
+      "text": "Además, estoy segura de que hay alguien<n> que sería\nun compañero de viaje mucho <n>más apropiado."
     },
     {
       "name": "Narita Taishin",
-      "text": "¿Una qué? ¿De quién estás hablando?"
+      "text": "¿Un qué ahora? ¿De quién estás <n>hablando?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¿Qué sería más vergonzoso para<n>ti? ¿Que todos te\nlo digan claramente<n>o que tengas que descifrarlo\ntú sola?"
+      "text": "¿Qué sería más embarazoso para ti?<n> ¿Que todos lo\ndigan en voz alta o<n> tener que descubrirlo tú\nmisma?"
     },
     {
       "name": "Narita Taishin",
@@ -157,50 +157,50 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Jeje, ¿de verdad? A mí me encanta lo<n>torpe que\neres, sin embargo."
+      "text": "Jeje, ¿de verdad? Me encanta lo incómoda<n> que eres,\naunque."
     },
     {
       "name": "Monólogo",
-      "text": "Más tarde, Narita Taishin irrumpe en mi<n>oficina,\nse acerca corriendo y me<n>mete el boleto de\nvacaciones en las manos."
+      "text": "Más tarde, Narita Taishin irrumpe en mi<n> oficina,\nse acerca rápidamente y me empuja el<n> boleto de\nvacaciones en las manos."
     },
     {
       "name": "Narita Taishin",
-      "text": "Guarda esto."
+      "text": "Déjalo a un lado."
     },
     {
       "name": "Narita Taishin",
-      "text": "Si no encuentro a alguien con quien ir<n>para la\nfecha de vencimiento, entonces...",
+      "text": "Si no encuentro a nadie que vaya conmigo para<n> la\nfecha de vencimiento, entonces...",
       "choice_data_list": [
         "¿Entonces?"
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "¡Entonces nada! ¡En fin!"
+      "text": "¡Entonces nada! ¡De cualquier manera!"
     },
     {
       "name": "Narita Taishin",
-      "text": "¡Solo guárdalo por ahora!"
+      "text": "¡Solo déjalo a un lado por ahora!"
     },
     {
       "name": "Monólogo",
-      "text": "Y así termino quedándome con<n>el boleto para las\nvacaciones en aguas termales."
+      "text": "Y así es como termino guardando el <n>boleto para las\nvacaciones en aguas termales."
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Parece que tenemos otro ganador del\nprimer<n>premio! ¡Felicidades! ¡Obtienes\nun<n>bistec de hamburguesa de zanahoria de lujo!"
+      "name": "Empleado de la Rifa",
+      "text": "¡Parece que tenemos otro ganador del primer<n>\npremio! ¡Felicitaciones! ¡Obtienes un filete<n> de\nhamburguesa de zanahoria de lujo!"
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste:<n><itemname>"
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
       "name": "Narita Taishin",
-      "text": "Vaya, es enorme..."
+      "text": "Caray, es enorme..."
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡¿Verdad?! ¡Es lo suficientemente grande<n>para\nsatisfacer incluso a la Umamusume<n>más\nhambrienta! ¡Y sé lo mucho que a<n>ustedes les\ngusta comer!"
+      "name": "Empleado de la Rifa",
+      "text": "¿Verdad?! Es lo suficientemente grande para\n<n>satisfacer incluso a la Umamusume más hambrienta.<n>\n¡Y sé cuánto les gusta comer a ustedes!"
     },
     {
       "name": "Narita Taishin",
@@ -208,136 +208,136 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Oh, ya sé."
+      "text": "Oh, lo sé."
     },
     {
       "name": "Monólogo",
-      "text": "Esa noche, mientras trabajo en mi<n>oficina..."
+      "text": "Esa noche, mientras trabajo en mi<n> oficina..."
     },
     {
       "name": "Narita Taishin",
       "text": "Bien, estás aquí. ¿Ya cenaste?",
       "choice_data_list": [
-        "Todavía no."
+        "Aún no."
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "¿Sí? Mejor que no me digas que no te<n>gusta la\nboloñesa."
+      "text": "¿Sí? Más vale que no me digas que no te<n> gusta el\nbolonhés."
     },
     {
       "name": "Narita Taishin",
-      "text": "Los bistecs de hamburguesa precocinados<n>solo son\ncarne molida una vez que los<n>desmenuzas... Así\nque, sí.",
+      "text": "Los filetes de hamburguesa precocidos son<n> solo\ncarne molida una vez que los aplastas...<n> Así que\nsí.",
       "choice_data_list": [
-        "¡¿Hiciste esto con ese bistec de hamburguesa de\nzanahoria?!",
-        "¡¿Hiciste esto con ese bistec de hamburguesa de\nzanahoria?!"
+        "¿¡Hiciste esto con ese filete de hamburguesa de\nzanahoria?!",
+        "¿¡Hiciste esto con ese filete de hamburguesa de\nzanahoria?!"
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "Sí. ¿Eso es un crimen?"
+      "text": "Sí. ¿Es un crimen?"
     },
     {
       "name": "Narita Taishin",
-      "text": "El boleto de rifa era tuyo, así que<n>tú también\ndeberías tener una parte de esto."
+      "text": "El boleto de rifa era tuyo, así que <n>también\ndeberías tener una parte de esto."
     },
     {
       "name": "Narita Taishin",
-      "text": "En fin, date prisa y come antes de que se<n>enfríe."
+      "text": "De cualquier manera, date prisa y come antes de\nque<n> se enfríe."
     },
     {
       "name": "Narita Taishin",
-      "text": "(No pude cortar el bistec de hamburguesa<n>por la\nmitad y compartirlo todo<n>amistosamente, pero\nesto... Esto sí puedo hacerlo.)"
+      "text": "(No pude convencerme de cortar el filete<n> de\nhamburguesa por la mitad y compartirlo de <n>manera\namistosa, pero esto... Esto, sí puedo hacer.)"
     },
     {
       "name": "Monólogo",
-      "text": "Juntos, comemos la pasta boloñesa<n>especial que\nTaishin preparó, y está<n>absolutamente deliciosa."
+      "text": "Juntas, comemos la pasta bolonesa <n>especial que\nhizo Taishin, y está <n>absolutamente deliciosa."
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Tenemos una ganadora del segundo premio!<n>¡Es tu\ndía de suerte! ¡Te vas a casa con<n>un montón de\nzanahorias!"
+      "name": "Empleado de la Rifa",
+      "text": "¡Tenemos un ganador del segundo premio! <n>¡Es tu día\nde suerte! ¡Te vas a casa con<n> un haz de\nzanahorias!"
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste:<n><itemname>"
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
       "name": "Narita Taishin",
-      "text": "Dios mío, esa es una cantidad ridícula\nde<n>zanahorias. ¿Qué diablos se supone que<n>haga\ncon todas estas?"
+      "text": "¡Santa mierda, esa es una cantidad insana<n> de\nzanahorias. ¿Qué demonios se supone que debo<n> hacer\ncon todas estas?"
     },
     {
       "name": "Narita Taishin",
-      "text": "Ugh... Supongo que solo hay una cosa que<n>puedo hacer."
+      "text": "Ugh... Supongo que solo hay una cosa que puedo<n>\nhacer."
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Whoooaaa! ¡Nunca había visto tantas<n>zanahorias!"
+      "text": "¡Whoooaaa! ¡Nunca he visto tantas<n> zanahorias!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Puedo entender que habría sido una<n>lucha para\nustedes dos terminarlas solas."
+      "text": "Entiendo cómo les habría <n>costado terminarlo solas\na las dos."
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Oye, oye! ¿De verdad podemos tomar<n>todo lo que\nqueramos?!"
+      "text": "¡Oye, oye! ¿Realmente se nos permite tomar<n> todo lo\nque queremos?!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Sí, pero no vengan a llorarme si\ncomen<n>demasiadas y se enferman."
+      "text": "Sí, pero no vengas a llorar conmigo si <n>comes\ndemasiado y te enfermas."
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Wuuju! ¡Es hora de la fiesta de zanahorias!"
+      "text": "¡Woohoo! ¡Es hora de la fiesta de zanahorias!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Claro que no están escuchando..."
+      "text": "Por supuesto que no estás escuchando..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "En cualquier caso, yo también tomaré<n>algunas con gusto."
+      "text": "De cualquier manera, también tomaré algunas <n>con\ngusto."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "En realidad esto es un salvavidas.\nEstaba<n>teniendo problemas para pensar\nen<n>guarniciones para incluir en el<n>almuerzo de\nBrian."
+      "text": "Esto es realmente un salvavidas. Tenía <n>problemas\npara pensar en acompañamientos para el<n> almuerzo de\nBrian."
     },
     {
       "name": "Narita Taishin",
-      "text": "Solo las gané porque usé el boleto de<n>rifa de mi\nentrenador, así que no me des las gracias.",
+      "text": "Solo las gané porque usé el boleto de <n>rifa de tu\nentrenador, así que no me des las gracias.",
       "choice_data_list": [
-        "Pero fuiste tú quien sugirió que las\ncompartiéramos, Taishin."
+        "Pero fuiste tú la que sugirió que las\ncompartiéramos, Taishin."
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "<i>Gracias,</i> ¡Taishin! ¡Siempre supe que<n>en\nel fondo eres súper amable!"
+      "text": "<i>Gracias,</i> Taishin! ¡Siempre supe que<n> eras súper\namable de corazón!"
     },
     {
       "name": "Narita Taishin",
-      "text": "¡Ughhh, basta! ¡No soy amable para nada!",
+      "text": "Ughhh, ¡detén eso! ¡No soy amable en absoluto!",
       "choice_data_list": [
-        "Eres súper súper amable, Taishin."
+        "Eres súper amable, Taishin."
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "¿Quieres que te lance al sol?"
+      "text": "¿Estás buscando que te pateen hacia el sol?"
     },
     {
       "name": "Monólogo",
-      "text": "Con nuestro premio de rifa\nafortunado,<n>celebramos una encantadora fiesta\nde<n>zanahorias juntos."
+      "text": "Con nuestro premio de rifa de la suerte,\ncelebramos<n> una deliciosa fiesta de zanahorias\njuntas."
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Miren aquí! ¡Ganaron el tercer premio!<n>¡Aquí\nestá su zanahoria!"
+      "name": "Empleado de la Rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio!<n> ¡Aquí\nestá tu zanahoria!"
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste:<n><itemname>"
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
       "name": "Narita Taishin",
-      "text": "Ya oíste. Toma."
+      "text": "Los escuchaste. Aquí."
     },
     {
       "name": "Monólogo",
@@ -345,15 +345,15 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Eso salió de tu boleto de rifa, así que es<n>tuyo."
+      "text": "Eso vino de tu boleto de rifa, así que<n> es tuyo."
     },
     {
       "name": "Narita Taishin",
-      "text": "En fin, ya casi es hora de cenar, así\nque<n>vámonos a casa y—"
+      "text": "De cualquier manera, ya es casi la hora de la\ncena,<n> así que vámonos a casa y—"
     },
     {
       "name": "Monólogo",
-      "text": "<i>Refunfuño...</i>"
+      "text": "<i>Gruñido...</i>"
     },
     {
       "name": "Narita Taishin",
@@ -364,18 +364,18 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Cállate.",
+      "text": "Basta.",
       "choice_data_list": [
         "¿Quieres la zanahoria?"
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "¡Ni siquiera! ¡No tengo hambre, y no<n>quiero la\nzanahoria!"
+      "text": "¡Ni lo pienses! No tengo hambre y no <n>quiero la\nzanahoria!"
     },
     {
       "name": "Monólogo",
-      "text": "<i>¡Gruuumble!</i>"
+      "text": "<i>¡Gruuundo!</i>"
     },
     {
       "name": "Narita Taishin",
@@ -383,35 +383,35 @@
     },
     {
       "name": "Monólogo",
-      "text": "Le ofrezco la zanahoria a Narita Taishin<n>de\nnuevo, y ella me la arrebata sin<n>decir una\npalabra."
+      "text": "Le ofrezco la zanahoria a Narita Taishin de <n>nuevo,\ny ella me la arrebata sin decir una<n> palabra."
     },
     {
-      "name": "Empleado de la rifa",
-      "text": "¡Ohhh, mala suerte! Parece que sacaste<n>uno en\nblanco! Toma este paquete de<n>pañuelos como\npremio de consolación."
+      "name": "Empleado de la Rifa",
+      "text": "¡Oh, qué mala suerte! ¡Parece que sacaste<n> una\nvacía! ¡Toma este paquete de pañuelos como<n> premio\nde consolación."
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste:<n><itemname>"
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
       "name": "Narita Taishin",
       "text": "Pañuelos...",
       "choice_data_list": [
-        "Qué mala suerte.",
-        "Qué mala suerte."
+        "Qué mal.",
+        "Qué mal."
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "Como si me importara. Era tu boleto de<n>rifa."
+      "text": "No es como si me importara. Era tu boleto<n> de rifa."
     },
     {
       "name": "Narita Taishin",
-      "text": "Además, no es que <i>no podamos</i> ir a<n>aguas\ntermales sin ganar un boleto en una<n>rifa."
+      "text": "Además, no es como que <i>no <i>podamos</i> ir<n> a aguas\ntermales sin ganar un boleto en<n> una rifa."
     },
     {
       "name": "Narita Taishin",
-      "text": "Que tú sientas lástima por mí es lo que<n>hace\nesto incómodo.",
+      "text": "Que estés tan apenada por mí es lo <n>que hace esto\nincómodo.",
       "choice_data_list": [
         "O-oh. Lo siento.",
         "O-oh. Lo siento."
@@ -419,11 +419,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "En fin, vámonos a casa. Puedes quedarte<n>con los pañuelos."
+      "text": "De cualquier manera, vámonos a casa. Puedes\nquedarte<n> con los pañuelos."
     },
     {
       "name": "Monólogo",
-      "text": "Narita Taishin se va corriendo, pero\nsu<n>expresión está teñida de\nfrustración<n>mientras pasa a mi lado."
+      "text": "Narita Taishin se aleja rápidamente,<n> pero su\nexpresión está teñida de frustración<n> mientras pasa\na mi lado."
     }
   ]
 }

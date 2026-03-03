@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Maruzensky",
-      "text": "¡Estoy tan emocionada por el paseo de<n>hoy,\nEntrenador! ¡Aprieta el acelerador!"
+      "text": "¡Estoy tan emocionada por el paseo <n>de hoy,\nTrainer! ¡Pisemos el acelerador a fondo!"
     },
     {
       "name": "Maruzensky",
-      "text": "¡Estoy tan emocionada por el paseo de<n>hoy,\nEntrenador! ¡Aprieta el acelerador!"
+      "text": "¡Estoy tan emocionada por el paseo <n>de hoy,\nTrainer! ¡Pisemos el acelerador a fondo!"
     },
     {
       "name": "Maruzensky",
@@ -15,10 +15,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡Los neumáticos chirrían mientras el<n>auto\ndeportivo rojo brillante de<n>Maruzensky arranca!",
+      "text": "Los neumáticos chirrían mientras el auto deportivo\n<n>rojo brillante de Maruzensky arranca.",
       "choice_data_list": [
-        "¡¿No vas un poco rápido?!",
-        "¡¿No vas un poco rápido?!"
+        "¿No vas un poco rápido?!",
+        "¿No vas un poco rápido?!"
       ]
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Estamos por entrar a la autopista... y<n>siento la\nnecesidad de velocidad!"
+      "text": "¡Estamos a punto de entrar en la autopista... y<n>\nsiento la necesidad de velocidad!"
     },
     {
       "name": "Monólogo",
@@ -47,19 +47,19 @@
     },
     {
       "name": "Maruzensky",
-      "text": "¡Veamos qué puede hacer este bebé! ♪"
+      "text": "¡Veamos lo que este bebé puede hacer! ♪"
     },
     {
       "name": "Maruzensky",
-      "text": "¡Mira estas habilidades locas para<n>tomar curvas!"
+      "text": "¡Mira estas habilidades locas para tomar curvas!"
     },
     {
       "name": "Maruzensky",
-      "text": "¡Yuju!"
+      "text": "¡Yahoo!"
     },
     {
       "name": "Monólogo",
-      "text": "¡El auto deportivo derrapa en una curva!",
+      "text": "¡El auto deportivo derrapa en la curva!",
       "choice_data_list": [
         "¡Cuidado!",
         "¡Cuidado!"
@@ -67,11 +67,11 @@
     },
     {
       "name": "Maruzensky",
-      "text": "¡Tranquilízate por allá!"
+      "text": "¡Tranquilo por allá!"
     },
     {
       "name": "Maruzensky",
-      "text": "¡Tengo todo bajo control!"
+      "text": "¡Lo tengo todo bajo control!"
     },
     {
       "name": "Monólogo",
@@ -79,22 +79,22 @@
     },
     {
       "name": "Maruzensky",
-      "text": "¡Wuuju! ¡Pongamos esta fiesta a toda!"
+      "text": "¡Woohoo! ¡Subamos la intensidad de esta<n> fiesta!"
     },
     {
       "name": "Maruzensky",
-      "text": "¡O sea, después de todo <i>sí</i> salimos a<n>paseo! ¡Jeje! ♪",
+      "text": "Quiero <i>decir, ¡estamos </i><i>sí</i> dando un paseo después\nde <n>todo! ¡Jeje! ♪",
       "choice_data_list": [
         "..."
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "¿Hm? ¿Pasa algo, Entrenador?"
+      "text": "¿Hm? ¿Pasa algo, Trainer?"
     },
     {
       "name": "Maruzensky",
-      "text": "¿Hm? ¿Pasa algo, Entrenador?"
+      "text": "¿Hm? ¿Pasa algo, Trainer?"
     },
     {
       "name": "Maruzensky",
@@ -105,7 +105,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Oye, ¿estás bien? ¿Voy demasiado rápido<n>para ti?",
+      "text": "Oye, ¿estás bien? ¿Voy muy rápido<n> para ti?",
       "choice_data_list": [
         "¡Llevémoslo al límite!",
         "Tomemos un descanso..."
@@ -113,19 +113,19 @@
     },
     {
       "name": "Maruzensky",
-      "text": "¡Sí! ¡Ahora sí hablas!"
+      "text": "¡Sí! ¡Ahora sí estás hablando!"
     },
     {
       "name": "Maruzensky",
-      "text": "¡Rompe a través, Entrenador!"
+      "text": "¡Rompamos a través, Trainer!"
     },
     {
       "name": "Maruzensky",
-      "text": "¡Rompe a través, Entrenador!"
+      "text": "¡Rompamos a través, Trainer!"
     },
     {
       "name": "Maruzensky",
-      "text": "¡Rompe a través de la barrera del sonido,<n>quiero\ndecir! ♪"
+      "text": "¡Rompamos a través hacia el otro lado de la<n>\nbarrera del sonido, quiero decir! ♪"
     },
     {
       "name": "Maruzensky",
@@ -141,23 +141,23 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Es mi primera vez viniendo a este tipo de<n>lugar.\nNunca había visto algo así."
+      "text": "Es la primera vez que vengo a un <n>lugar así. Nunca\nhe visto nada igual."
     },
     {
       "name": "Maruzensky",
-      "text": "Supongo que esto es lo que significa ir<n>a donde\nte lleve el viento..."
+      "text": "Supongo que esto es lo que significa ir a<n>\ndondequiera que el viento te lleve..."
     },
     {
       "name": "Monólogo",
-      "text": "Ese mismo viento lleva el susurro<n>hechizado de\nMaruzensky a mi oído."
+      "text": "Ese mismo viento lleva el susurro <n>hechizado de\nMaruzensky a mi oído."
     },
     {
       "name": "Maruzensky",
-      "text": "Sí, entiendo. Nunca es bueno excederse,<n>¿verdad?"
+      "text": "Sí, entiendo. Nunca es bueno <n>excederse, ¿verdad?"
     },
     {
       "name": "Maruzensky",
-      "text": "Hay un área de descanso más adelante.<n>Nos\ndetendremos allí."
+      "text": "Hay una área de descanso justo adelante. Nos<n>\ndetendremos allí."
     },
     {
       "name": "Monólogo",
@@ -168,31 +168,31 @@
     },
     {
       "name": "Maruzensky",
-      "text": "¿Estás bien, Entrenador?"
+      "text": "¿Estás bien, Trainer?"
     },
     {
       "name": "Maruzensky",
-      "text": "¿Estás bien, Entrenador?"
+      "text": "¿Estás bien, Trainer?"
     },
     {
       "name": "Maruzensky",
       "text": "Te conseguí una bebida.",
       "choice_data_list": [
-        "Gracias. ¡Ahh, eso cae bien!",
-        "Gracias. ¡Ahh, eso cae bien!"
+        "Gracias. ¡Ahh, eso viene bien!",
+        "Gracias. ¡Ahh, eso viene bien!"
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "Usa ese pañuelo también. Lo mojé con<n>agua fría."
+      "text": "Usa también ese pañuelo. Lo mojé con<n> agua fría."
     },
     {
       "name": "Monólogo",
-      "text": "Hay un pañuelo de aspecto elegante en<n>la mesa."
+      "text": "Hay un pañuelo que se ve elegante<n> en la mesa."
     },
     {
       "name": "Maruzensky",
-      "text": "Póntelo en la cara. Debería ayudarte a<n>sentirte mejor.",
+      "text": "Póntelo en la cara. Debería ayudarte a <n>sentirte\nmejor.",
       "choice_data_list": [
         "¿Estás segura? Se ve caro.",
         "¿Estás segura? Se ve caro."
@@ -200,23 +200,23 @@
     },
     {
       "name": "Maruzensky",
-      "text": "¡No te preocupes por eso! ♪"
+      "text": "¡No te preocupes! ♪"
     },
     {
       "name": "Maruzensky",
-      "text": "Te tomaste la molestia de acompañarme<n>en el\npaseo hoy."
+      "text": "Te tomaste la molestia de acompañarme<n> en el paseo\nhoy."
     },
     {
       "name": "Maruzensky",
-      "text": "¡Es solo justo que te cuide bien a<n>cambio! ♪"
+      "text": "¡Es lo correcto que yo te cuide <n>bien a cambio! ♪"
     },
     {
       "name": "Maruzensky",
-      "text": "¡Es solo justo que te cuide bien a<n>cambio! ♪"
+      "text": "¡Es lo correcto que yo te cuide <n>bien a cambio! ♪"
     },
     {
       "name": "Monólogo",
-      "text": "Y Maruzensky sigue cuidándome,<n>con el calor de\nuna verdadera amiga."
+      "text": "Y Maruzensky continúa cuidándome,<n> con el calor de\nuna verdadera<n> amiga."
     }
   ]
 }

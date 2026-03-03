@@ -3,41 +3,41 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Una tarde, veo a<n><chrname> regresar"
+      "text": "Una tarde, veo a <n><chrname> regresando a su dormitorio<n>\ndespués de que el entrenamiento del día se<n> alarga\nun poco más de lo esperado. Justo después<n> de\ndespedirnos..."
     },
     {
-      "name": "Entrenador Kiryuin",
-      "text": "¡Entrenador <username>!<n>",
+      "name": "Trainer Kiryuin",
+      "text": "¡Entrenadora <username>!<n> ¡Qué gusto verte! ¿Te diriges a\ncasa<n> ahora?",
       "choice_data_list": [
-        "¡Sip!"
+        "¡Sí!"
       ]
     },
     {
-      "name": "Entrenador Kiryuin",
-      "text": "¡Ya veo! Acabo de despedirme de Meek y<n>estaba\npensando en"
+      "name": "Trainer Kiryuin",
+      "text": "¡Ya veo! Acabo de despedir a Meek y estaba<n>\npensando en volver a las residencias de<n>\nentrenadores yo también, así que..."
     },
     {
-      "name": "Entrenador Kiryuin",
-      "text": "Si no te molesta, ¿qué tal si<n>regresamos juntos?"
+      "name": "Trainer Kiryuin",
+      "text": "Si no te molesta, ¿por qué no <n>regresamos juntas?"
     },
     {
-      "name": "Entrenador Kiryuin",
-      "text": "A menos que creas que es un poco\ndemasiado—¿cómo<n>debería decirlo?",
+      "name": "Trainer Kiryuin",
+      "text": "A menos que pienses que es un poco... cómo\n<n>decirlo... demasiado cercano? Después de todo,<n>\nsomos compañeras de trabajo...",
       "choice_data_list": [
         "¡Para nada!"
       ]
     },
     {
-      "name": "Entrenador Kiryuin",
-      "text": "Jeje... Me alegra oír eso."
+      "name": "Trainer Kiryuin",
+      "text": "Jeje... Me alegra escucharlo."
     },
     {
-      "name": "Entrenador Kiryuin",
+      "name": "Trainer Kiryuin",
       "text": "Muy bien. ¿Vamos?"
     },
     {
       "name": "Monólogo",
-      "text": "Hablamos de varias cosas de camino<n>de regreso a"
+      "text": "Hablamos de varias cosas en el camino de <n>regreso a\nlas residencias."
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh, estuviste tan cerca! ¡Casi lo<n> tenías!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Entrenador... ¿Tienes hambre ahora mismo?",
+      "choice_data_list": [
+        "Mmm, no estoy seguro..."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Apuesto a que sí! Probablemente no pudiste dar<n> lo\nmejor de ti porque tu pancita está vacía!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Voy a hornear un pastel cuando <n>regresemos, así que\n¡comámoslo juntos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En fin, eso fue decepcionante."
+    }
+  ]
+}

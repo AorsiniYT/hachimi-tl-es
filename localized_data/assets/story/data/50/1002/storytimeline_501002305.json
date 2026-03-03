@@ -2,24 +2,24 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Caster",
-      "text": "¡Qué actuación tan increíble la de<n>Silence\nSuzuka!"
+      "name": "Presentador",
+      "text": "¡Qué carrera tan increíble de<n> Silence Suzuka!"
     },
     {
       "name": "Monólogo",
-      "text": "<i>¡Uuuuuh!</i>"
+      "text": "<i>Wooooo!</i>"
     },
     {
       "name": "Silence Suzuka",
-      "text": "<i>Uff... Uff...</i>"
+      "text": "<i>Jadeo... Jadeo...</i>"
     },
     {
       "name": "Silence Suzuka",
       "text": "(¡El aire se siente... increíble!)"
     },
     {
-      "name": "Uma Musume A",
-      "text": "¡Arrg! ¡Estuve a <i>esto</i> de pasarla!"
+      "name": "Umamusume A",
+      "text": "¡Arrgh! <i>¡Estuve a </i><i>esto</i> de pasarla!"
     },
     {
       "name": "Silence Suzuka",
@@ -38,7 +38,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Lo siento. Estoy teniendo problemas<n>para concentrarme.",
+      "text": "Lo siento. Me cuesta un poco <n>concentrarme.",
       "choice_data_list": [
         "Estoy aquí si necesitas hablar.",
         "Estoy aquí si necesitas hablar."
@@ -46,15 +46,15 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Em..."
+      "text": "Eh..."
     },
     {
       "name": "Silence Suzuka",
-      "text": "...No, no es nada. Estoy bien."
+      "text": "...No, es nada. Estoy bien."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Agradezco tu preocupación. Pero estaré<n>bien por\nmi cuenta.",
+      "text": "Agradezco la preocupación. Pero estaré <n>bien por mi\ncuenta.",
       "choice_data_list": [
         "Está bien. Lo entiendo.",
         "Está bien. Lo entiendo."
@@ -62,11 +62,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "También... Sobre el Satsuki Sho..."
+      "text": "Además... Sobre el Satsuki Sho..."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Si corro ahora, siento que quizás no<n>pueda dar\nlo mejor de mí."
+      "text": "Si corro en él ahora, siento que <n>quizás no pueda\ndarlo todo."
     },
     {
       "name": "Silence Suzuka",
@@ -74,7 +74,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Entonces... ¿Puedo tomarme un tiempo para<n>pensar\nsi quiero participar o no?",
+      "text": "Así que... ¿Puedo tomarme un tiempo para\n<n>considerar si quiero participar o no?",
       "choice_data_list": [
         "Tómate todo el tiempo que necesites.",
         "Tómate todo el tiempo que necesites."
@@ -86,11 +86,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Sin embargo, no está bien no tener una<n>meta."
+      "text": "Sin embargo, no es bueno no tener un <n>objetivo."
     },
     {
       "name": "Monólogo",
-      "text": "En cuanto a las carreras clásicas,\nquizás<n>todavía pueda correr en el Kikuka Sho\nen<n>otoño si nos enfocamos en el Kobe<n>Shimbun\nHai de septiembre como<n>preparación.",
+      "text": "En cuanto a las carreras Clásicas, aún<n> podría\ncorrer en el Kikuka Sho en otoño<n> si ponemos la\nmira en el Kobe<n> Shimbun Hai de septiembre como<n>\npreparación.",
       "choice_data_list": [
         "¿Qué tal si corremos en el Kobe Shimbun Hai?",
         "¿Qué tal si corremos en el Kobe Shimbun Hai?"
@@ -98,7 +98,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "No sé si podré rendir tan<n>bien...",
+      "text": "No sé si podré desempeñarme tan<n> bien...",
       "choice_data_list": [
         "Es mejor que no correr en absoluto."
       ]
@@ -109,11 +109,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Bien, entonces."
+      "text": "Está bien, entonces."
     },
     {
       "name": "Monólogo",
-      "text": "Paso los siguientes días preguntándome<n>qué puedo\nhacer por ella."
+      "text": "Pasó los siguientes días preguntándome<n> qué puedo\nhacer por ella."
     }
   ]
 }

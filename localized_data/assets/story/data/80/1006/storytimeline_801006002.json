@@ -2,71 +2,67 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
-      "text": "Un día, mientras paso por la<n>estación de\ncamino a casa..."
+      "text": "Un día, mientras paso por la estación de <n>camino a\ncasa..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Urgh... Estoy en un buen aprieto...",
+      "text": "Hmm, ¿qué debería hacer?",
       "choice_data_list": [
         "¿Algo te preocupa?"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Sí. Quiero comprar un boleto,<n>pero hay tanta\ngente que no puedo llegar<n>a las máquinas de\nboletos."
+      "text": "Sí. Quiero comprar un boleto, pero hay tanta<n> gente\nque no puedo llegar a las máquinas<n> expendedoras de\nboletos."
     },
     {
       "name": "Oguri Cap",
       "text": "No sé qué hacer...",
       "choice_data_list": [
-        "Abrete paso a la fuerza entre la multitud.",
+        "Ábrete paso entre la multitud.",
         "Espera el momento adecuado para colarte."
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Abrirme paso a la fuerza, ¿eh?<n>Está bien. Eso es\nalgo en lo que soy buena."
+      "text": "¿Abrirme paso, huh? Vale. Eso es <n>algo que se me da\nbien."
     },
     {
-      "name": "Monólogo",
-      "text": "Oguri Cap se dirige a la máquina<n>de boletos,\nabriéndose paso entre la<n>multitud como una\nquitanieves en<n>pleno invierno."
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "Uf... Logré conseguir un boleto.<n>Eso fue más\ndifícil de lo que pensé."
+      "text": "Oguri Cap se dirige a la máquina expendedora<n> de\nboletos, abriéndose paso entre la multitud<n> como\nuna quitanieves en pleno invierno."
     },
     {
       "name": "Oguri Cap",
-      "text": "No tenía idea de que hacer una<n>compra en una\nmáquina de boletos sería<n>una experiencia tan\nestresante..."
+      "text": "Uf... Logré conseguir un boleto. Eso<n> fue más\ndifícil de lo que pensé."
     },
     {
       "name": "Oguri Cap",
-      "text": "De todos modos, gracias. Tu<n>consejo fue muy\nútil. Me voy ahora."
+      "text": "No tenía idea que hacer una compra en una <n>máquina\nexpendedora de boletos sería una experiencia<n> tan\nestresante..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Esperar el momento adecuado,<n>¿eh? Está bien,\nveré qué puedo hacer."
-    },
-    {
-      "name": "Monólogo",
-      "text": "Oguri Cap avanza lentamente<n>entre la multitud y\naparece justo frente a<n>la máquina de boletos."
+      "text": "De todos modos, gracias. Tu consejo<n> fue muy útil.\nAhora me voy."
     },
     {
       "name": "Oguri Cap",
-      "text": "Gracias por el consejo. Logré<n>conseguir un\nboleto."
+      "text": "Esperar el momento adecuado, ¿eh? <n>Vale, veré qué\npuedo hacer."
+    },
+    {
+      "text": "Oguri Cap se abre paso lentamente entre<n> la\nmultitud y sale justo frente a la máquina<n>\nexpendedora de boletos."
     },
     {
       "name": "Oguri Cap",
-      "text": "Oh, parece que mi tren ya<n>casi llega. Será\nmejor que me vaya ahora.<n>Adiós."
+      "text": "Gracias por el consejo. Logré <n>agarrarme un boleto."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, parece que mi tren está casi aquí.<n> Mejor me\nvoy ahora. Adiós."
     },
     {
       "name": "Oguri Cap",
       "text": "Esperar el momento adecuado..."
     },
     {
-      "name": "Monólogo",
-      "text": "Emparejar el ritmo de los que<n>te rodean, luego\navanzar con fuerza en el<n>momento final... Eso\npodría ser una buena<n>estrategia de carrera en\npistas lentas."
+      "text": "Igualar el ritmo de los que te rodean,<n> luego\nirrumpir en el momento final...<n> Eso podría ser una\nbuena estrategia<n> de carrera en pistas más lentas."
     }
   ]
 }

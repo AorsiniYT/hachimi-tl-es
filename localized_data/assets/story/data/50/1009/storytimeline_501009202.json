@@ -2,20 +2,20 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Locutor",
-      "text": "¡Por fin llegó el día, amigos! ¡La primera<n>de\nlas carreras de la Triple Tiara!"
-    },
-    {
-      "name": "Locutor",
-      "text": "¿Cuál de las corredoras de hoy<n>reclamará las\nguirnaldas de sakura y<n>ascenderá las escaleras hacia el\ntrono de la Reina?"
+      "name": "Comentarista",
+      "text": "¡El día finalmente llegó, gente! ¡La primera de\nlas<n> carreras de la Triple Tiara!"
     },
     {
       "name": "Comentarista",
-      "text": "¡Vimos chispas volar entre Vodka y<n>Daiwa\nScarlet durante el Tulip Sho, y<n>bien podría\nsuceder de nuevo hoy!"
+      "text": "¿Cuál de las corredoras de hoy reclamará <n>los\nlaureles de sakura y ascenderá las escaleras<n> al\ntrono de la Reina?"
     },
     {
       "name": "Comentarista",
-      "text": "Esto será un enfrentamiento entre<n>las dos\nestrellas en ascenso del tour de<n>la Tiara. ¡Es una\ncarrera que no<n>querrás perderte!"
+      "text": "¡Vimos chispas volar entre Vodka<n> y Daiwa Scarlet\ndurante el Tulip Sho, y<n> bien podría suceder de\nnuevo hoy!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Esto será un enfrentamiento entre las <n>dos\nestrellas emergentes del tour de la Tiara. Es una<n>\ncarrera que no querrás perderte!"
     },
     {
       "name": "Daiwa Scarlet",
@@ -26,15 +26,15 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "¡Hmph! Claro que no. Más bien, estoy<n>emocionada."
+      "text": "¡Hum! Por supuesto que no. Si algo, estoy<n>\nemocionada."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Una vez que gane esta carrera, estaré<n>un paso\nmás cerca de la cima."
+      "text": "Una vez que gane esta carrera, estaré mucho<n> más\ncerca de la cima."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Sin mencionar que ella también<n>corre en esta\ncarrera.",
+      "text": "Para no mencionar, ella también corre en esta\n<n>carrera.",
       "choice_data_list": [
         "¿Quién es \"ella\"?"
       ]
@@ -45,11 +45,11 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Pero que quede claro—¡no me<n>importa ella\npara nada!"
+      "text": "Pero para que quede claro—¡no me importa<n> ella en\nabsoluto!"
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "¡La primera Tiara tiene mi nombre!<n>¡Voy a ser la\nnúmero uno!"
+      "text": "¡La primera Tiara tiene mi nombre!<n> ¡Voy a ser\nnúmero uno!"
     },
     {
       "name": "Daiwa Scarlet",
