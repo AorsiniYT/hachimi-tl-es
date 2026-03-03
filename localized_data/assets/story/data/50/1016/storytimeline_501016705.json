@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "De camino a casa después de salir con<n>Narita\nBrian..."
+      "text": "De vuelta a casa después de salir con<n> Narita\nBrian..."
     },
     {
       "name": "Narita Brian",
-      "text": "...Uf.",
+      "text": "...Ugh.",
       "choice_data_list": [
         "¿Qué pasa?",
         "¿Qué pasa?"
@@ -19,18 +19,18 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Mmm... nada por aquí.",
+      "text": "Mmm... nada aquí.",
       "choice_data_list": [
         "¿Seguro que estás bien?"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "...Sí. No hay problema. No te preocupes<n>por eso."
+      "text": "...Sí. No hay problema. No te <n>preocupes."
     },
     {
       "name": "Monólogo",
-      "text": "Narita Brian se mantiene inquieta todo<n>el camino\nde regreso a la academia.<n>Probablemente debería\npreguntar un<n>poco más en serio."
+      "text": "Narita Brian permanece inquieta todo el <n>camino de\nvuelta a la academia. Probablemente <n>debería\npreguntar un poco más en serio."
     },
     {
       "name": "Narita Brian",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "No había nada importante, solo algo<n>de cambio\npequeño, así que no importa.",
+      "text": "No había nada importante en ella, solo <n>algo de\ncambio pequeño, así que no importa.",
       "choice_data_list": [
         "No puedes simplemente rendirte.",
         "No puedes simplemente rendirte."
@@ -60,7 +60,7 @@
       "name": "Narita Brian",
       "text": "...¿Qué te pasa de repente?",
       "choice_data_list": [
-        "No quiero que te acostumbres a rendirte."
+        "No quiero que hagas un hábito de rendirte."
       ]
     },
     {
@@ -69,64 +69,64 @@
     },
     {
       "name": "Narita Brian",
-      "text": "No me estoy rindiendo. Voy a buscarla<n>más tarde.",
+      "text": "No me estoy rindiendo. Voy a buscarla más<n> tarde.",
       "choice_data_list": [
         "Será más fácil si ambos la buscamos."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "<i>Suspiro...</i> Por eso mismo no quería<n>que te\nenteraras."
+      "text": "<i>Suspiro...</i> Exactamente por eso no quería <n>que te\ndieras cuenta."
     },
     {
       "name": "Narita Brian",
       "text": "La perdí. La encontraré. Tú solo vete a casa.",
       "choice_data_list": [
-        "¡No te preocupes, estoy seguro de que la encontraremos en un abrir y cerrar de ojos!",
-        "Cuando estés en problemas, deberías pedir ayuda.\nPreguntémosle a alguien."
+        "No te preocupes, ¡estoy seguro de que la\nencontraremos en un santiamén!",
+        "Cuando estás en problemas, deberías pedir ayuda.\nPreguntemos a alguien."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "¿De dónde sale todo ese optimismo?"
+      "text": "¿De dónde sale tanto <n>optimismo?"
     },
     {
       "name": "Narita Brian",
-      "text": "Eh, lo que sea. Supongo que tienes<n>algún tipo de\nplan, ya que eres tan<n>optimista. Entonces, ¿por\ndónde<n>deberíamos empezar a buscar?",
+      "text": "Eh, lo que sea. Supongo que tienes <n>algún tipo de\nplan, ya que eres tan <n>optimista. Entonces, ¿dónde\ndeberíamos empezar<n> a buscar?",
       "choice_data_list": [
         "¡Retrocedamos nuestros pasos!"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "Eso es demasiado ineficiente..."
+      "text": "Eso es muy ineficiente..."
     },
     {
       "name": "Narita Brian",
-      "text": "Pero supongo que nunca la<n>encontraremos si no volvemos."
+      "text": "Pero supongo que nunca la encontraremos si <n>no\nvolvemos."
     },
     {
       "name": "Narita Brian",
-      "text": "Bien. Iremos hasta donde sea necesario."
+      "text": "Está bien. Iremos tan lejos como sea necesario."
     },
     {
       "name": "Monólogo",
-      "text": "Retrocedemos nuestros pasos hasta<n>llegar de\nnuevo a la estación."
+      "text": "Retrocedemos nuestros pasos hasta que llegamos de<n>\nvuelta a la estación."
     },
     {
       "name": "Narita Brian",
-      "text": "...Oh. ¡Es cierto! Saqué mi billetera<n>cuando\ncompré mi boleto..."
+      "text": "...Oh. ¡Es verdad! Saqué mi billetera<n> cuando\ncompré mi boleto..."
     },
     {
       "name": "Narita Brian",
-      "text": "Espera un momento..."
+      "text": "Espera un segundo..."
     },
     {
       "name": "Narita Brian",
-      "text": "Estaba en objetos perdidos. Parece que<n>la dejé\njunto a la máquina de boletos.",
+      "text": "Estaba en la oficina de objetos perdidos. Parece\n<n>que la dejé al lado de la máquina de boletos.",
       "choice_data_list": [
-        "¡Eso es genial!",
-        "¡Eso es genial!"
+        "¡Qué bien!",
+        "¡Qué bien!"
       ]
     },
     {
@@ -139,42 +139,42 @@
     },
     {
       "name": "Monólogo",
-      "text": "Con su billetera ahora a salvo, Narita<n>Brian y\nyo regresamos."
+      "text": "Con su billetera ahora a salvo, Narita<n> Brian y yo\nnos dirigimos de vuelta."
     },
     {
       "name": "Narita Brian",
-      "text": "¿A quién diablos vamos a preguntar?<n>¿Quieres ir\npor la calle preguntando<n>a la gente?!",
+      "text": "¿A quién diablos vamos a preguntar? <n>¿Quieres ir\npor ahí preguntando a personas en<n> la calle?!",
       "choice_data_list": [
-        "Buena idea. Hagamos eso.",
-        "Buena idea. Hagamos eso."
+        "Buena idea. Hagámoslo.",
+        "Buena idea. Hagámoslo."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "De ninguna manera. Es una mala idea.<n>¿Eres\nidiota o algo?"
+      "text": "De ninguna manera. Es una idea terrible.<n> ¿Eres\nidiota o que?"
     },
     {
       "name": "Narita Brian",
-      "text": "¿No sería mejor preguntar en la<n>caseta de\npolicía o en las tiendas<n>cercanas?",
+      "text": "¿No sería mejor preguntar en la caja<n> de policía o\nen las tiendas cercanas?",
       "choice_data_list": [
-        "Está bien, hagamos eso."
+        "Está bien, hagámoslo."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "E-espera, ¡espera!"
+      "text": "O-oye, ¡espera!"
     },
     {
       "name": "Monólogo",
-      "text": "Brian decide volver a la estación para<n>preguntar\npor su billetera."
+      "text": "Brian decide volver a la estación para <n>preguntar\npor su billetera."
     },
     {
-      "name": "Personal de la Estación",
-      "text": "Oh sí, la tenemos aquí. Parece que\nla<n>encontraron cerca de la máquina de boletos."
+      "name": "Personal de la estación",
+      "text": "Oh sí, la tenemos aquí. Parece que fue <n>encontrada\ncerca de la máquina de boletos."
     },
     {
       "name": "Monólogo",
-      "text": "Y así, la billetera perdida de Narita<n>Brian le\nes devuelta a salvo."
+      "text": "Y así, la billetera perdida de Narita<n> Brian es\ndevuelta a ella a salvo."
     },
     {
       "name": "Narita Brian",
@@ -182,7 +182,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Aún así, me sorprende que la hayamos<n>encontrado.",
+      "text": "Aún así, me sorprende que la hayamos encontrado.",
       "choice_data_list": [
         "Es porque no te rendiste.",
         "Es porque no te rendiste."
@@ -190,19 +190,19 @@
     },
     {
       "name": "Narita Brian",
-      "text": "¡Tch! No te emociones. Esto es solo<n>gracias a\nalgún extraño que la recogió<n>por mí."
+      "text": "¡Tch! No te emociones demasiado. Esto es<n> solo\ngracias a algún extraño que la <n>recogió por mí."
     },
     {
       "name": "Narita Brian",
-      "text": "Bueno, esa fue una de las razones por<n>las que\npude encontrarla, de todos<n>modos..."
+      "text": "Bueno, esa fue una de las razones por las que <n>pude\nencontrarla, de todos modos..."
     },
     {
       "name": "Narita Brian",
-      "text": "Suficiente con eso, se está haciendo<n>tarde. Apuremos el regreso."
+      "text": "Basta de eso, se está haciendo tarde.\nApresurémonos<n> a volver."
     },
     {
       "name": "Monólogo",
-      "text": "Con su billetera encontrada, Narita<n>Brian y yo\nregresamos a la academia."
+      "text": "Con su billetera encontrada, Narita Brian y yo nos<n>\ndirigimos de vuelta a la academia."
     }
   ]
 }

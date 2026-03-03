@@ -2,170 +2,176 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "その日は朝から、バケツをひっくり返した\nような土砂降りだった……。"
+      "name": "Monólogo",
+      "text": "En un día en que ha estado lloviendo a <n>cántaros\ndesde la mañana..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "ふぇぇ……また、また雨だぁ……！\nライスのせいで、ごめんなさい……！",
+      "name": "Rice Shower",
+      "text": "Awww... ¡Está <i>lloviendo <i>otra vez?!</i> ¡Lo siento<n>\nmucho! ¡Todo es mi culpa!",
       "choice_data_list": [
-        "どうした？",
-        "どうしたの？"
+        "¿Qué pasa?",
+        "¿Qué pasa?"
       ]
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "えっと……ライスさんが、\nお花見イベントに雨で行けなくなったのは、\n自分のせいだと気にされていて……。"
+      "name": "Zenno Rob Roy",
+      "text": "Bueno... Rice se está poniendo nerviosa<n> porque\ncree que es culpable de que el picnic<n> de los\ncerezos se haya arruinado por la<n> lluvia..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "先週も、その前も雨だった……。\nライスのせいだ……また不幸にしちゃった。"
+      "name": "Rice Shower",
+      "text": "Llovió la semana pasada y la anterior<n> también...\nEs mi culpa... Traje la mala <n>suerte otra vez."
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "そんなことはありません！\nイベントの開催期間は終わりましたが、\nまだ他のイベントもありますし！"
+      "name": "Zenno Rob Roy",
+      "text": "¡No es cierto! Este evento terminó,<n> pero habrá\notros!"
     },
     {
-      "name": "ハルウララ",
-      "text": "そうだよー！\n来週いこうよー！"
+      "name": "Haru Urara",
+      "text": "¡Tiene razón! ¡Vamos la próxima semana!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "ううん、だめだよ……2人でいってきて。\nライスがいると、また雨になっちゃう。"
+      "name": "Rice Shower",
+      "text": "No, no puedo... Ustedes dos deberían ir sin <n>mí.\nSimplemente lloverá otra vez si estoy allí."
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "ライスさん……。"
+      "name": "Zenno Rob Roy",
+      "text": "Oh, Rice..."
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "……あの、どこか雨でもお花が見られる\n施設をご存じありませんか？"
+      "name": "Zenno Rob Roy",
+      "text": "Eh, ¿conocen algún lugar donde <n>podamos hacer un\npicnic de cerezos incluso<n> si está lloviendo?"
     },
     {
-      "text": "温室の植物園が思い浮かんだが、\nこの雨の中行かせるのはためらわれる。"
+      "name": "Monólogo",
+      "text": "Un jardín botánico dentro de un invernadero<n> viene\na la mente, pero no estoy seguro de que <n>sea\nprudente enviarlos con una lluvia tan fuerte."
     },
     {
-      "name": "ハルウララ",
-      "text": "うーん！　雨でも行ける\nお花畑があったらいいのにねー！"
+      "name": "Haru Urara",
+      "text": "Hmmm, ¡ojalá hubiera algún tipo de <n>jardín de\nflores al que pudiéramos ir en cualquier<n> clima!"
     },
     {
-      "name": "ハルウララ",
-      "text": "……あっ、そーだ！\n2人とも、ついてきて！"
+      "name": "Haru Urara",
+      "text": "¡Oh, lo sé! ¡Chicos! ¡Vengan conmigo!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "ウララちゃん？　待って、お外は雨だよ……！"
+      "name": "Rice Shower",
+      "text": "¡Urara, espera! ¡Está lloviendo a cántaros afuera!"
     },
     {
-      "text": "大雨の中、飛び出していったハルウララたち。\n彼女たちが心配なので、後を追うことにした。"
+      "name": "Monólogo",
+      "text": "Haru Urara y los demás salen corriendo<n> hacia la\nlluvia torrencial. Preocupado<n> por cómo les irá,\ndecido seguirlos."
     },
     {
-      "name": "ライスシャワー",
-      "text": "ここ……水族館？\nどうして……？"
+      "name": "Rice Shower",
+      "text": "Estamos... ¿en un acuario? ¿Por qué?"
     },
     {
-      "name": "ハルウララ",
-      "text": "みてみて！\nはいっ、ここ！　お花畑だよーっ！"
+      "name": "Haru Urara",
+      "text": "¡Miren allí! ¡Ta-daaah! ¡Un jardín<n> de flores!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "……クラゲさん、だね？"
+      "name": "Rice Shower",
+      "text": "Esos son... medusas."
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "あっ、ポスターを見てください！\n『水中の花畑　幻想クラゲ展』。"
+      "name": "Zenno Rob Roy",
+      "text": "Oh, pero ¡miren el póster! \"La<n> Fantástica\nExhibición de Medusas: Un <n>Jardín de Flores\nSubmarino.\""
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "水中を漂うクラゲを、花に見立てたのですね。\n幻想的です……！"
+      "name": "Zenno Rob Roy",
+      "text": "Ya veo, la selección de medusas aquí se <n>parecen a\nflores flotando en el agua. ¡Qué<n> onírico!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "ほんとだ……クラゲさん、\nまるで水中に咲いているみたい。"
+      "name": "Rice Shower",
+      "text": "Tienes razón, se parecen a flores <n>en flor."
     },
     {
-      "name": "ライスシャワー",
-      "text": "すごく、綺麗……。"
+      "name": "Rice Shower",
+      "text": "Son tan hermosas..."
     },
     {
-      "name": "ハルウララ",
-      "text": "ねっ！\nこれなら雨もカンケーないよ～！！"
+      "name": "Haru Urara",
+      "text": "¿¡Verdad?! ¡La lluvia no puede detenernos aquí!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "そう、だね……ライス、悲しんでばっかりで\n別の考えなんか浮かばなかった。"
+      "name": "Rice Shower",
+      "text": "Sí... Me estaba hundiendo tanto <n>en mi pena que no\nse me ocurrió ninguna<n> otra idea."
     },
     {
-      "name": "ライスシャワー",
-      "text": "ウララちゃんはすごいな……。\n幸せを見つけるのが、上手なんだね。",
+      "name": "Rice Shower",
+      "text": "Eres tan buena encontrando formas de <n>ser feliz,\nUrara. Siempre me asombras...",
       "choice_data_list": [
-        "ポジティブにいこう！",
-        "幸せは近くに転がっているかも"
+        "¡Sigamos viendo el lado positivo!",
+        "La felicidad podría estar esperando justo a la\nvuelta de la esquina."
       ]
     },
     {
-      "name": "ライスシャワー",
-      "text": "ポジティブ……そっか、そうだね。\nが、がんばってみる……！"
+      "name": "Rice Shower",
+      "text": "El lado positivo... Sí, ¡tienes razón!\n<n>¡Lo-intentaré hacer!"
     },
     {
-      "name": "ハルウララ",
-      "text": "あのねっ、『うれしー！』って言うとね！\nもーっと、うれしいことが増えるんだよ～！"
+      "name": "Haru Urara",
+      "text": "¡Lo sé! ¡Si <i>dices</i> que eres feliz,<n> entonces más\nfelicidad seguramente llegará<n> a ti!"
     },
     {
-      "name": "ハルウララ",
-      "text": "雨が降った！　うれしー！\nライスちゃんもやってみよ！　はいっ！"
+      "name": "Haru Urara",
+      "text": "Así... ¡Está lloviendo! ¡Estoy tan feliz! ¡Tú<n>\ntambién deberías intentarlo, Rice! ¡Vamos!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "う、うれしー……？"
+      "name": "Rice Shower",
+      "text": "¿¿Y-yo soy tan feliz??"
     },
     {
-      "name": "ハルウララ",
-      "text": "うんうん！　ライスちゃんと、\nロブロイちゃんと水族館来た！　うれしーっ！"
+      "name": "Haru Urara",
+      "text": "¡Uh-huh! ¡Aquí estoy en el acuario con<n> Rice y Rob\nRoy! ¡Estoy tan feliz!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "う、うれしー……！\nふふっ……！"
+      "name": "Rice Shower",
+      "text": "S-sí, ¡soy tan feliz! ¡Jeje!"
     },
     {
-      "text": "言葉の力か、ハルウララの明るさのおかげか。\n明るい表情になるライスシャワーであった。"
+      "name": "Monólogo",
+      "text": "¿Será el poder de las palabras o la positividad<n> de\nHaru Urara? De cualquier manera, Rice<n> Shower está\nradiante."
     },
     {
-      "name": "ライスシャワー",
-      "text": "そ、そうなのかな？\n近く、近くかぁ……。"
+      "name": "Rice Shower",
+      "text": "¿C-crees? A la vuelta de la esquina,<n> eh..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "……あのポスター、\n『ふれあいイルカショー』……？"
+      "name": "Rice Shower",
+      "text": "¿Te refieres a ese póster de allá? ¿Para<n> el\nencuentro con delfines?"
     },
     {
-      "name": "ライスシャワー",
-      "text": "みんなでイルカと触れ合えたら、\nいい思い出になるかも……！"
+      "name": "Rice Shower",
+      "text": "¡Apuesto a que todos haremos grandes recuerdos<n> si\nvamos y jugamos con los delfines!"
     },
     {
-      "text": "軽快な音楽に合わせてイルカが\n大ジャンプを披露する。しかし――"
+      "name": "Monólogo",
+      "text": "Los delfines realizan grandes saltos al <n>ritmo de\nla música alegre. Pero luego..."
     },
     {
-      "text": "（キュイキュイ！\nキュイィ……バッシャーン！）"
+      "name": "Monólogo",
+      "text": "¡Squee, squee! Squeee... <i>¡SPLASH!</i>"
     },
     {
-      "name": "ライスシャワー",
-      "text": "……ふぇぇ……ごめんね。\nライスがいたから、みんなに\nたくさん水がかかっちゃった……！"
+      "name": "Rice Shower",
+      "text": "Oooh... Lo siento mucho. ¡Salpiqué<n> a todos con\nagua!"
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "いえいえ、むしろ\nイルカショーの醍醐味といいますか……！"
+      "name": "Zenno Rob Roy",
+      "text": "¡No te disculpes! ¡Para eso están<n> los shows de\ndelfines!"
     },
     {
-      "name": "ハルウララ",
-      "text": "あははっ！　たーのしかったー！\nイルカさんのとこ、また行こうねー！"
+      "name": "Haru Urara",
+      "text": "¡Ahaha! ¡Fue muy divertido! ¡Deberíamos<n> ir a ver a\nlos delfines de nuevo algún día!"
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "そうですね、ウララさん……！\n私もまた、このメンバーで行きたいです。"
+      "name": "Zenno Rob Roy",
+      "text": "¡Seguro, Urara! Me encantaría ir de nuevo con<n>\nustedes dos."
     },
     {
-      "name": "ライスシャワー",
-      "text": "……！\n2人とも、本当に……ありがとう……！"
+      "name": "Rice Shower",
+      "text": "¡Muchas gracias, a los dos!"
     }
   ]
 }

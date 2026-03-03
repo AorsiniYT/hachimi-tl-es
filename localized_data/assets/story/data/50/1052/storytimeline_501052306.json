@@ -3,69 +3,69 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "\"¡No importa cuántas veces pierda Haru\nUrara,<n>nunca se<n>rinde!\""
+      "text": "\"¡No importa cuántas veces pierda Haru<n> Urara, ella\nnunca se rinde!\""
     },
     {
       "name": "Monólogo",
-      "text": "He escuchado a más y más gente<n>elogiar a<n>Haru\nUrara por su tenacidad."
+      "text": "He estado escuchando a más y más gente<n> alabar a\nHaru Urara por su tenacidad."
     },
     {
       "name": "Haru Urara",
-      "text": "¡Uf! ¡Ganar es tan difícil!\n¡Todos<n>pasaron<n>volando junto a mí!",
+      "text": "¡Ugh! ¡Ganar es tan difícil! ¡Todos<n> pasaron\nvolando a mi lado!",
       "choice_data_list": [
-        "¿Qué crees que es la clave para ganar?"
+        "¿Qué crees que sea la clave para ganar?"
       ]
     },
     {
       "name": "Haru Urara",
-      "text": "Um, pues..."
+      "text": "Eh, bueno..."
     },
     {
       "name": "Haru Urara",
-      "text": "¡Oh, ya sé! ¡Debería participar en una\ncarrera<n>donde solo<n>esté yo!"
+      "text": "¡Ah, ya sé! Debería inscribirme en una carrera<n>\ndonde solo esté yo!"
     },
     {
       "name": "Haru Urara",
       "text": "¡Entonces no hay forma de perder!",
       "choice_data_list": [
-        "...Eso ya no sería una carrera."
+        "...Eso no sería una carrera entonces."
       ]
     },
     {
       "name": "Haru Urara",
-      "text": "¿Oh, en serio? Por un segundo pensé\nque<n>había<n>encontrado el tesoro."
+      "text": "¿Oh, en serio? Pensé que había encontrado la forma\nde<n> ganar por un momento."
     },
     {
-      "name": "Transeúnte A",
-      "text": "Ah, ¿esa es Haru Urara? ¡Hola!"
+      "name": "Peatón A",
+      "text": "¿Ah, es esa Haru Urara? ¡Hola!"
     },
     {
       "name": "Haru Urara",
       "text": "¿Eh? ¿Quién dijo mi nombre?"
     },
     {
-      "name": "Transeúnte B",
-      "text": "¡Te has estado esforzando mucho! ¡Te<n>estoy animando!"
+      "name": "Peatón B",
+      "text": "¡Has estado intentándolo tanto! ¡Te estoy<n>\napoyando!"
     },
     {
-      "name": "Transeúnte C",
-      "text": "¡Oye! ¡Es esa Uma Musume valiente!"
-    },
-    {
-      "name": "Haru Urara",
-      "text": "¡Oh! ¿Sabes quién soy?"
-    },
-    {
-      "name": "Transeúnte D",
-      "text": "¡Por supuesto! ¡Estamos en tu club de fans!"
-    },
-    {
-      "name": "Transeúnte E",
-      "text": "¡Me encanta que sigas adelante\nsin<n>importar<n>cuántas veces pierdas! ¡Nunca\nte<n>rindas!"
+      "name": "Peatón C",
+      "text": "¡Hey! ¡Es esa Umamusume valiente!"
     },
     {
       "name": "Haru Urara",
-      "text": "¡Wow! ¡Sí! ¡Bien!",
+      "text": "¡Oh! ¿Conoces quién soy?"
+    },
+    {
+      "name": "Peatón D",
+      "text": "¡Por supuesto! ¡Estamos en tu club de admiradores!"
+    },
+    {
+      "name": "Peatón E",
+      "text": "¡Me encanta que sigas adelante no <n>importa cuántas\nveces pierdas! ¡Nunca<n> te rindas!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau! ¡Sí! ¡Vale!",
       "choice_data_list": [
         "¡Eres tan popular!",
         "¡Eres tan popular!"
@@ -73,7 +73,7 @@
     },
     {
       "name": "Haru Urara",
-      "text": "¡Jiji! ¡Me siento como un ídolo! ¡Me alegro<n>de\nhaberme<n>esforzado tanto!"
+      "text": "Heehee! ¡Me siento como una ídolo! ¡Me alegra\n<n>haber trabajado tanto!"
     },
     {
       "name": "Haru Urara",
@@ -81,22 +81,22 @@
     },
     {
       "name": "Haru Urara",
-      "text": "¡Quiero correr aún más! ¡Entonces\nestarán<n><i>realmente</i><n>emocionados!"
+      "text": "¡Quiero correr aún más! ¡Entonces ellos <n><i>realmente</i> se otorgarán!"
     },
     {
       "name": "Monólogo",
-      "text": "¡La motivación de Haru Urara se dispara!<n>Fue una\nbuena<n>idea hacerla participar en carreras\npara<n>ganar experiencia y<n>hacer crecer su base\nde fans.",
+      "text": "¡La motivación de Haru Urara se dispara! Fue <n>una\nbuena idea que entrara en carreras para ganar\n<n>experiencia y hacer crecer su base de admiradores.",
       "choice_data_list": [
-        "¡Sigamos con el buen trabajo y participemos en\nmás<n>carreras!"
+        "¡Sigamos con el gran trabajo y entremos en más\ncarreras!"
       ]
     },
     {
       "name": "Haru Urara",
-      "text": "¡Bien!"
+      "text": "¡Vale!"
     },
     {
       "name": "Monólogo",
-      "text": "Quizás al hacerla participar en\ncarreras,<n>Haru<n>Urara encontrará una carrera a\nla que<n>aspirar... Una<n>vez que encuentre\nesa<n>carrera soñada, haré<n>todo lo posible para\nayudarla<n>a alcanzarla y<n><i>¡ganar!</i>"
+      "text": "Quizás al hacerla entrar en carreras, Haru <n>Urara\nencontrará una carrera a la que aspirar... Una <n>vez\nque encuentre esa carrera soñada, haré<n> lo que\npueda para ayudarla a alcanzarla y <n><i>¡ganar!</i>"
     }
   ]
 }

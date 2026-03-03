@@ -1,140 +1,140 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Rice Shower",
-      "text": "Hermano... Yo... yo...",
-      "choice_data_list": [
-        "Estuviste muy cerca.",
-        "Estuviste muy cerca."
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Hermana... Yo... yo...",
-      "choice_data_list": [
-        "Estuviste muy cerca.",
-        "Estuviste muy cerca."
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Sí... ¡Tan cerca!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "¡No dejaba de pensar \"solo un poco más y\nla<n>alcanzaré\"<n>pero simplemente no pude\nhacerlo!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "¡Esta vez quería alcanzarla tanto!",
-      "choice_data_list": [
-        "La próxima vez lo lograrás."
-      ]
-    },
-    {
-      "name": "Rice Shower",
-      "text": "¡Sí!"
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "...Arroz."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "¡Gyah! ¡¿Bourbon?!"
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Me sorprendió tu desempeño<n>hoy."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "No pude evitar preguntarme cómo<n>puedes<n>correr\nasí..."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Finalmente, llegué a una sola conclusión...<n>Una\nde la<n>que hablas a menudo."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Todo fue para \"alcanzarme\"."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Siendo honesta, todavía no lo<n>entiendo. En<n>una\ncarrera, solo<n>hay victoria o derrota."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "No existe \"alcanzar\". Sin embargo..."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "¿Oyes eso?"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "...¿Eh?"
-    },
-    {
-      "name": "Monólogo",
-      "text": "¡Wooooo!"
-    },
-    {
-      "name": "Espectador A",
-      "text": "¡Qué carrera! ¡Buen trabajo, Bourbon! ¡Buen<n>trabajo, Rice!"
-    },
-    {
-      "name": "Espectador B",
-      "text": "¡Como era de esperar de las estrellas de este año!\n¡Estoy tan<n>emocionado de<n>volver a verlas el\npróximo año!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "N-no solo te animan a ti...<n>¿También me<n>animan\na mí?"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "P-pero... comparada contigo... solo soy..."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "No, estoy de acuerdo con el público. Tú y\nyo<n>somos<n>iguales en habilidad."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Así que diré esto..."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Tampoco perderé contra ti la próxima vez...<n>Mi rival."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Ri...val..."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Rice. ¿Correrás contra mí otra vez?"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Yo... yo..."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "¡Yo tampoco perderé! La próxima vez... ¡ganaré!"
-    },
-    {
-      "name": "Monólogo",
-      "text": "La voz de Rice Shower resuena fuerte.\nSu<n>atrevida<n>declaración llega a los oídos<n>no\nsolo de los<n>cercanos, sino de todos en<n>el\nhipódromo."
-    },
-    {
-      "name": "Monólogo",
-      "text": "Pienso en qué carrera debería\ncorrer<n>próximamente para<n>ayudar a que su\ntalento como fondista<n>florezca aún más."
-    },
-    {
-      "name": "Monólogo",
-      "text": "Primero, nos prepararemos para la Nikkei\nSho<n>como<n>punto de partida."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Rice Shower",
+            "text": "Hermano mayor... Yo... Yo...",
+            "choice_data_list": [
+                "Casi lo lograste.",
+                "Estuviste tan cerca."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hermana... Yo... Yo...",
+            "choice_data_list": [
+                "Estuviste muy cerca.",
+                "Estuviste tan cerca."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Uy... ¡Por poco!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "No dejaba de pensar, \"¡solo un poco <n>más y\nalcanzaré a ella!\" pero no pude."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Esta vez quería tanto alcanzarla!",
+            "choice_data_list": [
+                "La tendrás la próxima vez."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Right!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Rice."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Ay! ¿Bourbon?!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Tu actuación hoy me <n>sorprendió."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No pude evitar preguntarme cómo<n> puedes correr\nasí..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Al final, llegué a una sola conclusión... Una de\n<n>la que hablas con frecuencia."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Todo era para \"alcanzar\" a mí."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "La verdad, aún no lo entiendo.<n> En una carrera,\nsolo hay <n>victoria o derrota."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No hay \"ponerse al día.\" Aún..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "¿Escuchas eso?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Espectador A",
+            "text": "¡Qué carrera! ¡Bien hecho, Bourbon! ¡Bien<n> hecho,\nRice!"
+        },
+        {
+            "name": "Espectador B",
+            "text": "¡Como se esperaba de las estrellas de este año!\n¡Estoy<n> tan emocionado de volver a verlas el\npróximo año!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "E-ellos no solo te animan... <n>¿También me animan a\nmí?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "P-pero... comparado contigo... yo solo soy..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No, estoy de acuerdo con la multitud. Tú y yo<n>\nsomos iguales en habilidad."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Así que diré esto..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No te perderé la próxima vez tampoco...<n> Mi rival."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Ri...val..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Rice. ¿Volverás a correr contra mí?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yo... yo..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Yo tampoco perderé! La próxima vez... ¡ganaré!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "La voz de Rice Shower resuena fuertemente.<n> Su\naudaz declaración llega a los oídos <n>no solo de los\nque están cerca, sino de todos<n> en el hipódromo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pienso en qué carrera debería correr a\ncontinuación<n> para ayudar a que su talento como\nfondista<n> florezca aún más."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Primero, nos prepararemos para el Nikkei Sho<n> como\npunto de partida."
+        }
+    ]
 }

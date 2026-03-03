@@ -1,32 +1,33 @@
 {
   "no_wrap": true,
-  "text_block_list": {
-    "0": {
-      "text": "<i>Yawn...</i>",
+  "text_block_list": [
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>Bostezo...</i>",
       "choice_data_list": [
-        "Alguien está somnoliento.",
-        "Alguien está somnoliento."
+        "Alguien está soñoliento.",
+        "Alguien está soñoliento."
       ]
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Oh, estaba viendo una de las obras de teatro de mi\nmadre<n>en un sitio de streaming anoche."
+      "text": "Oh, anoche estaba viendo una de las obras de<n> mi\nmadre en un sitio de transmisión en línea."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Ni siquiera recuerdo cuántas veces la<n>vi,\npero cuando me di cuenta, ya<n>era\nmañana.",
+      "text": "Ni siquiera recuerdo cuántas veces<n> la vi, pero\npara cuando me di cuenta,<n> ya era de mañana.",
       "choice_data_list": [
-        "Debes amar mucho las obras de teatro de tu madre.",
-        "Debes amar mucho las obras de teatro de tu madre."
+        "Debes amar realmente las obras de tu madre.",
+        "Debes amar realmente las obras de tu madre."
       ]
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Sí. Ver una obra a través de la pantalla<n>no\nes nada como experimentar la<n>acústica e\nintensidad en persona, pero aún<n>así... <i>Bostezo.</i>"
+      "text": "Sí. Ver una obra a través de la pantalla no<n> es\nnada comparable a experimentar la<n> acústica y la\nintensidad en persona, pero todavía...<n> <i>Bostezo.</i>"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Lo siento. Tendré que ser cuidadoso para no\nhacer<n>más noches en vela. Intentaré\ndespertarme<n>a tiempo para el entrenamiento."
+      "text": "Lo siento. Tendré que tener cuidado de no <n>hacer\nmás noches en vela. Intentaré despertarme<n> a tiempo\npara el entrenamiento."
     }
   }
 }

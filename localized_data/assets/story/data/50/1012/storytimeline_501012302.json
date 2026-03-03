@@ -2,55 +2,55 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Una noche, mientras caminamos por<n>la\nzona comercial..."
+      "text": "Una tarde, mientras caminamos por<n> el distrito\ncomercial..."
     },
     {
       "name": "Hishi Amazon",
       "text": "¿Eh? ¿Qué pasa con esa multitud?"
     },
     {
-      "name": "Empleado de rifa",
-      "text": "¡Acérquense y prueben su suerte con<n>nuestra\nrifa de Año Nuevo! ¡El premio mayor<n>de este año es\nunas vacaciones en<n>aguas termales para dos!"
+      "name": "Empleado de la rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa<n> de\nAño Nuevo! ¡El gran premio de este año es unas<n>\nvacaciones en aguas termales para dos!"
     },
     {
-      "name": "Empleado de rifa",
-      "text": "¡Los ganadores del primer premio obtienen<n>un\nfilete de hamburguesa de zanahoria<n>de lujo! ¡Los del\nsegundo premio<n>consiguen un montón de\nzanahorias!<n>¡Y los del tercer premio se llevan<n>una sola\nzanahoria!"
+      "name": "Empleado de la rifa",
+      "text": "¡Los ganadores del primer premio reciben una\nhamburguesa<n> de zanahoria de lujo! ¡Los ganadores\ndel segundo <n>premio reciben un montón de\nzanahorias! ¡Y los ganadores del<n> tercer premio\npueden llevarse a casa una sola zanahoria!"
     },
     {
-      "name": "Empleado de rifa",
-      "text": "¡No dejen pasar esta oportunidad!<n>¡Consigan un\nboleto ahora y giren para<n>tener la chance de ganar!"
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Wow, ¿podemos ganar un montón<n>entero de\nzanahorias? ¡Suena como un<n>regalo estupendo!"
+      "name": "Empleado de la rifa",
+      "text": "¡No dejen pasar esta oportunidad! ¡Consigan<n> un\nboleto ahora y giren para tener la <n>oportunidad de\nganar!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡No hay nada malo en probar suerte<n>de vez en\ncuando! ¿Qué necesitamos para<n>poder girar?"
+      "text": "¡Guau, podemos ganar un montón<n> de zanahorias? ¡Eso\nsuena como un <n>buen regalo!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Parece que primero hay que conseguir<n>un boleto\nde rifa. ¡Voy a agarrar algunas<n>cosas para la\ncena rápidamente!"
-    },
-    {
-      "text": "Hishi Amazon termina sus compras en<n>un instante\ny regresa con un boleto de<n>rifa en la mano."
+      "text": "¡No hay nada de malo en probar <n>suerte de vez en\ncuando! ¿Qué necesitamos<n> para girar?"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Muy bien, vamos a intentarlo! ¡Mírenme<n>ganar en\ngrande!"
+      "text": "Parece que primero tenemos que conseguir un <n>boleto\nde rifa. ¡Voy a comprar algunas cosas para la <n>cena\nrápido!"
     },
     {
-      "text": "¡Ella gira la manija del tambor con<n>entusiasmo!"
+      "text": "Hishi Amazon termina sus compras en<n> un instante y\nregresa con un boleto de rifa <n>en la mano."
     },
     {
-      "text": "Una pequeña bola de plástico sale<n>por la\nabertura del tambor..."
+      "name": "Hishi Amazon",
+      "text": "Muy bien, ¡vamos a intentarlo! ¡Miren cómo gano a\nlo<n> grande!"
     },
     {
-      "name": "Empleado de rifa",
-      "text": "¡Santos cielos! ¡Tenemos un ganador<n>del premio\nmayor! ¡Vengan a buscar<n>su cupón para las\nvacaciones en<n>aguas termales!<n>¡Felicidades!"
+      "text": "¡Ella gira la manivela del tambor con <n>entusiasmo!"
     },
     {
-      "text": "Obtuviste:<n><itemname>"
+      "text": "Una pequeña bola de plástico cae de <n>la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del<n> gran premio!\n¡Vengan a recoger el cupón<n> para sus vacaciones en\naguas termales!<n> ¡Felicitaciones!"
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
       "name": "Hishi Amazon",
@@ -58,14 +58,14 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡¿Ganamos el premio <i>mayor</i>?! ¡Esto\nno<n>puede ser real! ¿Qué hago, Entrenador?!"
+      "text": "¡Ganamos <i>el <i>gran</i> premio?! ¡Esto no <n>puede ser real!\n¿Qué debo hacer, Teach?!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Vaya, se van a volver locos cuando<n>se enteren\nde esto!"
+      "text": "¡Hombre, van a flipar cuando se enteren<n> de esto!"
     },
     {
-      "text": "Por lo que se escucha, parece que<n>ella quiere\nllevar a todos los residentes<n>de su dormitorio al\ncomplejo<n>turístico, pero...",
+      "text": "Por lo que parece, quiere llevar<n> a todos los\nresidentes de<n> su dormitorio al resort, pero...",
       "choice_data_list": [
         "Creo que solo pueden ir dos personas..."
       ]
@@ -76,7 +76,7 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Espera, tienes razón!"
+      "text": "Espera, ¡tienes razón!"
     },
     {
       "name": "Hishi Amazon",
@@ -84,37 +84,37 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Ajá! ¡Puedo dárselo a alguien que<n>lo merezca\npor trabajar tan duro! Excepto<n>que todos han\nestado trabajando<n>duro últimamente..."
+      "text": "¡Ajá! ¡Puedo darle esto a alguien que <n>lo merezca\npor trabajar tan duro! Excepto que <n>todos han\nestado trabajando duro últimamente..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡No, no puedo hacer eso! Todos<n>pelearían por\nir, y las cosas se<n>pondrían complicadas muy\nrápido!<n>Vaya, ¿y ahora qué?",
+      "text": "¡No, no puedo hacer eso! ¡Todos empezarían<n> a\npelear por ir, y las cosas se pondrían<n> feas\nrápido! ¡Hombre, ¿y ahora qué?",
       "choice_data_list": [
-        "¿Por qué no lo usas para ti?",
-        "¿Por qué no lo usas para ti?"
+        "¿Por qué no lo usas para ti misma?",
+        "¿Por qué no lo usas para ti misma?"
       ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "¿Yo? Pero estoy muy ocupada con<n>el entrenamiento...",
+      "text": "¿Yo? Pero estoy muy ocupada con el\nentrenamiento...",
       "choice_data_list": [
-        "Entonces puedes guardarlo como recompensa para después."
+        "Puedes guardarlo como recompensa para después,\nentonces."
       ]
     },
     {
-      "text": "Le digo que probablemente tendrá<n>más tiempo\nuna vez que termine la Serie<n>Twinkle, así que\ntendrá muchas<n>oportunidades de usar el\ncupón entonces."
+      "text": "Le digo que probablemente tendrá más tiempo<n> una\nvez que la Twinkle Series termine, así que<n> tendrá\nmontones de oportunidades para usar el<n> cupón\nentonces."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Sí, es un buen punto. Si lo uso,<n>nadie\nintentaría discutir por el cupón<n>¡tampoco!"
+      "text": "Sí, ese es un punto sólido. ¡Si lo uso, <n>nadie\nintentaría pelear por el cupón<n> tampoco!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Aunque, se supone que son vacaciones<n>para dos,\nasí que necesitaré invitar a<n>alguien para que vaya\nconmigo..."
+      "text": "Aún así, se supone que es unas vacaciones para<n>\ndos, así que necesitaré invitar a alguien a que\n<n>venga conmigo..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Ooh, tengo a la persona perfecta!<n>¡Deberías\nvenir conmigo, Entrenador!<n>¡Sería agradable ir a\nun lugar<n>relajante juntos!",
+      "text": "¡Oh, tengo a la persona perfecta!<n> ¡Deberías venir\nconmigo, Teach! ¡Sería <n>genial irnos de escapada\nrelajante juntos!",
       "choice_data_list": [
         "¿Estás segura de que quieres invitarme?",
         "¿Estás segura de que quieres invitarme?"
@@ -122,134 +122,134 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "¿Qué quieres decir? ¡Por supuesto<n>que sí! ¡Eres\nmi compañero de aventuras!"
+      "text": "¿Qué quieres decir? ¡Claro que sí!<n> ¡Eres mi\ncompañero de crímenes!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Toma, guarda esto en algún lugar de<n>tu oficina\npara que no se nos olvide!"
+      "text": "Aquí, pega esto en algún lugar de tu<n> oficina para\nque no lo olvidemos!"
     },
     {
-      "text": "Y ahora tenemos una cosa más<n>que esperar."
+      "text": "Y ahora tenemos una cosa más<n> que esperar."
     },
     {
-      "name": "Empleado de rifa",
-      "text": "¡Parece que tenemos otro ganador<n>del primer\npremio! ¡Felicidades!<n>¡Obtienes un filete de\nhamburguesa<n>de zanahoria de lujo!"
+      "name": "Empleado de la rifa",
+      "text": "¡Parece que tenemos otro ganador del <n>primer\npremio! ¡Felicitaciones! ¡Recibes una<n> hamburguesa\nde zanahoria de lujo!"
     },
     {
-      "text": "Obtuviste:<n><itemname>"
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "¡Whoooa! ¡Lo logré, Entrenador!<n>Vaya, ¡se ve\ndelicioso!"
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
       "name": "Hishi Amazon",
-      "text": "A todos en Miho les encantará est—"
+      "text": "¡Guau! ¡Lo logré, Teach! ¡Hombre, se <n>ve delicioso!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Espera. Este único filete de<n>hamburguesa no\nserá suficiente para<n>todo el dormitorio..."
+      "text": "¡A todos en Miho les encantará es—"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Tiene que haber alguna manera de<n>alimentarlos a\ntodos..."
+      "text": "Espera. Esta sola hamburguesa no será <n>suficiente\npara todo el dormitorio..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Oh, ya sé qué hacer! Intentaré<n>memorizar cómo\nsabe para poder<n>recrearlo para todos!"
+      "text": "Debe haber alguna forma de alimentarlos<n> a todos..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Muy bien, ahora que eso está<n>resuelto, ¡es hora\nde una prueba de<n>sabor! ¡Tú también ayuda,\nEntrenador!"
+      "text": "¡Oh, sé qué hacer! ¡Intentaré<n> memorizar cómo sabe\npara poder recrearlo<n> para todos!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Wow... ¡Esto sabe genial! ¿Cómo<n>lo hicieron tan\nbueno?!"
-    },
-    {
-      "text": "Compartimos el filete de<n>hamburguesa.\nPrácticamente se derrite<n>en la boca."
-    },
-    {
-      "name": "Empleado de rifa",
-      "text": "¡Tenemos un ganador del segundo<n>premio! ¡Es tu\ndía de suerte!<n>¡Te vas a casa con un montón\nde zanahorias!"
-    },
-    {
-      "text": "Obtuviste:<n><itemname>"
+      "text": "Muy bien, ahora que eso está resuelto, ¡es <n>hora de\nuna prueba de sabor! ¡Tú también ayudas,<n> Teach!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Bien, esto es justo lo que quería!<n>¡Jeje!"
+      "text": "Guau... ¡Esto sabe genial! ¡¿Cómo lo<n> hicieron tan\nbien?!"
+    },
+    {
+      "text": "Compartimos la hamburguesa. Se <n>derrite\nprácticamente en la boca."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es<n> tu día\nde suerte! ¡Te vas a casa con un<n> montón de\nzanahorias!"
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Con esta cantidad de zanahorias,<n>puedo hacer\ncualquier cosa con zanahoria.<n>Curry de zanahoria,\nestofado de<n>zanahoria..."
+      "text": "Genial, ¡esto es justo lo que quería! ¡Jeje!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Espera un momento. Incluso podemos<n>tener una\nfiesta de barbacoa de<n>zanahoria con todas estas\nzanahorias."
+      "text": "Con tantas zanahorias, puedo hacer cualquier cosa\ncon<n> zanahoria. Curry de zanahoria, estofado de\nzanahoria..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Podemos pasar el rato todos juntos,<n>comiendo y\nbebiendo... ¡Creo que es<n>un plan estupendo!"
+      "text": "Espera, ahora. Incluso podemos hacer una<n> fiesta de\nbarbacoa de zanahorias con todas estas<n> zanahorias."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Lo hablaré con Taiki! ¡Tú también<n>deberías\nvenir, Entrenador!"
-    },
-    {
-      "text": "Ese fin de semana, el dormitorio Miho<n>organiza\nuna ¡fiesta de barbacoa<n>masiva!"
-    },
-    {
-      "name": "Empleado de rifa",
-      "text": "¡Miren nada más! ¡Has ganado el<n>tercer premio!\n¡Aquí está tu zanahoria!"
-    },
-    {
-      "text": "Obtuviste:<n><itemname>"
+      "text": "Podemos todos pasar el rato juntos, <n>comiendo y\nbebiendo... ¡Creo que es un plan sólido!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Rayos, ¿solo obtuve el tercer<n>premio?!"
+      "text": "¡Lo hablaré con Taiki! ¡Tú también <n>deberías venir,\nTeach!"
+    },
+    {
+      "text": "Ese fin de semana, el Dormitorio Miho organiza<n> una\nmasiva fiesta de barbacoa!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer<n> premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
       "name": "Hishi Amazon",
-      "text": "No hay manera de que pueda<n>alimentar a todos\ncon una sola zanahoria."
+      "text": "¡Maldición, solo gané el tercer premio?!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¿Qué debería hacer con esto? No<n>me sentiría bien\nsi me la comiera<n>toda sola..."
+      "text": "No hay forma de alimentar a todos con<n> una sola\nzanahoria."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Entrenador, ¿hay algo que se te<n>antoje esta\nnoche?"
-    },
-    {
-      "text": "Esa noche, los dos comemos un<n>delicioso curry\njuntos."
-    },
-    {
-      "name": "Empleado de rifa",
-      "text": "¡Ohhh, mala suerte! Parece que<n>sacaste uno en\nblanco. Toma este paquete<n>de pañuelos como\npremio de consolación."
-    },
-    {
-      "text": "Obtuviste:<n><itemname>"
+      "text": "¿Qué debería hacer con esto? No <n>se sentiría bien\nsi me lo comiera todo<n> yo sola..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡¿Eh?! ¡Vaya, no el premio de<n>consolación!"
+      "text": "Teach, ¿hay algo que se te antoje <n>esta noche?"
+    },
+    {
+      "text": "Esa noche, los dos comemos un<n> delicioso curry\njuntos."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Oh, mala suerte! ¡Parece que sacaste una<n> en\nblanco! ¡Toma este paquete de pañuelos como<n> premio\nde consolación."
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Bueno, así son las rifas. Supongo que<n>es\nbastante raro tener suerte."
+      "text": "¿¡Eh!? ¡Hombre, no el premio de consolación!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Muy bien, hora de cambiar de ritmo!<n>¡Vamos a\ncasa, Entrenador!"
+      "text": "Bueno, así son las rifas. Supongo que es <n>bastante\nraro dar en el blanco."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Muy bien, ¡hora de cambiar de marcha! <n>¡Volvamos a\ncasa, Teach!"
     },
     {
       "name": "Hishi Amazon",
       "text": "<i>Suspiro...</i>"
     },
     {
-      "text": "Es una lástima, pero supongo que<n>la suerte no\nestaba de nuestro lado<n>esta noche."
+      "text": "Es una lástima, pero supongo que la suerte no\nestuvo <n>de nuestro lado esta noche."
     }
   ]
 }

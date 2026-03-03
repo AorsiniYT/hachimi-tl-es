@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Oguri Cap parece estar en dolor durante<n>el\nentrenamiento, así que la llevo a la<n>enfermería."
+      "text": "Oguri Cap parece estar en dolor durante el<n>\nentrenamiento, así que la llevo a la enfermería."
     },
     {
       "name": "Oguri Cap",
-      "text": "...\"Tómalo con calma por unos días\",<n>¿eh? Pensé\nque podía empujar a través del dolor,<n>pero mi pobre\ndecisión ha vuelto para<n>morderme...",
+      "text": "...\"Tómalo con calma por unos días\", <n>¿eh? Pensé\nque podría aguantar el dolor,<n> pero mi mala\ndecisión ha vuelto para<n> morderme...",
       "choice_data_list": [
         "Así que sabías que estabas lesionada.",
         "Así que sabías que estabas lesionada."
@@ -15,14 +15,14 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "...Lo siento. No quise ocultártelo.<n>Solo pensé\nque podía manejarlo."
+      "text": "...Lo siento. No quería ocultártelo.<n> Solo pensé\nque podía manejarlo."
     },
     {
       "name": "Oguri Cap",
-      "text": "No quería parar de correr por alguna<n>lesión\nmenor.",
+      "text": "No quería dejar de correr por una<n> lesión menor.",
       "choice_data_list": [
-        "No apresuremos las cosas. Toma las cosas con calma por ahora.",
-        "¡Entonces cúrate rápido y vuelve a correr!"
+        "No nos apresuremos. Tómalo con calma por ahora.",
+        "¡Entonces sana rápido y a correr!"
       ]
     },
     {
@@ -34,18 +34,18 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Gracias... Sí, correr significa el mundo<n>para mí.",
+      "text": "Gracias... Sí, correr lo significa todo<n> para mí.",
       "choice_data_list": [
         "Entonces deberías enfocarte en tu recuperación."
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Entendido. Quiero volver a la pista<n>pronto..."
+      "text": "Entendido. Quiero volver a la pista<n> pronto..."
     },
     {
       "name": "Monólogo",
-      "text": "Errando del lado de la precaución, decido<n>darle\na Oguri Cap una tarea final para<n>el día—\ndescansar."
+      "text": "Siendo precavido, decido darle a<n> Oguri Cap una\núltima tarea para <n>el día: descansar."
     },
     {
       "name": "Oguri Cap",
@@ -53,7 +53,7 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Quiero volver a correr lo antes<n>posible..."
+      "text": "Quiero volver a correr lo antes<n> posible..."
     },
     {
       "name": "Oguri Cap",
@@ -61,30 +61,30 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "El doctor me dijo que debería tomarlo con<n>calma.\nHmm, ¿a quién se supone que<n>deba escuchar?"
+      "text": "El médico me dijo que tomara las cosas con calma.<n>\nHmm, ¿a quién se supone que debo hacer caso?"
     },
     {
       "name": "Monólogo",
-      "text": "Mi intento de animar a Oguri termina<n>\nconfundiéndola y finalmente prolonga<n>su\ntiempo de recuperación..."
+      "text": "Mi intento de animar a Oguri termina\n<n>confundiéndola y en última instancia prolonga su<n>\ntiempo de recuperación..."
     },
     {
       "name": "Oguri Cap",
-      "text": "¿Curarme rápido? Eso significa que no<n>hay\ntiempo que perder. Está bien—sé qué<n>hacer.",
+      "text": "¿Sana rápido? Eso significa que no <n>hay tiempo que\nperder. Bien—sé qué hacer.",
       "choice_data_list": [
         "¿Cuál es el plan?"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Solo necesito usar el, eh, efecto<n>plabeco...\npara convencerme de que estoy bien.<n>Alguien que\nconocí en el bosque una vez me<n>contó todo al\nrespecto."
+      "text": "Solo necesito usar el, eh, efecto <n>plabeco... para\nconvencerme de que estoy bien.<n> Alguien que conocí\nen el bosque me lo<n> contó todo una vez."
     },
     {
       "name": "Oguri Cap",
-      "text": "Me estoy curando rápido para volver\na<n>correr...<n>Me estoy curando rápido\npara<n>volver a correr... Me estoy curando\nrápido,<n>y <i>volveré</i> a correr<n>pronto!"
+      "text": "Me estoy sanando rápido para volver a correr...<n> Me\nestoy sanando rápido para volver a correr...<n> ¡Me\nestoy sanando <i>rápido, y <i>sí</i> volveré<n> a correr\npronto!"
     },
     {
       "name": "Monólogo",
-      "text": "Esta estrategia parece funcionar de\nmaravilla,<n>ya que al día siguiente, Oguri Cap\naparece<n>en el entrenamiento luciendo en\nforma<n>como un violín."
+      "text": "Esta estrategia parece funcionar de maravilla,<n> ya\nque al día siguiente, Oguri Cap <n>aparece en el\nentrenamiento como nueva."
     }
   }
 }

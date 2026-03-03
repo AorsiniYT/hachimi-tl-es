@@ -2,155 +2,156 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "トレーニングコースに行った時のこと……。"
+      "name": "Monólogo",
+      "text": "Voy a la pista de entrenamiento y encuentro..."
     },
     {
-      "name": "バンブーメモリー",
-      "text": "ジョーーーーダン！！\r\nコラーーーーッ！！！！！"
+      "name": "Bamboo Memory",
+      "text": "¡Jooordaaaaan! ¡Alto ahí!"
     },
     {
-      "name": "バンブーメモリー",
-      "text": "アンタ、なんでコースの内側で\r\nネイル塗ってんスか！　ダメっスよ！！"
+      "name": "Bamboo Memory",
+      "text": "¡No puedes pintarte las uñas en la pista!<n> ¿En qué\nestás pensando?!"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "んー……バンブーさん、ちょい待ち。\r\nあとトップコート乾かすだけだから！"
+      "name": "Tosen Jordan",
+      "text": "Ay, dame un segundo, Bamboo. Literalmente<n> solo\ntengo que dejar que se seque el<n> brillo y ¡listo!"
     },
     {
-      "name": "バンブーメモリー",
-      "text": "乾かすだけって……そもそも！\r\n今、ここで、ネイル塗る必要あるんスか？"
+      "name": "Bamboo Memory",
+      "text": "<i>¿Dejar que <i>se </i>seque</i>? ¡Mira! ¿Acaso<n> necesitas\npintarte las uñas aquí para<n> empezar?!"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "だってー、かわいい手で走ってたら\r\nモチベあがるっしょ？",
+      "name": "Tosen Jordan",
+      "text": "Quiero <i>decir, ¡es <i>mucho</i> más motivador <n>correr con\nuñas bonitas!",
       "choice_data_list": [
-        "ネイルは爪の保護にもなるな",
-        "ネイルは爪の保護にもなるね"
+        "El esmalte de uñas también protege tus uñas.",
+        "El esmalte de uñas también protege tus uñas."
       ]
     },
     {
-      "name": "バンブーメモリー",
-      "text": "え……そうなんスか？"
+      "name": "Bamboo Memory",
+      "text": "¿Eh? ¿Me estás tomando el pelo?"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "へー、詳しいじゃん。\r\nネイルもカバーしてんだ？"
+      "name": "Tosen Jordan",
+      "text": "Oh, vaya. Sabes de lo que hablas. Entonces,\n<n>¿también te has hecho las uñas?"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "え、実はトップコートだけ塗ってたり？\r\nポリッシュ以外もカバーしてる系？"
+      "name": "Tosen Jordan",
+      "text": "Espera, ¿eres de las que solo usa<n> brillo? ¿O usas\nmás que solo <n>esmalte?"
     },
     {
-      "name": "バンブーメモリー",
-      "text": "…………ええと？\r\nなんスか、それ？"
+      "name": "Bamboo Memory",
+      "text": "Uhh, ¿de qué estás hablando?"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "てか～、この流れはあれっしょ。\r\nバンブーさんもネイルやるっきゃなくね？"
+      "name": "Tosen Jordan",
+      "text": "Además, sabes hacia dónde va esto,<n> ¿verdad,\nBamboo? ¡Tienes que hacerte<n> las uñas también!"
     },
     {
-      "name": "バンブーメモリー",
-      "text": "えっ！？\r\n今のってどんな流れっスか！？"
+      "name": "Bamboo Memory",
+      "text": "¿¡Eh?! ¿Qué quieres decir con \"hacia dónde<n> va\nesto\"?!"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "リバーシ的な？\r\n挟まれたらネイル派になるしかない、的な？"
+      "name": "Tosen Jordan",
+      "text": "Como en el Othello, ¿sabes? Te das la vuelta y<n>\nterminas haciéndote las uñas tú misma porque te<n>\npresionan por todos lados."
     },
     {
-      "name": "バンブーメモリー",
-      "text": "いや、竹刀を振ってたら剥げるし！\r\nアタシは遠慮するっス！"
+      "name": "Bamboo Memory",
+      "text": "¡No, gracias! ¡Se saldrán en cuanto<n> balancee mi\nespada de bambú!"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "じゃあ、その竹刀デコるとか？\r\n逆にね？"
+      "name": "Tosen Jordan",
+      "text": "Entonces, ¿qué tal decorar tu <n>espada? ¡Lo mismo!"
     },
     {
-      "name": "バンブーメモリー",
-      "text": "竹刀をデコる！？\r\nそ、その発想はなかったっス……！",
+      "name": "Bamboo Memory",
+      "text": "¡Decorar mi espada?! E-e eso nunca<n> se me ocurrió!",
       "choice_data_list": [
-        "革新的だ！",
-        "やめた方が……"
+        "¡Eso sí que es innovador!",
+        "Eso no suena como una gran idea..."
       ]
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "おっ、ノリいいじゃん。\r\nウェーイ！"
+      "name": "Tosen Jordan",
+      "text": "Oh, tú estás totalmente en esto. ¡Wooo!"
     },
     {
-      "name": "バンブーメモリー",
-      "text": "ウェーイじゃなくて！\r\n竹刀デコは無理があるっスよ！"
+      "name": "Bamboo Memory",
+      "text": "¡Eso no es para \"woo\"! ¡De ninguna <n>manera voy a\ndecorarla!"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "んー……ま、それはジョーダンとして。\r\nマジでネイルってアガるよ？"
+      "name": "Tosen Jordan",
+      "text": "Hmm, bueno, bromas aparte, las uñas harán <n>que tu\ncarrera destaque, ¿sabes?"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "勝負服デザインとかキョーミない？\r\nちょーど色持ってるし、やったげるよ？"
+      "name": "Tosen Jordan",
+      "text": "¿Qué te parece un diseño que combine con<n> tu\natuendo de carrera característico? Tengo los<n>\ncolores aquí, así que puedo hacerte las uñas."
     },
     {
-      "name": "バンブーメモリー",
-      "text": "勝負服デザイン……。\r\nそ、それは確かに気合い入りそうっスね……。"
+      "name": "Bamboo Memory",
+      "text": "Un diseño que combine con mi atuendo de <n>carrera\ncaracterístico... E-eso sí que suena como algo <n>que\nme pondría motivado..."
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "あ、ネイル乾いたわ。"
+      "name": "Tosen Jordan",
+      "text": "Oh, mis uñas están secas."
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "じゃあ、今度教えまーす！"
+      "name": "Tosen Jordan",
+      "text": "Muy bien, ¡te enseñaré la próxima vez!"
     },
     {
-      "name": "バンブーメモリー",
-      "text": "……え！？　やらないんスか！？\r\nちょっ、なんなんスか、アンタはーー！？"
+      "name": "Bamboo Memory",
+      "text": "Espera, ¡no vas a hacérmelas?! Vamos,<n> ¿cuál es tu\nproblema?!"
     },
     {
-      "name": "バンブーメモリー",
-      "text": "ほ、本気で言ってるんスか！？"
+      "name": "Bamboo Memory",
+      "text": "¿E-estás hablando en serio aquí?!"
     },
     {
-      "name": "バンブーメモリー",
-      "text": "竹刀……デコ……キラキラ……？\r\n相手の目を眩ます……？"
+      "name": "Bamboo Memory",
+      "text": "Decorar... mi espada de bambú... Hacerla...<n>\nbrillante? ¿Cegar a mis oponentes?"
     },
     {
-      "name": "バンブーメモリー",
-      "text": "そんなの卑怯っス！！"
+      "name": "Bamboo Memory",
+      "text": "¡Eso es jugar sucio!"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "こっちこそ、その発想はなかったわ。"
+      "name": "Tosen Jordan",
+      "text": "Honestamente, esa idea ni siquiera se me<n> ocurrió."
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "ま、悩んでないでやってみたらいいっしょ！\r\n竹刀デコとか、初すぎてアガるわ～！"
+      "name": "Tosen Jordan",
+      "text": "De todos modos, ¡deja de preocuparte y <n>hazlo! En\nserio, ¡decorar una espada de bambú <n><i>es <i>tan</i> original! ¡Va a estar increíble!"
     },
     {
-      "name": "バンブーメモリー",
-      "text": "ちょちょちょ！\r\nどこ連れてく気っスか～！？"
+      "name": "Bamboo Memory",
+      "text": "¡Espera, espera, oye! ¿A dónde me <n>llevas?!"
     },
     {
-      "name": "バンブーメモリー",
-      "text": "そうっスよね！？\r\nまったく、言ってくれて助かったっスよ！"
+      "name": "Bamboo Memory",
+      "text": "¿Verdad?! Gracias por decir eso.<n> Me salvaste,\n¡jefe!"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "え～、色々アレンジできて\r\n楽しそうだったのにー。"
+      "name": "Tosen Jordan",
+      "text": "Ay, pero podría haber jugado con <n>montones de\ndiseños! Hubiera sido súper <n>divertido."
     },
     {
-      "name": "バンブーメモリー",
-      "text": "あのっスね、この竹刀は\r\nアタシの魂の形なんス！"
+      "name": "Bamboo Memory",
+      "text": "Oye, escucha. ¡Esta espada de bambú es<n> un símbolo\nde mi alma!"
     },
     {
-      "name": "バンブーメモリー",
-      "text": "清く正しく、風紀の乱れを絶つ刀！\r\nその愛刀をデコるってのは――"
+      "name": "Bamboo Memory",
+      "text": "¡Es una hoja pura y justa que corta a <n>través de la\ncorrupción! ¿Cómo puedes siquiera<n> pensar en\ndecorar mi preciosa—"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "あ、ネイル乾いた。\r\nトレーニング戻りまーす。"
+      "name": "Tosen Jordan",
+      "text": "Oh, mis uñas están secas ahora. De vuelta al<n>\nentrenamiento."
     },
     {
-      "name": "バンブーメモリー",
-      "text": "……って、ちょっ、話の途中っスよ！\r\n待つっスーーーー！！！"
+      "name": "Bamboo Memory",
+      "text": "¡Oye! ¡Estaba hablando contigo! ¡ESPERA!"
     }
   ]
 }

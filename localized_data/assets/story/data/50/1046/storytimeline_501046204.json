@@ -3,39 +3,39 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "¡Llegó el día del Tokyo Daishoten,<n>y el\nHipódromo de Oi se ve más animado<n>que de\ncostumbre!"
+      "text": "¡Ha llegado el día del Tokyo Daishoten,<n> y el\nHipódromo de Oi se ve más animado <n>de lo habitual!"
     },
     {
-      "name": "Fan A",
-      "text": "¡Smart Falcon realmente me llamó la atención!"
+      "name": "Admirador A",
+      "text": "¡Smart Falcon realmente ha captado mi atención!"
     },
     {
-      "name": "Fan B",
-      "text": "Igual. Esta es mi primera carrera en tierra. Me\npregunto<n>cómo se ve cuando corre. ¡Ya sé<n>que\nes súper linda en el escenario!"
+      "name": "Admirador B",
+      "text": "Igual. Esta es mi primera carrera de tierra.<n> Me\npregunto cómo se ve cuando corre.<n> ¡Ya sé que es\nsúper linda en el escenario!"
     },
     {
-      "name": "Fan de Falco A",
-      "text": "¡Oye, es Falco! ¡Buena suerte!"
+      "name": "Admirador de Falco A",
+      "text": "¡Hey, es Falco! ¡Buena suerte!"
     },
     {
-      "name": "Fan de Falco B",
-      "text": "¡Te estoy animando! Y no puedo esperar a<n>verte\ncantar!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "...¡Muchísimas gracias, chicos! ☆"
+      "name": "Admirador de Falco B",
+      "text": "¡Te estoy animando! ¡Y no puedo esperar<n> a verte\ncantar!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Sígueme hasta el final y<n>más allá. ☆\n¡Smart Falcon, al<n>vuelo! ♪"
+      "text": "...¡Muchas gracias, chicos! ☆"
     },
     {
-      "name": "Fans",
-      "text": "¡Wuuu!"
+      "name": "Smart Falcon",
+      "text": "¡Sígueme hasta el final y más<n> allá. ☆ ¡Smart\nFalcon, <n>despegando! ♪"
+    },
+    {
+      "name": "Admiradores",
+      "text": "¡Wooo!"
     },
     {
       "name": "Monólogo",
-      "text": "Pensé que estaría en las nubes<n>viendo todo\neste ambiente antes de la carrera,<n>pero..."
+      "text": "Pensé que estaría en las nubes viendo<n> todo este\nentusiasmo antes de la carrera,<n> pero..."
     },
     {
       "name": "Smart Falcon",
@@ -43,49 +43,49 @@
     },
     {
       "name": "Monólogo",
-      "text": "Parece que a Smart Falcon le cuesta<n>\nconcentrarse. Su charla carece de su<n>brillo habitual.",
+      "text": "Smart Falcon parece estar luchando por<n>\nconcentrarse. Su charla carece de su chispa\n<n>habitual.",
       "choice_data_list": [
-        "¿Te preocupa algo?"
+        "¿Hay algo en tu mente?"
       ]
     },
     {
       "name": "Smart Falcon",
-      "text": "¿Eh?"
+      "text": "¿Huh?"
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Oh, no es nada! No es que me preocupe<n>nada\nen especial..."
+      "text": "¡Oh, no es nada! No es como si estuviera\n<n>preocupada por algo..."
     },
     {
       "name": "Smart Falcon",
-      "text": "Es que... Va a venir más gente,<n>¿verdad?",
+      "text": "Es solo... Vendrá más gente, <n>¿verdad?",
       "choice_data_list": [
-        "¿Eh?"
+        "¿Huh?"
       ]
     },
     {
       "name": "Smart Falcon",
-      "text": "Todavía es temprano, así que... Seguro\nque<n>llegará más gente después.",
+      "text": "Todavía es temprano, así... Estoy seguro de <n>que\nvendrá más gente después.",
       "choice_data_list": [
-        "Hay mucha más gente que de costumbre.",
-        "Hay mucha más gente que de costumbre."
+        "Hay mucha más gente aquí de lo habitual.",
+        "Hay mucha más gente aquí de lo habitual."
       ]
     },
     {
       "name": "Monólogo",
-      "text": "La creciente popularidad de Smart Falcon<n>está\nafectando a la popularidad de las<n>carreras en tierra\nen general. En otras<n>palabras...",
+      "text": "La creciente popularidad de Smart Falcon <n>está\nteniendo un efecto en la popularidad de las\ncarreras<n> de tierra en general. En otras\npalabras...",
       "choice_data_list": [
-        "Tu esfuerzo está dando frutos.",
-        "Tu esfuerzo está dando frutos."
+        "Tu trabajo duro está dando frutos.",
+        "Tu trabajo duro está dando frutos."
       ]
     },
     {
       "name": "Smart Falcon",
-      "text": "...Jaja, me alegraría mucho que fuera<n>así. ☆"
+      "text": "...Jaja, me pondría muy feliz si ese fuera<n> el\ncaso. ☆"
     },
     {
       "name": "Smart Falcon",
-      "text": "Al menos... hicimos todo lo que<n>posiblemente\npodíamos. No dejamos nada por hacer."
+      "text": "Al menos... hicimos todo lo que pudimos.<n> No\ndejamos piedra sin remover."
     },
     {
       "name": "Smart Falcon",
@@ -93,64 +93,64 @@
     },
     {
       "name": "Monólogo",
-      "text": "Ya casi es hora de que empiece la carrera,\ny<n>Smart Falcon se ve cada vez más<n>nerviosa."
+      "text": "Casi es hora de que empiece la carrera,<n> y Smart\nFalcon se ve cada vez más<n> nerviosa."
     },
     {
       "name": "Smart Falcon",
-      "text": "Oye, Entrenador. ¿Cuánta gente hay<n>ahora?",
+      "text": "Oye, Entrenador. ¿Cuánta gente<n> hay ahora?",
       "choice_data_list": [
-        "Parece que ya supera los treinta mil.",
-        "Parece que ya supera los treinta mil."
+        "Parece que ya son más de treinta mil.",
+        "Parece que ya son más de treinta mil."
       ]
     },
     {
       "name": "Monólogo",
-      "text": "Al ver lo obsesionada que está Smart Falcon<n>con\nlos números de audiencia,<n>los consulté con los\norganizadores. Le<n>cuento lo contento que estaba\nel personal."
+      "text": "Viendo lo obsesionada que ha estado Smart<n> Falcon\ncon la cantidad de espectadores,<n> verifiqué los\nnúmeros con los organizadores. Le digo<n> lo\nencantados que estaban los empleados."
     },
     {
       "name": "Smart Falcon",
-      "text": "Treinta mil... Eso es increíble. Y...<n>¿cuántos\nhabía en el Arima Kinen? Solo<n>por curiosidad.",
+      "text": "Treinta mil... Eso es increíble. Y...<n> ¿cuántos\nhabía en el Arima Kinen? <n>Solo por curiosidad.",
       "choice_data_list": [
-        "Creo que alrededor de ciento diez mil."
+        "Alrededor de ciento diez mil, creo."
       ]
     },
     {
       "name": "Smart Falcon",
-      "text": "Ciento y... ¡¿T-tantos?!"
+      "text": "Ciento diez... ¡¿Tantos?!"
     },
     {
       "name": "Smart Falcon",
-      "text": "Ya entiendo. Esas cifras son como...<n>el día y la\nnoche."
+      "text": "Ahora lo entiendo. Esos números son como...<n> el día\ny la noche."
     },
     {
       "name": "Smart Falcon",
-      "text": "El Tokyo Daishoten es la última carrera del<n>año.\nRecibe mucha más atención<n>que las otras carreras\nen tierra."
+      "text": "El Tokyo Daishoten es la carrera final<n> del año.\nRecibe mucha más atención que <n>las otras carreras\nde tierra."
     },
     {
       "name": "Smart Falcon",
-      "text": "Además, muchos de mis fans vinieron a<n>verme este\naño."
+      "text": "Además, un montón de mis seguidores están aquí\n<n>para verme este año."
     },
     {
       "name": "Smart Falcon",
-      "text": "Aun así, a pesar de todo eso...<n>no se compara."
+      "text": "Sin embargo, a pesar de todo eso... simplemente no<n>\nse compara."
     },
     {
       "name": "Monólogo",
-      "text": "Supongo que se siente un poco decepcionada<n>con\nla asistencia, tras haber<n>experimentado la\ninmensa escala del Arima Kinen<n>de primera mano.",
+      "text": "Supongo que se siente un poco decepcionada<n> con la\nasistencia, habiendo experimentado<n> en persona la\ninmensa escala del<n> Arima Kinen.",
       "choice_data_list": [
-        "Creo que deberías dejar de fijarte en los\nnúmeros."
+        "Creo que deberías dejar de concentrarte en los\nnúmeros."
       ]
     },
     {
       "name": "Smart Falcon",
       "text": "...!",
       "choice_data_list": [
-        "No te puedes distraer durante la\ncarrera."
+        "No puedes permitirte distraerte durante la\ncarrera."
       ]
     },
     {
       "name": "Monólogo",
-      "text": "El Tokyo Daishoten reúne a los<n>corredores más\nfuertes sin importar la edad. Smart<n>Falcon no podrá\nganar si no mantiene<n>los ojos fijos en el premio."
+      "text": "El Tokyo Daishoten alberga a los corredores<n> más\nfuertes independientemente de la edad. <n>Smart\nFalcon no podrá ganar si sus ojos no están<n> fijos\nfirmemente en el premio."
     },
     {
       "name": "Smart Falcon",
@@ -158,26 +158,26 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Disculpa por eso! Supongo que solo<n>me estoy\nestresando."
+      "text": "¡Lo siento! Supongo que solo me estoy<n> estresando\nyo misma."
     },
     {
       "name": "Smart Falcon",
-      "text": "Hice todo lo que pude. Ya no<n>puedo cambiar las\ncosas."
+      "text": "He hecho todo lo que puedo. No hay forma de<n>\ncambiar las cosas ahora."
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Necesito dejar estos pensamientos atrás<n>y\napuntar al centro del escenario!"
+      "text": "Necesito patear estos pensamientos a la acera y<n>\napuntar al centro del escenario!"
     },
     {
       "name": "Smart Falcon",
-      "text": "...¡No te preocupes! ¡Ahora solo tengo<n>en mente\nel centro!",
+      "text": "...¡No te preocupes! ¡No hay nada en mi <n>mente\nahora excepto el centro!",
       "choice_data_list": [
         "¡Terminemos este año con broche de oro!"
       ]
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Claro!"
+      "text": "¡Correcto!"
     }
   ]
 }

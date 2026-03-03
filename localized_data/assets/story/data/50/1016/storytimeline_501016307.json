@@ -2,40 +2,40 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Caster",
-      "text": "¡Brillando espléndidamente en primer<n>lugar no es\notra que Narita Brian! ¡Esta es<n>su segunda corona\ndespués de su<n>victoria en el Satsuki Sho!"
+      "name": "Comentarista",
+      "text": "¡Brillando espléndidamente en primer lugar<n> no es\notra que Narita Brian! ¡Esta<n> es su segunda corona\ntras su victoria<n> en el Satsuki Sho!"
     },
     {
       "name": "Narita Brian",
       "text": "..."
     },
     {
-      "name": "Monólogo",
-      "text": "¡Wuuuuu!"
+      "name": "Pensamiento",
+      "text": "¡Wooooo!"
     },
     {
-      "name": "Caster",
-      "text": "¡La multitud enloquece! ¡Y Narita<n>Brian, la\nnueva Campeona del Derby,<n>levanta su puño en el aire\nen respuesta!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "...Je."
+      "name": "Comentarista",
+      "text": "¡La multitud está enloqueciendo! Y Narita<n> Brian,\nla nueva Campeona del Derby, levanta<n> el puño en el\naire en respuesta!"
     },
     {
       "name": "Narita Brian",
-      "text": "(Si cierro los ojos, aún puedo ver esa<n>recta\nfinal. Todas esforzándose, luchando<n>por la línea\nde meta.)"
+      "text": "Je."
     },
     {
       "name": "Narita Brian",
-      "text": "(Siento que aún estoy ahí, aún<n>corriendo... Más.\nQuiero más...)"
+      "text": "(Si cierro los ojos, aún puedo ver esa <n>recta\nfinal. Todos esforzándose, luchando por<n> la línea\nde llegada.)"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Siento que aún estoy allí, aún corriendo...<n> Más.\nQuiero más...)"
     },
     {
       "name": "Narita Brian",
       "text": "¡Quiero ganar!"
     },
     {
-      "name": "Monólogo",
-      "text": "¡Wuuuuu!"
+      "name": "Pensamiento",
+      "text": "¡Wooooo!"
     },
     {
       "name": "Espectadores",
@@ -43,36 +43,36 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...Ya regresé.",
+      "text": "...Volví.",
       "choice_data_list": [
         "¡Lo hiciste genial!"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "Gracias. Pero la próxima carrera es el<n>Kikuka\nSho, donde solo la corredora más<n>fuerte puede\nganar."
+      "text": "Gracias. Pero la siguiente carrera es el <n>Kikuka\nSho, donde solo el corredor más fuerte puede<n>\nganar."
     },
     {
-      "name": "Monólogo",
-      "text": "El Kikuka Sho es una carrera de<n>larga distancia\nde 3,000 metros en césped.<n>Es la última carrera\nde la Triple Corona<n>Clásica y requiere tanto velocidad\ncomo resistencia para ganar."
+      "name": "Pensamiento",
+      "text": "El Kikuka Sho es una carrera de larga <n>distancia de\n3.000 metros en césped. Es la carrera final<n> del\nrecorrido de la Triple Corona Clásica y <n>requiere\ntanto velocidad como resistencia para ganar."
     },
     {
       "name": "Narita Brian",
-      "text": "La batalla por la meta continúa.<n>Una carrera aún\nmás emocionante espera..."
+      "text": "La batalla por la línea de llegada continúa.<n> Una\ncarrera aún más emocionante aguarda..."
     },
     {
-      "name": "Reportera",
-      "text": "¡Brian! ¡Felicitaciones por tu segunda<n>corona!"
+      "name": "Reportero",
+      "text": "¡Brian! ¡Felicitaciones por tu segunda<n> corona!"
     },
     {
-      "name": "Reportera",
-      "text": "¡No podemos esperar a verte seguir<n>los pasos de\nSymboli Rudolf y convertirte<n>en la próxima Campeona de la\nTriple Corona!"
+      "name": "Reportero",
+      "text": "¡Estamos ansiosos por verte seguir los<n> pasos de\nSymboli Rudolf y convertirte en el<n> próximo Campeón\nde la Triple Corona!"
     },
     {
       "name": "Narita Brian",
       "text": "...",
       "choice_data_list": [
-        "Yo me encargaré de ellos como siempre."
+        "Me encargaré de ellos como siempre."
       ]
     },
     {
@@ -81,19 +81,19 @@
     },
     {
       "name": "Narita Brian",
-      "text": "La Campeona de la Triple Corona<n>después de\nRudolf, ¿eh?"
+      "text": "La Campeona de la Triple Corona siguiendo<n> a\nRudolf, ¿eh?"
     },
     {
       "name": "Narita Brian",
-      "text": "...¡Ridículo! ¿Quién va a <i>seguir</i> a nadie?"
+      "text": "...¡Ridículo! ¿Quién es <i>el que <i>sigue</i> a alguien?"
     },
     {
       "name": "Narita Brian",
-      "text": "¡Los objetivos no son para perseguir,<n>son para\n<i>superar!</i>"
+      "text": "Las metas no son para perseguirlas, son <i>para<n>\n<i>superarlas!</i>"
     },
     {
-      "name": "Monólogo",
-      "text": "Después del concierto, llevo a Narita<n>Brian de\nvuelta a la academia, donde..."
+      "name": "Pensamiento",
+      "text": "Después del concierto, llevo a Narita Brian<n> de\nvuelta a la academia, donde..."
     },
     {
       "name": "Hishi Amazon",
@@ -105,43 +105,43 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Gané la Oaks Japonesa y tú ganaste<n>el Derby\nJaponés."
+      "text": "Gané el Japanese Oaks y tú ganaste<n> el Japanese\nDerby."
     },
     {
       "name": "Narita Brian",
-      "text": "Eh... ¿Así que ahora tienes dos tiaras?"
+      "text": "¿Eh? ...¿Así que ahora tienes dos tiaras?"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Sí. Y me estoy preparando para<n>derrotarte."
+      "text": "Sí. Y me estoy preparando para <n>derrotarte."
     },
     {
       "name": "Narita Brian",
-      "text": "¿Oh? ¿Cuándo nos enfrentaremos?"
+      "text": "¿Oh? Entonces, ¿cuándo vamos a <n>enfrentarnos?"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Jaja, no te adelantes. El Arima<n>Kinen es donde\nsucederá."
+      "text": "Jajá, no te adelantes. El Arima<n> Kinen es donde va\na ocurrir."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Ahí veremos quién es la mejor."
+      "text": "Ahí veremos quién es el mejor."
     },
     {
       "name": "Narita Brian",
-      "text": "¿Y si una de nosotras no consigue sus<n>tres\ntrofeos?"
+      "text": "¿Y si uno de nosotros no consigue sus <n>tres\ntrofeos?"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¿Importa? Siempre andas diciendo<n>que no te\ninteresan los títulos."
+      "text": "¿Importa? Siempre estás hablando<n> de cómo no te\ninteresan los títulos."
     },
     {
       "name": "Narita Brian",
-      "text": "Hmm..."
+      "text": "Pff..."
     },
     {
       "name": "Narita Brian",
-      "text": "Entrenador, quiero hablar sobre qué<n>viene\ndespués de la Triple Corona Clásica.",
+      "text": "Entrenador, quiero hablar sobre lo que viene<n>\ndespués de la Triple Corona Clásica.",
       "choice_data_list": [
         "¿El Arima Kinen?"
       ]
@@ -151,20 +151,20 @@
       "text": "...Sí."
     },
     {
-      "name": "Monólogo",
-      "text": "Es el evento importante de fin de<n>año—una\ncarrera de 2,500 metros en césped<n>en Nakayama,\ndonde las corredoras de<n>alto nivel forjan su\nreputación.",
+      "name": "Pensamiento",
+      "text": "Es el gran evento de fin de año—una <n>carrera de\n2.500 metros en césped en Nakayama,<n> donde los\ncorredores de primer nivel ganan<n> su reputación.",
       "choice_data_list": [
-        "Competirías con corredoras de último año.",
-        "Competirías con corredoras de último año."
+        "Competirías con corredores de último año.",
+        "Competirías con corredores de último año."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "Así que el Kikuka Sho determina quién<n>es la más\nfuerte de su generación, y el<n>Arima Kinen\ndetermina quién es la<n>más fuerte de todas."
+      "text": "Así que el Kikuka Sho determina quién<n> es el más\nfuerte de su generación, y el<n> Arima Kinen\ndetermina quién es el <n>más fuerte de todos."
     },
     {
       "name": "Narita Brian",
-      "text": "Ja... Suena genial. ¡Apuntar a la cima es<n>de lo\nque trata ser una Uma Musume!"
+      "text": "Jaj... Suena genial. Ir por la cima es<n> de lo que\nse trata ser una Umamusume!"
     }
   ]
 }

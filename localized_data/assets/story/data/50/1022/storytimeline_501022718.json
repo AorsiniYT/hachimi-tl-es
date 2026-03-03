@@ -1,0 +1,31 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fine Motion",
+      "text": "¡Buenos días, Entrenador!",
+      "choice_data_list": [
+        "¿Disfrutaste tu tiempo libre?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Sí! Mi amiga y yo compartimos un té <n>irlandés, y\nluego preparamos algunos <n>platos locales de la\nregión donde crecí. ♪"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Mi colcannon fue un éxito! Me gustaría<n> hacer\nalguno para ti también alguna vez."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Aún no estoy acostumbrada a cocinar, pero ese<n> es\nun plato que puedo servir con confianza!",
+      "choice_data_list": [
+        "Espero tener la oportunidad de probarlo."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Jeje. ¡Es una promesa, entonces! ♪ ¡Tendrás<n> que\ndejarme saber qué piensas de él!"
+    }
+  ]
+}

@@ -3,39 +3,39 @@
   "text_block_list": [
     {
       "name": "Transeúnte A",
-      "text": "¡Oye! Definitivamente vas a la<n>Copa\nJapón,<n>¿verdad?"
+      "text": "¡Oye! Seguro que vas a la Japan<n> Cup, ¿verdad?"
     },
     {
       "name": "Transeúnte B",
-      "text": "¡Obvio! ¡Es un enfrentamiento directo\nentre<n>Rudolf y<n>Brian! ¡No me lo perdería!"
+      "text": "¡Por supuesto! Es un enfrentamiento directo<n> entre\nRudolf y Brian. ¡No me lo perdería por nada!"
     },
     {
-      "name": "Reportera",
-      "text": "¡¿Qué?! ¡¿No podemos hacer entrevistas esta<n>semana?!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Me temo que estamos bastante saturados\ncon<n><n>solicitudes de entrevistas esta semana."
+      "name": "Reportero",
+      "text": "¿Qué?! ¿Esta semana no podemos hacer ninguna\n<n>entrevista?"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Además, hemos tenido que\ntomar<n>medidas<n>extra<n>por personas que entran\nal<n>campus sin<n>permiso, así que se<n>vuelve más\ndifícil autorizar<n><n>entrevistas."
+      "text": "Me temo que esta semana estamos bastante\ndesbordados<n> con las solicitudes de entrevistas."
     },
     {
-      "name": "Reportera",
-      "text": "Oh, ya veo..."
+      "name": "Tazuna Hayakawa",
+      "text": "Además, hemos tenido que tomar medidas <n>adicionales\npara abordar el tema de personas que<n> entran al\nrecinto sin permiso, por lo <n>que se está volviendo\nmás difícil <n>conceder permisos para entrevistas."
     },
     {
-      "name": "Uma Musume A",
-      "text": "Oye, ¿quién crees que ganará? Tiene<n>que ser<n>la\npresidenta Rudolf, ¿no?"
+      "name": "Reportero",
+      "text": "Ah, ya veo..."
     },
     {
-      "name": "Uma Musume B",
-      "text": "Es difícil decir... ¿Por qué no lo vemos<n>juntas?"
+      "name": "Umamusume A",
+      "text": "Oye, ¿quién crees que ganará? Tiene que<n> ser la\nPresidenta Rudolf, ¿verdad?"
     },
     {
-      "name": "Uma Musume B",
-      "text": "¡Seremos testigos del momento en que<n>el\ntítulo<n>de la más grande cambie de manos!"
+      "name": "Umamusume B",
+      "text": "Es difícil decirlo... ¿Por qué no miramos<n> y vemos?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Seremos testigos del momento en que el título<n> de\nla más grande de todos los tiempos cambie de\nmanos."
     },
     {
       "name": "Narita Brian",
@@ -43,19 +43,19 @@
     },
     {
       "name": "Narita Brian",
-      "text": "¿De verdad la gente está tan<n>emocionada por<n>el\nresultado?"
+      "text": "¿La gente realmente está tan alterada por<n> el\nresultado?"
     },
     {
       "name": "Narita Brian",
-      "text": "Ambas vamos a alcanzar<n>cotas más altas.\nLa<n>próxima vez que corramos... no perderé."
+      "text": "Ambas vamos a alcanzar mayores <n>alturas. La próxima\nvez que corramos... No perderé."
     },
     {
       "name": "Symboli Rudolf",
-      "text": "...¿En serio?"
+      "text": "...¿Es así?"
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Entonces... hasta que \"llegue el momento\", como<n>dijiste."
+      "text": "Entonces... hasta \"llegue el momento\", como<n>\ndijiste."
     },
     {
       "name": "Narita Brian",
@@ -71,19 +71,19 @@
     },
     {
       "name": "Narita Brian",
-      "text": "(Las puertas definitivamente estarán<n>llenas en\nla<n>carrera. Habrá montones de<n>otras\ncorredoras<n>además de mí.)"
+      "text": "(Las puertas definitivamente estarán <n>llenas en la\ncarrera. Habrá muchos otros<n> corredores además de\nmí.)"
     },
     {
       "name": "Narita Brian",
-      "text": "(Y <i>ella</i> estará entre ellas.)"
+      "text": "(Y <i>ella</i> estará entre ellos.)"
     },
     {
       "name": "Narita Brian",
-      "text": "(Todas nos alinearemos en las puertas. Yo.\nElla.<n>Y<n>entonces...)"
+      "text": "(Todas nos alinearemos en las puertas. Yo. <n>Ella. Y\nluego...)"
     },
     {
       "name": "Narita Brian",
-      "text": "<i>...¡Jadeo! Uf... uf...</i>"
+      "text": "<i>...¡Jadeo! Resfoleo... Resfoleo...</i>"
     },
     {
       "name": "Narita Brian",
@@ -91,11 +91,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Narita Brian deja de correr repentinamente<n>en\nmedio<n>del entrenamiento para la Copa Japón."
+      "text": "Narita Brian de repente deja de correr<n> en medio\ndel entrenamiento para la Japan Cup."
     },
     {
       "name": "Narita Brian",
-      "text": "...Oye, ¿Entrenador?",
+      "text": "...Oye, Entrenador?",
       "choice_data_list": [
         "¿Qué pasa?",
         "¿Qué pasa?"
@@ -103,10 +103,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Mejiro McQueen era fuerte.\nTambién<n>Mihono<n>Bourbon. Y Oguri Cap también.",
+      "text": "Mejiro McQueen era fuerte. <n>También Mihono Bourbon.\nY Oguri Cap.",
       "choice_data_list": [
-        "...Es cierto.",
-        "...Es cierto."
+        "...Es verdad.",
+        "...Es verdad."
       ]
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Pude competir contra corredoras de<n><n>habilidad\nincomparable tanto en el<n>Tenno Sho\nde<n>primavera como en el de otoño."
+      "text": "Pude competir contra corredores de <n>habilidad\nincomparable tanto en el Tenno <n>Sho de primavera\ncomo en el de otoño."
     },
     {
       "name": "Narita Brian",
@@ -130,27 +130,27 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Y Rudolf, sentada en su trono como<n>Emperatriz,\nera<n>especialmente excepcional."
+      "text": "Y Rudolf, sentada en su trono como <n>Emperadora, fue\nespecialmente sobresaliente."
     },
     {
       "name": "Narita Brian",
-      "text": "No creo que el resultado de esa\ncarrera<n>cambiaría<n>incluso ahora."
+      "text": "No creo que los resultados de esa carrera<n>\ncambiaran incluso ahora."
     },
     {
       "name": "Narita Brian",
-      "text": "...Cada vez que repito esa carrera en mi<n>mente,\nla<n>imagen se vuelve más clara."
+      "text": "...Cada vez que repito ese enfrentamiento <n>en mi\ncabeza, la imagen se vuelve más clara."
     },
     {
       "name": "Narita Brian",
-      "text": "El muro que rodea a la Emperatriz es<n>inmenso<n>e\nimponente."
+      "text": "El muro que rodea al Emperador es<n> masivo e\nimponente."
     },
     {
       "name": "Narita Brian",
-      "text": "...Podría ser temerario intentar superarlo."
+      "text": "...Podría ser temerario intentar ir más allá."
     },
     {
       "name": "Monólogo",
-      "text": "Las piernas de Narita Brian\ntiemblan<n>ligeramente<n>mientras dice eso.",
+      "text": "Las piernas de Narita Brian tiemblan ligeramente\n<n>mientras dice eso.",
       "choice_data_list": [
         "¿Tiemblas de emoción?"
       ]
@@ -165,21 +165,21 @@
     },
     {
       "name": "Narita Brian",
-      "text": "¿Y si la verdad es que... en realidad<n>tengo miedo?"
+      "text": "¿Y si la verdad es que... en realidad tengo<n> miedo?"
     },
     {
       "name": "Monólogo",
-      "text": "Nunca la había visto así antes.<n>Narita Brian\nestá<n>nerviosa.",
+      "text": "Nunca la había visto así. Narita<n> Brian está\nnerviosa.",
       "choice_data_list": [
-        "...Yo creo en ti."
+        "...Te apoyo."
       ]
     },
     {
       "name": "Narita Brian",
       "text": "...¿Eh?",
       "choice_data_list": [
-        "¡Si alguien puede hacerlo, eres tú!",
-        "¡Si alguien puede hacerlo, eres tú!"
+        "¡Si alguien puede lograrlo, eres tú!",
+        "¡Si alguien puede lograrlo, eres tú!"
       ]
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Ja. Vaya..."
+      "text": "Jah. Caray..."
     },
     {
       "name": "Narita Brian",
@@ -206,66 +206,66 @@
     },
     {
       "name": "Narita Brian",
-      "text": "(Ahora que lo pienso, todo empezó<n>cuando...)"
+      "text": "(Ah que lo pienso, todo esto empezó<n> cuando...)"
     },
     {
       "name": "Narita Brian",
-      "text": "Esto es carreras. La primera en cruzar la<n>meta\ngana,<n>¿verdad?",
+      "text": "Esto es carreras. El primero en cruzar la<n> meta\ngana, ¿verdad?",
       "choice_data_list": [
-        "¡Vas a ganar, sin importar contra quién te\nenfrentes!",
-        "¡Vas a ganar, sin importar contra quién te\nenfrentes!"
+        "¡Vas a ganar, no importa contra quién sea!",
+        "¡Vas a ganar, no importa contra quién sea!"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "...No trates de hacerme decir eso."
+      "text": "...No intentes hacerme decir eso."
     },
     {
       "name": "Narita Brian",
-      "text": "Jaja... Tonta."
+      "text": "Jaja... Idiota."
     },
     {
       "name": "Narita Brian",
-      "text": "Desde ese momento, tú—",
+      "text": "Desde aquella vez, tú—",
       "choice_data_list": [
         "¿Eh?"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "...No es nada. Probablemente ni<n><n>siquiera lo\nrecuerdes."
+      "text": "...No es nada. Probablemente ni siquiera<n> lo\nrecuerdes."
     },
     {
       "name": "Narita Brian",
-      "text": "...Qué tonta eres."
+      "text": "...Gran tonta."
     },
     {
       "name": "Monólogo",
-      "text": "Al día siguiente, hay una conferencia de<n>prensa\nen<n>la previa de la Copa Japón."
+      "text": "Al día siguiente, hay una rueda de<n> prensa antes de\nla Japan Cup."
     },
     {
       "name": "Monólogo",
-      "text": "Symboli Rudolf es la primera en llegar.\nEn<n>cuanto a Narita<n>Brian..."
+      "text": "Symboli Rudolf es la primera en llegar. En <n>cuanto\na Narita Brian..."
     },
     {
       "name": "Symboli Rudolf",
       "text": "..."
     },
     {
-      "name": "Reportera A",
+      "name": "Reportero A",
       "text": "Oye, ¿Brian no viene?"
     },
     {
-      "name": "Reportera B",
-      "text": "No me digas que decidió retirarse.<n>No\npuede<n>ser..."
+      "name": "Reportero B",
+      "text": "No me digas que decidió retirarse.<n> No hay\nmanera..."
     },
     {
-      "name": "Reportera C",
-      "text": "No, definitivamente es posible. Después\nde<n>todo,<n>perdió ese entrenamiento contra\nRudolf."
+      "name": "Reportero C",
+      "text": "No, es definitivamente posible. Después de <n>todo,\nperdió esa práctica contra Rudolf."
     },
     {
       "name": "Monólogo",
-      "text": "<i>¡Pum!</i>"
+      "text": "<i>¡Bam!</i>"
     },
     {
       "name": "Symboli Rudolf",
@@ -273,35 +273,35 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Lo siento, olvidé algo."
+      "text": "Perdón, olvidé algo."
     },
     {
       "name": "Narita Brian",
-      "text": "Olvidé decirte directamente que esta<n>vez\nte<n>venceré."
+      "text": "Olvidé decirte directamente que<n> esta vez te voy a\nganar."
     },
     {
-      "name": "Reportera A",
-      "text": "?!"
+      "name": "Reportero A",
+      "text": "¿?!"
     },
     {
-      "name": "Reportera B",
-      "text": "D-Disculpa... Brian, ¿acabas de decir<n>que—"
+      "name": "Reportero B",
+      "text": "D-Disculpe... Brian, ¿acaba de decir<n> que—"
     },
     {
       "name": "Narita Brian",
-      "text": "Superaré a la Emperatriz en la Copa<n>Japón<n>sin\nlugar a dudas."
+      "text": "Sin duda, superaré al Emperador<n> en la Japan Cup."
     },
     {
       "name": "Monólogo",
       "text": "<i>Murmullos, murmullos...</i>"
     },
     {
-      "name": "Reportera A",
-      "text": "¡Vaya, qué declaración tan audaz!\n¿Ni<n>siquiera<n>considera la posibilidad de\nperder?"
+      "name": "Reportero A",
+      "text": "¡Vaya, qué afirmación tan audaz! ¿Ni siquiera<n> está\nconsiderando la posibilidad de perder?"
     },
     {
-      "name": "Reportera C",
-      "text": "¡Esto es material de portada! ¡Rápido,<n>comiencen\na<n>trabajar en un especial!"
+      "name": "Reportero C",
+      "text": "¡Esto es material de portada! ¡Apúrense<n> y preparen\nun reportaje especial!"
     },
     {
       "name": "Symboli Rudolf",
@@ -309,23 +309,23 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Nunca tuve intención de dar<n>marcha atrás."
+      "text": "Nunca tuve intención de volver<n> atrás."
     },
     {
       "name": "Symboli Rudolf",
-      "text": "¿En serio?"
+      "text": "¿Es así?"
     },
     {
       "name": "Narita Brian",
-      "text": "...Así es."
+      "text": "...Lo es."
     },
     {
       "name": "Monólogo",
-      "text": "Narita Brian y Symboli Rudolf se<n>alinean<n>una\nal lado de la otra y extienden sus<n>manos."
+      "text": "Narita Brian y Symboli Rudolf se alinean<n> una al\nlado de la otra y extienden sus<n> manos."
     },
     {
       "name": "Monólogo",
-      "text": "Solo queda un breve tiempo antes\nde<n>su<n>enfrentamiento."
+      "text": "Solo queda un corto tiempo antes de <n>su\nenfrentamiento."
     }
   ]
 }

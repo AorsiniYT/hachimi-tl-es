@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Hoy, Gold Ship y yo visitamos un santuario."
+      "text": "Hoy, Gold Ship y yo visitamos un <n>santuario."
     },
     {
       "name": "Gold Ship",
-      "text": "Fiu... ¡Y arriba! ¡Y abajo! ¡Y a la<n>izquierda!<n>¡Y a la derecha!",
+      "text": "Uf... ¡Y arriba! ¡Y abajo! ¡Y izquierda!<n> ¡Y\nderecha!",
       "choice_data_list": [
         "¿Q-qué estás haciendo?",
         "¿Q-qué estás haciendo?"
@@ -15,39 +15,39 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Bailando, ¡obvio! ¿No se nota?"
+      "text": "¡Bailando, obviamente! ¿No te das cuenta?"
     },
     {
       "name": "Gold Ship",
-      "text": "¡Bailar es cómo nos comunicamos con<n>los\nespíritus!<n>¡Así ha sido desde\ntiempos<n>antiguos!"
+      "text": "¡Bailar es cómo nos comunicamos con<n> los espíritus!\n¡Ha sido así desde tiempos <n>antiguos!"
     },
     {
       "name": "Gold Ship",
-      "text": "Soy prácticamente una oráculo, así que<n>si\nbailo,<n>¡los espíritus probablemente<n>también se\npondrán a bailar!"
+      "text": "¡Casi soy un oráculo, así que si bailo, los<n>\nespíritus probablemente también moverán el<n>\nesqueleto!"
     },
     {
       "name": "Gold Ship",
-      "text": "¡Así que aquí estoy, bailando! Uno y<n>dos y tres\ny<n>cuatro y—"
+      "text": "¡Así que aquí estoy, bailando! <n>Uno y dos y tres y\ncuatro y—"
     },
     {
       "name": "Gold Ship",
-      "text": "¿Qué dicen, espíritus? \"Duerme mucho,<n>come\nmucho\"?"
+      "text": "¿Qué dicen, espíritus? \"Dormir mucho, <n>comer\nmucho\"?"
     },
     {
       "name": "Gold Ship",
-      "text": "¡Oh, soy una experta en eso! No hay<n>mejor\nmomento<n>que el presente para poner ese<n>consejo\nen práctica!"
+      "text": "¡Oh, soy una experta en eso! ¡No hay momento<n> como\nel presente para poner ese consejo<n> en práctica!"
     },
     {
       "name": "Gold Ship",
-      "text": "Después de todo, ¿quién soy yo para<n>desobedecer a<n>los espíritus?"
+      "text": "Después de todo, ¿quién soy yo para desobedecer a<n>\nlos espíritus?"
     },
     {
       "name": "Monólogo",
-      "text": "Gold Ship sigue el consejo de los<n>espíritus al\npie<n>de la letra, y su condición\nmejora<n>bastante."
+      "text": "Gold Ship sigue el consejo de los espíritus<n> al pie\nde la letra, y su condición mejora <n>bastante."
     },
     {
       "name": "Gold Ship",
-      "text": "¡¿Quéee?! ¿Dicen \"escucha a tu<n>entrenador\"?",
+      "text": "¿Quéaa?! \"Escucha a tu entrenador\", <n>¿dices?",
       "choice_data_list": [
         "Bueno, escuchaste a los espíritus.",
         "Bueno, escuchaste a los espíritus."
@@ -55,19 +55,19 @@
     },
     {
       "name": "Gold Ship",
-      "text": "¡Oh, no, no, no! <i>La</i> Golshi no\ntoma<n>órdenes de<n>nadie!"
+      "text": "¡Oh, no, no, <i>no! <i>La</i> Golshi no <n>toma órdenes de\nnadie!"
     },
     {
       "name": "Gold Ship",
-      "text": "¡Eso incluye a espíritus todopoderosos!<n>¡Que te vaya<n>bien!"
+      "text": "¡Eso incluye a los espíritus todopoderosos!<n>\n¡Adiós!"
     },
     {
       "name": "Gold Ship",
-      "text": "¡A la LIBERTAAAAAD!"
+      "text": "¡A LA LIBERTAD!"
     },
     {
       "name": "Monólogo",
-      "text": "Tal vez porque ignoró lo que dijeron<n>los\nespíritus,<n>pero la condición de Gold Ship\nno<n>mejora en absoluto..."
+      "text": "Tal vez sea porque ignoró lo que dijeron<n> los\nespíritus, pero la condición de Gold <n>Ship no\nmejora en absoluto..."
     }
   ]
 }

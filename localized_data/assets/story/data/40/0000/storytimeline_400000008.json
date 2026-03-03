@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "<i>¡Riiiiing!</i>",
+      "text": "<i>Rrrrring!</i>",
       "choice_data_list": [
-        "¡¿Eh?! Oh, solo fue un sueño...",
-        "¡¿Eh?! Oh, solo fue un sueño..."
+        "¡¿Eh?! Oh, solo era un sueño...",
+        "¡¿Eh?! Oh, solo era un sueño..."
       ]
     },
     {
       "name": "Monólogo",
-      "text": "Hay una carrera importante hoy.\nNecesito<n>olvidarme de ese sueño e ir a ver a<n>\n<chrname> de inmediato..."
+      "text": "Hay una carrera importante hoy. <n>Necesito olvidar\nesa pesadilla y ver a <n><chrname> de inmediato..."
     }
   ]
 }

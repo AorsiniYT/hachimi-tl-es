@@ -3,22 +3,22 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Le explico el plan de entrenamiento de<n>hoy a Air\nGroove, pero parece<n>desubicada.",
+      "text": "Le estoy explicando el plan de entrenamiento <n>de\nhoy a Air Groove, pero parece desequilibrada.",
       "choice_data_list": [
         "¿Estás bien?"
       ]
     },
     {
       "name": "Air Groove",
-      "text": "Estoy bien. Continúa con lo que decías.",
+      "text": "Estoy bien. Continúa con lo que estabas diciendo.",
       "choice_data_list": [
-        "No pareces bien.",
-        "No pareces bien."
+        "No pareces estar bien.",
+        "No pareces estar bien."
       ]
     },
     {
       "name": "Air Groove",
-      "text": "Si digo que estoy bien, estoy bien—fin de<n>la discusión."
+      "text": "Si digo que estoy bien, estoy bien—fin<n> de la\ndiscusión."
     },
     {
       "name": "Air Groove",
@@ -26,7 +26,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "Disculpa. Para ser honesta, he estado<n>sufriendo\nde migraña recientemente."
+      "text": "Disculpas. Para decirte la verdad, he<n> estado\nsufriendo de migraña recientemente."
     },
     {
       "name": "Air Groove",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Air Groove parece estar plagada por un<n>dolor de\ncabeza severo."
+      "text": "Air Groove parece estar plagada por un <n>dolor de\ncabeza severo."
     }
   ]
 }

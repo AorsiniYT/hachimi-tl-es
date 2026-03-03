@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estábamos fuera con <n>Fine\nMotion..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Oye, mira!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Guau! ¡Ajaja! ♪ ¡Hay montones<n> de peluches!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fine Motion señala una máquina<n> de garra llena de\npeluches de<n> Umamusume."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Intentémoslo! ¡Hoy es el día! ¡Voy<n> a conseguir\nuno seguro!",
+      "choice_data_list": [
+        "¿Hoy es el día?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ah, bueno... En realidad no soy muy buena<n> en las\nmáquinas de garra. De hecho,<n> nunca he podido ganar\nnada..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Si hoy tampoco gano nada, entonces <n>pretendo\nadquirir todas las máquinas aquí<n> para practicar!",
+      "choice_data_list": [
+        "¿Te gustaría que te muestre cómo se hace?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Oh? ¿De verdad? ¡Te lo agradecería<n> mucho!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Mucha suerte, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡De ninguna manera puedo fallar ahora!"
+    }
+  ]
+}

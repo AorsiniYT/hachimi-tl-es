@@ -3,37 +3,37 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Rice Shower ha estado trabajando duro<n>durante\nel<n>campamento de verano. Un día,<n>cuando\nestamos a<n>punto de terminar nuestra<n>sesión de\nentrenamiento matutina y<n>tomar algo\nde<n>almuerzo..."
+      "text": "Rice Shower ha estado trabajando duro <n>durante el\ncampamento de verano. Un día, cuando<n> estamos a\npunto de terminar nuestra sesión de<n> entrenamiento\nmatutino y comer algo de almuerzo..."
     },
     {
       "name": "Rice Shower",
-      "text": "<i>Jadeo... jadeo...</i> ¡Espera! ¡Puedo seguir!",
+      "text": "<i>Jadeando... jadeando...</i> ¡Espera! ¡Puedo seguir!",
       "choice_data_list": [
         "Ya es hora de que tomes un descanso..."
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Está bien... Estoy bien. En realidad—"
+      "text": "Está bien... Estoy bien. De hecho—"
     },
     {
       "name": "Mihono Bourbon",
-      "text": "<i>Buf... puf...</i>"
+      "text": "<i>Jadeo... jadeo...</i>"
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Un nuevo récord. Pero cinco segundos<n>por debajo\nde<n>mi tiempo ideal...\nReanudando<n>entrenamiento."
+      "text": "Un nuevo récord. Pero a cinco segundos de mi\n<n>tiempo ideal... Reanudando el entrenamiento."
     },
     {
       "name": "Rice Shower",
-      "text": "Por favor... déjame hacer solo una vuelta más.",
+      "text": "Por favor... déjame hacer una vuelta más.",
       "choice_data_list": [
         "...Solo una."
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Por favor... déjame hacer solo una vuelta más.",
+      "text": "Por favor... déjame hacer una vuelta más.",
       "choice_data_list": [
         "...Solo una."
       ]
@@ -44,7 +44,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Con eso, Rice Shower se va corriendo."
+      "text": "Con eso, Rice Shower sale corriendo."
     },
     {
       "name": "Haru Urara",
@@ -52,11 +52,11 @@
     },
     {
       "name": "Haru Urara",
-      "text": "¡Ay, nooo! ¡Yo también quería hablar<n>con ella!"
+      "text": "¡Ay, nooo! ¡Yo también quería hablar<n> con ella!"
     },
     {
       "name": "Monólogo",
-      "text": "(Haru Urara... Es una chica de\nbuen<n>carácter<n>adorada por todos. También es\nuna<n>de las amigas de<n>Rice Shower.)",
+      "text": "(Haru Urara... Es una chica de buen corazón<n>\nadorada por todos. También es una de las<n> amigas de\nRice Shower.)",
       "choice_data_list": [
         "¿Hay algo de lo que quieras hablar con Rice?",
         "¿Hay algo de lo que quieras hablar con Rice?"
@@ -64,13 +64,13 @@
     },
     {
       "name": "Haru Urara",
-      "text": "¡Sip! ¡Tengo montones de cosas que<n>quiero<n>contarle!"
+      "text": "¡Sí! ¡Tengo muchísimo que <n>contarle!"
     },
     {
       "name": "Haru Urara",
-      "text": "¿Podrías avisarme cuando regrese?<n>¡Solo\ngrita<n>mi nombre, y vendré<n>corriendo!",
+      "text": "¿Podrías avisarme cuando <n>regrese? ¡Solo grita mi\nnombre y vendré<n> corriendo!",
       "choice_data_list": [
-        "Regresará en un santiamén."
+        "Volverá pronto."
       ]
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "name": "Haru Urara",
-      "text": "¡Hum-hum-hummm! ♪ Urara, la la la! ♪",
+      "text": "¡Hmm-hm-hmmm! ♪ Urara, la la la! ♪",
       "choice_data_list": [
         "Entonces... ¿de qué quieres hablar con ella?",
         "Entonces... ¿de qué quieres hablar con ella?"
@@ -87,34 +87,34 @@
     },
     {
       "name": "Haru Urara",
-      "text": "¿Qué más? ¡Voy a pedirle que almuerce<n>conmigo!"
+      "text": "¿Qué más? ¡Voy a invitarla a <n>almorzar conmigo!"
     },
     {
       "name": "Haru Urara",
-      "text": "¡Y luego quiero felicitarla por todo su<n>esfuerzo!"
+      "text": "¡Y luego quiero felicitarla por todo<n> su esfuerzo!"
     },
     {
       "name": "Haru Urara",
-      "text": "Todos hablan de lo genial que es\nahora,<n>¡trabajando<n>sin parar!"
+      "text": "¡Todo el mundo está hablando de lo genial <n>que es\nahora, esforzándose al máximo!"
     },
     {
       "name": "Haru Urara",
-      "text": "¡Jiiji! ¡Todos la apoyan!",
+      "text": "¡Jeje! ¡Todos la están apoyando!",
       "choice_data_list": [
         "...Gracias."
       ]
     },
     {
       "name": "Haru Urara",
-      "text": "¿Eh? ¿Por qué me agradeces?"
+      "text": "¿Eh? ¿Por qué me das las gracias?"
     },
     {
       "name": "Haru Urara",
-      "text": "¡Eh, qué más da! ¡De nada!"
+      "text": "¡Eh, lo que sea! ¡De nada!"
     },
     {
       "name": "Monólogo",
-      "text": "Haru Urara y yo seguimos esperando a<n>Rice\nShower."
+      "text": "Haru Urara y yo continuamos esperando<n> a Rice\nShower."
     },
     {
       "name": "Rice Shower",
@@ -129,35 +129,35 @@
     },
     {
       "name": "Rice Shower",
-      "text": "¡¿Eh?! ¡¿L-los tres?!"
+      "text": "¿¡Eh?! ¿¡Los tres!?"
     },
     {
       "name": "Rice Shower",
-      "text": "¡Guau! Tienen zanahorias\nfritas,<n>yakisoba,<n>bowls de arroz energéticos,\n¡y<n>hasta manzanas<n>acarameladas enormes!"
+      "text": "¡Guau! ¡Tienen zanahorias fritas, yakisoba,<n>\ntazones de arroz para recuperar energías e incluso\n<n>manzanas gigantes de caramelo!"
     },
     {
       "name": "Haru Urara",
-      "text": "¡Je! ¿Con qué vas a empezar, Rice?<n>Yo voy\npor<n>un helado de zanahoria<n>♪"
+      "text": "¡Jeje! ¿Con qué vas a empezar, <n>Rice? ¡Yo voy a\ntomar helado de <n>zanahoria! ♪"
     },
     {
       "name": "Rice Shower",
-      "text": "Mmm, no me decido... ¿Qué\ndebería<n>elegir,<n>hermano mayor?",
+      "text": "Ummm, no puedo decidir... ¿Qué debería<n> pedir,\nHermano?",
       "choice_data_list": [
-        "¡El bowl mega de carne y arroz!",
-        "¡Vamos por una de esas manzanas acarameladas enormes!"
+        "¡El tazón gigante de carne y arroz!",
+        "¡Vamos por una de esas manzanas gigantes de\ncaramelo!"
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Mmm, no me decido... ¿Qué\ndebería<n>elegir,<n>hermana mayor?",
+      "text": "Ummm, no puedo decidir... ¿Qué debería<n> pedir,\nHermana?",
       "choice_data_list": [
-        "¡El bowl mega de carne y arroz!",
-        "¡Vamos por una de esas manzanas acarameladas enormes!"
+        "¡El tazón gigante de carne y arroz!",
+        "¡Vamos por una de esas manzanas gigantes de\ncaramelo!"
       ]
     },
     {
       "name": "Monólogo",
-      "text": "<i>Grrrr...</i>"
+      "text": "<i>Gruñido...</i>"
     },
     {
       "name": "Rice Shower",
@@ -179,42 +179,42 @@
     },
     {
       "name": "Rice Shower",
-      "text": "...Jejeje. Ya veo. Al fin y al cabo,<n>siempre\nme<n>estás cuidando."
+      "text": "...Jeje. Ya veo. <i>Siempre</i> me estás <n>vigilando,\ndespués de todo."
     },
     {
       "name": "Rice Shower",
-      "text": "...Jejeje. Ya veo. Al fin y al cabo,<n>siempre\nme<n>estás cuidando."
+      "text": "...Jeje. Ya veo. <i>Siempre</i> me estás <n>vigilando,\ndespués de todo."
     },
     {
       "name": "Haru Urara",
-      "text": "¡Oh! ¡Yo también, yo también! ¡Yo también<n>te veo todo<n>el tiempo!"
+      "text": "¡Oh! ¡Yo también, yo también! ¡Te observo todo <n>el\ntiempo!"
     },
     {
       "name": "Rice Shower",
-      "text": "Jeje, es cierto... Gracias, Urara."
+      "text": "Jeje, así es... Gracias, Urara."
     },
     {
       "name": "Monólogo",
-      "text": "Pasamos el resto del almuerzo en\nuna<n>agradable<n>conversación."
+      "text": "Pasamos el resto del almuerzo en una<n> conversación\nagradable."
     },
     {
       "name": "Rice Shower",
-      "text": "Guau... ¡una manzana acaramelada!<n>¿De verdad<n>puedo tener una?"
+      "text": "¡Guau... una manzana de caramelo! ¿De verdad puedo\n<n>tener una?!"
     },
     {
       "name": "Rice Shower",
-      "text": "...Jeje. Normalmente las considero\nuna<n>recompensa<n>especial."
+      "text": "...Jeje. Normalmente las considero un<n> premio\nespecial."
     },
     {
       "name": "Rice Shower",
-      "text": "Mi mamá siempre me compraba una<n>después de\nuna<n>carrera o un examen difícil.",
+      "text": "Mi mamá siempre me compraba una después de una<n>\ncarrera o un examen difícil.",
       "choice_data_list": [
         "Hoy también te mereces una."
       ]
     },
     {
       "name": "Haru Urara",
-      "text": "¡Sí! ¡Te mereces como cien!"
+      "text": "¡Sí! ¡Te mereces, como, cien!"
     },
     {
       "name": "Rice Shower",
@@ -222,19 +222,19 @@
     },
     {
       "name": "Haru Urara",
-      "text": "¡Por supuesto! ¡Te estás esforzando<n>mucho,<n>mucho, muchísimo!"
+      "text": "¡Por supuesto! ¡Estás trabajando tan, tan, <n>tan\nduro!"
     },
     {
       "name": "Rice Shower",
-      "text": "...Jeje. Gracias. A ambos."
+      "text": "...Jeje. Gracias. A las dos."
     },
     {
       "name": "Rice Shower",
-      "text": "...Jeje. Gracias. A ambos."
+      "text": "...Jeje. Gracias. A las dos."
     },
     {
       "name": "Monólogo",
-      "text": "Pasamos el resto del almuerzo en\nuna<n>agradable<n>conversación."
+      "text": "Pasamos el resto del almuerzo en una<n> conversación\nagradable."
     }
   ]
 }

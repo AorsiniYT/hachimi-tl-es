@@ -2,38 +2,47 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "ついにメンバーが集まり、チームを結成して\n『アオハル杯』に参加できるようになった。"
+      "name": "Monólogo",
+      "text": "Finalmente he reunido suficientes miembros para\n<n>formar un equipo y ahora podemos participar en la\n<n>Copa de la Unidad."
     },
     {
-      "text": "『アオハル杯』では、チームランキングに\r\n応じて、トレーニングレベルも上がる。\n1つでも多く勝利していきたい。"
+      "name": "Monólogo",
+      "text": "Nuestro nivel de entrenamiento aumentará según<n>\nnuestra clasificación en la Copa de la Unidad,<n> así\nque espero ganar tantas carreras como<n> sea posible."
     },
     {
-      "text": "まずはチーム名を決める必要がある。\r\n事前にもらっていた候補と、自分で考えた\nチーム＜キャロッツ＞があるが……。"
+      "name": "Monólogo",
+      "text": "Pero primero, necesito decidir un nombre<n> para el\nequipo. Puedo elegir entre los <n>nombres que los\ndemás sugirieron y el que se me<n> ocurrió, Equipo\nZanahoria."
     },
     {
-      "text": "チーム名は――",
+      "name": "Monólogo",
+      "text": "Vamos a nombrar a nuestro equipo...",
       "choice_data_list": [
-        "El <HOP CHEERS> de Taiki",
-        "フクキタルの＜ハレノヒ・ランナーズ＞",
-        "ウララの＜にんじんぷりん＞",
-        "ライスの＜ブルームス＞",
-        "チーム＜キャロッツ＞"
+        "Saltarines Felices, como sugirió Taiki",
+        "Corredores Soleados, como sugirió Fukukitaru",
+        "Pudín de Zanahoria, como sugirió Urara",
+        "Floración Azul, como sugirió Rice",
+        "Equipo Zanahoria"
       ]
     },
     {
-      "text": "Decidió el nombre del equipo como <HOP CHEERS>,\r\ny llenó y entregó el formulario de registro."
+      "name": "Monólogo",
+      "text": "Lleno nuestro nombre en el formulario como\n<n>\"Saltarines Felices\". ¡Eso lo hace oficial!"
     },
     {
-      "text": "チーム名を＜ハレノヒ・ランナーズ＞に決め、\r\n出走登録用紙に記入して提出するのだった。"
+      "name": "Monólogo",
+      "text": "Lleno nuestro nombre en el formulario como\n<n>\"Corredores Soleados\". ¡Eso lo hace oficial!"
     },
     {
-      "text": "チーム名を＜にんじんぷりん＞に決め、\r\n出走登録用紙に記入して提出するのだった。"
+      "name": "Monólogo",
+      "text": "Lleno nuestro nombre en el formulario como <n>\"Pudín\nde Zanahoria\". ¡Eso lo hace oficial!"
     },
     {
-      "text": "チーム名を＜ブルームス＞に決め、\r\n出走登録用紙に記入して提出するのだった。"
+      "name": "Monólogo",
+      "text": "Lleno nuestro nombre en el formulario como\n<n>\"Floración Azul\". ¡Eso lo hace oficial!"
     },
     {
-      "text": "チーム名をチーム＜キャロッツ＞に決め、\r\n出走登録用紙に記入して提出するのだった。"
+      "name": "Monólogo",
+      "text": "Lleno nuestro nombre en el formulario como <n>\"Equipo\nZanahoria\". ¡Eso lo hace oficial!"
     }
   ]
 }

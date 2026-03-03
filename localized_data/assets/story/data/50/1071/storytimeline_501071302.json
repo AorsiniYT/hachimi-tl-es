@@ -1,0 +1,360 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Después de recoger algunos suministros de\n<n>entrenamiento en el distrito comercial, Mejiro<n>\nArdan y yo estamos de regreso.",
+      "choice_data_list": [
+        "Gracias por venir de compras conmigo."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Para nada. Todas estas son cosas que uso<n>\nregularmente durante el entrenamiento, y además,<n>\nestoy seguro de que estás muy ocupado,<n> así que es\nun placer poder ayudar."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...¿Oh? No es eso..."
+    },
+    {
+      "name": "Dependiente de la Rifa",
+      "text": "¡Acércate y prueba tu suerte con nuestra rifa<n> de\nAño Nuevo! ¡El gran premio de este año es unas<n>\nvacaciones en aguas termales para dos!"
+    },
+    {
+      "name": "Dependiente de la Rifa",
+      "text": "¡Los ganadores del primer premio reciben una\nhamburguesa<n> de zanahoria de lujo! ¡Los ganadores\ndel segundo <n>premio reciben un haz de zanahorias!\n¡Y los ganadores del <n>tercer premio pueden llevarse\na casa una sola zanahoria!"
+    },
+    {
+      "name": "Dependiente de la Rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue<n> un\nboleto ahora y gira para tener la <n>oportunidad de\nganar!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Oh, una rifa!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Ha pasado tanto tiempo desde la última vez<n> que vi\nuna! Y es una máquina de rifa bastante<n> antigua,\n¿verdad?"
+    },
+    {
+      "text": "De repente recuerdo que recibimos un<n> boleto de\nrifa gratuito cuando compré<n> los suministros de\nentrenamiento antes.",
+      "choice_data_list": [
+        "¿Quieres probar suerte en la rifa?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿E-en serio?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Pero el boleto vino con algo que <i>tú</i><n> compraste.</i>",
+      "choice_data_list": [
+        "Bueno, esta salida de compras también fue por tu\nbien."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Jeje. Bueno, cuando lo pones de esa manera,<n> me\nencuentro bastante tentada a<n> ver si puedo ganar."
+    },
+    {
+      "name": "Dependiente de la Rifa",
+      "text": "¡Saludos, señorita! ¿Le gustaría <n>intentarlo?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí, por favor, me gustaría intentarlo."
+    },
+    {
+      "text": "¡Mejiro Ardan le da un fuerte giro a la<n> máquina de\nrifa!",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Una pequeña bola de plástico cae de <n>la abertura\ndel tambor...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Dependiente de la Rifa",
+      "text": "¡Caramba! ¡Tenemos un ganador del <n>gran premio!\n¡Ven a recoger el cupón <n>para tus vacaciones en\naguas termales!<n> ¡Felicitaciones!"
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...",
+      "choice_data_list": [
+        "¡Lo lograste, Ardan!",
+        "¡Lo lograste, Ardan!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Eh... ¿Los grandes premios se ganan con <n>bastante\nfrecuencia?"
+    },
+    {
+      "name": "Dependiente de la Rifa",
+      "text": "¡No hay de qué, señorita! El gran premio<n> recibe\nese <i>nombre precisamente <i>por <n></i>su</i> rareza."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh, sí, por supuesto. Mis disculpas, simplemente<n>\nestaba tan sorprendida que..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Aun así... ¿realmente está bien que <n>acepte el gran\npremio?",
+      "choice_data_list": [
+        "Esto debe ser karma por todas tus buenas acciones.",
+        "Esto debe ser karma por todas tus buenas acciones."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "En ese caso... Estoy igualmente honrada y<n>\nagradecida."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Considerando que he estado desafiando <n>al propio\ndestino en un esfuerzo por dejar<n> mi huella en el\npresente... Nunca <n>esperé recibir tal bendición."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Tu formulación anterior implicaba que esta\n<n>victoria fue mi logro, Entrenador, pero el boleto<n>\nde rifa era tuyo desde el principio."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Por lo tanto, este cupón... debería <n>quedar en tus\nmanos, ¿no crees?",
+      "choice_data_list": [
+        "No me importa guardarlo, pero te pertenece.",
+        "No me importa guardarlo, pero te pertenece."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Bueno, ya que gané el gran premio usando<n> tu boleto\nde rifa, Entrenador, estaba <n>pensando que podría\nser mejor que los dos<n> discutamos cómo usarlo\nmejor."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "En este momento, estoy apostando absolutamente<n>\ntodo a las carreras. Me imagino que me <n>costaría\nencontrar el tiempo y el espacio mental <n>necesarios\npara disfrutar de unas vacaciones.",
+      "choice_data_list": [
+        "Muy bien, entiendo."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Gracias."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Cuando el momento sea adecuado... discutamos <n>cómo\naprovechar al máximo este cupón de viaje."
+    },
+    {
+      "name": "Dependiente de la Rifa",
+      "text": "¡Parece que tenemos otro ganador del primer<n>\npremio! ¡Felicitaciones! ¡Te llevas una<n>\nhamburguesa de zanahoria de lujo!"
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡El primer premio?! ¡Pensar que tendría <n>tal suerte\njugando una rifa por capricho...",
+      "choice_data_list": [
+        "¡Lo lograste, Ardan!",
+        "¡Lo lograste, Ardan!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Sí."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sin embargo, considerando todo, esta <n>es una\nporción muy generosa. Y no es<n> solo una porción\nenorme, sino que también<n> está cocinada a la\nperfección..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Me pregunto cómo se podría saborear mejor <n>este\nplato.",
+      "choice_data_list": [
+        "Se ve delicioso.",
+        "Se ve delicioso."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Entrenador... ¿te gustaría compartir esta\n<n>hamburguesa de zanahoria conmigo más tarde?",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Bueno, todo esto comenzó con el boleto<n> de rifa que\nrecibiste con tus compras.<n> Yo solo usé el boleto."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Se podría decir que ganamos este premio <n><i>juntos,</i>\nasí </i>que se deduce que también<n> debemos disfrutarlo\njuntos...",
+      "choice_data_list": [
+        "En ese caso, creo que disfrutaré."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí, insisto."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Con eso decidido, compremos algunas salsas<n> y\nguarniciones en el camino de regreso."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Esta comida será un manjar especial, así que<n> me\ngustaría <i>mucho <i>presentarlo</i> de <n>la mejor manera\nposible."
+    },
+    {
+      "text": "Más tarde, Mejiro Ardan y yo <n>disfrutamos juntos de\nla riquísima hamburguesa<n> de zanahoria de lujo.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es<n> tu día\nde suerte! ¡Te vas a casa con un<n> montón de\nzanahorias!"
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Lo logré!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje. Honestamente, ni siquiera consideré<n> que\npodría ganar algo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Aunque estoy encantado, la cantidad de <n>zanahorias\naquí es simplemente abrumadora.",
+      "choice_data_list": [
+        "¿Por qué no las compartes con tus amigos?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Oh, por supuesto! ¡Qué idea tan espléndida!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Estas zanahorias son para ti, Entrenador,<n> ya que\ntú obtuviste el boleto. Y <n>estas zanahorias son\nmías, porque gané<n> el premio. Le daré el resto a\nmis amigos."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Estoy pensando en hacer una comida con <n>nuestra\nporción combinada de zanahorias. ¿Qué<n> opinas?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Se te ocurre alguna receta que use <n>zanahorias?"
+    },
+    {
+      "text": "Esa noche, después de disfrutar plenamente el<n>\nplato de zanahoria que prepara Mejiro Ardan,<n> me\nsiento muy revitalizado y listo para enfrentar<n> el\nmañana.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Mira por aquí! ¡Has ganado el tercer<n> premio!\n¡Aquí tienes tu zanahoria!"
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje, gané algo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Qué zanahoria tan preciosa. Se nota que<n> fue\ncultivada con cuidado y <n>atención esmerada. De\nhecho, creo que sabría <n>bastante bien así tal\ncual...",
+      "choice_data_list": [
+        "¿Por qué no te la comes ahora entonces?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Oh?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...¿No sería un poco vulgar?",
+      "choice_data_list": [
+        "Solo piensa en ello como un bocadillo rápido.",
+        "Solo piensa en ello como un bocadillo rápido."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje. \"Un bocadillo rápido\", ¿dices?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Debo admitir, eso suena divertido."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh, por supuesto. Dado que no se ve una<n> zanahoria\nde esta calidad todos los días,<n> ¿te gustaría\ncompartirla conmigo?"
+    },
+    {
+      "text": "Y así, en el camino de regreso, Mejiro Ardan<n> y yo\ndisfrutamos juntos de la deliciosa zanahoria.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste <n>un blanco!\n¡Toma este paquete de pañuelos como<n> premio de\nconsolación."
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh... Es un premio de consolación...",
+      "choice_data_list": [
+        "Qué lástima...",
+        "Qué lástima..."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje. Solo recibir el premio de <n>consolación es...\ninesperadamente desalentador."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Supongo que uno no puede evitar sentirse<n>\nrepentinamente optimista al tirar de la <n>palanca de\nla rifa. Esto ha sido una gran <n>experiencia de\naprendizaje."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Gracias por permitirme participar en <n>la rifa,\nEntrenador. Considerando lo rara<n> que era esta\noportunidad, esperaba ganar<n> algo que pudiéramos\ncompartir..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Me disculpo por no haber logrado que eso <n>se\nhiciera realidad.",
+      "choice_data_list": [
+        "Está totalmente bien. No tienes que disculparte."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...¿Volvemos?"
+    },
+    {
+      "text": "Aunque ella no lo dice ni lo muestra, puedo<n> notar\nque Mejiro Ardan se siente un poco<n> desanimada...",
+      "name": "Monólogo"
+    }
+  ]
+}

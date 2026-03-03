@@ -2,94 +2,94 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Me dirijo a la pista para las\npruebas,<n>imaginando qué diamante en bruto<n>veré\ndebutar hoy."
+      "text": "Me dirijo al hipódromo para las <n>pruebas,\nimaginando qué joya en bruto <n>veré debutar hoy."
     },
     {
       "name": "Gold City",
-      "text": "Lo tengo. Hice mi entrenamiento. Puedo ganar.\nYo<n><i>ganaré</i>, con la fuerza de mis<n>propias\ndos piernas."
+      "text": "Estoy lista. Hice mi entrenamiento. Puedo <i>ganar.<n>\n<i>GANARÉ</i>, </i>con la fuerza de mis propias<n> piernas."
     },
     {
-      "text": "Veo a Gold City preparándose para correr.<n>Parece\nque los nervios la están<n>sobrepasando.",
+      "text": "Ve a Gold City preparándose para <n>correr. Parece\nque los nervios están <n>afectándola.",
       "choice_data_list": [
-        "¿Te sientes bien?",
-        "¿Te sientes bien?"
+        "¿Estás bien?",
+        "¿Estás bien?"
       ]
     },
     {
       "name": "Gold City",
-      "text": "¿Eh? ¿De dónde saliste? ¿Y tú<n>quién eres?\nEspera, ese atuendo... ¿Eres un<n>entrenador de la\nacademia?"
+      "text": "¿Eh? ¿De dónde saliste? ¿Y quién <n>eres? Espera, ese\natuendo... ¿Eres una <n>entrenadora de la academia?"
     },
     {
       "name": "Gold City",
-      "text": "Mira, si tienes algo que decirme,<n>déjalo para\ndespués de la carrera. Si no,<n>paso."
+      "text": "Mira, si tienes algo que decirme, guárdalo<n> para\ndespués de la carrera. De lo contrario,<n> me pasaré."
     },
     {
       "name": "Monólogo",
-      "text": "Sus palabras duelen un poco mientras da<n>la espalda fríamente y se\naleja con desdén."
+      "text": "Sus palabras me duelen un poco mientras<n> me da la\nespalda y se aleja."
     },
     {
       "name": "Monólogo",
-      "text": "Enfoco mi atención en las carreras, y antes<n>de\nque me dé cuenta ya estamos a la<n>mitad del día.\nEscaneando el campo de la<n>próxima carrera, veo\nuna cara familiar."
+      "text": "Me enfoco en las carreras y, antes de <n>que me dé\ncuenta, ya estamos a mitad del<n> día. Al escanear el\ncampo de la carrera <n>próxima, veo una cara\nfamiliar."
     },
     {
-      "name": "Entrenadores",
-      "text": "¡Vaya, es tan bonita! ¡Solo mírenla! Así<n>que\nella es de la que todos hablan."
+      "name": "Entrenadoras",
+      "text": "¡Wow, es tan hermosa! ¡Mira! <n>Así que es de la que\ntodos hablan."
     },
     {
-      "name": "Entrenador Nuevo A",
-      "text": "Oh, um... ¡d-disculpe! ¿Usted es...?"
+      "name": "Nueva Entrenadora A",
+      "text": "Oh, um... e-excúsame. ¿Eres..."
     },
     {
       "name": "Gold City",
-      "text": "...¿Sí? ¿Me está hablando a mí?"
+      "text": "...Sí. ¿Me estás hablando a mí?"
     },
     {
-      "name": "Entrenador Nuevo A",
-      "text": "¡Lo sabía! Usted es la modelo, City, ¿verdad?<n>La\nvi en una revista. Es<n><i>tan</i> deslumbrante."
+      "name": "Nueva Entrenadora A",
+      "text": "¡Lo sabía! ¡Eres el modelo, City, ¿verdad?<n> Te he\nvisto en una revista. Eres <n><i>tan</i> hermosa."
     },
     {
       "name": "Gold City",
       "text": "Ah... Sí, gracias."
     },
     {
-      "name": "Entrenador Veterano A",
-      "text": "Vaya, con esa apariencia, no puedes\nevitar<n>emocionarte al verla correr.\n¡Adelante,<n>City!"
+      "name": "Entrenadora Veterana A",
+      "text": "Con una apariencia como esa, no puedes<n> evitar\nemocionarte de verla correr. <n>¡Vamos, City!"
     },
     {
       "name": "Gold City",
-      "text": "...Cierto. Me aseguraré de dar una<n>actuación cautivadora."
+      "text": "...Bien. Me aseguraré de ofrecer una actuación<n>\ncautivadora."
     },
     {
       "name": "Monólogo",
-      "text": "Pero a pesar de toda la atención, durante la<n>carrera real..."
+      "text": "Pero a pesar de toda la atención, durante <n>la\ncarrera real..."
     },
     {
-      "name": "Comentarista",
-      "text": "¡Gold City sigue rezagada en el grupo con\n400<n>metros por recorrer! ¡No se ve bien para\nella!"
-    },
-    {
-      "name": "Gold City",
-      "text": "<i>Jadeo, jadeo...</i> ¡Vamos! Yo... ¡aún no he terminado!<n>¡Todavía puedo hacerlo!"
-    },
-    {
-      "name": "Comentarista",
-      "text": "¡Y cruza la meta!"
+      "name": "Locutor",
+      "text": "Gold City todavía está detrás del grupo con 400<n>\nmetros por delante. No se ve bien para ella."
     },
     {
       "name": "Gold City",
-      "text": "<i>Jadeo, jadeo...</i> Quinta... Maldición."
+      "text": "<i>Jadeo, jadeo...</i> Vamos. Yo... todavía no he\nterminado.<n> ¡Todavía puedo hacerlo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "Y cruza la meta."
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>Jadeo, jadeo...</i> Quinto... Maldita sea."
     },
     {
       "name": "Monólogo",
-      "text": "Gold City da una buena pelea al final,<n>pero no es suficiente."
+      "text": "Gold City lucha bien al final, <n>pero no es\nsuficiente."
     },
     {
-      "name": "Entrenador Veterano A",
-      "text": "Mmm. Esa arremetida tardía mostró un<n>destello de\npotencial, pero en general una<n>actuación\nmediocre... o falta de brillo. Bueno,<n>no está\nmal para una modelo que corre como trabajo\nsecundario."
+      "name": "Entrenadora Veterana A",
+      "text": "Hmm. Ese último esfuerzo mostró un destello de\n<n>potencial, pero en general una actuación...\nmediocre<n> o poco impresionante. Bueno, no está mal\npara un <n>modelo que corre como trabajo secundario."
     },
     {
-      "name": "Entrenador Nuevo A",
-      "text": "Pero, ¿<i>viste</i> cómo corría? Ese<n>cabello\ndorado ondeando en el\nviento—simplemente<n>cautivador. Vaya, ¡qué\nalegría haberlo<n>visto!"
+      "name": "Nueva Entrenadora A",
+      "text": "¿Viste <i>cómo corría? </i>Ese cabello dorado<n> ondeando en\nel viento—simplemente <n>encantador. Wow, me alegra\nhaber podido <n>ver eso."
     },
     {
       "name": "Gold City",
@@ -97,75 +97,75 @@
     },
     {
       "name": "Monólogo",
-      "text": "Gold City se va sin decir una palabra, pero\nla<n>expresión de pura frustración en su<n>cara\ndeja una impresión duradera en mí."
+      "text": "Gold City se va sin decir una palabra, pero<n> la\nmirada de frustración cruda en su rostro me<n> deja\nuna impresión duradera."
     },
     {
       "name": "Monólogo",
-      "text": "Sigo repasando su carrera en mi mente<n>mientras\ndoy un paseo nocturno por la<n>orilla del río."
+      "text": "Todavía estoy repasando su carrera en mi mente<n>\nmientras doy un paseo vespertino por la <n>orilla del\nrío."
     },
     {
       "name": "Tosen Jordan",
-      "text": "¡Oye, City! ¡Tiempo fuera, tiempo fuera!<n>¡Literalmente me vas a matar!"
+      "text": "Hey, City. Tiempo fuera, tiempo fuera.<n>\n¡Literalmente me vas a matar!"
     },
     {
       "name": "Gold City",
-      "text": "<i>Jadeo, jadeo...</i> ¿Qué, Jordan, ya<n>estás rendida?"
+      "text": "<i>Jadeo, jadeo...</i> ¿Qué pasa, Jordan, ya estás<n>\nagotado?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "O sea, <i>sí</i> estoy rendida. Pero City,\ntú<n>también lo sientes en tus piernas, ¿verdad?\nEs<n>justo después de una gran carrera—en\nserio<n>necesitas descansar."
+      "text": "Quiero <i>decir, <i>sí</i> estoy agotado. Pero <n>City, tú\ntambién sientes la fatiga en las piernas, ¿verdad?<n>\nAcaba de ser una gran carrera—realmente necesitas<n>\ndescansar."
     },
     {
-      "name": "Mánager de Gold City",
+      "name": "Gerente de Gold City",
       "text": "City, Jordan tiene razón."
     },
     {
       "name": "Tosen Jordan",
-      "text": "¡¿Whoa, qué—?! Vaya, qué susto."
+      "text": "¿Qué...?! ¡Eh, me asustaste!"
     },
     {
       "name": "Gold City",
-      "text": "Mánager... Hmph. ¿Qué haces<n>aquí?"
+      "text": "Gerente... Hmph. ¿Qué estás haciendo<n> aquí?"
     },
     {
-      "name": "Mánager de Gold City",
-      "text": "Un poco más de esto y afectará tu\ntrabajo<n>mañana. Solo mira esas\npiernas<n>temblorosas—¿y si te caes y te lastimas?"
-    },
-    {
-      "name": "Gold City",
-      "text": "Sí, sí. No querrías un rasguño en<n>tu precioso\nmaniquí de dinero."
-    },
-    {
-      "name": "Mánager de Gold City",
-      "text": "City... Escúchame. Me <i>importas</i>, y<n>te lo digo por tu bien."
-    },
-    {
-      "name": "Mánager de Gold City",
-      "text": "He organizado esta próxima sesión\npara<n><i>encajar perfectamente</i> con tu\nimagen—fría,<n>feroz, deslumbrante, y—"
+      "name": "Gerente de Gold City",
+      "text": "Si sigues así, afectará tu trabajo mañana.<n> Solo\nmira esas piernas <n>temblorosas—¿qué pasa si te caes\ny te lastimas?"
     },
     {
       "name": "Gold City",
-      "text": "¡<i>¡Lo entiendo!</i> Haré mi trabajo, ¿vale?!"
+      "text": "Sí, sí. No querría un rasguño en <n>tu precioso\nmaniquí de dinero."
+    },
+    {
+      "name": "Gerente de Gold City",
+      "text": "City... Escúchame. <i>Me <i>preocupo</i> por<n> ti, y te digo\nesto por tu bien."
+    },
+    {
+      "name": "Gerente de Gold City",
+      "text": "He organizado esta próxima sesión <i>para que se\nadapte <n></i><i>perfectamente</i> a tu imagen—fresca, feroz,\nhermosa y—"
     },
     {
       "name": "Gold City",
-      "text": "Has hecho mucho por mí—estoy agradecida.<n>Y te\ndebo mucho, así que no<n>estoy tratando de dejar\nde modelar ni nada."
+      "text": "<i>¡Lo <i>entiendo</i>! </i>¡Haré mi trabajo, ¡está bien!"
     },
     {
       "name": "Gold City",
-      "text": "¡Pero <i>también</i> voy a seguir corriendo\ny<n>entrenando! Y te lo he dicho una y otra<n>vez\nque te mantengas fuera de eso."
-    },
-    {
-      "name": "Mánager de Gold City",
-      "text": "...Y siempre he dicho que estoy en contra.<n>City,\n¡no conoces tu verdadero valor!"
+      "text": "Has hecho mucho por mí—te estoy agradecida.<n> Y te\ndebo mucho, así que no estoy tratando<n> de dejar de\nmodelar o algo así."
     },
     {
       "name": "Gold City",
-      "text": "¿Eh? ¿¡Mi valor?! ¡Elige tus palabras con<n>más\ncuidado si intentas conquistar favores! Yo<n>sé\nque valgo más que ser tu<n>modelo—"
+      "text": "Pero <i>también</i> voy a seguir corriendo y<n> entrenando.\nY te he dicho una y otra vez que te <n>mantengas al\nmargen de eso."
+    },
+    {
+      "name": "Gerente de Gold City",
+      "text": "...Y siempre he dicho que estoy en contra.<n> City,\nno sabes tu verdadero valor."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? ¿Mi valor?! Elige tus palabras con<n> más\ncuidado si estás tratando de ganarte mi favor.<n> Sé\nque valgo más que ser tu imagen de<n> portada—"
     },
     {
       "name": "Tosen Jordan",
-      "text": "¡Oh, por Dios! ¡<i>Totalmente</i> se me antoja un<n>plato de curry ahora!"
+      "text": "¡Ay, caramba! <i>¡Tengo una gran </i>antojo de un tazón\nde<n> curry en este momento!"
     },
     {
       "name": "Gold City",
@@ -173,55 +173,55 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Digo, totalmente sonó como que dijiste<n>\"sabor a\ncurry\", ¿sí? Me diste hambre."
+      "text": "Quiero decir, sonaba totalmente como si <n>dijeras\n\"sabor a curry\", ¿sí? Me diste hambre."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Así que sí, uh, ¿Mánager? ¿Le importa si<n>nosotras dos salimos a\ncomer?"
+      "text": "Así que sí, eh, Entrenador, ¿le importa si <n>los dos\nsalimos a comer?"
     },
     {
-      "name": "Mánager de Gold City",
-      "text": "...Está bien. De todos modos, tengo una<n>reunión\nsobre mañana. No te lastimes,<n>¿vale?"
-    },
-    {
-      "name": "Tosen Jordan",
-      "text": "...¿Ya se fue? Uf, qué tensión.<n>Tu manager nunca\ncambia, ¿eh?"
-    },
-    {
-      "name": "Gold City",
-      "text": "<i>Suspiro...</i> Lo siento, Jordan. Y buena idea.<n>Gracias."
+      "name": "Entrenador de Gold City",
+      "text": "...Está bien. Tengo una reunión <n>sobre mañana, de\ntodos modos. No te lastimes,<n> ¿okay?"
     },
     {
       "name": "Tosen Jordan",
-      "text": "¡Ajajá! ¿City diciendo gracias de verdad? ¿Pero<n>quién eres tú? ★"
+      "text": "...¿Se fue? Uf, qué tensión. Tu<n> entrenador nunca\ncambia, ¿eh."
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>Suspiro...</i> Lo siento, Jordan. Y buena<n> idea.\nGracias."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Ah, pero lo de que tengo hambre no era\nbroma.<n>¿Podemos ir a comer, como, ya?"
-    },
-    {
-      "name": "Gold City",
-      "text": "...Nah, voy a correr un poco más. Tú ve<n>adelante."
+      "text": "¡Jaja! ¿City con un agradecimiento sincero?<n> ¿Quién\neres tú? ★"
     },
     {
       "name": "Tosen Jordan",
-      "text": "¿En serio? Está bien. No te excedas, ¿sí?<n>Nos vemos luego."
+      "text": "Oh, no estaba bromeando sobre tener hambre,\n<n>aunque. ¿Podemos ir a comer, como, ahora?"
     },
     {
       "name": "Gold City",
-      "text": "...Bien. Vamos a por ello."
+      "text": "...Nah, voy a correr un poco más. Tú ve <n>adelante."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿En serio? Okaaay. No te excedas, ¿sí? Nos<n> vemos\nmás tarde."
     },
     {
       "name": "Gold City",
-      "text": "No solo soy apariencia. No soy una<n>muñeca para vestir tonta."
+      "text": "...Okay. Hagámoslo."
     },
     {
       "name": "Gold City",
-      "text": "¡Voy a ser... la <i>verdadera</i> yo!"
+      "text": "No soy solo apariencia. No soy una muñeca <n>tonta\npara disfrazar."
+    },
+    {
+      "name": "Gold City",
+      "text": "Voy a ser... la <i>verdadera</i> yo."
     },
     {
       "name": "Monólogo",
-      "text": "Brillando con sudor y bañándose en la<n>gloria del\natardecer mientras corre, me<n>impacta una belleza\nprofunda."
+      "text": "Brillando con sudor y bañada en la <n>gloria del sol\nponiente mientras corre, me <n>impresiona una belleza\nprofunda."
     }
   ]
 }

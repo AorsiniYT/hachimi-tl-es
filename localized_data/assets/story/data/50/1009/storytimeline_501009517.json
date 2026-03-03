@@ -3,27 +3,27 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Se supone que me reuniré con Daiwa\nScarlet<n>primero"
+      "text": "Se supone que debo reunirme con Daiwa Scarlet<n> a\nprimera hora de esta mañana, pero..."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "<i>Uf...</i> Esto me está volviendo loca. No\nimporta<n>cómo",
+      "text": "<i>Suspiro...</i> Esto me está volviendo loco. No importa<n>\ncuántas veces me lo ate, no puedo arreglarme el\ncabello<n> correctamente.",
       "choice_data_list": [
-        "¿...Algo le pasa?",
-        "¿...Algo le pasa?"
+        "...¿Algo malo con él?",
+        "...¿Algo malo con él?"
       ]
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "¡Sí! ¡Sí que lo hay! Tiene que ser exactamente\ncomo<n>mi mamá"
+      "text": "¡Sí! ¡Lo hay! ¡Tiene que ser exactamente como<n> mi\nmamá me enseñó a hacerlo!"
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "¡Ugh! ¡No me puedo concentrar así! Volveré<n>en\ncuanto arregle"
+      "text": "¡Ugh! ¡No puedo concentrarme así! ¡Volveré una<n> vez\nque lo arregle!"
     },
     {
       "name": "Monólogo",
-      "text": "Parece que Daiwa Scarlet no puede\nconcentrarse<n>cuando"
+      "text": "Parece que Daiwa Scarlet no puede concentrarse<n>\ncuando su cabello no está perfecto."
     }
   ]
 }

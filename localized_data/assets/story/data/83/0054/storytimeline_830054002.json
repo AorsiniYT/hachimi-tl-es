@@ -1,212 +1,217 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "text": "休日。トレセン学園外で行われる、\r\nウマ娘たちのマラソン大会を\n見学しに来たのだが……。"
-    },
-    {
-      "text": "（――パンパンパーンッ！！）"
-    },
-    {
-      "name": "大会運営の女性",
-      "text": "ゴーーーールッ！！！！！\r\n1着は、ナイスネイチャさんです！！"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "ふぅっ。\r\nなんだかんだ、ぶっちぎりじゃん……！",
-      "choice_data_list": [
-        "おめでとう"
-      ]
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "――あっ。\r\nど、ども……見に来てたんだね。",
-      "choice_data_list": [
-        "ああ、君も参加してたんだな",
-        "うん、貴方も参加してたんだね"
-      ]
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "まあ……ハイ。こないだ、\r\nパーマーさんから教わったでしょ？"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "『日常から逃げてみる』ってヤツ。\r\nそれを、試してみようと思って。"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "ほら……この大会は学園外の子も出てるし。\r\nいつもとは違う顔ぶれのなかで走って、\n新鮮な気分を味わってみよーかと――"
-    },
-    {
-      "name": "黒髪のウマ娘",
-      "text": "はぁ、はぁ……負けちゃった……。\r\nう～……悔しいぃ～！！"
-    },
-    {
-      "name": "黒髪のウマ娘",
-      "text": "でも、すごいよネイチャさん！\r\nアタシ、いつか勝ってみせるからね！"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "……えっ？"
-    },
-    {
-      "name": "ロングヘアのウマ娘",
-      "text": "あはは、気持ちはわかるけど\r\nさすがに無理じゃないかな～。"
-    },
-    {
-      "name": "ロングヘアのウマ娘",
-      "text": "アンタの専門は、短距離なんだからさ。\r\nスパッと諦めたほうが楽じゃない？"
-    },
-    {
-      "name": "黒髪のウマ娘",
-      "text": "ううん、諦めたくない！　諦めらんないよ！\r\nだって、この抑えられない気持ちは……。"
-    },
-    {
-      "name": "黒髪のウマ娘",
-      "text": "いつか絶対に勝ちたいって、\r\n心が、体が――叫んでるからだもん！"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "心が……叫んでる……。"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "……今日のアタシ、間違いなく絶好調だった。\r\nなのに、またテイオーには……！"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "くそっ……くっそぉ……！！\r\nめちゃくちゃ、悔しい……っ！！"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "……そっか。\r\nそういうこと、だったんだ。"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "この子は……『諦めてない』から\r\n『悔しい』し、『勝ちたい』って思ってる。"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "ってことは、あの時……。\r\nレースでテイオーに負けた時、アタシも――",
-      "choice_data_list": [
-        "どうかしたのか？",
-        "どうかしたの？"
-      ]
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "――ハッ！？\r\nな、なんでもない！！　からっ！！"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "はー……顔あっつ～……。\r\nアタシ、こんなに諦め悪かったのかぁ……。"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "……あ、あのさ。\r\nちょいと相談がですね……。"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "その……頭を冷やす方法、的なやつ。\r\nなんか思いついたりする……？"
-    },
-    {
-      "text": "いきなり、助言を求められた。\r\nその場で思いついたのは――",
-      "choice_data_list": [
-        "甘いお菓子を食べよう",
-        "走って頭をからっぽにしよう"
-      ]
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "なるほど、糖分取って落ち着けってわけね。\r\n……ナイスアイディア！"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "うっし！　胸焼けなんてお構いなしに、\r\n食べて食べて食べまくってやるっ！"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "おばちゃん。にんじん畑チョコと……。\r\nあと、ファンファーレラムネもちょーだい！"
-    },
-    {
-      "name": "駄菓子屋のおばちゃん",
-      "text": "はいよネイちゃん。\r\nにしても、今日はやけに食べるねぇ？"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "まぁ、そういう気分なんでね～。\r\n他にもオススメあったりしたら――"
-    },
-    {
-      "name": "黒髪のウマ娘",
-      "text": "あっ、ネイチャさんだ！\r\n運動後は、やっぱり甘いお菓子ですよね～！"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "……へっ！？\r\nアンタたち、さっきの……！"
-    },
-    {
-      "name": "駄菓子屋のおばちゃん",
-      "text": "おやおや。お嬢ちゃんたち、\r\nネイちゃんの知り合いかい？"
-    },
-    {
-      "name": "ロングヘアのウマ娘",
-      "text": "はい！　今日のマラソン大会で、\r\nネイチャさんすごかったんですよ～！",
-      "choice_data_list": [
-        "すっかり慕われてる……"
-      ]
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "お、おおっと……。\r\nこーなっちゃうかぁ～……。"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "――頭を冷やすどころか、\r\n余計に熱くなっちゃうんですけどっ！"
-    },
-    {
-      "text": "なんやかんやと言いつつ……みんなで仲良く\r\nお菓子を食べたナイスネイチャなのだった。"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "な、なるほど。\r\nでも、それもスポ根っぽいような……？"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "――ええい、だが乗ったっ！\r\n今はちょうどそんな気分だぁ！"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "ひぃ、ふぅ……。\r\nま……マラソン大会より疲れた……。",
-      "choice_data_list": [
-        "まさか日が暮れるまでとは……"
-      ]
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "あはは～……ホントにね。\r\n正直、アタシが1番驚きだよ。"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "まぁ、こんだけ走ったし。\r\n余計な考えは吹き飛びましたよっと。"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "……へへ。",
-      "choice_data_list": [
-        "……？"
-      ]
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "いや、ね。\r\nほんのちょっぴり、思っただけ。"
-    },
-    {
-      "name": "ナイスネイチャ",
-      "text": "アタシ、やっぱり――\r\nそこそこは走れるじゃん？　とかさ。"
-    },
-    {
-      "text": "彼女は気分をスッキリさせると同時に、\r\n少しだけ自信をつけられたようだ。"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Es mi día libre, así que decido ir a ver <n>un\nmaratón fuera del campus para inspirarme..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Dash!</i>"
+        },
+        {
+            "name": "Director de la Maratón",
+            "text": "¡Y la ganadora es... NICE NATURE!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...¡Uf! ¡Terminé con todo!",
+            "choice_data_list": [
+                "¡Bien hecho!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, eh, gracias... ¿Viniste a <n>ver, no?",
+            "choice_data_list": [
+                "Sí. Entonces, ¿supongo que te apetece correr?",
+                "Sí. Entonces, ¿supongo que te apetece correr?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Bueno, sí. ¿Recuerdas lo que<n> Palmer me dijo antes?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Quería intentar eso de \"escapar de <n>lo ordinario\"\nque ella sugirió."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Mira a tu alrededor... No todos estos\n<n>participantes son de la academia. Pensé que <n>correr\ncontra nuevas caras podría resultar un<n> poco\nrefrescante..."
+        },
+        {
+            "name": "Umamusume de Pelo Negro",
+            "text": "<i>Huff, huff...</i> ¡Maldición! ¡Perdí!"
+        },
+        {
+            "name": "Umamusume de Pelo Negro",
+            "text": "¡Pero eso fue tan increíble, Nature! <n>¡Espero poder\nvencerte algún día!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Umamusume de Pelo Largo",
+            "text": "Jajaja, sé cómo te sientes, pero no estoy tan\n<n>seguro de que tengamos oportunidad!"
+        },
+        {
+            "name": "Umamusume de Pelo Largo",
+            "text": "Tu especialidad son las carreras cortas, ¿verdad?<n>\n¿Por qué no simplemente te ceñes a esas?"
+        },
+        {
+            "name": "Umamusume de Pelo Negro",
+            "text": "¡De ninguna manera! ¡No me <i>rendiré! ¡<i>No </i>puedo</i><n>\nrendirme! Tengo este sentimiento dentro de mí que\nno <n>puedo ignorar..."
+        },
+        {
+            "name": "Umamusume de Pelo Negro",
+            "text": "<i>¡<i>Voy a</i> ganar algún día! Mi corazón,<n> mi cuerpo y mi\nalma claman por la victoria!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "¿Su corazón... está clamando?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "¡Todo era perfecto! ¡Tenía la victoria en<n> el\nbolsillo! Pero esa maldita Teio tuvo que..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "¡Maldición, <i>maldición, <i>maldición!</i> No <i>puedo <i>creer</i><n>\n</i>esto!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Hum. Supongo que yo también me sentí así."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Es porque ella no se ha rendido que<n> está frustrada\ny ansiosa por ganar."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ahora lo entiendo... Por eso cuando perdí contra<n>\nTeio, me sentí tan...",
+            "choice_data_list": [
+                "¿Qué pasa?",
+                "¿Qué pasa?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "¿Eh?! N-no es nada. ¡En fin!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Suspiro...</i> Mi cara está ardiendo aquí...<n> Supongo\nque no me di cuenta de que <n>era tan terco..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Eh, oye. ¿Puedo preguntarte algo?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "¿No sabrás algún truco que la<n> gente pueda\nintentar, sabes, para <n>calmarse?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "De la nada, me pide consejo. Y lo<n> que se me ocurre\nen el momento<n> es...",
+            "choice_data_list": [
+                "Ve a comer algo dulce.",
+                "Salir a correr podría despejar tu mente."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, así que crees que debería comer algo dulce<n>\npara calmarme? ¡Buena idea!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "¡De acuerdo! ¡Voy a darlo todo! ¿A quién<n> le\nimporta un poco de acidez?!<n> Rub-a-dub-dub,\n¡traigan la comida!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Disculpe, señorita, quisiera una zanahoria de<n>\nchocolate. Oh, y una soda fanfarria, por favor!"
+        },
+        {
+            "name": "Dueño de la Tienda de Dulces",
+            "text": "¡Aquí tienes, Natie! Tu antojo por lo dulce<n>\nrealmente está fuerte hoy, ¿eh?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "¡Ha sido uno de esos días! Entonces, <n>¿alguna otra\nrecomendación?"
+        },
+        {
+            "name": "Umamusume de Pelo Negro",
+            "text": "¡Oh, Nature! Las cosas dulces siempre caen <n>bien\ndespués de un duro día de trabajo, ¿eh?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...¡Vaya! ¡Ustedes son esas corredoras de antes!"
+        },
+        {
+            "name": "Dueño de la Tienda de Dulces",
+            "text": "Oh, vaya. ¿Ustedes conocen a Natie?"
+        },
+        {
+            "name": "Umamusume de Pelo Largo",
+            "text": "¡Sí! ¡Corrimos juntas en el maratón<n> de hoy! Nature\nfue <i>tan</i> increíble!",
+            "choice_data_list": [
+                "Ella realmente te respeta..."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oye, ahora... Si sigues así..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "¡Mi cara se va a quemar justo cuando<n> empezaba a\ncalmarme!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A pesar de todo su alboroto, Nice Nature<n> termina\ncon algunos dulces e incluso<n> amigos más dulces."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, ya entiendo. Pero eso suena un poco como<n> una\nlínea de una película deportiva<n> o algo así."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "¡Pero claro! ¡Cuenten conmigo! ¡Eso es exactamente\nlo <n>que necesito ahora mismo!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Jadeo... Resuello...</i> Eso fue más difícil<n> que la\nmaratón.",
+            "choice_data_list": [
+                "No pensé que correrías hasta el atardecer."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ahaha... Bueno, yo tampoco. Me sorprendí <n>incluso a\nmí misma allí."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Pero toda esa carrera seguro que aclaró<n> las cosas\nallá en la vieja mollera."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Hehe.",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, no es nada. Se me ocurrió una pequeña<n> cosa,\neso es todo."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Solo pensé... En realidad, soy bastante <n>buena\ncorriendo, ¿sabes?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Con la cabeza clara, parece que ha <n>ganado un poco\nde confianza."
+        }
+    ]
 }

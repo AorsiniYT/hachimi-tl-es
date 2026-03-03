@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Taiki Shuttle me pide que vea su<n>práctica de baile."
+      "text": "Taiki Shuttle me pide que vea su ensayo<n> de baile."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Que comience el espectáculo!<n>¿Listo para\nbailar, Entrenador?",
+      "text": "¡Vamos a empezar este show! ¿Listo para <n>bailar,\nEntrenador?",
       "choice_data_list": [
         "¿Yo también bailo?",
         "¿Yo también bailo?"
@@ -15,39 +15,30 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Claro que sí! ¡No es divertido bailar sola!"
+      "text": "¡Claro que sí! ¡No es divertido bailar solo!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¿Listo? ¡Voy a empezar la música!"
+      "text": "¿Todo listo? ¡Voy a empezar la música!"
     },
     {
       "name": "Monólogo",
-      "text": "Tomado por sorpresa, me encuentro<n>bailando con\nTaiki..."
+      "text": "Atrapado por sorpresa, me encuentro bailando<n> con\nTaiki..."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Yuju! ¡Sigue moviéndote!"
+      "text": "¡Vamos! ¡Sigue moviéndote!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Jeje. ¡Es tan divertido bailar contigo,<n>Entrenador!",
+      "text": "Jeje. ¡Es muy divertido bailar contigo,<n>\nEntrenador!",
       "choice_data_list": [
-        "M-me alegra oír eso..."
+        "Y-y me alegra escuchar eso..."
       ]
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¿Estás bien? Pareces un poco<n>agotado.",
-      "choice_data_list": [
-        "¡Bailaré hasta caer!",
-        "¡Bailaré hasta caer!",
-        "¿Podrías enseñarme la coreografía primero?"
-      ]
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "¿Estás bien? Pareces un poco<n>agotado.",
+      "text": "¿Estás bien? Pareces un poco <n>agotado.",
       "choice_data_list": [
         "¡Bailaré hasta caer!",
         "¡Bailaré hasta caer!",
@@ -56,35 +47,44 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¿Oh, en serio? ¡Suena bien para mí!<n>¡Me\nencantaría seguir bailando contigo!"
+      "text": "¿Estás bien? Pareces un poco <n>agotado.",
+      "choice_data_list": [
+        "¡Bailaré hasta caer!",
+        "¡Bailaré hasta caer!",
+        "¿Podrías enseñarme la coreografía primero?"
+      ]
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Este estudio es nuestra propia pista<n>de baile!\n¡Nadie se interpondrá<n>en nuestro camino!"
+      "text": "Oh, ¿de verdad? ¡Me suena bien! ¡Me encantaría<n>\nseguir bailando contigo!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Voy a poner la música de nuevo!<n>¡Así que\nlevantemos los talones! ♪"
+      "text": "¡Este estudio es nuestra propia pista de <n>baile!\n¡Nadie va a interponerse en nuestro<n> camino!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Voy a poner la música de nuevo! ¡Así que<n>\nlevantemos los pies! ♪"
     },
     {
       "name": "Monólogo",
-      "text": "Seguimos bailando hasta que suena<n>la campana\nfinal de la escuela."
+      "text": "Continuamos bailando hasta que suena la <n>campana\ndefinitiva de la escuela."
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Oh, ¿me precipité? ¡Lo siento!<n>Bien, esta vez lo\nharemos<n>despacito y con calma!"
+      "text": "Oh, ¿me adelanté? ¡Perdón por eso!<n> Muy bien, ¡esta\nvez lo tomaremos con<n> calma!"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Intenta seguirme el ritmo, Entrenador! ♪"
+      "text": "¡Intenta seguir mi ritmo, Entrenador! ♪"
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Veamos... Primero que nada, debes<n>levantar los\nbrazos así..."
+      "text": "Veamos... Antes que nada, tienes que levantar<n> los\nbrazos así..."
     },
     {
       "name": "Monólogo",
-      "text": "Explicarme la coreografía parece<n>ayudar también\na la propia<n>mejora de Taiki Shuttle."
+      "text": "Caminarme a través de la coreografía<n> parece\ntambién ayudar en la mejora <n>propia de Taiki\nShuttle."
     }
   ]
 }

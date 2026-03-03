@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "El Día de San Valentín ha llegado de nuevo, y\nla<n>academia está llena de emoción.\nPero<n>no<n>todos se sienten festivos..."
+      "text": "El Día de San Valentín ha llegado de nuevo,<n> y la\nacademia está envuelta en emoción.<n> Pero no todos\nse sienten festivos..."
     },
     {
       "name": "Maruzensky",
-      "text": "<i>Suspiro...</i> Este día siempre me pone un poco<n>triste...",
+      "text": "<i>Suspiro...</i> Este día siempre me pone un poco<n>\ntriste...",
       "choice_data_list": [
         "¿Pasó algo?",
         "¿Pasó algo?"
@@ -15,42 +15,42 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Sí, y fue un verdadero fiasco... Fue<n>durante\nel<n>intercambio de chocolates del año pasado."
+      "text": "Sí, y fue un total bajón... Fue durante <n>el\nintercambio de chocolates el año pasado."
     },
     {
       "name": "Maruzensky",
-      "text": "Quería hacer felices a las estudiantes\nmás<n>jóvenes, así<n>que me esforcé mucho con\nsus<n>regalos."
+      "text": "Quería hacer felices a las estudiantes<n> más\njóvenes, así que trabajé muy duro en sus<n> regalos."
     },
     {
       "name": "Maruzensky",
-      "text": "Intenté impresionar a todos\nhaciendo<n>ganache,<n>que en ese momento pensé que\nestaba<n>super de moda..."
+      "text": "Intenté impresionar a todos haciendo<n> ganache, que\nen ese momento pensé<n> que era lo más cool..."
     },
     {
       "name": "Maruzensky",
-      "text": "Todos estaban tan contentos, pero no me<n>di\ncuenta de la<n>verdad hasta después: ¡el\ngran<n>boom del ganache ya<n>había llegado\ny<n>pasado hace mucho!",
+      "text": "Todos estaban tan felices, pero no me di<n> cuenta de\nla verdad hasta más tarde—¡el gran<n> boom del\nganache ya había llegado y se <n>había ido para\nsiempre!",
       "choice_data_list": [
-        "Pero todos lo disfrutaron, así que salió\nbien,<n>¿verdad?"
+        "Pero a todos les gustó, así que salió bien,\n¿verdad?"
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "¡No, no salió bien! ¡Quería que\ntodos<n>disfrutaran lo<n>nuevo y trendy!"
+      "text": "¡No, no estuvo bien! ¡Quería que todos disfrutaran<n>\nde lo nuevo y genial!"
     },
     {
       "name": "Maruzensky",
-      "text": "Siempre intento estar al día con las<n>tendencias\nmás<n>geniales, así que meter la pata\nasí<n>fue<n>vergonzoso..."
+      "text": "Siempre intento estar al tanto de las<n> tendencias\nmás geniales, así que fallar<n> así fue\nmortificante..."
     },
     {
       "name": "Monólogo",
-      "text": "No creo que Maruzensky esté fuera de<n>onda<n>solo\nen este caso..."
+      "text": "No creo que Maruzensky esté <n>desactualizada\nlimitándose solo a este caso..."
     },
     {
       "name": "Maruzensky",
-      "text": "Por eso no tengo chocolate\npara<n>ti,<n>Entrenador. No podría soportar<n>que\nalgo así<n>vuelva a pasar."
+      "text": "Por eso no tengo chocolate para ti, <n>Entrenador.\nSimplemente no podía <n>soportar que algo así\nvolviera a pasar."
     },
     {
       "name": "Maruzensky",
-      "text": "Por eso no tengo chocolate\npara<n>ti,<n>Entrenador. No podría soportar<n>que\nalgo así<n>vuelva a pasar."
+      "text": "Por eso no tengo chocolate para ti, <n>Entrenador.\nSimplemente no podía <n>soportar que algo así\nvolviera a pasar."
     },
     {
       "name": "Maruzensky",
@@ -61,98 +61,98 @@
     },
     {
       "name": "Maruzensky",
-      "text": "¡Jeje! ¡Psic! ¡Es broma! ♪"
+      "text": "¡Jeje! ¡Broma! ¡Solo bromeaba! ♪"
     },
     {
       "name": "Maruzensky",
-      "text": "Siempre eres tan bueno conmigo, así<n>que ¡claro\nque<n>te voy a dar algo!"
+      "text": "Siempre eres tan bueno conmigo, así<n> que por\nsupuesto te voy a dar algo!"
     },
     {
       "name": "Maruzensky",
-      "text": "Vamos, vamos a conseguirte chocolate."
+      "text": "¡Anda, vamos a comprarte algo de chocolate!"
     },
     {
       "name": "Monólogo",
-      "text": "Pensé que solo íbamos a\ncomprar<n>chocolate,<n>pero parece que vamos en\nauto a<n>un lugar donde<n>nunca he estado..."
+      "text": "Pensé que solo íbamos a comprar <n>chocolate, pero\nparece que estamos conduciendo a <n>un lugar donde\nnunca he estado..."
     },
     {
       "name": "Maruzensky",
-      "text": "¡Bien, este es el lugar!"
+      "text": "¡Bueno, este es el lugar!"
     },
     {
       "name": "Maruzensky",
-      "text": "Hay montones de tiendas diferentes aquí,<n>así\nque<n>¡elige el chocolate que quieras!"
+      "text": "¡Hay montones de tiendas diferentes aquí, así<n> que\nelige el chocolate que quieras!"
     },
     {
       "name": "Maruzensky",
-      "text": "Si eliges tu propio chocolate, yo<n>no tendré\nque<n>preocuparme por cuál está de<n>moda ahora\nmismo!",
+      "text": "Si escoges tu propio chocolate, no <n>tendré que\npreocuparme por cuál está de <n>moda ahora mismo!",
       "choice_data_list": [
-        "¿Quieres que elija mi propio chocolate?\n¿Estás<n>segura?"
+        "¿Quieres que yo escoja mi propio chocolate? ¿Estás\nseguro?"
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "Si eliges tu propio chocolate, yo<n>no tendré\nque<n>preocuparme por cuál está de<n>moda ahora\nmismo!",
+      "text": "Si escoges tu propio chocolate, no <n>tendré que\npreocuparme por cuál está de <n>moda ahora mismo!",
       "choice_data_list": [
-        "¿Quieres que elija mi propio chocolate?\n¿Estás<n>segura?"
+        "¿Quieres que yo escoja mi propio chocolate? ¿Estás\nseguro?"
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "¡Todo bien! ¡Solo piensa que\nestamos<n>de<n>compras juntos!"
+      "text": "¡No te preocupes! ¡Solo piensa que estamos<n> de\ncompras juntos!"
     },
     {
       "name": "Maruzensky",
-      "text": "No seas tímido. ¡Elige lo que te guste! ♪"
+      "text": "No seas tímido. ¡Escoge lo que quieras! ♪"
     },
     {
       "name": "Monólogo",
-      "text": "Maruzensky y yo la pasamos\ngenial<n>eligiendo<n>chocolate juntos."
+      "text": "Maruzensky y yo nos divertimos <n>mucho escogiendo\nchocolate juntos."
     },
     {
       "name": "Maruzensky",
-      "text": "Esto no es cualquier chocolate, que<n>lo\nsepas.<n>¡Es una golosina artesanal<n>hecha en\ncasa!"
+      "text": "Esto no es <i>cualquier</i> chocolate,<n> que conste. ¡Es un\ndulce artesanal<n> casero!"
     },
     {
       "name": "Maruzensky",
-      "text": "Así puedo mostrar mi\nagradecimiento<n>sin<n>preocuparme por lo que esté\nde<n>moda ahora!"
+      "text": "Así puedo mostrar mi agradecimiento<n> sin\npreocuparme por lo que está de moda<n> ahora!"
     },
     {
       "name": "Maruzensky",
-      "text": "¡Casi no podía contenerme de la<n>emoción\ncuando<n>lo estaba haciendo! ¡No dejaba\nde<n>imaginar tu cara<n>feliz cuando lo<n>pruebes!\n♪",
+      "text": "¡Estaba prácticamente saltando por la<n> habitación\ncuando lo hacía! ¡No dejaba<n> de imaginarme tu cara\nfeliz cuando lo<n> comes! ♪",
       "choice_data_list": [
         "¡Muchas gracias!"
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "¡Jejeje! ¡De nada!"
+      "text": "¡Ehehe! ¡De nada!"
     },
     {
       "name": "Maruzensky",
-      "text": "...Entonces, Entrenador, ¿dónde está tu<n>casillero de zapatos?",
+      "text": "...Así que, Entrenador, ¿dónde está tu zapatero?",
       "choice_data_list": [
-        "Espera, ¿mi qué?"
+        "Espera, ¿mi qué ahora?"
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "...Entonces, Entrenador, ¿dónde está tu<n>casillero de zapatos?",
+      "text": "...Así que, Entrenador, ¿dónde está tu zapatero?",
       "choice_data_list": [
-        "Espera, ¿mi qué?"
+        "Espera, ¿mi qué ahora?"
       ]
     },
     {
       "name": "Maruzensky",
-      "text": "Ya sabes, cuando le das chocolate\na<n>alguien,<n>lo pones en su casillero\nde<n>zapatos, ¿verdad?"
+      "text": "Sabes, cuando le das chocolate<n> a alguien, lo pones\nen su <n>zapatero, ¿verdad?"
     },
     {
       "name": "Maruzensky",
-      "text": "¡Lo hice del tamaño perfecto para que<n>quepa!\nAsí<n>que vamos, ¿dónde está?"
+      "text": "¡Lo hice del tamaño exacto para que quepa! Así<n> que\nvamos, ¿dónde está?"
     },
     {
       "name": "Monólogo",
-      "text": "Es una forma bastante anticuada de<n>recibir\nun<n>regalo, pero igual estoy agradecido."
+      "text": "Es una forma bastante anticuada de recibir<n> un\nregalo, pero aun así estoy agradecida."
     }
   ]
 }

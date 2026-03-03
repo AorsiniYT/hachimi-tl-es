@@ -2,88 +2,91 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "エイシンフラッシュとの\r\nトレーニングを終えた後……。"
+      "name": "Monólogo",
+      "text": "Después de mi sesión de entrenamiento con <n>Eishin\nFlash..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "あら、ナカヤマさん。\r\n今からトレーニングですか？"
+      "name": "Eishin Flash",
+      "text": "Oh, Nakayama. ¿Estás a punto de comenzar<n> a\nentrenar?"
     },
     {
-      "name": "ナカヤマフェスタ",
-      "text": "まァな……しかし、\r\nどうにもやる気がしねぇ。"
+      "name": "Nakayama Festa",
+      "text": "Podría decirse que sí... Pero no me siento con\nganas<n> ahora mismo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そうですか……\r\nもしかして、どこか調子が悪いとか？"
+      "name": "Eishin Flash",
+      "text": "¿Ah, sí? ¿Estás enfermo,<n> quizás?"
     },
     {
-      "name": "ナカヤマフェスタ",
-      "text": "そういうんじゃあねぇよ。\r\n練習じゃ、スリルが足りねぇってだけさ。"
+      "name": "Nakayama Festa",
+      "text": "No es eso. Simplemente no hay nada emocionante<n> en\nla práctica, ¿sabes?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……スリル、ですか。"
+      "name": "Eishin Flash",
+      "text": "No puedo decir que haya pensado en eso<n> antes..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "では、誰かと併走などしてみたら\r\nいかがでしょう？"
+      "name": "Eishin Flash",
+      "text": "¿Por qué no intentas hacer carrera en pareja<n> con\nun compañero?"
     },
     {
-      "name": "ナカヤマフェスタ",
-      "text": "併走か、そりゃあいい！\r\nアツい競り合いを楽しめそうだ。"
+      "name": "Nakayama Festa",
+      "text": "¿Carrera en <i>pareja? ¡Eso <i>sí</i> suena divertido!<n> Algo\nde competencia feroz debería funcionar."
     },
     {
-      "name": "ナカヤマフェスタ",
-      "text": "もちろん、言い出しっぺの\r\nアンタが付き合ってくれるんだろ？"
+      "name": "Nakayama Festa",
+      "text": "Tú fuiste quien lo mencionó, así que <n>¿por qué no\neres mi compañero de carrera?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私ですか？\r\n確かに、それがよさそうですね。"
+      "name": "Eishin Flash",
+      "text": "¿Yo? Supongo que estaría bien."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "あの、トレーナーさん。ナカヤマさんに\r\n付き合ってきてもいいでしょうか？",
+      "name": "Eishin Flash",
+      "text": "Disculpa, Entrenador. ¿Puedo tener tu<n> permiso para\nunirme a Nakayama?",
       "choice_data_list": [
-        "行っておいで！",
-        "今日はもう休まないと"
+        "¡Adelante!",
+        "Necesitas descansar ahora."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ありがとうございます。"
+      "name": "Eishin Flash",
+      "text": "Gracias."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "熱いスリルをお望みでしたね。\r\nご期待に添えるよう、全力で走ります。"
+      "name": "Eishin Flash",
+      "text": "Si es competencia emocionante lo que anhelas,<n>\nentonces no me contendré. Haré todo lo <n>posible por\ncumplir tus expectativas."
     },
     {
-      "name": "ナカヤマフェスタ",
-      "text": "ククッ、ハハッ……！\r\nいいねぇ、そうこなくっちゃなァ！"
+      "name": "Nakayama Festa",
+      "text": "¡Je! ¡Jaja! Me gusta cómo piensas!"
     },
     {
-      "text": "こうして、2人は併走トレーニングに\r\n打ち込んだのだった。"
+      "name": "Monólogo",
+      "text": "Y así, las dos se lanzan directamente a la carrera<n>\nen pareja."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……承知しました。\r\n練習のし過ぎはよくありませんね。",
+      "name": "Eishin Flash",
+      "text": "Entendido. Demasiada práctica <n>ciertamente puede\nser perjudicial.",
       "choice_data_list": [
-        "日を改めて、併走しよう！"
+        "¡Puedes hacer carrera en pareja otro día!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……！\r\nはい、それがいいですね。"
+      "name": "Eishin Flash",
+      "text": "¡Sí! Eso estaría bien."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "すみませんが、後日お付き合いしますので、\r\n空いている日を教えていただけますか？"
+      "name": "Eishin Flash",
+      "text": "Disculpa, pero ¿podemos reprogramar para<n> otro\nmomento? ¿Cuándo tienes un <n>espacio libre?"
     },
     {
-      "name": "ナカヤマフェスタ",
-      "text": "口約束にする気はねぇってか……。\r\nったく、律儀なお嬢さんだぜ。"
+      "name": "Nakayama Festa",
+      "text": "¿No conformes con solo un acuerdo verbal, <n>eh?\nSeguro que te gusta hacer las cosas bien."
     },
     {
-      "text": "エイシンフラッシュは併走の約束をし、\r\nこの日はまっすぐ寮に帰るのだった。"
+      "name": "Monólogo",
+      "text": "Después de que Eishin Flash establece un día <n>para\nhacer carrera en pareja con Nakayama Festa,<n>\nregresa directamente a su dormitorio."
     }
   ]
 }

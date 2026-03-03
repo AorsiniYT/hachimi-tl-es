@@ -3,29 +3,29 @@
   "text_block_list": [
     {
       "name": "Gold City",
-      "text": "Gané...",
+      "text": "Gan...",
       "choice_data_list": [
-        "¡Felicidades!"
+        "¡Felicitaciones!"
       ]
     },
     {
       "name": "Gold City",
-      "text": "...Pero algo no encaja. Como que simplemente<n>no\nse <i>siente</i> bien.",
+      "text": "...Algo no encaja, aunque. Como que simplemente<n> no\n<i>se <i>siente</i> bien.",
       "choice_data_list": [
         "Aun así, esta victoria es tuya.",
         "Aun así, esta victoria es tuya.",
-        "Quizás no tenga que hacerlo.",
-        "Quizás no tenga que hacerlo."
+        "Quizás no tiene por qué.",
+        "Quizás no tiene por qué."
       ]
     },
     {
       "name": "Gold City",
-      "text": "...Pero algo no encaja. Como que simplemente<n>no\nse <i>siente</i> bien.",
+      "text": "...Algo no encaja, aunque. Como que simplemente<n> no\n<i>se <i>siente</i> bien.",
       "choice_data_list": [
         "Aun así, esta victoria es tuya.",
         "Aun así, esta victoria es tuya.",
-        "Quizás no tenga que hacerlo.",
-        "Quizás no tenga que hacerlo."
+        "Quizás no tiene por qué.",
+        "Quizás no tiene por qué."
       ]
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "Gold City",
-      "text": "Antes, hubiera estado como \"¡Ja! ¡Te<n>gané!\" pero\nya no me siento así. <n>Aunque <i>sí</i> me\nalegra haber podido<n>correr bien..."
+      "text": "Antes, habría sido como \"¡Ja! ¡En tu <n>cara!\" pero\nya no me siento así. Me <n><i>alegra</i> haber podido correr\nbien, aunque..."
     },
     {
       "name": "Gold City",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Gold City",
-      "text": "Supongo que solo diré que estoy<n>\"feliz\" y lo\ndejaremos ahí."
+      "text": "Supongo que solo diré que estoy \"contenta\"<n> y\npunto."
     }
   ]
 }

@@ -2,103 +2,106 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "ある日、チームトレーニングに行くと\nハルウララが歌を歌っていた。"
+      "name": "Monólogo",
+      "text": "Un día, de camino al entrenamiento, escucho a<n> Haru\nUrara canturreando para sí misma."
     },
     {
-      "name": "ハルウララ",
-      "text": "イケイケゴーゴー、がんばれウララ！"
+      "name": "Haru Urara",
+      "text": "¡Vamos, vamos! ¡Tú puedes, Urara!"
     },
     {
-      "name": "ハルウララ",
-      "text": "走れっ、走れっ、ランランウララ！",
+      "name": "Haru Urara",
+      "text": "¡Corre rápido, corre rápido! ¡Tú puedes <n>ganar,\nUrara!",
       "choice_data_list": [
-        "なんの歌？"
+        "¿Qué estás cantando?"
       ]
     },
     {
-      "name": "ハルウララ",
-      "text": "あ、トレーナー！\nあのね、チームの応援歌考えてたんだ！"
+      "name": "Haru Urara",
+      "text": "¡Oh, hola, Entrenador! ¡Es una canción de ánimo\nque<n> se me ocurrió para nuestro equipo!"
     },
     {
-      "name": "ハルウララ",
-      "text": "野球はね、チームのみんなで\n歌を歌って応援したりするんだよ！"
+      "name": "Haru Urara",
+      "text": "¿Sabías que los equipos de béisbol cantan\ncanciones<n> de ánimo para ponerse nerviosos?"
     },
     {
-      "name": "ハルウララ",
-      "text": "昨日、漫画で読んだの！"
+      "name": "Haru Urara",
+      "text": "¡Me enteré ayer de un cómic que <n>estaba leyendo!"
     },
     {
-      "text": "エッヘンと胸を張るハルウララ。\nどんな歌が出来たのか、少し気になった。",
+      "name": "Monólogo",
+      "text": "Haru Urara hincha el pecho con <n>orgullo. Tengo\ncuriosidad por ver qué ha <n>ideado hasta ahora.",
       "choice_data_list": [
-        "聴かせてくれる？"
+        "¿Puedo escuchar la canción?"
       ]
     },
     {
-      "name": "ハルウララ",
-      "text": "いいよー！　まだ途中なんだけどね！"
+      "name": "Haru Urara",
+      "text": "¡Claro! Aunque solo estoy a la mitad."
     },
     {
-      "name": "ハルウララ",
-      "text": "イケイケゴーゴー、がんばれウララ♪\n走れっ、走れっ、ランランウララ♪"
+      "name": "Haru Urara",
+      "text": "¡Vamos, vamos! ¡Tú puedes, Urara!<n> ♪ ¡Corre rápido,\ncorre rápido! ¡Tú puedes<n> ganar, Urara! ♪"
     },
     {
-      "name": "ハルウララ",
-      "text": "…………。",
+      "name": "Haru Urara",
+      "text": "...",
       "choice_data_list": [
-        "あ、終わり？"
+        "A-ah, ¿eso es todo?"
       ]
     },
     {
-      "name": "ハルウララ",
-      "text": "うん！　あ、でもすぐ考えられるよ！\n次はねぇ……。"
+      "name": "Haru Urara",
+      "text": "¡Sí! Oh, pero puedo idear más...<n> A ver..."
     },
     {
-      "name": "ハルウララ",
-      "text": "イケイケゴーゴー、チーターさんみたいに！\r\nぴょんぴょんランラン、ウサギさんみたいに！"
+      "name": "Haru Urara",
+      "text": "¡Vamos, vamos! ¡Corre tan rápido como un <n>guepardo!\n¡Corre rápido, corre rápido! ¡Escapa<n> como un\nconejo!"
     },
     {
-      "name": "ハルウララ",
-      "text": "パオンパオンはぞーさん！\nガオーガオーはくまさん！",
+      "name": "Haru Urara",
+      "text": "¡Pisotón, pisotón va el elefante! <n>¡Rugido, rugido\nva el oso!",
       "choice_data_list": [
-        "（……？）"
+        "(¿De dónde sale esto?)"
       ]
     },
     {
-      "name": "ハルウララ",
-      "text": "ケロケロケロケロかえるさん！\nふわふわふわふわちょうちょさん！"
+      "name": "Haru Urara",
+      "text": "¡Croac, croac va la rana! ¡Aleteo, <n>aleteo va la\nmariposa!"
     },
     {
-      "name": "ハルウララ",
-      "text": "みんなで仲良くおどりましょっ！\n楽しく楽しく、おどりましょっ！",
+      "name": "Haru Urara",
+      "text": "¡Ahora bailemos todos juntos! ¡Divirtámonos<n> todos\njuntos!",
       "choice_data_list": [
-        "（……おどり……？）"
+        "(¿¡Por qué ahora hay baile!?)"
       ]
     },
     {
-      "name": "ハルウララ",
-      "text": "ランランラン！　ルンルンルーン！\nパンパカパーン！　ピンピカリーン！"
+      "name": "Haru Urara",
+      "text": "¡La, la, la! ¡La-dee-da! ¡Bam-bam-crash!<n> ¡Brilla,\nbrilla, chispa!"
     },
     {
-      "name": "ハルウララ",
-      "text": "ありがとうございましたー！",
+      "name": "Haru Urara",
+      "text": "¡Gracias por escuchar!",
       "choice_data_list": [
-        "（終わった……！）"
+        "(¡Uf, se acabó!)"
       ]
     },
     {
-      "name": "ハルウララ",
-      "text": "あははっ、楽しかった！　応援歌、\nみんなにも教えてあげなきゃねっ！"
+      "name": "Haru Urara",
+      "text": "Jej, ¡eso fue súper divertido! ¿Verdad? ¡Hora de<n>\nenseñarle las palabras a todos!"
     },
     {
-      "name": "ハルウララ",
-      "text": "えーっと、歌詞は……なんだったっけ？"
+      "name": "Haru Urara",
+      "text": "Espera... ¿Cómo era?"
     },
     {
-      "name": "ハルウララ",
-      "text": "あはははっ！　忘れちゃったー！"
+      "name": "Haru Urara",
+      "text": "¡Jajaja! ¡Ups, lo olvidé por completo!"
     },
     {
-      "text": "Después, crear canciones de apoyo improvisadas se\r\nhizo popular en el equipo, y <chrname> también\npareció sentirse estimulada."
+      "name": "Monólogo",
+      "text": "Después, se convierte en una cosa con todo<n> el\nequipo improvisar canciones de ánimo <n>en el\nmomento, y <chrname> <n>también se mete mucho en eso."
     }
   ]
 }

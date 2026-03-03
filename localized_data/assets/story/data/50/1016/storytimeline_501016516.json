@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Veo a Narita Brian y Biwa Hayahide en<n>un local\nde ramen."
+      "text": "Veo a Narita Brian y Biwa Hayahide en una<n> tienda\nde ramen."
     },
     {
       "name": "Narita Brian",
-      "text": "Ahhh, eso sí que cayó bien."
+      "text": "¡Ah, eso estuvo perfecto!"
     },
     {
       "name": "Biwa Hayahide",
@@ -15,104 +15,104 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...Bueno, voy a terminar aquí."
+      "text": "...Bueno, me voy ya."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¿Ya te vas? ¿No quieres dejar que tu<n>comida se\nasiente primero?",
+      "text": "¿Ya te vas? ¿No quieres esperar a que<n> se te\nasiente la comida?",
       "choice_data_list": [
-        "¿Almorzando juntas?"
+        "¿Comiendo juntos?"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "...Oh, eres tú. No, simplemente<n>coincidimos en\nestar aquí."
+      "text": "...Oh, eres tú. No, solo pasó que ambos<n> estábamos\naquí."
     },
     {
-      "name": "Dueño del local de ramen",
-      "text": "¡Bienvenido! ¡Avísame cuando estés<n>listo para\nordenar!"
+      "name": "Dueño de la tienda de ramen",
+      "text": "¡Bienvenido! ¡Avísame cuando estés<n> listo para\npedir!"
     },
     {
-      "name": "Dueño del local de ramen",
-      "text": "¡Tenemos una oferta especial! ¡La<n>Montaña de\nCerdo Asado!",
+      "name": "Dueño de la tienda de ramen",
+      "text": "¡Tenemos una especialidad en oferta! ¡La Montaña<n>\nde Cerdo Asado!",
       "choice_data_list": [
         "Montaña de Cerdo Asado..."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "Está delicioso. Cada bocado era tan<n>jugoso, que\ncasi era como caldo de carne."
+      "text": "Está delicioso. Cada bocado estaba tan <n>jugoso que\ncasi era como caldo de carne."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¿No estás un poco demasiado<n>enfocada en la\ncarne? Incluso pusiste<n>todas tus verduras en mi\ncuenco."
+      "text": "¿No estás un poco demasiado enfocado en la<n> carne?\nHasta pusiste todas tus verduras en<n> mi tazón."
     },
     {
       "name": "Narita Brian",
-      "text": "...No lo hice."
+      "text": "...No."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¡Sí que lo hiciste! ¡Te vi! ¡Necesitas<n>comer\nalgunas verduras también!"
+      "text": "¡Sí lo hiciste! ¡Te vi! ¡También <n>necesitas comer\nverduras!"
     },
     {
-      "name": "Dueño del local de ramen",
-      "text": "¡Ajaja! ¡Mientras lo hayas disfrutado,<n>estoy\nfeliz!"
+      "name": "Dueño de la tienda de ramen",
+      "text": "¡Ajajá! Mientras hayan disfrutado, ¡yo <n>soy feliz!"
     },
     {
-      "name": "Dueño del local de ramen",
-      "text": "Si te gustó tanto, ¿qué tal un poco<n>más de\ncerdo? De cortesía."
+      "name": "Dueño de la tienda de ramen",
+      "text": "Si les gustó tanto, ¿qué tal un poco más<n> de cerdo?\n¡Por cuenta de la casa!"
     },
     {
       "name": "Narita Brian",
       "text": "¿En serio?",
       "choice_data_list": [
-        "¿No crees que ya has comido suficiente por ahora?",
-        "Esa es una oferta difícil de rechazar, ¿no?"
+        "¿No crees que ya has tenido suficiente por ahora?",
+        "Es una oferta difícil de rechazar, ¿verdad?"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "...Supongo que tienes razón. Comer<n>demasiado\nsolo me ralentizará."
+      "text": "...Supongo que tienes razón. Comer demasiado<n> solo\nme hará más lento."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ciertamente. Creo que es una sabia<n>decisión. Das\nbuenos consejos, Entrenador.",
+      "text": "Ciertamente. Creo que es una decisión sabia.<n> Das\nbuenos consejos, entrenador.",
       "choice_data_list": [
         "Gracias, creo..."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "Tch. Qué comentario sin sentido. Te<n>estás\nesforzando demasiado en hacer<n>de hermana\nmayor."
+      "text": "Tch. Qué comentario sin sentido. Estás<n> intentando\ndemasiado hacer el papel de hermana<n> mayor."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Bueno, yo <i>soy</i> tu hermana mayor..."
+      "text": "Bueno, <i>soy</i> tu hermana mayor..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¡Oye, Brian! ¡No vamos a competir de<n>regreso!\n¡Ve más despacio!"
+      "text": "¡Oye, Brian! ¡No estamos volviendo a correr!\n<n>¡Despacio!"
     },
     {
       "name": "Monólogo",
-      "text": "Mientras observo el divertido<n>intercambio\nentre las hermanas, ordeno<n>para mí la Montaña\nde Cerdo Asado."
+      "text": "Mientras observo el entretenido<n> intercambio entre\nlas hermanas, me pido la<n> Montaña de Cerdo Asado."
     },
     {
       "name": "Narita Brian",
-      "text": "...De eso estoy hablando. ¡Hay que<n>terminar\nhasta el último bocado!"
+      "text": "...Eso es de lo que hablo. ¡Tengo que <n>terminar\ncada último bocado!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¡Eso es absurdo! ¡¿Vas a comer el<n>cerdo\nsolo?!"
+      "text": "¡Eso es absurdo! ¿Vas a comer <n>el cerdo solo?!"
     },
     {
       "name": "Narita Brian",
-      "text": "¿Por qué no? Oye, ¡acepto ese cerdo<n>extra!"
+      "text": "¿Por qué no? ¡Oye, acepto ese <n>cerdo extra!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...Vaya."
+      "text": "...Uf."
     },
     {
       "name": "Narita Brian",
@@ -120,19 +120,19 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "El dueño estaba tan impresionado<n>contigo que\nsiguió trayendo más..."
+      "text": "El dueño quedó tan impresionado <n>contigo que siguió\ntrayendo más..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¿Vas a estar bien? Claramente<n>excediste la\ncantidad apropiada de<n>comida para el día..."
+      "text": "¿Vas a estar bien? Claramente<n> has excedido la\ncantidad apropiada<n> de comida para el día..."
     },
     {
       "name": "Narita Brian",
-      "text": "No es un problema... En cualquier<n>caso... Lo\nquemaré corriendo en<n>poco tiempo..."
+      "text": "No es un problema... De todos modos... Lo quemaré<n>\ncorriendo en un santiamén..."
     },
     {
       "name": "Monólogo",
-      "text": "Aunque Narita Brian ciertamente<n>parece haber\ndisfrutado del cerdo asado, puede<n>que se haya\npasado..."
+      "text": "Aunque Narita Brian ciertamente parece<n> haber\ntenido suficiente de cerdo asado, puede<n> haberse\nexcedido..."
     }
   ]
 }

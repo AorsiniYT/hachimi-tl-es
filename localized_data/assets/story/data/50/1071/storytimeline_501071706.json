@@ -1,0 +1,223 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Ardan",
+            "text": "Vaya... esta comida tiene una <n>apariencia bastante\ndistintiva, ¿verdad?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "¡Oh, vaya! La decoración de este <n>restaurante es\nextraña en sí misma, pero la <n>comida es aún más...\n¿Cómo decirlo...",
+            "choice_data_list": [
+                "Ominous...",
+                "Ominous..."
+            ]
+        },
+        {
+            "text": "Un tazón de lo que solo puede describirse como alquitrán negro\nburbujea ante mí.",
+            "name": "Monólogo"
+        },
+        {
+            "text": "Todo empezó con una invitación que <n>Mejiro Ardan me\nhizo mientras volvíamos<n> de una excursión.",
+            "name": "Monólogo"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Por cierto, Fine y yo tenemos planes para<n>\nreunirnos en un restaurante pronto. Eres muy<n>\nbienvenida a unirte a nosotros para la comida<n> si\nquieres.",
+            "choice_data_list": [
+                "¿Yo? ¡Sí, por favor!",
+                "¿Yo? ¡Sí, por favor!"
+            ]
+        },
+        {
+            "text": "Después de eso, me llevaron a un restaurante\n<n>sorprendentemente inquietante con un letrero\nafuera que<n> decía \"Sabor de la Oscuridad - Sombre\nTotale.\"",
+            "name": "Monólogo"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Gracias de nuevo por tratarme a <n>ese delicioso\nramen el otro día, Fine."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "<i>Esperaba </i>tratarte a una experiencia <n>memorable como\nmuestra de agradecimiento—"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "¡Y elegiste el lugar correcto! ¡Definitivamente<n>\nveo que podemos hacer grandes <n>recuerdos aquí! ¡Es\nmi primera visita, después <n>de todo!",
+            "choice_data_list": [
+                "(Eso no es una sorpresa...)"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ah, me alegra escuchar eso... Debo <n>admitir que soy\nbastante inexperta cuando<n> se trata de salir a\ncomer con amigas."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "¡En ese caso, aprovechemos al máximo<n> el día de\nhoy! Disculpa, ¿te <n>importaría servir un poco de\neso en esos<n> tazones?",
+            "choice_data_list": [
+                "Eh, claro...",
+                "Eh, claro..."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ten cuidado. Dentro de la sopa,<n> parece haber—"
+        },
+        {
+            "text": "(¡Blup! ¡Splash!)",
+            "choice_data_list": [
+                "Whoa?!",
+                "Whoa?!"
+            ],
+            "name": "Monólogo"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Algo tentacular. ...Mis disculpas.<n> Debí haberte\nadvertido antes."
+        },
+        {
+            "text": "¡Pero los ingredientes de la sopa no <n>se supone que\nse muevan?! Incluso aterrorizada,<n> de alguna manera\nlogro servir la <n>sopa para todos.",
+            "name": "Monólogo"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "¡Gracias! Ahora, veamos cómo sabe."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "También probaré un poco.",
+            "choice_data_list": [
+                "...Al ataque—¡Ugh?!"
+            ]
+        },
+        {
+            "text": "Sudando a mares, acerco un trozo sólido<n> a mis\nlabios. El caos personificado<n> está entre mis\npalillos. ¿Es pescado?<n> ¿Carne? ¿Algún tipo de\npudín?",
+            "name": "Monólogo"
+        },
+        {
+            "text": "Es como si el chef combinara todos los <n>sabores en\nexistencia en una sola bocanada. Mi<n> lengua se\nentumece. ¡La oscuridad me <n>consume!",
+            "name": "Monólogo"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "¡V-vaya?! ...¡Este sabor es otra <n>cosa! <i>¡Increíble!\n¡Nunca </i>he probado<n> nada igual antes!"
+        },
+        {
+            "text": "Contra todo pronóstico, Fine Motion <n>parece estar\ndisfrutándolo. Pero este sabor... <n>Lucho contra él\ntodo lo que puedo, y justo <n>cuando estoy a punto de\ndejar<n> mis palillos...",
+            "name": "Monólogo"
+        },
+        {
+            "text": "<i>Clink.</i>",
+            "name": "Monólogo"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ya veo... Así <i>que <i>esto</i> es el \"sabor de la\noscuridad\"..."
+        },
+        {
+            "text": "Por el rabillo del ojo, veo que Mejiro<n> Ardan ha\nterminado hasta la última<n> gota de su sopa!",
+            "choice_data_list": [
+                "¿Te gustó?"
+            ],
+            "name": "Monólogo"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Fue... único. Su sabor era algo similar<n> al de la\nmedicina herbal, los alimentos<n> saludables, cosas\nde ese tipo..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Dicho esto, estoy bastante acostumbrada a <n>esos\nsabores. Sí, casi no me di cuenta de lo<n> rápido que\nla terminé.",
+            "choice_data_list": [
+                "¡Ardan! ¡Eres tan... fuerte!",
+                "¡Ardan! ¡Eres tan... fuerte!",
+                "¡Voy a terminar la mía también!",
+                "¡Voy a terminar la mía también!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Dicho esto, estoy bastante acostumbrada a <n>esos\nsabores. Sí, casi no me di cuenta de lo<n> rápido que\nla terminé.",
+            "choice_data_list": [
+                "¡Ardan! ¡Eres tan... fuerte!",
+                "¡Ardan! ¡Eres tan... fuerte!",
+                "¡Voy a terminar la mía también!",
+                "¡Voy a terminar la mía también!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "¿Fuerte... dices?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, jeje, disculpa. Es solo una <n>sorpresa oír esa\npalabra y mi nombre<n> en la misma frase."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Pero oírme describir así... Me recompensa<n> por\nhaber probado todas esas medicinas<n> diferentes a lo\nlargo de los años."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "¡Solo demuestra que incluso los sabores<n> más\nextraños tienen sus lados positivos!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Estoy de acuerdo. Jeje. Podría ser lindo<n> tener más\naventuras como esta, de vez en<n> cuando. ♪"
+        },
+        {
+            "text": "Si pienso en la sopa como una mezcla<n> de hierbas,\n¡creo que puedo hacerlo! <n>Tomando mis palillos,\ncontinúo comiendo...",
+            "name": "Monólogo"
+        },
+        {
+            "text": "Y siento que... me vuelvo un poco más fuerte<n> en el\nproceso.",
+            "name": "Monólogo"
+        },
+        {
+            "text": "Mejiro Ardan se tomó la molestia<n> de invitarme.\n¿Qué clase de invitado<n> no termina lo que le\nsirven? Apretando <n>los dientes, ¡cojo mis palillos\nuna<n> vez más!",
+            "name": "Monólogo"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Disculpa, pero... el color parece <n>estar\ndesapareciendo de tu rostro. ¿Estás<n> bien?",
+            "choice_data_list": [
+                "¡E-estoy bien! ¡Esto está bueno!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Por favor no te sientas presionada a comer.<n> Las\ndos somos perfectamente capaces de terminar<n> el\nresto..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "¡Claro que sí! Creo que también me<n> estoy\nacostumbrando al sabor. Aún <n>así, no creo olvidar\neste sabor <n>pronto...",
+            "choice_data_list": [
+                "...Done!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Vaya, eso fue rápido. ¿Te<n> gustó?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "¿Quieres repetir? Parece que puedes <n>elegir entre\narroz con azafrán y fideos de<n> jade como\nacompañamiento también. ¿Cuál<n> te apetece?",
+            "choice_data_list": [
+                "¡Paso!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "¿En serio? En ese caso, ¿pedimos eso <n>para nosotras\ndespués, Fine?"
+        },
+        {
+            "text": "Solo ahora noto lo cómoda que<n> se ve Mejiro Ardan\nmientras se <n>termina su segundo tazón de sopa.",
+            "name": "Monólogo"
+        },
+        {
+            "text": "Increíble... El día resulta ser <n>especial de\nverdad, al ser testigo<n> de una fortaleza inesperada\nen<n> Mejiro Ardan...",
+            "name": "Monólogo"
+        }
+    ]
+}

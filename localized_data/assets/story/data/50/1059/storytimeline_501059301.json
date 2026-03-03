@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento de verano finalmente ha <n>terminado..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Entrenador. Después de que volvamos a casa..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Bueno, no tiene nada que ver con el <n>entrenamiento,\npero hay algo que quiero hacer.",
+      "choice_data_list": [
+        "¿Ah, sí?"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Sí... Te avisaré cuando esté listo, así<n> que solo\nprepárate."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nuestra próxima carrera comenzará en cuanto<n>\ntermine el verano!"
+    }
+  ]
+}

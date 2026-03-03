@@ -3,22 +3,22 @@
   "text_block_list": [
     {
       "name": "Special Week",
-      "text": "Auuch..."
+      "text": "¡Ay..."
     },
     {
       "name": "Special Week",
-      "text": "<i>Uff...</i> No puedo creer que me lastimé durante<n>el entrenamiento...",
+      "text": "<i>Suspiro...</i> No puedo creer que me lastimé durante\n<n>el entrenamiento...",
       "choice_data_list": [
-        "Mejor lo dejamos por hoy.",
-        "Seremos más cuidadosos la próxima vez."
+        "Demos por terminado el día.",
+        "Tendremos más cuidado la próxima vez."
       ]
     },
     {
       "name": "Special Week",
-      "text": "¡Oh, no te preocupes! ¡Solo duele un poquito!\n¡Me<n>recuperaré super rápido!",
+      "text": "¡Oh, no te preocupes! ¡Solo duele un poco! <n>¡Estaré\ncomo nueva en un santiamén!",
       "choice_data_list": [
-        "Forzarte no va a ayudar.",
-        "Forzarte no va a ayudar."
+        "Excederte no va a ayudar.",
+        "Excederte no va a ayudar."
       ]
     },
     {
@@ -31,47 +31,44 @@
     },
     {
       "name": "Special Week",
-      "text": "Ngh... Tienes razón. Debería tomármelo con calma."
+      "text": "Ngh... Tienes razón. Debería tomarlo con calma."
     },
     {
-      "name": "Monólogo",
-      "text": "Después de atenderla, acordamos tomarnos<n>el\nresto del día libre, por si acaso."
-    },
-    {
-      "name": "Special Week",
-      "text": "Bueno, hora de descansar..."
+      "text": "Después de atenderla, acordamos tomarnos el <n>resto\ndel día libre, solo para estar seguros."
     },
     {
       "name": "Special Week",
-      "text": "Quizás me emocioné demasiado por<n>convertirme en\nla mejor Umamusume de<n>todo Japón..."
+      "text": "Okay, hora de descansar..."
     },
     {
       "name": "Special Week",
-      "text": "Ngh... Qué vergüenza."
-    },
-    {
-      "name": "Monólogo",
-      "text": "Después de atenderla, acordamos tomarnos<n>el\nresto del día libre, por si acaso."
+      "text": "Quizás estaba un poco demasiado ansiosa<n> por\nconvertirme en la mejor Umamusume en <n>todo Japón..."
     },
     {
       "name": "Special Week",
-      "text": "...No voy a dejarme desanimar por<n>algo\ncomo esto."
+      "text": "Ngh... Estoy tan avergonzada."
+    },
+    {
+      "text": "Después de atenderla, acordamos tomarnos el <n>resto\ndel día libre, solo para estar seguros."
     },
     {
       "name": "Special Week",
-      "text": "Mi mamá siempre decía que una lesión es<n>una\nmedalla de honor para una niña."
+      "text": "...No voy a desanimarme<n> por algo así."
     },
     {
       "name": "Special Week",
-      "text": "¡Así que estoy segura de que esta lesión<n>se\nconvertirá en una medalla que<n>muestre lo duro\nque trabajé para convertirme<n>en la mejor de\nJapón!"
+      "text": "Mi mamá siempre decía que una lesión es la<n> medalla\nde honor de un niño."
     },
     {
       "name": "Special Week",
-      "text": "¡Muy bien, me concentraré en recuperarme<n>para\npoder volver a entrenar!"
+      "text": "¡Así que estoy segura de que esta lesión se\nconvertirá<n> en una medalla que muestre lo duro que\ntrabajé para<n> convertirme en la mejor en Japón!"
     },
     {
-      "name": "Monólogo",
-      "text": "Después de atender la lesión de Special\nWeek,<n>sigo sus deseos y continuamos\nnuestro<n>entrenamiento."
+      "name": "Special Week",
+      "text": "Todo bien, me concentraré en la recuperación para\npoder<n> empezar a entrenar de nuevo!"
+    },
+    {
+      "text": "Después de atender la lesión de Special Week,<n> sigo\nsus deseos, y continuamos nuestro <n>entrenamiento."
     }
   ]
 }

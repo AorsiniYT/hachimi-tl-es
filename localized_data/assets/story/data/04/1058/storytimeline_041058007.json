@@ -3,104 +3,101 @@
   "text_block_list": [
     {
       "name": "Meisho Doto",
-      "text": "<I>Uff... Uff...</I> Goa—¿eh? M-mis pies! ¡Oh no,<n>¿me mordió un tiburón?!"
+      "text": "<i>Jadeo... Jadeo...</i> Fini—hm? ¿M-mis pies? Oh<n> no, ¿un\ntiburón me mordió?!"
     },
     {
       "name": "Meisho Doto",
-      "text": "Ah, ah... ¡Aaaahhh! E-entrenador, dime, ¿todavía<n>tengo piernas?",
+      "text": "Ah, ah... ¡Aaaahhh! E-Entrenador, dime, <n>¿todavía\ntengo piernas?",
       "choice_data_list": [
         "¿Eh?"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "S-se sienten raras, pero ¡estoy demasiado\nasustada<n>para mirar! Se sienten babosas...\n¿Están mis pies<n>dentro de la boca del tiburón?!",
+      "text": "S-se sienten raros, pero tengo demasiado miedo\n<n>para mirar! Se sienten todos pegajosos... ¿Mis\npies están<n> dentro de la boca del tiburón?!",
       "choice_data_list": [
-        "No, solo envueltos en algas."
+        "No, solo estás envuelta en algas."
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¡¿Algas?! Ah, tienes razón, estoy cubierta<n>de\nellas... Uf... Salté a<n>conclusiones de nuevo..."
+      "text": "¿Algas?! Ah, tienes razón, está por todas\n<n>partes... Uurgh... Otra vez saqué conclusiones\n<n>apresuradas..."
     },
     {
       "name": "Meisho Doto",
-      "text": "Lo siento... Monté un espectáculo, ¿verdad?\nAh,<n>p-pero creo que alcancé el<n>tiempo que\nquerías que lograra... ¿cierto?",
+      "text": "Lo siento... causé un escándalo de verdad,\n<n>¿verdad? Ah, p-pero creo que alcancé el<n> tiempo que\nquerías... ¿cierto?",
       "choice_data_list": [
-        "¡Sip, claro que sí!"
+        "¡Sí, seguro que lo hiciste!"
       ]
     },
     {
-      "name": "Monólogo",
-      "text": "Estamos a mitad del campamento de<n>verano de la\nacademia. Doto quizá<n>no haya cambiado mucho en\nactitud,<n>pero sus habilidades en la\ncarrera<n>mejoran constantemente.",
+      "text": "Vamos a mitad del campamento de verano<n> de la\nacademia. Doto quizá no haya cambiado<n> mucho en\ncuanto a su comportamiento, pero sus<n> habilidades\nde carrera están mejorando constantemente.",
       "choice_data_list": [
-        "¡Ahora eres tan fuerte!",
-        "¡Ahora eres tan fuerte!"
-      ]
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "¡No, todavía me falta mucho! P-pero si<n>por\ncasualidad—algún milagro—<n>mejore..."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "¡Definitivamente sería gracias a tu<n>guía!\n¡M-muchas gracias!",
-      "choice_data_list": [
-        "Nah, tu perseverancia es lo que te dio resultados.",
-        "Nah, tu perseverancia es lo que te dio resultados."
+        "¡Lo estás haciendo mejor!",
+        "¡Lo estás haciendo mejor!"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¡¿Qué?! N-no, t-te digo, solo soy<n>terca... Todo\nes gracias a tus<n>instrucciones claras.",
+      "text": "No, ¡aún me falta mucho por recorrer! P-pero si\n<n>por alguna casualidad—algún milagro—lograra<n>\nmejorar..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Entonces definitivamente sería gracias<n> a tu guía!\nM-muchas gracias!",
       "choice_data_list": [
-        "Bueno, tienes las habilidades para seguir esas\ninstrucciones."
+        "No, fue tu perseverancia lo que te dio resultados.",
+        "No, fue tu perseverancia lo que te dio resultados."
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¡¿Eh?! E-eso no—¡s-solo me va bien<n>porque tú te\ntomas en serio<n>entrenarme!",
+      "text": "¡¿Qué?! N-no, te digo que solo soy<n> terco... Todo\ngracias a tus instrucciones<n> claras.",
       "choice_data_list": [
-        "¡Pero es tu entusiasmo lo que me inspira!"
-      ]
-    },
-    {
-      "name": "Monólogo",
-      "text": "De algún modo, empezamos un ciclo<n>interminable\nde halagos. Aun así, es<n>una buena oportunidad\npara aumentar<n>la confianza de Doto, así que\ncontinúo..."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "¡Aaauuugh! P-p-por favor... ¡basta! ¡Lo siento!",
-      "choice_data_list": [
-        "Em, no hay necesidad de disculparse."
+        "Bueno, tienes las habilidades para llevar a cabo\nesas instrucciones."
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "D-de todos modos, ya no aguanto más...<n>Por\nfavor... Nunca me habían<n>halagado tanto... Uf..."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Pero... es lindo saber que crees tanto<n>en mí..."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Ojalá pudiera... agradecerte de alguna forma...",
+      "text": "¡¿Eh?! E-eso no es—Y-yo lo hago bien<n> solo porque\ntú te tomas en serio mi <n>entrenamiento!",
       "choice_data_list": [
-        "¿Qué dijiste?"
+        "Porque tu entusiasmo me inspira."
+      ]
+    },
+    {
+      "text": "De alguna manera, hemos empezado un ciclo\n<n>interminable de cumplidos. Aún así, esta es una\n<n>buena oportunidad para aumentar la confianza de\nDoto,<n> así que continúo..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Aaauuugh! P-p-p-por favor... ¡detente! ¡Lo\nsiento!",
+      "choice_data_list": [
+        "Um, no hay necesidad de disculparte."
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Ah... ¡V-volveré a correr!"
+      "text": "A-asi que, ya no puedo soportarlo <n>más... Por\nfavor... Nunca me habían halagado<n> tanto antes...\nUrgh..."
     },
     {
       "name": "Meisho Doto",
-      "text": "¡¿M-más algas?! ¡V-voy a resbalar y<n>caeeeeeer!"
+      "text": "Pero... es agradable saber que crees tanto<n> en\nmí..."
     },
     {
-      "name": "Monólogo",
-      "text": "Una vez que terminamos el entrenamiento del\ndía,<n>Meisho Doto y yo nos separamos,<n>y regreso\na los dormitorios solo... O eso<n>creía."
+      "name": "Meisho Doto",
+      "text": "Ojalá pudiera... agradecerte de alguna manera...",
+      "choice_data_list": [
+        "¿Qué fue eso?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ah... ¡Y-yo volveré a correr!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿M-más algas?! ¡V-voy a resbalar<n> y caaaer!"
+    },
+    {
+      "text": "Una vez que termina nuestro entrenamiento del<n> día,\nMeisho Doto y yo nos despedimos, y yo <n>me dirijo de\nvuelta a los dormitorios sola... O<n> eso creo."
     },
     {
       "name": "Meisho Doto",
@@ -108,82 +105,80 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "¡AY! Uf... ¿De dónde salió... esa<n>columna...",
+      "text": "¡AY! Urgh... ¿De dónde salió ese...<n> pilar...",
       "choice_data_list": [
         "¿Estás bien?"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¡Eyah! Ah, ¡s-sí! Lo siento...",
+      "text": "¡Ey! Ah, s-sí! Lo siento...",
       "choice_data_list": [
-        "¿Necesitas algo de mí?"
+        "¿Necesitas algo?"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Em... N-no realmente, pero... ¿quizá? No<n><I>necesito</I> nada, pero... em..."
+      "text": "Um... N-no realmente, pero... ¿quizá? No <n><i>necesito</i> nada, pero... um..."
     },
     {
-      "name": "Monólogo",
-      "text": "Doto lucha por encontrar las palabras,<n>pero sé\nque lo logrará si solo<n>espero. La observo con\ncalma mientras<n>reúne el valor para hacer su\npetición."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "¡EM!"
+      "text": "Doto lucha por encontrar las palabras<n> que\nnecesita, pero sé que lo logrará. Espero\n<n>pacientemente mientras reúne el valor <n>necesario\npara hacer su petición."
     },
     {
       "name": "Meisho Doto",
-      "text": "S-sé que esto podría ser solo una molestia<n>para\nti... y-y podríamos terminar<n>en un gran lío por\nmi culpa..."
+      "text": "¡U-UM!"
     },
     {
       "name": "Meisho Doto",
-      "text": "D-de hecho, en el peor caso, podríamos<n>quedar\natrapados en una explosión,<n>y la onda expansiva\nresultante—",
+      "text": "Y-yo sé que esto podría ser una molestia<n> para\nti... y-y podríamos terminar en un <n>gran lío por mi\nculpa..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "D-de hecho, en el peor de los casos, podríamos<n>\nquedar atrapados en una explosión, y<n> la onda\nexpansiva resultante—",
       "choice_data_list": [
-        "Está bien. Tú puedes."
+        "Está bien. Sigue."
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Em... ¡Q-quiero ver los fuegos artificiales! Así que..."
+      "text": "Um... ¡Y-yo quiero ver los fuegos artificiales!\nA-así que..."
     },
     {
       "name": "Meisho Doto",
-      "text": "V-ven conmigo... p-por favordfghjkl..."
+      "text": "V-ven conmigo... p-por favor..."
     },
     {
-      "name": "Monólogo",
-      "text": "Han pasado varias horas desde que acepté<n>la\ninesperada invitación de Meisho Doto.<n>Salimos\npara los fuegos poco después,<n>con Doto guiando\nel camino, pero..."
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "¡AAAAHHHHH! Probablemente los fuegos<n>y-a terminaron..."
+      "text": "Han pasado varias horas desde que acepté la\n<n>invitación inesperada de Meisho Doto. Salimos\nhacia<n> los fuegos artificiales poco después, con\nDoto<n> liderando el camino, pero..."
     },
     {
       "name": "Meisho Doto",
-      "text": "Lo siento, todo es porque me perdí...<n>Y luego me\natacó ese búho...",
+      "text": "¡AAAAHHHHH! Los fuegos artificiales probablemente<n>\nya terminaaaaron..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Lo siento, todo esto es porque me <n>perdí... Y luego\ncasi me secuestra ese<n> búho…",
       "choice_data_list": [
-        "Quién diría que los búhos eran tan feroces...",
-        "Quién diría que los búhos eran tan feroces..."
+        "¿Quién hubiera pensado que los búhos eran tan\nferoces?",
+        "¿Quién hubiera pensado que los búhos eran tan\nferoces?"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Uf... Pero sin importar lo que pasara, tú<n>nunca\nte diste por vencido...<n>Seguimos avanzando, pero\ncuando<n>finalmente llegamos... Nada."
+      "text": "Urgh... Pero no importa lo que pasara, <n>nunca te\ndiste la vuelta... Seguimos adelante,<n> pero ahora\nque finalmente llegamos... Nada."
     },
     {
       "name": "Meisho Doto",
-      "text": "V-vi en línea que este lugar es perfecto\npara<n>ver los fuegos... No mucha<n>gente lo\nconoce, así que seguro<n>tienes una buena vista..."
+      "text": "Y-yo vi en línea que este lugar es perfecto<n> para\nver los fuegos artificiales... No mucha<n> gente lo\nconoce, así que seguro tendrás una<n> buena vista..."
     },
     {
       "name": "Meisho Doto",
-      "text": "No sé por qué lo intento. Soy un\ndesastre<n>andante... No importa cuánto\nme<n>esfuerce, las cosas nunca salen bien..."
+      "text": "No sé por qué incluso lo intento. Soy un <n>desastre\nandante... No importa cuánto lo intente, las<n> cosas\nnunca salen bien..."
     },
     {
       "name": "Meisho Doto",
-      "text": "Yo también quería, de verdad,<n>hacerte feliz...",
+      "text": "Realmente, realmente quería hacerte feliz\n<n>también...",
       "choice_data_list": [
-        "Yo soy feliz."
+        "Estoy feliz."
       ]
     },
     {
@@ -192,18 +187,18 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "P-pero no hay fuegos. Caminaste todo eso<n>solo\npara mirar un cielo vacío..."
+      "text": "P-pero no hay fuegos artificiales. Caminaste<n> todo\neso solo para mirar un cielo vacío..."
     },
     {
       "name": "Meisho Doto",
-      "text": "Solo terminé desperdiciando tu tiempo de nuevo.<n>L-lo sien—",
+      "text": "Solo terminé desperdiciando tu tiempo de nuevo.<n>\nY-yo soy tan—",
       "choice_data_list": [
         "Doto."
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¡¿S-sí?!",
+      "text": "¿S-sí?!",
       "choice_data_list": [
         "Gracias por hacer tanto por mí.",
         "Gracias por hacer tanto por mí."
@@ -211,15 +206,13 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Y-yo... Uf... ¡Entrenador!"
+      "text": "Y-yo... Urgh... ¡Entrenador!"
     },
     {
-      "name": "Monólogo",
-      "text": "Claro, nos perdimos los fuegos, pero Doto<n>me\nmostró cuánto le importo. Justo cuando<n>estoy por\nsugerir verlos otro<n>día..."
+      "text": "Claro, nos perdimos los fuegos artificiales, <n>pero\nDoto me mostró cuánto se preocupa. Justo cuando<n>\niba a sugerir que viéramos los fuegos artificiales<n>\nen otro momento..."
     },
     {
-      "name": "Monólogo",
-      "text": "<I>Bum...</I>"
+      "text": "<i>Boom...</i>"
     },
     {
       "name": "Meisho Doto",
@@ -227,35 +220,32 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "¿E-eh? ¿Fuegos artificiales? P-pensé que ya<n>habrían terminado..."
+      "text": "¿C-cómo? ¿Fuegos artificiales? Y-yo pensé que <n>ya\nhabrían terminado..."
     },
     {
-      "name": "Monólogo",
-      "text": "Una búsqueda rápida en mi smartphone revela<n>que\nse retrasaron por algún<n>accidente no\nespecificado.",
+      "text": "Una búsqueda rápida en mi teléfono inteligente<n>\nrevela que se retrasaron debido a un <n>contratiempo\nno especificado.",
       "choice_data_list": [
-        "Qué bueno que nos perdimos. Los habríamos\nperdido de otra forma.",
-        "Qué bueno que nos perdimos. Los habríamos\nperdido de otra forma."
+        "Qué bueno que nos perdimos. Nos lo hubiéramos\nperdido si no.",
+        "Qué bueno que nos perdimos. Nos lo hubiéramos\nperdido si no."
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¿T-tú crees? ¿Eso significa... que mi<n>torpeza fue útil?"
+      "text": "¿C-crees? ¿Eso significa... que<n> mi torpeza fue\nútil?"
     },
     {
       "name": "Meisho Doto",
-      "text": "Ah, ¡¿q-qué estoy diciendo?! ¡Claro que\nno!<n>¡P-prometo ser más cuidadosa de<n>ahora en\nadelante! Pero..."
+      "text": "Ah, ¿q-qué estoy diciendo?! ¡Por supuesto que<n> no!\n¡Y-yo prometo ser más cuidadosa de ahora<n> en\nadelante! Pero..."
     },
     {
       "name": "Meisho Doto",
-      "text": "Ejeje... Me alegra haber investigado tanto. ♪"
+      "text": "Ehehe... Me alegra haber hecho toda esa\ninvestigación. ♪"
     },
     {
-      "name": "Monólogo",
-      "text": "Mientras Meisho Doto mira al cielo, la<n>luz de\nlos fuegos se refleja en<n>sus lágrimas,\nhaciéndola brillar a su vez."
+      "text": "Mientras Meisho Doto mira al cielo, la luz<n> de los\nfuegos artificiales se refleja en sus<n> lágrimas,\nhaciéndola brillar a su vez."
     },
     {
-      "name": "Monólogo",
-      "text": "Quizá... Solo quizá, ganó un poco de<n>confianza después de hoy."
+      "text": "Quizá... solo quizá, ha ganado un poco de<n>\nconfianza después de hoy."
     }
   ]
 }

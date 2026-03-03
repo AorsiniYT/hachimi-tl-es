@@ -2,35 +2,33 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
-      "text": "Un día de febrero, me dirijo a mi oficina<n>como\nde costumbre, cuando..."
+      "text": "Un día de febrero, voy a mi oficina<n> como siempre,\ncuando..."
     },
     {
       "name": "Narita Brian",
-      "text": "Al fin. Te estaba esperando."
+      "text": "Finalmente. He estado esperando."
     },
     {
       "name": "Narita Brian",
-      "text": "Vamos, mejor que comas ahora o se<n>echará a\nperder antes de que termines."
+      "text": "Vamos, más te vale comer ahora o se echará<n> a\nperder antes de que termines."
     },
     {
-      "name": "Monólogo",
       "text": "Miro hacia donde Narita Brian está señalando...",
       "choice_data_list": [
-        "¡Qué montón de chocolate!",
-        "¡Qué montón de chocolate!"
+        "¡Hay un montón de chocolate!",
+        "¡Hay un montón de chocolate!"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "¿Verdad? O sea, está bien que me\nregalen<n>chocolates, pero ojalá no lo\nhicieran<n>todos de una vez."
+      "text": "¿Verdad? O sea, está bien si la gente <n>quiere darme\nchocolates, pero ojalá no<n> lo hicieran todos a la\nvez."
     },
     {
       "name": "Narita Brian",
-      "text": "Empecemos por los que están más cerca de<n>su\nfecha de caducidad.",
+      "text": "Empecemos con los que están más cerca de su<n> fecha\nde caducidad.",
       "choice_data_list": [
-        "Pero, ¿no son estos <i>tus</i> chocolates?",
-        "Pero, ¿no son estos <i>tus</i> chocolates?"
+        "Pero, ¿no son <i>tus</i> chocolates?",
+        "Pero, ¿no son <i>tus</i> chocolates?"
       ]
     },
     {
@@ -39,27 +37,26 @@
     },
     {
       "name": "Narita Brian",
-      "text": "¡Tch! ¿Crees que voy a dejar que te<n>escapes de\ntus responsabilidades?"
+      "text": "¡Tch! ¿Crees que voy a dejar que te <n>salgas con la\ntuya de tus deberes?"
     },
     {
       "name": "Narita Brian",
-      "text": "Toma, mira esta tarjeta."
+      "text": "Aquí, echa un vistazo a esta tarjeta."
     },
     {
-      "name": "Monólogo",
-      "text": "Ante la insistencia de Narita Brian, miro\nla<n>tarjeta mensaje adjunta a una de las<n>cajas."
+      "text": "A insistencia de Narita Brian, miro la <n>tarjeta de\nmensaje adjunta a una de las<n> cajas."
     },
     {
-      "name": "Tarjeta Mensaje",
-      "text": "\"Querida Narita Brian,\nquiero ser como<n>tú. ¡Te ves tan genial cuando\ncorres!\""
+      "name": "Tarjeta de Mensaje",
+      "text": "\"Querida Narita Brian, ¡Quiero ser como <n>tú! ¡Te\nves tan genial cuando corres!\""
     },
     {
-      "name": "Tarjeta Mensaje",
-      "text": "\"También quiero agradecer de corazón<n>a tu\nentrenadora por apoyarte<n>siempre. ¡Ustedes dos\nrealmente son el mejor combo!\""
+      "name": "Tarjeta de Mensaje",
+      "text": "\"También quiero agradecer sinceramente a<n> tu\nentrenador por siempre apoyarte. ¡Ustedes<n> dos\nrealmente son la mejor combinación!\""
     },
     {
-      "name": "Tarjeta Mensaje",
-      "text": "\"¡Espero que ambas acepten este<n>chocolate como\nmuestra de mi<n>aprecio!\""
+      "name": "Tarjeta de Mensaje",
+      "text": "\"¡Espero que ambos acepten este<n> chocolate como\ntoken <n>de mi aprecio!\""
     },
     {
       "name": "Narita Brian",
@@ -70,27 +67,26 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Entonces, ¿estás lista?"
+      "text": "Entonces, ¿estás listo?"
     },
     {
-      "name": "Monólogo",
-      "text": "Y así, empezamos con la montaña<n>de chocolate..."
+      "text": "Y así, empezamos con la montaña<n> de chocolate..."
     },
     {
       "name": "Narita Brian",
-      "text": "<i>Suspiro...</i> ¿De verdad tenemos que\ncomer<n>chocolate otra vez mañana?",
+      "text": "<i>Suspiro...</i> ¿De verdad tenemos que<n> comer chocolate\nde nuevo mañana?",
       "choice_data_list": [
-        "Pero tenemos que asegurarnos de comerlo todo.",
-        "Pero tenemos que asegurarnos de comerlo todo."
+        "Tenemos que asegurarnos de comerlo todo, sin\nembargo.",
+        "Tenemos que asegurarnos de comerlo todo, sin\nembargo."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "Claro. No podemos ser irrespetuosas."
+      "text": "Por supuesto. No podemos ser irrespetuosos."
     },
     {
       "name": "Narita Brian",
-      "text": "Mi mamá y mi hermana son muy estrictas<n>con esto.\nMe dijeron que nunca<n>despreciara un gesto de\namabilidad."
+      "text": "Mi mamá y mi hermana son muy estrictas<n> con este\ntipo de cosas. Me dijeron que nunca<n> despreciara\nuna muestra de bondad."
     },
     {
       "name": "Narita Brian",
@@ -98,22 +94,20 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Este no es para las dos. Este es solo<n>para ti.",
+      "text": "Este no es para los dos. Este es<n> solo para ti.",
       "choice_data_list": [
         "Gracias."
       ]
     },
     {
-      "name": "Monólogo",
-      "text": "Abro el paquete y encuentro tres<n>chocolates\npequeños que suelo ver en las<n>tiendas de\nconveniencia."
+      "text": "Abro el paquete y encuentro tres chocolates<n>\npequeños que a menudo veo en las tiendas de\n<n>conveniencia."
     },
     {
       "name": "Narita Brian",
       "text": "Asegúrate de comértelos todos."
     },
     {
-      "name": "Monólogo",
-      "text": "Narita Brian se ve algo<n>avergonzada mientras\nregresa al<n>dormitorio."
+      "text": "Narita Brian parece algo <n>avergonzada mientras se\ndirige de vuelta al <n>dormitorio."
     },
     {
       "name": "Narita Brian",
@@ -124,34 +118,33 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...Nada. No por eso te los di."
+      "text": "...Nada. No te los di por<n> eso."
     },
     {
       "name": "Narita Brian",
-      "text": "Si me das algo, lo aceptaré<n>aunque.\nComo dije antes, así es como<n>hago las cosas.",
+      "text": "Si me das algo, lo aceptaré. <n>Como dije antes, así\nes como hago <n>las cosas.",
       "choice_data_list": [
-        "Me aseguraré de ponerle todo mi corazón."
+        "Me aseguraré de ponerle el corazón."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "Hmm..."
+      "text": "Hmph..."
     },
     {
       "name": "Narita Brian",
-      "text": "Conociéndote, habrá tanto corazón<n>que me dará\nacidez. Ni toda el<n>azúcar del mundo lo ocultará."
+      "text": "Conociéndote, habrá suficiente corazón<n> para darme\nacidez. No hay cantidad de<n> azúcar que lo oculte."
     },
     {
       "name": "Narita Brian",
-      "text": "Y no me imagino a nadie más<n>pudiendo\ntragarlo."
+      "text": "Y no puedo imaginar a nadie más siendo<n> capaz de\ntolerarlo."
     },
     {
       "name": "Narita Brian",
       "text": "...Al menos tráeme algo que me guste."
     },
     {
-      "name": "Monólogo",
-      "text": "Unos días después, le doy a Narita Brian<n>algunos\nsnacks a cambio."
+      "text": "Unos días después, le doy a Narita Brian algunos<n>\nsnacks en agradecimiento."
     }
   ]
 }

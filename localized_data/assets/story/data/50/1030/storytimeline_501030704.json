@@ -3,26 +3,19 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Ya pasó mucho desde que anocheció, así que\ndecido<n>acompañar a Rice Shower a casa después de\nun día fuera."
+      "text": "Ya ha pasado mucho tiempo desde el atardecer, así\nque<n> decido acompañar a Rice Shower a casa después\nde un día fuera."
     },
     {
       "name": "Rice Shower",
-      "text": "Hermano mayor... ¿Podrías hacer algo por<n>mí?"
+      "text": "Hermano mayor... ¿Puedes hacer algo por<n> mí?"
     },
     {
       "name": "Rice Shower",
-      "text": "Hermana mayor... ¿Podrías hacer algo por<n>mí?"
+      "text": "Hermana mayor... ¿Puedes hacer algo por<n> mí?"
     },
     {
       "name": "Rice Shower",
-      "text": "Me preguntaba si podrías esperar en tu<n>oficina\nun ratito..."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Tengo algo que quiero mostrarte.",
-      "choice_data_list": [
-        "Claro."
-      ]
+      "text": "Me preguntaba si podrías esperar en<n> tu oficina un\nmomento..."
     },
     {
       "name": "Rice Shower",
@@ -33,19 +26,26 @@
     },
     {
       "name": "Rice Shower",
-      "text": "¡G-gracias! Voy a llegar muy pronto,<n>así que\n¡solo aguanta un poco!"
+      "text": "Tengo algo que quiero mostrarte.",
+      "choice_data_list": [
+        "Claro."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡G-gracias! Estaré allí muy pronto,<n> ¡así que\nespera!"
     },
     {
       "name": "Monólogo",
-      "text": "Mientras la espero, preparo una taza de<n>té para\nlas dos y me pregunto qué<n>querrá mostrarme."
+      "text": "Mientras la espero, preparo una taza<n> de té para\nambos y me pregunto qué<n> podría querer mostrarme."
     },
     {
       "name": "Rice Shower",
-      "text": "Disculpa la espera."
+      "text": "Disculpa por la espera."
     },
     {
       "name": "Rice Shower",
-      "text": "Disculpa la espera."
+      "text": "Disculpa por la espera."
     },
     {
       "name": "Rice Shower",
@@ -57,18 +57,18 @@
     },
     {
       "name": "Monólogo",
-      "text": "La portada negra dice <i>El Sol y la<n>Niña de las\nSombras.</i>"
+      "text": "La portada negra <i>dice <i>El Sol y el <n>Niño de la\nSombra.</i>"
     },
     {
       "name": "Rice Shower",
-      "text": "Esto es... un libro de ilustraciones que\nhice.<n>Me gustaría que lo leyeras.",
+      "text": "Esto es... un libro ilustrado que hice. Me\n<n>gustaría que lo leyeras.",
       "choice_data_list": [
         "¿Está bien si lo leo ahora?"
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Esto es... un libro de ilustraciones que\nhice.<n>Me gustaría que lo leyeras.",
+      "text": "Esto es... un libro ilustrado que hice. Me\n<n>gustaría que lo leyeras.",
       "choice_data_list": [
         "¿Está bien si lo leo ahora?"
       ]
@@ -83,42 +83,42 @@
     },
     {
       "name": "Monólogo",
-      "text": "No tiene texto. Comienza con<n>pura oscuridad."
+      "text": "No tiene ningún texto. Comienza con<n> pura\noscuridad."
     },
     {
       "name": "Monólogo",
-      "text": "Hay algo agachado en esa<n>oscuridad. Una\nsilueta... que se<n>parece un poco a Rice Shower."
+      "text": "Hay algo agazapado en esa <n>oscuridad. Una\nsilueta... que se parece<n> un poco a Rice Shower."
     },
     {
       "name": "Monólogo",
-      "text": "La figura sombría llora en la<n>oscuridad. Se ve\ntan triste y sola."
+      "text": "La figura sombría está llorando en<n> la oscuridad.\nSe ve tan triste y sola."
     },
     {
       "name": "Monólogo",
-      "text": "De repente, una pequeña luz aparece en<n>la\noscuridad, y la pequeña sombra<n>comienza a\ncaminar hacia la luz."
+      "text": "De repente, una pequeña luz aparece en<n> la\noscuridad, y la pequeña sombra comienza<n> a caminar\nhacia la luz."
     },
     {
       "name": "Monólogo",
-      "text": "Mientras sigue caminando, la luz<n>se vuelve más y\nmás fuerte.<n>Se vuelve radiante, hasta que\nfinalmente..."
+      "text": "A medida que continúa caminando, la luz<n> se vuelve\nmás y más fuerte. Se vuelve <n>radiante, hasta que\nfinalmente..."
     },
     {
       "name": "Monólogo",
-      "text": "La luz se convierte en el sol. La<n>oscuridad es\ndisipada, y el mundo<n>queda iluminado."
+      "text": "La luz se convierte en el <n>sol. La oscuridad se\ndisipa y el mundo<n> se ilumina."
     },
     {
       "name": "Monólogo",
-      "text": "La cálida luz del sol baña a la<n>figura sombría,\nrevelando su<n>verdadera forma."
+      "text": "La cálida luz del sol baña la figura<n> sombría,\nrevelando su verdadera forma."
     },
     {
       "name": "Monólogo",
-      "text": "En la última página, la chica, antes<n>consumida\npor las sombras, ahora<n>brinca alegremente en el\nmundo de<n>la luz."
+      "text": "En la página final, la niña, <n>antes consumida por\nlas sombras, ahora<n> salta alegremente en el mundo\nde luz."
     },
     {
       "name": "Rice Shower",
-      "text": "...Quería mostrarte este libro a ti<n>antes que a\nnadie más.",
+      "text": "...Quería mostrarte este libro <n>antes que a nadie\nmás.",
       "choice_data_list": [
-        "Me siento honrado.",
-        "Me siento honrado.",
+        "Estoy honrado.",
+        "Estoy honrado.",
         "Estoy seguro de que hará muy feliz a la gente.",
         "Quiero ser como ese sol.",
         "Quiero ser como ese sol."
@@ -126,30 +126,30 @@
     },
     {
       "name": "Rice Shower",
-      "text": "...Quería mostrarte este libro a ti<n>antes que a\nnadie más.",
+      "text": "...Quería mostrarte este libro <n>antes que a nadie\nmás.",
       "choice_data_list": [
-        "Me siento honrado.",
-        "Me siento honrado.",
-        "Estoy seguro de que hará muy feliz a la gente.",
+        "Estoy honrada.",
+        "Estoy honrada.",
+        "Estoy segura de que hará muy feliz a la gente.",
         "Quiero ser como ese sol.",
         "Quiero ser como ese sol."
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Siempre has estado cerca de mí,<n>cuidándome con\ncalidez y<n>amabilidad."
+      "text": "Siempre has estado cerca de <n>mí, cuidándome con\ncalidez<n> y bondad."
     },
     {
       "name": "Rice Shower",
-      "text": "Por eso... quería mostrarte..."
+      "text": "Por eso... quería mostrártelo..."
     },
     {
       "name": "Rice Shower",
-      "text": "Por eso... quería mostrarte..."
+      "text": "Por eso... quería mostrártelo..."
     },
     {
       "name": "Rice Shower",
-      "text": "Mi preciosa, preciosa... felicidad."
+      "text": "Mi preciada, preciada... felicidad."
     },
     {
       "name": "Rice Shower",
@@ -161,65 +161,65 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Por favor, cuídame... por siempre y para siempre."
+      "text": "Por favor, cuídame... por siempre."
     },
     {
       "name": "Monólogo",
-      "text": "Asiento con tanto entusiasmo que<n>termina\nriéndose de mí."
+      "text": "Asiento con tanto entusiasmo que ella<n> termina\nriéndose de mí."
     },
     {
       "name": "Rice Shower",
-      "text": "Jejeje, eso espero."
+      "text": "Jejeje, espero que sí."
     },
     {
       "name": "Rice Shower",
-      "text": "Ese libro es la encarnación de mi<n>felicidad,\ndespués de todo."
+      "text": "Ese libro es la encarnación de mi <n>felicidad,\ndespués de todo."
     },
     {
       "name": "Rice Shower",
-      "text": "Y parece que mis sentimientos<n>llegaron a ti.",
+      "text": "Y parece que mis sentimientos llegaron<n> hasta ti.",
       "choice_data_list": [
-        "Ahora puedes compartir tu felicidad con<n>aún más\npersonas."
+        "Ahora puedes esparcir tu felicidad a aún más\npersonas."
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Y parece que mis sentimientos<n>llegaron a ti.",
+      "text": "Y parece que mis sentimientos llegaron<n> hasta ti.",
       "choice_data_list": [
-        "Ahora puedes compartir tu felicidad con<n>aún más\npersonas."
+        "Ahora puedes esparcir tu felicidad a aún más\npersonas."
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "¡Sí!"
+      "text": "¡Así es!"
     },
     {
       "name": "Rice Shower",
-      "text": "Hermano mayor, yo... quiero que todos<n>los que me\napoyan sean felices."
+      "text": "Hermano mayor, yo... quiero que todos los<n> que me\napoyan sean felices."
     },
     {
       "name": "Rice Shower",
-      "text": "Hermana mayor, yo... quiero que todos<n>los que me\napoyan sean felices."
+      "text": "Hermana mayor, yo... quiero que todos los<n> que me\napoyan sean felices."
     },
     {
       "name": "Rice Shower",
-      "text": "Desde que hice ese libro, este<n>sentimiento—este\ndeseo—se ha<n>vuelto aún más fuerte dentro de mí.",
+      "text": "Desde que hice ese libro, este sentimiento—este<n>\ndeseo—se ha vuelto aún más fuerte dentro<n> de mí.",
       "choice_data_list": [
-        "Entonces puedes contar conmigo para<n>ayudar a que\nsuceda.",
-        "Entonces puedes contar conmigo para<n>ayudar a que\nsuceda."
+        "Entonces puedes contar conmigo para ayudar a que\nsuceda.",
+        "Entonces puedes contar conmigo para ayudar a que\nsuceda."
       ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sí. Con tu ayuda, estoy seguro..."
     },
     {
       "name": "Rice Shower",
       "text": "Sí. Con tu ayuda, estoy segura..."
     },
     {
-      "name": "Rice Shower",
-      "text": "Sí. Con tu ayuda, estoy segura..."
-    },
-    {
       "name": "Monólogo",
-      "text": "Mientras Rice Shower se queda<n>callada con una\nsonrisa en el rostro,<n>hago un voto silencioso de\nque<n>veré su deseo cumplido, sin<n>importar qué."
+      "text": "Mientras Rice Shower se calla con una sonrisa<n> en\nsu rostro, hago una promesa silenciosa a mí<n> mismo\nde que veré su deseo hacerse realidad,<n> no importa\nqué."
     },
     {
       "name": "Rice Shower",
@@ -235,11 +235,11 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Gracias a tu apoyo y fe en<n>mí..."
+      "text": "Por tu apoyo y fe en <n>mí..."
     },
     {
       "name": "Rice Shower",
-      "text": "Gracias a tu apoyo y fe en<n>mí..."
+      "text": "Por tu apoyo y fe en <n>mí..."
     },
     {
       "name": "Rice Shower",
@@ -247,7 +247,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Así que tomé la felicidad que me<n>diste y la\nconvertí en este libro."
+      "text": "Así que tomé la felicidad que me has dado<n> y la\nconvertí en este libro."
     },
     {
       "name": "Rice Shower",
@@ -265,7 +265,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "<i>¿Yo...</i> puedo ser el sol?"
+      "text": "<i>Yo...</i> ¿puedo ser el sol?"
     },
     {
       "name": "Rice Shower",
@@ -277,13 +277,13 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Quiero brillar... y hacer feliz a<n>todos."
+      "text": "Quiero brillar... y traer felicidad<n> a todos."
     },
     {
       "name": "Rice Shower",
       "text": "¡Quiero ser su sol!",
       "choice_data_list": [
-        "Hagamos ese sueño realidad."
+        "Hagamos de ese sueño una realidad."
       ]
     },
     {
@@ -292,7 +292,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Por un momento, los ojos de Rice<n>Shower brillan\ncomo el sol, como si<n>un sueño radiante se\nhubiera<n>asentado en ellos."
+      "text": "Por un momento, los ojos de Rice Shower brillan<n>\ncomo el sol, como si un sueño brillante se <n>hubiera\ninstalado en ellos."
     }
   ]
 }

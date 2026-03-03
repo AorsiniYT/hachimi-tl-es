@@ -2,26 +2,27 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "エイシンフラッシュ",
-      "text": "ふむ……やはり御しがたい機械です。"
+      "name": "Eishin Flash",
+      "text": "Hmm... Qué máquina tan revoltosa, en efecto."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "しかし、気に病まないでください。\r\n今回は縁がなかった、と思うことにします。",
+      "name": "Eishin Flash",
+      "text": "Por favor, no te culpes por estos <n>resultados. Creo\nque la suerte simplemente no estuvo<n> de tu lado\nesta vez.",
       "choice_data_list": [
-        "あと1回！"
+        "¡Déjame intentarlo una vez más!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "いえ、その『あと1回』は蓄積しやすく、\r\n惰性を生み予定を狂わせるのです。"
+      "name": "Eishin Flash",
+      "text": "No lo hagas. Ceder al impulso de intentar<n> \"una vez\nmás\" te llevará rápidamente a la <n>falacia del costo\nhundido y arruinará nuestros<n> planes."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "それでも……ぬいぐるみを取ろうとする\r\nトレーナーさんの姿勢には感謝いたします。"
+      "name": "Eishin Flash",
+      "text": "Sin embargo, agradezco que estés tan<n> motivado para\nganar un peluche para mí."
     },
     {
-      "text": "残念な結果に終わった……。"
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante..."
     }
   ]
 }

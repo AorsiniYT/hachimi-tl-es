@@ -2,37 +2,39 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "エイシンフラッシュがトレーニングに来ない。\r\n……と、思っていると――"
+      "name": "Monólogo",
+      "text": "Eishin Flash aún no ha llegado a nuestra sesión<n> de\nentrenamiento. Justo cuando empiezo a <n>pensar que\nquizás no vendrá en absoluto..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "申し訳ありません……！\r\n開始時間を1時間34分も\n過ぎてしまいました。",
+      "name": "Eishin Flash",
+      "text": "¡Entrenador! ¡Lo siento mucho! No quería llegar<n>\ncon una hora y treinta y cuatro minutos de<n>\nretraso.",
       "choice_data_list": [
-        "何かあったのか？",
-        "何かあったの？"
+        "Oye, ¿qué pasa?",
+        "Oye, ¿qué pasa?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……実は、今日はカフェテリアが休みなので、\r\n学外で昼食をとったのですが……。"
+      "name": "Eishin Flash",
+      "text": "Bueno, hoy comí fuera del campus porque<n> la\ncafetería está cerrada..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "注文した料理がなかなか出てこず、\r\nキャンセルするのも躊躇ってしまい……。"
+      "name": "Eishin Flash",
+      "text": "Pero mi pedido tardó tanto en salir, que<n> casi lo\ncancelé por completo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "急いで食べて、走って帰ろうとしたら、\r\n途中でお腹が痛くなったんです……。",
+      "name": "Eishin Flash",
+      "text": "Cuando llegó, comí lo más rápido que <n>pude e\nintenté regresar corriendo aquí, pero<n> tuve que\ndetenerme porque me dolía <n>demasiado el estómago...",
       "choice_data_list": [
-        "なるほど……"
+        "Eso lo explicaría..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "大変申し訳ございません。遅れた分は、\r\n休憩時間を減らして対応いたします。"
+      "name": "Eishin Flash",
+      "text": "Pero eso no excusa mi tardanza. <n>Reduciré mi tiempo\nde descanso<n> para compensar cada minuto <n>perdido."
     },
     {
-      "text": "彼女は十分すぎるほど反省しているようだ。\r\n軽く注意するにとどめておいた。"
+      "name": "Monólogo",
+      "text": "Puedo decir que está sinceramente arrepentida por<n>\nllegar tarde, así que la dejo con una advertencia\nleve."
     }
   ]
 }

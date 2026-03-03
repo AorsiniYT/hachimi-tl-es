@@ -2,30 +2,31 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "エイシンフラッシュ",
-      "text": "は……はぁ……。今日の筋力トレーニングは、\r\nこれにて完遂……です。"
+      "name": "Eishin Flash",
+      "text": "<i>Jadeo... resuello...</i> El entrenamiento de <n>pesas de\nhoy está... completado."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……ええと、今は何時で……。"
+      "name": "Eishin Flash",
+      "text": "Hmm, ¿qué hora es?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "？　予定より随分と早く終わっています……。",
+      "name": "Eishin Flash",
+      "text": "Huh... Parece que terminé mucho antes<n> de lo\nesperado...",
       "choice_data_list": [
-        "いや、少し遅れてるけど……？"
+        "En realidad vas un poco atrasada..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……っ！？\r\nほ、本当ですね……。"
+      "name": "Eishin Flash",
+      "text": "¡¿Qué?! Y-yo me equivoqué..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はぁ……私としたことが\r\n長針と短針を逆に見てしまっていました……。"
+      "name": "Eishin Flash",
+      "text": "<i>Suspiro...</i> Parece que confundí <n>la manecilla grande\ncon la pequeña del <n>reloj. Qué vergüenza..."
     },
     {
-      "text": "彼女が時計を読み間違えるなんて、\r\n相当疲労が溜まっているのだろう。\nレースの予定を見直す必要がありそうだ。"
+      "name": "Monólogo",
+      "text": "Debe estar agotada si logró leer mal<n> el reloj.\nDebería replantear su calendario<n> de carreras."
     }
   ]
 }

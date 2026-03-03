@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Espectador A",
-      "text": "Oye, ¿viste el anuncio de Narita Brian?"
+      "text": "Oye, ¿viste el anuncio de<n> Narita Brian?"
     },
     {
       "name": "Espectador B",
-      "text": "¡Sí! Por eso decidí venir a ver el<n>Hanshin\nDaishoten! Después de todo..."
+      "text": "¡Sí! Por eso decidí venir a ver<n> el Hanshin\nDaishoten! Después de todo..."
     },
     {
       "name": "Narita Brian",
-      "text": "\"Si no sigue ganando después de esta<n>carrera, su\nanuncio no tiene sentido.\""
+      "text": "\"Si no sigue ganando después de esta<n> carrera, su\nanuncio no tiene sentido.\""
     },
     {
       "name": "Narita Brian",
@@ -19,14 +19,14 @@
     },
     {
       "name": "Monólogo",
-      "text": "Su anuncio en la ceremonia de<n>premios de\nayer fue cubierto por los<n>medios y transmitido\nalrededor del mundo.",
+      "text": "Su anuncio en la ceremonia de premios<n> de ayer fue\ncubierto por los medios y<n> transmitido por todo el\nmundo.",
       "choice_data_list": [
         "¿Te sientes presionada?"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "¡Ja... No me hagas reír!"
+      "text": "Ja... ¡No me hagas reír!"
     },
     {
       "name": "Narita Brian",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "No importa contra quién compita o<n>qué tipo de\ncarrera sea, ¡destrozaré la<n>pista!"
+      "text": "No importa contra quién corra o <n>en qué tipo de\ncarrera esté, ¡haré pedazos<n> la pista!"
     }
   ]
 }

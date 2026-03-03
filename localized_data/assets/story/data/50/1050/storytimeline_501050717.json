@@ -1,121 +1,121 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Monólogo",
-      "text": "Narita Taishin no se ve bien, así que<n>la\nacompaño a la enfermería.",
-      "choice_data_list": [
-        "Deberías descansar.",
-        "Deberías descansar."
-      ]
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Sí, sí. Te preocupas demasiado."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Voy a dormir, así que déjame en paz y<n>vuelve al\ntrabajo."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "...¿Eh? ¿Dónde estoy?"
-    },
-    {
-      "name": "???",
-      "text": "Taishin... Taishiiiiin..."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "¿Hmm? ¿Es Ticket? Usualmente es<n>mucho más\nruidosa..."
-    },
-    {
-      "name": "Teensy Ticket",
-      "text": "¡Taishin, Taishin, TAISHIIIIN! ¡Estoy<n>aquí abajoooo!"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "¡¿Ticket?! ¿Por qué eres tan pequeña?<n>¡Pareces\nun grano de arroz!"
-    },
-    {
-      "name": "Hayahide Pequeñito",
-      "text": "¡Taishin! ¡Mira por dónde pisas!<n>Preferiría no\nser aplastada."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "¿Tú también eres pequeña, Hayahide?<n>¿Qué\ndiablos..."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "¡Pffjaja! ¡Ustedes dos son tan adorables!"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Así se siente mirarlas desde arriba.<n>Eh, no está\nmal."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "¿Quieres que te lleve en mi<n>bolsillo? Es\npeligroso que corran<n>así de pequeñas."
-    },
-    {
-      "name": "Teensy Ticket",
-      "text": "¡Yay! ¡Gracias, Taishin!"
-    },
-    {
-      "name": "Hayahide Pequeñito",
-      "text": "Te lo agradezco."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Claro... ¡No es gran cosa! ¡Jajaja!"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "¿Qué fue ese sueño?"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Eh. Mi cuerpo se siente tan liviano."
-    },
-    {
-      "name": "Monólogo",
-      "text": "¡Parece que Narita Taishin está en<n>plena forma!"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "¡¿Qué?! Mi cuerpo..."
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "¡Wh-whoa! ¿Por qué me vuelvo más y<n>más grande?!"
-    },
-    {
-      "name": "Teensy Ticket",
-      "text": "¡Aaaah! Taishin, Taishi... Tai..."
-    },
-    {
-      "name": "Hayahide Pequeñito",
-      "text": "...!"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "¿Qué? ¿Qué dicen? ¿Me volví<n>demasiado grande\npara oírlas?"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "¡Oh, vamos! ¿Por qué pasa esto?!"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "¡Aagh!"
-    },
-    {
-      "name": "Narita Taishin",
-      "text": "Vaya. Esa fue una pesadilla rara."
-    },
-    {
-      "name": "Monólogo",
-      "text": "La condición de Narita Taishin no<n>mejora en\nabsoluto..."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Narita Taishin no se ve bien, así que<n> la acompaño\na la enfermería.",
+            "choice_data_list": [
+                "Deberías descansar.",
+                "Deberías descansar."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Sí, sí. Te preocupas demasiado."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Voy a dormir un rato, así que déjame en paz<n> y\nvuelve al trabajo."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...¿Eh? ¿Dónde estoy?"
+        },
+        {
+            "name": "???",
+            "text": "Taishin... Taishiiiiin..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¿Mm? ¿Es Ticket? Normalmente es mucho<n> más\nruidosa..."
+        },
+        {
+            "name": "Pequeña Ticket",
+            "text": "¡Taishin, Taishin, TAISHIIIIN! ¡Estoy <n>aquí\nabajoooo!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¿Ticket?! ¡¿Por qué eres tan pequeña?!<n> ¡Pareces un\ngrano de arroz!"
+        },
+        {
+            "name": "Pequeña Hayahide",
+            "text": "¡Taishin! ¡Mira por dónde pisas!<n> Preferiría no ser\naplastada."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡Tú también eres pequeña, Hayahide?! ¿Qué\n<n>demonios...?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡Jajaja! ¡Ustedes dos son adorables!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Así que esto es lo que se siente al mirarlos<n> desde\narriba. Hmm, nada mal."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¿Quieres que te lleve en <n>mi bolsillo? Es peligroso\nque <n>andes por ahí así, siendo pequeña."
+        },
+        {
+            "name": "Pequeña Ticket",
+            "text": "¡Yay! ¡Gracias, Taishin!"
+        },
+        {
+            "name": "Pequeña Hayahide",
+            "text": "Lo agradezco."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Claro... ¡No es gran cosa! ¡Jajaja!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¿Qué fue ese sueño hace un momento?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hmm. Mi cuerpo se siente tan ligero."
+        },
+        {
+            "name": "Monólogo",
+            "text": "¡Parece que Narita Taishin está de vuelta en <n>plena\nforma!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¿Qué?! Mi cuerpo..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¿Qu-qué?! ¿Por qué me estoy poniendo más y<n> más\ngrande?!"
+        },
+        {
+            "name": "Pequeña Ticket",
+            "text": "¡Aaaah! Taishin, Taishi... Tai..."
+        },
+        {
+            "name": "Pequeña Hayahide",
+            "text": "...!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¿Qué? ¿Qué estás diciendo?! ¿Me puse tan <n>grande\nque no puedo oírlos?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡Oh, vamos! ¿Por qué está pasando esto?!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Aagh!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ay. Esa fue una pesadilla extraña."
+        },
+        {
+            "name": "Monólogo",
+            "text": "El estado de Narita Taishin no <n>mejora en\nabsoluto..."
+        }
+    ]
 }

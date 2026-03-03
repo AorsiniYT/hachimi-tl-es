@@ -2,89 +2,130 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
-      "text": "Me encuentro en la piscina en medio de<n>la noche\nsegún las instrucciones de<n>Agnes Tachyon..."
+      "text": "Me encuentro en la piscina en medio de la<n>\nnoche\\nsegún las instrucciones de<n> Agnes Tachyon..."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "¡El experimento de esta noche es<n>examinar el\nmovimiento de los músculos<n>cuando la presión del\nagua se duplica!",
+      "text": "¡El experimento de esta noche es examinar el<n>\nmovimiento\\nde los músculos cuando la <n>presión del\nagua se duplica!",
       "choice_data_list": [
         "¿Por qué a esta hora?"
       ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "No querrías que nos atraparan en el\nacto,<n>¿verdad? Mi plan es introducir\nesta<n>solución química especial en la piscina."
+      "text": "No querrías que nos atrapen en el<n> acto,\\n¿verdad?\nMi plan es <n>introducir esta solución\nquímica\\nespecial<n> en la piscina."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "¡Vamos, estaremos bien siempre que<n>eliminemos la\nevidencia para mañana!"
+      "text": "¡Vamos, estaremos bien mientras nos <n>deshagamos\nde\\nla evidencia para mañana!"
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Muy bien, ¡comencemos! ¡Asegúrate\nde<n>cronometrarlo correctamente!"
+      "text": "Muy bien, ¡empecemos! ¡Asegúrate de\n<n>cronometrarlo\\ncorrectamente!"
     },
     {
-      "name": "Monólogo",
-      "text": "Agnes Tachyon comienza a nadar con<n>gran\nentusiasmo. Por lo que se ve, no<n>parece haber\nningún cambio en el agua."
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "<i>Suspiro...</i> Nada parece diferente.\nSupongo<n>que la proporción de solución química\na<n>agua era demasiado baja."
+      "text": "Agnes Tachyon comienza a nadar<n> con\ngran\\nentusiasmo. Por lo que<n> parece, no\nhay\\nningún cambio <n>en el agua."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Oh, bueno. Entrenador, te dejo el resto.<n>No\nqueremos que el químico cause<n>problemas más\nadelante."
+      "text": "<i>Suspiro...</i> Nada parece diferente.<n> Supongo que\nla\\nproporción de solución química a <n>agua fue\ndemasiado baja."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "El agua de la piscina se reciclará, pero<n>eso no\nse ocupa de lo que salpica en los<n>pisos y\nbarandales y así."
+      "text": "Oh bueno. Entrenador, te dejo el resto<n> a ti.\nNo\\nqueremos que el químico<n> cause problemas\\nmás\ntarde."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Limpia y destruye la evidencia. Y sé\nmuy<n>minucioso con eso.",
+      "text": "El agua de la piscina será reciclada,<n> pero eso\nno\\nse encarga de lo salpicado<n> en los pisos\ny\\nbarandas y eso."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Limpia y destruye la evidencia. Y sé<n>\nmuy\\nminucioso con ello.",
       "choice_data_list": [
-        "Tú también ayuda, Tachyon."
+        "Tú también ayudas, Tachyon."
       ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "¿¡Quéee!? Pero necesito ir a reflexionar<n>sobre el fracaso..."
+      "text": "¡¿Qué?! Pero necesito ir a reflexionar sobre<n> el\nfracaso..."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "<i>Suspiro...</i> Está bien. Solo deja de<n>mirarme así."
+      "text": "<i>Uuuuh...</i> Está bien. Solo deja de mirarme<n> así."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Primero, mi experimento falla, luego<n><i>yo</i>\ntengo que limpiar después... ¡vaya<n>desastre!"
+      "text": "Primero, mi experimento fracasa, <i>luego <i>yo</i> tengo<n>\nque limpiar\\ndespués... ¡habla de un verdadero\ndesastre!"
     },
     {
-      "name": "Monólogo",
-      "text": "A pesar de las quejas de Agnes Tachyon,<n>la\nfuerza que ganó al nadar prueba que<n>esto no fue\nuna completa pérdida de<n>tiempo."
+      "text": "A pesar de las quejas de Agnes Tachyon,<n> la\nfuerza\\nque ganó de la natación prueba<n> que esto no\nfue\\ncompletamente una pérdida<n> de tiempo."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Limpia y destruye la evidencia. Y sé\nmuy<n>minucioso con eso.",
+      "text": "Limpia y destruye la evidencia. Y sé<n>\nmuy\\nminucioso con ello.",
       "choice_data_list": [
         "No puedo terminar todo esto yo solo."
       ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Mm... buen punto. No hay suficiente<n>tiempo."
+      "text": "Mm... buen punto. No hay suficiente<n> tiempo."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Y me gustaría evitar un curso de<n>conferencias, seguro."
+      "text": "Y definitivamente quiero evitar una <n>reprimenda."
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Supongo que debería ayudarte en ese<n>caso...\n¡Espero que estés agradecido!"
+      "text": "Supongo que debería ayudarte en ese caso...\n<n>¡Espero\\nque estés agradecido!"
+    },
+    {
+      "text": "Aunque Agnes Tachyon se ve un poco cansada,<n>\nla\\nfuerza que ganó de la natación prueba<n>\nque\\nesto no fue completamente una pérdida<n> de\ntiempo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Limpia y destruye la evidencia. Y sé<n>\nmuy\\nminucioso con ello.",
+      "choice_data_list": [
+        "¿Por qué no intentas un poco más?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No tiene sentido, es insignificante.<n>\nDesafortunadamente,\\ncomo puedes ver,<n> el agua—"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡¿Eh?! Esto... ¡El agua se siente <n>más resistente\nque\\nantes!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No tenía idea de que la densidad del agua pudiera<n>\ncambiar\\ntan drásticamente... Quizás, mi<n> ejercicio\nen ella fue\\nel desencadenante..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hmm, ¡esto es <i>muy</i> interesante! ¡Vamos,\n<n>Entrenador!\\n¡Deberías intentarlo también!",
+      "choice_data_list": [
+        "¿Eh? ...¡Aaaaah?!"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "Aunque Agnes Tachyon parece un poco<n>cansada, la\nfuerza que ganó al nadar<n>prueba que esto no fue\nuna completa<n>pérdida de tiempo."
+      "text": "En su estado de emoción, ella de repente<n> me\\njala\na la piscina."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡De ninguna manera! ¡Qué resultado increíble!<n>\nPensar que estaba\\nlisto para ignorar a un<n>\ncolaborador tan valioso de mi\\ninvestigación!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Buen trabajo, Entrenador! Parece que también\n<n>hiciste un buen\\nejercicio!",
+      "choice_data_list": [
+        "Sí..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon parece verdaderamente eufórica.<n>\nColapsado\\na su lado, logro un débil <n>asentimiento."
     }
   ]
 }

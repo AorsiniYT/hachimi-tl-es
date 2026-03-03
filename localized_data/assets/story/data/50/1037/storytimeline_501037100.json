@@ -2,287 +2,299 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "『Aller Anfang ist schwer――\n全ての始まりは難しい。\nだからこそ、入念に準備をしなければ』"
+      "name": "Monólogo",
+      "text": "\"Aller Anfang ist schwer—todos los comienzos<n> son\ndifíciles. Es por eso que la <n>preparación cuidadosa\nes esencial.\""
     },
     {
-      "text": "『完璧なスケジュールを。正しい行いを。\nそして――』"
+      "name": "Monólogo",
+      "text": "\"Esto incluye un horario perfecto, una<n> ejecución\nadecuada, y...\""
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――ではこれより、私たちの歩むべき\n3年間のスケジュールを共有します。"
+      "name": "Eishin Flash",
+      "text": "Permíteme compartirte el <n>horario que debemos\nseguir para los próximos<n> tres años."
     },
     {
-      "text": "トレーナー室に入ってくるなり、\nそう宣言したのは……今日から担当する\nエイシンフラッシュだった。",
+      "name": "Monólogo",
+      "text": "Esto es lo que Eishin Flash, mi nueva aprendiz<n> que\ncomienza hoy, me dice en el momento en<n> que entra a\nmi oficina.",
       "choice_data_list": [
-        "もう3年後まで決まってるんだな",
-        "もう3年後まで決まってるんだね"
+        "¿Ya tienes planeados los próximos tres años?",
+        "¿Ya tienes planeados los próximos tres años?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "デビューからの3年間はとても重要ですし、\n無駄なく計画的に走るべきです。"
+      "name": "Eishin Flash",
+      "text": "Los primeros tres años después de debutar son <n>los\nmás importantes para un corredor y por lo tanto<n>\ndeben planificarse de la manera más eficiente<n>\nposible."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "レース日程や挑む条件が決まっている以上、\n先の見通しを立てるのは当然のことです。"
+      "name": "Eishin Flash",
+      "text": "Dado que las fechas y requisitos de las<n> carreras\nestán fijos, es natural planificarlas<n> con\nanticipación."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そもそも私にはレース選びについて\n明確な基準が存在します。\nそれに従えば、自ずと道は決まっていました。",
+      "name": "Eishin Flash",
+      "text": "Además, ya tengo un estándar claro <n>para qué\ncarreras elegir. Mientras me<n> apegue a él, mi\ncamino se desplegará<n> naturalmente.",
       "choice_data_list": [
-        "基準？"
+        "¿Y eso sería?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "『¿Podrás mantener el orgullo de ser una Uma\nMusume?』――"
+      "name": "Eishin Flash",
+      "text": "Si la carrera es digna de mi orgullo como<n>\ncorredora. En otras palabras, carreras<n> G1—carreras\nque solo los mejores del mundo<n> pueden correr."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私の目標は、ウマ娘のあるべき姿を貫く――\nつまり王道と呼ばれる路線で結果を出すこと。"
+      "name": "Eishin Flash",
+      "text": "Mi objetivo es convertirme en la corredora<n> ideal.\nLograré mis sueños tomando el <n>camino clásico que\nmuchos han tomado antes <n>que yo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "なので最初の大目標はクラシック三冠レース、\n『皐月賞』『日本ダービー』『菊花賞』\nになります。",
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, mis primeros objetivos principales<n>\nserán las carreras de la Triple Corona<n> Clásica—el\nSatsuki Sho, el Japanese Derby<n> y el Kikuka Sho.",
       "choice_data_list": [
-        "……！"
+        "...!"
       ]
     },
     {
-      "text": "クラシック三冠。多くのウマ娘が\n憧れる、一生に一度しか挑めない\nトップクラスのレースだ。"
+      "name": "Monólogo",
+      "text": "La Triple Corona Clásica—corredores de todas<n>\npartes sueñan con participar en esas carreras<n> de\nclase alta que ocurren una vez en la vida."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そのためデビューを終えたら、\nまず『京成杯』に目標を設定します。"
+      "name": "Eishin Flash",
+      "text": "Para embarcarme en ese camino, me gustaría<n> correr\nen el Keisei Hai después de<n> mi debut."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "これは当然、『皐月賞』を見越してです。\n同じレース場、同じ距離のため\n予行演習としては最適かと。"
+      "name": "Eishin Flash",
+      "text": "Esto es para poder prepararme para el Satsuki<n> Sho,\npor supuesto, ya que ambas carreras<n> son a la misma\ndistancia y se corren en<n> la misma pista."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "またあえて1月という早い時期を選ぶことで、\n仮にトラブルが起きても、本番までに\n対策の時間を取ることができます。"
+      "name": "Eishin Flash",
+      "text": "Además, como la carrera ocurre en <n>enero, nos\npermitirá mucho tiempo para <n>recalibrar para el\nSatsuki Sho si surge<n> algún problema."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "『皐月賞』のあとは『日本ダービー』――\n長い歴史と伝統を誇り、\nダービーウマ娘の称号は栄誉そのもの。"
+      "name": "Eishin Flash",
+      "text": "El Japanese Derby viene después <n>del Satsuki Sho.\nTiene una historia <n>celebrada, y recibir el título\nde campeón<n> del Derby es un gran honor."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "あのシンボリルドルフ生徒会長も、\nたびたびダービーへの想いを語っています。\n……必ず挑みたいです。"
+      "name": "Eishin Flash",
+      "text": "Incluso la Presidenta del Consejo Estudiantil<n>\nSymboli Rudolf habla de su experiencia<n> en el Derby\nde vez en cuando. Quiero experimentarlo<n> por mí\nmisma, no importa lo que cueste."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "『菊花賞』の後、年末には『有馬記念』へ。\nファンからの投票が必要ではありますが、\nこのレースも目標として定めておきたいです。"
+      "name": "Eishin Flash",
+      "text": "Después del Kikuka Sho vendrá el <n>Arima Kinen de\nfin de año. Aunque se requieren<n> votos de fans para\ncalificar, me gustaría <n>establecerlo como uno de\nmis objetivos."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "シニア級では八大競走でもある『天皇賞』の\n春秋連覇と、国際招待競走の\n『ジャパンカップ』を大目標に定め――"
+      "name": "Eishin Flash",
+      "text": "En mi último año, me gustaría ganar dos <n>de los\nGrandes Ocho—el Tenno Sho de <n>primavera y otoño,\nasí como la Japan Cup <n>internacional invitacional."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "可能なら『大阪杯』『宝塚記念』へも出走、\nそして最後に再び『有馬記念』を走ります。"
+      "name": "Eishin Flash",
+      "text": "Si es posible, me gustaría participar en <n>el Osaka\nHai y el Takarazuka Kinen, y <n>luego, finalmente,\ncorrer una vez más en el Arima<n> Kinen."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――以上、3年間のスケジュールを終えれば、\n私は正しい行いを全うしたことになります。",
+      "name": "Eishin Flash",
+      "text": "Si puedo completar este horario en los <n>próximos\ntres años, entonces habré cumplido<n> una carrera\nperfecta, por así decirlo.",
       "choice_data_list": [
-        "……！"
+        "...!"
       ]
     },
     {
-      "text": "あまりにもかっちりとしたスケジュールに、\r\n思わず声を失う。彼女は王道路線、\nほぼ全てに挑むつもりだ。"
+      "name": "Monólogo",
+      "text": "Su horario repleto me deja sin <n>palabras. Está\nplaneando correr en casi<n> todas las carreras que\nincluye el camino<n> convencional."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "かなり理想を詰め込んだことは、\n承知しています。そう、ここまでは\n『私の』考えたローテーション……。"
+      "name": "Eishin Flash",
+      "text": "Entiendo lo optimista que es este<n> horario. Esto es\ntodo lo que he estado<n> planeando hasta ahora."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "この先は、トレーナーさん――\n貴方のお力が必要なんです。",
+      "name": "Eishin Flash",
+      "text": "Pero a partir de ahora, necesitaré tu <n>fuerza para\ntener éxito.",
       "choice_data_list": [
-        "俺の力……",
-        "私の力……"
+        "Mi fuerza...",
+        "Mi fuerza..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。貴方には、このスケジュールが\n現実的といえるラインになるまで、\n私を鍛えてほしいんです。"
+      "name": "Eishin Flash",
+      "text": "Sí. Quiero que me entrenes hasta<n> que este horario\nsea realista y <n>alcanzable."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……私は、とても未熟です。1人では、\n全ては夢物語に終わってしまうでしょう。"
+      "name": "Eishin Flash",
+      "text": "...Soy consciente de mis propias limitaciones.<n> No\npuedo realizar estos sueños por mi cuenta."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "だからトレーナーさんに望みます。\n完璧なスケジュールを全うするにふさわしい、\n完璧な私に仕上げてください。"
+      "name": "Eishin Flash",
+      "text": "Es por eso que busqué tu ayuda. Por favor,<n>\nentréname para convertirme en la versión<n> perfecta\nde mí misma, digna de ejecutar este<n> plan perfecto."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私にとって、約束は絶対です。\nそのうえで、レースを走り抜かせると――"
+      "name": "Eishin Flash",
+      "text": "Para mí, las promesas son eternamente <n>vinculantes.\nAsí que dime—¿puedes <n>prometerme algo aquí y ahora?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "今この場で、約束してくれますか？"
+      "name": "Eishin Flash",
+      "text": "¿Puedes prometer guiarme en cada<n> una de las\ncarreras?"
     },
     {
-      "text": "彼女の瞳は、覚悟で満たされている。\nその気持ちに応えるためには、ひとつ\n確認しなければならないことがあった。",
+      "name": "Monólogo",
+      "text": "Puedo decir por la mirada en sus ojos que<n> su mente\nestá decidida. Pero hay algo que<n> debo saber antes\nde poder responderle.",
       "choice_data_list": [
-        "全部、君自身の夢なんだよな？",
-        "全部、貴方自身の夢なんだよね？"
+        "¿Estos son <i>todos <i>tus</i> sueños, ¿verdad?",
+        "¿Estos son <i>todos <i>tus</i> sueños, ¿verdad?"
       ]
     },
     {
-      "text": "彼女はよく、『そうすべき』\nという言い方をする。そこに自分の意志が\nあるのか、少し気になっていた。"
+      "name": "Monólogo",
+      "text": "Ha hablado mucho sobre lo que \"debería\"<n> hacer,\npero no estoy seguro si esto es <n>lo que realmente\nquiere para sí misma."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……？　当然です。\n心から達成したいと願っています。"
+      "name": "Eishin Flash",
+      "text": "...Sin duda. Mi corazón anhela <n>alcanzar estas\nalturas."
     },
     {
-      "text": "まだ言い回しに少し懸念は残るが、\n彼女が自分自身の頭で考え、そう望んでいる\nことならば――",
+      "name": "Monólogo",
+      "text": "Todavía estoy un poco receloso de su forma de\n<n>expresarse, pero mientras ella esté pensando por\nsí<n> misma y quiera avanzar, entonces...",
       "choice_data_list": [
-        "君を走り抜かせると約束する！",
-        "貴方を走り抜かせると約束する！"
+        "¡Prometo guiarte en todo!",
+        "¡Prometo guiarte en todo!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……はい。\nありがとうございます。",
+      "name": "Eishin Flash",
+      "text": "Genial... Gracias.",
       "choice_data_list": [
-        "俺からも約束してほしい",
-        "私からも約束してほしい"
+        "¿Puedes prometerme algo también?",
+        "¿Puedes prometerme algo también?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……なんでしょう。伺います。",
+      "name": "Eishin Flash",
+      "text": "¿Qué es? Puedo considerarlo.",
       "choice_data_list": [
-        "俺の判断次第では予定を調整すること",
-        "私の判断次第では予定を調整すること"
+        "Prométeme que ajustarás tu horario cuando yo lo\nconsidere necesario.",
+        "Prométeme que ajustarás tu horario cuando yo lo\nconsidere necesario."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……それは、貴方の判断次第では\n先ほど挙げたレースを走らない可能性もある、\nということですか？",
+      "name": "Eishin Flash",
+      "text": "¿Estás implicando que hay la <n>posibilidad de que no\npueda correr en algunas<n> de las carreras que listé,\ndependiendo de<n> tu criterio?",
       "choice_data_list": [
-        "場合によっては"
+        "Depende de la situación, pero sí."
       ]
     },
     {
-      "text": "当然、調整や取り消しが発生しないよう\r\n最善を尽くすが、『想定外』の事態はある。\nその判断は自分に任せてほしい。"
+      "name": "Monólogo",
+      "text": "Naturalmente, haré todo lo posible para <n>asegurarme\nde que ella pueda correr las carreras<n> que desee,\npero si las cosas salen mal, quiero<n> ser yo quien\nlas maneje."
     },
     {
-      "text": "また、自分が必要だと考えたら、\n相談の上、上記以外のレースを\n走ることも伝えた。"
+      "name": "Monólogo",
+      "text": "También le digo que podría tener que correr<n>\ncarreras que no estén en su lista si yo lo\nconsidero<n> necesario, aunque siempre me aseguraré\nde<n> consultárselo primero."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……わかりました。\nその場合は、トレーナーさんに従います。"
+      "name": "Eishin Flash",
+      "text": "...Muy bien. Seguiré tu guía en<n> esas\ncircunstancias."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "けれど基本は、想定外は徹底的に排除。\nスケジュール厳守で挑みましょう。",
+      "name": "Eishin Flash",
+      "text": "Sin embargo, me gustaría mantener<n> los cambios\nimprevistos en un <n>mínimo absoluto y seguir el\ncalendario lo<n> más fielmente posible.",
       "choice_data_list": [
-        "たくさん勝とうな！",
-        "たくさん勝とうね！"
+        "¡Claro! ¡Ganemos montones de carreras juntos!",
+        "¡Claro! ¡Ganemos montones de carreras juntos!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……勝利を目指すのは当然ですが、\r\n厳密な目標設定には賛成しません。"
+      "name": "Eishin Flash",
+      "text": "Va sin decir que me esfuerzo por la <n>victoria, pero\nme opongo a establecer una meta<n> tan estricta."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "仮に勝利できなかった場合、\n予定外のこととなってしまいます。",
+      "name": "Eishin Flash",
+      "text": "La razón es que si no logro ganar, <n>conducirá a\ncambios imprevistos.",
       "choice_data_list": [
-        "判定が厳しいな……",
-        "判定が厳しいね……"
+        "Eres muy duro contigo mismo...",
+        "Eres muy duro contigo mismo..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そうでしょうか？　それより、\nスケジュールの共有も終わりましたし、\n細かい擦り合わせを始めましょう。"
+      "name": "Eishin Flash",
+      "text": "¿Crees eso? Más importante aún, <n>hablemos de los\ndetalles de mi calendario<n> ahora que ya lo he\nexpuesto."
     },
     {
-      "text": "デビューまでの細かい擦り合わせを終え、\nエイシンフラッシュを寮まで送った帰り道――",
+      "name": "Monólogo",
+      "text": "Después de ultimar los detalles previos a <n>su\ndebut, acompaño a Eishin Flash de vuelta a su<n>\ndormitorio.",
       "choice_data_list": [
-        "全部ひとりで立てたんだ？"
+        "¿Entonces armaste esto tú misma?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "スケジュールですか？\nはい、そうです。",
+      "name": "Eishin Flash",
+      "text": "¿El calendario, te refieres? Sí, es de<n> mi\ncreación.",
       "choice_data_list": [
-        "すごいな",
-        "すごいね"
+        "Eso es impresionante.",
+        "Eso es impresionante."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……いえ。私のやり方なんて、\n両親に比べればまだまだです。"
+      "name": "Eishin Flash",
+      "text": "...Para nada. Comparada con mis padres,<n> aún tengo\nmucho que mejorar."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "母は徹底的に準備をして目標通り走り、\n父も最初に決めた計画通り店を持った。"
+      "name": "Eishin Flash",
+      "text": "Mi madre se prepara a fondo y <n>cumple sus metas con\nuna precisión impecable,<n> y el primer plan que creó\nmi padre para<n> abrir una panadería fue un rotundo\nexito."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私もこの完璧なスケジュール通り、\n全てを進めて……完璧な私にならなければ。"
+      "name": "Eishin Flash",
+      "text": "Para que yo tenga alguna esperanza de completar<n>\neste calendario perfecto, debo convertirme en<n> la\nversión perfecta de mí misma..."
     },
     {
-      "text": "そう呟き、考え込んでしまった彼女。\n話題を変えるために――",
+      "name": "Monólogo",
+      "text": "Sus suaves palabras se desvanecen mientras se\npierde en<n> sus pensamientos. Intento cambiar de\ntema antes de que<n> las cosas se pongan demasiado\nintensas.",
       "choice_data_list": [
-        "そういえば3年後の予定も決まってるのか？",
-        "そういえば3年後の予定も決まってるの？"
+        "¿Cuáles son tus planes después de que pasen esos\ntres años?",
+        "¿Cuáles son tus planes después de que pasen esos\ntres años?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。なすべきことをなしたら――\n引退も視野に入れています。",
+      "name": "Eishin Flash",
+      "text": "Una vez que haya hecho lo que debo <n>hacer, pondré\nmis ojos en el retiro.",
       "choice_data_list": [
-        "引退！？"
+        "¡¿El retiro?!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……そこまで驚くことでしょうか？"
+      "name": "Eishin Flash",
+      "text": "¿Por qué estás tan sorprendido?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "この3年間でなすべきことをなしえたら、\r\n当然考えられる選択肢だと思います。\n母も4年でキャリアを終えていますし。"
+      "name": "Eishin Flash",
+      "text": "Es una opción perfectamente viable si <n>completo mis\nmetas dentro de estos tres años.<n> Después de todo,\nla carrera de mi madre <n>solo duró cuatro."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "現時点では、全て終わったらドイツに戻り、\n両親のケーキ屋を手伝う予定です。"
+      "name": "Eishin Flash",
+      "text": "Por el momento, pretendo regresar a <n>Alemania para\nayudar en la panadería de mis <n>padres una vez que\nhaya logrado mis metas aquí."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……のちの10年間のスケジュールも\n決まっていますが、聞きますか？",
+      "name": "Eishin Flash",
+      "text": "También tengo planeados los primeros diez años<n> de\nesa línea de tiempo. ¿Te gustaría <n>escucharlo?",
       "choice_data_list": [
-        "それはまた今度……"
+        "Eh, en otro momento quizás..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……安心してください。\n私はきちんと、明確に、本気です。",
+      "name": "Eishin Flash",
+      "text": "No te preocupes. Hablo completamente<n> en serio\nsobre lo que viene.",
       "choice_data_list": [
-        "え……"
+        "¿A qué te refieres?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "貴方と歩むこの3年間は、\n私の全精力をレースに注ぎます。"
+      "name": "Eishin Flash",
+      "text": "Me dedicaré por completo a las <n>carreras durante\nestos tres años bajo<n> tu guía."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "なので改めて……私と一緒に、\nどうか最後までレースを駆け抜けてください。",
+      "name": "Eishin Flash",
+      "text": "Así que, pregunto una vez más... Por favor,<n> guíame\nhasta la última carrera.",
       "choice_data_list": [
-        "もちろん！"
+        "¡Por supuesto!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "これからよろしくお願いします、\nトレーナーさん。"
+      "name": "Eishin Flash",
+      "text": "Espero con ansias tu tutoría."
     }
   ]
 }

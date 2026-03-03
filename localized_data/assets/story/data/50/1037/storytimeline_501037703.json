@@ -2,206 +2,214 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "エイシンフラッシュと外出先での\n用事を終えたのち、向かったのは……。",
+      "name": "Monólogo",
+      "text": "Después de hacer mandados con Eishin Flash,<n> nos\ndirigimos a un último lugar.",
       "choice_data_list": [
-        "やっと着いたな",
-        "やっと着いたね"
+        "Por fin llegamos.",
+        "Por fin llegamos."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "この旅館が……\n『伝統文化体験講座』の会場。"
+      "name": "Eishin Flash",
+      "text": "En efecto. Aquí está la posada que alberga la\n<n>conferencia inmersiva sobre la cultura japonesa."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "温故知新とありますように、\n古き伝統を知ることで、\n新しきを理解して見せますから……！"
+      "name": "Eishin Flash",
+      "text": "¡Aprende del pasado, como dicen! <n>Aprender sobre\ntradiciones centenarias debería<n> ayudarme a\nprofundizar mi <n>comprensión de las tendencias\nmodernas!"
     },
     {
-      "text": "以前、友人と共にカラオケに行った際に\n『最新の日本文化』を知ると決めた彼女。"
+      "name": "Monólogo",
+      "text": "Eishin Flash ha decidido aprender <n>todo sobre las\ntendencias más nuevas de<n> la cultura japonesa\ndespués de cantar <n>karaoke con su amiga el otro\ndía."
     },
     {
-      "text": "そこで早速、今日は日本文化を学べる講座に\n参加する事となったのだ。"
+      "name": "Monólogo",
+      "text": "Y para facilitar eso, asistimos a una conferencia<n>\nsobre la cultura japonesa."
     },
     {
-      "name": "仲居さん",
-      "text": "こちらが普段使われております、\r\n宿泊用の部屋でございます。"
+      "name": "Anfitriona",
+      "text": "Aquí hay una habitación típica para huéspedes en\nesta posada."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……あ！？",
+      "name": "Eishin Flash",
+      "text": "¡Oh!",
       "choice_data_list": [
-        "どうしたんだ？",
-        "どうしたの？"
+        "¿Qué pasa?",
+        "¿Qué hay?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "いえ……確か日本の部屋には、\nなにか特別なマナーがあったような。"
+      "name": "Eishin Flash",
+      "text": "Perdón, acabo de recordar que hay una etiqueta<n>\nespecífica para entrar a una <n>habitación estilo\njaponés."
     },
     {
-      "name": "仲居さん",
-      "text": "あら、お詳しいんですね。\n畳の縁は踏まない……といったものですよね？"
+      "name": "Anfitriona",
+      "text": "Vaya, qué bien informada estás. Debes<n> estar\nhablando de cómo no se debe pisar <n>las grietas\nentre las esteras de tatami."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……危うく踏むところでした。\n以後、気をつけます。"
+      "name": "Eishin Flash",
+      "text": "Casi acabo de hacerlo. Seré más cautelosa<n> de ahora\nen adelante."
     },
     {
-      "name": "仲居さん",
-      "text": "そんなに緊張なさらなくても大丈夫ですよ。\r\nぜひ、ゆるりと楽しんでください。"
+      "name": "Anfitriona",
+      "text": "Por favor, no hay necesidad de estar nerviosa.\n<n>Relájate y disfruta del recorrido."
     },
     {
-      "text": "その後も、彼女は緊張した様子で\n旅館を見学していたが――"
+      "name": "Monólogo",
+      "text": "Sin embargo, Eishin Flash permanece en alerta\n<n>máxima mientras continúa el recorrido, hasta\nque..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "清掃の度に、湯を全て入れ替えるだなんて。\n費用対効果を鑑みれば非効率ですが……。"
+      "name": "Eishin Flash",
+      "text": "Me sorprende que tengan que cambiar toda el <n>agua\ncaliente cada vez que limpian. Desde un <n>punto de\nvista de eficiencia de costos, parece <n>bastante\nderrochador..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "なにより、お客様の健康を優先する。\n素晴らしい衛生管理です。"
+      "name": "Eishin Flash",
+      "text": "Pero <i>sí</i> es importante priorizar <n>la salud y\nseguridad de los huéspedes, y esa es<n> una forma\nfantástica de mantener todo<n> higiénico."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "これだけの部屋数がありながら、\n時間通りにお料理を配膳するだなんて。"
+      "name": "Eishin Flash",
+      "text": "No puedo creer que sean capaces de servir <n>las\ncomidas tan puntualmente a pesar de cuántas<n>\nhabitaciones hay aquí..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "この徹底された時間管理。\nまさに脱帽の一言です……！"
+      "name": "Eishin Flash",
+      "text": "Este es el verdadero epítome de la<n> gestión del\ntiempo. ¡Les quito el sombrero!"
     },
     {
-      "name": "仲居さん",
-      "text": "以上で、講座は終了です。\nいかがでしたか？"
+      "name": "Anfitriona",
+      "text": "Eso concluye la conferencia de hoy. <n>¿Qué les\npareció?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "とても……とても、素晴らしかったです。\r\nまだまだ見て回りたいと思うほどに。",
+      "name": "Eishin Flash",
+      "text": "Fue maravilloso más allá de las palabras. De\n<n>hecho, me encantaría hacer un recorrido<n> aún más\nprofundo.",
       "choice_data_list": [
-        "随分気に入ったみたいだな！",
-        "随分気に入ったみたいだね！"
+        "¡Parece que te divertiste mucho!",
+        "¡Parece que te divertiste mucho!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ええ、『おもてなし』の伝統を感じました。"
+      "name": "Eishin Flash",
+      "text": "Así es. La hospitalidad japonesa<n>\ntradicional—\"omotenashi\"—realmente<n> es excepcional."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "寝巻に伝統衣装の浴衣を用意する点は、\r\n文化的側面から見て評価できますし。"
+      "name": "Eishin Flash",
+      "text": "Que te proporcionen un yukata tradicional<n> como\npijama también es una experiencia valiosa<n> desde\nuna perspectiva cultural."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "なにより、客をもてなすというその一心に\n全ての施設、サービスが集約している。"
+      "name": "Eishin Flash",
+      "text": "Sobre todo, cada elemento de esta instalación\ntrabaja<n> en armonía para hacer sentir a los\nhuéspedes como<n> en casa."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "旅館について、知識で知った気になっていた。\nそう痛感しました。"
+      "name": "Eishin Flash",
+      "text": "Ahora, soy dolorosamente consciente de que todo <n>lo\nque creía saber sobre las posadas japonesas era<n>\nsuperficial en el mejor de los casos."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私には、まだ学ぶべきことがありますね。\n……このまま帰ってしまうのが惜しいです。"
+      "name": "Eishin Flash",
+      "text": "Aún tengo mucho que aprender... Parece <n>una lástima\npartir mientras aún soy tan<n> ignorante."
     },
     {
-      "text": "エイシンフラッシュは旅館を発つことに\n後ろ髪を引かれているようだ。ならば――",
+      "name": "Monólogo",
+      "text": "Eishin Flash parece reacia a irse. <n>En ese caso...",
       "choice_data_list": [
-        "今度は宿泊してみる、とか？",
-        "仲居さんに質問してみよう"
+        "¿Te gustaría quedarte aquí alguna noche?",
+        "¿Te gustaría hacerle algunas preguntas a la\nanfitriona?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "なるほど、実際に宿泊すれば\n新たな視点で学びが得られそうですね。"
+      "name": "Eishin Flash",
+      "text": "Esa es una sugerencia intrigante. Ciertamente<n>\npodría aprender mucho más si realmente<n> pasara una\nnoche aquí."
     },
     {
-      "name": "仲居さん",
-      "text": "あら、嬉しい限りです。\nそうですね、お泊りになっていただけたら――"
+      "name": "Anfitriona",
+      "text": "¡Oh, sería un honor tenerlos! Hay <n>montones de\ncosas que disfrutar aquí."
     },
     {
-      "name": "仲居さん",
-      "text": "まずは、当館自慢の温泉にて、\n日頃の疲れを癒していただきまして。"
+      "name": "Anfitriona",
+      "text": "Primero, está nuestra maravillosa fuente<n> termal\ndonde pueden lavar su fatiga."
     },
     {
-      "name": "仲居さん",
-      "text": "夜には旬の食材をふんだんに利用した\nお料理をお部屋で楽しめます。"
+      "name": "Anfitriona",
+      "text": "Luego por la noche, nuestros chefs preparan<n> la\ncena usando ingredientes frescos y de temporada<n> en\nabundancia. Pueden disfrutar su comida en<n> su\nhabitación."
     },
     {
-      "name": "仲居さん",
-      "text": "夏には日本の夜空で咲く\n大輪の花火を見ることもできますよ。"
+      "name": "Anfitriona",
+      "text": "Si nos visitan en el verano, podrían ver<n> fuegos\nartificiales iluminar el cielo <n>nocturno."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "す……素晴らしい！\nでは早速、夏の予約をしてきます。"
+      "name": "Eishin Flash",
+      "text": "¡B-brillante! Haré una reserva<n> de verano ahora\nmismo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "…………。",
+      "name": "Eishin Flash",
+      "text": "...",
       "choice_data_list": [
-        "あれ、予約は？"
+        "¿No ibas a hacer una reserva?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "Ohne Fleiß kein Preis.\n…Sin esfuerzo no hay recompensa."
+      "name": "Eishin Flash",
+      "text": "Sin esfuerzo no hay premio. No hay <n>ganancia sin\ndolor."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "トレーナーさん……私、貯金をします。"
+      "name": "Eishin Flash",
+      "text": "En otras palabras... Comenzaré a ahorrar<n> dinero."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "お菓子の材料費を2割ほど削り、\n3年6か月積み立てれば……実行可能ですから。"
+      "name": "Eishin Flash",
+      "text": "Si reduzco mi presupuesto para <n>ingredientes de\nrepostería en un 20%, debería<n> poder quedarme\naquí... en exactamente tres <n>años, seis meses."
     },
     {
-      "text": "どうやら、それなりのお値段だったようだ。\nかくしてエイシンフラッシュは、\n新たな決意を宿すのであった。"
+      "name": "Monólogo",
+      "text": "Parece que reservar una habitación aquí no es\n<n>barato. Pero al menos Eishin Flash ahora tiene una<n>\nnueva meta hacia la que esforzarse."
     },
     {
-      "name": "仲居さん",
-      "text": "もっとお知りになりたい……であれば、\r\n『仲居体験講座』がございますよ？"
+      "name": "Anfitriona",
+      "text": "¿Desean saber más? En ese caso, les <n>recomendaría\nasistir a nuestro <n>seminario inmersivo de ama de\ncasa."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "！　ぜひ、参加させていただきます。"
+      "name": "Eishin Flash",
+      "text": "¡Oh! Me encantaría asistir a eso."
     },
     {
-      "text": "（コンコン）"
+      "name": "Monólogo",
+      "text": "<i>Toc, toc.</i>"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "失礼いたします。本日は当旅館へ\nお越しいただきありがとうございます。",
+      "name": "Eishin Flash",
+      "text": "Disculpen la intromisión. Gracias por<n> quedarse con\nnosotros hoy.",
       "choice_data_list": [
-        "今日はお世話になります"
+        "El placer es todo mío."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "誠心誠意、おもてなしさせていただきます。\n疲れを癒し、ごゆるりとお寛ぎくださいね。"
+      "name": "Eishin Flash",
+      "text": "Si hay algo que podamos proporcionar<n> para hacer su\nestancia más <n>cómoda, no duden en preguntar."
     },
     {
-      "name": "仲居さん",
-      "text": "はいっ♪　完璧なご案内ですね。\n所作も申し分ありません。"
+      "name": "Anfitriona",
+      "text": "¡Bien hecho! ♪ Esa fue una salutación<n> perfecta."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ありがとうございます。\nしかし……長時間の正座は、なかなか……。"
+      "name": "Eishin Flash",
+      "text": "Muchas gracias. Sin embargo... estar sentada<n> de\nrodillas tanto tiempo es bastante doloroso..."
     },
     {
-      "name": "仲居さん",
-      "text": "慣れないと難しいですよね。\r\n私も仲居になりたての時は苦労しましたもの。"
+      "name": "Anfitriona",
+      "text": "Sí, es una posición difícil de mantener si no<n>\nestás acostumbrada. Recuerdo que también <n>me costó\ncuando me convertí en anfitriona por<n> primera vez."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "慣れ……つまり\n伝統とは経験の積み重ね、と。"
+      "name": "Eishin Flash",
+      "text": "Hm... Tanto el aprendizaje como las tradiciones<n> se\ncultivan a través de la acumulación<n> de\nexperiencias."
     },
     {
-      "name": "仲居さん",
-      "text": "ええ。\n伝統とはそうして築かれてゆくものですから。"
+      "name": "Anfitriona",
+      "text": "En efecto. Así es exactamente como se construyen<n>\nlas tradiciones."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "それが、伝統……ありがとうございます。\n大変参考になりました。"
+      "name": "Eishin Flash",
+      "text": "La construcción de la tradición... <n>Muchas gracias.\nEsto fue muy informativo."
     },
     {
-      "text": "はっきりと返事をしたエイシンフラッシュの\n瞳はどこか輝いて見えるのであった。"
+      "name": "Monólogo",
+      "text": "Los ojos de Eishin Flash brillan con alegría y\n<n>conocimiento recién descubiertos mientras agradece\na<n> la anfitriona por su tiempo."
     }
   ]
 }

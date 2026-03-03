@@ -1,0 +1,106 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy comprando en el centro comercial cuando<n> veo\na Admire Vega consolando a un niño llorando."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Oye, qué pasó—"
+    },
+    {
+      "name": "Niño",
+      "text": "¡Buaaah!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>Suspiro...</i>",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Eso es lo que me gustaría saber.",
+      "choice_data_list": [
+        "Hola, ¿estás perdido?"
+      ]
+    },
+    {
+      "name": "Niño",
+      "text": "¡Buaaaah! ¡Tengo miedo!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ha estado así por un rato. He intentado<n> hablar con\nél, pero no deja de<n> llorar.",
+      "choice_data_list": [
+        "¡Trabajemos juntos!",
+        "Intentemos calmarlo."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Eh? Dije que ya he intentado todo—",
+      "choice_data_list": [
+        "¿Puedes traer a alguien del puesto de información?\nYo me quedo con el niño.",
+        "¿Puedes traer a alguien del puesto de información?\nYo me quedo con el niño."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Está bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En solo unos minutos, logramos que el personal<n> del\ncentro comercial haga un anuncio por <n>el sistema de\naltavoces."
+    },
+    {
+      "name": "Niño",
+      "text": "¡Hermanitaaa! ¡Tenía mucho miedo!"
+    },
+    {
+      "name": "Niña",
+      "text": "¡Y te dije que no te separaras!<n> ¡Más te vale no\nsoltarte de mi mano<n> esta vez!",
+      "choice_data_list": [
+        "Me alegra que hayamos encontrado a su familia."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Yo también."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Viendo al niño evidentemente en pánico por <n>haberse\nperdido, le damos palmadas en la espalda y\n<n>tratamos de tranquilizarlo lo mejor que podemos."
+    },
+    {
+      "name": "Niño",
+      "text": "<i>...Snif.</i> Mi hermana... No sé dónde<n> está."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...! Oh."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No te preocupes, estoy seguro de que tu <n>hermana\ntambién te está buscando. ¿Dónde <n>se separaron?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, después de obtener suficiente\n<n>información del niño..."
+    },
+    {
+      "name": "Niño",
+      "text": "¡Gracias! ¡Adiós!",
+      "choice_data_list": [
+        "Qué bien para él."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Sí."
+    }
+  ]
+}

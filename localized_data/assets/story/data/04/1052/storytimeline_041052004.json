@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Es el día de las pruebas..."
+      "text": "Es el día de las carreras de clasificación..."
     },
     {
       "name": "Haru Urara",
-      "text": "¡Hoy es el día! ¡Yo <i>sé</i> que esta vez voy a<n>ganar!",
+      "text": "¡Hoy es el día! ¡Yo <i>solo <i>sé</i> que voy a <n>ganar esta\nvez!",
       "choice_data_list": [
         "Alguien está de buen humor.",
         "Alguien está de buen humor."
@@ -15,19 +15,19 @@
     },
     {
       "name": "Haru Urara",
-      "text": "¡Pues sí! ¡He entrenado <i>tan</i> duro y\ncomido<n><i>tantas</i> zanahorias, ¿cómo podría no\nestarlo?!"
+      "text": "¡Bueno, sí! He entrenado <i>tan</i> duro, y comido <n><i>tantas</i> zanahorias, ¿cómo no <i>podría</i> estarlo?!"
     },
     {
       "name": "Haru Urara",
-      "text": "Aunque quizás comí demasiadas zanahorias,<n>jeje.\n¡Estoy segura de que está bien!"
+      "text": "Aunque, puede que haya comido demasiadas\nzanahorias,<n> hehe. ¡Estoy segura de que está bien!"
     },
     {
       "name": "King Halo",
-      "text": "Así que aquí has estado."
+      "text": "Así que aquí es donde has estado."
     },
     {
       "name": "Special Week",
-      "text": "¡Vinimos a animarte, Urara!"
+      "text": "¡Estamos aquí para animarte, Urara!"
     },
     {
       "name": "Haru Urara",
@@ -35,31 +35,31 @@
     },
     {
       "name": "King Halo",
-      "text": "Entrenaste con la mismísima King Halo,<n>solo\ntienes que salir y ganar ahora."
+      "text": "¡Entrenaste con la poderosa King Halo<n> en persona,\nsolo tienes que salir allá y <n>ganar ahora."
     },
     {
       "name": "Haru Urara",
-      "text": "¡Sí, no hay problema! ¡Definitivamente voy a<n>ganar esto!"
+      "text": "¡Sí, no hay problema! ¡Definitivamente ganaré<n>\nesta!"
     },
     {
       "name": "Special Week",
-      "text": "¡Sé que puedes hacerlo! Solo recuerda\ntu<n>entrenamiento, ¡y volarás por la pista!"
+      "text": "¡Sé que puedes hacerlo! Solo recuerda <n>tu\nentrenamiento, y ¡volarás por la pista!"
     },
     {
       "name": "Haru Urara",
-      "text": "Recordar mi entrenamiento... ¡Bien!"
+      "text": "Recordar mi entrenamiento... ¡Ok!"
     },
     {
       "name": "Haru Urara",
-      "text": "¡Solo pensaré en todas las veces que\nte<n>atiborraste de bocadillos! ¡O la vez que<n>te\ntropezaste y te cubriste de lodo!"
+      "text": "¡Solo pensaré en todas las veces que te <n>llenaste\nla cara con snacks! ¡O la vez que <n>tropezaste y te\ncubriste de barro!"
     },
     {
       "name": "Special Week",
-      "text": "¡N-no tienes que recordar <i>esas</i> partes<n>del entrenamiento!"
+      "text": "¡N-no tienes que recordar <i>esas</i> partes del<n>\nentrenamiento!"
     },
     {
-      "name": "Locutor",
-      "text": "La tercera carrera de pruebas comenzará<n>pronto.\nCorredoras, por favor diríjanse a<n>la puerta de\nsalida."
+      "name": "Anunciador",
+      "text": "La tercera carrera de clasificación comenzará <n>en\nbreve. Corredores, por favor diríjanse a <n>la puerta\nde salida."
     },
     {
       "name": "Haru Urara",
@@ -71,31 +71,31 @@
     },
     {
       "name": "Haru Urara",
-      "text": "¡Gracias! No me quites los ojos de encima,<n>¿vale? ¡Nos vemos después de la carrera!"
+      "text": "¡Gracias! ¡No dejes de mirarme, ¿vale?<n> ¡Nos vemos\ndespués de la carrera!"
     },
     {
       "name": "Monólogo",
-      "text": "Al fin, comienza la carrera de pruebas de Haru Urara."
+      "text": "Por fin, la carrera de clasificación de Haru Urara\ncomienza."
     },
     {
       "name": "Comentarista",
-      "text": "¡Las corredoras avanzan por la pista de<n>tierra,\nsin duda con la Twinkle Series<n>en mente!"
+      "text": "¡Las corredoras están corriendo por el <n>curso de\ntierra, sin duda con la Twinkle <n>Series en sus\nmentes!"
     },
     {
       "name": "Comentarista",
-      "text": "¿Y quién es esta que viene última? ¡Vaya,<n>es Haru Urara!"
+      "text": "¿Ahora quién es esta que va en la retaguardia?\n¡Por<n> supuesto, es Haru Urara!"
     },
     {
       "name": "Comentarista",
-      "text": "¿Estará conservando energía... no parece!<n>¡Da\ntodo de sí, pero aún va detrás del<n>grupo!"
+      "text": "¿Podría estar conservando su energía...<n> no lo\nparece! ¡Está dando todo de sí, <n>pero aún así va\nrezagada detrás del grupo!"
     },
     {
       "name": "Special Week",
-      "text": "¡Tú puedes, Urara!"
+      "text": "¡Puedes hacerlo, Urara!"
     },
     {
       "name": "King Halo",
-      "text": "¡Da todo lo que tienes!"
+      "text": "¡Dale todo lo que tienes!"
     },
     {
       "name": "Granjero",
@@ -110,79 +110,79 @@
     },
     {
       "name": "Monólogo",
-      "text": "Todos aquellos cuyo ánimo fue levantado por<n>el\noptimismo contagioso de Haru Urara se<n>han\nreunido para animarla."
+      "text": "Todos los que han tenido sus espíritus elevados<n>\npor el optimismo contagioso de Haru Urara<n> se han\nreunido para animarla."
     },
     {
       "name": "Monólogo",
-      "text": "Cuando la carrera llega a su conclusión..."
+      "text": "Mientras la carrera llega a su conclusión..."
     },
     {
       "name": "Comentarista",
-      "text": "...¡Y cruzó la meta! Nuestra ganadora\nha<n>terminado, seguida de cerca por el\nresto<n>del grupo!"
+      "text": "...¡Y cruza la línea! ¡Nuestra ganadora<n> ha\nterminado, seguida poco después por el resto<n> del\ngrupo!"
     },
     {
       "name": "Monólogo",
-      "text": "¿Finalmente dará frutos el arduo trabajo de<n>la\nsiempre optimista corredora? La<n>posición final\nde Haru Urara es..."
+      "text": "¿El trabajo duro de la siempre animosa corredora<n>\ndará frutos al fin? La colocación final<n> de Haru\nUrara es..."
     },
     {
       "name": "Haru Urara",
-      "text": "¡Guau! ¡Noveno lugar! ¡Nunca lo había hecho<n>tan bien antes!"
+      "text": "¡Wuju! ¡Noveno lugar! ¡Nunca me había ido<n> tan bien\nantes!"
     },
     {
       "name": "Special Week",
-      "text": "¡Felicidades, Urara! Esa fue una carrera<n>increíble."
+      "text": "¡Felicitaciones, Urara! Esa fue una <n>carrera\nasombrosa."
     },
     {
       "name": "King Halo",
-      "text": "Ciertamente. Diste todo de ti, hasta el<n>mismo final."
+      "text": "En efecto. Diste todo de ti, hasta <n>el mismo final."
     },
     {
       "name": "Haru Urara",
-      "text": "Supongo que eso es lo emocionante de\nlas<n>carreras. ¡Nunca sabes qué va a pasar!"
+      "text": "Supongo que esa es la emocionante cosa <n>sobre las\ncarreras. ¡Nunca sabes qué <n>va a pasar!"
     },
     {
       "name": "Granjero",
-      "text": "Buen trabajo hoy, Urara. Toma, ¡estas<n>zanahorias son por cuenta de la casa!"
+      "text": "Buen trabajo hoy, Urara. ¡Aquí, estas zanahorias\nson<n> por cortesía de la casa!"
     },
     {
       "name": "Haru Urara",
-      "text": "¡¿En serio?! ¡Sííí! ¡Esto es justo lo que<n>necesito para prepararme para la próxima carrera!"
+      "text": "¡¿En serio?! ¡Yippee! ¡Esto es justo lo que\nnecesito para<n> prepararme para la próxima carrera!"
     },
     {
       "name": "Monólogo",
-      "text": "Y así, Haru Urara termina novena de diez<n>corredoras."
+      "text": "Y así, Haru Urara termina novena de <n>diez\ncorredoras."
     },
     {
       "name": "Haru Urara",
-      "text": "Bueno, eso resuelve las pruebas. ¡Qué<n>divertido!",
+      "text": "Bueno, eso se encarga de las carreras de\nclasificación. <n>¡Qué divertido!",
       "choice_data_list": [
-        "Tu esfuerzo valió la pena.",
-        "Tu esfuerzo valió la pena."
+        "Tu trabajo duro dio frutos.",
+        "Tu trabajo duro dio frutos."
       ]
     },
     {
       "name": "Haru Urara",
-      "text": "Jeje, aún no lo creo. ¡Noveno lugar!"
+      "text": "Ehehe, todavía no puedo creerlo. ¡Noveno lugar!"
     },
     {
       "name": "Haru Urara",
-      "text": "¡Pero yo <i>sé</i> que llegaré primera la\npróxima<n>vez! No puedo esperar a las\npróximas<n>pruebas..."
+      "text": "¡Pero yo solo <i>sé</i> que </i>quedaré en primer lugar la\npróxima <n>vez! ¡No puedo esperar hasta las próximas\ncarreras de clasificación..."
     },
     {
       "name": "Monólogo",
-      "text": "Ser tan optimista frente a la derrota no es<n>tan\nsimple como ella lo hace parecer."
+      "text": "Ser tan optimista frente a la derrota no <n>es tan\nsimple como ella lo hace parecer."
     },
     {
       "name": "Monólogo",
-      "text": "Quizás eso es lo que hace a Haru Urara\ntan<n>cautivadora para la gente a su\nalrededor...<n>incluyéndome a mí.",
+      "text": "Quizás eso es lo que hace a Haru Urara tan<n>\nconvincente para las personas que la rodean...<n>\nincluyéndome a mí.",
       "choice_data_list": [
-        "Entonces, ¿quieres aspirar a llegar primera\nconmigo?",
-        "Entonces, ¿quieres aspirar a llegar primera\nconmigo?"
+        "Entonces, ¿quieres apuntar al primer lugar con\nmigo?",
+        "Entonces, ¿quieres apuntar al primer lugar con\nmigo?"
       ]
     },
     {
       "name": "Haru Urara",
-      "text": "¡Wow! ¡¿En serio vas a ayudarme a entrenar<n>más?!",
+      "text": "¡¿Guau?! ¡Vas a ayudarme a <n>entrenar más?!",
       "choice_data_list": [
         "¡Por eso te estoy reclutando!",
         "¡Por eso te estoy reclutando!"
@@ -194,30 +194,30 @@
     },
     {
       "name": "Haru Urara",
-      "text": "¡¿Qué?! ¡¿Quieres reclutar a <i>MÍ?!</i><n>¡¿En serio?!",
+      "text": "¡¿Qué?! ¿Quieres <i>reclutar <i>¿YO?!</i><n> </i>¿En serio?!",
       "choice_data_list": [
         "En serio."
       ]
     },
     {
       "name": "Haru Urara",
-      "text": "¡Sííí! ¡Entonces eso significa que puedo<n>correr en la Twinkle Series!"
+      "text": "¡Yippee! ¡Entonces eso significa que puedo correr<n>\nen la Twinkle Series!"
     },
     {
       "name": "Haru Urara",
-      "text": "¡Si debutó allí, podré correr en todo tipo de<n>carreras!"
+      "text": "Si hago mi debut allí, ¡podré correr<n> en todo tipo\nde carreras!"
     },
     {
       "name": "Haru Urara",
-      "text": "¡Y llegaré primera en cada una! ¡Oh, no<n>puedo esperar!"
+      "text": "¡Y quedaré en primer lugar en cada una! Oooh,<n> ¡no\npuedo esperar!"
     },
     {
       "name": "Haru Urara",
-      "text": "¡Gracias por reclutarme! Haré que valga la<n>pena\ny ganaré montones de carreras!"
+      "text": "¡Gracias por reclutarme! ¡Haré que valga la<n> pena y\nganaré montones y montones de carreras!"
     },
     {
       "name": "Monólogo",
-      "text": "Con ese decreto, comienza mi viaje con\nla<n>incesantemente optimista Haru Urara."
+      "text": "Con ese decreto, mi viaje con la <n>infinitamente\noptimista Haru Urara comienza."
     }
   ]
 }

@@ -3,53 +3,53 @@
   "text_block_list": [
     {
       "name": "Eishin Flash",
-      "text": "Recuerdos cálidos me acunan en un\nsueño.<n>Recuerdos de la infancia, de Navidad..."
+      "text": "Recuerdos cálidos me acunan en un sueño.<n> Recuerdos\nde la infancia, de las fiestas..."
     },
     {
       "name": "Eishin Flash",
-      "text": "Tras todos sus preparativos, papá hornea\nun<n>pastel navideño francés solo para nosotros.\nEs tan<n>dulce y—"
+      "text": "Después de preparar los ingredientes, Papá<n> nos\nhornea un pastel francés especial para las\nfiestas.<n> Es tan dulce y—"
     },
     {
-      "name": "Joven Flash",
-      "text": "<I>¡Mmm! ¡Papá, es increíble! ¿Cómo es que tus<n>pasteles siempre son tan buenos?</I>"
-    },
-    {
-      "name": "Padre de Flash",
-      "text": "<I>Bueno, eso es porque sigo la receta.<n>Y no\ncualquier receta—la receta<n>perfecta, probada y\nrefinada una y otra<n>vez.</I>"
+      "name": "Flash joven",
+      "text": "<i>Mmm! Papá, es increíble. ¿Cómo tus pasteles<n>\nsiempre son tan buenos?</i>"
     },
     {
       "name": "Padre de Flash",
-      "text": "<I>Los ingredientes, el tiempo de horneado,\nincluso<n>la forma en que uso este azúcar en\npolvo—todo<n>ya está establecido. Simplemente sigo\nlos<n>movimientos correctos.</I>"
+      "text": "<i>Bueno, eso es porque sigo la receta. Y<n> no\ncualquier receta—la receta <i></i><i>perfecta</i>,<n> probada y\nperfeccionada una y otra<n> vez.</i>"
     },
     {
       "name": "Padre de Flash",
-      "text": "<I>Ni un gramo de más ni de menos.<n>La precisión\nes lo que hace que mis pasteles sepan<n>tan bien,\ny es mi fuente de orgullo como<n>pastelero.</I>"
+      "text": "<i>Los ingredientes, el tiempo de horneado,<n> incluso\nla forma en que uso este azúcar en polvo—todo<n> está\npredeterminado. Simplemente sigo los <n>movimientos\ncorrectos.</i>"
     },
     {
       "name": "Padre de Flash",
-      "text": "\"¿Entiendes, Flash? Nuestro—\""
+      "text": "<i>No un gramo demasiado ni demasiado poco.<n> La\nprecisión es lo que hace que mis pasteles<n> tengan\nbuen sabor, y es mi fuente de orgullo como<n>\npastelero.</i>"
+    },
+    {
+      "name": "Padre de Flash",
+      "text": "<i>¿Entiendes, Flash? Nuestro—</i>"
     },
     {
       "name": "Eishin Flash",
-      "text": "¿Dónde... estoy?",
+      "text": "...¿Eh? ¿Dónde... estoy?",
       "choice_data_list": [
-        "¿Despiertas?"
+        "¿Te has despertado?"
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "Disculpa, ¿podrías decirme qué pasó?<n>¿Por qué\nestoy en la enfermería?",
+      "text": "Lo siento, ¿podrías decirme qué ha pasado? ¿Por\n<n>qué estoy en la oficina de la enfermera?",
       "choice_data_list": [
         "Te desmayaste."
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "Ya veo... Debo haber estado más fatigada<n>de lo que esperaba."
+      "text": "Entiendo... Debo haber estado más agotada<n> de lo\nque esperaba."
     },
     {
       "name": "Eishin Flash",
-      "text": "Pero si no es nada serio, aún podré<n>competir\nmañana. ¿Es correcto asumir<n>eso?",
+      "text": "Pero si no es nada serio, todavía podré correr<n>\nmañana. ¿Estoy en lo correcto al asumir<n> eso?",
       "choice_data_list": [
         "Sí, pero...",
         "Sí, pero..."
@@ -57,96 +57,96 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Lo sé. No podré dar mi mejor<n>rendimiento así.\nEso es lo que quieres<n>decir, supongo."
+      "text": "Lo sé. No podré dar mi mejor <n>rendimiento de esta\nmanera. Eso es lo que<n> quieres decir, supongo."
     },
     {
       "name": "Eishin Flash",
-      "text": "Aún así, debo competir mañana, pase lo que<n>pase.\nYo... no tendré una segunda<n>oportunidad.",
+      "text": "Aun así, debo correr mañana, no importa <n>qué. Yo...\nno tendré una segunda oportunidad.",
       "choice_data_list": [
-        "¿Por qué te exiges tanto?"
+        "¿Por qué te empujas tan duro?"
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "Cuando vine a este país, hice una<n>promesa a mis\npadres. Que un año más<n>tarde, verían cómo había\ncrecido adecuadamente por<n>mi cuenta."
+      "text": "Cuando me fui a Japón, hice una promesa a mis<n>\npadres. Les prometí que un año después, verían\n<n>cómo me había desarrollado adecuadamente por<n> mi\ncuenta."
     },
     {
       "name": "Eishin Flash",
-      "text": "A cambio, pedí solo un día de su<n>tiempo. Ellos\ncumplieron su parte del trato<n>y encontraron\ntiempo en sus agendas ocupadas."
+      "text": "A cambio, les pedí solo un día de su tiempo.<n> Han\ncumplido con su parte del trato y han <n>encontrado\ntiempo en sus ocupadas agendas para<n> mí."
     },
     {
       "name": "Eishin Flash",
-      "text": "Así que debo corresponder... para mostrar<n>les\nresultados dignos de la hija de dos<n>maestros.",
+      "text": "Así que debo responder de la misma manera...<n> y\nmostrarles resultados dignos de la hija de <n>dos\nmaestros.",
       "choice_data_list": [
-        "¿Qué es un meister?"
+        "¿De dos... qué?"
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "Es un sistema que tiene Alemania para\ncertificar<n>artesanos. Mi padre trabajó<n>duro\npara ganar el título de meister, y logró\nsu<n>sueño de abrir una pastelería."
+      "text": "Maestros—es un sistema que tiene Alemania<n> para\ncertificar a artesanos. Mi padre trabajó<n> duro para\nganar el título de maestro y logró<n> su sueño de\nabrir una pastelería."
     },
     {
       "name": "Eishin Flash",
-      "text": "Mi madre fue una vez una Uma Musume\ncorredora,<n>pero desde entonces se retiró\ny,<n>tras obtener la misma calificación, comenzó a\nayudar a mi<n>padre."
+      "text": "Mi madre fue una corredora como yo, <n>pero se ha\nretirado y, después de ganar la <n>misma\ncalificación, comenzó a ayudar a<n> mi padre."
     },
     {
       "name": "Eishin Flash",
-      "text": "Uno trabajó constantemente durante años y\naños<n>para abrir su propia pastelería\ncomo<n>planeó. La otra corrió su tiempo en la\npista, luego<n>pasó directamente a comenzar una\nsegunda vida."
+      "text": "Uno trabajó constantemente durante años y <n>años\npara abrir su propia panadería según lo <n>planeado.\nLa otra corrió su tiempo en la pista,<n> luego se\nmudó inmediatamente a comenzar una segunda<n> vida."
     },
     {
       "name": "Eishin Flash",
-      "text": "No tengo nada más que respeto por mis padres,<n>y\nal igual que ellos, quería<n>seguir mi propio\ncamino correcto en la vida."
+      "text": "No tengo más que respeto por mis padres, y <n>al\nigual que ellos, quiero seguir mi propio camino<n>\nadecuado en la vida."
     },
     {
       "name": "Eishin Flash",
-      "text": "Pero, ¿cuál era exactamente ese camino? Cuando\nme<n>hice esta pregunta, pensé en la<n>carrera de\ncorredora de mi madre."
+      "text": "Pero ¿qué es exactamente ese camino? <n>Cuando me\nhice esta pregunta, pensé en la carrera<n> de\ncorredora de mi madre."
     },
     {
       "name": "Eishin Flash",
-      "text": "Para una Uma Musume, correr es el\nmayor<n>orgullo... Así que decidí que yo<n>también\ncorrería."
+      "text": "No hay mayor orgullo para una <n>Umamusume que\ncorrer... Así que decidí<n> que yo también correría."
     },
     {
       "name": "Eishin Flash",
-      "text": "Entrenaría debidamente día tras día y\nme<n>colocaría según lo planeado en cada\ncarrera.<n>Luego, eventualmente,<n>ganaría un G1,\ny me pararía tan orgullosa<n>como cualquier Uma\nMusume podría esperar."
+      "text": "Decidí que entrenaría debidamente día tras día y\n<n>ocuparía el lugar planeado en cada carrera. Luego,\n<n>eventualmente, ganaría un G1 y me pondría tan\norgullosa<n> como cualquier corredora podría esperar."
     },
     {
       "name": "Eishin Flash",
-      "text": "Después, habiendo logrado todas mis\nmetas...<n>sería una hija digna de mis padres."
+      "text": "Después, habiendo logrado todos mis objetivos...<n>\nsería una hija digna de mis padres."
     },
     {
       "name": "Monólogo",
-      "text": "Así que esa es la verdadera razón por la que le\nimportan<n>tanto sus horarios. Solo<n>quiere hacer\nque sus padres se sientan orgullosos, y<n>quiere\nhacerlo a su manera."
+      "text": "Así que esa es la verdadera razón por la que se<n>\npreocupa tanto por sus horarios. Solo quiere hacer<n>\nque sus padres se sientan orgullosos, y quiere\n<n>hacerlo a su manera."
     },
     {
       "name": "Eishin Flash",
-      "text": "Desmayarse no estaba planeado, pero<n>nada\nnecesita ser corregido en este<n>punto."
+      "text": "Desmayarme fue imprevisto, pero nada más<n> necesita\ncorregirse más allá de este punto."
     },
     {
       "name": "Eishin Flash",
-      "text": "Incluso si son mis propios errores los\nque<n>llevaron a esto... ya es demasiado tarde\npara<n>retroceder."
+      "text": "Incluso si fueron mis propios errores los que\nllevaron<n> a esto... no puedo permitirme dar marcha\natrás ahora."
     },
     {
       "name": "Monólogo",
-      "text": "Ella quiere mejorar. Ningún entrenador<n>llamaría\na eso un error. Pero también necesita<n>ser\nflexible."
+      "text": "Ella quiere mejorar. Ningún entrenador <n>llamaría a\neso un error. Pero ella también necesita<n> ser\nflexible."
     },
     {
       "name": "Monólogo",
-      "text": "No es que pueda hacer mucho en este<n>momento.\nDespués de escuchar su historia, no<n>se me\nocurriría impedirle competir. Todo lo que<n>puedo\ndecir es...",
+      "text": "No es que haya mucho que pueda hacer en <n>este\npunto. Después de escuchar su historia, no<n> soñaría\ncon detenerla de correr. Todo lo que <n>puedo decir\nes...",
       "choice_data_list": [
         "Tus sentimientos llegarán a tus padres."
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "...¿Mis sentimientos, dices?"
+      "text": "...Mis sentimientos, dices."
     },
     {
       "name": "Eishin Flash",
-      "text": "Primero fue que estarían orgullosos de\nmi<n>trabajo duro, y ahora esto— hablas solo\ncon<n>emociones vagas. Supongo que nuestras\nmentes<n>simplemente operan en niveles diferentes."
+      "text": "Primero, dijiste que se sentirían orgullosos de mi<n>\narduo trabajo, y ahora esto—hablas solo de\nemociones<n> vagas. Supongo que nuestras mentes\noperan en <n>diferentes longitudes de onda."
     },
     {
       "name": "Eishin Flash",
-      "text": "Oh, olvidé agradecerte. Tú fuiste<n>el que me\ntrajo aquí, ¿verdad?",
+      "text": "Oh, he olvidado agradecerte. Tú<n> fuiste quien me\nllevó aquí, <n>¿verdad?",
       "choice_data_list": [
         "Sí.",
         "Sí."
@@ -154,16 +154,16 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Yo... tengo curiosidad. ¿Por qué insistes<n>en cuidar de mí?",
+      "text": "He... estado curiosa. ¿Por qué <n>insistes en\ncuidarme?",
       "choice_data_list": [
-        "Bueno, ¿porque simplemente no puedo evitarlo?"
+        "Bueno, no puedo dejar que te sobreesfuerces."
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "...¿Disculpa?",
+      "text": "...Lo siento, ¿qué?",
       "choice_data_list": [
-        "Eres tan seria y a la vez tan... despistada."
+        "Eres tan seria y sin embargo tan... despistada."
       ]
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Nunca me habían dicho eso antes... Y,<n>mirando\natrás, no creo que me encaje.",
+      "text": "Nunca me han dicho eso antes... Pero <n>considerando\ntodo lo que he logrado, no creo que<n> sea\ndespistada.",
       "choice_data_list": [
         "Bueno, a veces solo necesitas un cambio de\nperspectiva."
       ]
@@ -181,16 +181,16 @@
       "name": "Eishin Flash",
       "text": "...",
       "choice_data_list": [
-        "De todos modos, descansa por hoy."
+        "De todos modos, descansa hoy."
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "...Cierto. Gracias."
+      "text": "...Bien. Gracias."
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Ah, Flash! ¡Por fin volviste! ¿Tienes<n>idea de\nlo preocupada que estaba?"
+      "text": "Ah, Flash. ¡Finalmente has regresado! Jeez,<n>\n¿tienes idea de lo preocupada que estaba?"
     },
     {
       "name": "Eishin Flash",
@@ -206,7 +206,7 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Eh, sí."
+      "text": "Uh, sí."
     },
     {
       "name": "Eishin Flash",
@@ -214,11 +214,11 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Digo, tiendes a tener visión de túnel, y<n>luego\nes como si tu cabeza no tuviera espacio<n>para\nnada más."
+      "text": "Quiero decir, tiendes a enfocarte demasiado en<n> una\ncosa y luego es como si tu cabeza no tuviera<n>\nespacio para nada más."
     },
     {
       "name": "Smart Falcon",
-      "text": "Como ahora mismo, probablemente estabas<n>tan\nocupada pensando en que debes<n>volver a tu\ndormitorio o algo así, que aún<n>no te has dado\ncuenta."
+      "text": "Como ahora, por ejemplo. Probablemente <n>estabas\ndemasiado ocupada pensando en cómo <n>necesitas\nregresar a tu dormitorio o algo<n> así, así que\ntodavía no te has dado cuenta."
     },
     {
       "name": "Eishin Flash",
@@ -226,15 +226,15 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Mira hacia abajo. Bonitas pantuflas de la<n>enfermería que llevas puestas. ★"
+      "text": "De los lindos pantuflas de la oficina de la\nenfermera<n> que tienes puestos. ☆"
     },
     {
       "name": "Eishin Flash",
-      "text": "...!"
+      "text": "..."
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Realmente no te habías dado cuenta! Oye,\n¿sabes<n>qué sería bueno? Alguien que te<n>señale\nestas cosas. ★"
+      "text": "Jejeje, ¡no tenías idea! Hey, sabes<n> qué sería\nagradable? Alguien<n> que te señale estas cosas. ☆"
     },
     {
       "name": "Eishin Flash",
@@ -242,11 +242,11 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "En fin, mientras estés bien. ¡Duerme<n>un poco, y\nbuena suerte mañana!"
+      "text": "De todos modos, mientras estés bien, estoy<n>\ncontenta. Duerme un poco y ¡buena <n>suerte mañana!"
     },
     {
       "name": "Eishin Flash",
-      "text": "De acuerdo."
+      "text": "Bien."
     }
   ]
 }

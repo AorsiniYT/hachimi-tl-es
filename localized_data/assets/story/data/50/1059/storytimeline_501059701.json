@@ -1,0 +1,68 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una mañana, cuando llego a mi <n>oficina, Mejiro\nDober ya está allí <n>esperándome.",
+      "choice_data_list": [
+        "Llegas temprano."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "N-no llegué temprano. Esta es una hora\nperfectamente<n> normal para estar aquí."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Sí, el nuevo aceite esencial que compré fue<n>\nrealmente efectivo, así que dormí bien!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "De hecho, ¿no eres <i>tú</i> la que llega tarde? <n>¿Estás\ndurmiendo lo suficiente?",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Cómo estás? ¿Estás durmiendo lo <n>suficiente?",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Al menos deberías intentar dormir más en<n> tus días\nlibres. Usa aceites esenciales <n>para ayudarte o\nalgo.",
+      "choice_data_list": [
+        "Gracias por preocuparte por mí.",
+        "Gracias por preocuparte por mí."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Eso es bueno... Aún así me preocupo<n> por ti, ya que\nsiempre te<n> esfuerzas tanto.",
+      "choice_data_list": [
+        "Gracias por preocuparte por mí.",
+        "Gracias por preocuparte por mí."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Y-yo solo te estoy advirtiendo. Yo también<n> me\nvería afectada negativamente si algo <n>te pasara,\nasí que más te vale ¡cuidarte!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Debería ser yo la que diga eso. Si quieres,<n> puedo\nrecomendarte algunos <n>aceites esenciales."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debería seguir el ejemplo de Mejiro <n>Dober y\ndescansar más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debería seguir el ejemplo de Mejiro <n>Dober y\ndescansar más."
+    }
+  ]
+}

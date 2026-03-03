@@ -3,103 +3,103 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Temprano una mañana, voy a la pista<n>de\nentrenamiento por un mandado y<n>encuentro que\nestá en mantenimiento."
+      "text": "Una mañana temprano, me dirijo a la pista<n> de\nentrenamiento por un recado y descubro <n>que\nactualmente está en mantenimiento."
     },
     {
       "name": "Monólogo",
-      "text": "<i>¡Clanc, clanc, clanc, clanc, clanc! ¡Sssss!</i>"
+      "text": "<i>Clank, clank, clank, clank, clank! ¡Fsssshhh!</i>"
     },
     {
-      "name": "Conserje A",
-      "text": "¡Uy! ¿Se descompuso? ¡La allanadora<n>dejó de\nfuncionar de repente!"
+      "name": "Jardinero A",
+      "text": "¡Guau! ¿Se rompió?! ¡La niveladora<n> dejó de\nfuncionar de repente!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "¿Eh? ¿Siguen trabajando en la pista?<n>Me pregunto\nsi pasó algo.",
+      "text": "¿Eh? ¿Todavía están trabajando en la <n>pista? Me\npregunto si pasó algo.",
       "choice_data_list": [
         "Parece que algo salió mal.",
         "Parece que algo salió mal."
       ]
     },
     {
-      "name": "Conserje A",
-      "text": "¡Disculpen la demora! Nuestra allanadora<n>falló,\npero vamos a arreglarla."
+      "name": "Jardinero A",
+      "text": "¡Perdón por el retraso! Nuestra<n> niveladora falló,\npero ¡vamos a <n>arreglarla!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡No se preocupen! ♪ ¡Podemos esperar!"
+      "text": "¡No hay problema! ♪ ¡Podemos esperar!"
     },
     {
-      "name": "Conserje B",
+      "name": "Jardinero B",
       "text": "¿No sería más rápido llamar a un mecánico?"
     },
     {
-      "name": "Conserje A",
-      "text": "Es la hora pico de la mañana ahora.<n>No se sabe\ncuándo pueden llegar."
+      "name": "Jardinero A",
+      "text": "Es la hora pico de la mañana. No<n> hay forma de\nsaber cuándo podrían<n> llegar."
     },
     {
-      "name": "Conserje B",
-      "text": "¡Pero no hay garantía de que podamos<n>arreglar\nesto por nuestra cuenta!"
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "¡No hay por qué apurarse! ¡Hay mucho<n>tiempo\nantes de que empiece la escuela! ☆"
+      "name": "Jardinero B",
+      "text": "¡Pero no hay garantía de que podamos arreglar<n> esta\ncosa nosotros mismos!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡Solo respiren hondo y tomen las cosas<n>de a una!"
-    },
-    {
-      "name": "Conserje B",
-      "text": "Tienes razón. Necesitamos sacar la<n>allanadora\nprimero, y luego<n>seguir nivelando el suelo..."
+      "text": "¡No hay que apurarse! ¡Hay mucho tiempo antes<n> de\nque empiecen las clases! ☆"
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡Yo ayudo! ¿Quieren sacar esto de la<n>pista, verdad?"
+      "text": "¡Solo respira hondo y toma las <n>cosas una a una!"
+    },
+    {
+      "name": "Jardinero B",
+      "text": "Tienes razón. Primero necesitaremos<n> sacar la\nniveladora del camino, <n>luego continuar alisando el\ntierra..."
     },
     {
       "name": "Hishi Akebono",
-      "text": "¿O sería mejor si les echo una mano<n>con el\nallanado?"
-    },
-    {
-      "name": "Conserje A",
-      "text": "¡No tienes que hacer nada!<n>Agradecemos el gesto,\npero no<n>podríamos hacer que una estudiante haga\ntodo eso..."
+      "text": "¡Yo ayudo! ¿Quieres que saque esta cosa de<n> la\npista, verdad?"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Oye, está bien si les echo una mano,<n>¿verdad?\n¿Qué crees que debería ayudar?",
+      "text": "¿O sería mejor que te ayude<n> con el nivelado?"
+    },
+    {
+      "name": "Jardinero A",
+      "text": "¡No tienes que hacer nada! <n>Agradecemos el gesto,\npero no podríamos hacer<n> que un estudiante haga\ntodo eso..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oye, ¿está bien si les doy una mano, <n>verdad? ¿Qué\ncrees que debería ayudar a<n> hacer?",
       "choice_data_list": [
-        "¿Puedes sacar la allanadora del camino?",
+        "¿Puedes mover la niveladora fuera del camino?",
         "¡Ayuda a nivelar la pista corriendo alrededor!"
       ]
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡A la orden, jefe! Bien, ¡hora de empuujar!"
+      "text": "¡Entendido, jefe! ¡Bueno, hora de empujaaaaar!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡Haaaaaah!"
+      "text": "¡Haaaaaaah!"
     },
     {
       "name": "Monólogo",
-      "text": "Ponemos una placa de acero bajo la<n>allanadora\npara que no dañe el suelo.<n>Luego, Hishi Akebono\nla empuja<n>con todas sus fuerzas."
+      "text": "Colocamos una placa de acero debajo de la\n<n>niveladora para que no estropee el suelo. <n>Luego,\nHishi Akebono la empuja con todas sus<n> fuerzas."
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡Nnnngh! ¡Es tan pesada! Solo... un<n>poco... más!"
+      "text": "¡Nnnngh! ¡Es tan pesada! Solo... un poco...<n> más!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡Fiu! ¡Lo logré!"
+      "text": "¡Uf! ¡Lo logré!"
     },
     {
       "name": "Monólogo",
-      "text": "Hishi Akebono empuja la allanadora<n>fuera de la\npista, y los trabajadores<n>logran terminar el\nmantenimiento a tiempo."
+      "text": "Hishi Akebono empuja la niveladora fuera <n>de la\npista, y los trabajadores logran terminar<n> el\nmantenimiento a tiempo."
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡Suena bien! ¡Estaré lista en un<n>abrir y cerrar de ojos! ☆"
+      "text": "¡Suena bien! ¡Terminaré antes de que te<n> des\ncuenta! ☆"
     },
     {
       "name": "Hishi Akebono",
@@ -107,19 +107,19 @@
     },
     {
       "name": "Monólogo",
-      "text": "Hishi Akebono corre por la pista<n>llevando el\nrastrillo que los<n>trabajadores quitaron de la\nallanadora.<n>Sus vueltas dejan la tierra detrás\nde<n>ella bien nivelada."
+      "text": "Hishi Akebono corre por la pista <n>llevando el grada\nque los trabajadores quitaron<n> de la niveladora.\nSus vueltas dejan la tierra<n> detrás de ella bien\nalisada."
     },
     {
-      "name": "Conserje B",
-      "text": "¡Guau! ¡Es tan rápida! ¡Creo que podría<n>ser más\nrápida que la allanadora misma!"
+      "name": "Jardinero B",
+      "text": "¡Guau! ¡Es tan rápida! Creo que podría ser<n> más\nrápida que la propia niveladora!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡Está todo nivelado! ☆ ¡Qué alivio!<n>Me alegra\nque todo se haya<n>terminado antes de que llegaran\notros estudiantes."
+      "text": "¡Todo está alisado! ☆ ¡Qué alivio! Me <n>alegra que\ntodo se hiciera antes de que <n>llegaran otros\nestudiantes! ♪"
     },
     {
       "name": "Monólogo",
-      "text": "Mientras Hishi Akebono corría, los<n>mecánicos\nlograron arreglar la<n>allanadora y devolverla al\ngaraje.<n>Así, el mantenimiento se completó con\nseguridad."
+      "text": "Mientras Hishi Akebono corría, los <n>mecánicos\nlograron arreglar la niveladora<n> y devolverla al\ngaraje. Así, el <n>mantenimiento se completó con\nseguridad."
     }
   ]
 }

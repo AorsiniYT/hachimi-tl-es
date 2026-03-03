@@ -2,21 +2,21 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "En la pista de entrenamiento, Hishi\nAmazon<n>prueba su ropa de carrera característica\npara ver<n>qué tan bien le queda."
+      "text": "En la pista de entrenamiento, Hishi Amazon <n>prueba\nsu ropa de carrera característica para <n>ver cómo le\nqueda."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Bien!"
+      "text": "¡Genial!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Me queda como anillo al dedo! No me<n>quejo,\nProfe.",
+      "text": "¡Me queda como anillo al dedo! No tengo ninguna<n>\nqueja, Profe.",
       "choice_data_list": [
-        "Me alegra oírlo."
+        "Me alegra saberlo."
       ]
     },
     {
-      "text": "Le pregunto si se le ocurrió el\ndiseño<n>completamente sola."
+      "text": "Le pregunto si ella ideó el diseño <n>todo por sí\nmisma."
     },
     {
       "name": "Hishi Amazon",
@@ -24,58 +24,58 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Bueno, hay una historia detrás de cómo<n>mi ropa\nde carrera terminó luciendo así."
+      "text": "Bueno, hay una especie de historia detrás de <n>cómo\nterminó quedándose mi ropa de carreras así."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Quiero que parezca uno de esos<n>uniformes\nescolares tipo marinero!"
+      "text": "¡Quiero que se vea como uno de esos <n>uniformes\nescolares de estilo marinero!"
     },
     {
-      "name": "Diseñadora de Ropa de Carrera",
-      "text": "Claro, podemos basarlo en un uniforme\nde<n>marinero. ¿Tienes alguna\nsolicitud<n>adicional para el diseño?"
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "¡Dejo eso en tus manos! Estoy segura<n>de que\ntienes una buena idea de lo que quiero!"
+      "name": "Diseñador de Ropa de Carreras",
+      "text": "Claro, podemos basarnos en un uniforme de\n<n>marinero. ¿Tienes alguna solicitud adicional <n>para\nel diseño?"
     },
     {
       "name": "Hishi Amazon",
-      "text": "(¡Sí! Recuerdo haber visto una película<n>de\nacción en un vuelo a Japón cuando era<n>niña...)"
+      "text": "¡Te lo dejo a ti! ¡Estoy seguro <n>de que tienes\nclaro lo que quiero!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "(La protagonista de <i>Gangster Girl<n>Fighter</i>\nusaba este increíble uniforme escolar<n>negro con\nuna falda larga. ¡Ese<n>atuendo sería perfecto\npara mí!)"
-    },
-    {
-      "name": "Diseñadora de Ropa de Carrera",
-      "text": "Entendido. Me aseguraré de convertir tu<n>visión\nen realidad."
+      "text": "(¡Sí! Recuerdo ver una película de<n> acción en un\nvuelo a Japón cuando era<n> niño...)"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Je, parece que está lista. Veamos<n>cómo—"
+      "text": "(El protagonista de <i>Chica Gangster <n>Luchadora</i> llevaba este genial uniforme <n>escolar negro con una\nlarga falda. ¡Ese atuendo <n>sería perfecto para mí!)"
+    },
+    {
+      "name": "Diseñador de Ropa de Carreras",
+      "text": "Entendido. Me aseguraré de convertir tu<n> visión en\nuna realidad."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡¿Qué?! ¡Esto no se parece en nada a lo<n>que usan\nlas chicas gangster! Se parece más a..."
+      "text": "Je, parece que está listo. A ver<n> cómo—"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Así que sí. En lugar de obtener un<n>uniforme\nescolar tipo marinero edgy, obtuve un<n>uniforme\nde <i>marinero</i> de verdad."
+      "text": "¡¿Qué?! Esto no se parece en nada a lo<n> que las\npandilleras visten! Se parece más a..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Estoy feliz de todos modos, pero<n>mirando atrás,\nprobablemente debería haber<n>sido más específica\nsobre lo que quería.",
+      "text": "Sí, en lugar de conseguir un uniforme<n> escolar de\nmarinero con estilo, conseguí un<n> <i>uniforme de\nmarinero </i>real."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "De todos modos estoy contenta, pero mirando<n> atrás,\nprobablemente habría sido mejor ser <n>más específica\nsobre lo que quería.",
       "choice_data_list": [
         "Me alegra que aún te guste."
       ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Sí! Con esto puesto, me enfrentaré a<n>cualquiera en\nuna carrera—"
+      "text": "¡Sí! Con esto puesto, me enfrentaré a cualquiera\nen<n> una carrera—"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Oh cielos, casi lo olvido!",
+      "text": "¡Caray, casi lo olvido!",
       "choice_data_list": [
         "¿Qué pasa?",
         "¿Qué pasa?"
@@ -83,117 +83,117 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡He estado intentando pensar en una<n>pose que\ncombine con mi ropa de carrera<n>característica!"
+      "text": "He estado intentando encontrar una postura que\ncombine <n>con mi atuendo de carrera característico!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "También tengo que dar todo de mí<n>durante los\nconciertos de victoria, después de<n>todo. Y sería mejor\ntener una pose para este<n>atuendo, ¿no crees?",
+      "text": "Tengo que dar lo mejor de mí también<n> en los\nconciertos ganadores, después <n>de todo. Y sería\nmejor tener una pose para<n> este atuendo, ¿no crees?",
       "choice_data_list": [
-        "¡Lo sería!"
+        "¡Claro que sí!"
       ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "Genial, trabajemos en ello juntos. ¡Ven<n>conmigo,\nProfe!"
+      "text": "Genial, trabajemos en ello juntos. Ven <n>conmigo,\n¡Profesor!"
     },
     {
-      "text": "Hishi Amazon me lleva al escenario<n>exterior\ndonde comenzamos una sesión de<n>práctica de\ninterpretación improvisada."
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "¡Muy bien! ¡Hora de dar todo y probar<n>un montón\nde poses!"
+      "text": "Hishi Amazon me lleva al escenario al <n>aire libre\npara empezar una sesión de <n>práctica de actuación\nimprovisada."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Rápido, dame una idea, Profe! ¿Qué<n>crees que se\nvería bien?",
+      "text": "¡Muy bien! ¡Es hora de darlo todo y poner a<n> prueba\nmontones de movimientos!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Rápido, lánzame una idea, Profe!<n> ¿Qué crees que\nse vería bien?",
       "choice_data_list": [
-        "Haz el saludo del marinero.",
-        "Ponte en cuclillas amenazante como una chica gangster."
+        "Haz una salutación de marinero.",
+        "Agacharse de manera amenazante como una chica\npandillera."
       ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "Oh, eso definitivamente encajaría con<n>el tema de\nmi ropa de carrera."
+      "text": "Oh, eso sin duda encajaría con el tema de mi\natuendo<n> de carrera."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Ahoy! ¿Qué tal esto?",
+      "text": "¡Hola! ¿Qué te parece?",
       "choice_data_list": [
         "¡Muy genial!"
       ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "Jaja, ¡bien! Parece que ya tenemos un<n>ganador. ♪"
+      "text": "¡Jaja, bien! Parece que tenemos<n> un ganador ya. ♪"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Muy bien! Déjame intentar actuar como<n>un\nmarinero completo ahora!",
+      "text": "¡Genial! Déjame intentar actuar como una marinera<n>\ncompleta ¡ahora!",
       "choice_data_list": [
-        "...¿Eh?"
+        "...¿eh?"
       ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "Tienes que actuar el papel si\nquieres<n>interpretarlo, ¿verdad?"
+      "text": "Tienes que actuar el papel si quieres <n>interpretar\nel papel, ¿no?"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Soy buena en esto de las charadas—¡lo<n>juego con\nniños todo el tiempo! ¡Déjame darte<n>una probadita!"
+      "text": "Soy buena en esto de las charadas —¡juego<n> con\nniños todo el tiempo! ¡Déjame darte<n> una probadita!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Portaaviones JS Profe avistado a las<n>dos en\npunto! ¡Movilicen fuerzas, es hora de\nuna<n>batalla uno a uno!",
+      "text": "¡Avistado el portaaviones JS Teach a las tres<n> en\npunto! Movilicen las fuerzas, ¡es hora de un<n> duelo\nuno contra uno!",
       "choice_data_list": [
-        "Espera, ¡¿yo soy el enemigo?!",
-        "Espera, ¡¿yo soy el enemigo?!"
+        "Espera, ¿yo soy el enemigo?!",
+        "¡Espera, soy el enemigo?!"
       ]
     },
     {
-      "text": "La apasionada búsqueda de Hishi<n>Amazon por una\nnueva pose se degenera en un<n>juego de\nbatallas navales."
+      "text": "La búsqueda apasionada de Hishi Amazon por una<n>\nnueva postura se convierte en un juego<n> de batalla\nnaval."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¿Así que sugieres que pose como si<n>realmente\nestuviera usando un uniforme<n>gangster negro y\nlargo? Bueno, entonces...<n>¿qué tal esto?"
+      "text": "Así que sugieres que finja como si en verdad\nestuviera<n> llevando un uniforme de gánster largo y<n>\nnegro en su lugar? Bueno, entonces... ¿qué<n> te\nparece esto?"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Sí, esto se siente bien. Tengo la<n>cuclillas, así\nque ahora tengo que poner una mirada<n>realmente\naterradora, y..."
+      "text": "Sí, esto se siente bien. Ya domino la sentadilla,<n>\nasí que ahora tengo que poner una mirada<n> muy\naterradora, y..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Oye! ¿Qué estás mirando? ¿Buscas<n>pelea o algo?\nJaja, también sería gracioso si<n>dijera algo así."
+      "text": "¡Oye! ¿Qué estás mirando? ¿Estás <n>buscando una\npelea o algo?! Jaja, sería <n>gracioso si yo dijera\nalgo así también."
     },
     {
-      "name": "Gatito",
+      "name": "gatito",
       "text": "Miau..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "...¿Mm?"
+      "text": "...¿Eh?"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¿Por qué este gatito se me está<n>restregando\ntanto? ¿Se perdió o algo?"
+      "text": "¿Por qué este gatito se me está <n>restregando? ¿Se\nperdió o algo así?"
     },
     {
       "name": "Hishi Amazon",
-      "text": "¿No te asusta esta pose aterradora<n>que estoy\nhaciendo?"
+      "text": "¿No te da miedo esta pose terrorífica <n>que estoy\nhaciendo?"
     },
     {
       "name": "Gatito",
-      "text": "Miaaau. ♪"
+      "text": "Miau. ♪"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Tch, no conoces el significado del<n>miedo,\n¿verdad? ¡Qué audaz de tu parte<n>acercarte a\nalguien que puede silenciar a<n>niños llorones con\nuna mirada!"
+      "text": "Tch, no sabes lo que es el miedo, <n>¿verdad? ¡Qué\nosado de tu parte estar tan cómodo<n> con alguien que\npuede hacer callar a niños<n> que lloran con una\nmirada!"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Bueno, lo que sea. ¡Vamos, gatito! Te<n>prepararé\nun tentempié si te suenan las<n>tripas!"
+      "text": "Bueno, como sea. ¡Vamos, gatito! Si<n> te suena la\nbarriga, te preparo<n> algo rico."
     },
     {
-      "text": "Y así, Hishi Amazon se va a cuidar del<n>gatito."
+      "text": "Y así, Hishi Amazon se va a <n>cuidar al gatito."
     }
   ]
 }

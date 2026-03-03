@@ -2,98 +2,108 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "チームトレーニングの休憩中、\nライスシャワーが悲しそうな顔をしていた。",
+      "name": "Monólogo",
+      "text": "Durante un descanso en el entrenamiento del\n<n>equipo, veo a Rice Shower un poco triste.",
       "choice_data_list": [
-        "どうした？",
-        "どうしたの？"
+        "¿Hay algo mal?",
+        "¿Hay algo mal?"
       ]
     },
     {
-      "name": "ライスシャワー",
-      "text": "トレーナーさん……っ。"
+      "name": "Rice Shower",
+      "text": "Oh, Entrenador..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "ライス……みんなの悲しいお話聞いてたら……\n悲しくなっちゃった……ぐすっ。"
+      "name": "Rice Shower",
+      "text": "Todos estaban hablando de cosas tristes<n> y\nescucharlos me puso triste también... <n><i>Snnif...</i>"
     },
     {
-      "text": "よくよく話を聞いてみると、どうやら\nチームメンバーが休憩中に『最近あった\n不幸話』で盛り上がっていたらしく――"
+      "name": "Monólogo",
+      "text": "Al parecer, el equipo estaba charlando<n> durante su\ndescanso y terminaron compartiendo<n> quejas sobre\ncosas que les habían <n>sucedido recientemente."
     },
     {
-      "text": "ライスシャワーは、その『不幸話』に\r\n影響を受けてしまったようだった。"
+      "name": "Monólogo",
+      "text": "Parece que los demás se divirtieron mucho<n>\ncompartiendo sus historias, pero escuchar<n> sobre\nsus desgracias realmente deprimió<n> a Rice Shower."
     },
     {
-      "name": "ライスシャワー",
-      "text": "歩いてたら……\nミゾに落ちちゃった子とか……。"
+      "name": "Rice Shower",
+      "text": "Una de ellas tropezó con un <n>hoyo mientras\ncaminaba..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "怪獣に追いかけられる夢……\n見ちゃった子とか……っ。"
+      "name": "Rice Shower",
+      "text": "Otra persona tuvo un sueño en el<n> que la perseguía\nun monstruo..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "お料理で……お砂糖とお塩を、\n間違えちゃった子とか……！"
+      "name": "Rice Shower",
+      "text": "Y otra persona usó azúcar<n> en lugar de sal al\n<n>cocinar."
     },
     {
-      "name": "ライスシャワー",
-      "text": "お話、聞いて……\n悲しくなっちゃったの……！",
+      "name": "Rice Shower",
+      "text": "Cuanto más escuchaba sus historias, más <n>triste me\nponía.",
       "choice_data_list": [
-        "（それで！？）"
+        "¿(De cosas tan pequeñas?!"
       ]
     },
     {
-      "text": "とはいえ、ものの受け取り方は人それぞれ。\nライスシャワーが心を痛めているのは事実だ。"
+      "name": "Monólogo",
+      "text": "Aun así, no puedo culparla. Todos<n> experimentamos\nemociones de manera <n>diferente, y Rice Shower es\nsolo más sensible<n> a este tipo de cosas."
     },
     {
-      "text": "なんとか、今の悲しい気持ちを取り除いて\nあげたい。と、いうわけで――",
+      "name": "Monólogo",
+      "text": "Ella parece genuinamente triste, así que <n>quiero\nayudar a animarla.",
       "choice_data_list": [
-        "お話の続きを考えようか"
+        "¿Por qué no pensamos en lo que sucedió después en\ncada situación?"
       ]
     },
     {
-      "name": "ライスシャワー",
-      "text": "お話の……続き……？",
+      "name": "Rice Shower",
+      "text": "¿Qué quieres decir?",
       "choice_data_list": [
-        "ミゾに落ちたウマ娘は、そこで――"
+        "Por ejemplo, después de que la persona cayó en un\nhoyo..."
       ]
     },
     {
-      "name": "ライスシャワー",
-      "text": "う、うん……。",
+      "name": "Rice Shower",
+      "text": "¿Sí?",
       "choice_data_list": [
-        "失くしものを見つけることが出来ました"
+        "Ella pudo encontrar un objeto que había perdido\nallí."
       ]
     },
     {
-      "name": "ライスシャワー",
-      "text": "……！"
+      "name": "Rice Shower",
+      "text": "¡Oh!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "ふふっ、本当だ……\nお話の続き、だね……っ。"
+      "name": "Rice Shower",
+      "text": "Je, je, entiendo... Así que continuamos las\nhistorias,<n> ¿verdad?"
     },
     {
-      "text": "『怪獣に追いかけられたウマ娘は、\n最後は怪獣とお友だちになれました』"
+      "name": "Monólogo",
+      "text": "La que estaba siendo perseguida por el<n> monstruo\nterminó haciéndolo su amigo."
     },
     {
-      "text": "『砂糖と塩を間違えてしまったけど、\nお料理はとっても美味しくできました』"
+      "name": "Monólogo",
+      "text": "Y la Umamusume que puso azúcar en su <n>comida se dio\ncuenta de que estaba más sabrosa de esa<n> manera."
     },
     {
-      "text": "そう続けていくと、だんだんと\n表情が明るくなっていった。"
+      "name": "Monólogo",
+      "text": "A medida que le doy más ideas, Rice<n> Shower\ncomienza a animarse."
     },
     {
-      "name": "ライスシャワー",
-      "text": "そっかぁ……よかったぁ……。\nみんな、最後は幸せだったんだね……。"
+      "name": "Rice Shower",
+      "text": "Gracias a Dios... Me alegra que todas hayan <n>tenido\nfinales felices."
     },
     {
-      "name": "ライスシャワー",
-      "text": "ふふ……♪"
+      "name": "Rice Shower",
+      "text": "Je, je. ♪"
     },
     {
-      "text": "ライスシャワーの気持ちは落ち着き、\r\n笑顔でトレーニングに取り組んでいた。"
+      "name": "Monólogo",
+      "text": "El estado de ánimo de Rice Shower mejora y<n> regresa\nal entrenamiento con una gran sonrisa."
     },
     {
-      "text": "<chrname> también pareció sentirse\r\nacogedora ante esa escena."
+      "name": "Monólogo",
+      "text": "Verla tan feliz parece alegrar<n> también a <chrname> y<n> ella\nse ve más relajada."
     }
   ]
 }

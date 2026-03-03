@@ -2,55 +2,53 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
-      "text": "Un día, mientras pasaba detrás del<n>edificio\nescolar..."
+      "text": "Un día, mientras pasaba detrás del <n>edificio de la\nescuela..."
     },
     {
       "name": "King Halo",
-      "text": "Ay ay ay...",
+      "text": "¡Ay! ¡Ay! ¡Ay!",
       "choice_data_list": [
         "¿Estás bien?"
       ]
     },
     {
       "name": "King Halo",
-      "text": "Sí, chicos—"
+      "text": "Sí, ustedes―"
     },
     {
       "name": "King Halo",
-      "text": "Oh, eres tú, Entrenador. No me<n>sorprendas así."
+      "text": "Oh, eres tú, Entrenador. No me <n>asustes así."
     },
     {
       "name": "King Halo",
-      "text": "Estoy bien. Tuve el mismo dolor esta<n>mañana,\npero se calmó rápido. De<n>hecho—"
+      "text": "Estoy bien. Tuve el mismo dolor<n> esta mañana, pero\nse fue rápido. De<n> hecho—"
     },
     {
-      "name": "Seguidoras de King Halo",
-      "text": "¡Ahí estás, King! ¡Te estábamos<n>buscando!"
-    },
-    {
-      "name": "King Halo",
-      "text": "Oh, lo siento por desaparecer de<n>repente. Me\ndistraje."
+      "name": "Seguidores de King Halo",
+      "text": "¡Allí estás, King! ¡Te estábamos<n> buscando!"
     },
     {
       "name": "King Halo",
-      "text": "Iré a la plaza pronto, ¿podrían<n>ustedes ir\nadelante?"
-    },
-    {
-      "name": "Seguidoras de King Halo",
-      "text": "¡Okay!"
+      "text": "Oh, perdón por desaparecer de<n> repente. Me\ndistraje."
     },
     {
       "name": "King Halo",
-      "text": "No les digamos nada. No me gusta<n>que la gente se\npreocupe por mí."
+      "text": "Iré a la plaza pronto, ¿podrían<n> irse adelante?"
+    },
+    {
+      "name": "Seguidores de King Halo",
+      "text": "¡Está bien!"
     },
     {
       "name": "King Halo",
-      "text": "Definitivamente les haré saber a todos<n>cuando\nrealmente no me sienta bien.<n>No hay necesidad de\npreocuparse."
+      "text": "No les digamos nada. No me gusta que la<n> gente se\npreocupe por mí."
     },
     {
-      "name": "Monólogo",
-      "text": "King Halo parece sufrir de<n>dolor de cabeza..."
+      "name": "King Halo",
+      "text": "Definitivamente les haré saber a todos cuando\n<n>realmente no me sienta bien. No hay necesidad de<n>\npreocuparse."
+    },
+    {
+      "text": "King Halo parece estar sufriendo de un <n>dolor de\ncabeza..."
     }
   ]
 }

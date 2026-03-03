@@ -2,16 +2,16 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
-      "text": "Es el día del Derby Japonés, y el<n>Hipódromo de\nTokio se está<n>calentando mucho."
+      "name": "Narración",
+      "text": "Es el día del Japanese Derby, y <n>Tokyo Racecourse\nse está calentando<n> mucho."
     },
     {
-      "name": "Fan A",
-      "text": "¡Es número uno en el ranking de<n>popularidad por\nuna razón! Va en una racha<n>ganadora de carreras\nde grado, así que<n>creo que definitivamente\nlo tiene<n>asegurado!"
+      "name": "Seguidor A",
+      "text": "¡Ella es número uno en los rankings de popularidad<n>\npor algo! ¡Ella va en una racha ganadora de<n>\ncarreras graduadas, así que creo que\ndefinitivamente<n> lo tiene!"
     },
     {
-      "name": "Fan B",
-      "text": "Ay, inocente. Intentar seguir los<n>pasos de tus\npadres es un motivador<n>enorme. ¡Por eso\n<i>mi</i> favorita<n>va a ganar!"
+      "name": "Seguidor B",
+      "text": "Oh, qué dulce niño de verano. ¡Intentar<n> seguir los\npasos de tus padres es un<n> motivador enorme! ¡Por\n<i>eso <i>mi</i><n> </i>favorita va a ganar!"
     },
     {
       "name": "Curren Chan",
@@ -19,23 +19,23 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Realmente puedo sentir cuánto le<n>importa a cada\nuno los corredores que<n>animan.",
+      "text": "Realmente puedo sentir cuánto se <n>preocupa la gente\npor los corredores que <n>animan.",
       "choice_data_list": [
-        "Los espectadores también tienen sueños para el Derby.",
-        "Los espectadores también tienen sueños para el Derby."
+        "Los espectadores también tienen sueños para el\nDerby.",
+        "Los espectadores también tienen sueños para el\nDerby."
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "Eso es cierto... Flash decía que es<n>especial.\nSupongo que a esto se refería."
+      "text": "Eso es cierto... Flash decía que es especial.<n>\nSupongo que esto es a lo que se refería."
     },
     {
-      "name": "Fan C",
-      "text": "Oye, cariño. ¿Por qué esta \"Eishin Flash\"<n>no es\npopular? Es muy buena, ¿no?"
+      "name": "Seguidor C",
+      "text": "Oye, querida. ¿Por qué esta \"Eishin Flash\" no <n>es\npopular? Ella es realmente buena, ¿verdad?"
     },
     {
-      "name": "Fan D",
-      "text": "Porque los otros corredores son<n>mucho mejores,\nquerida. No se puede negar que<n>ella es buena,\npero no tiene<n>esperanza contra esta competencia.\nPor ejemplo..."
+      "name": "Seguidor D",
+      "text": "Porque los otros corredores son mucho<n> mejores,\ncariño. No se puede negar que ella<n> es buena, pero\nno tiene ninguna <n>oportunidad contra esta\ncompetencia. Por ejemplo..."
     },
     {
       "name": "Curren Chan",
@@ -46,16 +46,16 @@
       "text": "¡Vamos, Flash! ¡Tú puedes!"
     },
     {
-      "name": "Monólogo",
-      "text": "Sin embargo, una vez que la carrera<n>comienza,\nlas expectativas de todos se<n>dan vuelta. La\ncorredora que se<n>abre paso entre el caos de la\nrecta final<n>no es otra que..."
+      "name": "Narración",
+      "text": "Sin embargo, una vez que la <n>carrera comienza, las\nexpectativas de<n> todos se dan la vuelta. El\ncorredor<n> que atraviesa el caos de la recta final<n>\nno es otro que..."
     },
     {
       "name": "Comentarista",
-      "text": "¡Es Eishin Flash! ¡Eishin Flash ha<n>tomado la\ndelantera! La mantiene, y...<n>¡cruza la línea de\nmeta!"
+      "text": "¡Es Eishin Flash! ¡Eishin Flash ha <n>tomado la\ndelantera! ¡Ella la mantiene, <n>y... cruza la línea\nde meta!"
     },
     {
       "name": "Comentarista",
-      "text": "Llevando los ánimos de miles, la<n>Campeona del\nDerby de este año es...<n>¡Eishin Flash!"
+      "text": "Llevando los ánimos de miles, ¡el Campeón<n> del\nDerby de este año es... Eishin Flash!"
     },
     {
       "name": "Eishin Flash",
@@ -67,7 +67,7 @@
     },
     {
       "name": "Espectadores",
-      "text": "¡Wuuu! ¡Eishin Flaaasssh!"
+      "text": "¡Wooooo! ¡Eishin Flaaasssh!"
     },
     {
       "name": "Curren Chan",
@@ -78,20 +78,20 @@
       "text": "Eso fue... increíble..."
     },
     {
-      "name": "Monólogo",
-      "text": "De regreso a casa de la carrera, me<n>preocupa un\npoco lo callada que está Curren<n>Chan, así que\nparamos en un parque."
+      "name": "Narración",
+      "text": "De regreso a casa después de la carrera, me<n>\npreocupo un poco por lo callada que está Curren<n>\nChan, así que paramos en un parque."
     },
     {
       "name": "Curren Chan",
-      "text": "...He estado trabajando tan duro en mi<n>presencia\nen redes sociales<n>últimamente que te has\npreocupado por<n>mí, ¿verdad?"
+      "text": "...He estado trabajando tanto en mi presencia<n> en\nredes sociales últimamente que te has<n> preocupado\npor mí, ¿verdad?"
     },
     {
       "name": "Curren Chan",
-      "text": "...He estado trabajando tan duro en mi<n>presencia\nen redes sociales<n>últimamente que te has\npreocupado por<n>mí, ¿verdad?"
+      "text": "...He estado trabajando tanto en mi presencia<n> en\nredes sociales últimamente que te has<n> preocupado\npor mí, ¿verdad?"
     },
     {
       "name": "Curren Chan",
-      "text": "Estoy bien. En serio. La verdad es que<n>me sentía\nun poquito... insegura...<n>supongo.",
+      "text": "Estoy bien. En serio. La verdad es que<n> me sentía\nun poquito... insegura... creo.",
       "choice_data_list": [
         "¿Insegura?"
       ]
@@ -102,9 +102,9 @@
     },
     {
       "name": "Curren Chan",
-      "text": "No sé si es buena idea enfocarse<n>solo en\nsprints. O sea, no llamaré mucho<n>la atención a\nmenos que haga<n>mucho trabajo extra fuera de\ncorrer...",
+      "text": "No sé si es realmente una buena idea enfocarme\nsolo<n> en carreras de velocidad. O sea, no voy a\nobtener<n> mucha atención a menos que haga un montón\nde trabajo<n> extra fuera de las carreras...",
       "choice_data_list": [
-        "¿Porque poca gente ve sprints?"
+        "¿Porque no mucha gente ve carreras de velocidad?"
       ]
     },
     {
@@ -112,74 +112,74 @@
       "text": "Básicamente, sí."
     },
     {
-      "name": "Monólogo",
-      "text": "Entiendo sus preocupaciones. Aunque<n>haya sprints\npopulares y emocionantes..."
+      "name": "Narración",
+      "text": "Entiendo sus preocupaciones. Incluso si hay\nalgunas<n> carreras de velocidad populares y\nemocionantes..."
     },
     {
-      "name": "Monólogo",
-      "text": "Comparadas con carreras Clásicas<n>como la Triple\nCorona, no reciben mucha<n>cobertura mediática,\ny no tienen<n>nada que ver con la misma\natención de<n>los fans."
-    },
-    {
-      "name": "Curren Chan",
-      "text": "Por eso pensaba... Si puedo<n>destacar un montón,\nsería buena<n>promoción para las carreras."
+      "name": "Narración",
+      "text": "En comparación con las carreras Clásicas<n> como la\ngira de la Triple Corona, no obtienen<n> mucha\ncobertura mediática, y tampoco<n> obtienen ni de\ncerca la misma atención de <n>los aficionados."
     },
     {
       "name": "Curren Chan",
-      "text": "Pensé que si podía cautivar a la<n>gente con mi\nternura y engancharlos a<n>ver mis carreras,\ntodo se<n>resolvería así nomás! ♪"
+      "text": "Por eso estaba pensando... Si puedo <n>destacar un\nmontón, sería buena <n>promoción para las carreras."
     },
     {
       "name": "Curren Chan",
-      "text": "Pero, claro, no es tan fácil. Lo vi<n>en la\ncarrera de hoy."
+      "text": "Pensé que si podía encantar a la gente<n> con mi\nlindura y engancharlos<n> viendo mis carreras, ¡todo\nse <n>solucionaría así de fácil! ♪"
     },
     {
       "name": "Curren Chan",
-      "text": "Nunca podré despertar esa pasión en<n>la gente tal\ncomo estoy ahora."
+      "text": "Pero, por supuesto, no es tan fácil. Lo <n>vi en la\ncarrera de hoy."
     },
     {
       "name": "Curren Chan",
-      "text": "Flash tenía una sonrisa tan pura hoy...<n>Fue más\nque linda."
+      "text": "Nunca podré generar esa cantidad de <n>pasión en la\ngente como soy ahora."
     },
     {
       "name": "Curren Chan",
-      "text": "Esa sonrisa resonó en mí. Fue como<n>la impresión\nque sentí la primera vez que<n>vi una carrera."
+      "text": "Flash tenía una sonrisa tan pura en su <n>rostro\nhoy... Era más que linda."
     },
     {
       "name": "Curren Chan",
-      "text": "<i>Yo</i> quiero esa pasión, y\nencontrar<n><i>mi</i> ternura al final."
+      "text": "Esa sonrisa resonó en mí. Era exactamente<n> como el\nimpacto que sentí la primera vez <n>que vi una\ncarrera."
     },
     {
       "name": "Curren Chan",
-      "text": "Pero... ¿mi forma de correr perdura en<n>el\ncorazón de la gente como lo que<n>vimos hoy?"
+      "text": "<i>Yo</i> quiero ese tipo de pasión, y encontrar <n><i>mi</i>\nlindura </i>en su máxima expresión."
     },
     {
       "name": "Curren Chan",
-      "text": "Al menos... no perdura en el mío.",
+      "text": "Pero... ¿mi forma de correr perdura en los\ncorazones<n> de la gente como lo que vimos hoy?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Al menos... no perdura en el<n> mío.",
       "choice_data_list": [
         "Curren..."
       ]
     },
     {
-      "name": "Monólogo",
-      "text": "Habla con firmeza, y puedo ver<n>frustración\nasomándose en sus ojos."
+      "name": "Narración",
+      "text": "Ella habla con firmeza, y puedo ver<n> la frustración\nfiltrándose en sus ojos."
     },
     {
       "name": "Curren Chan",
-      "text": "Como van las cosas ahora, no importa<n>cuánta\ngente vea mis carreras,<n>nunca seré la corredora\nmás querida."
+      "text": "Con las cosas como están ahora, no <n>importa cuánta\ngente vea mis carreras,<n> nunca voy a ser la\ncorredora más<n> querida."
     },
     {
       "name": "Curren Chan",
-      "text": "Tengo que cambiar. Tengo que ser...<n>la versión\nmás linda de mí!"
+      "text": "Tengo que cambiar. Tengo que ser... la <n>más linda\nque puedo ser!"
     },
     {
-      "name": "Monólogo",
-      "text": "En este punto, no es posible<n>encuadrar lo que\nCurren Chan quiere en<n>términos de un objetivo\nreal... Pero una<n>cosa es segura...",
+      "name": "Narración",
+      "text": "En este punto, no es posible enmarcar lo<n> que\nCurren Chan quiere en términos de<n> una meta real...\nPero una cosa es segura...",
       "choice_data_list": [
-        "Solo tendrás que volverte más fuerte."
+        "Simplemente tendrás que ponerte más fuerte."
       ]
     },
     {
-      "name": "Monólogo",
-      "text": "Eishin Flash ganó y se probó ante<n>todos. Solo\nlos ganadores son dignos de<n>llamarse los\nmejores."
+      "name": "Narración",
+      "text": "Eishin Flash ganó y se demostró a sí misma<n> ante\ntodos. Solo los ganadores son dignos de<n> llamarse a\nsí mismos los mejores."
     },
     {
       "name": "Curren Chan",
@@ -187,62 +187,62 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Bueno. ¡Entonces, me volveré más<n>fuerte! ¡Vamos\na la pista!",
+      "text": "Vale. Entonces, ¡voy a ponerme más <n>fuerte! ¡Vamos\na la pista!",
       "choice_data_list": [
-        "¡¿Quieres entrenar ahora mismo?!"
+        "¿¡Quieres entrenar ahora mismo?!"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "Bueno. ¡Entonces, me volveré más<n>fuerte! ¡Vamos\na la pista!",
+      "text": "Vale. Entonces, ¡voy a ponerme más <n>fuerte! ¡Vamos\na la pista!",
       "choice_data_list": [
-        "¡¿Quieres entrenar ahora mismo?!"
+        "¿¡Quieres entrenar ahora mismo?!"
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "Tengo que esforzarme al máximo si<n>quiero\nvolverme más fuerte. ¡Necesito<n>entrenar!"
+      "text": "Tengo que llevarme al límite máximo si voy<n> a\nponerme más fuerte. ¡Necesito entrenar!"
     },
     {
-      "name": "Monólogo",
-      "text": "Su forma de hablar me hace pensar<n>en algo.",
+      "name": "Narración",
+      "text": "Su forma de expresarse me hace <n>pensar en algo.",
       "choice_data_list": [
         "Tengo la forma perfecta de entrenar."
       ]
     },
     {
       "name": "Curren Chan",
-      "text": "¡¿En serio?!",
+      "text": "¿¡En serio?!",
       "choice_data_list": [
-        "La Serie de Sprints de Verano.",
-        "La Serie de Sprints de Verano."
+        "La Serie de Velocidad de Verano.",
+        "La Serie de Velocidad de Verano."
       ]
     },
     {
-      "name": "Monólogo",
-      "text": "Ya casi es verano. Las Clásicas<n>terminaron por\nahora, y es la temporada<n>para que las\ncorredoras trabajen en<n>mejorar."
+      "name": "Narración",
+      "text": "Ya casi es verano. Los Clásicos han terminado<n> por\nahora, y es la temporada para que<n> los corredores\ntrabajen en mejorar."
     },
     {
       "name": "Curren Chan",
-      "text": "...Ahhh. Así que aprovechamos el<n>tiempo cuando\nla exposición de todos es<n>relativamente baja\npara correr y<n>ganar experiencia, ¿cierto?"
+      "text": "...Ahhh. Entonces, aprovechamos el tiempo<n> en que\nla exposición de todos es <n>relativamente baja para\ncorrer carreras y ganar<n> experiencia, ¿verdad?"
     },
     {
       "name": "Curren Chan",
-      "text": "¡Bien, claro! ¡Este verano, me<n>pondré aún más\nlinda!",
+      "text": "¡Vale, seguro! ¡Este verano, voy a ser<n> aún más\nlinda!",
       "choice_data_list": [
-        "¡Primero están las Hakodate Sprint Stakes!",
-        "¡Primero están las Hakodate Sprint Stakes!"
+        "¡Primero es el Hakodate Sprint Stakes!",
+        "¡Primero es el Hakodate Sprint Stakes!"
       ]
     },
     {
-      "name": "Monólogo",
-      "text": "Y con eso, fijamos nuestra próxima<n>meta como la\nprimera carrera de la Serie<n>de Sprints de\nVerano—¡las Hakodate<n>Sprint Stakes!"
+      "name": "Narración",
+      "text": "Y con eso, establecemos nuestra siguiente<n> meta\ncomo la primera carrera de la Summer<n> Sprint\nSeries—el Hakodate Sprint Stakes!"
     },
     {
       "name": "Curren Chan",
-      "text": "¡Entonces, decidido! Vamos a<n>Hakodate para mi\nentrenamiento<n>especial—¡Operación \"Comer\nMariscos<n>Hasta Reventar\"!",
+      "text": "¡Está decidido, entonces! ¡Vamos a<n> Hakodate para\nmi entrenamiento<n> especial—Operación \"Comer Marisco\n<n>Hasta Reventar\"!",
       "choice_data_list": [
-        "¡¿Para qué?!"
+        "¿¡Para qué?!"
       ]
     },
     {
@@ -251,7 +251,7 @@
     },
     {
       "name": "Curren Chan",
-      "text": "Solo esperen. Un día, todo lo que<n>siempre\nquise... será mío!"
+      "text": "Ya verás. ¡Un día, todo lo que siempre<n> quise...\nserá mío!"
     }
   ]
 }

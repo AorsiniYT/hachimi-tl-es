@@ -2,178 +2,183 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "エイシンフラッシュとたくさんのレースを\n勝ち抜いてきた、ある日のこと――"
+      "name": "Monólogo",
+      "text": "Un día, después de que Eishin Flash tenga<n> varias\nvictorias en su haber..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――温泉旅行ですか？",
+      "name": "Eishin Flash",
+      "text": "¿Un viaje a aguas termales?",
       "choice_data_list": [
-        "ああ",
-        "うん"
+        "Sí.",
+        "Sí."
       ]
     },
     {
-      "text": "以前福引を引いた時に預かっていた券。\nレースも落ち着いた頃なので、\nそろそろいいタイミングだと伝えた。"
+      "name": "Monólogo",
+      "text": "He guardado el boleto desde que Eishin Flash<n> lo\nganó en la rifa. Sugiero que ahora es<n> un buen\nmomento para usarlo ya que<n> su horario se ha\ncalmado."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……そうですね。\nもう予定に組み込んでいいでしょう。"
+      "name": "Eishin Flash",
+      "text": "Ese es un punto válido. Agreguemos los<n> días libres\nal horario, entonces."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "では、今から日程を調整しますので、\nいつがいいか検討を――",
+      "name": "Eishin Flash",
+      "text": "Tendré que reorganizar todos mis planes<n> para\najustarme a esto, así que tendré<n> que pensar cuándo\nsería mejor—",
       "choice_data_list": [
-        "来週の休養日にあてるのは？"
+        "¿Qué tal si vas en tu día libre la próxima semana?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ですが……\nその日は映像研究の予定が入っています。",
+      "name": "Eishin Flash",
+      "text": "Pero... ya he asignado ese día para hacer<n> algo de\nestudio de cine.",
       "choice_data_list": [
-        "場所は書いてないだろ？",
-        "場所は書いてないでしょ？"
+        "Pero no has escrito una ubicación, ¿verdad?",
+        "Pero no has escrito una ubicación, ¿verdad?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……！"
+      "name": "Eishin Flash",
+      "text": "...!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そうですね。『どこですべき』までは\nスケジュールに組み込んでいません。"
+      "name": "Eishin Flash",
+      "text": "No, no lo hice. No indicé exactamente dónde<n>\ndebería hacer mi estudio de cine."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "わかりました。\nその日に温泉に行きましょう！"
+      "name": "Eishin Flash",
+      "text": "Muy bien. ¡Vayamos a las aguas termales<n> ese día!"
     },
     {
-      "text": "というわけで――"
+      "name": "Monólogo",
+      "text": "Y ahora..."
     },
     {
-      "text": "入浴中……。"
+      "name": "Monólogo",
+      "text": "Bañándome en las aguas termales..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……。",
+      "name": "Eishin Flash",
+      "text": "...",
       "choice_data_list": [
-        "大丈夫？"
+        "¿Estás bien?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……っ。\nすみません、お待たせしましたか？"
+      "name": "Eishin Flash",
+      "text": "Perdón. ¿Me estabas esperando?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "100秒の入浴を繰り返す予定でしたが……\n長く浸かりすぎたようです。",
+      "name": "Eishin Flash",
+      "text": "Había planeado hacer unas pocas<n> inmersiones de\ncientos de segundos en el agua, pero<n> creo que me\nbañé demasiado tiempo.",
       "choice_data_list": [
-        "楽しんだんだな",
-        "楽しんだんだね"
+        "Parece que lo disfrutaste entonces.",
+        "Parece que lo disfrutaste entonces."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。日本の温泉が、\nとても熱いことを忘れていました……。"
+      "name": "Eishin Flash",
+      "text": "Lo hice. Había olvidado qué calientes son las\n<n>aguas termales japonesas..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "外へ涼みにいっても、いいですか？"
+      "name": "Eishin Flash",
+      "text": "¿Podemos salir un momento para <n>refrescarnos?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……すっかり夜の空気ですね。",
+      "name": "Eishin Flash",
+      "text": "El aire nocturno es tan fresco...",
       "choice_data_list": [
-        "寒くない？"
+        "¿Tienes frío?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい、大丈夫です。\nむしろ心地よくて……。"
+      "name": "Eishin Flash",
+      "text": "No. De hecho, me siento muy cómodo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……Aquí soy humana, aquí puedo<n>serlo――",
+      "name": "Eishin Flash",
+      "text": "Aquí soy humano, aquí puedo serlo...",
       "choice_data_list": [
-        "……それは？"
+        "¿Qué es eso que estás cantando?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ドイツの有名な詩です。\nなんだか口ずさみたくなって……。"
+      "name": "Eishin Flash",
+      "text": "Un poema famoso de Alemania. Sentí un<n> repentino\ndeseo de recitarlo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……感傷的になっているみたいです。\n浮かれて湯あたりして、フワフワしています。"
+      "name": "Eishin Flash",
+      "text": "Parece que estoy de humor sentimental.<n> El calor\ndel baño aún me hace sentir<n> un poco mareado."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "もっとダメなのは、そんな時があっても\r\nいいのだと……思っていることです。",
+      "name": "Eishin Flash",
+      "text": "Lo peor es que siento que momentos relajados<n> como\neste en realidad son... aceptables.",
       "choice_data_list": [
-        "たまにはな",
-        "たまにはね"
+        "Lo son, de vez en cuando.",
+        "Lo son, de vez en cuando."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……今の私に、\n目をつむってくれますか？",
+      "name": "Eishin Flash",
+      "text": "¿Te parecería bien si te pido que <n>escuches, sin\njuzgar?",
       "choice_data_list": [
-        "もちろん"
+        "Por supuesto."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……ではもう少し、\n話をさせてください。"
+      "name": "Eishin Flash",
+      "text": "Entonces, por favor, permíteme un<n> poco más."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "この先、私はあくまでも\n正しく完璧な自分を目指していきます。"
+      "name": "Eishin Flash",
+      "text": "Continuaré esforzándome por convertirme en <n>la\nversión correcta, perfecta de mí mismo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "けれどその完成は恐らく、\n人生全てを通して行われるもの……。"
+      "name": "Eishin Flash",
+      "text": "Sin embargo, probablemente me tomará<n> toda la vida\nalcanzar ese estado <n>de perfección..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "まだ過程にいる、未熟な私を\n認めるわけにはいきません。"
+      "name": "Eishin Flash",
+      "text": "No puedo aceptar esta versión<n> defectuosa, aún en\nproceso de mí mismo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "だからこそ……トレーナーさんに、\nいてほしいのです。"
+      "name": "Eishin Flash",
+      "text": "Es por eso que deseo que estés a mi<n> lado."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私は私を認めない。けれど貴方が、\nそんな私を肯定してくれれば。"
+      "name": "Eishin Flash",
+      "text": "Soy mi propio crítico más severo. Sin embargo,<n> si\nestás allí para validar mi progreso..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私は……前へ進めます。",
+      "name": "Eishin Flash",
+      "text": "Puedo avanzar.",
       "choice_data_list": [
-        "いつでも君を認めてるよ",
-        "いつでも貴方を認めてるよ"
+        "Para mí, siempre lo haces genial.",
+        "Para mí, siempre lo haces genial."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……はい。"
+      "name": "Eishin Flash",
+      "text": "...Gracias."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "初めて出会ったあの日……\n私は無理をして、失敗した。"
+      "name": "Eishin Flash",
+      "text": "El día que nos conocimos, me había<n> esforzado\ndemasiado y fallé."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "けれどそれすら、意味が生まれました。"
+      "name": "Eishin Flash",
+      "text": "Pero incluso eso tuvo significado."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "無理でも完璧を目指したおかげで、\n貴方と出会えたのだから……。"
+      "name": "Eishin Flash",
+      "text": "Después de todo, fue porque me excedí<n> en el\nesfuerzo por alcanzar la<n> perfección que llegué a\nconocerte."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "今の時間が、私たちが積み重ね築いた……\n天国なんですね。"
+      "name": "Eishin Flash",
+      "text": "Este tiempo pasado juntos se siente como un\nrefugio <n>seguro que construimos—solo para nosotros."
     },
     {
-      "text": "エイシンフラッシュとの間に、\nかけがえのない絆を感じた\nひとときだった……。"
+      "name": "Monólogo",
+      "text": "Siento que Eishin Flash y yo hemos <n>formado un\nvínculo irremplazable durante este<n> tiempo juntos."
     }
   ]
 }

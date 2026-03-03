@@ -3,23 +3,23 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Mientras camino por el pasillo, escucho<n>la voz\nde Grass Wonder que viene de la<n>enfermería."
+      "text": "Mientras camino por el pasillo, escucho<n> la voz de\nGrass Wonder proveniente de <n>la enfermería."
     },
     {
       "name": "Grass Wonder",
-      "text": "Gracias por la medicina. Me retiro<n>ahora."
+      "text": "Gracias por la medicina. Me <n>retiro ahora."
     },
     {
       "name": "Grass Wonder",
       "text": "Oh... Entrenador.",
       "choice_data_list": [
-        "¿Te sientes indispuesta?",
-        "¿Te sientes indispuesta?"
+        "¿No te sientes bien?",
+        "¿No te sientes bien?"
       ]
     },
     {
       "name": "Grass Wonder",
-      "text": "No, estoy bien. Solo un poco de dolor de<n>cabeza, no es nada—"
+      "text": "No, estoy bien. Solo un pequeño dolor de cabeza,<n>\nno es gran—"
     },
     {
       "name": "Grass Wonder",
@@ -27,11 +27,11 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Jeje. Vaya. Parece que esta medicina<n>podría\ntardar un rato en hacer efecto."
+      "text": "Jeje. Ay, por favor. Parece que esta medicina<n>\npodría tardar un rato en hacer efecto."
     },
     {
       "name": "Monólogo",
-      "text": "Grass Wonder parece tener<n>problemas con dolores\nde cabeza. Quizá<n>sea buena idea tomárselo con\ncalma<n>un tiempo."
+      "text": "Parece que Grass Wonder tiene<n> problemas con\ndolores de cabeza.<n> Podría ser buena idea relajarla\n<n>por un tiempo."
     }
   ]
 }

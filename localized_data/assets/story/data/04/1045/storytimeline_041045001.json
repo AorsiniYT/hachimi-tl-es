@@ -3,27 +3,27 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Pruebas—un escenario donde las corredoras<n>que\naspiran a debutar pueden mostrar sus\nhabilidades<n>a los entrenadores."
+      "text": "Las pruebas—un escenario donde los corredores que<n>\naspiran a debutar pueden mostrar sus habilidades a<n>\nlos entrenadores."
     },
     {
       "name": "Comentarista",
-      "text": "¡Cumple con las expectativas! ¡Su velocidad\nes<n>increíble! ¡Cruza la meta con dos\ncuerpos<n>de ventaja sobre el grupo!"
+      "text": "¡Está a la altura de las expectativas! ¡Su<n>\nvelocidad es increíble! ¡Está cruzando la línea de<n>\nmeta con dos cuerpos de ventaja sobre el grupo!"
     },
     {
       "name": "Entrenador Veterano A",
-      "text": "¡Disculpe! Si se une a mí, ¡me aseguraré de<n>que\ngane una carrera de categoría! ¡Hasta\nlas<n>carreras G1 estarán a su alcance!"
+      "text": "¡Disculpe! Si te unes a mí, ¡haré que ganes <n>una\ncarrera con grados! ¡Incluso las carreras G1<n>\nestarán a tu alcance!"
     },
     {
-      "name": "Uma Musume Primer Lugar",
-      "text": "¡M-muchas gracias! ¡Haré mi mejor esfuerzo!"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Las estudiantes dan lo mejor de sí<n>corriendo, y\nlos entrenadores hacen todo lo<n>posible para\nhacer realidad los sueños de<n>sus corredoras."
+      "name": "Umamusume Ganadora",
+      "text": "¡M-muchas gracias! ¡Haré lo mejor que pueda!"
     },
     {
       "name": "Monólogo",
-      "text": "Mi deseo de apoyarlas es fuerte, pero<n>cuando se\ntrata de reclutar de verdad, me<n>encuentro\nparalizándome."
+      "text": "Los estudiantes vierten su corazón y alma <n>en\ncorrer, y los entrenadores hacen todo lo posible<n>\npara que los sueños de sus corredores se <n>hagan\nrealidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi deseo de apoyarlos es fuerte, pero <n>cuando se\ntrata de reclutamiento real, me <n>encuentro\nparalizándome."
     },
     {
       "name": "Super Creek",
@@ -31,19 +31,19 @@
     },
     {
       "name": "Monólogo",
-      "text": "Sin darme cuenta, las pruebas de la mañana<n>han\nterminado. Abandono la pista sin el<n>valor\nsiquiera de hablar con una sola persona."
+      "text": "Antes de que me dé cuenta, las pruebas de la\n<n>mañana han terminado. Abandono el curso sin el<n>\nvalor para hablar siquiera con una sola persona."
     },
     {
       "name": "Super Creek",
-      "text": "¿Supongo que aún no has encontrado a tu<n>aprendiz perfecta?",
+      "text": "Supongo que aún no has encontrado a tu <n>aprendiz\nperfecta?",
       "choice_data_list": [
-        "...Disculpa, ¿quién eres?",
-        "...Disculpa, ¿quién eres?"
+        "...Perdón, ¿quién eres?",
+        "...Perdón, ¿quién eres?"
       ]
     },
     {
       "name": "Super Creek",
-      "text": "Jeje, disculpa por acercarme tan<n>repentinamente.\nMe llamo Super Creek."
+      "text": "Jeje, disculpa por acercarme tan de <n>repente. Mi\nnombre es Super Creek."
     },
     {
       "name": "Super Creek",
@@ -59,23 +59,23 @@
     },
     {
       "name": "Super Creek",
-      "text": "Noté que te costaba hablar con las<n>corredoras y\ncómo te intimidaban<n>los otros entrenadores."
+      "text": "Noté que te costaba hablar con las <n>corredoras y\ncómo te intimidaban los <n>otros entrenadores."
     },
     {
       "name": "Super Creek",
-      "text": "Pero estoy segura de que hay una\ncorredora<n>esperándote, ¡así que por favor no te\nrindas!"
+      "text": "Pero estoy seguro de que hay una corredora ahí<n>\nafuera esperándote, así que por favor no te\nrindas!"
     },
     {
       "name": "Monólogo",
-      "text": "No puedo creer que sea yo quien está<n>siendo\nanimado por una estudiante. Suele ser<n>al\nrevés..."
+      "text": "No puedo creer que sea yo la que está<n> siendo\nanimada por una estudiante. Normalmente<n> es al\nrevés..."
     },
     {
       "name": "Super Creek",
-      "text": "Parece que hay una razón por la que te cuesta<n>tanto hablar."
+      "text": "Parece que hay una razón por la que<n> te cuesta\nhablar."
     },
     {
       "name": "Super Creek",
-      "text": "¿Te gustaría compartir tus pensamientos<n>conmigo?\nA veces ayuda desahogarse<n>un poco.",
+      "text": "¿Te gustaría compartir tus <n>pensamientos conmigo? A\nveces ayuda<n> desahogarse.",
       "choice_data_list": [
         "No sé qué puedo y qué no puedo hacer como\nentrenador nuevo.",
         "No sé qué puedo y qué no puedo hacer como\nentrenador nuevo."
@@ -83,7 +83,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Expreso mis preocupaciones sobre cómo\nlos<n>entrenadores con más experiencia\npodrían<n>ser más adecuados para atletas tan\napasionadas."
+      "text": "Expreso mis preocupaciones sobre cómo los\n<n>entrenadores más experimentados podrían ser <n>más\nadecuados para atletas tan apasionadas."
     },
     {
       "name": "Super Creek",
@@ -91,15 +91,15 @@
     },
     {
       "name": "Super Creek",
-      "text": "Todos están nerviosos y quieren ser<n>extra\ncautelosos al principio. Pero eso es<n>algo bueno."
+      "text": "Todos están nerviosos y quieren ser <n>extra\ncautelosos al principio. Pero eso <n>es algo bueno."
     },
     {
       "name": "Super Creek",
-      "text": "Muestra que eres una persona amable\ny<n>considerada. Realmente te tomas tu\ntrabajo<n>en serio... Al menos, así lo siento yo."
+      "text": "Eso muestra que eres una persona amable y\n<n>considerada. Te tomas tu trabajo en <n>serio... Al\nmenos, así es como yo me siento."
     },
     {
       "name": "Super Creek",
-      "text": "Por cierto, correré en una carrera esta<n>tarde.\nSi te interesa, ¿te gustaría<n>venir a ver?",
+      "text": "Por cierto, correré en una carrera más<n> tarde esta\ntarde. Si estás interesado, <n>¿te gustaría venir a\nver?",
       "choice_data_list": [
         "¡Por supuesto!"
       ]
@@ -110,63 +110,63 @@
     },
     {
       "name": "Monólogo",
-      "text": "Siento una sensación de tranquilidad al<n>escuchar\nsus palabras y ver su sonrisa."
+      "text": "Siento una sensación de tranquilidad al<n> escuchar\nsus palabras y ver su sonrisa."
     },
     {
       "name": "Monólogo",
-      "text": "La carrera de la tarde comienza, y Super<n>Creek\nsale disparada de la salida."
+      "text": "La carrera de la tarde comienza, y Super <n>Creek\nsale disparada de los cajones de salida."
     },
     {
       "name": "Comentarista",
-      "text": "¡El grupo líder ha doblado la primera<n>curva!\n¡Super Creek ya se está distanciando<n>del grupo!"
+      "text": "¡El grupo líder ha tomado la primera<n> curva! ¡Super\nCreek ya se está <n>separando del grupo!"
     },
     {
       "name": "Monólogo",
-      "text": "Sin flaquear ni una sola vez, continúa<n>dominando\nhasta el final."
+      "text": "Sin vacilar ni una vez, ella continúa<n> dominando\nhasta el final."
     },
     {
       "name": "Comentarista",
-      "text": "¡Super Creek avanza por la pista y<n>termina en primer lugar!"
+      "text": "¡Super Creek carga por la pista y<n> termina en\nprimer lugar!"
     },
     {
-      "name": "Entrenador Hábil A",
-      "text": "¡Creek! ¡Trabajemos juntas para ganar<n>carreras G1!"
+      "name": "Entrenador Experto A",
+      "text": "¡Creek! ¡Trabajemos juntos para ganar <n>carreras G1!"
     },
     {
-      "name": "Entrenador Hábil B",
-      "text": "¡Definitivamente te ayudaré a alcanzar tu<n>máximo potencial!"
+      "name": "Entrenador Experto B",
+      "text": "¡Definitivamente te ayudaré a alcanzar tu <n>máximo\npotencial!"
     },
     {
       "name": "Super Creek",
-      "text": "Oh, vaya. Gracias por todas sus ofertas,<n>todos."
+      "text": "Vaya. Gracias a todos por sus<n> ofertas."
     },
     {
       "name": "Entrenador de Primera",
-      "text": "Super Creek, has estado a la altura de todas<n>mis\nexpectativas. Ven conmigo, y<n>priorizaré tu\nentrenamiento."
+      "text": "Super Creek, has cumplido todas mis <n>expectativas.\nVen conmigo, y daré <n>prioridad a tu entrenamiento."
     },
     {
-      "name": "Entrenador Hábil A",
-      "text": "¡T-tú! Lo sabía, tenías que aparecer<n>y arrebatárnosla..."
+      "name": "Entrenador Experto A",
+      "text": "¡Tú! Lo sabía, <i>simplemente <i>tenías</i> que<n> aparecer y\narrebatármela..."
     },
     {
       "name": "Monólogo",
-      "text": "Inigualable entre sus pares, uno de los<n>mejores\nentrenadores veteranos de toda la<n>Academia\nTracen ha venido a reclutar a Super Creek."
+      "text": "Sin igual entre sus pares, uno de los mejores<n>\nentrenadores veteranos de toda la Academia<n> Tracen\nha venido a reclutar a Super Creek."
     },
     {
       "name": "Super Creek",
-      "text": "Oh, vaya, es un honor que un entrenador<n>tan\nfamoso como usted muestre interés en<n>mí."
+      "text": "Vaya, es un honor que un entrenador<n> famoso como tú\nmuestre interés <n>en mí."
     },
     {
       "name": "Monólogo",
-      "text": "Así es... Una corredora talentosa como\nSuper<n>Creek merece nada menos que\nun<n>entrenador de primera clase."
+      "text": "Así es... Una corredora talentosa como Super<n> Creek\nmerece nada menos que un entrenador<n> de primera\nclase."
     },
     {
       "name": "Monólogo",
-      "text": "Después de pensar en lo mejor para ella,<n>empiezo\na retirarme. Sin embargo, justo cuando<n>me doy la\nvuelta..."
+      "text": "Después de pensar qué es lo mejor para ella,<n>\nempiezo a irme. Sin embargo, justo cuando me<n> doy\nla vuelta..."
     },
     {
       "name": "Super Creek",
-      "text": "¡Oh, Entrenador! ¡Por favor, espera!",
+      "text": "¡Oh, Entrenador! ¡Por favor, espere!",
       "choice_data_list": [
         "...¿Quién, yo?",
         "...¿Quién, yo?"
@@ -178,34 +178,34 @@
     },
     {
       "name": "Super Creek",
-      "text": "Recibí muchas buenas ofertas hoy, pero<n>creo que\ntú eres la más adecuada para mí."
+      "text": "Recibí muchas buenas ofertas hoy, pero creo<n> que tú\neres el más adecuado para mí."
     },
     {
       "name": "Entrenador de Primera",
-      "text": "¡¿Q-qué?! ¡¿Estás loca?! ¡Este<n>novato no tiene\nningún historial en absoluto!"
+      "text": "¿¡Qué!? ¿Estás loca? ¡Este novato<n> no tiene ningún\nhistorial!"
     },
     {
       "name": "Super Creek",
-      "text": "Un entrenador novato sigue siendo un<n>entrenador. ¿No es así? ♪"
+      "text": "Un entrenador novato sigue siendo un entrenador.\n¿No<n> es así? ♪"
     },
     {
       "name": "Monólogo",
-      "text": "Mientras me sonríe, la misma sensación\nde<n>tranquilidad me envuelve otra vez. La tensión\nen<n>mi cuerpo se desvanece."
+      "text": "Mientras ella me sonríe, la misma sensación de<n>\ntranquilidad me envuelve de nuevo. La tensión<n> en\nmi cuerpo se derrite."
     },
     {
       "name": "Super Creek",
-      "text": "¿Quieres asociarte conmigo?",
+      "text": "¿Harás equipo conmigo?",
       "choice_data_list": [
-        "S-sería un honor."
+        "Y-yo sería honrado."
       ]
     },
     {
       "name": "Super Creek",
-      "text": "Jeje, el honor es todo mío. ¡Espero<n>trabajar contigo! ♪"
+      "text": "Jeje, el honor es todo mío. ¡Espero<n> trabajar\ncontigo! ♪"
     },
     {
       "name": "Monólogo",
-      "text": "Y así, finalmente doy mi primer paso hacia<n>mi futuro como entrenador."
+      "text": "Y así, finalmente doy mi primer paso hacia <n>mi\nfuturo como entrenador."
     }
   ]
 }

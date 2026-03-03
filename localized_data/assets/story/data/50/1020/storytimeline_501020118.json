@@ -2,9 +2,9 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Algo ha estado preocupando a Seiun Sky,<n>así que\nun día decido abordarla al<n>respecto.",
+      "text": "Algo ha estado preocupando a Seiun Sky,<n> así que un\ndía decido acercarme a ella<n> al respecto.",
       "choice_data_list": [
-        "Hablemos cuando terminemos el<n>entrenamiento."
+        "Hablemos una vez que terminemos de entrenar."
       ]
     },
     {
@@ -18,37 +18,37 @@
     {
       "text": "Después del entrenamiento...",
       "choice_data_list": [
-        "No olvides nuestra charla."
+        "No olvides nuestra conversación."
       ]
     },
     {
       "name": "Seiun Sky",
-      "text": "Sí, sí, lo sé. Volveré enseguida después<n>de\ncambiarme."
+      "text": "Sí, sí, ya sé. Volveré en un momento <n>después de\ncambiarme."
     },
     {
-      "text": "Espero unos minutos, pero no aparece."
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Ya veo, así que está haciendo novillos<n>otra vez.\nLo siento, pero aún no ha<n>vuelto al\ndormitorio."
+      "text": "Espero unos minutos, pero ella no <n>aparece."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Qué descaro romper una promesa así!<n>¿Debería\nagarrarla del cuello y<n>gritarle para que entre\nen razón?!",
+      "text": "Ya veo, así que está haciendo novillos de nuevo.<n>\nLo siento, pero ella no ha vuelto al dormitorio<n>\naún."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Qué descaro, romper una promesa <n>así! ¿Debería\nagarrarla del cuello y <n>gritarle un poco de\nsentido?!",
       "choice_data_list": [
-        "Em, eso no debería ser necesario..."
+        "Eh, eso no debería ser necesario..."
       ]
     },
     {
-      "text": "Después de que finalmente logro calmar a<n>la\nsobrexcitada Hishi Amazon..."
+      "text": "Después de que finalmente logro calmar a<n> la\nhiperexitada Hishi Amazon..."
     },
     {
       "name": "King Halo",
-      "text": "¿Qué tenemos aquí? ¿El entrenador de<n>Sky?"
+      "text": "¿Qué tenemos aquí? ¿La entrenadora de Sky?"
     },
     {
       "name": "King Halo",
-      "text": "Mmm... Entiendo. Te ayudaré a<n>buscarla.",
+      "text": "Hmm... Entiendo. Te ayudaré a <n>buscarla.",
       "choice_data_list": [
         "¿Estás segura?",
         "¿Estás segura?"
@@ -56,26 +56,26 @@
     },
     {
       "name": "King Halo",
-      "text": "Por supuesto. De hecho, tengo algo que<n>quiero\ndecirle yo misma."
+      "text": "Por supuesto. De hecho, tengo algo <n>que quiero\ndecirle yo misma."
     },
     {
       "name": "King Halo",
-      "text": "Bueno, digo buscar, pero ya tengo una<n>idea de\ndónde podría estar."
+      "text": "Bueno, digo buscar, pero ya tengo una<n> idea de\ndónde podría estar."
     },
     {
       "name": "Hishi Amazon",
-      "text": "¿Eh? ¿Tú sí?"
+      "text": "¿Eh? ¿De verdad?"
     },
     {
       "name": "King Halo",
-      "text": "Obviamente. ¿Tú no también,<n>Entrenador?"
+      "text": "Obviamente. ¿No tú también, Entrenador?"
     },
     {
-      "text": "Si no está en su dormitorio, eso<n>significa que\nsolo hay un lugar donde<n>podría estar..."
+      "text": "Si no está en su dormitorio, eso significa<n> que\nsolo hay un lugar donde podría estar..."
     },
     {
       "name": "Seiun Sky",
-      "text": "...Tch. Ni una sola picada."
+      "text": "...Tch. Ni una sola mordida."
     },
     {
       "name": "Seiun Sky",
@@ -86,35 +86,35 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "...Entrenador. ¿Por qué está King<n>contigo?"
+      "text": "...Entrenador. ¿Por qué King está contigo?"
     },
     {
       "name": "King Halo",
-      "text": "Yo también tengo algo que discutir<n>contigo."
+      "text": "Yo también tengo algo que discutir <n>contigo."
     },
     {
       "name": "King Halo",
-      "text": "Voy a decirlo directamente. Has estado<n>actuando\nextraño recientemente. ¡Solo que...<n>raro!"
+      "text": "Lo diré directamente. Has estado actuando<n> extraño\núltimamente. Simplemente...<n> ¡raro!"
     },
     {
       "name": "King Halo",
-      "text": "Siempre has sido irresponsable, pero<n>has tenido\nun cierto espíritu tenaz<n>oculto detrás de todas\nesas capas de<n>flojera."
+      "text": "Siempre has sido irresponsable, pero<n> has tenido un\ncierto espíritu tenaz <n>escondido detrás de todas\nesas capas<n> de pereza."
     },
     {
       "name": "King Halo",
-      "text": "¿Pero ahora? ¡Solo te quedas ahí como<n>un globo\ndesinflado!"
+      "text": "¿Ahora? ¡Simplemente yaces como un <n>globo desh\ninflado!"
     },
     {
       "name": "Seiun Sky",
-      "text": "Nya-ja-ja, qué cosa tan horrible decir."
+      "text": "Nya-ha-ha, qué horrible cosa que decir."
     },
     {
       "name": "King Halo",
-      "text": "¡A esto me refiero! Odio cuando me das<n>esa\nestúpida sonrisa!"
+      "text": "¡Esto es a lo que me refiero! Odio cuando<n> me das\nesa estúpida sonrisa!"
     },
     {
       "name": "King Halo",
-      "text": "¡Sabemos que algo te molesta! Así que<n>cuéntanos\nqué está pasando!"
+      "text": "¡Sabemos que algo te molesta! Así que<n> dinos qué\nestá pasando!"
     },
     {
       "name": "Seiun Sky",
@@ -122,18 +122,18 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Estoy harta de las carreras.",
+      "text": "Estoy cansada de correr.",
       "choice_data_list": [
         "...!"
       ]
     },
     {
       "name": "Seiun Sky",
-      "text": "Así que mi entusiasmo desapareció—puf.<n>¿Es esa\nuna explicación suficiente para<n>ti?"
+      "text": "Así que mi entusiasmo desapareció—puf. ¿Es<n> esa una\nexplicación suficientemente buena <n>para ti?"
     },
     {
       "name": "King Halo",
-      "text": "Después de llegar tan lejos... aún no<n>dejas tus\nhorribles bromas."
+      "text": "Después de llegar hasta aquí... aún no<n> dejas de\ncon tus horribles chistes."
     },
     {
       "name": "Seiun Sky",
@@ -141,23 +141,23 @@
     },
     {
       "name": "King Halo",
-      "text": "Es mentira—no estás harta de las<n>carreras. Es\nsolo que tienes miedo de<n>perder, ¿verdad?"
+      "text": "Es una mentira—no estás cansada de correr.<n> Es solo\nque tienes miedo de perder, ¿verdad?"
     },
     {
       "name": "King Halo",
-      "text": "¡Así que estás huyendo<n>descuidadamente de\nalgo que tienes que<n>enfrentar!"
+      "text": "¡Así que estás huyendo descuidadamente de<n> algo que\ntienes que enfrentar!"
     },
     {
       "name": "Seiun Sky",
-      "text": "...No, no es así."
+      "text": "...No, no lo soy."
     },
     {
       "name": "King Halo",
-      "text": "¡Sí lo es!"
+      "text": "¡Lo eres!"
     },
     {
       "name": "King Halo",
-      "text": "Ahora mismo eres... ¡estás muy por<n>debajo de\nprimera clase! ¡Es súper patético!"
+      "text": "¡Ahora mismo estás... estás muy por debajo de\n<n>primera categoría! ¡Es súper patético!"
     },
     {
       "name": "Seiun Sky",
@@ -165,7 +165,7 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Puedes decir lo que quieras, pero al<n>final del\ndía, esto no tiene nada que<n>ver contigo."
+      "text": "Puedes decir lo que quieras, pero <n>al final del\ndía, esto no tiene nada que<n> ver contigo."
     },
     {
       "name": "King Halo",
@@ -173,7 +173,7 @@
     },
     {
       "name": "King Halo",
-      "text": "Porque yo... yo... yo llegué hasta aquí<n>mirando\na <i>¡tú!</i>"
+      "text": "Porque yo... yo... llegué hasta aquí <i>viendo<n> <i>¡a ti!</i>"
     },
     {
       "name": "Seiun Sky",
@@ -181,39 +181,39 @@
     },
     {
       "name": "King Halo",
-      "text": "Somos las tres grandes de nuestra<n>generación.\nEso es lo que todos<n>decían, y me enorgullecía\ncada vez que lo<n>oía."
+      "text": "Somos los tres grandes de nuestra generación.<n> Así\nes como todos nos llamaban, y me llenaba de<n>\norgullo cada vez que lo escuchaba."
     },
     {
       "name": "King Halo",
-      "text": "Pero después del Kikuka Sho... ya no<n>formaba\nparte de ese grupo."
+      "text": "Pero después del Kikuka Sho... ya<n> no era parte de\nesa grupo."
     },
     {
       "name": "King Halo",
-      "text": "Estaba tan avergonzada... Fue doloroso.<n>No sabía\nqué hacer."
+      "text": "Me sentí tan avergonzada... Era doloroso. <n>No sabía\nqué hacer."
     },
     {
       "name": "King Halo",
-      "text": "Y fue entonces cuando me dijiste: \"en tu<n>último\ngiro erróneo, habrás encontrado el<n>camino\ncorrecto.\""
+      "text": "Y fue entonces cuando me dijiste, \"en <n>tu último\ngiro errado, habrás encontrado el <n>camino\ncorrecto.\""
     },
     {
       "name": "King Halo",
-      "text": "Nunca habría tenido esa realización por<n>mi\ncuenta."
+      "text": "Nunca hubiera tenido esa realización por<n> mi\ncuenta."
     },
     {
       "name": "King Halo",
-      "text": "Fue entonces cuando decidí que<n>correría por mi\npropio camino—¡el camino<n>que me hace brillar\nmás!"
+      "text": "Fue entonces cuando decidí que correría<n> por mi\npropio camino—¡el camino que<n> me hace brillar más!"
     },
     {
       "name": "King Halo",
-      "text": "Encontré mi camino, y finalmente estoy<n>lista\npara enfrentarte nuevamente,<n>excepto que..."
+      "text": "Encontré mi camino, y finalmente estoy lista para<n>\nenfrentarte de nuevo, excepto..."
     },
     {
       "name": "King Halo",
-      "text": "¡Ahora haces esto! ¿Por qué te detienes<n>aquí?!"
+      "text": "¡Ahora haces esto! ¿Por qué te<n> detienes aquí?!"
     },
     {
       "name": "King Halo",
-      "text": "¿De verdad ya no quieres ganar más?!"
+      "text": "¿De verdad ya no quieres ganar?!"
     },
     {
       "name": "Seiun Sky",
@@ -221,11 +221,11 @@
     },
     {
       "name": "King Halo",
-      "text": "Ya tuve suficiente... ¡Te juzgué mal!"
+      "text": "He tenido suficiente... ¡te juzgué mal!"
     },
     {
       "name": "King Halo",
-      "text": "¡Así que quédate ahí, malgastando tus<n>días por\nel resto de tu vida! ¡Ya no me<n>importa!"
+      "text": "¡Así que quédate allí, desperdiciando<n> tus días por\nel resto de tu vida! ¡Ya no <n>me importa!"
     },
     {
       "name": "Seiun Sky",
@@ -233,17 +233,17 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Si me juzgó mal, bueno... ese es <i>su</i><n>problema.",
+      "text": "Si ella me juzgó mal, bueno... ese <i>es <i>su</i> <n></i>problema.",
       "choice_data_list": [
-        "Cielo..."
+        "Sky..."
       ]
     },
     {
       "name": "Seiun Sky",
-      "text": "Déjame sola un rato... Por favor."
+      "text": "Déjame en paz por un rato... Por favor."
     },
     {
-      "text": "Su voz es tan débil, como si se<n>estuviera\ndesvaneciendo. No me atrevo a<n>responder."
+      "text": "Su voz es tan tenue, que parece que <n>se desvanece.\nNo puedo responder."
     }
   ]
 }

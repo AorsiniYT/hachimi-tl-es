@@ -2,306 +2,307 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "駿川たづな",
-      "text": "お疲れ様です。\r\n現在、希望される方に『アオハル杯』の\n詳しい説明を行っているところなのですが――"
+      "name": "Tazuna Hayakawa",
+      "text": "Hola. Actualmente estoy dando un resumen<n> de la\nUnity Cup a quienes quieran <n>aprender sobre ella."
     },
     {
-      "name": "駿川たづな",
-      "text": "¿<username>-san, quiere escuchar una\rexplicación\nsobre la 'Copa Ao Haru'?",
+      "name": "Tazuna Hayakawa",
+      "text": "¿Quieres escuchar una explicación también,<n> <username>?",
       "choice_data_list": [
-        "説明を聞く",
-        "説明を聞かない"
+        "Sí, por favor.",
+        "No, gracias."
       ]
     },
     {
-      "name": "駿川たづな",
-      "text": "それでは、何をご説明いたしましょう？"
+      "name": "Tazuna Hayakawa",
+      "text": "¿Qué te gustaría que explique?"
     },
     {
-      "text": "『アオハル杯』について、\r\n聞いておきたいことと言えば――",
+      "name": "Monólogo",
+      "text": "¿Sobre qué debería preguntar?",
       "choice_data_list": [
-        "『アオハル杯』について",
-        "『アオハル杯』のレースについて",
-        "チームメンバーとアオハル特訓について",
-        "チームの情報について",
-        "もう大丈夫です"
+        "La Unity Cup en general",
+        "Las carreras de la Unity Cup",
+        "Miembros del equipo y Entrenamiento de Unidad",
+        "Estadísticas del equipo",
+        "Eso es todo, gracias."
       ]
     },
     {
-      "name": "駿川たづな",
-      "text": "『アオハル杯』とは、\r\nトゥインクル・シリーズと並行して行われる、\nトレセン学園主催のチーム対抗戦です！"
+      "name": "Tazuna Hayakawa",
+      "text": "La Unity Cup es una competencia <n>por equipos\norganizada por Tracen Academy<n> que se lleva a cabo\nsimultáneamente con la Twinkle<n> Series!"
     },
     {
-      "name": "駿川たづな",
-      "text": "トゥインクル・シリーズでは個人の力が\r\n試されますが、アオハル杯ではチームの力が\n重要になります。"
+      "name": "Tazuna Hayakawa",
+      "text": "Mientras que la Twinkle Series prueba<n> el\nrendimiento individual, la Unity Cup pone<n> énfasis\nen el trabajo en equipo."
     },
     {
-      "name": "駿川たづな",
-      "text": "さて、アオハル杯は、大きく分けて\r\n『プレシーズン』と『本選』に\n分かれています。"
+      "name": "Tazuna Hayakawa",
+      "text": "La Unity Cup consiste en una serie de <n>rondas de\npretemporada seguidas de las finales."
     },
     {
-      "name": "駿川たづな",
-      "text": "プレシーズンはチーム対抗戦を4回行い、\r\n『チームランキング』を決めます。"
+      "name": "Tazuna Hayakawa",
+      "text": "Las cuatro rondas de carreras de pretemporada se<n>\nrealizan para decidir el ranking de tu equipo."
     },
     {
-      "name": "駿川たづな",
-      "text": "チームランキングについては、詳しくは\r\n『チームの情報について』で説明している\nので、ぜひご参照くださいね♪"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Si quieres aprender más sobre el Ranking de<n>\nEquipo, pregúntame sobre las estadísticas <n>del\nequipo! ♪"
     },
     {
-      "name": "駿川たづな",
-      "text": "プレシーズンには十分な期間があります。\r\nその間にチームメンバーを育てましょう！"
+      "name": "Tazuna Hayakawa",
+      "text": "Habrá mucho tiempo de inactividad entre<n> los\npartidos de pretemporada, ¡así que úsalo para<n>\nentrenar a tus miembros del equipo!"
     },
     {
-      "name": "駿川たづな",
-      "text": "ちなみに、チームメンバーを育てるには\r\n『アオハル特訓』がオススメです！"
+      "name": "Tazuna Hayakawa",
+      "text": "Por cierto, ¡recomiendo aumentar la fuerza<n> de tu\nequipo a través del Entrenamiento de Unidad!"
     },
     {
-      "name": "駿川たづな",
-      "text": "アオハル特訓についても、\r\n『チームメンバーとアオハル特訓について』\nで、説明しています。ぜひご参照ください♪"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Si quieres aprender más sobre el Entrenamiento<n> de\nUnidad, pregúntame sobre los miembros del<n> equipo y\nel Entrenamiento de Unidad! ♪"
     },
     {
-      "name": "駿川たづな",
-      "text": "プレシーズンを終えたら、いよいよ本選！\r\nアオハル杯の優勝チームを決定します！"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Una vez que la pretemporada termine, comenzarán<n>\nlas finales! Esta ronda final de <n>carreras\ndetermina a los ganadores de la Unity Cup!"
     },
     {
-      "name": "駿川たづな",
-      "text": "プレシーズンで思うような結果を\r\n残せなくても、本選で勝利すれば\n優勝することもできます。"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Incluso si no te fue tan bien <n>como querías en la\npretemporada, si ganas<n> las finales, entonces ganas\n<n>todo el torneo!"
     },
     {
-      "name": "駿川たづな",
-      "text": "最後まで諦めずに、\r\n優勝目指してがんばってくださいね！"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Asegúrate de no perder la esperanza<n> y seguir\napuntando a la victoria hasta el<n> final!"
     },
     {
-      "name": "駿川たづな",
-      "text": "『アオハル杯』についての説明は\r\n以上となります。\nほかに聞きたいことはありますか？"
+      "name": "Tazuna Hayakawa",
+      "text": "Eso es todo sobre la Unity <n>Cup. ¿Hay algo más que\nte gustaría<n> saber?"
     },
     {
-      "name": "駿川たづな",
-      "text": "『アオハル杯』は開催時期である、\r\n6月後半と12月後半のターン終了後に、\n自動的に始まります♪"
+      "name": "Tazuna Hayakawa",
+      "text": "La Unity Cup se lleva a cabo al final de los\n<n>turnos de finales de junio y finales de diciembre<n>\ncada año."
     },
     {
-      "name": "駿川たづな",
-      "text": "『短距離』『マイル』『中距離』『長距離』\r\n『ダート』の全5レースが開催されます。"
+      "name": "Tazuna Hayakawa",
+      "text": "Los equipos competirán en <n>cinco categorías:\nsprint, milla, medio, largo<n> y tierra."
     },
     {
-      "name": "駿川たづな",
-      "text": "各レース、最低1名、最大3名まで\r\n出走登録が可能です。"
+      "name": "Tazuna Hayakawa",
+      "text": "Debes inscribir al menos una corredora<n> en cada\ncarrera, y hasta tres pueden <n>ser asignadas a cada\ncategoría."
     },
     {
-      "name": "駿川たづな",
-      "text": "『アオハル杯』が始まったら、\r\n自動でチームが編成されます。"
+      "name": "Tazuna Hayakawa",
+      "text": "Al comienzo de cada partido de la<n> Unity Cup, se\nformará un equipo<n> automáticamente de los miembros\n<n>que has reclutado."
     },
     {
-      "name": "駿川たづな",
-      "text": "ですが、トレーナーさんがご自分で\r\nチーム編成をすることもできます。\n必要に応じてご活用くださいね！"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Pero no te preocupes, también puedes editar tu<n>\nequipo manualmente! ¡Siéntete libre de organizar a\n<n>tus corredoras como mejor te parezca!"
     },
     {
-      "name": "駿川たづな",
-      "text": "チーム編成をしたら、対戦相手を選択します。"
+      "name": "Tazuna Hayakawa",
+      "text": "Una vez que hayas finalizado tu equipo, puedes<n>\nseleccionar un oponente al que enfrentar."
     },
     {
-      "name": "駿川たづな",
-      "text": "相手チームに勝利すると、\r\n育成ウマ娘が成長するのですが――"
+      "name": "Tazuna Hayakawa",
+      "text": "Si derrotas al equipo oponente, ayudará<n> a tu\naprendiz a crecer más fuerte..."
     },
     {
-      "name": "駿川たづな",
-      "text": "相手の『チームランキング』順位が高いほど、\r\nより育成ウマ娘の成長が期待できます。"
+      "name": "Tazuna Hayakawa",
+      "text": "Y cuanto mayor sea el Ranking de Equipo<n> de tu\noponente, más crecimiento podrás<n> esperar."
     },
     {
-      "name": "駿川たづな",
-      "text": "また、トレーナーさんのチームの\r\nチームランキングもより大きく上がります！"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Derrotar a oponentes de alto rango <n>también\notorgará un mayor aumento a tu propio <n>Ranking de\nEquipo!"
     },
     {
-      "name": "駿川たづな",
-      "text": "ただし、アオハル杯で負けてしまうと\r\nランキングは上がらないので、\nがんばって勝利を掴みましょう！"
+      "name": "Tazuna Hayakawa",
+      "text": "Sin embargo, tu ranking no subirá si <n>pierdes, así\nque apunta a la victoria!"
     },
     {
-      "name": "駿川たづな",
-      "text": "レース直前の予想も参考にしながら\r\n対戦相手の選択をしてみてくださいね。"
+      "name": "Tazuna Hayakawa",
+      "text": "Puedes usar las predicciones pre-carrera para<n>\nayudarte a decidir a quién enfrentar."
     },
     {
-      "name": "駿川たづな",
-      "text": "対戦相手が決まったら、いよいよ出走。\r\n5レース中、より多く1着を取れば勝利です！"
+      "name": "Tazuna Hayakawa",
+      "text": "Una vez que hayas elegido un oponente, es<n> hora de\nlas carreras. ¡El equipo que quede<n> en primer lugar\nen la mayoría de las cinco <n>carreras es considerado\nel vencedor!"
     },
     {
-      "name": "駿川たづな",
-      "text": "なお、プレシーズンが終わると、\r\n最後には本選が待ち構えています！"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Una vez que la pretemporada termine, las finales<n>\nte esperan!"
     },
     {
-      "name": "駿川たづな",
-      "text": "本選を勝ち抜いたチームが、『アオハル杯』\r\n優勝チームということになります。"
+      "name": "Tazuna Hayakawa",
+      "text": "El equipo que gana las finales es <n>coronado campeón\nde la Unity Cup."
     },
     {
-      "name": "駿川たづな",
-      "text": "優勝に向けて、\r\n最高のチームを作り上げていきましょうね！"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Lucha por la victoria y crea el mejor<n> equipo de\ntodos!"
     },
     {
-      "name": "駿川たづな",
-      "text": "『アオハル杯』のレースについての説明は\r\n以上となります。\nほかに聞きたいことはありますか？"
+      "name": "Tazuna Hayakawa",
+      "text": "Eso es todo sobre las carreras de<n> la Unity Cup.\n¿Hay algo más que te <n>gustaría saber?"
     },
     {
-      "name": "駿川たづな",
-      "text": "トレーナーさんのチームに所属する\r\nウマ娘を『チームメンバー』と呼びます。"
+      "name": "Tazuna Hayakawa",
+      "text": "Las Umamusume en tu equipo son, <n>naturalmente, tus\nmiembros del equipo."
     },
     {
-      "name": "駿川たづな",
-      "text": "Los miembros del equipo del entrenador son, por\nahora,\rsolo la Umamusume en entrenamiento\n<chrname>-san y todos de las cartas de soporte."
+      "name": "Tazuna Hayakawa",
+      "text": "Por el momento, tus miembros del<n> equipo consisten\nsolo en tu <n>Umamusume aprendiz, <chrname>,<n> y las Umamusume\nque aparecen en tus<n> Cartas de Apoyo."
     },
     {
-      "name": "駿川たづな",
-      "text": "ですが、ご安心ください。"
+      "name": "Tazuna Hayakawa",
+      "text": "Pero no te preocupes."
     },
     {
-      "name": "駿川たづな",
-      "text": "きっとプレシーズン期間のアオハル杯へ出走\r\nすれば、評判を聞きつけて集まってくれます！"
+      "name": "Tazuna Hayakawa",
+      "text": "Estoy seguro de que si te va bien durante <n>la\npretemporada, más Umamusume escucharán<n> sobre tu\nequipo y querrán unirse a ti!"
     },
     {
-      "name": "駿川たづな",
-      "text": "チームメンバーとなったウマ娘には、\r\nアオハル杯に出てもらえたり、\n一緒にトレーニングを行うこともできます。"
+      "name": "Tazuna Hayakawa",
+      "text": "Las Umamusume que se unan a tu equipo <n>podrán\nparticipar en las carreras de la Unity Cup<n> así\ncomo en el entrenamiento."
     },
     {
-      "name": "駿川たづな",
-      "text": "ただし、編成したサポートカードではない\r\nウマ娘にはちょっとだけ注意が必要です。"
+      "name": "Tazuna Hayakawa",
+      "text": "Hay una cosa que debes tener en cuenta<n> sobre las\nUmamusume en tu equipo<n> que no aparecen en Cartas\nde Apoyo, sin<n> embargo."
     },
     {
-      "name": "駿川たづな",
-      "text": "彼女たちとは友情トレーニングができず、\r\nヒントイベントも発生しません。\n覚えておいてくださいね。"
+      "name": "Tazuna Hayakawa",
+      "text": "No pueden activar el Entrenamiento de Amistad<n> y no\ntendrán eventos de pista."
     },
     {
-      "name": "駿川たづな",
-      "text": "次に、『アオハル特訓』について\r\n説明させていただきますね！"
+      "name": "Tazuna Hayakawa",
+      "text": "A continuación, permíteme explicar el\nEntrenamiento de Unidad."
     },
     {
-      "name": "駿川たづな",
-      "text": "チームメンバーがいる場所で\r\n一緒にトレーニングすることで、\nお互いを高め合うアオハル特訓が発生します。"
+      "name": "Tazuna Hayakawa",
+      "text": "Si entrenas en el mismo lugar que tus miembros<n> del\nequipo, puedes activar el Entrenamiento<n> de Unidad,\nuna forma de entrenamiento<n> donde los miembros se\napoyan mutuamente."
     },
     {
-      "name": "駿川たづな",
-      "text": "アオハル特訓が発生するかは\r\nチームメンバーがトレーニング場所に\n現れた際にランダムで決まります。"
+      "name": "Tazuna Hayakawa",
+      "text": "Si un miembro del equipo activará el<n> Entrenamiento\nde Unidad se decide <n>aleatoriamente cada vez que se\nle asigna a un <n>tipo de entrenamiento."
     },
     {
-      "name": "駿川たづな",
-      "text": "アオハル特訓が発生する時は上向きの\r\nアイコンが出るので、見逃さないように\nしましょう。"
+      "name": "Tazuna Hayakawa",
+      "text": "Aparecerá un ícono especial cuando el\nEntrenamiento<n> de Unidad esté disponible, así que\nmantén los <n>ojos abiertos."
     },
     {
-      "name": "駿川たづな",
-      "text": "アオハル特訓を行うと、\r\n特訓したチームメンバーの基礎能力が\n上がります。"
+      "name": "Tazuna Hayakawa",
+      "text": "Durante el Entrenamiento de Unidad, los atributos<n>\nde los miembros del equipo participantes<n>\naumentarán."
     },
     {
-      "name": "駿川たづな",
-      "text": "さらに、2人以上のチームメンバーと\r\n特訓をすると、育成ウマ娘の\nトレーニングの効果もアップします！"
+      "name": "Tazuna Hayakawa",
+      "text": "Además, si realizas Entrenamiento<n> de Unidad con\ndos o más miembros del equipo<n> a la vez, los\nefectos de ese entrenamiento<n> en tu aprendiz\ntambién aumentarán."
     },
     {
-      "name": "駿川たづな",
-      "text": "特訓に参加するチームメンバーが多いほど\r\nトレーニングの効果が高くなるので、\nぜひみんなで特訓をしてみましょう！"
+      "name": "Tazuna Hayakawa",
+      "text": "Cuántos más miembros haya en una sesión de\n<n>Entrenamiento de Unidad, más efectivo será el\nentrenamiento,<n> ¡así que diviértete entrenando con\ntu equipo!"
     },
     {
-      "name": "駿川たづな",
-      "text": "また、アオハル特訓を行った後、\r\nスキルのヒントを得られることもあります！"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Además, tienes la oportunidad de obtener pistas\nde <n>habilidades después de cada sesión de\nEntrenamiento de Unidad!"
     },
     {
-      "name": "駿川たづな",
-      "text": "そしてさらに、\r\nアオハル特訓を重ねていくと――"
+      "name": "Tazuna Hayakawa",
+      "text": "Y si realizas el Entrenamiento de <n>Unidad\nsuficientes veces, podría suceder algo<n> especial."
     },
     {
-      "name": "駿川たづな",
-      "text": "チームメンバーの気持ちが最高潮になり、\r\nチームに対する熱い想い、すなわち\n『アオハル魂』が爆発することがあります！"
+      "name": "Tazuna Hayakawa",
+      "text": "A medida que los miembros del equipo<n> realizan\nEntrenamiento de Unidad, su dedicación al<n> equipo\ncrecerá, lo que puede llevar a un<n> fenómeno\nconocido como ¡Explosión de Espíritu!"
     },
     {
-      "name": "駿川たづな",
-      "text": "これは、チームメンバーの能力が大きく\r\n上がるほか、担当ウマ娘もスキルのヒントを\n獲得できます。"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Las Explosiones de Espíritu ayudan a potenciar a\ntus<n> miembros del equipo y también pueden otorgar\n<n>pistas de habilidades a tu aprendiz!"
     },
     {
-      "name": "駿川たづな",
-      "text": "沢山のウマ娘のアオハル魂を爆発させて、\r\nチームみんなでどんどん強くなりましょう！"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Intenta activar Explosiones de Espíritu para\n<n>tantos miembros como puedas para ayudar a todo tu\n<n>equipo a crecer más fuerte!"
     },
     {
-      "name": "駿川たづな",
-      "text": "『チームメンバー』と『アオハル特訓』に\r\nついての説明は以上となります。\nほかに聞きたいことはありますか？"
+      "name": "Tazuna Hayakawa",
+      "text": "Eso es todo sobre los miembros del <n>equipo y el\nEntrenamiento de Unidad. ¿Hay<n> algo más que te\ngustaría saber?"
     },
     {
-      "name": "駿川たづな",
-      "text": "こちらでは、『チームランキング』\r\n『チーム総合力』『チーム称号』の\n説明をいたします。"
+      "name": "Tazuna Hayakawa",
+      "text": "Claro. Estaré encantado de explicar el Ranking<n> de\nEquipo, el Poder de Equipo y los Títulos de\nEquipo."
     },
     {
-      "name": "駿川たづな",
-      "text": "まず、チームの情報についてですが、\r\nこちらは育成コマンドを選ぶ画面で\n確認ができます。"
+      "name": "Tazuna Hayakawa",
+      "text": "Puedes ver las estadísticas de tu equipo <n>desde la\npantalla donde seleccionas qué actividad<n> realizar\ncada turno."
     },
     {
-      "name": "駿川たづな",
-      "text": "『チームランキング』とは\r\n『アオハル杯』プレシーズンでの\nチームの順位のことです。"
+      "name": "Tazuna Hayakawa",
+      "text": "Tu Ranking de Equipo representa <n>la posición de tu\nequipo durante la<n> pretemporada."
     },
     {
-      "name": "駿川たづな",
-      "text": "『アオハル杯』のレースに勝利すると\r\nチームランキングが上がっていきます♪"
+      "name": "Tazuna Hayakawa",
+      "text": "Puedes aumentar tu ranking <n>ganando carreras en la\nUnity Cup. ♪"
     },
     {
-      "name": "駿川たづな",
-      "text": "チームランキングが上がれば上がるほど、\r\nチームの士気は上がり、アオハル杯で\n実力以上の力を発揮できるようになります。"
+      "name": "Tazuna Hayakawa",
+      "text": "Cuanto mayor sea tu Ranking de Equipo,<n> más\nmotivado estará tu equipo, y<n> mejor se desempeñarán\nen la Unity Cup."
     },
     {
-      "name": "駿川たづな",
-      "text": "より高い順位を目指して、\r\nがんばりましょうね！"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Haz lo posible por llevarlo lo más<n> alto posible!"
     },
     {
-      "name": "駿川たづな",
-      "text": "『チーム総合力』とは、トレーナーさんの\r\nチームの強さのことを指します。"
+      "name": "Tazuna Hayakawa",
+      "text": "El Poder de Equipo, como su nombre lo indica,<n> es\nel poder general de tu equipo."
     },
     {
-      "name": "駿川たづな",
-      "text": "これは、アオハル特訓でチームメンバーを\r\n強くすると上がっていきます。"
+      "name": "Tazuna Hayakawa",
+      "text": "Esto aumentará a medida que entrenes a tus\nmiembros <n>del equipo a través del Entrenamiento de\nUnidad."
     },
     {
-      "name": "駿川たづな",
-      "text": "チームの各基礎能力が一定以上上がると、\r\nトレーニングレベルが上がりますので、\nどんどんチームを強くしていきましょう！"
+      "name": "Tazuna Hayakawa",
+      "text": "Cuando los atributos de tu equipo <n>alcancen ciertos\numbrales, también hará que tus niveles <n>de\nentrenamiento aumenten, ¡así que concéntrate en<n>\nhacer a tu equipo cada vez más fuerte!"
     },
     {
-      "name": "駿川たづな",
-      "text": "チームの各基礎能力が上がっていくことで、\r\nチーム総合力も上昇し、一定以上になる度に、\n部室がグレードアップされます。"
+      "name": "Tazuna Hayakawa",
+      "text": "A medida que aumentes tu Poder de Equipo<n>\nconstruyendo los atributos de tus miembros <n>del\nequipo, obtendrás mejoras para tu sala del<n> club\ncuando alcance ciertos niveles."
     },
     {
-      "name": "駿川たづな",
-      "text": "部室がグレードアップすると、\r\nアオハル杯出走後に能力の高いメンバーが\n集まりやすくなるみたいですよ♪"
+      "name": "Tazuna Hayakawa",
+      "text": "Las mejoras de la sala del club facilitan el\n<n>reclutamiento de miembros talentosos después de\ncada<n> partido de la Unity Cup."
     },
     {
-      "name": "駿川たづな",
-      "text": "『チーム称号』とは、プレシーズン中の\r\nチームランキングとチーム総合力を\n合わせたチーム評価のことです。"
+      "name": "Tazuna Hayakawa",
+      "text": "Finalmente, está tu Título de Equipo. Esta es<n> una\nmedida de tu rendimiento general durante<n> la\npretemporada, y se basa tanto en tu<n> Ranking de\nEquipo como en tu Poder <n>de Equipo."
     },
     {
-      "name": "駿川たづな",
-      "text": "チーム称号が高ければ高いほど、\r\nエンディングでより良い報酬が用意されます。"
+      "name": "Tazuna Hayakawa",
+      "text": "Cuanto mejor sea el Título de Equipo<n> que obtengas,\nmejores recompensas recibirás<n> al final de tu\npartida."
     },
     {
-      "name": "駿川たづな",
-      "text": "より良いチーム称号を目指して、\r\n『アオハル杯』やトレーニングを\nがんばってくださいね♪"
+      "name": "Tazuna Hayakawa",
+      "text": "Espero que des lo mejor durante la Unity Cup<n> y\nentrenes para obtener el mejor título <n>posible. ♪"
     },
     {
-      "name": "駿川たづな",
-      "text": "チームの情報についての説明は以上と\r\nなります。ほかに聞きたいことはありますか？"
+      "name": "Tazuna Hayakawa",
+      "text": "Eso es todo sobre las estadísticas <n>del equipo.\n¿Hay algo más que te gustaría<n> saber?"
     },
     {
-      "name": "駿川たづな",
-      "text": "本当に大丈夫ですか？",
+      "name": "Tazuna Hayakawa",
+      "text": "¿Estás seguro?",
       "choice_data_list": [
-        "はい",
-        "いいえ"
+        "Sí",
+        "No"
       ]
     },
     {
-      "name": "駿川たづな",
-      "text": "わかりました♪　念のためお伝えしますと\r\n簡単にまとめたものがこちらにあります。"
+      "name": "Tazuna Hayakawa",
+      "text": "¡Muy bien! ♪ Por si acaso, he preparado<n> un resumen\nde todo lo que necesitas<n> saber."
     },
     {
-      "name": "駿川たづな",
-      "text": "Puede ver esta explicación en cualquier\nmomento\rpresionando el 'botón i' en la esquina\nsuperior izquierda."
+      "name": "Tazuna Hayakawa",
+      "text": "Simplemente toca el botón \"i\" en la parte superior<n>\nizquierda de la pantalla si alguna vez <n>necesitas\nun repaso."
     },
     {
-      "name": "駿川たづな",
-      "text": "それでは、がんばってください。\r\n陰ながら応援しています。"
+      "name": "Tazuna Hayakawa",
+      "text": "Te deseo la mejor de las suertes. ¡Te<n> estaré\nanimando!"
     },
     {
-      "name": "駿川たづな",
-      "text": "わかりました。それでは、がんばって\r\nくださいね！　陰ながら応援しています。"
+      "name": "Tazuna Hayakawa",
+      "text": "Vale. Te deseo la mejor de las suertes. ¡Te<n> estaré\nanimando!"
     }
   ]
 }

@@ -3,19 +3,19 @@
   "text_block_list": [
     {
       "name": "Comentarista",
-      "text": "¡El Tenno Sho de otoño está por<n>comenzar!\nPor<n>supuesto, todos tienen su atención<n>fijada\nen la<n>batalla entre la Emperatriz, Air<n>Groove,\ny la<n>Corredora de Otro Mundo, Silence<n>Suzuka!"
+      "text": "¡El Tenno Sho de otoño está a <n>punto de comenzar!\n¡Por supuesto, todos<n> tienen su atención puesta en\nla batalla<n> entre la Emperatriz, Air Groove,<n> y la\nCorredora de Otro Mundo, Silence<n> Suzuka!"
     },
     {
       "name": "Comentarista",
-      "text": "¡Las gradas están inundadas de<n>emoción!\n¡Todos<n>están al borde de sus asientos!"
+      "text": "¡Las gradas están llenas de emoción!<n> ¡Todos están\nal borde de sus asientos!"
     },
     {
-      "name": "Fanática",
-      "text": "¡Apuesto a que Suzuka volará hacia<n>adelante\ny<n>dejará a Air Groove en el polvo!"
+      "name": "Fan Femenina",
+      "text": "Apuesto a que Suzuka va a volar por delante y\n<n>dejará a Air Groove en el polvo!"
     },
     {
-      "name": "Fanático",
-      "text": "¡Estuve en el Sapporo Kinen, así que<n><i>sé</i>\nque Air<n>Groove tiene esto en la bolsa!"
+      "name": "Fan Masculino",
+      "text": "Estuve en el Sapporo Kinen, así <i>que <i>sé</i> <n></i>que Air\nGroove tiene esto en el bolsillo!"
     },
     {
       "name": "Monólogo",
@@ -25,13 +25,13 @@
       "name": "Air Groove",
       "text": "Hemos llegado hasta aquí.",
       "choice_data_list": [
-        "Solo queda correr.",
-        "Solo queda correr."
+        "Lo único que queda es correr.",
+        "Lo único que queda es correr."
       ]
     },
     {
       "name": "Air Groove",
-      "text": "Sí. Solo necesito dar todo de mí."
+      "text": "Sí. Solo necesito dar todo lo que<n> tengo."
     },
     {
       "name": "Silence Suzuka",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "Lamento haberte hecho esperar."
+      "text": "Perdón por hacerte esperar."
     },
     {
       "name": "Silence Suzuka",
@@ -55,7 +55,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Puedo sentir tu poder de nuevo. Has<n>vuelto a ser\nla<n>Air Groove que conozco tan bien."
+      "text": "Puedo sentir tu poder de nuevo. Has vuelto a<n> ser\nla Air Groove que conozco tan bien."
     },
     {
       "name": "Silence Suzuka",
@@ -63,7 +63,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Todavía hay algo diferente en ti ahora."
+      "text": "Todavía hay algo diferente en <n>ti ahora."
     },
     {
       "name": "Air Groove",
@@ -71,11 +71,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Te ves más rápida y aguda que la última<n>vez\nque<n>corrimos. Siento que podrías<n>adelantarme."
+      "text": "Te ves más rápida y aguda que la última<n> vez que\ncorrimos. Siento que podrías<n> adelantarme."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Eres más fuerte de lo que nunca te he<n>visto. Esa\nes<n>la sensación que tengo."
+      "text": "Eres más fuerte de lo que te he visto nunca.<n> Esa\nes la sensación que tengo."
     },
     {
       "name": "Air Groove",
@@ -83,11 +83,11 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Realmente disfruté corriendo en el<n>Takarazuka Kinen."
+      "text": "Disfruté mucho corriendo en el<n> Takarazuka Kinen."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Y mirándote ahora... siento que<n>puedo correr\naún<n>más rápido que en ese entonces."
+      "text": "Y al verte ahora... siento que puedo correr<n> aún\nmás rápido que en aquel entonces."
     },
     {
       "name": "Air Groove",
@@ -95,19 +95,19 @@
     },
     {
       "name": "Air Groove",
-      "text": "Eso es exactamente lo que quería<n>escuchar, Suzuka."
+      "text": "Eso es exactamente lo que quería escuchar,<n> Suzuka."
     },
     {
       "name": "Air Groove",
-      "text": "Espero verte correr incluso más<n>rápido que en\nel<n>Takarazuka Kinen... antes de que te<n>pase y\nreclame mi<n>victoria."
+      "text": "Espero con ansias verte correr aún más<n> rápido que\nen el Takarazuka Kinen... antes<n> de que te adelante\ny reclame mi victoria."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Bien. Pero no esperes que me rinda<n>sin luchar."
+      "text": "Bien. Pero no esperes que me <n>rinda sin luchar."
     },
     {
       "name": "Silence Suzuka",
-      "text": "Me voy ahora. Tengamos una buena<n>carrera\nallá<n>afuera."
+      "text": "Me voy ahora. Tengamos una buena<n> carrera allá."
     },
     {
       "name": "Air Groove",
@@ -122,7 +122,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "Soy la Emperatriz. Soy la<n>desafiante\nque<n>impulsa a todas las Umamusume<n>hacia\nadelante."
+      "text": "Soy la Emperatriz. Soy la retadora que impulsa<n> a\ntodas las Uma Musume hacia adelante."
     },
     {
       "name": "Air Groove",

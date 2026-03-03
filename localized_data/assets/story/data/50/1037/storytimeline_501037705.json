@@ -2,300 +2,308 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "エイシンフラッシュが\n買い物をしたいとのことで、\n帰りにショッピングモールに寄った。"
+      "name": "Monólogo",
+      "text": "Eishin Flash quiere ir de compras, así que <n>pasamos\npor el centro comercial en nuestro camino<n> a casa."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "申し訳ありません、トレーナーさん。\nお付き合いいただいて。",
+      "name": "Eishin Flash",
+      "text": "Gracias por acompañarme.",
       "choice_data_list": [
-        "ちなみに何を買う予定？"
+        "Por supuesto. Entonces, ¿qué necesitas comprar?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "日本でお世話になっている方たちへ、\r\n感謝の品を、と思いまして。\n貯金箱に購入資金を貯めていたんです。"
+      "name": "Eishin Flash",
+      "text": "Deseo comprar regalos de agradecimiento<n> para las\npersonas que me han ayudado <n>durante mi tiempo en\nJapón. He estado ahorrando <n>para esta ocasión."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "買う品のリストは作ってありますので、\nそれほどお時間は取らせません。\n――では、行きましょう。"
+      "name": "Eishin Flash",
+      "text": "Tengo una lista de lo que me gustaría comprar,<n> así\nque esto no debería tomar mucho tiempo. <n>Vámonos."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……ファルコンさんには安眠枕、\nジョーダンさんにはこのポーチを……。"
+      "name": "Eishin Flash",
+      "text": "Una almohada cómoda para Falcon, un bolso<n> de mano\npara Jordan..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ゴルシさんにはこのモアイ像の置物……\nナカヤマさんには錫のタンブラー……。"
+      "name": "Eishin Flash",
+      "text": "Una estatua de Moai para Golshi... Un vaso de\nviaje<n> para Nakayama..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――さて。残るはあと1人分です。\nしかし、想定予算よりも\n結構安かったですね……。",
+      "name": "Eishin Flash",
+      "text": "Ahora, solo queda un regalo. Me sorprende que aún<n>\nesté dentro del presupuesto.",
       "choice_data_list": [
-        "残りは誰の分？"
+        "¿Quién falta?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "それはもちろん――貴方への贈り物です。",
+      "name": "Eishin Flash",
+      "text": "Tú, por supuesto.",
       "choice_data_list": [
-        "そんなのいいのに"
+        "¡No tienes que comprarme nada!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そういうわけにはいきません。\n貴方には、1番お世話になっていますから。"
+      "name": "Eishin Flash",
+      "text": "Por supuesto que sí. Me has ayudado<n> más que nadie."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "予算にも余裕が出たことですし、\nよければ貴方のご希望をお聞きして\n決めたいのですが――",
+      "name": "Eishin Flash",
+      "text": "¿Hay algo en particular que te gustaría? Mi\n<n>presupuesto ahora es más alto de lo <n>anticipado,\nasí que estoy abierta a peticiones.",
       "choice_data_list": [
-        "いろいろ見て決めたい",
-        "君が選んでくれたものならなんでも！",
-        "貴方が選んでくれたものならなんでも！"
+        "Me gustaría mirar primero.",
+        "¡Estoy bien con cualquier cosa que elijas!",
+        "¡Estoy bien con cualquier cosa que elijas!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "予算にも余裕が出たことですし、\nよければ貴方のご希望をお聞きして\n決めたいのですが――",
+      "name": "Eishin Flash",
+      "text": "¿Hay algo en particular que te gustaría? Mi\n<n>presupuesto ahora es más alto de lo <n>anticipado,\nasí que estoy abierta a peticiones.",
       "choice_data_list": [
-        "いろいろ見て決めたい",
-        "君が選んでくれたものならなんでも！",
-        "貴方が選んでくれたものならなんでも！"
+        "Me gustaría mirar primero.",
+        "¡Estoy bien con cualquier cosa que elijas!",
+        "¡Estoy bien con cualquier cosa que elijas!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "承知しました。それでは、2人で\r\n見て回りましょう。"
+      "name": "Eishin Flash",
+      "text": "Muy bien. Busquemos algo juntas."
     },
     {
-      "text": "そうしてしばらく店をうろうろしていると……\r\nエイシンフラッシュが、\nある品物を凝視しているのに気づいた。"
+      "name": "Monólogo",
+      "text": "Navegamos por un rato hasta que de repente,<n> noto a\nEishin Flash mirando fijamente un<n> artículo en\nparticular."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "…………。"
+      "name": "Eishin Flash",
+      "text": "..."
     },
     {
-      "text": "見ると、テントウムシの飾りがついた\nストップウォッチだった。そういえば、\n彼女はテントウムシが好きだったはずだ――"
+      "name": "Monólogo",
+      "text": "Es un cronómetro decorado con<n> mariquitas. Ahora\nque lo pienso, <n>Eishin Flash sí ama las\nmariquitas..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……あ。申し訳ありません。\nつい気を取られて――",
+      "name": "Eishin Flash",
+      "text": "Oh. Disculpa. No quise <n>distraerme...",
       "choice_data_list": [
-        "……そのストップウォッチにしよう"
+        "Creo que me gustaría ese cronómetro."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "えっ？　トレーナーさんも\nこのストップウォッチを――"
+      "name": "Eishin Flash",
+      "text": "¿Eh? ¿A ti también te ha gustado?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……待ってください。\n……もしかして、私のために……。",
+      "name": "Eishin Flash",
+      "text": "Espera... ¿Acaso planeas regalármelo<n> otra vez?",
       "choice_data_list": [
-        "……すぐばれたな",
-        "……すぐばれたね"
+        "Ups. Viste a través de mi plan.",
+        "Ups. Viste a través de mi plan."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……わかりますよ。\n相変わらず、優しい人ですね。"
+      "name": "Eishin Flash",
+      "text": "Por supuesto que sí. Eres amable como siempre."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ですがやはり、私から貴方のための品を\n贈らせていただきたいんです。\nこれは、感謝の印ですから。"
+      "name": "Eishin Flash",
+      "text": "Sin embargo, esto se supone que es un regalo de<n>\ngratitud <i>para <i>ti.</i>"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……そのお気持ちは嬉しいのですが――",
+      "name": "Eishin Flash",
+      "text": "Así que aunque estoy feliz por<n> tu consideración—",
       "choice_data_list": [
-        "その嬉しさを贈り物ということに"
+        "Tu felicidad es el mejor regalo que podría pedir."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "…………っ。"
+      "name": "Eishin Flash",
+      "text": "...!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……わかり、ました。\nそれでは、ご厚意に甘えさせて\nいただきます……。"
+      "name": "Eishin Flash",
+      "text": "...Muy bien. Entonces aceptaré <n>graciosamente tu\nbondad..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "大事に、使わせていただきますね。"
+      "name": "Eishin Flash",
+      "text": "Lo atesoraré con todo mi corazón."
     },
     {
-      "text": "喜んでもらえてよかった、ということで、\nエイシンフラッシュに待っていてもらい、\nひとまず会計に向かった。"
+      "name": "Monólogo",
+      "text": "Eishin Flash lleva el cronómetro a la caja<n> con una\nsonrisa verdaderamente invaluable."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "…………。\n……あっ、これ……。"
+      "name": "Eishin Flash",
+      "text": "Aquí tienes..."
     },
     {
-      "text": "店を出て早速、エイシンフラッシュへ\r\nプレゼントを渡した。"
+      "name": "Monólogo",
+      "text": "Me entrega el cronómetro, y luego<n> yo se lo\ndevuelvo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……ありがとうございます。\nトレーナーさん。",
+      "name": "Eishin Flash",
+      "text": "...Muchas gracias, Entrenador.",
       "choice_data_list": [
-        "じゃあ、帰ろうか"
+        "Bueno, regresemos."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……待ってください。その前に――"
+      "name": "Eishin Flash",
+      "text": "Espera un momento. Antes de que—"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "これを、受け取ってください。",
+      "name": "Eishin Flash",
+      "text": "Por favor, acepta esto.",
       "choice_data_list": [
-        "これは……？"
+        "¿Qué es?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……開けてみてください。"
+      "name": "Eishin Flash",
+      "text": "Ábrelo. Verás."
     },
     {
-      "text": "促されて開くと……\n中には、写真立てが入っていた。"
+      "name": "Monólogo",
+      "text": "Hago lo que dice y descubro un marco<n> de foto\ndentro."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……やはり、私からも\n形に残るものを贈りたくて。"
+      "name": "Eishin Flash",
+      "text": "No podía ignorar mi deseo de <n>regalarte algo,\n¿sabes?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "その写真立てには、\n飾っていただきたい写真があるんです。",
+      "name": "Eishin Flash",
+      "text": "Hay una foto en particular que quiero<n> que pongas\nen ese marco.",
       "choice_data_list": [
-        "どんな写真？"
+        "¿Y cuál sería?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私と貴方の、レース勝利記念の写真、です。"
+      "name": "Eishin Flash",
+      "text": "La foto que nos tomaremos juntas para<n> conmemorar\nmi victoria en una carrera."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "それこそが、私が成すべき務めを\n果たした証であり――貴方に、最も\n喜んでいただける贈り物となると思います。"
+      "name": "Eishin Flash",
+      "text": "Creo que esa sería la mejor prueba<n> de que he\nlogrado lo que debo—y<n> el regalo que te traería más\n<n>alegría."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……ふふ。楽しみにしていてください――"
+      "name": "Eishin Flash",
+      "text": "Jeje. Por favor, espera con ansias ese día."
     },
     {
-      "text": "エイシンフラッシュから素敵なプレゼントを\n受け取り、また2人で頑張っていこうと\n改めて誓ったのだった。"
+      "name": "Monólogo",
+      "text": "Después de recibir un regalo tan maravilloso<n> de\nEishin Flash, me siento aún<n> más determinada a\ntrabajar duro junto a<n> ella."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "なんでも……ですか。\nしかし、やはり最も喜んでいただける品を\n選びたいですから――"
+      "name": "Eishin Flash",
+      "text": "¿Cualquier cosa, dices? Pero quiero<n> elegir algo\nque sé que te gustará..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――ううん。難しい問題ですね。",
+      "name": "Eishin Flash",
+      "text": "Hmm. Qué dilema.",
       "choice_data_list": [
-        "そんなに深く考えなくても――"
+        "No necesitas pensar tanto en ello."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――少々お待ちください。\n12分30秒以内に、きっと貴方にとって\nベストの品を見つけてまいりますので。"
+      "name": "Eishin Flash",
+      "text": "Por favor, ten paciencia. Encontraré el regalo<n>\nperfecto para ti en los próximos doce<n> minutos,\ntreinta segundos."
     },
     {
-      "text": "……エイシンフラッシュはそう言うと、\n止める間もなく行ってしまった。"
+      "name": "Monólogo",
+      "text": "Eishin Flash se va antes de que pueda intentar<n>\ndetenerla."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……あと7分18秒。\nううん――なかなかこれといった品は……。"
+      "name": "Eishin Flash",
+      "text": "Quedan siete minutos, dieciocho segundos.<n> Hmm...\nMe cuesta encontrar el regalo <n>adecuado..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――No te alteres. toi,toi,toi…\nRevisa el mapa del piso y piensa――"
+      "name": "Eishin Flash",
+      "text": "No, no debo preocuparme. Toi, toi, toi... <n>Debería\nvolver al mapa de la tienda y <n>pensarlo..."
     },
     {
-      "name": "スマートファルコン",
-      "text": "あーっ！　やっぱりフラッシュさんだ！\nやっほ～♪　偶然だね～！"
+      "name": "Smart Falcon",
+      "text": "¡Oh, hola! ¡Pensé que eras tú, Flash! ♪<n> ¡Nunca\npensé que te encontraría aquí!"
     },
     {
-      "name": "スマートファルコン",
-      "text": "……ってあれ？　フラッシュさん1人？\n確か朝、今日はトレーナーさんと\nお出かけの予定だって……。"
+      "name": "Smart Falcon",
+      "text": "¿Eh? ¿Estás sola? Pero esta<n> mañana me dijiste que\nibas a pasar<n> el rato con tu entrenador..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――ファルコンさん。\nそうなんですが、実は今――"
+      "name": "Eishin Flash",
+      "text": "Hola, Falcon. Es verdad, pero <n>actualmente—"
     },
     {
-      "name": "スマートファルコン",
-      "text": "なるほどなるほど～……\nトレーナーさんへのプレゼントね～。"
+      "name": "Smart Falcon",
+      "text": "¡Ah, vale! Así que estás <n>buscando algo para tu\nentrenador, ¿eh?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――以前トレーナーさんは\r\nテレビに出た有田焼の湯呑を\n良いと仰っていたことがありました……。"
+      "name": "Eishin Flash",
+      "text": "Hace no mucho, estábamos viendo TV<n> cuando el\nentrenador se encaprichó con<n> las tazas de té de\nArita que<n> mostraban..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……北欧特集の番組の時は\nテーブルランプをおしゃれだと\n仰ったこともありましたね――"
+      "name": "Eishin Flash",
+      "text": "Pero por otro lado, también estaba la<n> lámpara de\nmesa elegante que presentaron<n> en el programa\ntemático escandinavo..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "となると、推測される答えは……。\nいえ、他にも――ううん……。"
+      "name": "Eishin Flash",
+      "text": "Tomando en cuenta tales comentarios,<n> el regalo\nperfecto debe ser... No, debe<n> haber algo más...\nHm..."
     },
     {
-      "name": "スマートファルコン",
-      "text": "う、うう～ん……\nちょっと考えすぎじゃないかな？"
+      "name": "Smart Falcon",
+      "text": "Umm... ¿No estás pensando demasiado en esto?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "確かに、詰まってしまっています……。\n時間はあと5分28秒。果たして最適な品を\n見つけることができるか……。"
+      "name": "Eishin Flash",
+      "text": "En efecto, mis pensamientos están en punto<n> muerto.\nSolo quedan cinco minutos, veintiocho<n> segundos...\n¿Seré capaz de encontrar un regalo <n>adecuado a\ntiempo?"
     },
     {
-      "name": "スマートファルコン",
-      "text": "ん～……そうだなあ。\r\nフラッシュさん、こういう時はね――"
+      "name": "Smart Falcon",
+      "text": "Hmm... Bueno, en momentos como este,<n> deberías..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――お待たせいたしました。\nトレーナーさん。"
+      "name": "Eishin Flash",
+      "text": "Gracias por tu paciencia, Entrenador."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "これが……貴方への贈り物です。"
+      "name": "Eishin Flash",
+      "text": "Aquí... Por favor, acepta este regalo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "中身は……ケーキです。\r\nケーキ屋の娘として、自信を持って\nおすすめできる店で買いました。"
+      "name": "Eishin Flash",
+      "text": "Es un pastel. Como hija de reposteros,<n> puedo\natestiguar la calidad de <n>la pastelería donde\ncompré esto."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "きっと、その……味には、\nご満足いただけるかと、思うのですが。"
+      "name": "Eishin Flash",
+      "text": "Estoy segura, bueno... Creo que te gustará<n> cómo\nsabe."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "…………その。\n喜んでいただけた、でしょうか？",
+      "name": "Eishin Flash",
+      "text": "Solo puedo esperar que este sea un regalo\n<n>satisfactorio...",
       "choice_data_list": [
-        "もちろん！"
+        "¡Por supuesto!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……！　よかった……。"
+      "name": "Eishin Flash",
+      "text": "¡Oh! Qué alivio..."
     },
     {
-      "name": "スマートファルコン",
-      "text": "――おお～！　じゃあ喜んでもらえたんだ！\nやったね！　フラッシュさん！"
+      "name": "Smart Falcon",
+      "text": "¡Yay! ¡Me alegra mucho que funcionara! ¡Bien<n> por\nti!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい……ファルコンさんにいただいた\nアドバイス通りでした。"
+      "name": "Eishin Flash",
+      "text": "Gracias. Tus consejos fueron de<n> gran ayuda,\nFalcon."
     },
     {
-      "name": "スマートファルコン",
-      "text": "むっふっふ～、そうでしょ～。\nこういう時に大事なのは、100点満点の\n答えを探すことじゃないんだよね。"
+      "name": "Smart Falcon",
+      "text": "¡Jeje! ¿No soy la mejor? Cuando se trata<n> de cosas\nasí, no necesitas obtener una <n>puntuación perfecta\nni nada por el estilo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "最も大事なのは、自分の真心を伝えること。\nまさに、その通りでしたね……。"
+      "name": "Eishin Flash",
+      "text": "Fue tal como dijiste: lo que cuenta es la\n<n>intención. Simplemente transmitir mi sinceridad<n>\nfue todo lo que necesitaba hacer."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "今ごろ、美味しく食べてもらえていたら\n……いいな。"
+      "name": "Eishin Flash",
+      "text": "Espero que el Entrenador esté disfrutando el\npastel ahora<n> mismo."
     }
   ]
 }

@@ -3,66 +3,66 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "<chrname> y yo estamos de<n>compras de\nzapatos cuando nos<n>encontramos con la\nEntrenadora Kiryuin y Happy Meek."
+      "text": "<chrname> y yo estamos <n>comprando zapatos cuando nos\nencontramos con<n> la Entrenadora Kiryuin y Happy\nMeek."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "¡Oh, si no es el\nEntrenador<n><username>!\n¿También<n>estás comprando zapatos?",
+      "name": "Trainer Kiryuin",
+      "text": "Oh, si no es ¡Entrenador<n> <username>! ¿También<n> estás\ncomprando zapatos?",
       "choice_data_list": [
         "¿Tú también?"
       ]
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "¡Por supuesto! Después de todo, una<n>Umamusume de\nprimera necesita<n>equipamiento de primera!"
+      "name": "Trainer Kiryuin",
+      "text": "¡Por supuesto! Después de todo, una Umamusume<n> de\nprimera necesita equipo de primera!"
     },
     {
       "name": "Monólogo",
-      "text": "Empiezo a revisar los estantes<n>junto a una\nemocionada Entrenadora Kiryuin."
+      "text": "Empiezo a revisar los estantes junto<n> a una\nEntrenadora Kiryuin emocionada."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Mira, Meek. Son esos zapatos nuevos<n>de la\nrevista."
+      "name": "Trainer Kiryuin",
+      "text": "¡Mira, Meek! Son esos zapatos nuevos<n> de la\nrevista."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Su rendimiento está respaldado por<n>la ciencia\ndepotiva y respaldado por<n>Umamusume de alto\nnivel."
+      "name": "Trainer Kiryuin",
+      "text": "Su rendimiento está respaldado por la<n> ciencia del\ndeporte y avalado por <n>Umamusume de nivel superior."
     },
     {
       "name": "Happy Meek",
       "text": "Ya veo..."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Pero desde una perspectiva de<n>comodidad, los\nzapatos de al lado son la<n>mejor opción."
+      "name": "Trainer Kiryuin",
+      "text": "Pero en cuanto a comodidad, los zapatos<n> que están\nal lado son la opción ideal."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Este modelo tiene una excelente<n>amortiguación y\nreduce la tensión en las<n>piernas."
+      "name": "Trainer Kiryuin",
+      "text": "Este modelo tiene una excelente amortiguación<n> y\nreduce la tensión en las piernas."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Considerando tu estilo de carrera,<n>estos pueden\nser la mejor elección."
+      "name": "Trainer Kiryuin",
+      "text": "Considerando tu estilo de carrera, estos<n> podrían\nser la mejor opción."
     },
     {
       "name": "Happy Meek",
-      "text": "Cierto..."
+      "text": "Vale..."
     },
     {
       "name": "Monólogo",
-      "text": "Happy Meek asiente. Abre la boca<n>como para\nhablar, pero la cierra de nuevo<n>sin decir nada."
+      "text": "Happy Meek asiente. Abre la boca <n>como si fuera a\nhablar, pero la cierra de nuevo<n> sin decir nada."
     },
     {
       "name": "Monólogo",
-      "text": "Me doy cuenta de que está mirando<n>fijamente algo\ny sigo su mirada hacia<n>otro par de zapatos. Si\nmi corazonada es<n>correcta..."
+      "text": "Me doy cuenta de que está mirando algo y<n> sigo su\nmirada hacia otro par de zapatos. Si<n> mi corazonada\nes correcta..."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Bien, ¡he tomado una decisión!"
+      "name": "Trainer Kiryuin",
+      "text": "¡Vale, ya he decidido!"
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "¿Podrías esperar aquí, Meek? Solo<n>voy a ir a\npagar."
+      "name": "Trainer Kiryuin",
+      "text": "¿Podrías esperar aquí, Meek? Solo<n> voy a ir a\npagar."
     },
     {
       "name": "Happy Meek",
@@ -74,26 +74,26 @@
     },
     {
       "name": "Happy Meek",
-      "text": "No... Está bien. Estoy contenta con los<n>zapatos\nque mi entrenadora eligió para mí."
+      "text": "No... Está bien. Estoy contenta con los <n>zapatos\nque mi entrenadora eligió para mí."
     },
     {
       "name": "Happy Meek",
-      "text": "Sé que solo está pensando en lo<n>mejor para\nmí... Trabaja muy duro, sabes."
+      "text": "Sé que ella solo está pensando en lo<n> mejor para\nmí... Ella trabaja muy duro,<n> ¿sabes?"
     },
     {
       "name": "Happy Meek",
-      "text": "Así que está bien... Solo pensé que<n>esos zapatos\nse parecían a baguettes,<n>eso es todo.",
+      "text": "Así que está bien... Solo pensé que esos<n> zapatos\nparecían baguetes, nada más.",
       "choice_data_list": [
-        "Ella será más feliz si eres honesta con ella.",
-        "Ella será más feliz si eres honesta con ella."
+        "Ella será más feliz si eres honesto con ella.",
+        "Ella será más feliz si eres honesto con ella."
       ]
     },
     {
       "name": "Happy Meek",
-      "text": "Tú... ¿realmente crees eso?",
+      "text": "¿De verdad lo crees?",
       "choice_data_list": [
-        "También soy entrenador. Sé estas cosas.",
-        "También soy entrenador. Sé de estas cosas."
+        "Yo también soy entrenadora. Sé de estas cosas.",
+        "Yo también soy entrenadora. Sé de estas cosas."
       ]
     },
     {
@@ -101,40 +101,40 @@
       "text": "Gracias... Iré a decírselo..."
     },
     {
-      "name": "Entrenadora Kiryuin",
+      "name": "Trainer Kiryuin",
       "text": "Lo siento, Meek..."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Me dejé llevar tanto por hacer lo que<n>creía que\nera mejor, que no pensé en<n>considerarte a ti."
+      "name": "Trainer Kiryuin",
+      "text": "Me dejé llevar tanto haciendo lo que<n> creía que era\nlo mejor, que no pensé<n> en considerarte."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Lo más importante es que las zapatillas<n>se\najusten a <i>tus</i> deseos. Preguntarte<n>cómo te\nsentías debería haber sido lo<n>primero que hice."
+      "name": "Trainer Kiryuin",
+      "text": "Lo más importante es que los zapatos se <n><i>ajusten a\n<i>tus</i> deseos. </i>Preguntarte cómo te <n>sentías debería\nhaber sido lo primero que hice."
     },
     {
       "name": "Happy Meek",
       "text": "Entrenadora..."
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Volvamos a la tienda y elijamos<n>de nuevo, ¿vale?\nEsta vez, <i>juntos.</i>"
+      "name": "Trainer Kiryuin",
+      "text": "Volvamos a la tienda y elijamos de <n>nuevo, ¿vale?\nEsta vez, <i>juntos.</i>"
     },
     {
-      "name": "Entrenadora Kiryuin",
-      "text": "Gracias por cuidar de Meek,<n>\nEntrenador <username>."
-    },
-    {
-      "name": "Happy Meek",
-      "text": "También quiero decir... gracias."
+      "name": "Trainer Kiryuin",
+      "text": "Gracias por cuidar de Meek, <n>Entrenadora <username>."
     },
     {
       "name": "Happy Meek",
-      "text": "De ahora en adelante... le diré a mi<n>entrenadora\nlo que quiero cuando<n>elijamos zapatillas."
+      "text": "Yo también quiero decir... gracias."
+    },
+    {
+      "name": "Happy Meek",
+      "text": "De ahora en adelante... Le diré a mi entrenadora\nlo que<n> quiero cuando estemos eligiendo zapatos."
     },
     {
       "name": "Monólogo",
-      "text": "Después de despedir a la Entrenadora<n>Kiryuin,\n<chrname> y yo elegimos<n>un par de zapatillas que\nse ajustan a<n>sus preferencias."
+      "text": "Después de despedir al Entrenador <n>Kiryuin, <chrname> y yo\nelegimos un par<n> de zapatos que se ajustan a sus\npreferencias."
     }
   ]
 }

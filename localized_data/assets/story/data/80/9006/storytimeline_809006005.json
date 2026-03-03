@@ -2,141 +2,143 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "ある日のこと。トレーナー同士の\r\n交流も必要なのではないかと思い立ち、\n近くのトレーナー室を訪れてみると――"
+      "name": "Monólogo",
+      "text": "Un día, decido vagar por las oficinas<n> y conocer un\npoco mejor a mis <n>compañeros entrenadores."
     },
     {
-      "name": "樫本理子",
-      "text": "――歌とは、ただ言葉を音楽に乗せれば\r\nいいものではありません。"
+      "name": "Riko Kashimoto",
+      "text": "Debes entender que las canciones no son meramente<n>\npalabras sincronizadas con la música."
     },
     {
-      "name": "樫本理子",
-      "text": "意味があるのです。歌詞にも、曲にも。\r\n貴方の歌は安定している。けれど――"
+      "name": "Riko Kashimoto",
+      "text": "Hay significado tanto en la letra <i>como</i> <n></i>en la\nmúsica. Mientras que tu voz<n> es consistente..."
     },
     {
-      "name": "リトルココン",
-      "text": "……アタシの気持ちが\r\n入っていないってことですよね。"
+      "name": "Little Cocon",
+      "text": "Mis canciones carecen de sentimiento. ¿Es eso?"
     },
     {
-      "name": "樫本理子",
-      "text": "……もうこんな時間ですね。\r\n続きは、また明日にしましょう。"
+      "name": "Riko Kashimoto",
+      "text": "Vaya, mira la hora. <n>Continuaremos esto mañana."
     },
     {
-      "name": "樫本理子",
-      "text": "対策は用意しておきます。貴方は\r\nもっと深く歌詞を読みこんでおくように。"
+      "name": "Riko Kashimoto",
+      "text": "Pensaré en una solución. Intenta obtener<n> una\ncomprensión más profunda de la letra <n>mientras\ntanto."
     },
     {
-      "name": "リトルココン",
-      "text": "はい。失礼します、樫本トレーナー。"
+      "name": "Little Cocon",
+      "text": "Muy bien. Nos vemos mañana."
     },
     {
-      "name": "樫本理子",
-      "text": "待たせましたね。"
+      "name": "Riko Kashimoto",
+      "text": "Perdón por hacerte esperar."
     },
     {
-      "name": "樫本理子",
-      "text": "貴方が立っているのは見えていましたが、\r\n私にも優先順位があるので。",
+      "name": "Riko Kashimoto",
+      "text": "Te vi allí, pero primero tuve que <n>terminar con mi\ncorredora.",
       "choice_data_list": [
-        "ウマ娘を優先するのは当然です"
+        "Por supuesto. Las corredoras siempre deben tener\nprioridad."
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "……ええ、これに関しては貴方も\r\n同じでしょう。"
+      "name": "Riko Kashimoto",
+      "text": "Sí, me alegra que tengas la misma opinión."
     },
     {
-      "name": "樫本理子",
-      "text": "それで、用件は？",
+      "name": "Riko Kashimoto",
+      "text": "Entonces, ¿en qué puedo ayudarte?",
       "choice_data_list": [
-        "一緒に食事でも、どうですか？"
+        "¿Te gustaría comer algo juntos?"
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "……いいでしょう。ご一緒します。"
+      "name": "Riko Kashimoto",
+      "text": "...No veo por qué no. Vamos."
     },
     {
-      "name": "樫本理子",
-      "text": "……で、連れてきたのがカラオケですか。"
+      "name": "Riko Kashimoto",
+      "text": "No esperaba comer en un establecimiento<n> de\nkaraoke."
     },
     {
-      "name": "樫本理子",
-      "text": "なるほど。先程の話を聞いて、\r\nここを選んだのですね？",
+      "name": "Riko Kashimoto",
+      "text": "Pero creo que entiendo por <n>qué. Me trajiste aquí\npor mi<n> conversación con Little Cocon antes,<n>\n¿verdad?",
       "choice_data_list": [
-        "実演するのが1番かと"
+        "Supuse que el mejor enfoque para resolver un\nproblema relacionado con canciones es cantando."
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "仰る通りです。ウマ娘と同じように\r\n走ることは適いませんが――"
+      "name": "Riko Kashimoto",
+      "text": "Absolutamente. Aunque es imposible para <n>mí correr\ncomo una de ellas..."
     },
     {
-      "name": "樫本理子",
-      "text": "歌ならば、私にも可能でしょう。\r\nとは言え、客観的な目と耳がなくては。"
+      "name": "Riko Kashimoto",
+      "text": "Debería ser capaz de cantar. Por <n>supuesto,\nnecesitaré un observador objetivo <n>para juzgar mi\nactuación."
     },
     {
-      "name": "樫本理子",
-      "text": "ご協力、お願いします。"
+      "name": "Riko Kashimoto",
+      "text": "Espero que no te importe."
     },
     {
-      "name": "樫本理子",
-      "text": "……ふぅ。いかがでしたか？",
+      "name": "Riko Kashimoto",
+      "text": "Uf... ¿Cómo estuve?",
       "choice_data_list": [
-        "素晴らしかったです！"
+        "¡Fuiste increíble!"
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "……どうも。しかし、声の伸びが\r\n足りなかったようにも思えます。"
+      "name": "Riko Kashimoto",
+      "text": "Es amable, pero siento que no sostenía las <n>notas\nel tiempo suficiente."
     },
     {
-      "name": "樫本理子",
-      "text": "やはり、練習は必要ですね。"
+      "name": "Riko Kashimoto",
+      "text": "Parece que aún necesito práctica."
     },
     {
-      "name": "樫本理子",
-      "text": "対策を練るからと言って、資料にばかり\r\n頼ることが正しいとは限りません。"
+      "name": "Riko Kashimoto",
+      "text": "Uno no debería depender únicamente de los<n> datos al\nidear una solución a un problema."
     },
     {
-      "name": "樫本理子",
-      "text": "ましてや、今のあの子に必要なのは情緒。\r\n学ぶのなら、実践に限ります。"
+      "name": "Riko Kashimoto",
+      "text": "Lo que Little Cocon requiere en su canto <n>es más\nemoción. Practicar es la mejor manera<n> para que\nella aprenda esto."
     },
     {
-      "name": "樫本理子",
-      "text": "では、もう1度……！"
+      "name": "Riko Kashimoto",
+      "text": "Ahora entonces, ¡un intento más!"
     },
     {
-      "name": "樫本理子",
-      "text": "はぁ……今度は、\r\n声がしっかりと伸びた気がします。",
+      "name": "Riko Kashimoto",
+      "text": "Uf... Creo que sostuve bien mis notas<n> esa vez.",
       "choice_data_list": [
-        "とても綺麗でした"
+        "Tu canto fue impresionante."
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "――が、今度は感情表現が甘かったような。"
+      "name": "Riko Kashimoto",
+      "text": "Así dices, pero ahora <i>yo</i> soy aquella cuyo<n> canto\ncarece de profundidad emocional."
     },
     {
-      "name": "樫本理子",
-      "text": "ふぅ……口で言うのは簡単ですが、\r\n私もまだまだでしたね。"
+      "name": "Riko Kashimoto",
+      "text": "<i>Suspiro...</i> Es una cosa dar instrucciones,<n> pero\notra ejecutarlas bien. Aún tengo<n> un largo camino\npor recorrer."
     },
     {
-      "name": "樫本理子",
-      "text": "リトルココンは、気持ちに不器用なんです。\r\n想いを、どう表現していいかわからない。"
+      "name": "Riko Kashimoto",
+      "text": "Little Cocon es torpe cuando se trata<n> de sus\nsentimientos y tiene problemas<n> para expresarse."
     },
     {
-      "name": "樫本理子",
-      "text": "だからこそ、見本となるよう歌い上げ、\r\n感じ取ってもらわなくては。"
+      "name": "Riko Kashimoto",
+      "text": "Es por eso que debo aprender a cantar con<n> el\ncorazón y servir de ejemplo para ella."
     },
     {
-      "name": "樫本理子",
-      "text": "歌にも、人の心を打つ力があるのだと。"
+      "name": "Riko Kashimoto",
+      "text": "Necesito mostrarle que la música tiene el<n> poder de\ninvocar emociones en los demás."
     },
     {
-      "name": "樫本理子",
-      "text": "あの子に聴かせるためにも、納得がいくまで\r\n付き合ってもらいますよ。覚悟はいいですね？"
+      "name": "Riko Kashimoto",
+      "text": "¿Estás preparado? Espero que me acompañes<n> hasta\nque pueda cantar lo suficientemente<n> bien para\nhacerlo."
     },
     {
-      "text": "力強い中に浮かぶ、優しい声色……\r\nその歌はウマ娘を想う心、そのものだった。"
+      "name": "Monólogo",
+      "text": "Mientras su voz gentil, pero poderosa,<n> sube y\nbaja, puedo decir por su canción <n>cuánto se\npreocupa por sus corredoras."
     }
   ]
 }

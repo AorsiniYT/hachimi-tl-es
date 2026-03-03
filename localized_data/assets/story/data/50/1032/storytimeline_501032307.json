@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Caster",
-      "text": "¡Y es Agnes Tachyon cruzando la<n>línea de meta,\ncon una<n>muestra tremenda de<n>dominancia!"
+      "name": "Locutor",
+      "text": "¡Y es Agnes Tachyon cruzando la <n>línea de meta, en\nuna tremenda demostración<n> de dominio!"
     },
     {
       "name": "Monólogo",
-      "text": "Puede que sea la encarnación viviente de\nun<n>enigma, pero su forma de correr nunca<n>deja\nde asombrarme.",
+      "text": "Ella puede ser la encarnación viviente de <n>un\nenigma, pero su forma de correr nunca deja <n>de\nasombrarme.",
       "choice_data_list": [
         "(¡Nunca me cansaré de verte correr!)",
         "(¡Nunca me cansaré de verte correr!)"
@@ -15,25 +15,25 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Mmm, ya veo... Esto es... verdaderamente fascinante.",
+      "text": "Mmm, ya veo... Esto es... realmente fascinante.",
       "choice_data_list": [
         "¡Bien hecho! ¡Corriste como el viento!"
       ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Oh, Entrenador. Estás de muy buen humor."
+      "text": "Oh, Entrenador. Estás de buen humor."
     },
     {
       "name": "Monólogo",
-      "text": "Al final, no corrió en el Derby<n>Japonés, la\ncarrera que<n>originalmente le sugerí."
+      "text": "Al final, no corrió en el <n>Japanese Derby, la\ncarrera que originalmente<n> le sugerí."
     },
     {
       "name": "Monólogo",
-      "text": "Pero eso no significa que deba abandonar<n>el\nresto de nuestra agenda. Todavía<n>quiero que\ncorra en el Kikuka Sho.",
+      "text": "Pero eso no significa que deba abandonar<n> el resto\nde nuestra agenda. Todavía quiero que<n> corra en el\nKikuka Sho.",
       "choice_data_list": [
-        "¡A continuación, ingresemos al Kikuka Sho!",
-        "¡A continuación, ingresemos al Kikuka Sho!"
+        "¡A continuación, entremos en el Kikuka Sho!",
+        "¡A continuación, entremos en el Kikuka Sho!"
       ]
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "La carrera G1 del Kikuka Sho es la siguiente\nen<n>tu agenda, después de todo."
+      "text": "El Kikuka Sho G1 es lo siguiente en tu<n> agenda,\ndespués de todo."
     },
     {
       "name": "Agnes Tachyon",
@@ -50,9 +50,9 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "De aquí en adelante, me gustaría que\nno<n>depositaras demasiada fe en mí.",
+      "text": "De aquí en adelante, me gustaría que <n>no pusieras\ntanta fe en mí!",
       "choice_data_list": [
-        "¡¿Otra vez?!"
+        "¡Otra vez?!"
       ]
     },
     {
@@ -61,11 +61,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "¿Qué quiere decir con eso? En cualquier<n>caso,\nparece que nuestro objetivo no ha<n>cambiado...\npor ahora."
+      "text": "¿Qué quiere decir con eso? En cualquier<n> caso,\nparece que nuestro objetivo no ha <n>cambiado... por\nel momento."
     },
     {
       "name": "Monólogo",
-      "text": "A pesar de esta incertidumbre que persiste<n>en el\nfondo de mi mente, ¡nuestros días\nde<n>entrenamiento para el Kikuka Sho\ncomienzan<n>en serio!"
+      "text": "A pesar de esta incertidumbre que persiste en el<n>\nfondo de mi mente, ¡nuestros días de entrenamiento<n>\npara el Kikuka Sho comienzan en serio!"
     }
   ]
 }

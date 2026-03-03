@@ -3,48 +3,48 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Hoy visito un hipódromo para<n>inspeccionarlo\npor <chrname>."
+      "text": "Hoy estoy visitando un hipódromo para revisarlo<n>\npara <chrname>."
     },
     {
       "name": "Reportera",
-      "text": "¡He oído las buenas noticias, Oguri!<n>Parece que\nharán un evento para<n>celebrar el lanzamiento de\ntu peluche. ¡Felicitaciones!"
+      "text": "¡He escuchado las buenas noticias, Oguri!<n> Parece\nque van a hacer un evento para celebrar<n> el\nlanzamiento de tu peluche! ¡Felicidades!"
     },
     {
       "name": "Oguri Cap",
-      "text": "G-gracias."
+      "text": "E-em, gracias."
     },
     {
       "name": "Reportera",
-      "text": "Tu familia debe estar tan orgullosa<n>de su\npequeña estrella. Me<n>encantaría obtener\ninformación sobre<n>su conmovedora reacción.\n¿Cuándo<n>estarían disponibles para una\nentrevista?"
+      "text": "¡Tu familia debe estar muy orgullosa de su<n> pequeña\nestrella! Me encantaría obtener la <n>exclusiva sobre\nsu conmovedora reacción. ¿Cuándo<n> están disponibles\npara una entrevista?"
     },
     {
       "name": "Oguri Cap",
-      "text": "Bueno, mis padres están en mi<n>ciudad natal,\nasí que—"
+      "text": "Bueno, mis padres están en mi pueblo<n> natal, así\nque—"
     },
     {
       "name": "Reportera",
-      "text": "¡Oh, no me molesta hablar por<n>teléfono! Así\nque, si me dieras el<n>número de teléfono de tu\nfamilia..."
+      "text": "¡Oh, no me importa hablar por teléfono!<n> Así que,\nsi me dieras el número de<n> teléfono de tu\nfamilia..."
     },
     {
       "name": "Oguri Cap",
-      "text": "¿S-su número? Em, es cero—"
+      "text": "E-el número? Um, es cero—"
     },
     {
       "name": "Monólogo",
-      "text": "Entrevista o no, pedir información<n>personal es\ninaceptable. Como<n>miembro de la academia, no\npuedo quedarme<n>de brazos cruzados.",
+      "text": "Entrevista o no, pedir información <n>personal es\ninaceptable. Como miembro de<n> la academia, no puedo\nquedarme de brazos<n> cruzados.",
       "choice_data_list": [
-        "Por favor, contacta a la academia si tienes más\npreguntas."
+        "Por favor, contacten a la academia si tienen\nalguna pregunta adicional."
       ]
     },
     {
       "name": "Reportera",
-      "text": "¿Eh? ¿Y tú quién eres? E-esa<n>insignia...\nJaja, debes ser de la<n>academia, ¿eh? Bueno,\nme retiro entonces."
+      "text": "¿Eh, y tú quién eres? E-esa <n>insignia... ¡Ja, ja,\ndebes ser de<n> la academia, eh? Bueno, ¡me voy\n<n>entonces!"
     },
     {
       "name": "Oguri Cap",
-      "text": "Gracias por salvarme. Tenía la<n>sensación de\nque esa reportera no<n>tenía buenas intenciones.",
+      "text": "Gracias por salvarme. Tuve la sensación<n> de que esa\nreportera no tenía buenas<n> intenciones.",
       "choice_data_list": [
-        "Deberías rechazar a los reporteros en cuanto\npienses que es sospechoso."
+        "Deberías rechazar a los reporteros en el momento\nen que pienses que es sospechoso."
       ]
     },
     {
@@ -57,19 +57,19 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Y me dijo que las estrellas tienen<n>la obligación\nde responder porque<n>eso es lo que sus fans\nquerrían."
+      "text": "Y me dijo que las estrellas tienen<n> la obligación\nde responder porque eso<n> es lo que sus fans\nquerrían."
     },
     {
       "name": "Oguri Cap",
-      "text": "Pensé que si me negaba a<n>responder..."
+      "text": "Pensé que si me negaba a responder..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Tal vez estaría decepcionando a todos. ¿Acaso<n>no\nes"
+      "text": "Quizás estaría decepcionando a todos.<n> ¿No es\ncierto?"
     },
     {
       "name": "Monólogo",
-      "text": "Es claro que valora mucho a sus<n>fans... pero eso\nhace que lo que<n>diré sea aún más importante.",
+      "text": "Es claro que ella valora mucho a sus fans...<n> pero\neso hace que lo que estoy a punto de decir<n> sea aún\nmás importante.",
       "choice_data_list": [
         "Necesitas ser firme al rechazarlos.",
         "Necesitas ser firme al rechazarlos."
@@ -79,8 +79,8 @@
       "name": "Oguri Cap",
       "text": "Pero...",
       "choice_data_list": [
-        "Tus fans de verdad también se preocupan por <i>ti</i>.",
-        "Tus fans de verdad también se preocupan por <i>ti</i>."
+        "Tus verdaderos fans se <i>preocupan por <i>ti</i> también.",
+        "Tus verdaderos fans se <i>preocupan por <i>ti</i> también."
       ]
     },
     {
@@ -89,31 +89,31 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Tienes razón... Tome y Shige<n>siempre me\ndecían que era su tesoro."
+      "text": "Tienes razón... Tome y Shige solían<n> decirme que yo\nera su tesoro."
     },
     {
       "name": "Oguri Cap",
-      "text": "Supongo que eso significa que debo protegerme<n>a\nmí misma... para"
+      "text": "Supongo que eso significa que debo<n> protegerme...\npara poder proteger su tesoro."
     },
     {
       "name": "Oguri Cap",
-      "text": "Vale, entiendo tu punto.<n>Voy a hacer"
+      "text": "Vale, entiendo de dónde vienes. Me <n>aseguraré de\nrechazar la próxima vez."
     },
     {
       "name": "Oguri Cap",
-      "text": "...Me pregunto si realmente podré\nhacerlo<n>correctamente,",
+      "text": "...Me pregunto si realmente podré <n>hacerlo bien,\npero.",
       "choice_data_list": [
-        "Si no puedes hacerlo tú sola, pide ayuda a un adulto.",
+        "Si no puedes hacerlo tú misma, pide ayuda a un\nadulto.",
         "Te enseñaré una frase especial."
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "...Está bien, lo haré."
+      "text": "...Vale, haré eso."
     },
     {
       "name": "Oguri Cap",
-      "text": "Entonces contaré contigo cuando llegue<n>el momento.",
+      "text": "Entonces contaré contigo cuando llegue<n> el momento.",
       "choice_data_list": [
         "¿Yo?",
         "¿Yo?"
@@ -121,66 +121,66 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Sí. La forma en que manejaste la<n>conversación"
+      "text": "Sí. La forma en que manejaste<n> la conversación\nantes fue muy impresionante.<n> Además, casualmente\neres de la<n> academia."
     },
     {
       "name": "Oguri Cap",
-      "text": "Entonces... ¿Podría pedirte ayuda de nuevo?"
+      "text": "Así que... ¿Podría pedirte ayuda de nuevo?"
     },
     {
       "name": "Monólogo",
-      "text": "Me toma por sorpresa su petición tan\ndirecta.<n>Todo",
+      "text": "Me sorprende su petición franca. <n>Todo lo que dijo\nes verdad, pero...",
       "choice_data_list": [
-        "Eres muy directa... casi hasta la falta.",
-        "Eres muy directa... casi hasta la falta."
+        "Eres muy directa... casi demasiado.",
+        "Eres muy directa... casi demasiado."
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Sí, me enteré. Mi mamá siempre me<n>felicitaba por eso."
+      "text": "Sí, lo he escuchado. Mi mamá a menudo me <n>elogiaba\npor eso."
     },
     {
       "name": "Monólogo",
-      "text": "Más tarde, veo a Oguri Cap preguntando<n>con\nnaturalidad a otras"
+      "text": "Más tarde, veo a Oguri Cap preguntando<n> francamente\na otros adultos de la <n>academia varias preguntas."
     },
     {
       "name": "Oguri Cap",
       "text": "...¿Una frase especial?",
       "choice_data_list": [
-        "Por favor, contacta a la academia."
+        "Por favor, contacten a la academia."
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Eso es... ¡exactamente lo que le dijiste al<n>reportero!"
+      "text": "Eso... ¡es exactamente lo que le dijiste a<n> la\nreportera!"
     },
     {
       "name": "Oguri Cap",
-      "text": "Y el reportero salió corriendo en cuanto<n>lo\nescuchó"
+      "text": "Y la reportera salió corriendo en cuanto<n> escuchó\nesas palabras. Mmm..."
     },
     {
       "name": "Monólogo",
-      "text": "Justo cuando termina de hablar, una mujer<n>se\nacerca corriendo"
+      "text": "Justo cuando termina de hablar, una mujer <n>corre\nhacia nosotros."
     },
     {
       "name": "Personal",
-      "text": "¡Ah, ahí estás, Oguri! Sobre el<n>peluche—"
+      "text": "¡Oh, ahí estás, Oguri! Sobre el<n> peluche—"
     },
     {
       "name": "Oguri Cap",
-      "text": "Por favor contacta a la academia sobre<n>ese"
+      "text": "¡Por favor, contacten a la academia respecto<n> a esa\npregunta!"
     },
     {
       "name": "Personal",
-      "text": "Ay. ¡¿Espera, qué?! ¿No teníamos<n>agendada una"
+      "text": "Oh. Espera, ¿qué?! ¿No teníamos <n>programada una\nreunión sobre la fabricación<n> de tu peluche hoy?"
     },
     {
       "name": "Oguri Cap",
-      "text": "Ah. Sí, es cierto... L-lo siento."
+      "text": "Oh. Sí, es cierto... L-lo siento."
     },
     {
       "name": "Monólogo",
-      "text": "Parece que le tomará un poco más de\nesfuerzo<n>antes de que ella"
+      "text": "Parece que le tomará un poco más de trabajo<n> antes\nde que pueda usar su frase especial <n>correctamente."
     }
   ]
 }

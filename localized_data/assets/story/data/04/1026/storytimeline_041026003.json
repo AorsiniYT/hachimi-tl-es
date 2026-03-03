@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Ya han pasado varias semanas desde que comencé<n>a\nsupervisar el entrenamiento<n>secreto de Mihono\nBourbon."
+      "text": "Han pasado varias semanas desde que comencé<n> a\nsupervisar el entrenamiento secreto de <n>Mihono\nBourbon."
     },
     {
       "name": "Mihono Bourbon",
       "text": "<i>Jadeo, jadeo.</i>",
       "choice_data_list": [
-        "¡Tú puedes! ¡Ya falta poco!",
-        "¡Tú puedes! ¡Ya falta poco!"
+        "Ánimo, solo un poco más para llegar.",
+        "Ánimo, solo un poco más para llegar."
       ]
     },
     {
@@ -19,223 +19,223 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Haaah... ¡Nuevo récord... personal!",
+      "text": "Haaah... Nuevo récord personal.",
       "choice_data_list": [
-        "¡Lo hiciste genial!",
-        "¡Lo hiciste genial!"
+        "Lo hiciste muy bien.",
+        "Lo hiciste muy bien."
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Gracias por tu apoyo. Una vez que<n>recupere toda\nmi energía, pasaré<n>al entrenamiento por\nintervalos. Ahora me dirijo<n>a la pista\ninclinada.",
+      "text": "Gracias por tu apoyo. Cuando mi resistencia<n> se\nrecupere por completo, pasaré al entrenamiento<n> de\nintervalos. Ahora me dirijo a la pista<n> de\nentrenamiento.",
       "choice_data_list": [
-        "A partir de hoy, agreguemos una vuelta extra."
+        "Vamos a agregar una vuelta extra a partir de hoy."
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Entendido. Ajustando el plan para incluir<n>modificaciones."
+      "text": "Entendido. Ajustando el plan para incluir<n>\nmodificaciones."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...Energía recuperada. Iniciando carrera<n>en pendiente."
+      "text": "...Resistencia recargada. Comenzando el sprint<n> en\nrampa."
     },
     {
       "name": "Monólogo",
-      "text": "Mihono Bourbon sale corriendo sin decir<n>nada\nmás. A pesar del entrenamiento<n>exigente, nunca\nmuestra señal alguna de debilidad.",
+      "text": "Mihono Bourbon se va corriendo sin decir<n> otra\npalabra. A pesar del entrenamiento riguroso,<n> nunca\nmuestra señal de debilidad.",
       "choice_data_list": [
-        "(Desde la perspectiva de un entrenador, no hay\nduda<n>de que está más dotada para carreras\ncortas.<n>Y aún así...)"
+        "(Desde la perspectiva de un entrenador, no hay\nduda de que está más naturalmente dotada para\ndistancias de sprint. Y sin embargo...)"
       ]
     },
     {
       "name": "Monólogo",
-      "text": "Al ver la fuerza y tenacidad en su<n>carrera,\nsiento un orgullo que me<n>inunda por dentro.",
+      "text": "Al ver la fuerza y la tenacidad en su carrera,<n>\nsiento un sentido de orgullo dentro de mí.",
       "choice_data_list": [
         "(¡Persigue tus sueños, Mihono Bourbon!)"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "<i>¡Jadeo, jadeo!</i>"
+      "text": "<i>Jadeo, jadeo!</i>"
     },
     {
       "name": "Monólogo",
-      "text": "Es solo cuestión de tiempo para que esté<n>lista\npara distancias medias y largas...<n>Solo queda un\nobstáculo."
+      "text": "Solo es cuestión de tiempo antes de que<n> esté lista\npara distancias medias y largas...<n> Solo queda un\nobstáculo."
     },
     {
-      "name": "Entrenador Veterano",
-      "text": "Así que tú eres quien le ha estado\ndando<n>lecciones de resistencia a mis espaldas."
+      "name": "Entrenador experimentado",
+      "text": "Así que eres tú quien ha estado dando lecciones<n> de\nresistencia detrás de mi espalda."
     },
     {
       "name": "Monólogo",
-      "text": "Un día, los cambios en la condición de<n>Mihono\nBourbon llaman la atención de su<n>entrenador.\nDespués de atar cabos, me<n>confronta."
+      "text": "Un día, los cambios en el estado de <n>Mihono Bourbon\nllaman la atención de su <n>entrenador. Después de\nhacer dos más dos, me<n> llama."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Esta persona no tiene que ver con mis<n>carreras\nnocturnas. He estado haciéndolo<n>todo por mi\npropia voluntad."
+      "text": "Esta persona no está involucrada con mis<n> carreras\nnocturnas. He estado haciendo todo por<n> mi propia\nvoluntad."
     },
     {
-      "name": "Entrenador Veterano",
-      "text": "Bourbon, ¿de verdad crees que me voy a<n>creer eso\ncuando se han estado<n>viendo todas las noches?\nApuesto a que este<n>entrenador se compadeció de\nti.",
+      "name": "Entrenador experimentado",
+      "text": "Bourbon, realmente crees que voy a creer<n> eso\ncuando ustedes dos se han estado <n>reuniendo cada\nnoche. Apuesto a que este entrenador <n>se apiadó de\nti.",
       "choice_data_list": [
         "¿Qué? No es así..."
       ]
     },
     {
-      "name": "Entrenador Veterano",
-      "text": "Mira, he oído todo sobre sus ambiciosas<n>metas.\nPero tú y yo sabemos los riesgos<n>que conlleva.\n¿De verdad crees que voy a<n>dejarla correr esas\ncarreras?"
+      "name": "Entrenador experimentado",
+      "text": "Escucha, he oído hablar de sus ambiciosos\n<n>objetivos. Pero tú y yo sabemos los riesgos<n>\ninvolucrados. ¿Realmente crees que voy a dejar<n> que\ncorra esas carreras?"
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Si me permite objetar, mi propósito\nal<n>inscribirme aquí es la Triple Corona.\nNo<n>aceptaré nada menos."
+      "text": "Si puedo objetar, mi propósito para<n> inscribirme\naquí es la Triple Corona.<n> No aceptaré nada menos."
     },
     {
       "name": "Monólogo",
-      "text": "Exasperado por su terquedad, el<n>entrenador suelta un largo suspiro."
+      "text": "Exasperado por su terquedad, el <n>entrenador suelta\nun largo suspiro."
     },
     {
-      "name": "Entrenador Veterano",
-      "text": "...Está bien. Entonces muéstrame si<n>tienes lo\nque se necesita. El Kikuka Sho son<n>3,000 metros.\nVeamos si puedes correr esa<n>distancia ahora\nmismo.",
+      "name": "Entrenador experimentado",
+      "text": "...Bien. Entonces muéstrame si tienes lo que se\n<n>necesita. El Kikuka Sho es de 3.000 metros. Vamos<n>\na ver si puedes correr esa distancia ahora mismo.",
       "choice_data_list": [
-        "(¡Aún no puede con esa distancia!)"
+        "(Ella no puede manejar esa clase de distancia\ntodavía.)"
       ]
     },
     {
       "name": "Mihono Bourbon",
       "text": "Entendido.",
       "choice_data_list": [
-        "?!"
+        "¿?!"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Le demostraré mis habilidades."
+      "text": "Voy a demostrar mis habilidades ante ti."
     },
     {
       "name": "Monólogo",
-      "text": "Nos trasladamos a la pista para el intento<n>de\n3,000 metros de Mihono Bourbon.<n>Sin embargo, a\nsu nivel actual, no estoy<n>seguro de que pueda\nterminar, y menos<n>terminar <i>rápido</i>.",
+      "text": "Nos movemos al curso para el intento <n>de 3.000\nmetros de Mihono Bourbon. Sin embargo, a <n>su nivel\nactual, no estoy seguro de que pueda terminar,<n> y\nmucho menos terminar <i>rápido</i>.</i>",
       "choice_data_list": [
         "(Espero que esté bien...)"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "<i>¡Buf, buf!</i>"
+      "text": "<i>Jadeo, jadeo!</i>"
     },
     {
       "name": "Mihono Bourbon",
-      "text": "(1,600 metros completados a tiempo. Quedan<n>1,400\nmetros. Se detecta ingesta de aire<n>irregular.\nIncapaz de mantener un ritmo<n>constante...)"
+      "text": "(1.600 metros completados a tiempo. 1.400 <n>metros\nrestantes. Se detectó una ingesta de <n>aire\nirregular. No se puede mantener un ritmo\n<n>constante...)"
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...¡Agh!"
+      "text": "...Agh."
     },
     {
       "name": "Monólogo",
-      "text": "Mi instinto tenía razón. Alrededor de la<n>marca\nde 2,000 metros, la velocidad de<n>Mihono Bourbon\ncomienza a disminuir. Para<n>cuando llega a la\nmeta, es casi un arrastre."
+      "text": "Mi instinto era correcto. Alrededor de la marca<n> de\n2.000 metros, la velocidad de Mihono <n>Bourbon\ncomienza a disminuir. Es prácticamente una\narrastre<n> cuando llega a la línea de meta."
     },
     {
       "name": "Mihono Bourbon",
       "text": "<i>Jadeo... jadeo...</i>"
     },
     {
-      "name": "Entrenador Veterano",
-      "text": "Ya ríndete. Deja de hacerte esto. No<n>estás hecha\npara distancias largas.",
+      "name": "Entrenador experimentado",
+      "text": "Solo ríndete ya. Deja de hacer esto contigo<n> misma.\nNo estás hecha para distancias<n> largas.",
       "choice_data_list": [
-        "(Es cierto que las carreras largas no son\nsu<n>fuerte. Pero aún así...)"
+        "(Es cierto que las carreras de larga distancia no\nson su fuerte. Pero aún así...)"
       ]
     },
     {
       "name": "Monólogo",
-      "text": "Después de pasar varias semanas con<n>Mihono\nBourbon, cualquiera puede ver lo<n>decidida que\nestá a participar en la serie<n>de la Triple\nCorona Clásica.",
+      "text": "Después de pasar varias semanas con Mihono<n>\nBourbon, cualquiera puede ver cuán decidida<n> está a\nparticipar en la serie de la Triple<n> Corona\nclásica.",
       "choice_data_list": [
-        "Creo que deberíamos respetar sus deseos."
+        "Creo que debemos respetar sus deseos."
       ]
     },
     {
-      "name": "Entrenador Veterano",
-      "text": "¿No ves que lo único que hace es<n>lastimarse?\n¿Por qué te cuesta tanto<n>entenderlo?",
+      "name": "Entrenador experimentado",
+      "text": "¿No puedes ver que todo lo que está haciendo <n>es\nlastimarse? ¿Por qué es tan difícil para<n> ti\nentender?",
       "choice_data_list": [
         "Pero—"
       ]
     },
     {
-      "name": "Entrenador Veterano",
-      "text": "Ugh, olvídalo, no tiene sentido hablar<n>contigo.\nBourbon, dinos cómo te sientes.<n>Estoy seguro de\nque entendiste la realidad<n>de la situación\ncuando corriste."
+      "name": "Entrenador experimentado",
+      "text": "Uf, no importa, no hay sentido en hablar<n> contigo.\nBourbon, dime ¿cómo te sientes? <n>Estoy seguro de\nque entendiste la realidad<n> de la situación cuando\ncorrías."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Cómo me \"siento\"..."
+      "text": "Cómo me siento..."
     },
     {
       "name": "Monólogo",
-      "text": "Una Mihono Bourbon vacilante abre la<n>boca para hablar."
+      "text": "Mihono Bourbon, con vacilación, abre <n>la boca para\nhablar."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...La Triple Corona no es negociable. Este<n>es un\nobjetivo que debo llevar hasta el final."
+      "text": "...La Triple Corona es innegociable. Este es<n> un\nobjetivo que debo ver hasta el final."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Por favor, entienda que no puedo rendirme<n>ahora."
+      "text": "Por favor, entiende que no puedo darme por vencida<n>\nahora."
     },
     {
-      "name": "Entrenador Veterano",
+      "name": "Entrenador experimentado",
       "text": "..."
     },
     {
-      "name": "Entrenador Veterano",
-      "text": "...Si eso es lo que quieres, que así sea.\nNo<n>puedo apoyar tu decisión de buena\nfe.<n>Nuestro contrato de entrenamiento termina\nhoy."
+      "name": "Entrenador experimentado",
+      "text": "...Si eso es lo que quieres, entonces así sea.<n> No\npuedo apoyar tu decisión de buena fe. Nuestro<n>\ncontrato de entrenamiento termina hoy."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "... ...Entiendo."
+      "text": "...<n> ...Entiendo."
     },
     {
-      "name": "Entrenador Veterano",
-      "text": "...Tenía grandes expectativas contigo,<n>Bourbon. Me has decepcionado."
+      "name": "Entrenador experimentado",
+      "text": "...Tenía grandes expectativas de ti, Bourbon.<n> Me\nhas decepcionado."
     },
     {
       "name": "Monólogo",
-      "text": "Negando con la cabeza, el entrenador da<n>media vuelta y se va."
+      "text": "Sacudiendo la cabeza, el entrenador da <n>la espalda\ny se va."
     },
     {
       "name": "Mihono Bourbon",
       "text": "...",
       "choice_data_list": [
-        "...Oye, ¿estás bien?"
+        "...¿Estás bien?"
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Actualmente experimento \"confusión\"<n>debido a la pérdida de mi entrenador."
+      "text": "Estoy experimentando actualmente \"confusión\"<n>\ndebido a la pérdida de mi entrenador."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Es cierto que, a pesar de mi<n>entrenamiento\ncomplementario, no pude<n>correr 3,000 metros."
+      "text": "Es cierto que, a pesar de mi entrenamiento<n>\nsuplementario, no pude correr 3.000 metros."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "He basado todas mis proyecciones en la<n>Triple\nCorona. ¿He estado calculando<n>mal toda mi\ncarrera?",
+      "text": "Me he basado en todas mis proyecciones<n> en la\nTriple Corona. ¿He estado malcalculando<n> mi carrera\nde carreras?",
       "choice_data_list": [
-        "Tengo fe en ti. Tienes lo necesario para triunfar."
+        "Tengo fe en ti. Tienes lo que se necesita para\ntener éxito."
       ]
     },
     {
       "name": "Monólogo",
-      "text": "Su perseverancia para someterse a\nun<n>entrenamiento tan exigente sin una\nsola<n>queja no es poca cosa."
+      "text": "Su perseverancia para someterse a un<n> entrenamiento\ntan exigente sin una sola <n>queja no es un logro\npequeño."
     },
     {
       "name": "Monólogo",
-      "text": "Más bien, es un testimonio de la fuerza\nde<n>voluntad de Mihono Bourbon y su deseo<n>de\nlograr la Triple Corona Clásica.",
+      "text": "Más bien, es un testimonio de la <n>fuerza de\nvoluntad de Mihono Bourbon y su deseo<n> de lograr la\nClásica Triple Corona.",
       "choice_data_list": [
-        "¡No importa lo que digan los demás, estoy de tu\nlado!",
-        "¡No importa lo que digan los demás, estoy de tu\nlado!"
+        "No importa lo que digan los demás, estoy de tu\nlado.",
+        "No importa lo que digan los demás, estoy de tu\nlado."
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...!",
+      "text": "...",
       "choice_data_list": [
         "Llegaremos a la meta juntos.",
         "Llegaremos a la meta juntos."
@@ -243,7 +243,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Los ojos de Mihono Bourbon se abren<n>de par en par."
+      "text": "Los ojos de Mihono Bourbon se abren de par en par."
     },
     {
       "name": "Mihono Bourbon",
@@ -255,15 +255,15 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "(Estas palabras... me suenan...)"
+      "text": "(Estas palabras... me suenan familiares...)"
     },
     {
-      "name": "Mihono Bourbon Joven",
-      "text": "Haaah... nngh... Padre... Fallé... otra vez..."
+      "name": "Joven Mihono Bourbon",
+      "text": "Haaah... nngh... Padre... Fallé... de nuevo..."
     },
     {
       "name": "Padre de Mihono Bourbon",
-      "text": "Puede que no tengas mucha resistencia.<n>Pero lo\nque sí tienes es el corazón para<n>seguir\nadelante. Mientras no te detengas,<n>todo va a\nsalir bien."
+      "text": "Puedes que no tengas mucha resistencia.<n> Pero lo\nque tienes es el corazón para<n> seguir adelante.\nMientras no te detengas,<n> todo estará bien."
     },
     {
       "name": "Padre de Mihono Bourbon",
@@ -271,7 +271,7 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "(Este entrenador suena igual que mi padre.)"
+      "text": "(Este entrenador suena igual que mi padre)."
     },
     {
       "name": "Mihono Bourbon",
@@ -282,23 +282,23 @@
     },
     {
       "name": "Monólogo",
-      "text": "Incapaz de soportar el silencio incómodo<n>por más\ntiempo, llamo su atención. Ella<n>examina mi\nrostro un momento antes de<n>hablar."
+      "text": "Incapaz de soportar el silencio incómodo <n>durante\nmás tiempo, llamo su atención. Ella estudia<n> mi\nrostro durante un momento antes de hablar."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Tu plan de entrenamiento personalizado\nme<n>permitió lograr los primeros 1,600<n>metros\nhoy, más de lo que podía antes."
+      "text": "Tu plan de entrenamiento personalizado me<n> permitió\nlograr los primeros 1.600 metros hoy,<n> lo que es\nmás de lo que podía manejar antes."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Siento que llegaré lejos contigo como mi<n>entrenador."
+      "text": "Siento que iré lejos contigo como mi <n>entrenador."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "De ahora en adelante, quedo a tu cuidado."
+      "text": "A partir de ahora, estoy a tu cuidado."
     },
     {
       "name": "Monólogo",
-      "text": "Y entonces, la llamada \"ciborg\" de la<n>Academia\nTracen agarra mi mano con<n>firmeza—pero\ncálidamente."
+      "text": "Y entonces, la llamada \"cibernética\" de la\nAcademia<n> Tracen agarra mi mano con firmeza, pero\n<n>con calidez."
     }
   ]
 }

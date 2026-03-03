@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Un día, mientras voy a la biblioteca<n>a buscar\n algunos libros útiles..."
+      "text": "Un día, mientras voy a la biblioteca<n> a buscar\nalgunos libros útiles..."
     },
     {
       "name": "Grass Wonder",
-      "text": "Mmm... ¿Qué debería hacer?",
+      "text": "Hmm... ¿Qué haré?",
       "choice_data_list": [
         "¿Algo te preocupa?",
         "¿Algo te preocupa?"
@@ -15,15 +15,15 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "¡Oh, cielos! Hola."
+      "text": "¡Oh! Hola."
     },
     {
       "name": "Grass Wonder",
-      "text": "He estado buscando algunos libros<n>para ayudarme\na prepararme para mis<n>carreras, ya ves."
+      "text": "He estado buscando algunos libros para <n>ayudarme a\nprepararme para mis carreras, verás."
     },
     {
       "name": "Grass Wonder",
-      "text": "Sin embargo, solo he podido<n>encontrar uno de\nellos, así que estaba<n>pensando qué hacer.",
+      "text": "Sin embargo, solo he podido encontrar<n> uno de\nellos, así que estaba pensando qué<n> hacer.",
       "choice_data_list": [
         "¿Qué libros buscabas?",
         "¿Qué libros buscabas?"
@@ -31,39 +31,39 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Veamos... <i>Los secretos para correr,</i><n><i>La\nesencia de la velocidad,</i> <i>Zancada\nde<n>carrera: unas memorias,</i> así como..."
+      "text": "Veamos... <i>Los Secretos para Correr,</i> <i></i><i>La Esencia<n> de\nla Velocidad,</i> <i></i><i>Zancada de Carrera: <n>Memorias de un\nCorredor,</i> y también..."
     },
     {
       "name": "Monólogo",
-      "text": "Grass Wonder continúa enumerando<n>una larga lista\nde otros libros que<n>busca. Será una tarea\ndifícil intentar<n>encontrarlos todos.",
+      "text": "Grass Wonder continúa enumerando una<n> larga lista\nde otros libros que busca. Será<n> una tarea difícil\nintentar encontrarlos<n> todos.",
       "choice_data_list": [
-        "Por ahora, ¿por qué no te concentras en el libro\nque sí encontraste?",
+        "Por ahora, ¿por qué no te enfocas en el libro que\nsí lograste encontrar?",
         "¿Por qué no los buscamos juntos?"
       ]
     },
     {
       "name": "Grass Wonder",
-      "text": "Tienes razón. Empezaré a leerlo<n>ahora. Perder mi\ntiempo limitado<n>sobrepensando esto no me\nhará ningún bien<n>de todos modos."
+      "text": "Ese es un buen punto. Empezaré a leerlo ahora.<n>\nPerder mi tiempo limitado <n>pensando demasiado no me\nhará ningún bien de <n>todos modos."
     },
     {
       "name": "Grass Wonder",
-      "text": "Mmm, ya veo. Sí, ¡esto es bastante<n>útil! ♪"
+      "text": "Hmm, ya veo. Sí, ¡esto es bastante útil! ♪"
     },
     {
       "name": "Grass Wonder",
-      "text": "¿Estarías dispuesto a ayudar?<n>Entonces acepto\ntu oferta con gusto."
+      "text": "¿Estarías dispuesto a ayudar? Entonces<n> aceptaré\nfelizmente tu oferta."
     },
     {
       "name": "Monólogo",
-      "text": "Lleva mucho tiempo, pero<n>logramos encontrar\ntodos los libros que Grass<n>Wonder busca."
+      "text": "Toma muchísimo tiempo, pero <n>logramos encontrar\ntodos los libros <n>que Grass Wonder busca."
     },
     {
       "name": "Grass Wonder",
-      "text": "Muchas gracias. ¡Fuiste de gran<n>ayuda! Ahora\ncreo que mis estudios<n>avanzarán\nviento en popa! ♪"
+      "text": "Muchas gracias. ¡Fuiste de gran <n>ayuda! ¡Ahora creo\nque mis estudios progresarán<n> maravillosamente! ♪"
     },
     {
       "name": "Monólogo",
-      "text": "Ayudar a Grass Wonder en su<n>búsqueda del\nconocimiento me ha<n>familiarizado un poco\nmás con la colección<n>de la biblioteca."
+      "text": "Ayudar a Grass Wonder en su búsqueda <n>de\nconocimiento me ha hecho un poco más <n>familiar con\nla colección de la biblioteca."
     }
   ]
 }

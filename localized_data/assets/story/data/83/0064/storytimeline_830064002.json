@@ -1,0 +1,148 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy caminando por el pasillo, y Tamamo<n> Cross me\ndetiene cuando estoy a punto de<n> pasar a su lado."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Oye, tú. Si ves que Oguri <n>tiene algún problema,\n¿le <n>echarías una mano?",
+      "choice_data_list": [
+        "Claro, pero... ¿qué pasa?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Estamos preparando la casa embrujada <n>de la que\nhablamos antes. ¿Sabes? ¿La cacería<n> de momias?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Nosotras somos las momias, y Oguri es<n> la cazadora.\nEso nos hace enemigas, así que<n> no podemos ayudarla\nexactamente."
+    },
+    {
+      "name": "Inari One",
+      "text": "Si los equipos rivales se llevan demasiado<n> bien,\nno habrá tensión. Por eso estamos<n> tomando medidas\npara asegurarnos de que <n>eso no pase. ¡Así que\ngracias de antemano!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hm... Supongo que la escuela primaria<n> no tendrá\nuna escalera en este lugar. Entonces, si<n> quiero\nsalir del edificio, entonces...",
+      "choice_data_list": [
+        "¿Estás perdida, por casualidad?",
+        "¿Estás perdida, por casualidad?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí. Estaba practicando para la casa<n> embrujada\nimaginando que <n>esta es la escuela primaria donde\nserá<n> el evento real. Pero entonces <n>me confundí..."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Gruhhhhh!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oye, Inari. Estoy perdida... ¿Por dónde<n> se sale?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡¿Por qué me <i>preguntas </i>a <i>mí</i>?! ¡Somos enemigas,<n>\n¿recuerdas?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Solo pregunta a ese entrenador de allá. Se <n>supone\nque debes pelear con nosotras,<n> las momias."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pregunté porque sé que puedo contar con<n> todas\nustedes... Y por cierto, tres <n>contra uno no es\njusto. Vamos a hacer dos <n>contra dos."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Caray... Me estás matando. Está bien, ¿qué tal\n<n>esto? Si puedes derrotar a todas nosotras las<n>\nmomias ahora mismo, haremos dos contra dos."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Para ganar, tienes que usar esa pistola de <n>juguete\npara eliminar a todas nosotras las<n> momias, o\nllegar a salvo hasta la estatua <n>de las Tres\nDiosas. ¿Qué dices?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Entonces, ¿solo tengo que ganar?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ohoho, haciéndolo sonar fácil. ¿Sabes que solo<n> voy\na acampar en la meta y tenderte una emboscada,<n>\nverdad? Lo que significa que es una carrera hacia<n>\nla estatua de las Tres Diosas."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Y si es una carrera, no tienes oportunidad<n> contra\nmí!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Si es una carrera... ¡yo seré la ganadora!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oguri, ¡es por el lado equivocado! ¡Es <i>por <i>este</i>\nlado!</i>"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>¡Bang!</i> ...Te atrapé. Eso es Creek fuera."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Vaya, nada mal! ¡Parece que finalmente<n> se lo está\ntomando en serio!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Lo sabía! ¡No hay nada como una carrera para\n<n>encender el fuego bajo el trasero de Oguri!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Jadeando...</i> ¡Vuelve aquí!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Lo siento! ¡Esta presión! ¡Oguri se<n> acerca! ¡Pero\nel primer lugar es—"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡HAAAAA!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡PARA MÍ!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Perdiste, Oguri! ¡Equipo Momia <n>gana! ¡Victoria\ntotal!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Jadeando, jadeando...</i> ¡Grrr!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Parecía que te estabas concentrando mucho<n> en Tama,\nasí que también pude tocarte la<n> espalda. ¡Más\nrápido que correr a la <n>estatua, ¿verdad?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Te ganaron en la <i>estatua <i>y</i> te<n> tocaron... Es una\ngoleada, Oguri."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡No voy a perder de nuevo! ¡Pensaré en una<n> forma\nde derrotarlos y ganaré seguro!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ese es el espíritu. Se supone que la cazadora<n> guíe\na los invitados y los ayude, no a<n> nosotras."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Hehe. Lo hiciste maravillosamente, Oguri. ¡Bien<n>\nhecho! ♪"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oye, Creek! Hasta que terminemos de practicar,<n>\n¡tienes prohibido consentir a cualquiera!"
+    }
+  ]
+}

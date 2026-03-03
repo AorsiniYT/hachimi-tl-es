@@ -2,12 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
-      "text": "Haru Urara y yo estamos charlando\nmientras<n>regresamos de una carrera de\nexhibición<n>para un evento."
+      "text": "Haru Urara y yo estamos charlando mientras<n>\nregresamos de una carrera de exhibición<n> para un\nevento."
     },
     {
       "name": "Haru Urara",
-      "text": "Aww, perdí otra vez. Pero ¡la próxima vez<n>ganaré\nseguro!",
+      "text": "Aw, perdí otra vez. ¡Pero la próxima <n>vez voy a\nganar seguro!",
       "choice_data_list": [
         "Entrenemos más duro de ahora en adelante.",
         "Entrenemos más duro de ahora en adelante."
@@ -18,63 +17,59 @@
       "text": "¡Sí! ¡Hagámoslo!"
     },
     {
-      "name": "Monólogo",
-      "text": "Siempre está sonriendo, sin importar\ncuántas<n>veces pierde. Siempre da lo<n>mejor de\nsí y ve el lado positivo<n>de las cosas. De verdad\nquiero que gane<n>alguna vez."
+      "text": "Ella siempre está sonriendo, no importa<n> cuántas\nveces pierda. Siempre intenta <n>con todas sus\nfuerzas y ve el lado positivo <n>de las cosas.\nRealmente quiero que gane por<n> una vez."
     },
     {
       "name": "Espectador A",
-      "text": "Oye, ¿no es esa la corredora que llegó última<n>hoy?"
+      "text": "Oye, ¿no es esa la corredora que quedó en último<n>\nlugar hoy?"
     },
     {
       "name": "Espectador B",
-      "text": "Ah, sí. ¿Cómo se llama? Haru Urara,<n>¿verdad?"
+      "text": "Ah, sí. ¿Cómo se llama? Haru Urara,<n> ¿verdad?"
     },
     {
-      "name": "Monólogo",
-      "text": "Creo que escucho chismes desde lejos..."
+      "text": "Creo que puedo escuchar chismes desde<n> lejos..."
     },
     {
       "name": "Espectador B",
-      "text": "¿Crees que se contuvo porque no es una<n>carrera\nde verdad?"
+      "text": "¿Crees que se contuvo porque no era una<n> carrera\nreal?"
     },
     {
       "name": "Espectador A",
-      "text": "Nah, siempre pierde. Nunca ha ganado<n>ni una vez\ndesde su debut."
+      "text": "Nah, ella siempre pierde. Nunca ha ganado<n> ni una\nvez desde su debut."
     },
     {
       "name": "Espectador B",
-      "text": "Guau. Eso en sí es bastante increíble."
+      "text": "Guau. Eso es realmente bastante asombroso <n>en sí\nmismo."
     },
     {
       "name": "Haru Urara",
       "text": "¿Eh? ¡Están hablando de mí!",
       "choice_data_list": [
-        "¡¿Urara?!"
+        "¿¡Urara?!"
       ]
     },
     {
-      "name": "Monólogo",
-      "text": "Haru Urara se acerca corriendo a los chismosos."
+      "text": "Haru Urara se apresura hacia los chismosos."
     },
     {
       "name": "Haru Urara",
-      "text": "Oye, me vieron correr hoy, ¿sí? Acaban\nde<n>llamarme increíble, ¿verdad?"
+      "text": "Oye, ¡me vieron correr hoy, ¿verdad? ¡Acaban<n> de\ndecir que soy asombrosa, ¿cierto?!"
     },
     {
       "name": "Espectador A",
-      "text": "B-bueno, eh..."
+      "text": "B-bueno, uh..."
     },
     {
-      "name": "Monólogo",
-      "text": "La alcanzo. Haru Urara está a centímetros<n>del\nhombre chismoso, que parece<n>encogerse. Sus ojos\nestán<n>llenos de brillo..."
-    },
-    {
-      "name": "Haru Urara",
-      "text": "Ji ji, ¡es verdad! ¡<i>Soy</i> increíble!"
+      "text": "La alcanzo. Haru Urara está a <n>centímetros del\nhombre chismoso, que<n> parece encogerse. Sus ojos\nestán<n> llenos de chispas..."
     },
     {
       "name": "Haru Urara",
-      "text": "Me encanta correr, pero normalmente no voy\nmuy<n>rápida. ¡Por eso siempre pierdo!"
+      "text": "Jejé, ¡es verdad! <i>¡Soy <i>asombrosa</i>!</i>"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Me encanta correr, pero normalmente no voy<n> muy\nrápido. ¡Por eso siempre pierdo!"
     },
     {
       "name": "Espectador B",
@@ -82,15 +77,15 @@
     },
     {
       "name": "Haru Urara",
-      "text": "¡Pero la próxima vez ganaré\nde<n>verdad-de-las-buenas! Y<n>entonces podrán\ndecir<n>\"¡Guau, ganó!\""
+      "text": "¡Pero la próxima vez voy a ganar<n> en serio! ¡Y\nentonces podrán decir <n>\"¡Guau, ella ganó!\"!"
     },
     {
       "name": "Haru Urara",
-      "text": "¡Así que, por favor, vengan a verme otra vez!"
+      "text": "¡Así que, por favor, vengan a verme de nuevo!"
     },
     {
       "name": "Espectadores A y B",
-      "text": "...Seguro."
+      "text": "...Claro."
     },
     {
       "name": "Haru Urara",
@@ -98,23 +93,21 @@
     },
     {
       "name": "Espectadores A y B",
-      "text": "Eh..."
+      "text": "Uh..."
     },
     {
       "name": "Espectador A",
-      "text": "Sabes... ahora hasta quiero animarla.<n>Parece que\nse esfuerza mucho."
+      "text": "Sabes... Ahora mismo quiero <n>animarla. Parece que\nintenta muy duro."
     },
     {
       "name": "Espectador B",
       "text": "Igual."
     },
     {
-      "name": "Monólogo",
-      "text": "Los fans son muy importantes para una<n>Umamusume.\nEl talento natural de Haru<n>Urara para ganar\napoyo será una gran ventaja<n>para ella."
+      "text": "Los fans son muy importantes para<n> una Umamusume.\nEl talento natural de Haru<n> Urara para ganar apoyo\nserá una gran ventaja<n> para ella."
     },
     {
-      "name": "Monólogo",
-      "text": "Pero aún necesitamos enfocarnos en que<n>consiga\nalgunas victorias. Estos pensamientos pasan\npor<n>mi mente mientras la persigo."
+      "text": "Pero, todavía necesitamos concentrarnos en\n<n>conseguirle algunas victorias. Estos pensamientos\n<n>recorren mi mente mientras la persigo."
     }
   ]
 }

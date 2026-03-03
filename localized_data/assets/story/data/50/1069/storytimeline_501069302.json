@@ -1,0 +1,372 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, mientras estoy de compras con<n> Sakura\nChiyono O...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Oh? ¿Qué está pasando por allá?"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Acérquense y prueben suerte en nuestra <n>rifa de\nAño Nuevo! ¡El primer premio de este año <n>es un\nviaje a aguas termales para dos!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Los ganadores del primer premio reciben un filete\nde <n>hamburguesa de zanahoria de lujo! ¡Los\nganadores del segundo<n> premio reciben una canasta\nde zanahorias! ¡Y los ganadores del<n> tercer premio\npueden llevarse a casa una sola zanahoria!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue<n> un\nboleto ahora y gira para tener la <n>oportunidad de\nganar!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh, están haciendo una rifa."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Espera un segundo! Entrenador, ¿no obtuvimos un<n>\nboleto de rifa antes cuando compramos ese betún<n>\npara tacos?",
+      "choice_data_list": [
+        "¿Quieres probar la rifa?",
+        "¿Quieres probar la rifa?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Sí, pero será tan decepcionante si<n> me ilusiono y\nluego no <n>gano nada..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Así que estoy pensando... ¿qué tal si lo <n>hacemos\njuntos?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Si lo hacemos como un esfuerzo conjunto, siento\n<n>que será más fácil aceptar los resultados <n>incluso\nsi son malos, ¿sabes? Jeje."
+    },
+    {
+      "text": "Acepto la oferta de Sakura Chiyono O,<n> y giramos la\npalanca juntos.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Una pequeña bola de plástico cae de <n>la abertura\ndel tambor...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del<n> primer\npremio! ¡Vengan a recoger su cupón<n> para las\nvacaciones en aguas termales!<n> ¡Felicitaciones!"
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿¡Eh?! ¿¡Q-qué?!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Ay, por favor, Entrenador! ¡Lo logramos! <n>¡Ganamos\nel el el—",
+      "choice_data_list": [
+        "¡Ganamos el primer premio!",
+        "¡Ganamos el primer premio!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡S-sí! ¡El primer premio! ¡Ganamos el<n> primer\npremio!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡El primer premio, el primer premio!"
+    },
+    {
+      "text": "Sakura Chiyono O de repente <n>agarra mis manos y\nempieza a saltar<n> de pura emoción.",
+      "choice_data_list": [
+        "¡Felicitaciones, Chiyono O!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Felicitaciones para ti también! Jeje! <n>¡Apenas\npuedo creerlo! ¡Ganamos el mejor premio de<n> todos!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Jajaja! ¡Ustedes dos son como un lindo<n> par de\nhermanos! Supongo que irán en <n>el viaje juntos,\nentonces?"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Jajaja! ¡Ustedes dos son como un lindo<n> par de\nhermanas! Supongo que irán en el <n>viaje juntos,\nentonces?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Eh? ¡Espera, qué?!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Este boleto no es solo para una persona? ¿Yo\ntambién<n> puedo ir?"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Por supuesto! El distrito comercial no es tan\ntacaño<n> como para ofrecer solo un cupón de\nvacaciones en <n>aguas termales para <i>una persona!</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Guau! ¡Qué generoso!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡E-en ese caso! Entrenador, ¿está bien si yo\n<n>también voy contigo?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Pensé que el cupón era solo para<n> una persona, así\nque iba a dejártelo a<n> ti, pero me encantaría ir\njuntos si está<n> bien...",
+      "choice_data_list": [
+        "¡Claro! Pero, ¿estás segura de que quieres ir\n<i>conmigo?</i>",
+        "¡Claro! Pero, ¿estás segura de que quieres ir\n<i>conmigo?</i>"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Absolutamente! De hecho, ¡no hay nadie más<n> con\nquien prefiera ir!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Cuándo crees que deberíamos ir? Todavía <n>estamos\nmuy ocupados ahora, así que...",
+      "choice_data_list": [
+        "Supongo que tendremos que esperar hasta que todo\nse calme."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Suena bien! Jeje. Una vez que elijamos<n> una fecha\npara ir, ¡haré un itinerario completo para<n> nuestro\nviaje!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡No he ido a aguas termales desde que fui<n> con mi\nfamilia cuando era niña! ¡Espero que<n> haya máquinas\nde karaoke allí!"
+    },
+    {
+      "text": "Reconozco la posada del cupón. Al<n> parecer, muchas\nUmamusume les gusta<n> ir allí para refrescarse en\nsus aguas<n> termales rejuvenecedoras.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Una vez que todo se calme, será un<n> lindo y\nrelajante premio por todo el duro<n> trabajo de\nSakura Chiyono O.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Parece que tenemos otro ganador del primer<n>\npremio! ¡Felicitaciones! ¡Recibes un filete<n> de\nhamburguesa de zanahoria de lujo!"
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Guau, se ve delicioso! ¡Muchas <n>gracias!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Jaja! No hay necesidad de agradecer. Tu suerte<n> te\nconsiguió eso premio, no yo."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "A simple vista puedo decir que eres <n>trabajador, y\ncomo dice el refrán—¡las <n>cosas buenas llegan para\nquienes saben<n> esperar!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿¡Eh?! Ehehe..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿En serio? E-entonces gracias...",
+      "choice_data_list": [
+        "Tiene razón. Eres una trabajadora muy diligente."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡No tú también, Entrenador! ¡No me <n>halagues de la\nnada!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Sé que trabajo duro, pero no soy nada<n> especial...",
+      "choice_data_list": [
+        "¿No lo crees? Yo creo que sí."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Eep! Déjalo ya..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "U-urgh...",
+      "choice_data_list": [
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Tú también eres especial, por si no lo sabías!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Apuesto a que por eso ganamos el primer <n>premio\njuntos! No fue solo mi suerte. ¡Fue <n><i>nuestra</i> suerte!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡La suerte combinada de una persona <n>especial como\ntú y de alguien medio-especial<n> como yo es lo que\nnos ganó el premio!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Así que, ¡eh! Sí. ¡Gracias por contribuir!"
+    },
+    {
+      "text": "Sakura Chiyono O se presiona las manos<n> contra su\nrostro rojo brillante y huye de <n>la escena.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Como disculpa por avergonzarla, le dejo que <n>se\nquede con el premio de la rifa para ella sola.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es<n> tu día\nde suerte! ¡Te vas a casa con una<n> canasta de\nzanahorias!"
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Guau! ¡Ni siquiera puedo ver el fondo de <n>la caja,\nestá tan llena de zanahorias!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Con esto podríamos comer solo zanahorias<n> durante\ndos días enteros!",
+      "choice_data_list": [
+        "<i>¿¡<i>Solo</i> dos días?!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Sí! Jeje. Puedes dejarme la cocina<n> a mí. ¡Soy una\nexperta en hacer el chanko <n>de zanahoria que me\nenseñó mi mamá!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Te aseguraré que comas al mediodía, por la <n>tarde\ny por la noche durante un día entero! <n>No tendrás\nque mover un dedo.",
+      "choice_data_list": [
+        "¡Espera, ¿comidas separadas para la tarde y la\nnoche?!",
+        "¡Espera, ¿comidas separadas para la tarde y la\nnoche?!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh... Ups, tienes razón. Solo <n>estorbaría si pasara\ntantas veces."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Y sería descortés de mi parte irrumpir en <n>tu\nhabitación a altas horas de la noche..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Bien, cambio de planes! ¡Tengo una idea!"
+    },
+    {
+      "text": "Y así, más tarde esa noche...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Entrenador! ¿Te importaría abrir la<n> puerta?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Uf! ¡Aquí está la entrega de mi chanko<n> especial!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Tus porciones de la tarde y la noche<n> están alí,\nasí que adelante, a comer!"
+    },
+    {
+      "text": "Ella coloca la olla más grande que he visto en<n> mi\nvida en mi escritorio. Una mirada al <n>interior\nrevela una olla caliente humeante <n>llena de\nzanahorias cortadas en pequeñas rosas<n> hermosas...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer<n> premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh, ¡reconozco esta variedad de zanahoria!<n> ¡Todos\nestaban locos por ella hace un<n> tiempo. Es una\nZanahoria Sweety-Sweet,<n> ¿verdad?"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Tienes muy buen ojo, señorita!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Jeje, ¡sí! ¡Ayer hicieron un especial<n> entero sobre\nellas en la tele! ¡Al <n>parecer, estas zanahorias\nsaben a azúcar pura<n> en la lengua!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Jeje.... Mmm... Sweety-Sweet... No puedo<n> esperar a\nprobarla...",
+      "choice_data_list": [
+        "Puedes quedártela, Chiyono O."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿¡Puedo?! ¿¡En serio?!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Q-quiero decir... Urgh... Perdón por emocionarme<n>\ntanto. ¿Hay un agujero en algún lado <n>donde pueda\nmeterme?"
+    },
+    {
+      "text": "Las mejillas de Sakura Chiyono O se <n>sonrojan\nsegundo a segundo. A pesar de<n> que su premio\nconsiste en solo una zanahoria,<n> aún lo acepta con\ngracia.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Oh, mala suerte! ¡Parece que sacaste un <n>boleto\nperdedor! Toma este paquete de pañuelos como<n>\npremio de consolación."
+    },
+    {
+      "text": "Obtuviste:<n> <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ay, hombre. Eso fue un fracaso total... Lo<n> siento,\nEntrenador.",
+      "choice_data_list": [
+        "No es tu culpa."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Pero aún así...",
+      "choice_data_list": [
+        "Dado que fue un esfuerzo conjunto, podemos aceptar\ncualquier resultado, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Jeje... Oh, cierto. Yo dije eso. Supongo que eso<n>\nsignifica que también podemos<n> dividir la decepción\nentre nosotros."
+    },
+    {
+      "text": "Compartiendo la carga de la decepción,<n> Sakura\nChiyono O y yo regresamos en silencio<n> al campus.",
+      "name": "Monólogo"
+    }
+  ]
+}

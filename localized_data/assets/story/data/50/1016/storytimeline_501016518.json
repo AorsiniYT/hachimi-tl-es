@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Un día, veo a Narita Brian en un\ncampo<n>arrancando maleza con el<n>jardinero."
+      "text": "Un día, veo a Narita Brian en un<n> campo arrancando\nmalezas con<n> el jardinero."
     },
     {
       "name": "Narita Brian",
-      "text": "¡Esto es tan molesto! ¿Cuánto más<n>tenemos que\nhacer?!",
+      "text": "¡Esto es una molestia! ¡Cuánto más <n>tenemos que\nhacer?!",
       "choice_data_list": [
         "¿Qué estás haciendo?",
         "¿Qué estás haciendo?"
@@ -15,23 +15,23 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Agh—¡¿Entrenador?! E-esto es solo..."
+      "text": "Agh—¡Entrenador?! E-esto es solo..."
     },
     {
       "name": "Jardinero",
-      "text": "Castigo. Caminó por el campo y<n>pisoteó las\nplántulas, así que la<n>estoy haciendo arrancar\nmaleza."
+      "text": "Castigo. Ella caminó por el campo<n> y pisoteó las\nplántulas, así que la<n> hago arrancar malezas."
     },
     {
       "name": "Narita Brian",
-      "text": "¡Dije que no fue a propósito,\n¿vale?!<n>¡Maldición! ¡Realmente no es mi día!"
+      "text": "¡Dije que no fue a propósito, ¿no?! ¡Maldición!<n>\n¡Realmente no es mi día!"
     },
     {
       "name": "Narita Brian",
-      "text": "¡Bien! ¡Convertiré esto en un campo\nde<n>desesperación! ¡Prepárense, malezas!"
+      "text": "¡Bien! ¡Haré de esto un campo de desesperación!<n>\n¡Prepárense, malezas!"
     },
     {
       "name": "Monólogo",
-      "text": "Narita Brian arranca maleza<n>salvajemente, pero\nagacharse todo el día<n>arrancando maleza debe\nser agotador, incluso para ella..."
+      "text": "Narita Brian arranca malezas salvajemente, <n>pero\nagacharse todo el día arrancando malezas debe<n> ser\ncansado, incluso para ella..."
     }
   ]
 }

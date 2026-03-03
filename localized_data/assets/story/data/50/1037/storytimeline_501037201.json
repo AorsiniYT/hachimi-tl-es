@@ -2,51 +2,52 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "観客A",
-      "text": "――なあ、今日のレースさ、\nお前どの子に注目してる？"
+      "name": "Fan A",
+      "text": "¿Así que a quién estás viendo en la carrera de\nhoy?"
     },
     {
-      "name": "観客B",
-      "text": "何言ってんだよ、このメンツなら\nエイシンフラッシュ一択だろ！"
+      "name": "Fan B",
+      "text": "¿Incluso tienes que preguntar? Considerando<n> la\nalineación actual, ¡obviamente es Eishin<n> Flash!"
     },
     {
-      "name": "観客B",
-      "text": "だよなぁ～。“このメンツ”なら、\nまあエイシンフラッシュだよなぁ――"
+      "name": "Fan A",
+      "text": "Sí, verdad. Ella es la única opción lógica,<n> ¿eh?"
     },
     {
-      "text": "『京成杯』当日。\nエイシンフラッシュの注目度は、\n出走ウマ娘の中でも高いが……。"
+      "name": "Monólogo",
+      "text": "Es el día del Keisei Hai, y la cantidad<n> de\natención que Eishin Flash está <n>recibiendo es\nbastante alta comparada con <n>la competencia."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "前向きな評価とは言えませんね。\n消極的な選択です。",
+      "name": "Eishin Flash",
+      "text": "La audiencia parece estar favoreciéndome<n> no por mi\nhabilidad, sino por defecto.",
       "choice_data_list": [
-        "でも期待は期待だ",
-        "でも期待は期待だよ"
+        "Eso no cambia el hecho de que esperan grandes\ncosas de ti.",
+        "Eso no cambia el hecho de que esperan grandes\ncosas de ti."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そうですね。\nその気持ちには応えたいです。"
+      "name": "Eishin Flash",
+      "text": "Eso es verdad, y por eso, quiero cumplir<n> sus\nexpectativas."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "いえ、というより……\n応えて当然の自分でいるべきです。"
+      "name": "Eishin Flash",
+      "text": "De hecho... Debería poder hacerlo naturalmente<n>\nsolo siendo yo misma."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "このレースは通過点にすぎません。\n躓くわけにはいきませんから。",
+      "name": "Eishin Flash",
+      "text": "Esta carrera no es más que un punto de <n>control en\nmi camino. No puedo permitirme<n> tropezar aquí.",
       "choice_data_list": [
-        "いつも通りの君で走れば大丈夫",
-        "いつも通りの貴方で走れば大丈夫"
+        "Corre como normalmente lo haces, y estarás bien.",
+        "Corre como normalmente lo haces, y estarás bien."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……そうですね、いつも通り。\nなすべきことを、なす。"
+      "name": "Eishin Flash",
+      "text": "...Sí, eso es correcto. Haré lo que deba <n>hacerse."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そしてクラシック三冠初戦、\n『皐月賞』に繋げます。"
+      "name": "Eishin Flash",
+      "text": "Después de esto será la primera carrera de la\nTriple<n> Corona Clásica —el Satsuki Sho."
     }
   ]
 }

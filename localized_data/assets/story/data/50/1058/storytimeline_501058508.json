@@ -2,29 +2,29 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Subo a la azotea a la hora del almuerzo,\ndonde<n>me encuentro con Meisho Doto."
+      "text": "Subo al techo durante el almuerzo, donde <n>encuentro\na Meisho Doto."
     },
     {
       "name": "Meisho Doto",
-      "text": "Guh... E-esta bebida debería ayudarme a\nquitarme<n>la fatiga...",
+      "text": "Guh... E-esta bebida debería ayudar a <n>eliminar mi\nfatiga...",
       "choice_data_list": [
         "¿Doto?"
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "¡¿Sí?! E-¡Entrenador! Solo estoy tomando un<n>shot energético.",
+      "text": "¡Sí! ¿E-Entrenador?! Solo estoy bebiendo una<n>\nbebida de bienestar.",
       "choice_data_list": [
-        "Eso que tienes es una bebida deportiva.",
-        "Eso que tienes es una bebida deportiva."
+        "Esa es una bebida deportiva la que tienes.",
+        "Esa es una bebida deportiva la que tienes."
       ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Oh... ¿¿De v-de veras?! No me di cuenta en\nabsoluto,<n>¡y ya me he tomado un montón!"
+      "text": "Oh... ¿De-verdad?! No me di cuenta en<n> absoluto, y\nya he tomado tanta!"
     },
     {
-      "text": "La fatiga debe haber embotado sus sentidos.<n>La\nazotea está llena de sus botellas<n>plásticas vacías. Probablemente\ndebamos replantear<n>nuestro calendario de carreras."
+      "text": "La fatiga debe haber embotado sus sentidos. <n>El\ntecho está lleno de sus botellas de plástico<n>\nvacías. Probablemente debamos replantear nuestro<n>\ncalendario de carreras futuro."
     }
   ]
 }

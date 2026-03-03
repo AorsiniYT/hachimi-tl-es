@@ -2,229 +2,231 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "エイシンフラッシュ",
-      "text": "お出かけ、ありがとうございました。\n有意義にリフレッシュできました。"
+      "name": "Eishin Flash",
+      "text": "Gracias por pasar tiempo conmigo <n>hoy. Me siento\nrenovada."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "それでは、次の予定がありますので\n私はここで――"
+      "name": "Eishin Flash",
+      "text": "Desafortunadamente, tengo algo planeado<n> después de\nesto, así que debo irme."
     },
     {
-      "name": "？？？",
-      "text": "おっすー。"
+      "name": "???",
+      "text": "¡Hey, oye!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "待ち合わせの5分10秒前。\n珍しくお早い到着ですね、ジョーダンさん。",
+      "name": "Eishin Flash",
+      "text": "Faltan cinco minutos y diez segundos para <n>nuestra\nhora de encuentro acordada. No es propio <n>de ti\nllegar temprano, Jordan.",
       "choice_data_list": [
-        "予定ってもしかして……"
+        "¡Ah, así que tenías planes con Jordan!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。ジョーダンさんと遊ぶ予定で。\nですが……。"
+      "name": "Eishin Flash",
+      "text": "Sí. Bueno, de todas formas planeamos encontrarnos.\n<n>En cuanto a nuestros planes, sin embargo..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ジョーダンさん。\n今日どこに行くかまだ聞いていないのですが？"
+      "name": "Eishin Flash",
+      "text": "Aún no he escuchado exactamente qué vamos<n> a hacer\nhoy, Jordan."
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "えー。そだっけ？\nま、ノープランなんだケド。"
+      "name": "Tosen Jordan",
+      "text": "¿En serio? Meh, vamos a improvisar."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ノープラン！？\n遊ぶ約束は、1か月前にしましたよね？"
+      "name": "Eishin Flash",
+      "text": "<i>¡Improvisar?!</i> ¡Pero planeamos esta<n> salida hace\ncasi un mes!"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "まーまー、んなカリカリすんなってー。\nとりまカラオケでいいっしょ？"
+      "name": "Tosen Jordan",
+      "text": "Está bien, vale. ¡No te alteres! ¿Qué<n> tal si vamos\na karaoke para empezar?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そんな適当に……。ジョーダンさん、\n予定とは計画的に立てるべきものであって――"
+      "name": "Eishin Flash",
+      "text": "Qué sugerencia tan poco comprometida...<n> Escucha,\nplanificar sistemáticamente<n> es una parte\nimportante de—"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "いや、テキトーじゃねーし！　ほらあれ、\n“とりまカラオケ”は日本文化的なやつだし？"
+      "name": "Tosen Jordan",
+      "text": "¡Abajo los planes! ¡Dejarse llevar por el <n>ambiente\nno te va a matar por un solo <n>día! Además, el\nkaraoke espontáneo es, como, parte<n> de la cultura\njaponesa."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……は？　日本の文化？"
+      "name": "Eishin Flash",
+      "text": "¿Eh? ¿En serio?"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "そそ！　ちな、これジョーシキだかんね。\nつーわけで、さっさと行くべ。"
+      "name": "Tosen Jordan",
+      "text": "¡Sí, claro! Todo el mundo lo sabe.<n> En fin,\nvámonos."
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "ほら、そこのトレーナーさんも。\n人数多い方が盛り上がるっしょ～。"
+      "name": "Tosen Jordan",
+      "text": "¡Oye, tú también deberías venir con nosotros!<n>\n¡Cuántos más, mejor!"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "あー、めちゃ歌った。\n次、フラッシュさんの番ねー。"
+      "name": "Tosen Jordan",
+      "text": "Uf, canté con el alma. Vale, <n>Flash, te toca."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "…………はぁ。",
+      "name": "Eishin Flash",
+      "text": "<i>Suspiro...</i>",
       "choice_data_list": [
-        "……フラッシュ？"
+        "¿Flash?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "え？　あ……。",
+      "name": "Eishin Flash",
+      "text": "¿Eh?",
       "choice_data_list": [
-        "どうしたんだ？",
-        "どうしたの？"
+        "¿Qué pasa?",
+        "¿Qué hay?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……すみません。\n“とりまカラオケ”なる文化に\nついて考えていました。"
+      "name": "Eishin Flash",
+      "text": "Perdón. Estaba reflexionando sobre la <n>costumbre\njaponesa de \"ir a karaoke <n>para empezar\"..."
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "そんなん悩んでんの？　ウケる。\nんな悩むことじゃないっしょー。"
+      "name": "Tosen Jordan",
+      "text": "¿En serio? ¡Jaja! No es para tanto,<n> ¿verdad?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私は最新の日本文化を学び、留学して\n来ました。……いえ、してきたつもりでした。"
+      "name": "Eishin Flash",
+      "text": "Antes de venir aquí como estudiante<n> de\nintercambio, estudié a fondo las <n>tendencias\nrecientes de la cultura japonesa... Al<n> menos, eso\ncreía."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "しかし日本の進歩は、\n私の想定よりも早すぎたようです。"
+      "name": "Eishin Flash",
+      "text": "Parece que Japón avanza a un ritmo que<n> supera mis\nexpectativas."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私はこの絶え間なく変わりゆく日本で、\r\nやっていけるのでしょうか……。"
+      "name": "Eishin Flash",
+      "text": "¿Cómo podré mantener el ritmo con<n> un Japón que\nevoluciona a una <n>velocidad tan alucinante?"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "……ヤ、ヤバ……ガチでサガってんじゃん。\nえ……どーしよ。",
+      "name": "Tosen Jordan",
+      "text": "...Vaya. Estás, como... realmente preocupada<n> por\nesto. Eh... ¿Qué hacemos?",
       "choice_data_list": [
-        "これから学んでいけばいい",
-        "これから学んでいけばいいよ"
+        "Puedes empezar a aprender ahora.",
+        "Puedes empezar a aprender ahora."
       ]
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "そ、そーそー！　トレンドなんて、\nみんなやってみて覚えんだし。"
+      "name": "Tosen Jordan",
+      "text": "¡S-sí! ¡Todo el mundo aprende sobre tendencias<n>\nexponiéndose a ellas!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……習うよりも慣れろ。\r\n最新の文化に触れ続けることが重要。\nということですね。"
+      "name": "Eishin Flash",
+      "text": "En resumen, la experiencia es la mejor<n> maestra, y\nla interacción constante con los<n> elementos más\nrecientes de la cultura japonesa<n> es primordial..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "Entonces… aquí, ¡cantaré el J-POP número uno\r\nde los rankings… ‘Agage Sakamichi de Koi’!",
+      "name": "Eishin Flash",
+      "text": "En ese caso, debo cantar la canción de J-pop<n> más\npopular. ¿Cómo se llama? \"Ramp\"...<n> ¡\"Ramp Up\nLove\"!",
       "choice_data_list": [
-        "合いの手は任せて！",
-        "歌い慣れてる歌がいいよ"
+        "¡Seré tu corista!",
+        "Está bien quedarte con canciones que conozcas."
       ]
     },
     {
-      "text": "Y así, Eishin Flash comenzó a cantar\nel J-POP de moda…."
+      "name": "Monólogo",
+      "text": "Eishin Flash empieza a cantar la canción de<n> J-pop\nde moda, pero..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "『恋にムチューで～』……あっ、\r\nまたリズムが主旋律からコンマ5秒ズレて――"
+      "name": "Eishin Flash",
+      "text": "\"¡Estoy perdida en el amor! ♪\" Uy, mi ritmo<n> va 0.5\nsegundos atrasado respecto a la <n>melodía otra\nvez..."
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "『胸がときめく～！』\nほら、フラッシュさんもアゲてアゲて～。"
+      "name": "Tosen Jordan",
+      "text": "\"¡Mi corazón está lleno de ti! ♪\" Vamos, <n>Flash.\n¡Disfruta!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "は、はい！\n『一緒に駆けあがってく～♪』"
+      "name": "Eishin Flash",
+      "text": "¡S-sí! \"¡Juntos, ascendemos! ♪\""
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "で、どーよ？\n初めての“とりまカラオケ”は。"
+      "name": "Tosen Jordan",
+      "text": "¿Y? ¿Qué te pareció tu primer<n> \"karaoke no\nplaneado\"?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そうですね……“とりまカラオケ”がなぜ、\n日本で文化となったのか。\n少し、わかった気がします。"
+      "name": "Eishin Flash",
+      "text": "Bueno... Creo que ahora entiendo mejor por <n>qué es\nparte de la cultura japonesa."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "こうして音楽を身近なものにすることで、\r\n文化を根付かせているのですね。",
+      "name": "Eishin Flash",
+      "text": "Familiarizarse más con la música de <n>manera casual\nfacilita entender la cultura de<n> la que proviene.",
       "choice_data_list": [
-        "早速、学べたな",
-        "早速、学べたね"
+        "Eres rápida para aprender.",
+        "Eres rápida para aprender."
       ]
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "あー、よかった～。\nテキトー言っちゃったし。ガチで焦ったわー。"
+      "name": "Tosen Jordan",
+      "text": "¡Uf! Lo inventé todo en el momento, así <n>que\nestuve, como, nerviosa todo el tiempo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "…………適当、ですか。"
+      "name": "Eishin Flash",
+      "text": "Tú... ¿qué hiciste?"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "あ゛……テキトーってか、\n“とりまカラオケ”は、ノリってか。"
+      "name": "Tosen Jordan",
+      "text": "¡Gh! ¡No era eso lo que quería decir! El <n>karaoke\nse trata de la onda, ¿sabes?"
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "……ジョーダン？　的な？"
+      "name": "Tosen Jordan",
+      "text": "Es parte de la cultura... O tal vez... es,<n> como,\n<i>mi</i> cultura..."
     },
     {
-      "text": "その後、エイシンフラッシュによって\nトーセンジョーダンは、しっかりと\nお叱りを受けたのであった。"
+      "name": "Monólogo",
+      "text": "Tosen Jordan recibe una buena regañina<n> de Eishin\nFlash después de eso."
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "それな～。ムリするより\nヘビロテのやつの方がアガるっしょ！"
+      "name": "Tosen Jordan",
+      "text": "¡Eso es cierto! Cantar algo que <n>conoces y amas es\nmucho mejor que <n>forzarte a cantar algo aleatorio!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "では……ドイツの童謡でも構いませんか？\n歌い慣れたものとなると、その辺りしか。",
+      "name": "Eishin Flash",
+      "text": "¿Sería aceptable una canción infantil<n> alemana\nentonces? Para ser sincera,<n> solo conozco realmente\ncanciones de cuna.",
       "choice_data_list": [
-        "入ってるかな？"
+        "No estoy seguro de que la máquina tenga alguna..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ドイツの童謡でしたら\n日本でも歌われているので、おそらく。"
+      "name": "Eishin Flash",
+      "text": "Las canciones de cuna alemanas se cantan a menudo<n>\nen Japón, así que supongo que sí."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "有名なのは、『カエルの歌』ですね。"
+      "name": "Eishin Flash",
+      "text": "El \"Kaeru no Uta\", basado en una rana, <n>es el\nejemplo más famoso."
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "マ？　あれドイツの歌なん？\nあたしも歌えんじゃん。"
+      "name": "Tosen Jordan",
+      "text": "Espera, ¿esa canción es originalmente<n> alemana? ¿En\nserio? Hasta yo la conozco."
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "てかせっかくだし、デュエットする？\nドイツ語と日本語で。",
+      "name": "Tosen Jordan",
+      "text": "Ooh, ¿por qué no cantamos un dúo<n> en alemán y\njaponés?",
       "choice_data_list": [
-        "それ、聞いてみたい"
+        "Me gustaría escuchar eso."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……そうですか？　でしたら、\r\nよろしくお願いします。"
+      "name": "Eishin Flash",
+      "text": "¿De verdad? En ese caso, hagámoslo."
     },
     {
-      "name": "トーセンジョーダン",
-      "text": "で、どーよ？\n初めての“とりまカラオケ”は。"
+      "name": "Tosen Jordan",
+      "text": "¿Y? ¿Qué te pareció tu primer<n> \"karaoke no\nplaneado\"?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……そうですね。最新の風習を学ぶという、\n課題を見つけられましたし。"
+      "name": "Eishin Flash",
+      "text": "Bueno, me hizo darme cuenta de que debo intentar<n>\nconstantemente mantenerme al día con las nuevas<n>\ntendencias."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "この感情をまとめて言うとすれば――",
+      "name": "Eishin Flash",
+      "text": "Y si tuviera que resumirlo en una <n>palabra...",
       "choice_data_list": [
-        "言うとすれば？"
+        "¿Sí?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……楽しかったです。"
+      "name": "Eishin Flash",
+      "text": "Sería \"divertido\"."
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Nuestra intensa experiencia en el campamento <n>de\nverano ha llegado a su fin...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Esta renuencia a irme es un sentimiento que<n> dudo\nque alguna vez me acostumbre. Lo experimenté<n> el\naño pasado también.",
+      "choice_data_list": [
+        "Eso demuestra que lo pasaste genial.",
+        "Eso demuestra que lo pasaste genial."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Si es posible, me gustaría regresar aquí<n> algún\ndía..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Contigo, Entrenador.",
+      "choice_data_list": [
+        "Ardan..."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ah, parece que el autobús ha llegado."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Entonces nos dirigimos de vuelta a la <n>academia,\nEntrenador?",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ]
+    },
+    {
+      "text": "Ahora que el campamento de verano terminó,<n> el\nMainichi Okan se acerca rápidamente.",
+      "name": "Monólogo"
+    }
+  ]
+}

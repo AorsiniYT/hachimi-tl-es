@@ -2,10 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Al escuchar la reputación del equipo,\n<support>\rvino diciendo que quería unirse."
+      "name": "Monólogo",
+      "text": "<support> escucha<n> sobre los logros de nuestro equipo y\npregunta<n> si puede unirse."
     },
     {
-      "text": "¡<support> se unió al equipo!"
+      "name": "Monólogo",
+      "text": "¡<support> se<n> ha unido al equipo!"
     }
   ]
 }

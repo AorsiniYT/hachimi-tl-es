@@ -2,39 +2,43 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "今回のトレーニングは、彼女から\r\nトレーニングプランをもらっていた。"
+      "name": "monólogo",
+      "text": "Usamos su plan de entrenamiento para la <n>sesión de\nhoy."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "寸分違わず、私のプラン通りでした。\r\nありがとうございます、トレーナーさん。",
+      "name": "Eishin Flash",
+      "text": "Cada minuto salió exactamente como lo <n>planeé.\nGracias por acompañarme en ello.",
       "choice_data_list": [
-        "どうだった？"
+        "Entonces, ¿cómo te sientes?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……初めて自分でレシピを考えたケーキを\r\n作った時と似ている、といいますか。"
+      "name": "Eishin Flash",
+      "text": "Compararía este sentimiento con la primera vez <n>que\nhorneé un pastel usando una receta que creé<n> yo\nmisma."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "つい、気合いが入ってしまいました。"
+      "name": "Eishin Flash",
+      "text": "Estoy llena de motivación renovada."
     },
     {
-      "text": "エイシンフラッシュにとって、\r\nよい経験になったようだった！"
+      "name": "monólogo",
+      "text": "¡Parece que esta fue una gran experiencia <n>para\nEishin Flash!"
     },
     {
-      "text": "しかし、調整がつかずプラン通りの\r\nトレーニングは行えなかった……。"
+      "name": "monólogo",
+      "text": "Sin embargo, la sesión no sale<n> según lo\nplaneado..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……いえ、構いません。\r\n想定していなかったわけではありませんので。"
+      "name": "Eishin Flash",
+      "text": "Está bien. Sabía que este resultado estaba<n> dentro\nde lo posible."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "次回からも、よろしくお願いします。"
+      "name": "Eishin Flash",
+      "text": "Espero seguir tus instrucciones<n> de nuevo para\nnuestra próxima sesión."
     },
     {
-      "text": "これ以降、エイシンフラッシュから\r\nトレーニングプラン作成の申し出を\nされることはなくなったのだった。"
+      "name": "monólogo",
+      "text": "Eishin Flash nunca vuelve a mencionar la idea<n> de\ncrear sus propias sesiones de entrenamiento<n>\ndespués de eso."
     }
   ]
 }

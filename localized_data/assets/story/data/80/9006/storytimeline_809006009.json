@@ -2,152 +2,155 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, tras concluir los días con <chrname>."
+      "name": "Monólogo",
+      "text": "Un día, después de que <n><chrname> y yo hemos alcanzado un\nhito..."
     },
     {
-      "name": "樫本理子",
-      "text": "Buenas noches,\r\nEntrenador <username>.\nGracias por tu arduo trabajo a esta hora.",
+      "name": "Riko Kashimoto",
+      "text": "Buenas noches, Entrenador<n> <username>. Has <n>estado trabajando\ntan duro a pesar de lo<n> tarde que es.",
       "choice_data_list": [
-        "お疲れ様です！"
+        "¡Igualmente!"
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "Ejem.\r\n...Entrenador <username>.\n¿Tienes planes para mañana?"
+      "name": "Riko Kashimoto",
+      "text": "Ejem... Me preguntaba, pero... ¿tienes<n> algún plan\npara mañana?"
     },
     {
-      "name": "樫本理子",
-      "text": "なければ、少々お時間をいただきたい。\r\n話したいことがあります。"
+      "name": "Riko Kashimoto",
+      "text": "Si no, esperaba que pudiéramos <n>pasar un rato\njuntas y tener una discusión<n> amistosa."
     },
     {
-      "text": "――翌日、彼女に連れて行かれたのは、\r\n街を見渡すことのできる高台だった。"
+      "name": "Monólogo",
+      "text": "Al día siguiente, ella me lleva a una colina con<n>\nuna vista panorámica de toda la ciudad."
     },
     {
-      "name": "樫本理子",
-      "text": "……いい空ですね。\r\n日差しも暖かくて、気持ちがいい。",
+      "name": "Riko Kashimoto",
+      "text": "El cielo es tan hermoso. El sol también se <n>siente\ncálido. Es encantador.",
       "choice_data_list": [
-        "あの、今日はどうしてここに？"
+        "Eh, entonces, ¿por qué me trajiste aquí hoy?"
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "……胸の内を話すなら、\r\n壁のない広い場所がよいでしょう。"
+      "name": "Riko Kashimoto",
+      "text": "Pensé que algún lugar espacioso, sin<n> paredes,\nsería el mejor lugar para <n>abrir el corazón."
     },
     {
-      "name": "樫本理子",
-      "text": "……時々、考えるんです。もし私が、\r\n貴方に出会うことがなかったら。"
+      "name": "Riko Kashimoto",
+      "text": "A veces me pregunto cómo sería si nunca<n> te hubiera\nconocido..."
     },
     {
-      "name": "樫本理子",
-      "text": "凝り固まった考えを、\r\n何も変えられていなかったら、と。"
+      "name": "Riko Kashimoto",
+      "text": "Si no hubieras cambiado mis formas obstinadas."
     },
     {
-      "name": "樫本理子",
-      "text": "未成熟な少女たちの自主性を見守る？\r\n聞こえよく言っているだけだろう。"
+      "name": "Riko Kashimoto",
+      "text": "Cuando afirmé que mi objetivo era<n> proteger la\nindependencia de mis <n>corredoras inexpertas, solo\nintentaba verme<n> bien."
     },
     {
-      "name": "樫本理子",
-      "text": "それは放置と変わりがない。\r\n無責任な大人の言い訳だ。"
+      "name": "Riko Kashimoto",
+      "text": "No era mejor que negligencia, la excusa <n>mezquina\nde un adulto irresponsable."
     },
     {
-      "name": "樫本理子",
-      "text": "生徒を徹底的に管理し、\r\n私が正しい道を作る。"
+      "name": "Riko Kashimoto",
+      "text": "Creé un camino exacto para mis entrenandas<n>\ncontrolando cada aspecto de sus vidas."
     },
     {
-      "name": "樫本理子",
-      "text": "みな、その上を歩けばいい。\r\nそうすれば、何も恐れずに済む。"
+      "name": "Riko Kashimoto",
+      "text": "Pensé que mientras nunca se desviaran<n> del camino\nque establecí, no tenían<n> nada que temer."
     },
     {
-      "name": "樫本理子",
-      "text": "――それが、それだけが、\r\nウマ娘たちを守る唯一の方法だ。"
+      "name": "Riko Kashimoto",
+      "text": "Esa era la única forma que tenía <n>de protegerlas..."
     },
     {
-      "name": "樫本理子",
-      "text": "私は……過去の出来事から、\r\n一方的に道を押しつけていたんです。"
+      "name": "Riko Kashimoto",
+      "text": "Las forcé en una dirección que elegí <n>basada en mis\nexperiencias pasadas."
     },
     {
-      "name": "樫本理子",
-      "text": "……こちらを信じろと言いながら、\r\n彼女たちと、向き合ってすらいなかった。"
+      "name": "Riko Kashimoto",
+      "text": "Exigí que confiaran en mí, pero<n> nunca intenté\ncomprenderlas."
     },
     {
-      "name": "樫本理子",
-      "text": "教育者として……\r\nトレーナーとして、失格でした。",
+      "name": "Riko Kashimoto",
+      "text": "Fui un fracaso como educadora... y como\n<n>entrenadora.",
       "choice_data_list": [
-        "そんなことは……"
+        "Eso no es verdad."
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "いいえ。それを気づかせてくれたのは\r\n貴方と……かけがえのないウマ娘たちです。"
+      "name": "Riko Kashimoto",
+      "text": "Lo digo en serio. Tú... y esas preciosas\n<n>corredoras fueron las que me hicieron darme<n> cuenta\nde mis errores."
     },
     {
-      "name": "樫本理子",
-      "text": "……貴方は、昔の私に似ている。\r\n情熱的で真っ直ぐで、ウマ娘を信じている。"
+      "name": "Riko Kashimoto",
+      "text": "Me recuerdas a cómo era hace mucho<n>\ntiempo—apasionado, honesto y confiado en mis<n>\ncorredoras."
     },
     {
-      "name": "樫本理子",
-      "text": "だからこそ……私は尚更、\r\n貴方を認められなかったんでしょう。",
+      "name": "Riko Kashimoto",
+      "text": "Esa similitud fue aún más razón por<n> la que no\npodía admitir que <n>eras hábil.",
       "choice_data_list": [
-        "今は認めてくれているんですか？"
+        "¿Eso significa que ahora lo reconoces?"
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "……なんです、その期待に満ちた目は。"
+      "name": "Riko Kashimoto",
+      "text": "...No te pongas tan esperanzada."
     },
     {
-      "name": "樫本理子",
-      "text": "ふっ……冗談です。\r\n認めなくてはならないでしょう。"
+      "name": "Riko Kashimoto",
+      "text": "Jeje, estoy bromeando. Es imposible<n> no reconocer\ntu grandeza ahora."
     },
     {
-      "name": "樫本理子",
-      "text": "多くのことを思い出させてくれた。\r\n……教えてくれた貴方を。"
+      "name": "Riko Kashimoto",
+      "text": "Trajiste de vuelta muchos recuerdos<n> que necesitaba\nrecordar... y me <n>enseñaste tanto."
     },
     {
-      "name": "樫本理子",
-      "text": "私は……よきライバルと出会えました。",
+      "name": "Riko Kashimoto",
+      "text": "Eres el mejor rival que podría <n>pedir.",
       "choice_data_list": [
-        "こちらこそ……！"
+        "¡Yo también me siento igual!"
       ]
     },
     {
-      "name": "樫本理子",
-      "text": "ふふ……。"
+      "name": "Riko Kashimoto",
+      "text": "Jeje..."
     },
     {
-      "name": "リトルココン",
-      "text": "樫本トレーナー、どこだろ。\r\nここに向かったって聞いたけど……。"
+      "name": "Little Cocon",
+      "text": "Me pregunto dónde está la Entrenadora <n>Kashimoto.\nElla supuestamente vino por aquí, pero<n> no la\nveo..."
     },
     {
-      "name": "ビターグラッセ",
-      "text": "おっと、道を譲ってもらおうか、\r\nリトルココン！"
+      "name": "Bitter Glasse",
+      "text": "¡Oye, no acapares el camino!"
     },
     {
-      "name": "ビターグラッセ",
-      "text": "先に樫本トレーナーを見つけるのは、私だ！\r\nはっはっはっー！"
+      "name": "Bitter Glasse",
+      "text": "¡Voy a ser yo quien la encuentre primero!<n> ¡Jajaja!"
     },
     {
-      "name": "リトルココン",
-      "text": "はぁ？　まっ……アタシの方が先だしっ！"
+      "name": "Little Cocon",
+      "text": "<i>¿<i>Perdón</i>? <i></i>¡<i>Yo</i> voy a encontrarla primero!"
     },
     {
-      "text": "（ダダダダダッ……！）"
+      "name": "Monólogo",
+      "text": "<i>¡Pis, pis, pis!</i>"
     },
     {
-      "name": "樫本理子",
-      "text": "あの声は、リトルココンとビターグラッセ？\r\nまったく公共の場で大声を……。"
+      "name": "Riko Kashimoto",
+      "text": "Creo que escucho a Little Cocon y Bitter<n> Glasse.\n¿Qué están haciendo esas<n> dos, gritando en público\nasí?"
     },
     {
-      "name": "樫本理子",
-      "text": "仕方ありません、\r\n大人の語らいはここまでです。"
+      "name": "Riko Kashimoto",
+      "text": "Supongo que nuestra charla de adultos tiene que\n<n>terminar aquí."
     },
     {
-      "name": "樫本理子",
-      "text": "...Vamos,\r\nEntrenador <username>."
+      "name": "Riko Kashimoto",
+      "text": "Vamos, Entrenador<n> <username>."
     },
     {
-      "name": "樫本理子",
-      "text": "可愛い教え子たちが、待っていますから。"
+      "name": "Riko Kashimoto",
+      "text": "Mis adorables estudiantes me están esperando."
     }
   ]
 }

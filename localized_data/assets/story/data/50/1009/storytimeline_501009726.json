@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Un día, mientras estoy en la ciudad<n>con Daiwa Scarlet..."
+      "text": "Un día, mientras estoy en la ciudad con <n>Daiwa\nScarlet..."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "¡Ah! ¡Entrenador! ¡Mira allá!",
+      "text": "¡Ah! ¡Entrenador! ¡Mira allí!",
       "choice_data_list": [
         "¿Qué pasa?",
         "¿Qué pasa?"
@@ -15,15 +15,15 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "¡Esa máquina de garra! Está llena de<n>peluches Cuties."
+      "text": "¡Esa máquina de garra! ¡Está llena de peluches<n>\nadorables!"
     },
     {
       "name": "Monólogo",
-      "text": "Daiwa Scarlet señala una máquina<n>de garra\nllena<n>de peluches de Umamusume."
+      "text": "Daiwa Scarlet señala hacia una máquina<n> de garra\nllena de peluches <n>de Umamusume."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "¿No son simplemente adorables?<n>Mira,\n¡hay<n>montones!"
+      "text": "¿No son adorables? ¡Mira, <n>hay tantos!"
     },
     {
       "name": "Daiwa Scarlet",
@@ -31,26 +31,26 @@
     },
     {
       "name": "Monólogo",
-      "text": "Daiwa Scarlet prácticamente brilla\nde<n>emoción<n>mientras mira fijamente los\npeluches.",
+      "text": "Daiwa Scarlet prácticamente brilla<n> de emoción\nmientras mira los peluches.",
       "choice_data_list": [
-        "¿Quieres que te gane uno?"
+        "¿Quieres que gane uno para ti?"
       ]
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Yo... solo estaba mirando, nada más.<n>No es\nque<n>realmente quiera uno ni nada."
+      "text": "Yo... yo solo estaba mirando, eso es todo. No es\ncomo<n> si realmente quisiera uno o algo."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Pero si <i>realmente</i> quieres darme\nun<n>regalo, entonces<n>supongo que puedo\ncomplacerte."
+      "text": "Pero si <i>realmente</i> quieres darme un <n>regalo,\nentonces supongo que puedo hacerte caso."
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Así que, eh, hazlo lo mejor que<n>puedas, supongo..."
+      "text": "Así que, eh, hazlo lo mejor que puedas, supongo..."
     },
     {
       "name": "Monólogo",
-      "text": "¡Ahora no hay forma de que falle!"
+      "text": "¡De ninguna manera puedo fallar ahora!"
     }
   ]
 }

@@ -2,95 +2,101 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "ある日、チームトレーニングの休憩中のこと。"
+      "name": "Monólogo",
+      "text": "Un día, durante un descanso del entrenamiento<n> en\nequipo..."
     },
     {
-      "name": "タイキシャトル",
-      "text": "トレーナーさん！　ハウディ！\nお願いがありマス！"
+      "name": "Taiki Shuttle",
+      "text": "Hola, Entrenador. Tengo un pequeño favor que\n<n>pedirte."
     },
     {
-      "name": "タイキシャトル",
-      "text": "ワタシ、このチームがベリーベリー\n大好きデス！"
+      "name": "Taiki Shuttle",
+      "text": "Me encanta, <i>me encanta, </i><i>me encanta</i> este<n> equipo."
     },
     {
-      "name": "タイキシャトル",
-      "text": "だから、チームでピクチャーを撮って、\nファミリーに紹介したいんデス！"
+      "name": "Taiki Shuttle",
+      "text": "Es por eso que esperaba que pudiéramos<n> tomar una\nfoto de todos juntos y enviarla a<n> mi familia."
     },
     {
-      "name": "タイキシャトル",
-      "text": "ファミリー、みなさんのピクチャー見たら、\nきっととーっても喜びマス！",
+      "name": "Taiki Shuttle",
+      "text": "Estoy segura de que a ellos les encantará verme a\nmí y<n> a mi equipo juntos.",
       "choice_data_list": [
-        "いいよ、撮ろうか"
+        "¿Quieres que te tome una foto, entonces!"
       ]
     },
     {
-      "name": "タイキシャトル",
-      "text": "ノー！　トレーナーさんにも\r\n写って欲しいデス！"
+      "name": "Taiki Shuttle",
+      "text": "No, no. Tú también tienes que estar en ella."
     },
     {
-      "name": "タイキシャトル",
-      "text": "セルフタイマーで撮れば、\r\nチームみんなで撮れますカラ～！",
+      "name": "Taiki Shuttle",
+      "text": "Podemos usar el temporizador de la cámara de mi<n>\nteléfono. De esa manera, todos podemos estar en la\nfoto.",
       "choice_data_list": [
-        "いいの？"
+        "¿Estás seguro de que quieres que esté en la foto?"
       ]
     },
     {
-      "name": "タイキシャトル",
-      "text": "もちろんデス！　トレーナーさんがいない\nなんて、チームのピクチャーじゃありまセン！",
+      "name": "Taiki Shuttle",
+      "text": "Claro que sí, lo estoy. No es una foto de<n> equipo\nsin ti, Entrenador.",
       "choice_data_list": [
-        "わかった！"
+        "¡Genial!"
       ]
     },
     {
-      "text": "と、いうわけで写真撮影が始まり――"
+      "name": "Monólogo",
+      "text": "Así que nos preparamos para una sesión<n> de fotos\nimprovisada."
     },
     {
-      "name": "タイキシャトル",
-      "text": "ウーン、キーパーの上って、\r\nちょっぴりフアンテイですね……。"
+      "name": "Taiki Shuttle",
+      "text": "Hmm, aquí está un poco inclinado, pero..."
     },
     {
-      "name": "タイキシャトル",
-      "text": "スマホさん、10秒だけファイトです！"
+      "name": "Taiki Shuttle",
+      "text": "Haz lo mejor que puedas, pequeño teléfono\ninteligente. Son<n> solo diez segundos."
     },
     {
-      "name": "タイキシャトル",
-      "text": "¡OK! ¡Todos, acérquense!\n¡Con una sonrisa happy! ¡Vamos desu!"
+      "name": "Taiki Shuttle",
+      "text": "¡Genial! Reúnanse, todos. Sonrisas <n>grandes.\n¡Vamos!"
     },
     {
-      "name": "タイキシャトル",
-      "text": "スリー、ツー……！"
+      "name": "Taiki Shuttle",
+      "text": "Tres, dos..."
     },
     {
-      "text": "（ビューッ！）"
+      "name": "Monólogo",
+      "text": "<i>¡Clonk!</i>"
     },
     {
-      "name": "タイキシャトル",
-      "text": "オーマイガッ！\r\nスマホさん、フォールアーウッ！！"
+      "name": "Taiki Shuttle",
+      "text": "Ay, caramba. Mi teléfono se ha<n> caído."
     },
     {
-      "text": "（――カシャッ！）"
+      "name": "Monólogo",
+      "text": "<i>¡Click!</i>"
     },
     {
-      "name": "タイキシャトル",
-      "text": "ノー……。\r\nきっとスカイしか写ってまセン――"
+      "name": "Taiki Shuttle",
+      "text": "Uf... Probablemente solo haya tomado una <n>foto\nborrosa del cielo..."
     },
     {
-      "name": "タイキシャトル",
-      "text": "――オウ！　アハハッ！",
+      "name": "Taiki Shuttle",
+      "text": "...Oh. Ajája.",
       "choice_data_list": [
-        "どうした？",
-        "どうしたの？"
+        "¿Qué pasa?",
+        "¿Qué pasa?"
       ]
     },
     {
-      "name": "タイキシャトル",
-      "text": "見てくだサイ！\r\nとーってもいいピクチャーが撮れマシタ♪"
+      "name": "Taiki Shuttle",
+      "text": "Mira, Entrenador. Saqué una foto genial."
     },
     {
-      "text": "撮れたのは、慌てて駆け寄る\r\nタイキシャトルと、笑うチームメンバーの、\nとってもハッピーな写真だった！"
+      "name": "Monólogo",
+      "text": "En la pantalla se muestra a Taiki Shuttle<n>\ncorriendo hacia su teléfono con la <n>mano extendida\ny el equipo riendo detrás<n> de ella. Es una foto\nmaravillosa."
     },
     {
-      "text": "みんなで素敵な思い出を、\r\n作ることが出来たのだった。"
+      "name": "Monólogo",
+      "text": "Estoy segura de que todos recordaremos este\nmomento<n> con cariño."
     }
   ]
 }

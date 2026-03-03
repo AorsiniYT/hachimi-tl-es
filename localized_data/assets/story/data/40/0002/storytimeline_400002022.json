@@ -2,38 +2,39 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "ついに『アオハル杯』\r\nプレシーズン4戦目を迎えた！"
+      "name": "Monólogo",
+      "text": "¡Finalmente, es hora del cuarto partido de\npretemporada<n> de la Copa de la Unidad!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "がんばれー、がんばれー。\nが……がんばれー。",
+      "name": "Rice Shower",
+      "text": "¡Hazlo lo mejor que puedas! ¡Tú puedes!",
       "choice_data_list": [
-        "何してるんだ？",
-        "何してるの？"
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
       ]
     },
     {
-      "name": "ライスシャワー",
-      "text": "あっ、え、えっと……その……。"
+      "name": "Rice Shower",
+      "text": "Yo, eh... Bueno..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "いっつも、ライスの不幸のせいで\nみんなに迷惑かけちゃってるから……。"
+      "name": "Rice Shower",
+      "text": "Siempre estoy causando dolor y molestando<n> a los\ndemás por mi mala suerte..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "せめて、少しだけでも力になれるように……\n応援の練習してたの……。",
+      "name": "Rice Shower",
+      "text": "Quería hacer algo para ayudarlos en<n> cambio, así\nque estoy practicando <n>animarlos...",
       "choice_data_list": [
-        "きっと力になるよ"
+        "Tu animación marcará la diferencia."
       ]
     },
     {
-      "name": "ライスシャワー",
-      "text": "……！\nほ、ほんとう……？"
+      "name": "Rice Shower",
+      "text": "¿C-crees realmente eso?"
     },
     {
-      "name": "ライスシャワー",
-      "text": "だったら、うれしいな……。"
+      "name": "Rice Shower",
+      "text": "Espero que tengas razón..."
     }
   ]
 }

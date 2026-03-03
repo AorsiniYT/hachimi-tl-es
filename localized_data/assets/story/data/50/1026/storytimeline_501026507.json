@@ -2,29 +2,29 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Tras una sesión informativa de<n>entrenamiento, le\nentrego a Mihono Bourbon una<n>carta de admirador que\nllegó para ella."
+      "text": "Después de una sesión informativa de\nentrenamiento,<n> le entrego a Mihono Bourbon una\ncarta de fan que llegó<n> para ella."
     },
     {
       "name": "Mihono Bourbon",
       "text": "Gracias. La leeré ahora."
     },
     {
-      "text": "La carta elogia efusivamente la carrera<n>de\nMihono Bourbon y lo inspirador que<n>es el trabajo\nduro que dedica."
+      "text": "La carta alaba mucho la forma de correr <n>de Mihono\nBourbon y lo inspirador que es el<n> esfuerzo que\npone."
     },
     {
-      "text": "\"Querida Bourbon... Voy a trabajar tan<n>duro como\ntú. Y algún día...\""
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "\"Quiero ser fuerte, como tú.\"<n>...¿Como yo?"
+      "text": "\"Querida Bourbon... Voy a esforzarme<n> tanto como\ntú. Y algún día...\""
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...Aumento de ritmo cardíaco<n>confirmado.\nTemperatura corporal<n>aumentando rápidamente."
+      "text": "\"Quiero ser fuerte, como tú.\" <n>...¿Como yo?"
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Qué cálido... Me siento tan cálida, Entrenador.",
+      "text": "...Aumento de la frecuencia cardíaca confirmado.\n<n>Temperatura corporal elevándose rápidamente."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Caliente... Me siento caliente, Entrenador.",
       "choice_data_list": [
         "Eso es tu corazón diciéndote que estás motivada.",
         "Eso es tu corazón diciéndote que estás motivada."
@@ -32,24 +32,24 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...Esto no está según el horario, pero<n>solicito\npermiso para correr."
+      "text": "...Esto no estaba en el plan, pero <n>solicito\npermiso para correr."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Quiero correr para quemar este<n>exceso de\nenergía.",
+      "text": "Quiero correr para quemar este exceso<n> de energía.",
       "choice_data_list": [
         "¡Por supuesto! ¡Iré contigo!",
         "¡Por supuesto! ¡Iré contigo!"
       ]
     },
     {
-      "text": "Y así, termino yendo a correr con<n>Mihono\nBourbon."
+      "text": "Y así, termino saliendo a correr con<n> Mihono\nBourbon."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "<i>Jadeo, jadeo...</i> Fatiga en piernas...<n>confirmada.",
+      "text": "<i>Jadeo, jadeo...</i> Fatiga en las piernas...\nconfirmada.",
       "choice_data_list": [
-        "No nos excedamos. ¿Por qué no regresamos a casa?"
+        "No nos excedamos. ¿Por qué no nos vamos a casa?"
       ]
     },
     {
@@ -58,14 +58,14 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Estoy acumulando fatiga mientras<n>corro... pero\nla energía térmica en mi pecho<n>continúa\naumentando."
+      "text": "Voy acumulando fatiga mientras corro...<n> pero la\nenergía térmica en mi pecho sigue<n> aumentando."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Por favor, permítame continuar."
+      "text": "Por favor, permíteme continuar."
     },
     {
-      "text": "Aunque tengo algunas preocupaciones<n>sobre su\nsalud, me quedo con la apasionada<n>Mihono Bourbon\n¡hasta el toque de queda!"
+      "text": "Aunque albergo algunas preocupaciones<n> por su\nsalud, me quedo con la apasionada<n> Mihono Bourbon\nhasta el toque de queda."
     }
   ]
 }

@@ -2,228 +2,235 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "トレーニングを終え、\nトレーナー室へ戻っていると……。"
+      "name": "Monólogo",
+      "text": "Después de entrenar, regreso a mi oficina<n>\ncuando..."
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "こーらー！　早く樹から降りなさーい！\nこのままじゃ誰かに見つか――"
+      "name": "El Condor Pasa",
+      "text": "¡Oye! ¡Baja de ese árbol! <n>Si alguien te ve—"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……エルさん、\nまたあの鳥に付きまとわれているのですか？"
+      "name": "Eishin Flash",
+      "text": "El, ¿ese pájaro te está acechando de nuevo?"
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "ケ！？　フ、フラッシュ先輩！",
+      "name": "El Condor Pasa",
+      "text": "¿Qué?! ¡F-Flash?!",
       "choice_data_list": [
-        "鳥に……付きまとわれる？"
+        "Espera... ¿La está acechando un <i>pájaro?</i>"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "それが、よくエルさんの近くをあの鳥が\n飛んでいると気づき、話を聞いたところ……。"
+      "name": "Eishin Flash",
+      "text": "Bueno, he notado que ese pájaro suele<n> estar cerca\nde El, y por lo que he oído..."
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "い、いやー？　なんでかあのコンドルに\nやたら懐かれちゃってるんデスよねぇ～？"
+      "name": "El Condor Pasa",
+      "text": "¡Jaja! Vaya, es tan raro, ¿verdad? Después<n> de\ntodo, ¿por qué un cóndor se fijaría en la <n><i>pequeña\n<i>yo?</i>"
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "でも誰かに見られたら驚かせちゃいますしっ！\n早く寝床のある寮に――"
+      "name": "El Condor Pasa",
+      "text": "Pero la gente se asustará si lo ve <n>merodeando, así\nque ¡vamos, tú! ¡Vuelve<n> a la residencia—"
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "――ち、近い雑木林に！\n行くよう言い聞かせてるんデスが……。",
+      "name": "El Condor Pasa",
+      "text": "Eh, quiero decir... ¡V-vuelve al bosque!<n> He\nintentado que se vaya un millón de veces,<n> pero...",
       "choice_data_list": [
-        "言うことを聞かない、と？"
+        "Pero no te escucha, supongo?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……なるほど、わかりました。\n私に考えがあります。"
+      "name": "Eishin Flash",
+      "text": "Entiendo la situación ahora. Tengo una<n> idea."
     },
     {
-      "text": "するとエイシンフラッシュは\n鳥が止まっている樹の方へ歩み寄り……。"
+      "name": "Monólogo",
+      "text": "Eishin Flash se acerca al árbol donde<n> el pájaro\nestá posado."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "名も知れぬ鳥さん、聞いてください。\nここは……貴方の生息域ではありません。"
+      "name": "Eishin Flash",
+      "text": "Escúchame, pájaro sin nombre. Este no es <n>tu hogar."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ごはんも期待できませんし、\nきっと追い払おうとする方も出てきて……\n貴方は苦しむことになる。"
+      "name": "Eishin Flash",
+      "text": "No hay esperanza de comida, y los de <n>aquí\nintentarán alejarte... Solo encontrarás<n>\ndificultades aquí."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私たちは、そんな思いをさせたくないのです。"
+      "name": "Eishin Flash",
+      "text": "No deseamos que sufras tal <n>destino."
     },
     {
-      "text": "鳥は切なげに――彼女の言葉に\n心を打たれたような声色で、ひと声鳴いた。"
+      "name": "Monólogo",
+      "text": "Como si estuviera conmovido en el núcleo por<n> las\npalabras de Eishin, el pájaro <n>suelta un llanto\ndesgarrador."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "貴方なら頷いてくれると思っていました。\nさあ、行きなさい……本当に安らげる場所へ！"
+      "name": "Eishin Flash",
+      "text": "Sabía que estarías de acuerdo. Ahora, vuela...\n<n>¡Vuela a donde estarás verdaderamente seguro!"
     },
     {
-      "text": "（バサバサバサッ！）"
+      "name": "Monólogo",
+      "text": "<i>¡Aleteo, aleteo, aleteo!</i>"
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "なんと！？　寝床に飛んでいきましたデス！\n叱っても言うこと聞かなかったのに……！",
+      "name": "El Condor Pasa",
+      "text": "¿¡¿Qué?! ¡Se ha volado a su nido!<n> ¡Grité y grité,\npero ni siquiera se<n> movió por mí!",
       "choice_data_list": [
-        "見事な説得だったな",
-        "見事な説得だったね"
+        "Ese fue un discurso muy convincente.",
+        "Ese fue un discurso muy convincente."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ありがとうございます。\n……昔、両親が言っていたのです。\n動物には、みな心がある。"
+      "name": "Eishin Flash",
+      "text": "Gracias. Mis padres me enseñaron que todos<n> los\nanimales tienen corazón."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "躾と思って叱るのではなく、対話をすべきと。\nそれに……。"
+      "name": "Eishin Flash",
+      "text": "Dijeron que es mejor razonar con ellos<n> que\nregañarlos. Además..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "あの鳥は、思いが伝えやすかったというか。\r\n話を聞いてくれそうな、予感がして……。"
+      "name": "Eishin Flash",
+      "text": "Tuve la sensación de que sería fácil<n> transmitir\nmis pensamientos a ese <n>pájaro, y que escucharía lo\nque dijera."
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "おおお～～っ！？\n思いを伝える、更なる極意がありそうデス！"
+      "name": "El Condor Pasa",
+      "text": "¡Oooh! ¡Suenas como si supieras mucho<n> sobre cómo\ntransmitir tus sentimientos a<n> los demás!"
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "ぜひ詳しく聞きたいデス！　マ――……\n迷いコンドルにいつ会うかわかりませんし！？"
+      "name": "El Condor Pasa",
+      "text": "¡Flash, tienes que enseñarme tus secretos! <n>¡Nunca\nsé cuándo me encontraré con Ma—eh, mi <n>admirador\nemplumado de nuevo, después de todo!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ええ、それは構いませんが。\nこの感覚を、どう伝えればいいものか。",
+      "name": "Eishin Flash",
+      "text": "Claro. No me importaría, pero no estoy <n>segura de\npoder explicar cómo lo hago.",
       "choice_data_list": [
-        "1日観察してもらう、とか",
-        "コツを教えてあげたら？"
+        "¿Por qué no la dejas observarte por un día?",
+        "¿Por qué no le das algunos consejos?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "承知しました。\r\nでは、明日の予定に組み込んでおきます。"
+      "name": "Eishin Flash",
+      "text": "Muy bien. Te agregaré a la agenda<n> de mañana."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "おはようございます。\nでは早速、アジェンダの確認から始めます。"
+      "name": "Eishin Flash",
+      "text": "Buenos días. Permíteme repasar<n> la agenda de hoy\ncontigo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "5分10秒でコース場に移動。\r\n20分50秒でウォーミングアップを終えると、\nちょうど左回り走行時に向かい風となります。"
+      "name": "Eishin Flash",
+      "text": "Llegamos a la pista en cinco minutos y diez<n>\nsegundos. Después de veinte minutos y <n>cincuenta\nsegundos de calentamiento, debería <n>haber viento en\ncontra justo cuando empecemos<n> a correr vueltas."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "これにより風よけが期待できない\n最終直線と同等の負荷状態で走行が可能です。"
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, será posible duplicar<n> las\ncondiciones de la recta final en las<n> que no habrá\nrefugio del viento."
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "時間のみならず天候まで織り込むとは！？\nなんて緻密なメニュー……！"
+      "name": "El Condor Pasa",
+      "text": "¡No solo has planeado todo hasta <n>el segundo, sino\nque incluso has pensado<n> en los patrones del clima!\n¡Hablando<n> de ser preciso!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "走り込み完了。5分でジムに移動します。\nのち、パワーラックで懸垂を23分間行います。"
+      "name": "Eishin Flash",
+      "text": "Eso concluye nuestra carrera. Reubicémonos<n> en el\ngimnasio en cinco minutos y <n>hagamos dominadas en\nel rack de potencia <n>durante veintitrés minutos."
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "お、おお……すごい速度で走ったのに、\r\nまだピンピンしてるなんて……！？"
+      "name": "El Condor Pasa",
+      "text": "¡Guau... ¿Cómo sigues tan llena de <n>energía después\nde todo ese sprint?!"
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "ケ！？　本気で食べるんデスか！？\r\nその、留学生泣かせのフード……納豆を！"
+      "name": "El Condor Pasa",
+      "text": "¿¡Qué?! ¡¿Realmente estás comiendo natto?! ¡Eso es<n>\nla peor pesadilla de un estudiante de intercambio!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "昼食は午後への活力。\n満遍なく栄養を摂取すべきですから。"
+      "name": "Eishin Flash",
+      "text": "El almuerzo es combustible para las actividades<n> de\nla tarde. Consumir nutrición amplia es una\n<n><i>necesidad.</i> Sin excepciones."
     },
     {
-      "text": "その後もエルコンドルパサーは\n1日エイシンフラッシュの観察を続け……。"
+      "name": "Monólogo",
+      "text": "El Condor Pasa continúa observando<n> a Eishin Flash\ndurante el resto del día."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "っはぁ……この、パワーラックで……\n本日のトレーニングタスクは全て終了です。"
+      "name": "Eishin Flash",
+      "text": "Uf... Y con el rack de potencia<n> terminado... eso\nconcluye el entrenamiento<n> de hoy."
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "これが、フラッシュ先輩の1日……！",
+      "name": "El Condor Pasa",
+      "text": "¡No puedo creer que así sea un día<n> en tu vida!",
       "choice_data_list": [
-        "どうだった？"
+        "¿Cómo fue?"
       ]
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "予定の立て方、トレーニング内容、栄養管理。\n全てがすごすぎて、言葉になりませんデス！"
+      "name": "El Condor Pasa",
+      "text": "¡Todo fue tan increíble! La forma en que<n> ella\nprograma, su régimen de entrenamiento,<n> su gestión\nde nutrición... ¡Todo me deja<n> sin palabras!"
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "でも……完璧にこなすそのストイックな姿勢。\nきっとそれがマンボに通じて、\n言うことを聞いたんだと思います！",
+      "name": "El Condor Pasa",
+      "text": "Pero apuesto a que Mambo quedó realmente<n>\nimpresionado por lo estoico y perfecta que<n> eres,\n¡por eso te escuchó!",
       "choice_data_list": [
-        "……マンボって？"
+        "¿Quién es Mambo?"
       ]
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "あ゛っ……ま、ま、……\nまーんべんなく、の間違いでした！　あはは！"
+      "name": "El Condor Pasa",
+      "text": "¡Urk! Eh, um... Sí, <i>¿quién <i>es</i> <n></i>Mambo? ¡Jaja! ¿Qué\nes un \"mambo\",<n> verdad? ¡Jaja!"
     },
     {
-      "text": "無事にエルコンドルパサーの\n参考になったようだ。"
+      "name": "Monólogo",
+      "text": "Parece que El Condor Pasa aprendió <n>bastantes cosas\nhoy."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "コツ……。\nあるとすれば、そうですね。"
+      "name": "Eishin Flash",
+      "text": "Hm... Creo que tengo una, entonces."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "愛、でしょうか。"
+      "name": "Eishin Flash",
+      "text": "Creo que necesitas transmitir tus <n>sentimientos con\namor."
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "あ……愛！？"
+      "name": "El Condor Pasa",
+      "text": "¿A-amor?!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そもそも対話とは、\n向かい合って話し合うことを意味します。"
+      "name": "Eishin Flash",
+      "text": "Para tener una conversación sincera <n>con otro,\ndebes enfrentar a la otra <n>parte como un igual."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "つまり一方的に話すのではなく、\n相手を尊重し意見を聞く姿勢が必要なのです。"
+      "name": "Eishin Flash",
+      "text": "Es necesario valorar y respetar a tu <n>compañero, y\nhablar <i>con</i> ellos en lugar <n>de <i>a</i> ellos."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そして相手を尊重するため、必要なものが――"
+      "name": "Eishin Flash",
+      "text": "Y cuando se trata de respetar y <n>valorar a tu\ncompañero de conversación, debes<n> tener—"
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "愛……！"
+      "name": "El Condor Pasa",
+      "text": "¡Amor!"
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "たしかにアタシ……『ダメでしょ』って\r\n叱るばかりで、話を聞こうとしませんでした。"
+      "name": "El Condor Pasa",
+      "text": "Pensándolo bien, todo lo que hice fue <n>decirle \"no\"\ny nunca intenté escuchar lo<n> que tenía que decir..."
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "エル、もっと愛しますっ！\nマンボには、ずっと元気でいてほしいから！",
+      "name": "El Condor Pasa",
+      "text": "Muy bien, ¡intentaré ser más amoroso para <n>poder\nmantener a Mambo feliz y saludable!",
       "choice_data_list": [
-        "……マンボって？"
+        "¿Quién es Mambo?"
       ]
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "あ゛っ！　あ～～～！　えっと、えっと！"
+      "name": "El Condor Pasa",
+      "text": "¡Agh! ¡Uhhh! Eh, eh!"
     },
     {
-      "name": "エルコンドルパサー",
-      "text": "マ……マンボダンス！　あれくらい情熱的な\n愛を、その、コンドルに向けるって意味デス！"
+      "name": "El Condor Pasa",
+      "text": "¡Sabes, como el baile m-mambo! <n>¡Voy a intentar\nrazonar con ese cóndor<n> con tanto amor y pasión\ncomo un <n>baile de mambo!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "素晴らしい心がけですね。\nあの鳥と見事な対話のステップが踏めるよう、\n頑張ってください。"
+      "name": "Eishin Flash",
+      "text": "Una mentalidad maravillosa. Te deseo la mejor<n> de\nlas suertes abriendo una línea de comunicación<n> con\nese pájaro."
     },
     {
-      "text": "無事にエルコンドルパサーの\n参考になったようだ。"
+      "name": "Monólogo",
+      "text": "Parece que El Condor Pasa aprendió <n>bastantes cosas\nhoy."
     }
   ]
 }

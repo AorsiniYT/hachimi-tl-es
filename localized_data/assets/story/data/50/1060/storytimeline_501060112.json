@@ -2,12 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Monólogo",
-      "text": "Un día, después de que Nice Nature<n>tiene varias\nvictorias en su haber..."
+      "text": "Un día, después de que Nice Nature haya<n> conseguido\nvarias victorias..."
     },
     {
       "name": "Nice Nature",
-      "text": "¿Entrenador? ¿Tienes un minuto?",
+      "text": "Entrenador, ¿tienes un minuto?",
       "choice_data_list": [
         "¿Qué pasa?",
         "¿Qué pasa?"
@@ -15,11 +14,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "¿Recuerdas cuando ganamos ese<n>cupón de\nvacaciones en aguas termales?<n>¿Qué pasó con él?"
+      "text": "¿Recuerdas cuando ganamos ese cupón<n> de vacaciones\nen aguas termales?<n> ¿Qué fue de él?"
     },
     {
-      "name": "Monólogo",
-      "text": "Habla del gran premio que ganamos<n>juntos en una\nrifa. Técnicamente, me lo<n>dio para que lo\nusara, pero yo lo he<n>estado guardando.",
+      "text": "Ella habla del primer premio que ganamos<n> juntos en\nuna rifa. Técnicamente, me lo<n> dio para que lo\nusara, pero yo lo <n>he estado guardando.",
       "choice_data_list": [
         "Todavía lo tengo.",
         "Todavía lo tengo."
@@ -27,15 +25,15 @@
     },
     {
       "name": "Nice Nature",
-      "text": "¿En serio? Entonces... ¿estaría bien si<n>lo uso?"
+      "text": "¿En serio? Entonces... ¿está bien si lo<n> uso?"
     },
     {
       "name": "Nice Nature",
-      "text": "Sabes, es un poco triste que no pueda<n>ir aunque\ntambién gané el cupón."
+      "text": "Sabes, es un poco triste que no pueda <n>ir aunque yo\ntambién gané el cupón."
     },
     {
       "name": "Nice Nature",
-      "text": "Me gustan las aguas termales, después<n>de todo.\n¡De hecho, me encantan!<n>Pensé que sería lindo\nrelajarme un<n>poco, ¿sabes?"
+      "text": "Me gustan las aguas termales, después de todo.<n> De\nhecho, ¡las adoro! Pensé que sería bueno<n> relajarse\nun poco, ¿me entiendes?"
     },
     {
       "name": "Nice Nature",
@@ -46,14 +44,14 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Wu—bueno, genial. Gracias."
+      "text": "¡Uy!— digo, genial. Gracias."
     },
     {
       "name": "Nice Nature",
-      "text": "Muy bien, entonces deberíamos<n>organizar los\nhorarios ahora.",
+      "text": "Muy bien, entonces deberíamos organizar<n> la agenda\nahora.",
       "choice_data_list": [
-        "¿Así que con quién vas a ir?",
-        "¿Así que con quién vas a ir?"
+        "¿Entonces con quién vas a ir?",
+        "¿Entonces con quién vas a ir?"
       ]
     },
     {
@@ -62,46 +60,41 @@
     },
     {
       "name": "Nice Nature",
-      "text": "¡Contigo, por supuesto! ¡¿Hola?!"
+      "text": "¡Contigo, por supuesto! ¡Hola?!"
     },
     {
       "name": "Nice Nature",
-      "text": "...Por fin.",
+      "text": "...Finalmente.",
       "choice_data_list": [
-        "Ese fue un viaje largo.",
-        "Ese fue un viaje largo."
+        "Fue un viaje largo.",
+        "Fue un viaje largo."
       ]
     },
     {
-      "name": "Monólogo",
-      "text": "Después de algo de planificación y<n>tiempo de\nviaje, finalmente<n>terminamos en las aguas\ntermales<n>juntos."
+      "text": "Después de algo de planificación y tiempo de<n>\nviaje, eventualmente nos encontramos en las <n>aguas\ntermales juntos."
     },
     {
       "name": "Nice Nature",
       "text": "..."
     },
     {
-      "name": "Monólogo",
-      "text": "Nice Nature actúa un poco incómoda.<n>Podría ser\nporque inicialmente no<n>entendí que me estaba\ninvitando aquí."
+      "text": "Nice Nature está actuando un poco torpe. <n>Podría\nser porque al principio no me di cuenta de que<n>\nella me estaba invitando aquí."
     },
     {
       "name": "Nice Nature",
-      "text": "Buenoo..."
+      "text": "Y..."
     },
     {
       "name": "Nice Nature",
-      "text": "Al parecer estas aguas termales tienen<n>muchos\nbeneficios para la salud. ¿Por<n>qué no nos\nremojamos un<n>rato?"
+      "text": "Al parecer, estas aguas termales tienen <n>muchos\nbeneficios para la salud. ¿Por qué no nos<n> damos un\nbaño rápido?"
     },
     {
-      "name": "Monólogo",
-      "text": "Remojándonos en las aguas termales..."
+      "text": "Bañándonos en las aguas termales..."
     },
     {
-      "name": "Monólogo",
-      "text": "Después de salir de las aguas<n>termales, estoy\nrelajándome en mi<n>habitación, cuando..."
+      "text": "Después de salir de las aguas termales, estoy\n<n>relajándome en mi habitación, cuando..."
     },
     {
-      "name": "Monólogo",
       "text": "<i>Toc, toc.</i>"
     },
     {
@@ -114,18 +107,18 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Emmm... El agua estuvo muy bien,<n>¿verdad?",
+      "text": "Ummm... El agua estaba muy buena,<n> ¿verdad?",
       "choice_data_list": [
-        "¿Te sientes rejuvenecida?"
+        "¿Te sientes renovado?"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "¡Por supuesto que sí! Me relajó hasta<n>el fondo."
+      "text": "¡Por supuesto! Me calmó hasta<n> el alma."
     },
     {
       "name": "Nice Nature",
-      "text": "¿Todo el estrés acumulado en mis<n>hombros y\nespalda? ¡Desapareció, así nomás!"
+      "text": "Todo el estrés acumulado en mis hombros<n> y espalda?\n¡Se fue, así de rápido!"
     },
     {
       "name": "Nice Nature",
@@ -137,7 +130,7 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Eso es bueno. Es bueno que<n>vinimos aquí...\n¿verdad?",
+      "text": "Qué bien. Es bueno que hayamos venido<n> aquí...\n¿verdad?",
       "choice_data_list": [
         "Sí. Gracias por invitarme.",
         "Sí. Gracias por invitarme."
@@ -149,39 +142,39 @@
     },
     {
       "name": "Nice Nature",
-      "text": "...No lo digas así.",
+      "text": "...No digas eso así.",
       "choice_data_list": [
         "¿Qué quieres decir?"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Podrías decir que tú también querías<n>venir aquí\nconmigo."
+      "text": "Podrías simplemente decir que también querías<n>\nvenir aquí conmigo."
     },
     {
       "name": "Nice Nature",
-      "text": "Podrías decir que tú también querías<n>venir aquí\nconmigo."
+      "text": "Podrías simplemente decir que también querías<n>\nvenir aquí conmigo."
     },
     {
       "name": "Nice Nature",
-      "text": "\"Gracias por invitarme\" suena como<n>que no te\nimporta si vinimos<n>juntos o no."
+      "text": "\"Gracias por invitarme\" suena como<n> si no te\nimportara si vinimos<n> juntos o no."
     },
     {
       "name": "Nice Nature",
-      "text": "Como... que solo a mí me importa.",
+      "text": "Como... soy la única que se preocupa.",
       "choice_data_list": [
-        "Eso no es lo que quise decir..."
+        "No era eso lo que quería decir..."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "No lo séée. Estás evitando el<n>contacto visual."
+      "text": "No sé yo~. Estás evitando el contacto<n> visual."
     },
     {
       "name": "Nice Nature",
-      "text": "...Da igual. Estoy siendo<n>extrañamente\npegajosa ahora. No te<n>culparía si piensas que\nsoy molesta—",
+      "text": "...Lo que sea. Estoy siendo extrañamente<n> pegajosa\nahora. No te culparía si piensas<n> que soy molesta—",
       "choice_data_list": [
-        "¡Ese definitivamente no es el caso!"
+        "¡Eso no es cierto en absoluto!"
       ]
     },
     {
@@ -190,7 +183,7 @@
     },
     {
       "name": "Nice Nature",
-      "text": "...Si tú lo dices.",
+      "text": "...Si tú lo dices~.",
       "choice_data_list": [
         "¿Qué debo hacer para que me creas?"
       ]
@@ -208,35 +201,35 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Me gustaría un trofeo blandengue."
+      "text": "Me gustaría un trofeo blandito."
     },
     {
       "name": "Nice Nature",
-      "text": "Digo, se supone que es una<n>recompensa por el\ntrabajo duro, ¿verdad?<n>Solo pensé que sería\nlindo tener<n>uno por un trabajo bien\nhecho..."
+      "text": "Quiero decir, se supone que es una recompensa<n> por\nel trabajo duro, ¿verdad? Solo pensé que <n>sería\nbueno tener uno por un trabajo bien <n>hecho en\ngeneral..."
     },
     {
       "name": "Nice Nature",
-      "text": "Así que... haz uno aquí mismo, ahora<n>mismo.\n¿Tienes una libreta o algo de<n>papel, verdad?",
+      "text": "Entonces... haz uno aquí mismo, ahora mismo.\n<n>¿Tienes una libreta o algo de papel, verdad?",
       "choice_data_list": [
-        "¿¡Delante de ti?!"
+        "¡¿Delante de ti?!"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "¿En dónde más?",
+      "text": "¿Dónde más?",
       "choice_data_list": [
         "Es un poco vergonzoso..."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "¿Ah sí? ¡Eso hace que quiera verlo<n>aún más!"
+      "text": "¿Ah, sí? ¡Eso me hace querer verlo<n> aún más!"
     },
     {
       "name": "Nice Nature",
-      "text": "Siempre soy yo la que muestra mi<n>lado\nvulnerable. ¿No crees que es<n>un poco injusto?",
+      "text": "Siempre soy yo la que muestra <n>mi lado vulnerable.\n¿No crees que es un poco<n> injusto?",
       "choice_data_list": [
-        "Está bien..."
+        "Vale..."
       ]
     },
     {
@@ -245,15 +238,13 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Bueno entonces, me sentaré a tu lado<n>y veré.\nEspero que estés listo para<n>hacer una obra\nmaestra."
+      "text": "Bueno, entonces me sentaré a tu lado y miraré.<n>\nEspero que estés listo para hacer <n>una obra\nmaestra."
     },
     {
-      "name": "Monólogo",
-      "text": "Con interrupciones ocasionales de<n>Nice Nature,\nle hago el trofeo que<n>pidió y se lo presento.\nEn cuanto a la<n>calidad... Bueno, la hizo\nreír, así que<n>lo consideraré un éxito."
+      "text": "Con las interrupciones ocasionales<n> de Nice Nature,\nle hago el trofeo<n> que pidió y se lo presento. En\ncuanto a <n>la calidad... Bueno, la hizo reír, así\nque <n>lo consideraré un éxito."
     },
     {
-      "name": "Monólogo",
-      "text": "Siento que Nice Nature y yo hemos<n>formado un\nvínculo irremplazable durante<n>nuestro tiempo\njuntos."
+      "text": "Siento que Nice Nature y yo hemos <n>formado un\nvínculo irremplazable durante nuestro<n> tiempo\njuntos."
     }
   ]
 }

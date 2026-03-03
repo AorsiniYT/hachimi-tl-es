@@ -2,197 +2,200 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "エイシンフラッシュ",
-      "text": "トレーナーさん、突然失礼します。\nテントウムシを見かけませんでした？",
+      "name": "Eishin Flash",
+      "text": "Disculpa las molestias, Entrenador,<n> pero ¿has\nvisto mariquitas por aquí?",
       "choice_data_list": [
-        "え、テントウムシ？"
+        "¿Mariquitas?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。正確にはナナホシテントウです。\n現在、畑にいたはずの数体が行方不明でして。"
+      "name": "Eishin Flash",
+      "text": "Sí. Mariquitas de siete puntos,<n> para ser exactos.\nLas que deberían estar<n> en el campo ahora han\ndesaparecido."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "テントウムシの管理を任された者として、\n聞き込み調査を行っています。",
+      "name": "Eishin Flash",
+      "text": "Como alguien encargada<n> de su manejo, estoy\ninvestigando<n> su paradero.",
       "choice_data_list": [
-        "テントウムシを、管理……！？"
+        "¡¿Estás manejando mariquitas?!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "個人的な趣味、と言ったところでしょうか。"
+      "name": "Eishin Flash",
+      "text": "Sí, pero es más un pasatiempo personal."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "わずかな気づきでも構いません。\n現在手掛かりが一切ない状態ですので。",
+      "name": "Eishin Flash",
+      "text": "Cualquier información sería muy<n> apreciada, ya que\nno tengo pistas en este<n> momento.",
       "choice_data_list": [
-        "手伝うよ"
+        "Yo ayudo."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "！　……よろしいのですか？"
+      "name": "Eishin Flash",
+      "text": "...¿Estás seguro?"
     },
     {
-      "text": "手分けして生徒に聞き込みを行ったところ、\n有力な情報を掴んだ。急ぎ現場へ向かうと――"
+      "name": "Monólogo",
+      "text": "Después de separarnos y preguntar por <n>la escuela,\nobtenemos información útil. <n>Inmediatamente salimos\na buscar las <n>mariquitas, pero..."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "あーもう！　ちょこまか動いて！\n小っちゃいくせに素早いんだから～……！"
+      "name": "Sweep Tosho",
+      "text": "¡Caray! ¡Quédate quieta ya! ¿Cómo eres tan pequeña<n>\ny a la vez tan rápida?!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "テントウムシ！\r\n大人しく魔法陣の中に止まってなさいよ！"
+      "name": "Sweep Tosho",
+      "text": "¡Escuchen, mariquitas! ¡Más les vale quedarse<n>\ndentro del círculo mágico si saben lo que les<n>\nconviene!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――そこまでです！\r\nその子たちを解放してください！"
+      "name": "Eishin Flash",
+      "text": "¡Oye! ¡Suelta a esas pobres criaturas!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "だ、だれ！？"
+      "name": "Sweep Tosho",
+      "text": "¿Q-quién eres tú?!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私たちは『テントウムシ管理の会』の者です。\n誘拐したテントウムシを返してください。",
+      "name": "Eishin Flash",
+      "text": "Somos miembros de la Asociación<n> de Manejo de\nMariquitas. Devuelve las <n>mariquitas que\nsecuestraste.",
       "choice_data_list": [
-        "（私“たち”！？）"
+        "<i>(<i>¡¿Nosotras?!</i>)</i>"
       ]
     },
     {
-      "name": "スイープトウショウ",
-      "text": "イヤよ！　この子たちを使って、\n今度こそ魔法を成功させるんだから。"
+      "name": "Sweep Tosho",
+      "text": "¡No! ¡Las necesito para que mi magia <n>funcione bien\nesta vez!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "ナナホシテントウと、七芒星の魔方陣！\nうまくいく気がするんだもんっ！"
+      "name": "Sweep Tosho",
+      "text": "¡Con estas mariquitas de siete puntos<n> y un círculo\nmágico de siete puntas, sé <n>que va a funcionar!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……テントウムシにすがりたくなる\nその気持ち、わかります。"
+      "name": "Eishin Flash",
+      "text": "...Entiendo el impulso de depender de las<n>\nmariquitas."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――私も父にテントウムシが\n『幸運の象徴』だと教わったばかりの頃は\nそうでした。"
+      "name": "Eishin Flash",
+      "text": "Yo hice exactamente lo mismo cuando mi<n> padre me\nenseñó que eran símbolos de buena<n> suerte."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "Como pedir una torta con motivos de mariquita.\nSchulranzen……\nO pulir el broche de mi mochila escolar."
+      "name": "Eishin Flash",
+      "text": "Solía pedir pasteles con forma de mariquita<n> y\npulir los amuletos de mariquita pegados a mi<n>\nSchulranzen... mi mochila escolar..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "しかし――あくまでそれは、象徴。"
+      "name": "Eishin Flash",
+      "text": "Pero al final, me di cuenta de que solo<n> eran un\nsímbolo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "この背中を押してくれるものであって、\r\n行動するのは私自身なのだと\n父は教えてくれました。"
+      "name": "Eishin Flash",
+      "text": "Mi padre me enseñó que, aunque las mariquitas<n>\npueden dar un impulso moral, solo yo puedo<n>\ncontrolar mi propia vida."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "なにかを得ようとするのであれば、\n自分の力で掴み取るべき。だって――"
+      "name": "Eishin Flash",
+      "text": "Si hay algo que quiero lograr, debo <n>hacerlo con\nmis propios esfuerzos. Dicho<n> esto..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "スイープさん。誰かに叶えてもらったとして、\nそれを自分の成果だと本当に喜べますか？"
+      "name": "Eishin Flash",
+      "text": "Permíteme preguntarte algo. ¿De verdad<n> puedes\nsentir alegría por un logro <n>que no es tuyo?"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "……！"
+      "name": "Sweep Tosho",
+      "text": "...!"
     },
     {
-      "name": "スイープトウショウ",
-      "text": "うううっ……ううう～～～……。"
+      "name": "Sweep Tosho",
+      "text": "Urgh... Nnngh..."
     },
     {
-      "name": "スイープトウショウ",
-      "text": "もう、わかったわよ！　返せばいいんでしょ！\n魔法は自分の力で成功させてやるわ！"
+      "name": "Sweep Tosho",
+      "text": "¡Está bien, ya está! ¡Te las devolveré <n>si las\nquieres tanto! ¡Haré que la magia <n>funcione por mi\ncuenta!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "一件落着、ですね。",
+      "name": "Eishin Flash",
+      "text": "Todo bien cuando termina bien.",
       "choice_data_list": [
-        "解決おめでとう"
+        "Felicidades por resolverlo."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "想定よりも5分53秒早く解決しました。\nトレーナーさんと手分けしたおかげです。"
+      "name": "Eishin Flash",
+      "text": "La situación se resolvió cinco minutos,<n> cincuenta\ny tres segundos antes<n> de lo previsto. Tu\nasistencia resultó<n> invaluable."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "それに……。"
+      "name": "Eishin Flash",
+      "text": "Por cierto..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……トレーナーさん、よろしければ\n『テントウムシ管理の会』に入会しませんか？",
+      "name": "Eishin Flash",
+      "text": "¿Te interesaría unirte a la Asociación<n> de Manejo\nde Mariquitas?",
       "choice_data_list": [
-        "……え？"
+        "Eh..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "テントウムシに、あれだけ奔走できるなんて\n素質があると思うのです。"
+      "name": "Eishin Flash",
+      "text": "Tu disposición a dejar todo y actuar<n> por el bien\nde las mariquitas es una<n> cualidad admirable."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そんな方と共にできれば、私も心強いですし。\n無論トレーニングに影響は出しませんので。",
+      "name": "Eishin Flash",
+      "text": "Tener a alguien como tú entre nuestras <n>filas sería\nde gran ayuda. Por supuesto, me aseguraré<n> de que\nninguna de nuestras actividades con mariquitas<n>\nafecte mi entrenamiento.",
       "choice_data_list": [
-        "体力がもたないかも……",
-        "力になれるなら！"
+        "No sé si tendré la energía...",
+        "¡Si de verdad crees que puedo ayudar, claro!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……なるほど。\nトレーナー業との副業となると、確かに。"
+      "name": "Eishin Flash",
+      "text": "...Lo entiendo. Asumir otro trabajo <n>además de tus\ndeberes actuales como <n>entrenadora ciertamente\nsería agotador."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "では、まずは知識をつけるところから\n始めましょう。",
+      "name": "Eishin Flash",
+      "text": "Podemos comenzar construyendo tu <n>conocimiento\neducativo sobre mariquitas, <n>entonces.",
       "choice_data_list": [
-        "……え？"
+        "Eh..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "Aller Anfang ist schwer……\r\nEl comienzo siempre es difícil. Pero,\nuna vez que lo dominas, puedes ver un mundo diferente."
+      "name": "Eishin Flash",
+      "text": "Aller Anfang ist schwer—todos los comienzos<n> son\ndifíciles. Sin embargo, una vez que empieces,<n> un\nmundo completamente nuevo será tuyo."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "Ahora que tengo conocimiento,\nsiguiente paso es desarrollar mi condición física\npara igualar el vuelo de la mariquita a 30 km/h.",
+      "name": "Eishin Flash",
+      "text": "Después de que hayamos aumentado tu conocimiento<n>\nsobre ellas, comenzaremos a entrenarte para que<n>\ncorras a treinta kilómetros por hora, la misma\n<n>velocidad a la que vuelan las mariquitas.",
       "choice_data_list": [
-        "¡¿30 km/h!?"
+        "¡¿Treinta kilómetros por hora?!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ご安心を。テントウムシは基本地域に根差す\n傾向にあるため移動距離は短いですし――"
+      "name": "Eishin Flash",
+      "text": "No temas. Las mariquitas tienden a favorecer<n> un\nlugar específico, por lo que sus rutas de\nmigración<n> son bastante cortas—"
     },
     {
-      "text": "生き生きとテントウムシについて語る\n彼女を止めるのも忍びなく……定期的に\nテントウムシ講座を聞くことになるのだった。"
+      "name": "Monólogo",
+      "text": "No puedo evitar detenerla con lo emocionada<n> que se\nve mientras suelta datos <n>sobre mariquitas... así\nque termino escuchando<n> sus conferencias\nregularmente."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "もちろんです。\nでは早速、他のメンバーに報告を。"
+      "name": "Eishin Flash",
+      "text": "Por supuesto. Informaré a las otras <n>miembros de\ninmediato."
     },
     {
-      "name": "エアグルーヴ",
-      "text": "ほう？　この会に入会を希望するとは。\nなかなか見どころがあるではないか。"
+      "name": "Air Groove",
+      "text": "¿Oh? ¿Te interesa unirte<n> a esta asociación? Tienes\nbuen<n> gusto."
     },
     {
-      "name": "エアグルーヴ",
-      "text": "テントウムシは、日夜、畑や花壇の花々を\n守ってくれている益虫。"
+      "name": "Air Groove",
+      "text": "Las mariquitas son insectos beneficiosos<n> que\nprotegen campos y macizos de flores día<n> y noche."
     },
     {
-      "name": "エアグルーヴ",
-      "text": "そのテントウムシを守るということは、\n学園の環境を守る事にも繋がるからな。"
+      "name": "Air Groove",
+      "text": "Por lo tanto, protegerlas es una parte vital<n> de\nproteger la academia en su totalidad."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "学園のため、テントウムシのため。\r\n共に頑張りましょう。"
+      "name": "Eishin Flash",
+      "text": "Hagamos todo lo posible por la academia y<n> por las\nmariquitas."
     },
     {
-      "text": "その後、エイシンフラッシュと定期的に\nテントウムシの見回りを行うように\nなるのであった。"
+      "name": "Monólogo",
+      "text": "Desde ese momento, me uno a Eishin Flash en<n>\npatrullas regulares por el campus para<n> revisar a\nlas mariquitas."
     }
   ]
 }

@@ -1,159 +1,165 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "text": "街を歩いていた時のこと。\r\nライスシャワーたちと会って、話をした。"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "いまからプリザーブドフラワーの\r\n材料を買いにいくところなんだ……！"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "お花さんも綺麗に咲いてくれたし、\r\n作るの楽しみだなぁ……！"
-    },
-    {
-      "name": "ハルウララ",
-      "text": "あっ、ねえねえ、あそこ！\r\nなんかキレイな人たちが集まってるよ！"
-    },
-    {
-      "name": "ゼンノロブロイ",
-      "text": "本当ですね。みなさん、着物やドレスで\r\n着飾って……結婚式でしょうか？"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "結婚式……！\r\nいいなぁ、お式見たいなぁ……！"
-    },
-    {
-      "name": "ゼンノロブロイ",
-      "text": "幸せな2人を祝福する“ライスシャワー”\r\n……ですもんね！"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "え、えへへ……\r\nロブロイさんったら……！"
-    },
-    {
-      "name": "式場のスタッフ",
-      "text": "ええっ！？\r\nブーケが届かない！？"
-    },
-    {
-      "text": "式場スタッフの慌てる声が聞こえる。\r\nブーケが届かないトラブルが起き、代わりを\n手配しようとしたが都合がつかないようだ。"
-    },
-    {
-      "name": "ゼンノロブロイ",
-      "text": "結婚式なのに……\r\nお花がないなんて……。"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "どうしよう、ライスのせいだ……\r\nライスがここにいたから、\n結婚式がだめになっちゃったんだ……！"
-    },
-    {
-      "name": "ハルウララ",
-      "text": "うーん、お花かー。\r\nたくさんないとダメなんだよね？"
-    },
-    {
-      "name": "ゼンノロブロイ",
-      "text": "ブーケですからね。\r\nある程度は必要になると思います……ですが、\nそんな急に用意できるものでは……。"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "…………！"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "……ううん、ライス持って来られるよ！"
-    },
-    {
-      "name": "ハルウララ",
-      "text": "ほえっ？　ライスちゃん！？\r\nどこ行くのー！？"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "はぁ……はぁっ……！"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "あのっ、す、すみません……！\r\nお花、よければ、これを……！"
-    },
-    {
-      "text": "ライスシャワーは、両腕いっぱいに抱えた\r\n花々を、式場の人に渡した。"
-    },
-    {
-      "name": "ゼンノロブロイ",
-      "text": "ライスさん、そのお花たちは……\r\nもしかして……。",
-      "choice_data_list": [
-        "プリザーブドフラワー用じゃないのか？",
-        "プリザーブドフラワー用じゃないの？"
-      ]
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "いいの、使ってください！\r\n結婚式が不幸なままなんて、イヤだから……！"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "ライスのお花で誰かが幸せになるなら、\r\nそれが1番、うれしいから……！"
-    },
-    {
-      "name": "式場の人",
-      "text": "ありがとうございます……。\r\nこれで、予定通りに結婚式ができます！"
-    },
-    {
-      "text": "無事に、結婚式は開かれることになった。\r\nライスシャワーたちは恩人として、\n式に招かれたのであった。"
-    },
-    {
-      "name": "ゼンノロブロイ",
-      "text": "いよいよブーケトスですね……！"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "わぁぁ、なんだか\r\nライスが緊張してきちゃった……！"
-    },
-    {
-      "text": "幸せいっぱいのブーケが投げられた。\r\nそれは空高く舞い上がり――"
-    },
-    {
-      "name": "カラス",
-      "text": "カァーカァー……パクッ！"
-    },
-    {
-      "name": "ハルウララ",
-      "text": "わあ～！　カラスさんが\r\nブーケゲットしちゃった！"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "どっ……どうしよう……！\r\nライスが、ライスがいたからぁ～！"
-    },
-    {
-      "name": "ハルウララ",
-      "text": "うん！　ライスちゃんがいたからだね！\r\nお空みて、すっごいキレー！"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "……？"
-    },
-    {
-      "text": "空から花が降ってくる。\r\nカラスがくわえたブーケがほどけ、\n花が降り注いでいるようだ……。"
-    },
-    {
-      "name": "ゼンノロブロイ",
-      "text": "フラワーシャワー……\r\n今日という日にぴったりの演出ですね。"
-    },
-    {
-      "name": "ハルウララ",
-      "text": "やったね！\r\nみーんなに幸せのおすそ分けだね！"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "……っ！　よかったぁ……。\r\nやっと、みんなを笑顔にできた……！"
-    },
-    {
-      "name": "ライスシャワー",
-      "text": "……どうか、みんなが、ずっと、ずうっと。\r\n幸せでありますように。"
-    },
-    {
-      "name": "ゼンノロブロイ",
-      "text": "……こうして、幸せの花は人々に\r\nいつまでも笑顔をもたらし続けたのでした。\nめでたしめでたし、ですね。"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Mientras paseo por la ciudad, me encuentro<n> con\nRice Shower y sus amigas, y <n>entablamos una\nconversación."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Estamos en camino a comprar las cosas que\n<n>necesitamos para hacer flores preservadas!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Las flores están floreciendo tan hermosas <n>ahora\nmismo, que no puedo esperar para preservarlas!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "¡Oh! ¡Mira allí! ¡Hay un grupo entero<n> de personas\nhermosas!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Tienes razón. Se ven tan elegantes <n>con sus kimonos\ny vestidos... ¿Quizás es<n> una boda?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Una boda! ¡Ay, me encantaría ver la<n> ceremonia!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "¿Y cómo celebras la alegría de los <n>recién casados?\n¡Con una lluvia de arroz!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Jeje... ¡Oh, Rob Roy!"
+        },
+        {
+            "name": "Empleado de la Boda",
+            "text": "¿¡Qué?! ¡El ramo no va a llegar?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Escuchamos las voces angustiadas<n> del personal de\nla boda. Parece que ha<n> habido un problema con la\nentrega<n> del ramo, y no pueden organizar<n> un\nreemplazo."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "No puedes tener una boda sin<n> flores..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh no, es toda mi culpa... ¡Mi presencia<n> ha\narruinado la boda!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hmm, flores, ¿eh? Van a necesitar<n> un montón,\n¿verdad?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Sí, es un ramo, así que necesitarían<n> bastantes. No\nsé cómo podrías encontrar<n> tantas en tan poco\ntiempo, sin<n> embargo."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Puedo conseguir las flores que necesitan!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "¿¡Qué?! ¡Rice! ¿¡A dónde vas?!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Jadeando... Resoplando...</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eh, e-¡disculpe! ¡Por favor, tome <n>estas flores!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Rice Shower le entrega al miembro del personal<n> de\nla sala de bodas un enorme brazo lleno<n> de flores."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Rice, ¿esas flores...?",
+            "choice_data_list": [
+                "¿No eran esas las flores que ibas a preservar?",
+                "¿No eran esas las flores que ibas a preservar?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Está bien! ¡Por favor, tómalas! ¡No me gusta<n> la\nidea de que una boda sea maldecida con<n> mala\nsuerte!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Nada me haría más feliz que mis<n> flores lleven\nalegría a otros!"
+        },
+        {
+            "name": "Empleado de la Boda",
+            "text": "Muchas gracias... ¡Ahora podemos llevar a<n> cabo la\nboda como estaba planeado!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Rice Shower y las demás son <n>invitadas a la boda\ncomo agradecimiento<n> por salvar el día, y todo sale<n>\nperfectamente."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "¡Es hora del lanzamiento del ramo!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Oh cielos! ¡Ahora estoy poniéndome nerviosa!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "El ramo lleno de alegría es lanzado, y <n>mientras se\neleva por el aire..."
+        },
+        {
+            "name": "Cuervo",
+            "text": "¡Croac, <i>croac! <i>¡CRUNCH!</i>"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "¡Wow! ¡Un cuervo atrapó el ramo!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¿Q-qué debemos hacer?! ¡Es mi culpa por<n> estar\naquí!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Sí, esta es por tu culpa, Rice! ¡Mira hacia<n> el\ncielo! ¡Es tan hermoso!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Las flores llueven del cielo. Con el<n> ramo\nsoltándose en la boca del cuervo, <n>los pétalos caen\nen lluvia..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Una lluvia de pétalos... Esto es tan perfecto <n>para\nun día como hoy."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "¡Yay! ¡Felicidad para todos!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Me alegra tanto haber logrado poner una sonrisa<n>\nen los rostros de todos al final!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Realmente, de verdad espero que todos encuentren\n<n>felicidad duradera."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "...Y así las alegres flores continúan <n>trayendo\nsonrisas a todos. Un final feliz,<n> en efecto."
+        }
+    ]
 }

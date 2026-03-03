@@ -2,375 +2,390 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "ある日のトレーニング終わりに、\n商店街で買い物をした後――"
+      "name": "Monólogo",
+      "text": "Un día, después de entrenar y comprar <n>algunas\ncosas en el distrito comercial..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……福引会場は、\nこちらみたいですね。"
+      "name": "Eishin Flash",
+      "text": "Parece que hay un puesto de rifa por<n> aquí."
     },
     {
-      "name": "商店街の人",
-      "text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！"
+      "name": "Vendedor de la rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa<n> de\nAño Nuevo! ¡El gran premio de este año es unas<n>\nvacaciones en aguas termales para dos!"
     },
     {
-      "name": "商店街の人",
-      "text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！"
+      "name": "Vendedor de la rifa",
+      "text": "¡Los ganadores del primer premio reciben un filete\nde <n>hamburguesa de zanahoria de lujo! ¡Los\nganadores del segundo<n> premio reciben un haz de\nzanahorias! Y los ganadores del<n> tercer premio\npueden llevarse a casa una sola zanahoria!"
     },
     {
-      "name": "商店街の人",
-      "text": "さあさ、楽しい楽しい福引だよ！\nどなたでもどうぞ～！"
+      "name": "Vendedor de la rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue<n> un\nboleto ahora y gira para tener la <n>oportunidad de\nganar!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "まさかノートのおまけに\n福引券がついてくるとは……。",
+      "name": "Eishin Flash",
+      "text": "No esperaba recibir un boleto de rifa <n>junto con mi\ncompra del cuaderno...",
       "choice_data_list": [
-        "この後のスケジュールは大丈夫？"
+        "¿Tienes tiempo en tu horario?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "移動時間を短縮すれば問題ないです。\nなにより――"
+      "name": "Eishin Flash",
+      "text": "Si aumentamos nuestra velocidad al caminar<n> a casa,\nno debería haber problema.<n> Sobre todo..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "両親へのお土産話の機会を、\n逃す手はありません。"
+      "name": "Eishin Flash",
+      "text": "No puedo perder esta oportunidad para una <n>historia\ninteresante que contarles a mis padres."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "日本独自の運試し、福引――\n私になにをもたらすのか、楽しみです。"
+      "name": "Eishin Flash",
+      "text": "Estoy emocionada de ver qué esta forma<n> japonesa de\nprobar la suerte en una rifa me tiene<n> reservado."
     },
     {
-      "name": "商店街の人",
-      "text": "お嬢ちゃんの狙いは？"
+      "name": "Vendedor de la rifa",
+      "text": "¿Qué te ha llamado la atención, joven?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ノート1冊分と釣り合う対価を考えれば……\nにんじん1本でしょうか。"
+      "name": "Eishin Flash",
+      "text": "Si consideramos qué premio sería <n>equivalente en\nvalor con mi cuaderno, <n>entonces supongo que sería\nla zanahoria <n>individual."
     },
     {
-      "name": "商店街の人",
-      "text": "ええっ、珍しいなぁアンタ！？"
+      "name": "Vendedor de la rifa",
+      "text": "¡¿En serio?! No veo muchas personas como <n>tú, ¡eso\nes seguro!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "運試しは、体験を楽しむものと\n考えていますので。では、回しますね。"
+      "name": "Eishin Flash",
+      "text": "Creo que las pruebas de suerte como esta <n>son más\nsobre disfrutar la experiencia que <n>el premio.\nAhora, aquí voy."
     },
     {
-      "text": "エイシンフラッシュが緊張した面持ちで\n抽選器のレバーを回した！"
+      "name": "Monólogo",
+      "text": "Eishin Flash hace girar el tambor con una<n>\nexpresión tensa en su rostro."
     },
     {
-      "text": "その結果は――"
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de <n>la abertura\ndel tambor..."
     },
     {
-      "name": "商店街の人",
-      "text": "なんとっ！　おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！"
+      "name": "Vendedor de la rifa",
+      "text": "¡Santo bacalao! ¡Tenemos una ganadora<n> del gran\npremio! ¡Ven a recoger el cupón<n> para tus\nvacaciones en aguas termales!<n> ¡Felicitaciones!"
     },
     {
-      "text": "Obtuviste 『<itemname>』"
+      "name": "Monólogo",
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "温泉……！"
+      "name": "Eishin Flash",
+      "text": "¡Las vacaciones en aguas termales!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "まあ……！",
+      "name": "Eishin Flash",
+      "text": "¡Increíble!",
       "choice_data_list": [
-        "おめでとう！"
+        "¡Felicitaciones!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい……ですが、いいのでしょうか。\n本当に頂いてしまって……？"
+      "name": "Eishin Flash",
+      "text": "Gracias... Pero ¿esto es aceptable? <n>¿Debería\nrealmente tomarlo?"
     },
     {
-      "name": "商店街の人",
-      "text": "嬢ちゃんがあんまり謙虚だから、きっと\n神さまがサービスしてくれたのさ。\nもらわなきゃ損だよ！"
+      "name": "Vendedor de la rifa",
+      "text": "Estoy seguro de que la suerte te <n>sonrió hoy porque\neres tan humilde. ¡No<n> deseches esa suerte!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……。\nでは、ありがたく頂きます。"
+      "name": "Eishin Flash",
+      "text": "Tienes razón. Entonces acepto esto con <n>gratitud."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――ふふ、温泉……。",
+      "name": "Eishin Flash",
+      "text": "Hehe. Aguas termales...",
       "choice_data_list": [
-        "好きなんだ？"
+        "¿Te gustan?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "はい。実はドイツも、日本同様\n温泉大国なんですよ。",
+      "name": "Eishin Flash",
+      "text": "Me gustan. De hecho, Alemania es igualmente<n>\nreconocida por sus aguas termales como Japón.",
       "choice_data_list": [
-        "へえ～！"
+        "¡No tenía idea!"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "日本のものより温度が低いので、\r\n湯あたりせず1日中楽しめます。"
+      "name": "Eishin Flash",
+      "text": "La temperatura es más baja que las <n>de aquí, así\nque es posible pasar un día <n>completo relajándose\nen el baño."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "けれど、日本に来てからは\nなかなか行く機会がありませんでした。"
+      "name": "Eishin Flash",
+      "text": "Desafortunadamente, no he tenido<n> la oportunidad de\nvisitar una desde que llegué<n> a Japón."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "だから……素直に嬉しいです。",
+      "name": "Eishin Flash",
+      "text": "Así que... Estoy genuinamente feliz por esto.",
       "choice_data_list": [
-        "じゃあのんびり浸かりたいな",
-        "じゃあのんびり浸かりたいね"
+        "Será bueno relajarse y sumergirse en uno,\nentonces.",
+        "Será bueno relajarse y sumergirse en uno,\nentonces."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "のんびり……。"
+      "name": "Eishin Flash",
+      "text": "Relájate..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……トレーナーさん。\nこの券ですが、預かっていただいても？",
+      "name": "Eishin Flash",
+      "text": "Entrenador, ¿puedo confiarte <n>el cupón?",
       "choice_data_list": [
-        "どうして？"
+        "¿Por qué es eso?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "当然ながら、直近のスケジュールには\n入れることができません。"
+      "name": "Eishin Flash",
+      "text": "Ay, no hay espacio en mi horario para un viaje<n> a\naguas termales en este momento."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "そうですね……全てが終わって来年、\nであれば余裕もありそうです。"
+      "name": "Eishin Flash",
+      "text": "Déjame pensar... Después de que todo <n>termine el\npróximo año, debería tener suficiente<n> margen para\nir."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "とはいえ、今の私ではオレンジ色のペンで\r\n『温泉旅行』とスケジュール帳に書けません。"
+      "name": "Eishin Flash",
+      "text": "Dicho esto, no puedo escribirlo en mi <n>horario con\ntinta naranja como soy ahora."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "ですから、全ての予定を終えた時。\r\nトレーナーさんから渡していただけませんか？",
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, ¿podrías dármelo de vuelta<n> una vez\nque todo haya concluido?",
       "choice_data_list": [
-        "わかった"
+        "Claro."
       ]
     },
     {
-      "text": "こうして、『温泉旅行券』は\n自分が預かることになった。",
+      "name": "Monólogo",
+      "text": "Y así es como el boleto de vacaciones en<n> aguas\ntermales llegó a mi posesión.",
       "choice_data_list": [
-        "ちなみにオレンジ色のペンって？"
+        "A propósito, ¿por qué tinta naranja\nespecíficamente?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "楽しみにしているスケジュールは、\nオレンジ色で書くようにしているんです。",
+      "name": "Eishin Flash",
+      "text": "Cuando es para algo que estoy <n>esperando en mi\nhorario, lo escribo en<n> naranja.",
       "choice_data_list": [
-        "それはドイツの文化？"
+        "¿Es eso parte de la cultura alemana?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……いえ、昔からの私の習慣です。",
+      "name": "Eishin Flash",
+      "text": "No, es solo un hábito mío desde la primera<n>\ninfancia.",
       "choice_data_list": [
-        "そうなんだ……"
+        "Ya veo..."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……トレーナーさん、笑っていますね？\nオレンジ色だとおかしいですか？",
+      "name": "Eishin Flash",
+      "text": "Puedo decir que te estás riendo. ¿El naranja <n>es un\ncolor extraño?",
       "choice_data_list": [
-        "色分けしているのが可愛いなと"
+        "No, solo creo que es lindo cómo codificas con\ncolores tu horario."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……！"
+      "name": "Eishin Flash",
+      "text": "...!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……今度、トレーナーさんも試してください。\r\nいかに合理的な判断か理解できますから。"
+      "name": "Eishin Flash",
+      "text": "Por favor, pruébalo por ti mismo<n> alguna vez.\nEntenderás lo racional<n> que es esta decisión\nconsciente una vez<n> que lo hagas."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "いいですか、スケジュールはかなり\n子細に書くものです。文字や線が\n密集する、その中で色分けすることは――"
+      "name": "Eishin Flash",
+      "text": "Debes entender—los horarios están<n> destinados a ser\nescritos en minucioso <n>detalle. Al categorizar todo\ncon colores, <n>la información—"
     },
     {
-      "text": "……こうして帰り道は最終的に、\nエイシンフラッシュによる\nスケジュール作成講座になったのだった。"
+      "name": "Monólogo",
+      "text": "...La charla de Eishin Flash sobre los pormenores<n>\nde la elaboración de horarios dura todo el <n>camino\na casa."
     },
     {
-      "name": "商店街の人",
-      "text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！"
+      "name": "Vendedor de la rifa",
+      "text": "¡Parece que tenemos otro ganador del primer<n>\npremio! ¡Felicitaciones! ¡Obtienes un filete<n> de\nhamburguesa de zanahoria de lujo!"
     },
     {
-      "text": "Obtuviste 『<itemname>』"
+      "name": "Monólogo",
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "なんと、美味しそうですね……。",
+      "name": "Eishin Flash",
+      "text": "Se ve más delicioso de lo que esperaba...",
       "choice_data_list": [
-        "ハンバーグは好き？"
+        "¿Te gustan los filetes de hamburguesa?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "もちろんです。なんといっても、\nドイツ発祥の料理ですから！"
+      "name": "Eishin Flash",
+      "text": "Pero por supuesto. ¡El plato se originó en\n<n>Alemania, después de todo!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "その分、味には厳しいと思います。\n特上と名乗るほどの味わい、評価しましょう。"
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, me siento con derecho a criticar<n> el\nsabor. Descubramos si es digno de ser<n> llamado un\nfilete de hamburguesa \"de<n> lujo\"."
     },
     {
-      "text": "そして、後日――"
+      "name": "Monólogo",
+      "text": "Unos días después..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "――……はむ。もぐ、もぐ……。"
+      "name": "Eishin Flash",
+      "text": "<i>Ñam, ñam...</i>"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……！\n美味しい！"
+      "name": "Eishin Flash",
+      "text": "<i>...¡Sí <i>es</i> delicioso!"
     },
     {
-      "text": "日本のハンバーグは、見事\n100点満点中100点をたたき出した。"
+      "name": "Monólogo",
+      "text": "Ella le da a los filetes de hamburguesa de Japón\n<n>una puntuación perfecta."
     },
     {
-      "name": "商店街の人",
-      "text": "2等賞～！！\n賞品は『にんじん山盛り』です！"
+      "name": "Vendedor de la rifa",
+      "text": "¡Tenemos un ganador del segundo premio! <n>¡Es tu día\nde suerte! ¡Te vas a casa con<n> un haz de\nzanahorias!"
     },
     {
-      "text": "Obtuviste 『<itemname>』"
+      "name": "Monólogo",
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……La verdad, esto sí que es una montaña."
+      "name": "Eishin Flash",
+      "text": "...Esto es publicidad veraz, veo. ¿Cuántos<n>\nkilogramos es esto, exactamente?"
     },
     {
-      "name": "商店街の人",
-      "text": "さあ……箱いっぱいに詰めたから\nわかんねぇなぁ。"
+      "name": "Vendedor de la rifa",
+      "text": "Ni idea... Todo lo que sé es que la caja <n>está\nllena, así que tu suposición es tan buena como<n> la\nmía."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……採算度外視というわけですね。\nその気持ちには、報いねばなりません。"
+      "name": "Eishin Flash",
+      "text": "Ellos ignoraron por completo sus márgenes <n>de\nganancia con estos premios. Bueno, debo\n<n>corresponder esa buena voluntad."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "決めました。\nリューブリトルテを作りましょう。",
+      "name": "Eishin Flash",
+      "text": "Sé exactamente qué hacer. Haré pastel de<n> zanahoria\nsuizo con estas.",
       "choice_data_list": [
-        "リューブリトルテ？"
+        "¿Qué es el pastel de zanahoria suizo?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "スイスのにんじんケーキです。\nにんじんの味が際立って美味しいんですよ。"
+      "name": "Eishin Flash",
+      "text": "Un delicioso pastel de zanahoria suizo. El <n>sabor\nde la zanahoria en él es rico y delicioso."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "バターを使わないアレンジレシピを、\n以前両親から教わったことがあります。"
+      "name": "Eishin Flash",
+      "text": "Mis padres me enseñaron una receta para<n> él que no\nrequiere mantequilla."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "私たちでは食べきれないでしょうし、\nここは――"
+      "name": "Eishin Flash",
+      "text": "Sin embargo, no podemos comerlo todo nosotros<n>\nmismos. Así que para remediar eso..."
     },
     {
-      "name": "ヒシアケボノ",
-      "text": "――フラッシュさん、\nオーブン用意できたよ～♪"
+      "name": "Hishi Akebono",
+      "text": "Flash, ¡el horno está listo! ♪"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "こちらも生地を準備できました。\nでは4ホールずつ焼き上げていきましょう。"
+      "name": "Eishin Flash",
+      "text": "La masa también está completa. Horneemos <n>cuatro\npasteles enteros a la vez."
     },
     {
-      "text": "後日、寮の子たちと焼き上げたという\r\nにんじんケーキをお裾分けしてもらい――\nその美味しさを堪能したのだった。"
+      "name": "Monólogo",
+      "text": "Algún tiempo después, Eishin Flash hornea y\n<n>comparte un montón de pasteles con sus compañeras<n>\nde dormitorio—y ellas hablan maravillas de ello<n>\ndurante días después."
     },
     {
-      "name": "商店街の人",
-      "text": "3等賞～！\n賞品は『にんじん1本』です！"
+      "name": "Vendedor de la rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer<n> premio! ¡Aquí\nestá tu zanahoria!"
     },
     {
-      "text": "Obtuviste 『<itemname>』"
+      "name": "Monólogo",
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "狙い通りですね。\n素晴らしい結果です。"
+      "name": "Eishin Flash",
+      "text": "Justo lo que quería. Qué gran resultado."
     },
     {
-      "name": "商店街の人",
-      "text": "やっぱり珍しい子だねぇ、嬢ちゃん……。"
+      "name": "Vendedor de la rifa",
+      "text": "Seguro que eres una en un millón,<n> joven..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "あの、こちらのにんじんですが、\n1番活かせるレシピをご存じでしょうか？"
+      "name": "Eishin Flash",
+      "text": "Disculpe, pero ¿conoce alguna buena<n> receta para\nesta zanahoria?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "半端な分量になってしまう作り方しか、\n今は思い浮かばないんです。"
+      "name": "Eishin Flash",
+      "text": "En este momento, no puedo pensar<n> en una que la use\nen su totalidad."
     },
     {
-      "name": "商店街の人",
-      "text": "おっ！　ならうちの母ちゃん呼ぶか！\r\nおおい、母ちゃーん！"
+      "name": "Vendedor de la rifa",
+      "text": "¡Oh! ¡Mi mamá sabrá seguro! ¡HEEEY,<n> MAAA!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "えっ？　いえ、\nそこまでしていただかなくても――"
+      "name": "Eishin Flash",
+      "text": "¿Qué? Por favor, no necesitas ir tan lejos—"
     },
     {
-      "name": "商店街の女性",
-      "text": "はいはい、聞こえてたよ！\nええと、にんじんのレシピね！"
+      "name": "Vendedora de la rifa",
+      "text": "¡Oh, escuché tu pregunta, no te <n>preocupes! Quieres\npreparar algo agradable<n> con esa zanahoria,\n¿verdad?"
     },
     {
-      "name": "商店街の女性",
-      "text": "ちょうどさっき作ったものがあるから、\n奥へ上がって試食していきなさいな！"
+      "name": "Vendedora de la rifa",
+      "text": "Justo había preparado <n>algo antes, así que ¿por qué<n>\nno vienes y pruebas un <n>poco?"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "えっ、ええ……？"
+      "name": "Eishin Flash",
+      "text": "¿Q-qué?"
     },
     {
-      "name": "商店街の女性",
-      "text": "習うより慣れろっていうでしょ？\n意味違う？　あははっ！"
+      "name": "Vendedora de la rifa",
+      "text": "Como dicen, la experiencia es la mejor<n> maestra.\n¿Verdad? ¡Jajaja!"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "トレーナーさん……。",
+      "name": "Eishin Flash",
+      "text": "¿Qué debería hacer, Entrenador?",
       "choice_data_list": [
-        "ご厚意に甘えよう"
+        "Acepta su oferta."
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……では、よろしくお願いいたします……？"
+      "name": "Eishin Flash",
+      "text": "...Muy bien. Espero tu... <n>¿lección?"
     },
     {
-      "text": "こうして、商店街の方から愛情たっぷりに\n料理を教わるエイシンフラッシュだった。"
+      "name": "Monólogo",
+      "text": "Y así, Eishin Flash recibe una lección de<n> cocina\nsincera de la amable señora."
     },
     {
-      "name": "商店街の人",
-      "text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。"
+      "name": "Vendedor de la rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste<n> un blanco!\nToma este paquete de pañuelos como<n> premio de\nconsolación."
     },
     {
-      "text": "Obtuviste 『<itemname>』"
+      "name": "Monólogo",
+      "text": "Obtuviste:<n> <itemname>"
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……。"
+      "name": "Eishin Flash",
+      "text": "..."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "Pechvogel……así soy, yo.",
+      "name": "Eishin Flash",
+      "text": "Qué persona con mala suerte soy...",
       "choice_data_list": [
-        "ぺ……なに？"
+        "¿Qué significa eso?"
       ]
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "かわいそうな人、という意味です。"
+      "name": "Eishin Flash",
+      "text": "Significa \"una persona con mala suerte\"."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "……はずれを引くことは、\r\n確率的にはあり得る。"
+      "name": "Eishin Flash",
+      "text": "Ganar un premio de consolación <n>estaba bien dentro\nde lo posible."
     },
     {
-      "name": "エイシンフラッシュ",
-      "text": "頭では理解しているのですが……。"
+      "name": "Eishin Flash",
+      "text": "Sin embargo, a pesar de entenderlo\ncompletamente..."
     },
     {
-      "text": "理解することと納得することは違う。\n落ち込んでしまうエイシンフラッシュだった。"
+      "name": "Monólogo",
+      "text": "Entender algo y aceptar algo es<n> muy diferente.\nEishin Flash está <n>claramente desilusionada."
     }
   ]
 }

@@ -3,18 +3,18 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Un día, después de que Oguri Cap<n>tiene varias\nvictorias en su haber..."
+      "text": "Un día, después de que Oguri Cap tenga<n> varias\nvictorias en su haber..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Oye, tengo una idea. Vamos a un<n>onsen.",
+      "text": "Oye, tengo una idea. Vamos a un <n>balneario.",
       "choice_data_list": [
-        "...¿Un onsen?"
+        "...¿Un balneario?"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Sí, un onsen. Vamos, prepárate.",
+      "text": "Sí, un balneario. Vamos, prepárate.",
       "choice_data_list": [
         "Al menos dame una explicación primero.",
         "Al menos dame una explicación primero."
@@ -22,31 +22,31 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Solo creo que es el momento perfecto<n>para darnos\nun baño relajante.",
+      "text": "Solo creo que este es el momento perfecto para<n> ir\na un buen baño relajante.",
       "choice_data_list": [
-        "No me refiero a eso. ¿Por qué quieres que\n<i>yo</i> te acompañe?",
-        "No me refiero a eso. ¿Por qué quieres que\n<i>yo</i> te acompañe?"
+        "Eso no es lo que quiero decir. ¿Por qué quieres\n<i>que <i>yo</i> vaya </i>contigo?",
+        "Eso no es lo que quiero decir. ¿Por qué quieres\n<i>que <i>yo</i> vaya </i>contigo?"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Eso es fácil. Solo quiero ir contigo."
+      "text": "Es fácil. Solo quiero ir<n> contigo."
     },
     {
       "name": "Oguri Cap",
-      "text": "Desde mi debut, no hemos hecho<n>nada más que\ncorrer."
+      "text": "Desde mi debut, no hemos hecho más <n>que correr."
     },
     {
       "name": "Oguri Cap",
-      "text": "Pero ahora que las cosas se han<n>calmado un\npoco, quiero llevarte a un onsen."
+      "text": "Pero ahora que las cosas se han calmado<n> un poco,\nquiero llevarte a un balneario."
     },
     {
       "name": "Oguri Cap",
-      "text": "Los onsen son lo mejor. Calman tu<n>cuerpo y tu\nalma. Y lo más<n>importante, se sienten genial."
+      "text": "Los balnearios son lo mejor. Calman<n> tu cuerpo y\nalma. Y lo más <n>importante, se sienten genial."
     },
     {
       "name": "Oguri Cap",
-      "text": "Quiero que ambos experimentemos<n>esa\ncomodidad juntos..."
+      "text": "Quiero que ambos experimentemos esa<n> comodidad\njuntos..."
     },
     {
       "name": "Oguri Cap",
@@ -57,7 +57,7 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Me alegra oír eso. ¡Entonces decidido!",
+      "text": "Me alegra escucharlo. ¡Entonces está decidido!",
       "choice_data_list": [
         "¿Deberíamos usar ese cupón?",
         "¿Deberíamos usar ese cupón?"
@@ -67,36 +67,36 @@
       "name": "Oguri Cap",
       "text": "¿Eh? ¿Qué cupón?",
       "choice_data_list": [
-        "El de aquella rifa..."
+        "El de esa rifa..."
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "¡Ah, cierto! El del distrito comercial."
+      "text": "¡Ah, cierto! El del distrito<n> comercial."
     },
     {
       "name": "Oguri Cap",
-      "text": "Un amigo, ¿eh? Me pregunto quién<n>querría\nacompañarme a un onsen. ¿A quién<n>preguntar, a quién\npreguntar?"
+      "text": "Un amigo, ¿eh? Me pregunto quién querría<n>\nacompañarme a un balneario. ¿A quién pedir, a\n<n>quién pedir?"
     },
     {
       "name": "Oguri Cap",
-      "text": "Oye, ¿crees que puedes guardar<n>este cupón\nun rato?"
+      "text": "Oye, ¿crees que puedes guardar <n>este cupón por un\ntiempo?"
     },
     {
       "name": "Oguri Cap",
-      "text": "Oh, cierto. ¡Me olvidé por completo de<n>eso!\nSupongo que fue la decisión<n>correcta que tú lo\nguardaras."
+      "text": "Ah, cierto. ¡Lo olvidé por completo!<n> Supongo que\ntenerlo tú fue la elección<n> correcta."
     },
     {
       "name": "Oguri Cap",
-      "text": "Después de todo, tú eres la persona<n>con quien\nrealmente quería ir desde el<n>principio."
+      "text": "Después de todo, eres la persona con la<n> que\nrealmente quería ir en primer lugar."
     },
     {
       "name": "Oguri Cap",
-      "text": "¡Muy bien entonces! ¡Vamos a darnos<n>un baño\nrelajante!"
+      "text": "¡Muy bien entonces! ¡Vamos a darnos un baño\n<n>relajante!"
     },
     {
       "name": "Monólogo",
-      "text": "Remojándonos en el onsen..."
+      "text": "Sumergiéndose en el balneario..."
     },
     {
       "name": "Oguri Cap",
@@ -104,11 +104,11 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "La forma en que el agua caliente se<n>sintió en mi\npiel fue perfecta. Este<n>onsen fue tan relajante..."
+      "text": "La forma en que el agua caliente se sintió<n> en mi\npiel fue perfecta. Este balneario fue<n> tan\nrelajante..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Me alegra mucho haber podido venir<n>aquí contigo."
+      "text": "Me alegra mucho haber podido venir aquí <n>contigo."
     },
     {
       "name": "Oguri Cap",
@@ -120,26 +120,26 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Perdón, me dejé llevar por mi propia<n>emoción.\n¿Tú también pudiste relajarte?",
+      "text": "Perdón, me dejé llevar por mi <n>propia emoción. ¿Tú\ntambién pudiste relajarte?",
       "choice_data_list": [
         "¡Por supuesto!"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Bien... Jeje, ¡eso me hace sentir aún<n>más cálida!"
+      "text": "Qué bien... Jeje, ¡eso me hace sentir aún<n> más\ncálida!"
     },
     {
       "name": "Oguri Cap",
-      "text": "Entonces, ¿qué deberíamos hacer ahora?",
+      "text": "Entonces, ¿qué hacemos ahora?",
       "choice_data_list": [
-        "¿Qué tal la cena? Estoy seguro de que lo has\nestado esperando.",
-        "¿Qué tal la cena? Estoy seguro de que lo has\nestado esperando."
+        "¿Qué tal la cena? Seguro que la has estado\nesperando.",
+        "¿Qué tal la cena? Seguro que la has estado\nesperando."
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "T-tal vez sí... Pero en realidad hay<n>algo más\nque he estado esperando."
+      "text": "Q-quizás... Pero en realidad<n> hay algo más que he\nestado <n>esperando."
     },
     {
       "name": "Oguri Cap",
@@ -147,27 +147,27 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "¡Guau! Las estrellas son muy bonitas.<n>Son...\nincreíblemente hermosas..."
+      "text": "¡Wow! Las estrellas son realmente bonitas. Son<n>\ntan... increíblemente hermosas..."
     },
     {
       "name": "Oguri Cap",
-      "text": "Mira tú mismo. Ah, supongo que no<n>tenía que\ndecírtelo, jeje."
+      "text": "Míralas tú mismo. Ah, supongo que <n>no tenía que\ndecírtelo, jeje."
     },
     {
       "name": "Oguri Cap",
-      "text": "Escuché que las estrellas eran<n>bonitas aquí,\nasí que esperaba dar un<n>paseo contigo."
+      "text": "Escuché que las estrellas son bonitas aquí,<n> así\nque estaba ansioso por dar un paseo<n> contigo."
     },
     {
       "name": "Oguri Cap",
-      "text": "Hemos estado tan concentrados en<n>nuestras\nmetas que ni siquiera hemos<n>tenido la oportunidad\nde mirar el cielo juntos."
+      "text": "Hemos estado tan enfocados en nuestras metas<n> que\nni siquiera hemos tenido la oportunidad de<n> mirar\nel cielo juntos."
     },
     {
       "name": "Oguri Cap",
-      "text": "Aún así... Es raro. Incluso ahora,<n>estamos\nmirando en la misma dirección."
+      "text": "Aún así... Es raro. Incluso ahora, estamos mirando<n>\nen la misma dirección."
     },
     {
       "name": "Oguri Cap",
-      "text": "Eso es algo que no creo que cambie.<n>Espero que\nambos podamos seguir<n>experimentando las mismas\nvistas juntos.",
+      "text": "Esa es una cosa que no veo cambiando. Espero<n> que\nambos podamos seguir experimentando<n> las mismas\nvistas juntos.",
       "choice_data_list": [
         "Yo también.",
         "Yo también."
@@ -175,7 +175,7 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Sí... Eso me gustaría mucho."
+      "text": "Sí... Me encantaría."
     },
     {
       "name": "Oguri Cap",
@@ -183,10 +183,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Siempre soy un poco lenta para<n>expresarme,\n¿te importa si nos tomamos<n>nuestro tiempo en este\npaseo?",
+      "text": "Siempre soy un poco lento para expresar<n> mi punto,\n¿te importa si tomamos nuestro<n> tiempo en este\npaseo?",
       "choice_data_list": [
-        "¡No hay ningún problema!",
-        "¡No hay ningún problema!"
+        "¡No hay problema en absoluto!",
+        "¡No hay problema en absoluto!"
       ]
     },
     {
@@ -195,11 +195,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Después, Oguri Cap y yo continuamos<n>nuestro\npaseo bajo las estrellas y<n>charlamos tanto como\nla noche lo permite."
+      "text": "Después, Oguri Cap y yo continuamos <n>nuestro paseo\nbajo las estrellas y charlamos <n>todo lo que la\nnoche permite."
     },
     {
       "name": "Monólogo",
-      "text": "Siento que Oguri Cap y yo hemos<n>formado un\nvínculo irremplazable durante<n>este tiempo juntos."
+      "text": "Siento que Oguri Cap y yo hemos <n>formado un vínculo\nirremplazable durante este<n> tiempo juntos."
     }
   ]
 }

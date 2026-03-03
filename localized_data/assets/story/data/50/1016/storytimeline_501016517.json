@@ -3,11 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Un día, estoy caminando por la plaza<n>central\ncon Narita Brian, cuando..."
+      "text": "Un día, estaba caminando por la plaza <n>central con\nNarita Brian, cuando..."
     },
     {
       "name": "Narita Brian",
-      "text": "¡¿Eh?!",
+      "text": "¿Eh?!",
       "choice_data_list": [
         "¿Todo bien?",
         "¿Todo bien?"
@@ -15,7 +15,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Supongo que era solo mi sombra...<n>Raro..."
+      "text": "Supongo que solo era mi sombra... Raro..."
     },
     {
       "name": "Narita Brian",
@@ -25,7 +25,7 @@
       "name": "Narita Brian",
       "text": "¿Viste eso hace un momento?",
       "choice_data_list": [
-        "Voy a fingir que no lo vi."
+        "Haré como que no vi."
       ]
     },
     {

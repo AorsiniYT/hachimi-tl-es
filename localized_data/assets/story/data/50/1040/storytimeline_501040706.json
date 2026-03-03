@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "De regreso de mi salida con Gold City..."
+      "text": "De regreso de mi salida con <n>Gold City..."
     },
     {
       "name": "???",
@@ -11,11 +11,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "<i>¡Booom!</i>"
+      "text": "<i>¡Boom!</i>"
     },
     {
       "name": "Gold City",
-      "text": "¿Qu... ¿Qué fue esa explosión?!"
+      "text": "¿Qué... qué fue esa explosión?!"
     },
     {
       "name": "Kawakami Princess",
@@ -23,11 +23,11 @@
     },
     {
       "name": "Gold City",
-      "text": "¡¿Kawakami?! ¿Estás bien? Acabo de<n>oír un ruido\nfuerte..."
+      "text": "¿Kawakami? ¿Estás bien? Acabo de escuchar <n>un ruido\nfuerte..."
     },
     {
       "name": "Kawakami Princess",
-      "text": "¡Sí, ese era el sonido de mí haciendo yoga!"
+      "text": "¡Sí, ese era el sonido de mí haciendo<n> yoga!"
     },
     {
       "name": "Gold City",
@@ -35,59 +35,59 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "Je, oí que el yoga te hace más<n>hermosa! Así\nque..."
+      "text": "Je, ¡escuché que el yoga te hace <n>más hermosa! Así\nque..."
     },
     {
       "name": "Kawakami Princess",
-      "text": "¡Pose menko!"
+      "text": "¡Pose de menko!"
     },
     {
       "name": "Monólogo",
-      "text": "<i>¡Thunk! ¡Flap, flap, flap!</i>"
+      "text": "<i>¡Pum! Aleteo, aleteo, aleteo!</i>"
     },
     {
       "name": "Monólogo",
-      "text": "¡Mientras Kawakami Princess<n>golpea una carta\nmenko en el suelo,<n>todos los pájaros de la\nzona<n>emprenden el vuelo a la vez!"
+      "text": "Mientras Kawakami Princess golpea una <n>carta de\nmenko contra el suelo, todos los pájaros de <n>la\nzona despegan al instante!"
     },
     {
       "name": "Gold City",
-      "text": "Qué estoy viendo..."
+      "text": "¿Qué estoy viendo..."
     },
     {
       "name": "Kawakami Princess",
-      "text": "¡Uf! El yoga de verdad te hace<n>sudar. ¿Quieres\nunirte, City?",
+      "text": "¡Uf! El yoga realmente te hace <n>sudar. ¿Te apuntas,\nCity?",
       "choice_data_list": [
-        "No necesariamente llamaría a eso... yoga."
+        "No diría necesariamente que eso... sea yoga."
       ]
     },
     {
       "name": "Gold City",
-      "text": "¡Shh! Entrenador, mira abajo de sus pies."
+      "text": "¡Shh! Trainer, mira cerca de sus pies."
     },
     {
       "name": "Monólogo",
-      "text": "A los pies de Kawakami Princess hay<n>un cuaderno\nabierto."
+      "text": "A los pies de Kawakami Princess yace un <n>cuaderno\nabierto."
     },
     {
       "name": "Gold City",
-      "text": "Eso son montones de notas. Debe<n>haber puesto un\nmontón de<n>\"investigación\" en crear esa pose."
+      "text": "Esa es un montón de notas malditas.<n> Debe haber\npuesto un montón de <n>\"investigación\" en crear esa\npose."
     },
     {
       "name": "Gold City",
-      "text": "Decirle que no es yoga podría<n>aplastar su motivación.",
+      "text": "Decirle que no es yoga podría aplastar <n>su\nmotivación.",
       "choice_data_list": [
         "Tienes razón.",
         "Tienes razón.",
-        "Aun así, alguien debería decirle."
+        "Aún así, alguien debería decírselo."
       ]
     },
     {
       "name": "Gold City",
-      "text": "Decirle que no es yoga podría<n>aplastar su motivación.",
+      "text": "Decirle que no es yoga podría aplastar <n>su\nmotivación.",
       "choice_data_list": [
         "Tienes razón.",
         "Tienes razón.",
-        "Aun así, alguien debería decirle."
+        "Aún así, alguien debería decírselo."
       ]
     },
     {
@@ -96,47 +96,47 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "¿Pasa algo malo?"
+      "text": "¿Pasa algo?"
     },
     {
       "name": "Gold City",
-      "text": "No es nada. Es que nunca había oído<n>hablar de la\npose menko antes."
+      "text": "No es nada. Es que nunca había escuchado de<n> la\npose de menko antes."
     },
     {
       "name": "Gold City",
-      "text": "Debes haber estudiado mucho. ¿Me<n>puedes enseñar\na mí también?"
+      "text": "Debes haber estudiado mucho. ¿Puedes <n>enseñarme\ntambién?"
     },
     {
       "name": "Kawakami Princess",
-      "text": "¡Oh cielos! ¡Por supuesto que puedo!"
+      "text": "¡Oh, por supuesto que puedo!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Mhm, mhm. Entonces, esa es la pose<n>de la paloma..."
+      "text": "Mhm, mhm. Entonces, esa es la pose de paloma..."
     },
     {
       "name": "Kawakami Princess",
-      "text": "Ya veo, entonces combinémosla con mi<n>pose de\nlavar arroz para hacer una nueva."
+      "text": "Ya veo, entonces combinémosla con mi <n>pose de lavar\narroz para hacer una nueva."
     },
     {
       "name": "Gold City",
-      "text": "Hmm. Pero si las palomas lavaran<n>arroz, ¿no se\nles empaparían<n>completamente las alas?"
+      "text": "Hmm. Pero si las palomas lavaran<n> arroz, ¿no se les\nmojarían las alas?"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Oh, eso suena tan triste. Está bien,<n>tendré que\naprender la pose de<n>paloma tal cual."
+      "text": "Oh, eso suena tan triste. Está bien, simplemente<n>\ntendré que aprender la pose de paloma como es."
     },
     {
       "name": "Monólogo",
-      "text": "Gold City logra enseñarle a<n>Kawakami Princess\nel<n>conocimiento correcto<n>manteniendo la\nfachada de ser su<n>estudiante."
+      "text": "Gold City logra enseñarle a <n>Kawakami Princess el\nconocimiento<n> correcto mientras mantiene la fachada<n>\nde ser su estudiante."
     },
     {
       "name": "Gold City",
-      "text": "Uf... Supongo que funcionó."
+      "text": "Uf... Supongo que salió bien."
     },
     {
       "name": "Gold City",
-      "text": "Gracias por quedarte callado y<n>observarnos,\nEntrenador. Sabía que<n>lo entenderías."
+      "text": "Gracias por quedarte callado y <n>vernos, Trainer.\nSabía que entenderías."
     },
     {
       "name": "Monólogo",
@@ -148,15 +148,15 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "¿Q-¿que no lo es?! ¿Eh? Oh, ¡qué vergüenza!"
+      "text": "¡¿No es así?! ¿Eh? ¡Oh, qué vergonzoso!"
     },
     {
       "name": "Gold City",
-      "text": "Pero no te desanimes. El trabajo que<n>estabas\nhaciendo sigue siendo valioso."
+      "text": "Pero no te desanimes. El trabajo que<n> estabas\nhaciendo todavía es valioso."
     },
     {
       "name": "Kawakami Princess",
-      "text": "¡Sí, tienes razón! ¡Me alegra que<n>estuvieras\naquí para señalar mis errores!"
+      "text": "¡Sí, tienes razón! ¡Me alegra que estuvieras<n> aquí\npara señalar mis errores!"
     },
     {
       "name": "Gold City",
@@ -164,39 +164,39 @@
     },
     {
       "name": "Kawakami Princess",
-      "text": "...Y así, comencé a aprender a hacer<n>yoga\nverdadero de City."
+      "text": "...Y así, comencé a aprender a hacer <n>yoga\nverdadero de City."
     },
     {
       "name": "Kawakami Princess",
-      "text": "A veces al este, a veces al oeste,<n>corrimos por\ncaminos no transitados..."
+      "text": "A veces al este, a veces al oeste, <n>por caminos no\ntransitados nos apresuramos..."
     },
     {
       "name": "Gold City",
-      "text": "E-espera, ¡¿qué está pasando?!"
+      "text": "E-espera, ¿qué está pasando?!"
     },
     {
       "name": "Kawakami Princess",
-      "text": "Pensé que me haría sentir como si<n>hubiera\naprendido algo si añadía<n>algo de narración."
+      "text": "Pensé que me haría sentir como si hubiera<n>\naprendido algo si añadía algo <n>de narración."
     },
     {
       "name": "Gold City",
-      "text": "<i>Suspiro...</i> No estamos en una<n>caricatura, sabes."
+      "text": "<i>Suspiro...</i> No estamos en un dibujo animado,<n> sabes."
     },
     {
       "name": "Kawakami Princess",
-      "text": "Jeje. De todos modos, si te parece<n>bien, City,\n¿podrías enseñarme yoga?"
+      "text": "Jeje. De todos modos, si está bien para<n> ti, City,\n¿podrías enseñarme yoga?"
     },
     {
       "name": "Gold City",
-      "text": "Claro. No soy una experta, pero puedo<n>mostrarte\nlas poses correctas."
+      "text": "Claro. No soy experta, pero puedo mostrarte<n> las\nposes correctas."
     },
     {
       "name": "Kawakami Princess",
-      "text": "¡Oh! ¡Gracias! ¡Haré todo lo posible<n>por mantenerme al día!"
+      "text": "¡Oh! ¡Gracias! ¡Haré lo mejor para seguir el<n>\nritmo!"
     },
     {
       "name": "Monólogo",
-      "text": "Gold City procede a enseñarle a<n>Kawakami\nPrincess yoga adecuado."
+      "text": "Gold City procede a enseñarle a Kawakami<n> Princess\nyoga apropiado."
     }
   ]
 }

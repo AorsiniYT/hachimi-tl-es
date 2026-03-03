@@ -2,44 +2,48 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "チームメンバーが順調に集まってきた。\r\nそんなある日――"
+      "name": "Monólogo",
+      "text": "Hemos estado reuniendo miembros y<n> el equipo está\nempezando a tomar forma.<n> Un día..."
     },
     {
-      "text": "ライスシャワーが何か言いたげに\r\nこちらを見ていた。",
+      "name": "Monólogo",
+      "text": "Me doy cuenta de que Rice Shower me está mirando<n>\ncomo si quisiera decir algo.",
       "choice_data_list": [
-        "どうした？",
-        "どうしたの？"
+        "¿Qué pasa?",
+        "¿Qué pasa?"
       ]
     },
     {
-      "name": "ライスシャワー",
-      "text": "あっ、あの……！"
+      "name": "Rice Shower",
+      "text": "Oh, yo, um..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "んっと……。ライス、\r\n今日の朝にね、思いついたことがあるんだ。"
+      "name": "Rice Shower",
+      "text": "Bueno... Esta mañana se me ocurrió<n> algo..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "そのぅ……。"
+      "name": "Rice Shower",
+      "text": "Y..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "や、やっぱり、なんでもない……っ！"
+      "name": "Rice Shower",
+      "text": "En realidad, olvídalo"
     },
     {
-      "text": "ライスシャワーは、引き留める間もなく\r\nトレーナー室から逃げて行ってしまった。"
+      "name": "Monólogo",
+      "text": "Rice Shower sale corriendo de mi oficina antes de<n>\nque pueda detenerla."
     },
     {
-      "name": "ライスシャワー",
-      "text": "あのね、チーム名を思いついて……。\r\n……その、ブルームが、開花って意味で……。"
+      "name": "Rice Shower",
+      "text": "Yo, um, se me ocurrió un nombre para nuestro<n>\nequipo. Pensé que podría ser poético <n>compararnos\ncon una flor en floración, así <n>que, um..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "＜ブルームス＞っていう、名前……っ。\r\nどう、かな……。"
+      "name": "Rice Shower",
+      "text": "Estaba pensando que podríamos llamarnos<n> \"Flor\nazul\". ¿Qué te parece?"
     },
     {
-      "text": "提案してくれたチーム名を\r\n検討してもいいかもしれない！"
+      "name": "Monólogo",
+      "text": "Ese podría ser un buen nombre para el equipo.<n>\nTendré que tomar nota de él."
     }
   ]
 }

@@ -2,169 +2,174 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "図書室で調べものをしていた時のこと。\nどこからか悲しそうな声が聞こえてきた……。"
+      "name": "Monólogo",
+      "text": "Mientras hacía algo de investigación en la\nbiblioteca,<n> escucho una voz triste..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "ライスには……助けられない……ごめんね。\nお花さんたちまで、不幸にしちゃう……。",
+      "name": "Rice Shower",
+      "text": "Yo... no puedo salvarlos a todos... Lo siento\nmucho. Ni<n> siquiera las flores están a salvo de mi\nmala suerte...",
       "choice_data_list": [
-        "何があった？",
-        "何があったの？"
+        "¿Qué pasó?",
+        "¿Qué pasó?"
       ]
     },
     {
-      "name": "ライスシャワー",
-      "text": "……うぅ、ふぇぇぇ……！\nお花さんがぁ～……！"
+      "name": "Rice Shower",
+      "text": "Awww... ¡Wahhh! ¡Las flores!"
     },
     {
-      "text": "ライスシャワーは、花を育てているらしい。\nだが、例年より気温が高いため、花が早くに\n枯れてしまう心配がでてきたそうだ。"
+      "name": "Monólogo",
+      "text": "Parece que Rice Shower está cultivando<n> flores,\npero la ola de calor de este año la<n> preocupa de\nque se marchiten rápidamente."
     },
     {
-      "name": "ライスシャワー",
-      "text": "せっかく咲いたのに……ライスが育てたから、\n気温がおかしくなっちゃったんだ……！"
+      "name": "Rice Shower",
+      "text": "¡Por fin habían florecido...! Pero <n>luego tuve que\nmeterse y arruinar<n> el clima!"
     },
     {
-      "name": "？？？",
-      "text": "あ、あのぅ……。"
+      "name": "???",
+      "text": "E-eh..."
     },
     {
-      "name": "ライスシャワー",
-      "text": "ロブロイさん……？"
+      "name": "Rice Shower",
+      "text": "¿Rob Roy?"
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "お話、勝手に聞いてすみません……\r\nこちらの雑誌をおすすめしたくて。"
+      "name": "Zenno Rob Roy",
+      "text": "Perdón por escuchar a escondidas, pero hay<n> una\nrevista que creo que deberías leer."
     },
     {
-      "name": "ライスシャワー",
-      "text": "えっと、『プリザーブドフラワー特集』……？"
+      "name": "Rice Shower",
+      "text": "¿Hm? ¿Un artículo especial sobre flores\n<n>preservadas?"
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "なんでも、生花の美しい姿のまま\n長く楽しめるようにできるそうです。"
+      "name": "Zenno Rob Roy",
+      "text": "Al parecer, es una forma de mantener las <n>flores\nfrescas luciendo hermosas por más tiempo."
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "色褪せることなく永遠に咲き続けるだなんて、\nまるで物語に出てくる伝説の花ですよね……！"
+      "name": "Zenno Rob Roy",
+      "text": "¡Los colores se mantienen vibrantes y las <n>flores\nflorecen para siempre! ¡Es como algo de un <n>cuento\nde hadas!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "……これなら、お花さんたちが\n綺麗に咲いたままでいられる……？"
+      "name": "Rice Shower",
+      "text": "...¿Así que hacer esto mantiene las <n>flores\nbellamente en flor?"
     },
     {
-      "name": "ライスシャワー",
-      "text": "ありがとう、ロブロイさん！\nライス、これやってみる……！"
+      "name": "Rice Shower",
+      "text": "¡Gracias, Rob Roy! ¡Voy a <n>intentarlo!"
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "それなら、体験教室に行ってみませんか？\n雑誌の最後に教室の紹介があったので……！"
+      "name": "Zenno Rob Roy",
+      "text": "En ese caso, ¿por qué no vamos a una clase de\n<n>preservación de flores? ¡La parte de atrás<n> de la\nrevista menciona una!"
     },
     {
-      "text": "体験教室は大人の付き添いが条件だったため、\n2人に頼まれて一緒に行くことになった。"
+      "name": "Monólogo",
+      "text": "Una de las condiciones de la clase es que los<n>\nasistentes deben estar supervisados por un adulto,<n>\nasí que me piden que vaya con ellos."
     },
     {
-      "name": "講師",
-      "text": "プリザーブドフラワーは、お花を1番元気な\n状態にしてから、脱色と脱水をします。\n枯れる原因の物質を抽出するためです。"
+      "name": "Instructor",
+      "text": "Antes de que las flores puedan conservarse,<n> deben\nser cultivadas hasta su máximo <n>florecimiento.\nLuego podemos comenzar los procesos<n> de\ndecoloración y deshidratación para<n> extraer la\nmateria que causa el marchitamiento."
     },
     {
-      "name": "講師",
-      "text": "今日はその過程を終えたところから、\nお花を加工していきましょう！"
+      "name": "Instructor",
+      "text": "Hoy, nuestra lección comienza después de <n>completar\nesos pasos, lo que significa que aquí<n> es donde\nentramos en el procesamiento de<n> las flores!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "よ、よーし。お花さんたちのためにも\nがんばるぞー……！"
+      "name": "Rice Shower",
+      "text": "¡E-entonces! ¡Haré lo mejor posible por mis\n<n>preciosas flores!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "これが、お花を綺麗なままにするお薬……\n大事にしなきゃ……！"
+      "name": "Rice Shower",
+      "text": "Esta es la solución que mantiene a las<n> flores\nluciendo hermosas... ¡Necesito tener<n> mucho cuidado\ncon ella!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "電子レンジで、\n人肌くらいに温めて……。"
+      "name": "Rice Shower",
+      "text": "Caliéntalo en el microondas a temperatura<n>\ncorporal..."
     },
     {
-      "text": "（ぼふんっ！）"
+      "name": "Monólogo",
+      "text": "<i>BOOM!</i>"
     },
     {
-      "name": "ライスシャワー",
-      "text": "ひゃあっ！？\nお、お薬が飛び散っちゃった……！"
+      "name": "Rice Shower",
+      "text": "¡Ay?! ¡E-ella solución explotó por<n> todas partes!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "あわわわわ、\n最初からお薬作り直しだぁ……！"
+      "name": "Rice Shower",
+      "text": "¡Awww, tengo que hacer todo de<n> nuevo!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "お花さん、綺麗になぁれ、綺麗になぁれ……\nふふっ！"
+      "name": "Rice Shower",
+      "text": "¡Mis preciosas, preciosas flores, manténganse\nhermosas<n> y radiantes! ¡Jeje!"
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "そうやっていると、\n魔法をかけているみたいですね。"
+      "name": "Zenno Rob Roy",
+      "text": "Parece que les estás echando un <n>hechizo."
     },
     {
-      "name": "ライスシャワー",
-      "text": "えっ、ええ？　そ、そうかな？"
+      "name": "Rice Shower",
+      "text": "¿E-eh? ¿E-en serio?"
     },
     {
-      "name": "ライスシャワー",
-      "text": "……綺麗になぁれ、素敵になぁれ。\nきらきら、つやつや、かわいくなぁれ……！"
+      "name": "Rice Shower",
+      "text": "¡Mis preciosas, preciosas flores, manténganse\nhermosas y<n> radiantes! ¡Sean brillantes,\nrelucientes y más lindas de lo<n> que puedo soportar!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "で、できたぁ！"
+      "name": "Rice Shower",
+      "text": "¡Lo-logre!"
     },
     {
-      "name": "講師",
-      "text": "お疲れさまでした！\nあとは皆さんのご自宅で、\n2日ほど乾燥させてくださいね。"
+      "name": "Instructor",
+      "text": "¡Buen trabajo! Ahora debes llevarlas<n> a casa y\ndejarlas secar durante dos<n> días."
     },
     {
-      "name": "ライスシャワー",
-      "text": "これでライスのお花も、\n綺麗なままにしてあげられるんだ……！",
+      "name": "Rice Shower",
+      "text": "¡Ahora puedo mantener mis flores luciendo<n>\nespléndidas!",
       "choice_data_list": [
-        "できたら見せてね！",
-        "次、自分で作るのが楽しみだな！",
-        "次、自分で作るのが楽しみだね！"
+        "¡Me encantaría verlas cuando estén listas!",
+        "¡Debes estar emocionada de hacerlo tú misma la\npróxima vez!",
+        "¡Debes estar emocionada de hacerlo tú misma la\npróxima vez!"
       ]
     },
     {
-      "name": "ライスシャワー",
-      "text": "これでライスのお花も、\r\n綺麗なままにしてあげられるんだ……！",
+      "name": "Rice Shower",
+      "text": "¡Ahora puedo mantener mis flores luciendo<n>\nespléndidas!",
       "choice_data_list": [
-        "できたら見せてね！",
-        "次、自分で作るのが楽しみだな！",
-        "次、自分で作るのが楽しみだね！"
+        "¡Me encantaría verlas cuando estén listas!",
+        "¡Debes estar emocionada de hacerlo tú misma la\npróxima vez!",
+        "¡Debes estar emocionada de hacerlo tú misma la\npróxima vez!"
       ]
     },
     {
-      "name": "ライスシャワー",
-      "text": "う、うん……！\r\nが、がんばるね……！"
+      "name": "Rice Shower",
+      "text": "¡S-sí! ¡Intentaré conservarlas <n>perfectamente!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "ロブロイさんにも見てほしいな、\nお花さんとライスの恩人だから……。"
+      "name": "Rice Shower",
+      "text": "Me encantaría que tú también las veas, Rob<n> Roy.\nMis flores y yo estamos en deuda contigo, <n>después\nde todo..."
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "ぜひ……！　永遠に瑞々しい魔法の花、\n楽しみにしていますね。"
+      "name": "Zenno Rob Roy",
+      "text": "¡Absolutamente! Tengo muchas ganas<n> de ver la\nbelleza duradera de tus<n> mágicas flores."
     },
     {
-      "name": "ライスシャワー",
-      "text": "ありがとう、ロブロイさん。\nできたら寮のお部屋に飾ろうね……！"
+      "name": "Rice Shower",
+      "text": "¡Gracias, Rob Roy! ¡Vamos a decorar nuestra<n>\nhabitación con ellas cuando estén listas!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "うん……！\r\n忘れないように、帰ったら復習しなきゃ……！"
+      "name": "Rice Shower",
+      "text": "¡Sí! ¡Tengo que asegurarme de repasar lo<n> que\nhicimos hoy cuando llegue a casa para <n>no olvidar!"
     },
     {
-      "name": "ゼンノロブロイ",
-      "text": "私も手伝います。\nやり方はしっかり覚えましたから……！"
+      "name": "Zenno Rob Roy",
+      "text": "¡Yo también ayudaré! ¡Realmente creo que ahora le\n<n>he agarrado el truco!"
     },
     {
-      "name": "ライスシャワー",
-      "text": "ありがとう、ロブロイさん……！\nライスがんばるね……！"
+      "name": "Rice Shower",
+      "text": "¡Gracias, Rob Roy! ¡Voy a dar lo mejor de mí!"
     },
     {
-      "text": "花のことを想い、希望と優しさに満ちた\r\n笑顔を浮かべるライスシャワーだった。"
+      "name": "Monólogo",
+      "text": "Mientras imagina sus flores, una sonrisa llena<n> de\nesperanza y bondad se extiende por el<n> rostro de\nRice Shower."
     }
   ]
 }
