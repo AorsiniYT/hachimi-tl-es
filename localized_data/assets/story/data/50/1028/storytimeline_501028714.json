@@ -7,31 +7,22 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "Supongo que tendré que seguir las órdenes<n> del\nmédico y descansar unos días...",
+      "text": "Supongo que tendré que seguir las órdenes del\nmédico y descansar unos días...",
       "choice_data_list": [
         "¡Lo siento! Esto fue mi culpa por estar distraída!"
       ]
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡Está bien! Estoy totalmente bien, así que no\n<n>tienes que ponerte tan alterada!"
+      "text": "¡Está bien! Estoy totalmente bien, así que no\ntienes que ponerte tan alterada!"
     },
     {
       "name": "Hishi Akebono",
-      "text": "Gracias por darme tratamiento <n>de emergencia\ninmediatamente, Entrenador.<n> Eso ayudó mucho con el\ndolor."
+      "text": "Gracias por darme tratamiento de emergencia\ninmediatamente, Entrenador. Eso ayudó mucho con el\ndolor."
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡Eres realmente increíble! ¡Eres<n> tan increíble\ncomo los luchadores de<n> sumo de mayor rango!"
-    },
-    {
-      "name": "Hishi Akebono",
-      "text": "Hablando de eso, ¡volvamos a entrenar!",
-      "choice_data_list": [
-        "¿Por qué no observamos a otros hoy?",
-        "Si sientes algún dolor, paramos, ¿vale?",
-        "Si sientes algún dolor, paramos, ¿vale?"
-      ]
+      "text": "¡Eres realmente increíble! ¡Eres tan increíble\ncomo los luchadores de sumo de mayor rango!"
     },
     {
       "name": "Hishi Akebono",
@@ -44,18 +35,27 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "Mmm... Okay. Supongo que aprender por<n> observación\ntambién es importante.",
+      "text": "Hablando de eso, ¡volvamos a entrenar!",
+      "choice_data_list": [
+        "¿Por qué no observamos a otros hoy?",
+        "Si sientes algún dolor, paramos, ¿vale?",
+        "Si sientes algún dolor, paramos, ¿vale?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Mmm... Okay. Supongo que aprender por observación\ntambién es importante.",
       "choice_data_list": [
         "¡Podemos usar lo que aprendas una vez que tu\npierna se cure!"
       ]
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡Sí! Muy bien, ¡haré lo posible por <n>absorber todo\nlo que vea!"
+      "text": "¡Sí! Muy bien, ¡haré lo posible por absorber todo\nlo que vea!"
     },
     {
       "name": "Monólogo",
-      "text": "Le impido a Hishi Akebono que corra y la<n> hago\ndescansar hasta que el médico dé el visto<n> bueno\npara reanudar el entrenamiento."
+      "text": "Le impido a Hishi Akebono que corra y la hago\ndescansar hasta que el médico dé el visto bueno\npara reanudar el entrenamiento."
     },
     {
       "name": "Hishi Akebono",
@@ -74,7 +74,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Justo como pensé, es demasiado peligroso<n> dejarla\ncorrer así. Decido que Hishi Akebono<n> descanse\nhasta que su pierna se cure por<n> completo."
+      "text": "Justo como pensé, es demasiado peligroso dejarla\ncorrer así. Decido que Hishi Akebono descanse\nhasta que su pierna se cure por completo."
     },
     {
       "name": "Hishi Akebono",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "¡He estado esperando con ansias disfrutar<n> de cada\nplato del menú de entrenamiento<n> que inventaste!"
+      "text": "¡He estado esperando con ansias disfrutar de cada\nplato del menú de entrenamiento que inventaste!"
     },
     {
       "name": "Hishi Akebono",
@@ -90,7 +90,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Al tomar en consideración especial su <n>lesión y\nmantenernos concentrados, <n>superamos la práctica\nsin ningún problema!"
+      "text": "Al tomar en consideración especial su lesión y\nmantenernos concentrados, superamos la práctica\nsin ningún problema!"
     }
   ]
 }

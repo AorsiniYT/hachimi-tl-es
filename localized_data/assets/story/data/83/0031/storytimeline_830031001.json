@@ -1,193 +1,193 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Después de llegar a la cafetería para el <n>almuerzo,\nnoto a Yukino Bijin <n>mirando distraídamente el\nmenú.",
-            "choice_data_list": [
-                "De verdad estás quemando un agujero en ese menú\nahí.",
-                "De verdad estás quemando un agujero en ese menú\nahí."
-            ]
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "¿¡Qué!? ¡Eso no es lo que intento hacer!"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Hay un soba extra grande en el <n>menú por tiempo\nlimitado, y me recordó<n> al wanko soba de mi\ntierra..."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "¿Dijiste... wanko soba?!"
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Si recuerdo correctamente, eres de<n> Morioka,\n¿verdad? La cuna del wanko soba...<n> <i>Gulp...</i>",
-            "choice_data_list": [
-                "(Se ve como si fuera a explotar...)"
-            ]
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "¡Cálmate, Oguri! ¡Las estás asustando!"
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Perdón, no puedo dejar de pensar en <n>el wanko\nsoba... ¿Podrías contarme más<n> sobre el auténtico?"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Caramba, claro... Pero no soy una<n> experta, ¿eh?\nSolo he estado en el <n>servicio de relleno.",
-            "choice_data_list": [
-                "¿Servicio de relleno? ¿Quieres decir servir más\nfideos cada vez que el tazón del cliente está\nvacío?"
-            ]
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "¡Así es! Es muy divertido. Viertes una <n>porción del\ntamaño de un bocado de soba<n> y dices \"¡aquí\ntienes!\" o \"¡aquí va!\""
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Al principio no era muy buena, así que la <n>señora\ndel restaurante tuvo que seguir <n>ayudándome."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Todo eso es fascinante... Entonces, <n>Yukino, si te\npido un poco de wanko soba,<n> ¿me servirás?"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "¡Como si fuera, cabeza de chorlito! ¡Ella dijo <n>que\nsolo era una rellenadora!"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Ajaja, no puedo hacerlo yo misma, pero el<n> wanko\nsoba de Morioka es realmente sabroso!"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "¡Tenemos montones de otras comidas y cosas\ndivertidas <n>también, así que definitivamente\ndeberías visitarnos!",
-            "choice_data_list": [
-                "¿Qué clase de cosas?",
-                "Ahora yo también quiero wanko soba.",
-                "Ahora yo también quiero wanko soba."
-            ]
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "¡Tenemos montones de otras comidas y cosas\ndivertidas <n>también, así que definitivamente\ndeberías visitarnos!",
-            "choice_data_list": [
-                "¿Qué clase de cosas?",
-                "Ahora yo también quiero wanko soba.",
-                "Ahora yo también quiero wanko soba."
-            ]
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Bueno, veamos... Hay un festival famoso <n>llamado\nSansa Odori de Morioka."
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "¡Tiene tambores taiko, flautas y gente<n> bailando\npor la calle en un desfile!",
-            "choice_data_list": [
-                "Eso debe requerir un montón de preparación.",
-                "Eso debe requerir un montón de preparación."
-            ]
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Sí, pero toda esa preparación fue un<n> buen\nejercicio, ¡así que la disfruté!"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Todos en el pueblo me trataron<n> super amablemente,\ncomo si fuera su nieta.<n> ¡Fue muy divertido ayudar\ncon los<n> preparativos!"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "Parece un lugar muy agradable. ¿Tu<n> ciudad natal\ntambién es así, Oguri?"
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Sí, recuerdo cuando Tome y las <n>demás me enseñaron\na bailar el Kasamatsu<n> Ondo... Espero que todas\nestén bien."
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "También extraño mi ciudad natal... Tal vez<n> les\nescriba a todos algún día."
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Quiero enviar una carta llena de buenas noticias,<n>\nasí que tendré que entrenar duro!"
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Lo mismo. Pero para entrenar duro, primero tengo<n>\nque llenar mi barriga lo suficiente."
-        },
-        {
-            "text": "Su amor por sus pueblos natales les ayuda<n> a\nmotivarse para entrenar más duro."
-        },
-        {
-            "text": "Me doy cuenta de esto por partida doble<n> cuando\nescucho el estómago de Oguri<n> Cap gruñendo."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "¡Qué casualidad! ¡Yo también!"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Oh, hay un restaurante de soba en <n>cuenco por aquí.\n¿Quieres que te lleve?"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Es de la señora que me enseñó el oficio<n> como\nrellenador en mi tierra, así que <n>puedo dar fe de\nla calidad y los sabores!"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "¡Mmm! Caramba, su soba siempre cae<n> bien."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Sí... podría seguir comiendo esto <n>para siempre..."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Ahhh... Así que esto es a lo que el auténtico<n>\nwanko soba sabe."
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Oh, parece que te estás quedando corto<n> de\nrecargas. ¿Quieres que te eche una <n>mano con el\nservicio?"
-        },
-        {
-            "name": "Señora tendera mayor",
-            "text": "¿Quieres, Yukino? Sé que estás aquí como<n> cliente y\ntodo eso, pero..."
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "¡Claro! ¡Yo me encargo del relleno!"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "¡Aquí va! ¡Aquí viene!"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "Te juro, Oguri, tienes un agujero negro en<n> lugar\nde tu estómago. Sé que aquí <n>es todo lo que puedas\ncomer, pero no te<n> excedas, ¿vale?"
-        },
-        {
-            "name": "Señora mayor de la tienda",
-            "text": "¡No hay problema! Ver a mis clientes<n> comer mucho y\nirse satisfechos es lo que<n> me hace feliz."
-        },
-        {
-            "name": "Tendera mayor",
-            "text": "¡Gracias, Yukino! ¡Vaya, eres una auténtica<n>\nreponedora ahora!"
-        },
-        {
-            "name": "Señora mayor de la tienda",
-            "text": "Antes eras solo una niñita que andaba <n>cargando la\nbandeja del servicio. Todos andaban<n> preocupados al\nverte."
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "¡Ay, por favor! ¡Uy!"
-        },
-        {
-            "text": "Yukino Bijin sigue llenando el plato<n> de Oguri Cap\nhasta que está llena... Creo <n>que esto resultó ser\nun buen entrenamiento<n> para todos."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Después de llegar a la cafetería para el almuerzo,\nnoto a Yukino Bijin mirando distraídamente el\nmenú.",
+      "choice_data_list": [
+        "De verdad estás quemando un agujero en ese menú\nahí.",
+        "De verdad estás quemando un agujero en ese menú\nahí."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿¡Qué!? ¡Eso no es lo que intento hacer!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hay un soba extra grande en el menú por tiempo\nlimitado, y me recordó al wanko soba de mi\ntierra..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Dijiste... wanko soba?!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Si recuerdo correctamente, eres de Morioka,\n¿verdad? La cuna del wanko soba... <i>Gulp...</i>",
+      "choice_data_list": [
+        "(Se ve como si fuera a explotar...)"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Cálmate, Oguri! ¡Las estás asustando!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Perdón, no puedo dejar de pensar en el wanko\nsoba... ¿Podrías contarme más sobre el auténtico?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Caramba, claro... Pero no soy una experta, ¿eh?\nSolo he estado en el servicio de relleno.",
+      "choice_data_list": [
+        "¿Servicio de relleno? ¿Quieres decir servir más\nfideos cada vez que el tazón del cliente está\nvacío?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Así es! Es muy divertido. Viertes una porción del\ntamaño de un bocado de soba y dices \"¡aquí\ntienes!\" o \"¡aquí va!\""
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Al principio no era muy buena, así que la señora\ndel restaurante tuvo que seguir ayudándome."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Todo eso es fascinante... Entonces, Yukino, si te\npido un poco de wanko soba, ¿me servirás?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Como si fuera, cabeza de chorlito! ¡Ella dijo que\nsolo era una rellenadora!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ajaja, no puedo hacerlo yo misma, pero el wanko\nsoba de Morioka es realmente sabroso!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Tenemos montones de otras comidas y cosas\ndivertidas también, así que definitivamente\ndeberías visitarnos!",
+      "choice_data_list": [
+        "¿Qué clase de cosas?",
+        "Ahora yo también quiero wanko soba.",
+        "Ahora yo también quiero wanko soba."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Tenemos montones de otras comidas y cosas\ndivertidas también, así que definitivamente\ndeberías visitarnos!",
+      "choice_data_list": [
+        "¿Qué clase de cosas?",
+        "Ahora yo también quiero wanko soba.",
+        "Ahora yo también quiero wanko soba."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Bueno, veamos... Hay un festival famoso llamado\nSansa Odori de Morioka."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Tiene tambores taiko, flautas y gente bailando\npor la calle en un desfile!",
+      "choice_data_list": [
+        "Eso debe requerir un montón de preparación.",
+        "Eso debe requerir un montón de preparación."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Sí, pero toda esa preparación fue un buen\nejercicio, ¡así que la disfruté!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Todos en el pueblo me trataron super amablemente,\ncomo si fuera su nieta. ¡Fue muy divertido ayudar\ncon los preparativos!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Parece un lugar muy agradable. ¿Tu ciudad natal\ntambién es así, Oguri?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí, recuerdo cuando Tome y las demás me enseñaron\na bailar el Kasamatsu Ondo... Espero que todas\nestén bien."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "También extraño mi ciudad natal... Tal vez les\nescriba a todos algún día."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Quiero enviar una carta llena de buenas noticias,\nasí que tendré que entrenar duro!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Lo mismo. Pero para entrenar duro, primero tengo\nque llenar mi barriga lo suficiente."
+    },
+    {
+      "text": "Su amor por sus pueblos natales les ayuda a\nmotivarse para entrenar más duro."
+    },
+    {
+      "text": "Me doy cuenta de esto por partida doble cuando\nescucho el estómago de Oguri Cap gruñendo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Qué casualidad! ¡Yo también!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oh, hay un restaurante de soba en cuenco por aquí.\n¿Quieres que te lleve?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Es de la señora que me enseñó el oficio como\nrellenador en mi tierra, así que puedo dar fe de\nla calidad y los sabores!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Mmm! Caramba, su soba siempre cae bien."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí... podría seguir comiendo esto para siempre..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ahhh... Así que esto es a lo que el auténtico\nwanko soba sabe."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oh, parece que te estás quedando corto de\nrecargas. ¿Quieres que te eche una mano con el\nservicio?"
+    },
+    {
+      "name": "Señora tendera mayor",
+      "text": "¿Quieres, Yukino? Sé que estás aquí como cliente y\ntodo eso, pero..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Claro! ¡Yo me encargo del relleno!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Aquí va! ¡Aquí viene!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Te juro, Oguri, tienes un agujero negro en lugar\nde tu estómago. Sé que aquí es todo lo que puedas\ncomer, pero no te excedas, ¿vale?"
+    },
+    {
+      "name": "Señora mayor de la tienda",
+      "text": "¡No hay problema! Ver a mis clientes comer mucho y\nirse satisfechos es lo que me hace feliz."
+    },
+    {
+      "name": "Tendera mayor",
+      "text": "¡Gracias, Yukino! ¡Vaya, eres una auténtica\nreponedora ahora!"
+    },
+    {
+      "name": "Señora mayor de la tienda",
+      "text": "Antes eras solo una niñita que andaba cargando la\nbandeja del servicio. Todos andaban preocupados al\nverte."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ay, por favor! ¡Uy!"
+    },
+    {
+      "text": "Yukino Bijin sigue llenando el plato de Oguri Cap\nhasta que está llena... Creo que esto resultó ser\nun buen entrenamiento para todos."
+    }
+  ]
 }

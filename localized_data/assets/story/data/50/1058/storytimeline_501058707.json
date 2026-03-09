@@ -1,121 +1,121 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Meisho Doto no ha estado en su mejor<n> condición\núltimamente, así que vamos al<n> santuario a\ndespejarnos."
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "No me he sentido bien recientemente, así<n> que voy a\nir a rezar por eso."
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "¡No estaré mucho tiempo!"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Muy bien, hora de poner mi ofrenda en<n> el\nsantuario..."
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Eep?!",
-            "choice_data_list": [
-                "¿Qué pasa?!",
-                "¿Qué pasa?!"
-            ]
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "¡Puse mi billetera en la caja por <n>error! Necesito\ns-sacarla!"
-        },
-        {
-            "name": "Dueño del Santuario",
-            "text": "¡Te vi, eh! ¡Quédate justo donde estás, <n>ladrón del\nsantuario!"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "¡Waaagh! ¡Te equivocas! Se me cayó mi <n>billetera...\n¡Espera! ¡Mi mano está atrapada!"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Sí, estoy libre..."
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "¡Aaagh?! ¡El mundo se está poniendo patas<n> arriba!"
-        },
-        {
-            "text": "<i>Crash!</i>"
-        },
-        {
-            "text": "Meisho Doto saca la mano de la caja de<n> ofrendas\ncon suficiente fuerza que retrocede<n> hasta una\nesfinge de perro león."
-        },
-        {
-            "name": "Dueño del Santuario",
-            "text": "Así que eso fue lo que pasó—qué<n> desafortunado. Me\nalegra ver que tu billetera<n> está de vuelta en tus\nmanos, aunque."
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Me disculpo por causar tantos problemas.<n> ¡Gracias\npor reunirme con mi <n>billetera!"
-        },
-        {
-            "name": "Dueño del Santuario",
-            "text": "Para cambiar de tema, ¿has ofrecido<n> una oración al\nárbol sagrado? <n>Creo que ciertamente recibirías su\n<n>protección divina.",
-            "choice_data_list": [
-                "¡Vamos ahora!"
-            ]
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "¡Sí! ¡Oraré desde el fondo de mi<n> corazón!"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Q-qué árbol tan hermoso. ¡Esto seguro me<n> traerá\ngrandes bendiciones!"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Soy una gran torpe, pero prometo hacer todo <n>lo\nposible... así que por favor otorga tu poder a<n> mí.\n¡Por favor!"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Uf... ¿Crees que esto será <n>suficiente?"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "El viento se siente tan bien. Quizás el árbol<n>\nescuchó mi oración.",
-            "choice_data_list": [
-                "La bendición del árbol sagrado está contigo."
-            ]
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Hehe, tienes razón. Mi corazón se siente un poco<n>\nmás ligero ahora."
-        },
-        {
-            "text": "Con su ánimo elevado, ¡Meisho Doto<n> recupera su\nenergía!"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Nnngh! ¡Por favor ayúdame, por favor!"
-        },
-        {
-            "text": "<i>Thunk!</i>"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Ay... mi cabeza. Estuve demasiado en el<n> momento y\nme golpeé la cabeza..."
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "¡Aaaagh?! ¡Por qué hay tantos insectos<n> extraños en\nel suelo?!"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "¡Waaah! ¡Por favor, concédeme salvación!"
-        },
-        {
-            "text": "Meisho Doto encuentra desgracia en <n>cada esquina,\nincapaz de recuperar su<n> energía."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Meisho Doto no ha estado en su mejor condición\núltimamente, así que vamos al santuario a\ndespejarnos."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No me he sentido bien recientemente, así que voy a\nir a rezar por eso."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡No estaré mucho tiempo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Muy bien, hora de poner mi ofrenda en el\nsantuario..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eep?!",
+      "choice_data_list": [
+        "¿Qué pasa?!",
+        "¿Qué pasa?!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Puse mi billetera en la caja por error! Necesito\ns-sacarla!"
+    },
+    {
+      "name": "Dueño del Santuario",
+      "text": "¡Te vi, eh! ¡Quédate justo donde estás, ladrón del\nsantuario!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Waaagh! ¡Te equivocas! Se me cayó mi billetera...\n¡Espera! ¡Mi mano está atrapada!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Sí, estoy libre..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Aaagh?! ¡El mundo se está poniendo patas arriba!"
+    },
+    {
+      "text": "<i>Crash!</i>"
+    },
+    {
+      "text": "Meisho Doto saca la mano de la caja de ofrendas\ncon suficiente fuerza que retrocede hasta una\nesfinge de perro león."
+    },
+    {
+      "name": "Dueño del Santuario",
+      "text": "Así que eso fue lo que pasó—qué desafortunado. Me\nalegra ver que tu billetera está de vuelta en tus\nmanos, aunque."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Me disculpo por causar tantos problemas. ¡Gracias\npor reunirme con mi billetera!"
+    },
+    {
+      "name": "Dueño del Santuario",
+      "text": "Para cambiar de tema, ¿has ofrecido una oración al\nárbol sagrado? Creo que ciertamente recibirías su\nprotección divina.",
+      "choice_data_list": [
+        "¡Vamos ahora!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Sí! ¡Oraré desde el fondo de mi corazón!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Q-qué árbol tan hermoso. ¡Esto seguro me traerá\ngrandes bendiciones!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Soy una gran torpe, pero prometo hacer todo lo\nposible... así que por favor otorga tu poder a mí.\n¡Por favor!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uf... ¿Crees que esto será suficiente?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "El viento se siente tan bien. Quizás el árbol\nescuchó mi oración.",
+      "choice_data_list": [
+        "La bendición del árbol sagrado está contigo."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Hehe, tienes razón. Mi corazón se siente un poco\nmás ligero ahora."
+    },
+    {
+      "text": "Con su ánimo elevado, ¡Meisho Doto recupera su\nenergía!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Nnngh! ¡Por favor ayúdame, por favor!"
+    },
+    {
+      "text": "<i>Thunk!</i>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ay... mi cabeza. Estuve demasiado en el momento y\nme golpeé la cabeza..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Aaaagh?! ¡Por qué hay tantos insectos extraños en\nel suelo?!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Waaah! ¡Por favor, concédeme salvación!"
+    },
+    {
+      "text": "Meisho Doto encuentra desgracia en cada esquina,\nincapaz de recuperar su energía."
+    }
+  ]
 }

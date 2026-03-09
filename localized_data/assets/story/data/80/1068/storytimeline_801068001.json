@@ -1,124 +1,124 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Un día después de la escuela, estoy tomando <n>un\nbreve descanso del trabajo cuando dos <n>Umamusume me\nllaman."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¡Um, disculpe! ¿Podría dedicar un<n> segundo a\nescuchar cantar a mi amiga?"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¡Ella tiene una prueba de canto<n> mañana y quiere\nprepararse practicando con<n> un público!"
-        },
-        {
-            "name": "Compañera de clase",
-            "text": "Eh, hola... No soy muy buena cantando <n>frente a la\ngente... así que, umm... Si no<n> te importa...",
-            "choice_data_list": [
-                "Sí, tengo tiempo."
-            ]
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¡Yay! ¡Muchas gracias!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¡Genial! Te animaremos, así que canta con <n>todo tu\ncorazón!"
-        },
-        {
-            "name": "Compañera de clase",
-            "text": "¡Okay! Bueno, um... ¡Allá voy!"
-        },
-        {
-            "name": "Compañera de clase",
-            "text": "La-la... La, laaaa..."
-        },
-        {
-            "name": "Compañera de clase",
-            "text": "Urgh... Oh, no puedo hacerlo. Es demasiado<n>\nvergonzoso..."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¿Qué tal si canto contigo? ¡Así <n>dividiremos la\nvergüenza entre nosotros!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¡La-la, la-laaaaa! ♪"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¡Vamos! ¡Mueve tu cuerpo al ritmo <n>también!\n¡Finjamos que estamos en un festival y<n> soltémonos!"
-        },
-        {
-            "name": "Compañera de clase",
-            "text": "¡Okay! ¡Hagámoslo!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Con Kitasan Black cantando y bailando con<n> ella, la\nchica lentamente empieza a sonreír, y<n> su voz\ngradualmente se hace más fuerte!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¡Sí! ¡Ese es el espíritu! ¡Ahora usa ese <n>diafragma\npara cantar esa última nota con fuerza!<n> ¿Lista?"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "LAAAAAAAA!"
-        },
-        {
-            "name": "Compañera de clase",
-            "text": "LAAAAAAAA!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¡Ahahaha! Ahora sí estamos hablando—o debería<n>\ndecir gritando? ¿Cómo te sientes ahora?"
-        },
-        {
-            "name": "Compañera de clase",
-            "text": "¡Increíble! ¡Ya no me siento avergonzada <n>en\nabsoluto!",
-            "choice_data_list": [
-                "¡Tienes una gran voz!",
-                "¡Tienes una gran voz!",
-                "¡Ahora solo tienes que prepararte para el examen!",
-                "¡Ahora solo tienes que prepararte para el examen!"
-            ]
-        },
-        {
-            "name": "Compañera de clase",
-            "text": "¡Increíble! ¡Ya no me siento avergonzada <n>en\nabsoluto!",
-            "choice_data_list": [
-                "¡Tienes una gran voz!",
-                "¡Tienes una gran voz!",
-                "¡Ahora solo tienes que prepararte para el examen!",
-                "¡Ahora solo tienes que prepararte para el examen!"
-            ]
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¿Verdad que sí?! ¡Me cansé solo <n>intentando cantar\na su lado!"
-        },
-        {
-            "name": "Compañera de clase",
-            "text": "¡Gracias, Kita! ¡No puedo esperar para <n>mañana!\n¡Esta es la primera vez que me siento tan<n> bien\nacerca de mi canto!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¡Me alegra escucharlo! ¡Estoy segura de<n> que vas a\narrasar!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¡Sí, totalmente! ¡Tienes que cuidar tu <n>garganta!\n¡Especialmente antes del gran <n>espectáculo!"
-        },
-        {
-            "name": "Compañera de clase",
-            "text": "¡Oh, tienes razón! Eso es realmente importante.<n>\n¡De verdad piensas en todo, Kita!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Jeje. ♪ ¡Solo estoy intentando ser útil, <n>nada más!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día después de la escuela, estoy tomando un\nbreve descanso del trabajo cuando dos Umamusume me\nllaman."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Um, disculpe! ¿Podría dedicar un segundo a\nescuchar cantar a mi amiga?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Ella tiene una prueba de canto mañana y quiere\nprepararse practicando con un público!"
+    },
+    {
+      "name": "Compañera de clase",
+      "text": "Eh, hola... No soy muy buena cantando frente a la\ngente... así que, umm... Si no te importa...",
+      "choice_data_list": [
+        "Sí, tengo tiempo."
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Yay! ¡Muchas gracias!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Genial! Te animaremos, así que canta con todo tu\ncorazón!"
+    },
+    {
+      "name": "Compañera de clase",
+      "text": "¡Okay! Bueno, um... ¡Allá voy!"
+    },
+    {
+      "name": "Compañera de clase",
+      "text": "La-la... La, laaaa..."
+    },
+    {
+      "name": "Compañera de clase",
+      "text": "Urgh... Oh, no puedo hacerlo. Es demasiado\nvergonzoso..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¿Qué tal si canto contigo? ¡Así dividiremos la\nvergüenza entre nosotros!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡La-la, la-laaaaa! ♪"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Vamos! ¡Mueve tu cuerpo al ritmo también!\n¡Finjamos que estamos en un festival y soltémonos!"
+    },
+    {
+      "name": "Compañera de clase",
+      "text": "¡Okay! ¡Hagámoslo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con Kitasan Black cantando y bailando con ella, la\nchica lentamente empieza a sonreír, y su voz\ngradualmente se hace más fuerte!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Sí! ¡Ese es el espíritu! ¡Ahora usa ese diafragma\npara cantar esa última nota con fuerza! ¿Lista?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "LAAAAAAAA!"
+    },
+    {
+      "name": "Compañera de clase",
+      "text": "LAAAAAAAA!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Ahahaha! Ahora sí estamos hablando—o debería\ndecir gritando? ¿Cómo te sientes ahora?"
+    },
+    {
+      "name": "Compañera de clase",
+      "text": "¡Increíble! ¡Ya no me siento avergonzada en\nabsoluto!",
+      "choice_data_list": [
+        "¡Tienes una gran voz!",
+        "¡Tienes una gran voz!",
+        "¡Ahora solo tienes que prepararte para el examen!",
+        "¡Ahora solo tienes que prepararte para el examen!"
+      ]
+    },
+    {
+      "name": "Compañera de clase",
+      "text": "¡Increíble! ¡Ya no me siento avergonzada en\nabsoluto!",
+      "choice_data_list": [
+        "¡Tienes una gran voz!",
+        "¡Tienes una gran voz!",
+        "¡Ahora solo tienes que prepararte para el examen!",
+        "¡Ahora solo tienes que prepararte para el examen!"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¿Verdad que sí?! ¡Me cansé solo intentando cantar\na su lado!"
+    },
+    {
+      "name": "Compañera de clase",
+      "text": "¡Gracias, Kita! ¡No puedo esperar para mañana!\n¡Esta es la primera vez que me siento tan bien\nacerca de mi canto!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Me alegra escucharlo! ¡Estoy segura de que vas a\narrasar!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Sí, totalmente! ¡Tienes que cuidar tu garganta!\n¡Especialmente antes del gran espectáculo!"
+    },
+    {
+      "name": "Compañera de clase",
+      "text": "¡Oh, tienes razón! Eso es realmente importante.\n¡De verdad piensas en todo, Kita!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Jeje. ♪ ¡Solo estoy intentando ser útil, nada más!"
+    }
+  ]
 }

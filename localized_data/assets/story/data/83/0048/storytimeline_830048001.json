@@ -1,217 +1,217 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Decido pasar por una cafetería para calmar<n> mi sed.\nLa cafetería está llena, pero finalmente<n> logro\nllegar al frente de la fila para entrar..."
-        },
-        {
-            "name": "Personal de la Cafetería",
-            "text": "¡Ding-a-ling! ♪ ¡Bienvenida! ☆ ¡Gracias<n> por\nesperar! ¿Mesa para una?",
-            "choice_data_list": [
-                "Sí, por favor."
-            ]
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "¡Guau! ¡Este lugar es super lindo y<n> elegante! ¡Voy\na desentonar como un pulgar<n> dolorido!"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "¿En serio? A mí me parece que <n>encajas\nperfectamente."
-        },
-        {
-            "name": "Personal de la Cafetería",
-            "text": "Lamento mucho informar que en este momento<n> no\ntenemos mesas vacías..."
-        },
-        {
-            "name": "Personal de la Cafetería",
-            "text": "Eh... ¿Le importaría compartir su mesa<n> con estos\ndos clientes?",
-            "choice_data_list": [
-                "No me importa en absoluto."
-            ]
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "¡Oh! ¡Eres una entrenadora de la <n>academia!\n¿Segura? ¡Lo agradeceríamos mucho!"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Muy bien, permítanos aceptar su <n>amabilidad y\nacompañarla."
-        },
-        {
-            "name": "Personal de la Cafetería",
-            "text": "¡Muchas gracias! ☆ ¡Le mostraré<n> su mesa! ♪"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Nos sentamos en nuestra mesa y revisamos el <n>menú.\nCuando estamos a punto de pedir..."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Eh... Para mi bebida, tomaré un, eh... <n>Royal...\nMari... ¿Maririn? Por favor."
-        },
-        {
-            "name": "Personal del café",
-            "text": "¡Claro que sí! ♪ ¡Un Real ☆ Maririn! <n>¿Te gustaría\nun Anillo de Ángel para acompañar <n>eso? ¡Está en\nnuestro menú de postres de temporada!"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "¿Eh?! Ah, eh, sí... Uno de esos también."
-        },
-        {
-            "name": "Personal de la cafetería",
-            "text": "¡Absolutamente! ♪ ¡Oh! Tienes una opción<n> de tres\ntamaños para tu bebida: Dolly, <n>Pretty o Charming.\n¿Cuál te gustaría? ☆"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "¿B-bonita? ¿Encantadora? Eh, um..."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Disculpen... Es la primera vez que venimos <n>aquí.\n¿Podrían explicarnos las tallas, por favor?"
-        },
-        {
-            "name": "Personal del Café",
-            "text": "¡Claro! ☆ \"Dolly\" es pequeño, \"Pretty\"<n> es mediano,\ny..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Después de escuchar al personal repasar <n>los\nnombres de tallas únicas, de alguna<n> manera\nlogramos pedir tres bebidas y<n> un postre."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Jaja... La mitad de lo que dijo era<n> galimatías\npara mí..."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Ufff. Por fin puedo relajarme. Estuve<n> tenso todo\nese tiempo..."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Tu calma me salvó el trasero, <n>Ardan. ¡Gracias!"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Jeje, yo debería ser quien te agradezca<n> por la\ninvitación. Me has dado la <n>oportunidad de\nexperimentar este café tan <n>peculiar.",
-            "choice_data_list": [
-                "Ustedes dos parecen muy unidos.",
-                "Ustedes dos parecen muy unidos."
-            ]
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Sí, nos reunimos regularmente en <n>Mejiro reuniones\nfamiliares desde que <n>éramos jóvenes. Ryan siempre\nha sido<n> tan bondadoso."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Ella siempre me enseñaba juegos nuevos o<n> me\nmostraba lugares secretos. Tengo muchos recuerdos<n>\ndivertidos y queridos con ella."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "¡Jaja! ¡Casi me olvido de eso! Eres<n> mayor que yo,\nasí que me encantaba cómo<n> siempre escuchabas lo\nque tenía que decir."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Oh, y todavía aprecio mucho eso de<n> ti, ¡incluso\nahora!"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Jeje, claro que sí. Estaré encantada de<n> escucharte\ncuando lo necesites."
-        },
-        {
-            "name": "Personal del Café",
-            "text": "Ding-a-ling! ♪ ¡Gracias por esperar!<n> Aquí están\ntus Maririns Reales ☆ ¡y tu<n> Anillo Angelical!"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Así que esto es un Royal Maririn... Es té negro."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Y este Anillo de Ángel... parece ser<n> un gran\npastel de capas."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "¡Es tan grande como un pastel entero! Parece <n>mucho\npara comer...",
-            "choice_data_list": [
-                "¡Ustedes dos pueden terminarlo si lo comparten!",
-                "¡Ustedes dos pueden terminarlo si lo comparten!",
-                "¿Qué tal si lo llevamos?"
-            ]
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "¡Es tan grande como un pastel entero! Parece <n>mucho\npara comer...",
-            "choice_data_list": [
-                "¡Ustedes dos pueden terminarlo si lo comparten!",
-                "¡Ustedes dos pueden terminarlo si lo comparten!",
-                "¿Qué tal si lo llevamos?"
-            ]
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Exactamente. Vamos a cortarlo y que cada uno tome\nsu <n>mitad, Ryan."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Mejiro Ardan realiza un corte silencioso y\n<n>elegante a través del Baumkuchen.<n>\nDesafortunadamente..."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "...¡Ay, parece que lo dividí desigual!<n> Tú puedes\nquedarte con la porción<n> grande, Ryan."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "No, como tú lo cortaste, ¡deberías comer<n> la parte\nmás grande!"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Jeje, no necesitas ser tímido. Además,<n> me gustaría\nser la Umamusume madura<n> y responsable hoy."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "...Ah, ya sé. Quizás debería cortarlo en trozos<n>\nmás pequeños para que sea más fácil de comer."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "¡Oh! Umm, ¡gracias! ¡Ay, no sé por qué,<n> pero mi\ncara está ardiendo!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Ellas comparten contentas el pastel de<n> tronco y se\nlo terminan."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Vamos a probar un poco de este té.<n> ¡Está\nbuenísimo!"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Ay, Dios mío... La fragancia es tan pura. Estas<n>\ndeben ser hojas de té de una sola finca."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "¿Se nota por el olor? Tú y<n> Dober saben tanto del\nté...<n> Hablando de bien educadas."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Nuestro conocimiento viene de nuestro<n> amor por\neso. Tienes mucho más conocimiento<n> que yo cuando\nse trata de músculos, <n>¿verdad?"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Eso es cierto... ¡Oh! Yo conozco un ejercicio<n> para\nmúsculos que puedes hacer ahora mismo,<n> ¡mientras\nestás sentado!"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Se llama \"elevación de gemelos sentado.\"<n> Te\nconcentras en cargar peso en el <n>músculo sóleo y..."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "¡Ay... Jeje."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Disfrutamos de una animada conversación sobre<n>\nvarios temas mientras saboreamos nuestro té."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Decido pasar por una cafetería para calmar mi sed.\nLa cafetería está llena, pero finalmente logro\nllegar al frente de la fila para entrar..."
+    },
+    {
+      "name": "Personal de la Cafetería",
+      "text": "¡Ding-a-ling! ♪ ¡Bienvenida! ☆ ¡Gracias por\nesperar! ¿Mesa para una?",
+      "choice_data_list": [
+        "Sí, por favor."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Guau! ¡Este lugar es super lindo y elegante! ¡Voy\na desentonar como un pulgar dolorido!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿En serio? A mí me parece que encajas\nperfectamente."
+    },
+    {
+      "name": "Personal de la Cafetería",
+      "text": "Lamento mucho informar que en este momento no\ntenemos mesas vacías..."
+    },
+    {
+      "name": "Personal de la Cafetería",
+      "text": "Eh... ¿Le importaría compartir su mesa con estos\ndos clientes?",
+      "choice_data_list": [
+        "No me importa en absoluto."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Oh! ¡Eres una entrenadora de la academia!\n¿Segura? ¡Lo agradeceríamos mucho!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Muy bien, permítanos aceptar su amabilidad y\nacompañarla."
+    },
+    {
+      "name": "Personal de la Cafetería",
+      "text": "¡Muchas gracias! ☆ ¡Le mostraré su mesa! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos sentamos en nuestra mesa y revisamos el menú.\nCuando estamos a punto de pedir..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eh... Para mi bebida, tomaré un, eh... Royal...\nMari... ¿Maririn? Por favor."
+    },
+    {
+      "name": "Personal del café",
+      "text": "¡Claro que sí! ♪ ¡Un Real ☆ Maririn! ¿Te gustaría\nun Anillo de Ángel para acompañar eso? ¡Está en\nnuestro menú de postres de temporada!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Eh?! Ah, eh, sí... Uno de esos también."
+    },
+    {
+      "name": "Personal de la cafetería",
+      "text": "¡Absolutamente! ♪ ¡Oh! Tienes una opción de tres\ntamaños para tu bebida: Dolly, Pretty o Charming.\n¿Cuál te gustaría? ☆"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿B-bonita? ¿Encantadora? Eh, um..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Disculpen... Es la primera vez que venimos aquí.\n¿Podrían explicarnos las tallas, por favor?"
+    },
+    {
+      "name": "Personal del Café",
+      "text": "¡Claro! ☆ \"Dolly\" es pequeño, \"Pretty\" es mediano,\ny..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de escuchar al personal repasar los\nnombres de tallas únicas, de alguna manera\nlogramos pedir tres bebidas y un postre."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Jaja... La mitad de lo que dijo era galimatías\npara mí..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ufff. Por fin puedo relajarme. Estuve tenso todo\nese tiempo..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Tu calma me salvó el trasero, Ardan. ¡Gracias!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje, yo debería ser quien te agradezca por la\ninvitación. Me has dado la oportunidad de\nexperimentar este café tan peculiar.",
+      "choice_data_list": [
+        "Ustedes dos parecen muy unidos.",
+        "Ustedes dos parecen muy unidos."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí, nos reunimos regularmente en Mejiro reuniones\nfamiliares desde que éramos jóvenes. Ryan siempre\nha sido tan bondadoso."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ella siempre me enseñaba juegos nuevos o me\nmostraba lugares secretos. Tengo muchos recuerdos\ndivertidos y queridos con ella."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Jaja! ¡Casi me olvido de eso! Eres mayor que yo,\nasí que me encantaba cómo siempre escuchabas lo\nque tenía que decir."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Oh, y todavía aprecio mucho eso de ti, ¡incluso\nahora!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje, claro que sí. Estaré encantada de escucharte\ncuando lo necesites."
+    },
+    {
+      "name": "Personal del Café",
+      "text": "Ding-a-ling! ♪ ¡Gracias por esperar! Aquí están\ntus Maririns Reales ☆ ¡y tu Anillo Angelical!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Así que esto es un Royal Maririn... Es té negro."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Y este Anillo de Ángel... parece ser un gran\npastel de capas."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Es tan grande como un pastel entero! Parece mucho\npara comer...",
+      "choice_data_list": [
+        "¡Ustedes dos pueden terminarlo si lo comparten!",
+        "¡Ustedes dos pueden terminarlo si lo comparten!",
+        "¿Qué tal si lo llevamos?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Es tan grande como un pastel entero! Parece mucho\npara comer...",
+      "choice_data_list": [
+        "¡Ustedes dos pueden terminarlo si lo comparten!",
+        "¡Ustedes dos pueden terminarlo si lo comparten!",
+        "¿Qué tal si lo llevamos?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Exactamente. Vamos a cortarlo y que cada uno tome\nsu mitad, Ryan."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ardan realiza un corte silencioso y\nelegante a través del Baumkuchen.\nDesafortunadamente..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...¡Ay, parece que lo dividí desigual! Tú puedes\nquedarte con la porción grande, Ryan."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "No, como tú lo cortaste, ¡deberías comer la parte\nmás grande!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje, no necesitas ser tímido. Además, me gustaría\nser la Umamusume madura y responsable hoy."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Ah, ya sé. Quizás debería cortarlo en trozos\nmás pequeños para que sea más fácil de comer."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Oh! Umm, ¡gracias! ¡Ay, no sé por qué, pero mi\ncara está ardiendo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ellas comparten contentas el pastel de tronco y se\nlo terminan."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Vamos a probar un poco de este té. ¡Está\nbuenísimo!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ay, Dios mío... La fragancia es tan pura. Estas\ndeben ser hojas de té de una sola finca."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Se nota por el olor? Tú y Dober saben tanto del\nté... Hablando de bien educadas."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Nuestro conocimiento viene de nuestro amor por\neso. Tienes mucho más conocimiento que yo cuando\nse trata de músculos, ¿verdad?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eso es cierto... ¡Oh! Yo conozco un ejercicio para\nmúsculos que puedes hacer ahora mismo, ¡mientras\nestás sentado!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Se llama \"elevación de gemelos sentado.\" Te\nconcentras en cargar peso en el músculo sóleo y..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Ay... Jeje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Disfrutamos de una animada conversación sobre\nvarios temas mientras saboreamos nuestro té."
+    }
+  ]
 }

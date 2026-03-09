@@ -1,255 +1,255 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Smart Falcon está organizando un encuentro<n> festivo\ncon sus seguidores. Vamos al lugar<n> del evento\njuntos para encontrar..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "<i>Charla, charla...</i>"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¡Guau, hay tanta gente! ¿Crees que<n> algún gran\nídolo está organizando un<n> evento?",
-            "choice_data_list": [
-                "¡Creo que hay un evento para una Umadol enorme\nllamada Falco!"
-            ]
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "...¿¡Qué?! ¿Quieres decir que toda esta gente son\n<n><i>mis</i> seguidores?!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¡Guau... Esto es... <i>increíble!</i>"
-        },
-        {
-            "name": "Eishin Flash",
-            "text": "Hola, Falcon."
-        },
-        {
-            "name": "Eishin Flash",
-            "text": "Te esperábamos para que llegaras hace<n> dos minutos\ny cuarenta segundos. Por favor,<n> apúrate a la sala\nde espera."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¿Flash? ¿Qué <i>estás <i>tú</i> haciendo aquí?"
-        },
-        {
-            "name": "Eishin Flash",
-            "text": "No estoy solo. También hay..."
-        },
-        {
-            "name": "Corredora de Tierra B",
-            "text": "¡Esta es la fila para conocer a Falco! ¡La<n> fila\npara productos está del otro lado!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Guau... ¿Todos están aquí para ayudarme?",
-            "choice_data_list": [
-                "Así es."
-            ]
-        },
-        {
-            "name": "Monólogo",
-            "text": "Explico que varios corredores a los que se <n>ha\nenfrentado en el pasado ofrecieron gustosamente<n>\nayudar tan pronto como ella anunció el <n>encuentro."
-        },
-        {
-            "name": "Eishin Flash",
-            "text": "Todos están muy agradecidos por tus esfuerzos en<n>\npromover las carreras de tierra."
-        },
-        {
-            "name": "Eishin Flash",
-            "text": "Parece que buscaban una forma de devolverte<n> el\nfavor."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "<i>Aw... <i>Snif...</i> Voy a llorar."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¡Y gracias a ti también, Flash! ☆"
-        },
-        {
-            "name": "Eishin Flash",
-            "text": "Simplemente tenía tiempo en <n>mi agenda. No hay de\nqué."
-        },
-        {
-            "name": "Eishin Flash",
-            "text": "Dicho eso, si esto se alarga, será un problema.<n>\nPor favor, dirígete a la sala de <n>espera de\ninmediato."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Al final, más del doble de la <n>cantidad esperada de\nseguidores se presentan<n> al encuentro, cada uno de\nellos <n>mostrando una pasión increíble."
-        },
-        {
-            "name": "Fan de Falco A",
-            "text": "¡Guau... Eres tan linda!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¡Gracias! ☆"
-        },
-        {
-            "name": "Fan de Falco A",
-            "text": "Eh, solo me convertí en tu seguidor <n>recientemente,\npero ¡te apoyaré hasta el<n> final!"
-        },
-        {
-            "name": "Fan de Falco A",
-            "text": "¡Ver correr tan duro por la cima<n> siempre me da\nenergía!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¡Muchas gracias! ♪ ¡Voy a seguir<n> corriendo\nexactamente así! ☆"
-        },
-        {
-            "name": "Fan Emocionado",
-            "text": "...! ...! ...!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¿E-está todo bien?"
-        },
-        {
-            "name": "Fan Emocionado",
-            "text": "...! ...! ...! ...!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Oh, ¡una libreta! A ver..."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "\"¡Te quiero!\""
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¡Gracias! ☆ ¡Mensaje recibido <n>alto y claro! ♪"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¡Gracias por encontrar el valor para<n> venir hoy!\n¡Por favor, sigue <n>apoyándome!"
-        },
-        {
-            "name": "Fan Emocionado",
-            "text": "...D-d-def... def... ¡Sí!"
-        },
-        {
-            "name": "Chica con Coletas",
-            "text": "Falco!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¡Oh! ¡Eres la chica de la orilla del río!<n>\n¡Viniste! ☆"
-        },
-        {
-            "name": "Chica con Coletas",
-            "text": "¡Sí! ¡Brillaste tanto hoy!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "...¡Gracias! ☆ ¡Eso me hace tan<n> feliz!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¡También recibí tu carta! ¡Las pegatinas\n<n>brillantes que tú decoraste eran tan lindas! ☆<n>\n¡Gracias! ♪"
-        },
-        {
-            "name": "Chica con Coletas",
-            "text": "Jeje. Por cierto, ¡decidí lo que <n>quiero ser cuando\nsea grande!"
-        },
-        {
-            "name": "Chica con Coletas",
-            "text": "¡Quiero ser una Umadol, igual que tú!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "...!"
-        },
-        {
-            "name": "Chica con Coletas",
-            "text": "¡Cantemos juntos algún día! ¡Espérame,<n> ¿vale?"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¡Sí, te estaré esperando en el <n>escenario\nbrillante!"
-        },
-        {
-            "name": "Fan de Falco B",
-            "text": "¡Me encanta cómo corres con tanta <n>fuerza! ¡Eres\ntan genial... y linda... te amo,<n> Falcooo!"
-        },
-        {
-            "name": "Fan de Falco C",
-            "text": "verte trabajar tan duro es lo que me<n> mantiene en\nmarcha... Me hace querer <n>dedicarlo todo a correr."
-        },
-        {
-            "name": "Fan de Falco C",
-            "text": "Gracias, Falco... ¡Gracias por <n>convertirte en una\nUmadol!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "..."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¡Debería ser yo quien te da las gracias! ¡Estoy\ntan<n> feliz de que me hayas encontrado!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Las amables palabras de sus muchos <n>fans le dan\nenergía a Smart Falcon. Finalmente, <n>durante sus\npalabras de cierre..."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Honestamente, he estado un poco agitada\núltimamente."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Todo lo que he podido pensar es que <i>necesito</i><n>\nganar—que <i></i><i>necesito</i> estar en <n>la cima."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Sentía que todo dependía de mí para hacer que las\n<n>carreras de tierra fueran más populares, lo que se\n<n>convirtió en mucha presión."
-        },
-        {
-            "name": "Fans",
-            "text": "¡No tienes que preocuparte por eso!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Jeje, ¡gracias! ☆ ¡Y tienes razón! ¡Estoy<n>\ntotalmente bien ahora!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¿Sabes por qué? ¡Porque hoy pude<n> ver las caras de\ntodos de cerca y en<n> persona!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Tengo tanta suerte de haber recibido<n> tanto cariño\nde todos."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Así que pensé para mí hoy... Tal <n>vez estar en la\ncima no es lo más<n> importante."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¡Lo importante es que acepto los <n>sentimientos de\ntodos y brillo tan intensamente<n> como puedo!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "¡Soy la Umadol de la tierra, pero también<n> soy la\nUmadol de todos! ☆"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Wooooo!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "El encuentro y saludo llega a su fin <n>en medio de\ngran alegría. Lo siguiente..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "¡Por fin—el Tokyo Daishoten<n> nos espera!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon está organizando un encuentro festivo\ncon sus seguidores. Vamos al lugar del evento\njuntos para encontrar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Charla, charla...</i>"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Guau, hay tanta gente! ¿Crees que algún gran\nídolo está organizando un evento?",
+      "choice_data_list": [
+        "¡Creo que hay un evento para una Umadol enorme\nllamada Falco!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...¿¡Qué?! ¿Quieres decir que toda esta gente son\n<i>mis</i> seguidores?!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Guau... Esto es... <i>increíble!</i>"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Hola, Falcon."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Te esperábamos para que llegaras hace dos minutos\ny cuarenta segundos. Por favor, apúrate a la sala\nde espera."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Flash? ¿Qué <i>estás <i>tú</i> haciendo aquí?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No estoy solo. También hay..."
+    },
+    {
+      "name": "Corredora de Tierra B",
+      "text": "¡Esta es la fila para conocer a Falco! ¡La fila\npara productos está del otro lado!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Guau... ¿Todos están aquí para ayudarme?",
+      "choice_data_list": [
+        "Así es."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Explico que varios corredores a los que se ha\nenfrentado en el pasado ofrecieron gustosamente\nayudar tan pronto como ella anunció el encuentro."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Todos están muy agradecidos por tus esfuerzos en\npromover las carreras de tierra."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Parece que buscaban una forma de devolverte el\nfavor."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Aw... <i>Snif...</i> Voy a llorar."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Y gracias a ti también, Flash! ☆"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Simplemente tenía tiempo en mi agenda. No hay de\nqué."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Dicho eso, si esto se alarga, será un problema.\nPor favor, dirígete a la sala de espera de\ninmediato."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, más del doble de la cantidad esperada de\nseguidores se presentan al encuentro, cada uno de\nellos mostrando una pasión increíble."
+    },
+    {
+      "name": "Fan de Falco A",
+      "text": "¡Guau... Eres tan linda!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Gracias! ☆"
+    },
+    {
+      "name": "Fan de Falco A",
+      "text": "Eh, solo me convertí en tu seguidor recientemente,\npero ¡te apoyaré hasta el final!"
+    },
+    {
+      "name": "Fan de Falco A",
+      "text": "¡Ver correr tan duro por la cima siempre me da\nenergía!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Muchas gracias! ♪ ¡Voy a seguir corriendo\nexactamente así! ☆"
+    },
+    {
+      "name": "Fan Emocionado",
+      "text": "...! ...! ...!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿E-está todo bien?"
+    },
+    {
+      "name": "Fan Emocionado",
+      "text": "...! ...! ...! ...!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Oh, ¡una libreta! A ver..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "\"¡Te quiero!\""
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Gracias! ☆ ¡Mensaje recibido alto y claro! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Gracias por encontrar el valor para venir hoy!\n¡Por favor, sigue apoyándome!"
+    },
+    {
+      "name": "Fan Emocionado",
+      "text": "...D-d-def... def... ¡Sí!"
+    },
+    {
+      "name": "Chica con Coletas",
+      "text": "Falco!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh! ¡Eres la chica de la orilla del río!\n¡Viniste! ☆"
+    },
+    {
+      "name": "Chica con Coletas",
+      "text": "¡Sí! ¡Brillaste tanto hoy!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...¡Gracias! ☆ ¡Eso me hace tan feliz!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡También recibí tu carta! ¡Las pegatinas\nbrillantes que tú decoraste eran tan lindas! ☆\n¡Gracias! ♪"
+    },
+    {
+      "name": "Chica con Coletas",
+      "text": "Jeje. Por cierto, ¡decidí lo que quiero ser cuando\nsea grande!"
+    },
+    {
+      "name": "Chica con Coletas",
+      "text": "¡Quiero ser una Umadol, igual que tú!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...!"
+    },
+    {
+      "name": "Chica con Coletas",
+      "text": "¡Cantemos juntos algún día! ¡Espérame, ¿vale?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí, te estaré esperando en el escenario\nbrillante!"
+    },
+    {
+      "name": "Fan de Falco B",
+      "text": "¡Me encanta cómo corres con tanta fuerza! ¡Eres\ntan genial... y linda... te amo, Falcooo!"
+    },
+    {
+      "name": "Fan de Falco C",
+      "text": "verte trabajar tan duro es lo que me mantiene en\nmarcha... Me hace querer dedicarlo todo a correr."
+    },
+    {
+      "name": "Fan de Falco C",
+      "text": "Gracias, Falco... ¡Gracias por convertirte en una\nUmadol!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Debería ser yo quien te da las gracias! ¡Estoy\ntan feliz de que me hayas encontrado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las amables palabras de sus muchos fans le dan\nenergía a Smart Falcon. Finalmente, durante sus\npalabras de cierre..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Honestamente, he estado un poco agitada\núltimamente."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Todo lo que he podido pensar es que <i>necesito</i>\nganar—que <i></i><i>necesito</i> estar en la cima."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sentía que todo dependía de mí para hacer que las\ncarreras de tierra fueran más populares, lo que se\nconvirtió en mucha presión."
+    },
+    {
+      "name": "Fans",
+      "text": "¡No tienes que preocuparte por eso!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Jeje, ¡gracias! ☆ ¡Y tienes razón! ¡Estoy\ntotalmente bien ahora!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Sabes por qué? ¡Porque hoy pude ver las caras de\ntodos de cerca y en persona!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Tengo tanta suerte de haber recibido tanto cariño\nde todos."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Así que pensé para mí hoy... Tal vez estar en la\ncima no es lo más importante."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Lo importante es que acepto los sentimientos de\ntodos y brillo tan intensamente como puedo!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Soy la Umadol de la tierra, pero también soy la\nUmadol de todos! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El encuentro y saludo llega a su fin en medio de\ngran alegría. Lo siguiente..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Por fin—el Tokyo Daishoten nos espera!"
+    }
+  ]
 }

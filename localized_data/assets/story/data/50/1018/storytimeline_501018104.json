@@ -1,288 +1,288 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Un día en el campamento de verano, durante nuestro<n>\ntiempo libre después del entrenamiento..."
-        },
-        {
-            "name": "Air Groove",
-            "text": "..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Veo a Air Groove mirando preocupada en la<n> zona de\ndescanso. En la mesa frente a ella hay<n> algunos\nbolígrafos y un bloc de notas.",
-            "choice_data_list": [
-                "¿Todo bien?",
-                "¿Todo bien?"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "Oh, hola."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Buen momento. Quiero tu opinión<n> sobre algo."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Mira esto."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Recojo el cuaderno que Air Groove había<n> estado\nmirando. Parece que ha estado <n>trabajando en un\nrégimen de entrenamiento."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Es bastante intenso en volumen y <n>dificultad, pero\nmucho de él parece <n>sorprendentemente básico según\nlos estándares<n> de Air Groove.",
-            "choice_data_list": [
-                "¿Hiciste esto para ti?",
-                "¿Hiciste esto para ti?"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "No, esto es para la Umamusume que se une al<n>\ncampamento de verano por primera vez el próximo\naño."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Lo diseñé para estudiantes que no tienen<n> un\nentrenador propio, o que desean <n>complementar su\nentrenamiento asignado."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Pensé que podría ser útil tener tal <n>plantilla\ndisponible, para que las <n>Umamusume más jóvenes\nsepan cómo aprovechar<n> mejor su tiempo.",
-            "choice_data_list": [
-                "Ya veo..."
-            ]
-        },
-        {
-            "name": "Monólogo",
-            "text": "Pensar que Air Groove ha estado considerando<n> las\nnecesidades de futuros participantes<n> del\ncampamento, incluso cuando ella tiene su propio<n>\nentrenamiento para el Shuka Sho al que asistir..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Conmovido por la profundidad de su preocupación<n>\npor los demás, decido ayudarla."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Oh, ya es tan tarde..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Antes de que nos demos cuenta, ya es hora de\n<n>apagar las luces."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Durante las últimas horas, hemos convertido<n> el\núnico régimen en muchos, cada uno<n> dirigido a\ncierta área en la que trabajar."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Heh, nada mal. No es que esperara<n> menos de mi\nentrenador, por <n>cierto.",
-            "choice_data_list": [
-                "Buen trabajo, Air Groove."
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "Gracias. Deberías ir a la cama sin<n> demora esta\nnoche. Tenemos un comienzo <n>temprano mañana."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Al día siguiente, después del final de la <n>sesión\nde entrenamiento grupal..."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Allí estás."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Voy a probar los regímenes de <n>entrenamiento que\nescribimos ayer. <n>Vamos.",
-            "choice_data_list": [
-                "¿Espera, ¡ahora?!"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "¿Qué te sorprende tanto? ¿Realmente<n> esperas que\nrecomiende un régimen de<n> entrenamiento que no haya\nprobado yo misma?"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Tenemos una responsabilidad como creadores de\n<n>asegurarnos de que estos regímenes sean perfectos.\n<n>Estoy sorprendida de que esto siquiera <n>necesite\nexplicación.",
-            "choice_data_list": [
-                "¿No estás cansado?",
-                "¿No estás cansado?"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "No seas ridículo. ¿Exactamente qué es<n> lo que crees\nque soy? Esto también te <n>beneficia a ti, ¿sabes?"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Esta es la oportunidad perfecta para hacer<n> algo de\nentrenamiento enfocado en preparación<n> para el\nShuka Sho."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Air Groove esboza una sonrisa desarmante<n> que no\ndeja lugar a discusión."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Bien. Te dejaré elegir. ¿Cuál de<n> los regímenes de\nayer te gustaría<n> practicar?",
-            "choice_data_list": [
-                "El régimen \"Músculos de Acero\".",
-                "El régimen \"Forjado en los Fuegos del Infierno\"."
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "Ah, el régimen que se enfoca en<n> el entrenamiento\nde fuerza esencial, reforzando<n> músculos en todo el\ncuerpo."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Sí, necesitaremos probar este con cuidado para<n>\nasegurarnos de que esté debidamente equilibrado.<n>\nMuy bien, hagámoslo."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Hehe, ¡estoy ansiosa por comenzar!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Con el sol poniente a nuestras espaldas, Air<n>\nGroove y yo probamos el nuevo régimen de\n<n>entrenamiento."
-        },
-        {
-            "name": "Air Groove",
-            "text": "<i>Jadeo, jadeo, jadeo...</i>"
-        },
-        {
-            "name": "Air Groove",
-            "text": "¡Uf! ¡Sí, este régimen es genial!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Es claramente un entrenamiento <n>duro, pero Air\nGroove lo maneja sin <n>siquiera una queja. No\nesperaría menos de<n> ella."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Air Groove..."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Ella siempre se da por entero."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Por eso es capaz de apuntar a <n>la Triple Tiara."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "...¡Creo que sé lo que necesito hacer!"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Nada mal—pero ¡aún no he terminado!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Mientras Air Groove continúa su diligente\n<n>entrenamiento, una pequeña multitud de Umamusume<n>\nmás jóvenes se reúne para ver."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Es evidente que cada una de ellas <n>está asombrada\npor ella."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Air Groove eventualmente termina el<n> régimen de\nentrenamiento sin un <n>solo error."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Una carrera de ida y vuelta a toda velocidad en <n>la\nplaya que se siente como un sprint al infierno y\nde <n>regreso... Sí, la simplicidad de esta es\nprecisamente <n>lo que la convierte en la mayor\nprueba de fuerza<n> de voluntad."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Estoy un poco sorprendido de que hayas elegido<n>\nesta. Aún así, será un buen entrenamiento."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Muy bien. Espero que me ayudes a hacer esto<n> aún\nmás difícil para mí.",
-            "choice_data_list": [
-                "¿Y eso significa?"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "Si mi ritmo cae—incluso un<n> poco—antes de alcanzar\nel número objetivo <n>de vueltas, necesitas ponerme\nde nuevo <n>en camino."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Mantén un ojo en mi energía y empújame<n> justo a mis\nlímites. ¿Entendido?",
-            "choice_data_list": [
-                "¡Entendido!"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "Para que quede claro, pretendo ir más rápido<n> de lo\nque te imaginas. Trata esto <n>como una competencia\nde vida o muerte."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Comenzamos el régimen \"Forjado en los <n>Fuegos del\nInfierno\", y el ritmo de Air Groove<n> eventualmente\nempieza a caer a medida que <n>acumula repeticiones."
-        },
-        {
-            "name": "Air Groove",
-            "text": "<i>Jadeo, jadeo, jadeo!</i>",
-            "choice_data_list": [
-                "¡Eso fue una décima de segundo más lento!",
-                "¡Eso fue una décima de segundo más lento!"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "Hmph... ¡No si puedo evitarlo!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Air Groove esboza una sonrisa y aumenta<n> su ritmo.\nQuedo asombrado por su valor<n> y renuencia a\nrendirse."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Air Groove..."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Ella siempre busca alcanzar mayores<n> alturas."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Por eso es capaz de apuntar a la <n>Triple Tiara con\ntanta confianza."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "...¡Creo que sé lo que necesito hacer!"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Ngh...",
-            "choice_data_list": [
-                "¡Vamos! ¿¡Eso es lo mejor que tienes?!",
-                "¡Vamos! ¿¡Eso es lo mejor que tienes?!"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "¡Por supuesto que no!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Mientras Air Groove se empuja a sus <n>límites, una\npequeña multitud de Umamusume<n> más jóvenes se reúne\npara ver."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Es evidente que cada una de ellas <n>está asombrada\npor ella."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Mientras la multitud extasiada mira, Air <n>Groove\nlogra espectacularmente su objetivo de<n> reputación."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día en el campamento de verano, durante nuestro\ntiempo libre después del entrenamiento..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Veo a Air Groove mirando preocupada en la zona de\ndescanso. En la mesa frente a ella hay algunos\nbolígrafos y un bloc de notas.",
+      "choice_data_list": [
+        "¿Todo bien?",
+        "¿Todo bien?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Oh, hola."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Buen momento. Quiero tu opinión sobre algo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Mira esto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recojo el cuaderno que Air Groove había estado\nmirando. Parece que ha estado trabajando en un\nrégimen de entrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es bastante intenso en volumen y dificultad, pero\nmucho de él parece sorprendentemente básico según\nlos estándares de Air Groove.",
+      "choice_data_list": [
+        "¿Hiciste esto para ti?",
+        "¿Hiciste esto para ti?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "No, esto es para la Umamusume que se une al\ncampamento de verano por primera vez el próximo\naño."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Lo diseñé para estudiantes que no tienen un\nentrenador propio, o que desean complementar su\nentrenamiento asignado."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Pensé que podría ser útil tener tal plantilla\ndisponible, para que las Umamusume más jóvenes\nsepan cómo aprovechar mejor su tiempo.",
+      "choice_data_list": [
+        "Ya veo..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensar que Air Groove ha estado considerando las\nnecesidades de futuros participantes del\ncampamento, incluso cuando ella tiene su propio\nentrenamiento para el Shuka Sho al que asistir..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Conmovido por la profundidad de su preocupación\npor los demás, decido ayudarla."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Oh, ya es tan tarde..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que nos demos cuenta, ya es hora de\napagar las luces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Durante las últimas horas, hemos convertido el\núnico régimen en muchos, cada uno dirigido a\ncierta área en la que trabajar."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Heh, nada mal. No es que esperara menos de mi\nentrenador, por cierto.",
+      "choice_data_list": [
+        "Buen trabajo, Air Groove."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Gracias. Deberías ir a la cama sin demora esta\nnoche. Tenemos un comienzo temprano mañana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, después del final de la sesión\nde entrenamiento grupal..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Allí estás."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Voy a probar los regímenes de entrenamiento que\nescribimos ayer. Vamos.",
+      "choice_data_list": [
+        "¿Espera, ¡ahora?!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Qué te sorprende tanto? ¿Realmente esperas que\nrecomiende un régimen de entrenamiento que no haya\nprobado yo misma?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Tenemos una responsabilidad como creadores de\nasegurarnos de que estos regímenes sean perfectos.\nEstoy sorprendida de que esto siquiera necesite\nexplicación.",
+      "choice_data_list": [
+        "¿No estás cansado?",
+        "¿No estás cansado?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "No seas ridículo. ¿Exactamente qué es lo que crees\nque soy? Esto también te beneficia a ti, ¿sabes?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Esta es la oportunidad perfecta para hacer algo de\nentrenamiento enfocado en preparación para el\nShuka Sho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove esboza una sonrisa desarmante que no\ndeja lugar a discusión."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Bien. Te dejaré elegir. ¿Cuál de los regímenes de\nayer te gustaría practicar?",
+      "choice_data_list": [
+        "El régimen \"Músculos de Acero\".",
+        "El régimen \"Forjado en los Fuegos del Infierno\"."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ah, el régimen que se enfoca en el entrenamiento\nde fuerza esencial, reforzando músculos en todo el\ncuerpo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sí, necesitaremos probar este con cuidado para\nasegurarnos de que esté debidamente equilibrado.\nMuy bien, hagámoslo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hehe, ¡estoy ansiosa por comenzar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con el sol poniente a nuestras espaldas, Air\nGroove y yo probamos el nuevo régimen de\nentrenamiento."
+    },
+    {
+      "name": "Air Groove",
+      "text": "<i>Jadeo, jadeo, jadeo...</i>"
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Uf! ¡Sí, este régimen es genial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es claramente un entrenamiento duro, pero Air\nGroove lo maneja sin siquiera una queja. No\nesperaría menos de ella."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Air Groove..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ella siempre se da por entero."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Por eso es capaz de apuntar a la Triple Tiara."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...¡Creo que sé lo que necesito hacer!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Nada mal—pero ¡aún no he terminado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Air Groove continúa su diligente\nentrenamiento, una pequeña multitud de Umamusume\nmás jóvenes se reúne para ver."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es evidente que cada una de ellas está asombrada\npor ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove eventualmente termina el régimen de\nentrenamiento sin un solo error."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Una carrera de ida y vuelta a toda velocidad en la\nplaya que se siente como un sprint al infierno y\nde regreso... Sí, la simplicidad de esta es\nprecisamente lo que la convierte en la mayor\nprueba de fuerza de voluntad."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Estoy un poco sorprendido de que hayas elegido\nesta. Aún así, será un buen entrenamiento."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Muy bien. Espero que me ayudes a hacer esto aún\nmás difícil para mí.",
+      "choice_data_list": [
+        "¿Y eso significa?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Si mi ritmo cae—incluso un poco—antes de alcanzar\nel número objetivo de vueltas, necesitas ponerme\nde nuevo en camino."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Mantén un ojo en mi energía y empújame justo a mis\nlímites. ¿Entendido?",
+      "choice_data_list": [
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Para que quede claro, pretendo ir más rápido de lo\nque te imaginas. Trata esto como una competencia\nde vida o muerte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Comenzamos el régimen \"Forjado en los Fuegos del\nInfierno\", y el ritmo de Air Groove eventualmente\nempieza a caer a medida que acumula repeticiones."
+    },
+    {
+      "name": "Air Groove",
+      "text": "<i>Jadeo, jadeo, jadeo!</i>",
+      "choice_data_list": [
+        "¡Eso fue una décima de segundo más lento!",
+        "¡Eso fue una décima de segundo más lento!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hmph... ¡No si puedo evitarlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove esboza una sonrisa y aumenta su ritmo.\nQuedo asombrado por su valor y renuencia a\nrendirse."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Air Groove..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ella siempre busca alcanzar mayores alturas."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Por eso es capaz de apuntar a la Triple Tiara con\ntanta confianza."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...¡Creo que sé lo que necesito hacer!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ngh...",
+      "choice_data_list": [
+        "¡Vamos! ¿¡Eso es lo mejor que tienes?!",
+        "¡Vamos! ¿¡Eso es lo mejor que tienes?!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Por supuesto que no!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Air Groove se empuja a sus límites, una\npequeña multitud de Umamusume más jóvenes se reúne\npara ver."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es evidente que cada una de ellas está asombrada\npor ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras la multitud extasiada mira, Air Groove\nlogra espectacularmente su objetivo de reputación."
+    }
+  ]
 }

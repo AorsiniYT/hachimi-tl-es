@@ -1,108 +1,108 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Un día, mientras estoy comprando cosas<n> en el\nbarrio comercial, escucho a <n>alguien riendo muy\nfuerte."
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "¡Ahahahahaha!"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "¡Mis <i>costados! ¡No </i>te vas a creer<n> esto!",
-            "choice_data_list": [
-                "¿Qué pasa?",
-                "¿Qué pasa?"
-            ]
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "...¡Bwahahaha!"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "<i>¡Resuello!</i> ¡Es MUY gracioso, no puedo más!",
-            "choice_data_list": [
-                "¡Recupérate!",
-                "Solo tómate un momento para calmarte."
-            ]
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "¡Hnnngh! ¡Vale! ¡Ya me recuperé!"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "Estaba en el supermercado y, en serio, vi una<n>\nzanahoria que se parecía <i>exactamente</i> a<n> la cara de\nGolshi cuando ella bosteza, y..."
-        },
-        {
-            "name": "Gato",
-            "text": "¡Meooooow!"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "¡Oh! ¡Un gatito?! Espera... ¡Ahahahaha!",
-            "choice_data_list": [
-                "Eh, ¿qué es tan gracioso?",
-                "Eh, ¿qué es tan gracioso?"
-            ]
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "¡Sus bigotes están torcidos!"
-        },
-        {
-            "name": "Perro",
-            "text": "¡Guau, guau!"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "¡Un cachorro! ¡Ahahaha! ¡Es tan adorable!"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "<i>Jadeo... jadeo...</i> Uf, reírse tanto no es broma.\nMis<n> abdominales se están agarrotando tanto—siento<n>\ncomo si acabara de hacer cincuenta abdominales."
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "¡Oh, disparates! ¡Cuándo se hizo tan tarde?! ¡Le<n>\nprometí a alguien que correría con él/ella!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Daitaku Helios rápidamente sale corriendo de<n>\nvuelta a la academia."
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "Vale. Déjame intentar respirar <n>profundamente."
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "¡Haaah... Phewww...!"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "Vale, hora de imaginar algo que<n> me calme."
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "¡Sé justo lo que! Pensaré en el discurso<n> de la\nPresidenta Rudolf..."
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "¡Pfft... Jajajaja!",
-            "choice_data_list": [
-                "¡Ahora qué?!"
-            ]
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "<i>Jadeo... Resuello...</i> Lo siento. <n>Solo recordé el\njuego de palabras super vergonzoso<n> que hizo, y—"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Sus intentos de calmarse completamente<n> fracasan, y\nDaitaku Helios termina<n> doblada de risa\ninterminable."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estoy comprando cosas en el\nbarrio comercial, escucho a alguien riendo muy\nfuerte."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Ahahahahaha!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Mis <i>costados! ¡No </i>te vas a creer esto!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "...¡Bwahahaha!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "<i>¡Resuello!</i> ¡Es MUY gracioso, no puedo más!",
+      "choice_data_list": [
+        "¡Recupérate!",
+        "Solo tómate un momento para calmarte."
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Hnnngh! ¡Vale! ¡Ya me recuperé!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Estaba en el supermercado y, en serio, vi una\nzanahoria que se parecía <i>exactamente</i> a la cara de\nGolshi cuando ella bosteza, y..."
+    },
+    {
+      "name": "Gato",
+      "text": "¡Meooooow!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Oh! ¡Un gatito?! Espera... ¡Ahahahaha!",
+      "choice_data_list": [
+        "Eh, ¿qué es tan gracioso?",
+        "Eh, ¿qué es tan gracioso?"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Sus bigotes están torcidos!"
+    },
+    {
+      "name": "Perro",
+      "text": "¡Guau, guau!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Un cachorro! ¡Ahahaha! ¡Es tan adorable!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "<i>Jadeo... jadeo...</i> Uf, reírse tanto no es broma.\nMis abdominales se están agarrotando tanto—siento\ncomo si acabara de hacer cincuenta abdominales."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Oh, disparates! ¡Cuándo se hizo tan tarde?! ¡Le\nprometí a alguien que correría con él/ella!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daitaku Helios rápidamente sale corriendo de\nvuelta a la academia."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Vale. Déjame intentar respirar profundamente."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Haaah... Phewww...!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Vale, hora de imaginar algo que me calme."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Sé justo lo que! Pensaré en el discurso de la\nPresidenta Rudolf..."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Pfft... Jajajaja!",
+      "choice_data_list": [
+        "¡Ahora qué?!"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "<i>Jadeo... Resuello...</i> Lo siento. Solo recordé el\njuego de palabras super vergonzoso que hizo, y—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus intentos de calmarse completamente fracasan, y\nDaitaku Helios termina doblada de risa\ninterminable."
+    }
+  ]
 }

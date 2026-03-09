@@ -2,7 +2,7 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, llevo a <chrname><n> a la enfermería para un chequeo."
+      "text": "Un día, llevo a <chrname> a la enfermería para un chequeo."
     },
     {
       "name": "???",
@@ -10,21 +10,21 @@
     },
     {
       "name": "???",
-      "text": "¿Estás herido? ¿Enfermo? ¿Estresado? ¡Sea <n>lo que\nsea, yo lo trato todo!",
+      "text": "¿Estás herido? ¿Enfermo? ¿Estresado? ¡Sea lo que\nsea, yo lo trato todo!",
       "choice_data_list": [
         "¿Quién eres?!"
       ]
     },
     {
       "name": "???",
-      "text": "Bueno, considerando que estás en la enfermería<n> de\nla academia, diría que eso me convierte<n> en tu\nconfiable enfermera escolar! ¡Sí, <n>solo una\nempleada escolar común!",
+      "text": "Bueno, considerando que estás en la enfermería de\nla academia, diría que eso me convierte en tu\nconfiable enfermera escolar! ¡Sí, solo una\nempleada escolar común!",
       "choice_data_list": [
         "¿No lo eres?"
       ]
     },
     {
       "name": "???",
-      "text": "¡Jajaja! Supongo que no hay manera de <n>engañarte.\nSupongo que debo empezar dándote mi<n> nombre."
+      "text": "¡Jajaja! Supongo que no hay manera de engañarte.\nSupongo que debo empezar dándote mi nombre."
     },
     {
       "name": "???",
@@ -32,18 +32,18 @@
     },
     {
       "name": "???",
-      "text": "Soy la (probable) salvadora de <n>todas las\nUmamusume, la (autoproclamada)<n> legendaria\nacupunturista con el toque<n> mágico..."
+      "text": "Soy la (probable) salvadora de todas las\nUmamusume, la (autoproclamada) legendaria\nacupunturista con el toque mágico..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡La única e inigualable Sasami Anshinzawa! <n>¿Ves?\nNo preocupaciones! ☆",
+      "text": "¡La única e inigualable Sasami Anshinzawa! ¿Ves?\nNo preocupaciones! ☆",
       "choice_data_list": [
         "..."
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...En otras palabras, eres un extraño <n>sospechoso e\npoco confiable. Desafortunadamente para<n> ti, estoy\nen perfecto estado de salud y no requiero<n>\ntratamiento."
+      "text": "...En otras palabras, eres un extraño sospechoso e\npoco confiable. Desafortunadamente para ti, estoy\nen perfecto estado de salud y no requiero\ntratamiento."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -51,26 +51,26 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No importa! ¡No importa! Ya nos hemos<n> presentado,\nasí que acuéstate y déjame <n>poner estas agujas a\ntrabajar!"
+      "text": "¡No importa! ¡No importa! Ya nos hemos presentado,\nasí que acuéstate y déjame poner estas agujas a\ntrabajar!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¡Espera! Al menos muéstrame algunos datos<n> clínicos\nde este tratamiento. ¿Qué tipo de <n>efectos\nposteriores al procedimiento hay?<n> ¡Entrenador,\nayuda!"
+      "text": "¡Espera! Al menos muéstrame algunos datos clínicos\nde este tratamiento. ¿Qué tipo de efectos\nposteriores al procedimiento hay? ¡Entrenador,\nayuda!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Jajaja! ¡No hay necesidad de tener miedo!<n> Todo lo\nque voy a hacer es deslizar estas <n>extraordinarias\nagujas precisamente en tus puntos<n> de chakra."
+      "text": "¡Jajaja! ¡No hay necesidad de tener miedo! Todo lo\nque voy a hacer es deslizar estas extraordinarias\nagujas precisamente en tus puntos de chakra."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y luego, voilà, presto! ¡Algo<n> indescriptible\nsucederá!",
+      "text": "¡Y luego, voilà, presto! ¡Algo indescriptible\nsucederá!",
       "choice_data_list": [
         "(Esto es indescriptiblemente sospechoso...)"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y permíteme asegurarte que<n> no hay absolutamente\nnada sospechoso <n>en esto! ¡Nunca ha salido nada\nmenos que<n> perfecto!"
+      "text": "¡Y permíteme asegurarte que no hay absolutamente\nnada sospechoso en esto! ¡Nunca ha salido nada\nmenos que perfecto!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -81,11 +81,11 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No te preocupes! Esta es mi primera vez, así<n> que\ntécnicamente, nunca he fallado con un paciente<n>\ntampoco."
+      "text": "¡No te preocupes! Esta es mi primera vez, así que\ntécnicamente, nunca he fallado con un paciente\ntampoco."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y no es como si no tuviera experiencia! Pasé<n> diez\naños bajo un maestro legendario,<n> trayendo\ngotas—¡quiero decir, entrenando!"
+      "text": "¡Y no es como si no tuviera experiencia! Pasé diez\naños bajo un maestro legendario, trayendo\ngotas—¡quiero decir, entrenando!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "text": "De ninguna manera vamos a hacer esto. Tomo<n> a <chrname> y me\ndirijo a la <n>puerta, cuando..."
+      "text": "De ninguna manera vamos a hacer esto. Tomo a <chrname> y me\ndirijo a la puerta, cuando..."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -103,18 +103,18 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Eres Biwa Hayahide, ¿verdad? La <n>Umamusume que está\ncreando una ecuación<n> ganadora usando lógica y\ndatos?",
+      "text": "Eres Biwa Hayahide, ¿verdad? La Umamusume que está\ncreando una ecuación ganadora usando lógica y\ndatos?",
       "choice_data_list": [
         "¿Has oído hablar de ella?"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¿Si he oído hablar de ella? ¡Por supuesto que <n>sí!\n¡Soy una gran fan!"
+      "text": "¿Si he oído hablar de ella? ¡Por supuesto que sí!\n¡Soy una gran fan!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Es precisamente por eso que estoy aquí! <n>¡Para\ndarte mi apoyo! ¡Déjame ayudarte!"
+      "text": "¡Es precisamente por eso que estoy aquí! ¡Para\ndarte mi apoyo! ¡Déjame ayudarte!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -122,11 +122,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Puedes suplicar todo lo que quieras, pero esto es<n>\nun procedimiento médico del que estamos\nhablando..."
+      "text": "Puedes suplicar todo lo que quieras, pero esto es\nun procedimiento médico del que estamos\nhablando..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Por favor! ¡Por faaavor con zanahoria<n> encima!\n¡Incluso te dejaré elegir<n> qué chakra activo!"
+      "text": "¡Por favor! ¡Por faaavor con zanahoria encima!\n¡Incluso te dejaré elegir qué chakra activo!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -141,14 +141,14 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Quiero decir, está del lado seguro! Eso es <i>bueno,</i>\n<n></i>¿verdad? ¡De todos modos, no te quedes atorado en<n>\nlos detalles!"
+      "text": "¡Quiero decir, está del lado seguro! Eso es <i>bueno,</i>\n</i>¿verdad? ¡De todos modos, no te quedes atorado en\nlos detalles!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Vamos a lo bueno! ¿Qué chakra debería<n> activar?\n¿Quieres un impulso a tus <n>habilidades? ¿Tu salud?\n¿O tal vez tu <n><i>encanto?</i>"
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debería activar?\n¿Quieres un impulso a tus habilidades? ¿Tu salud?\n¿O tal vez tu <i>encanto?</i>"
     },
     {
-      "text": "Huelo peligro en el aire, pero creo que<n> podría—y\nenfatizo <i>podría</i>—haber <n></i>una oportunidad de obtener\nalgo especial<n> de este tratamiento."
+      "text": "Huelo peligro en el aire, pero creo que podría—y\nenfatizo <i>podría</i>—haber </i>una oportunidad de obtener\nalgo especial de este tratamiento."
     },
     {
       "text": "¿Qué deberíamos hacer?",
@@ -162,11 +162,11 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. Entonces, ¿quieres que <n>active el\nchakra de fuerza?"
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de fuerza?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
       "choice_data_list": [
         "Adelante.",
         "Espera, un momento."
@@ -174,7 +174,7 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjalo en mis manos! ¡Hora de localizar<n>\nese chakra! ¡A buscar, a buscar, todos libres!"
+      "text": "¡Muy bien, déjalo en mis manos! ¡Hora de localizar\nese chakra! ¡A buscar, a buscar, todos libres!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -197,32 +197,32 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Mi frecuencia cardíaca, temperatura<n> corporal,\nelasticidad muscular—todo<n> está funcionando cerca\nde niveles óptimos.<n> ¡Ella realmente sabe lo que\nhace!"
+      "text": "Mi frecuencia cardíaca, temperatura corporal,\nelasticidad muscular—todo está funcionando cerca\nde niveles óptimos. ¡Ella realmente sabe lo que\nhace!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "<i>Jadeo...</i> No puede ser... ¡¿De verdad<n> funcionó?!"
+      "text": "<i>Jadeo...</i> No puede ser... ¡¿De verdad funcionó?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
     },
     {
-      "text": "<chrname> está rebosando<n> de tanto poder que casi no<n> es\nreconocible."
+      "text": "<chrname> está rebosando de tanto poder que casi no es\nreconocible."
     },
     {
-      "text": "¡Arriesgamos y pagó! ¡Este es un <n>gran salto hacia\nlograr nuestra meta!"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Uf... Mi cabeza... Se siente como si fuera del\n<n>tamaño de una sandía."
+      "text": "¡Arriesgamos y pagó! ¡Este es un gran salto hacia\nlograr nuestra meta!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No es en realidad del tamaño de una sandía,\n<n>¿verdad, ¡Entrenador?!"
+      "text": "Uf... Mi cabeza... Se siente como si fuera del\ntamaño de una sandía."
     },
     {
-      "text": "La condición de <chrname><n> se deteriora rápidamente."
+      "name": "Biwa Hayahide",
+      "text": "No es en realidad del tamaño de una sandía,\n¿verdad, ¡Entrenador?!"
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -230,18 +230,18 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿miren la hora? <n>¡Debería irme! ¡Adiós! ☆"
+      "text": "Bueno, ¿miren la hora? ¡Debería irme! ¡Adiós! ☆"
     },
     {
-      "text": "Debí haber sabido mejor que probar nuestra suerte.<n>\nYo no soy la que sufre, y sin embargo estoy llena<n>\nde arrepentimiento."
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. Entonces, ¿quieres que <n>active el\nchakra ganador?"
+      "text": "Debí haber sabido mejor que probar nuestra suerte.\nYo no soy la que sufre, y sin embargo estoy llena\nde arrepentimiento."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra ganador?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
       "choice_data_list": [
         "Adelante.",
         "Espera, un momento."
@@ -249,7 +249,7 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjalo en mis manos! ¡Hora de localizar<n>\nese chakra! ¡A buscar, a buscar, todos libres!"
+      "text": "¡Muy bien, déjalo en mis manos! ¡Hora de localizar\nese chakra! ¡A buscar, a buscar, todos libres!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -272,32 +272,32 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Mi frecuencia cardíaca, temperatura<n> corporal,\nelasticidad muscular—todo<n> está funcionando cerca\nde niveles óptimos.<n> ¡Ella realmente sabe lo que\nhace!"
+      "text": "Mi frecuencia cardíaca, temperatura corporal,\nelasticidad muscular—todo está funcionando cerca\nde niveles óptimos. ¡Ella realmente sabe lo que\nhace!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "<i>Jadeo...</i> No puede ser... ¡¿De verdad<n> funcionó?!"
+      "text": "<i>Jadeo...</i> No puede ser... ¡¿De verdad funcionó?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
     },
     {
-      "text": "¡Puedo sentir una enorme mejora en las<n> habilidades\nde <chrname>!"
+      "text": "¡Puedo sentir una enorme mejora en las habilidades\nde <chrname>!"
     },
     {
-      "text": "¡Arriesgamos y salió bien! ¡Este es un gran<n> salto\nhacia el logro de nuestro objetivo!"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Uf... Me duele la cabeza... Siento como si fuera\ndel<n> tamaño de una sandía."
+      "text": "¡Arriesgamos y salió bien! ¡Este es un gran salto\nhacia el logro de nuestro objetivo!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "En realidad no es del tamaño de una sandía,\n<n>¿verdad, Entrenador?!"
+      "text": "Uf... Me duele la cabeza... Siento como si fuera\ndel tamaño de una sandía."
     },
     {
-      "text": "La condición de <chrname><n> se deteriora rápidamente."
+      "name": "Biwa Hayahide",
+      "text": "En realidad no es del tamaño de una sandía,\n¿verdad, Entrenador?!"
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -305,18 +305,18 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿a que no ves la hora?<n> ¡Debo irme! ¡Adiós!\n☆"
+      "text": "Bueno, ¿a que no ves la hora? ¡Debo irme! ¡Adiós!\n☆"
     },
     {
-      "text": "Debí haber sabido mejor que poner a prueba nuestra\n<n>suerte. No soy yo la que sufre, y sin embargo\nestoy <n>llena de remordimientos."
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. Entonces, ¿quieres que active<n> el\nchakra de la salud?"
+      "text": "Debí haber sabido mejor que poner a prueba nuestra\nsuerte. No soy yo la que sufre, y sin embargo\nestoy llena de remordimientos."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de la salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
       "choice_data_list": [
         "Adelante.",
         "Espera, un momento."
@@ -324,7 +324,7 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Muy bien, ¡déjalo en mis manos! ¡Es hora de\n<n>localizar ese chakra! ¡Ollie, ollie, todos libres!"
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Es hora de\nlocalizar ese chakra! ¡Ollie, ollie, todos libres!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -347,32 +347,32 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Mi frecuencia cardíaca, temperatura<n> corporal,\nelasticidad <n>muscular—todo funciona en niveles casi\nóptimos.<n> ¡Ella sí que sabe lo que hace!"
+      "text": "Mi frecuencia cardíaca, temperatura corporal,\nelasticidad muscular—todo funciona en niveles casi\nóptimos. ¡Ella sí que sabe lo que hace!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "<i>Jadeo...</i> No puede ser... ¿De verdad<n> funcionó?!"
+      "text": "<i>Jadeo...</i> No puede ser... ¿De verdad funcionó?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
     },
     {
-      "text": "¡El cuerpo completo de <chrname><n> irradia un brillo\nsaludable! ¡Es <n>el retrato perfecto de la salud!"
+      "text": "¡El cuerpo completo de <chrname> irradia un brillo\nsaludable! ¡Es el retrato perfecto de la salud!"
     },
     {
-      "text": "¡Arriesgamos y salió bien! ¡Este es un gran<n> salto\nhacia el logro de nuestro objetivo!"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Uf... Me duele la cabeza... Siento como si fuera\ndel<n> tamaño de una sandía."
+      "text": "¡Arriesgamos y salió bien! ¡Este es un gran salto\nhacia el logro de nuestro objetivo!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "En realidad no es del tamaño de una sandía,\n<n>¿verdad, Entrenador?!"
+      "text": "Uf... Me duele la cabeza... Siento como si fuera\ndel tamaño de una sandía."
     },
     {
-      "text": "La condición de <chrname><n> se deteriora rápidamente."
+      "name": "Biwa Hayahide",
+      "text": "En realidad no es del tamaño de una sandía,\n¿verdad, Entrenador?!"
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -380,18 +380,18 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿a que no ves la hora?<n> ¡Debo irme! ¡Adiós!\n☆"
+      "text": "Bueno, ¿a que no ves la hora? ¡Debo irme! ¡Adiós!\n☆"
     },
     {
-      "text": "Debí haber sabido mejor que poner a prueba nuestra\n<n>suerte. No soy yo la que sufre, y sin embargo\nestoy <n>llena de remordimientos."
-    },
-    {
-      "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. Entonces, ¿quieres que active<n> el\nchakra del encanto?"
+      "text": "Debí haber sabido mejor que poner a prueba nuestra\nsuerte. No soy yo la que sufre, y sin embargo\nestoy llena de remordimientos."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra del encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
       "choice_data_list": [
         "Adelante.",
         "Espera, un momento."
@@ -399,7 +399,7 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Muy bien, ¡déjalo en mis manos! ¡Es hora de\n<n>localizar ese chakra! ¡Ollie, ollie, todos libres!"
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Es hora de\nlocalizar ese chakra! ¡Ollie, ollie, todos libres!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -422,32 +422,32 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Mi frecuencia cardíaca, temperatura<n> corporal,\nelasticidad <n>muscular—todo funciona en niveles casi\nóptimos.<n> ¡Ella sí que sabe lo que hace!"
+      "text": "Mi frecuencia cardíaca, temperatura corporal,\nelasticidad muscular—todo funciona en niveles casi\nóptimos. ¡Ella sí que sabe lo que hace!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "<i>Jadeo...</i> No puede ser... ¿De verdad<n> funcionó?!"
+      "text": "<i>Jadeo...</i> No puede ser... ¿De verdad funcionó?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
     },
     {
-      "text": "¡<chrname> desborda de<n> encanto! ¡Seguro que llama la\natención<n> dondequiera que vaya!"
+      "text": "¡<chrname> desborda de encanto! ¡Seguro que llama la\natención dondequiera que vaya!"
     },
     {
-      "text": "¡Arriesgamos y salió bien! ¡Este es un gran<n> salto\nhacia el logro de nuestro objetivo!"
-    },
-    {
-      "name": "Biwa Hayahide",
-      "text": "Uf... Me duele la cabeza... Siento como si fuera\ndel<n> tamaño de una sandía."
+      "text": "¡Arriesgamos y salió bien! ¡Este es un gran salto\nhacia el logro de nuestro objetivo!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "En realidad no es del tamaño de una sandía,\n<n>¿verdad, Entrenador?!"
+      "text": "Uf... Me duele la cabeza... Siento como si fuera\ndel tamaño de una sandía."
     },
     {
-      "text": "La condición de <chrname><n> se deteriora rápidamente."
+      "name": "Biwa Hayahide",
+      "text": "En realidad no es del tamaño de una sandía,\n¿verdad, Entrenador?!"
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -455,10 +455,10 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿a que no ves la hora?<n> ¡Debo irme! ¡Adiós!\n☆"
+      "text": "Bueno, ¿a que no ves la hora? ¡Debo irme! ¡Adiós!\n☆"
     },
     {
-      "text": "Debí haber sabido mejor que poner a prueba nuestra\n<n>suerte. No soy yo la que sufre, y sin embargo\nestoy <n>llena de remordimientos."
+      "text": "Debí haber sabido mejor que poner a prueba nuestra\nsuerte. No soy yo la que sufre, y sin embargo\nestoy llena de remordimientos."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -470,7 +470,7 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Oye! ¡Tú! ¡Espero que sepas que <n>los <i>intrusos\n<i>serán</i> procesados!</i>"
+      "text": "¡Oye! ¡Tú! ¡Espero que sepas que los <i>intrusos\n<i>serán</i> procesados!</i>"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -490,30 +490,30 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Me alegra no haberla dejado tratarme. Me<n> da miedo\npensar qué me podría haber <n>pasado.",
+      "text": "Me alegra no haberla dejado tratarme. Me da miedo\npensar qué me podría haber pasado.",
       "choice_data_list": [
         "No me digas.",
         "No me digas."
       ]
     },
     {
-      "text": "Tengo curiosidad sobre quién es realmente<n> este\npersonaje de Anshinzawa, pero no sirve<n> de nada\ndarle vueltas. Lo mejor es olvidar el día <n>de hoy y\nseguir adelante."
+      "text": "Tengo curiosidad sobre quién es realmente este\npersonaje de Anshinzawa, pero no sirve de nada\ndarle vueltas. Lo mejor es olvidar el día de hoy y\nseguir adelante."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¿Has cambiado de opinión? ¡No te<n> preocupes, eso\npasa!"
+      "text": "¿Has cambiado de opinión? ¡No te preocupes, eso\npasa!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Adelante, dime qué chakra quieres<n> que active,\nentonces!"
+      "text": "¡Adelante, dime qué chakra quieres que active,\nentonces!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Bueno! ¡No nos dejes en suspense! Espera<n> un\nsegundo... ¿Cuánto tiempo llevo aquí?"
+      "text": "¡Bueno! ¡No nos dejes en suspense! Espera un\nsegundo... ¿Cuánto tiempo llevo aquí?"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Oye! ¡Tú! ¡Espero que sepas que <n>los <i>intrusos\n<i>serán</i> procesados!</i>"
+      "text": "¡Oye! ¡Tú! ¡Espero que sepas que los <i>intrusos\n<i>serán</i> procesados!</i>"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -528,10 +528,10 @@
       "text": "¡Oye! ¡Alto ahí!"
     },
     {
-      "text": "La situación da un giro abrupto antes de que<n> pueda\ntomar una decisión."
+      "text": "La situación da un giro abrupto antes de que pueda\ntomar una decisión."
     },
     {
-      "text": "¿Qué fue todo eso?<n> <chrname> y yo nos <n>miramos\ndesconcertados."
+      "text": "¿Qué fue todo eso? <chrname> y yo nos miramos\ndesconcertados."
     }
   ]
 }

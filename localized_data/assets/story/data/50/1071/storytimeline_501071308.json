@@ -1,93 +1,93 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Mejiro Ardan",
-            "text": "<i>Jadeo... Jadeo... Jadeo...</i>"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "(...Le di a la carrera todo lo que tengo en <n>este\nmomento, y los resultados serán un buen<n> punto de\npartida para el Derby Japonés. Y <n>sin embargo...)"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "(Esta bruma indescriptible en <n>lo profundo... ¿Qué\npodrá ser?)"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "...¿Qué es lo que me pasa?"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "(El Derby Japonés está a la vuelta de la\n<n>esquina... ¡y sin embargo!)"
-        },
-        {
-            "text": "Aunque Mejiro Ardan se desempeñó<n> brillantemente en\nel Aoba Sho, no parece<n> tan eufórica como yo habría\nesperado.",
-            "choice_data_list": [
-                "...¿Sucede algo?",
-                "...¿Sucede algo?"
-            ],
-            "name": "Monólogo"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "...No, no es nada."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Más importante, Entrenador... Por fin,<n> el Derby\nJaponés está casi aquí."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Aprenderé de esta experiencia y dedicaré<n> aún más\nesfuerzo en el poco tiempo<n> que nos queda. Por lo\ntanto, humildemente<n> solicito su continua\nasistencia.",
-            "choice_data_list": [
-                "Puedes contar conmigo.",
-                "Puedes contar conmigo."
-            ]
-        },
-        {
-            "text": "A primera vista, Mejiro Ardan se ve igual <n>que\nsiempre—perfectamente bien. Pero...<n> algo en ella\nparece fuera de lugar.",
-            "choice_data_list": [
-                "(Quizás necesite proceder con cuidado aquí...)",
-                "(Quizás necesite proceder con cuidado aquí...)"
-            ],
-            "name": "Monólogo"
-        },
-        {
-            "text": "El día después del Aoba Sho...",
-            "name": "Monólogo"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "(Tantos corredores van a <n>participar en el Derby\nJaponés, pero mis <n>pensamientos siguen inclinándose\nhacia<n> Yaeno y Chiyono O en particular...)"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "(Sus carreras recientes han demostrado<n> que han\nmejorado mucho más de <n>lo que creía posible.)"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "(Y espero que sus actuaciones en el<n> Derby serán\nigual de inspiradoras.)"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "(Las conozco tan bien... Así sé que<n> serán\ngrandiosas.)"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "(A este ritmo, terminaré...)"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "...!"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Ahora lo entiendo..."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Tengo... miedo."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Ardan",
+      "text": "<i>Jadeo... Jadeo... Jadeo...</i>"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(...Le di a la carrera todo lo que tengo en este\nmomento, y los resultados serán un buen punto de\npartida para el Derby Japonés. Y sin embargo...)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Esta bruma indescriptible en lo profundo... ¿Qué\npodrá ser?)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...¿Qué es lo que me pasa?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(El Derby Japonés está a la vuelta de la\nesquina... ¡y sin embargo!)"
+    },
+    {
+      "text": "Aunque Mejiro Ardan se desempeñó brillantemente en\nel Aoba Sho, no parece tan eufórica como yo habría\nesperado.",
+      "choice_data_list": [
+        "...¿Sucede algo?",
+        "...¿Sucede algo?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...No, no es nada."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Más importante, Entrenador... Por fin, el Derby\nJaponés está casi aquí."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Aprenderé de esta experiencia y dedicaré aún más\nesfuerzo en el poco tiempo que nos queda. Por lo\ntanto, humildemente solicito su continua\nasistencia.",
+      "choice_data_list": [
+        "Puedes contar conmigo.",
+        "Puedes contar conmigo."
+      ]
+    },
+    {
+      "text": "A primera vista, Mejiro Ardan se ve igual que\nsiempre—perfectamente bien. Pero... algo en ella\nparece fuera de lugar.",
+      "choice_data_list": [
+        "(Quizás necesite proceder con cuidado aquí...)",
+        "(Quizás necesite proceder con cuidado aquí...)"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "El día después del Aoba Sho...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Tantos corredores van a participar en el Derby\nJaponés, pero mis pensamientos siguen inclinándose\nhacia Yaeno y Chiyono O en particular...)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Sus carreras recientes han demostrado que han\nmejorado mucho más de lo que creía posible.)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Y espero que sus actuaciones en el Derby serán\nigual de inspiradoras.)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Las conozco tan bien... Así sé que serán\ngrandiosas.)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(A este ritmo, terminaré...)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ahora lo entiendo..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Tengo... miedo."
+    }
+  ]
 }

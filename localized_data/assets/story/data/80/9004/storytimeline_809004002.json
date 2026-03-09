@@ -3,26 +3,26 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Una tarde, veo a <n><chrname> regresando a su dormitorio<n>\ndespués de que el entrenamiento del día se<n> alarga\nun poco más de lo esperado. Justo después<n> de\ndespedirnos..."
+      "text": "Una tarde, veo a <chrname> regresando a su dormitorio\ndespués de que el entrenamiento del día se alarga\nun poco más de lo esperado. Justo después de\ndespedirnos..."
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "¡Entrenadora <username>!<n> ¡Qué gusto verte! ¿Te diriges a\ncasa<n> ahora?",
+      "text": "¡Entrenadora <username>! ¡Qué gusto verte! ¿Te diriges a\ncasa ahora?",
       "choice_data_list": [
         "¡Sí!"
       ]
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "¡Ya veo! Acabo de despedir a Meek y estaba<n>\npensando en volver a las residencias de<n>\nentrenadores yo también, así que..."
+      "text": "¡Ya veo! Acabo de despedir a Meek y estaba\npensando en volver a las residencias de\nentrenadores yo también, así que..."
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Si no te molesta, ¿por qué no <n>regresamos juntas?"
+      "text": "Si no te molesta, ¿por qué no regresamos juntas?"
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "A menos que pienses que es un poco... cómo\n<n>decirlo... demasiado cercano? Después de todo,<n>\nsomos compañeras de trabajo...",
+      "text": "A menos que pienses que es un poco... cómo\ndecirlo... demasiado cercano? Después de todo,\nsomos compañeras de trabajo...",
       "choice_data_list": [
         "¡Para nada!"
       ]
@@ -37,7 +37,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Hablamos de varias cosas en el camino de <n>regreso a\nlas residencias."
+      "text": "Hablamos de varias cosas en el camino de regreso a\nlas residencias."
     }
   ]
 }

@@ -1,91 +1,91 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Un día, Matikanefukukitaru se presenta<n> con una\npetición bastante difícil."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Um... No supondrás que aprobarías<n> que abandone los\nestudios para <n>este examen, ¿verdad?",
-            "choice_data_list": [
-                "Ni hablar."
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Lo sabía. Bien. Solo quería <n>mencionarlo."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Suspiro...</i> No hay forma de evitarlo,<n> ¿eh? Supongo\nque esto requiere que libere<n> mi verdadero poder.\n¡O mejor aún, mi <n><i>poder espiritual</i>!</i>"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Grr... Ryaaah!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¿Qué opinas de eso, Entrenador?! Mi poder<n> es tan\ngrande, que los cerezos están <n>todos en plena\nfloración..."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Espera, qué?! ¡¿Cerezos?! ¿Dónde se<n> fue el\nEntrenador?!"
-        },
-        {
-            "name": "???",
-            "text": "Me alegra que hayas llegado, Fukukitaru."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¿Eso... soy yo?! ¿Qué?! ¡No sabía que tenía<n> un\nhermano gemelo!"
-        },
-        {
-            "name": "Shiraoki (?)",
-            "text": "Soy yo, Shiraoki. Me he apoderado de tu <n>cuerpo\ncomo una forma de manifestarme."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¿Shiraoki?! Uhh, ¿qué está pasando ahora<n> mismo?"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Espera! ¿A dónde vas?! P-por favor, <n>espera un\nmomento!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Jadeando... jadeando...</i> ¿C-cómo terminé <n>corriendo\ncontra Shiraoki?!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Uuugh... ¡Por supuesto que la gran<n> Shiraoki sería\ntan rápida! Pero hay <n>algo diferente en mí..."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Mi cuerpo se siente tan ligero!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Uf... Pensar que corro con Shiraoki.<n> ¡Es un sueño\nhecho realidad!"
-        },
-        {
-            "name": "Shiraoki (?)",
-            "text": "Hehe. Aferra este sentimiento. Incluso después de\n<n>despertar, aferra este sentimiento..."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "...Entrenador... Creo que finalmente estoy\ndespierta.",
-            "choice_data_list": [
-                "Buenos días."
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡No es eso! ¡He sido <i>despertada</i><n> a </i>un nuevo poder!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "No estoy completamente seguro de lo que significa,\n<n>pero su forma de correr ciertamente está\nmejorando!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, Matikanefukukitaru se presenta con una\npetición bastante difícil."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Um... No supondrás que aprobarías que abandone los\nestudios para este examen, ¿verdad?",
+      "choice_data_list": [
+        "Ni hablar."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Lo sabía. Bien. Solo quería mencionarlo."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>Suspiro...</i> No hay forma de evitarlo, ¿eh? Supongo\nque esto requiere que libere mi verdadero poder.\n¡O mejor aún, mi <i>poder espiritual</i>!</i>"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Grr... Ryaaah!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Qué opinas de eso, Entrenador?! Mi poder es tan\ngrande, que los cerezos están todos en plena\nfloración..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Espera, qué?! ¡¿Cerezos?! ¿Dónde se fue el\nEntrenador?!"
+    },
+    {
+      "name": "???",
+      "text": "Me alegra que hayas llegado, Fukukitaru."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Eso... soy yo?! ¿Qué?! ¡No sabía que tenía un\nhermano gemelo!"
+    },
+    {
+      "name": "Shiraoki (?)",
+      "text": "Soy yo, Shiraoki. Me he apoderado de tu cuerpo\ncomo una forma de manifestarme."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Shiraoki?! Uhh, ¿qué está pasando ahora mismo?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Espera! ¿A dónde vas?! P-por favor, espera un\nmomento!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>Jadeando... jadeando...</i> ¿C-cómo terminé corriendo\ncontra Shiraoki?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Uuugh... ¡Por supuesto que la gran Shiraoki sería\ntan rápida! Pero hay algo diferente en mí..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Mi cuerpo se siente tan ligero!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Uf... Pensar que corro con Shiraoki. ¡Es un sueño\nhecho realidad!"
+    },
+    {
+      "name": "Shiraoki (?)",
+      "text": "Hehe. Aferra este sentimiento. Incluso después de\ndespertar, aferra este sentimiento..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "...Entrenador... Creo que finalmente estoy\ndespierta.",
+      "choice_data_list": [
+        "Buenos días."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No es eso! ¡He sido <i>despertada</i> a </i>un nuevo poder!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy completamente seguro de lo que significa,\npero su forma de correr ciertamente está\nmejorando!"
+    }
+  ]
 }

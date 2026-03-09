@@ -1,116 +1,116 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Un día, mientras devolvía un libro a la<n>\nbiblioteca..."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "...Y qué... um... ¿qué debemos hacer sobre <n>el\nevento de la Semana de Lectura de este año?"
-        },
-        {
-            "name": "Asistente de Biblioteca A",
-            "text": "Mmm. Creo que estará bien solo mostrando algunos<n>\nnúmeros extra del periódico de la <n>biblioteca como\nhacemos todos los años."
-        },
-        {
-            "name": "Asistente de Biblioteca B",
-            "text": "Entiendo cómo te sientes, Zenno, pero casi <n>nadie\nha estado interesado nunca..."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "P-pero, realmente creo que esto podría ser <n>una\ngran opportunidad para que la gente se conecte<n> con\nlos libros..."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "<i>Suspiro...</i> No pude convencerlos.",
-            "choice_data_list": [
-                "La preparación de la Semana de Lectura seguro que\nsuena difícil...",
-                "La preparación de la Semana de Lectura seguro que\nsuena difícil..."
-            ]
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "¿Hum? Ah, um..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "De lo que me dice, parece que el personal<n> de la\nbiblioteca no está muy entusiasta con<n> el evento\npromocional de la Semana de<n> Lectura."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "Los estudiantes suelen evitar leer <n>porque piensan\nque es difícil, y el personal<n> de la biblioteca\nsiente que es inútil <n>esforzarse."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "Pero si la gente se rinde con la <n>lectura sin\nsiquiera intentarlo, se van<n> a perder mucho... La\nidea me <n>entristece."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "Cuentos de hadas, aventuras, sagas épicas...<n> Los\nlibros pueden llevarte a todo tipo<n> de mundos..."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "Puedes convertirte en una princesa hermosa o<n> en un\nhéroe valiente. ¡Un libro es como un portal<n> a un\nmundo de sueños!"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "Algunos <i>libros <i>son</i> desafiantes, pero...<n> hay tantos\nmaravillosos y emocionantes por<n> ahí también. Estoy\nsegura de que si la gente<n> supiera eso...",
-            "choice_data_list": [
-                "¿Por qué no usas el evento para enseñarles?",
-                "¿Por qué no usas el evento para enseñarles?"
-            ]
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "Ah!"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "¡Sí! Si podemos usar este evento para mostrar<n> lo\nfascinantes y encantadores que pueden ser <n>los\nlibros, la gente se sentirá menos intimidada!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¡No digas más!",
-            "choice_data_list": [
-                "¿S-Sweep Tosho?"
-            ]
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¡De nada por adelantado! ♪ ¡La Genial<n> Chica Mágica\nSweepy está aquí para ayudar!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Si nos unimos y le presentamos a todos algunos<n>\ncuentos mágicos, apuesto a que podremos <n>abrirles\nlos ojos a las maravillas de la magia!"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "¿R-realmente? ¡Entonces, me encantaría tu ayuda!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¡Muy bien, trato hecho! Y si esto<n> tiene éxito,\nesperaré que te unos a mí <n>para alguna práctica de\nmagia! ♪"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "¡Vale! Si significa que más gente aprenda a<n>\napreciar la lectura, entonces me uniré a ti para\n<n>cualquier tipo de práctica que quieras!"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "Además... También he querido expresar <n>mi gratitud\npor toda tu ayuda en la <n>biblioteca también."
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¡Solo ayudo porque eres tan torpe que no<n> puedo\nsoportar quedarme quieta mirando! <n><i>¡<i>Tengo</i> que\nintervenir!",
-            "choice_data_list": [
-                "¡Yo también ayudaré en todo lo que pueda!",
-                "¡Yo también ayudaré en todo lo que pueda!"
-            ]
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "¡Muchas gracias a las dos!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras devolvía un libro a la\nbiblioteca..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Y qué... um... ¿qué debemos hacer sobre el\nevento de la Semana de Lectura de este año?"
+    },
+    {
+      "name": "Asistente de Biblioteca A",
+      "text": "Mmm. Creo que estará bien solo mostrando algunos\nnúmeros extra del periódico de la biblioteca como\nhacemos todos los años."
+    },
+    {
+      "name": "Asistente de Biblioteca B",
+      "text": "Entiendo cómo te sientes, Zenno, pero casi nadie\nha estado interesado nunca..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "P-pero, realmente creo que esto podría ser una\ngran opportunidad para que la gente se conecte con\nlos libros..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "<i>Suspiro...</i> No pude convencerlos.",
+      "choice_data_list": [
+        "La preparación de la Semana de Lectura seguro que\nsuena difícil...",
+        "La preparación de la Semana de Lectura seguro que\nsuena difícil..."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Hum? Ah, um..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De lo que me dice, parece que el personal de la\nbiblioteca no está muy entusiasta con el evento\npromocional de la Semana de Lectura."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Los estudiantes suelen evitar leer porque piensan\nque es difícil, y el personal de la biblioteca\nsiente que es inútil esforzarse."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Pero si la gente se rinde con la lectura sin\nsiquiera intentarlo, se van a perder mucho... La\nidea me entristece."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Cuentos de hadas, aventuras, sagas épicas... Los\nlibros pueden llevarte a todo tipo de mundos..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Puedes convertirte en una princesa hermosa o en un\nhéroe valiente. ¡Un libro es como un portal a un\nmundo de sueños!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Algunos <i>libros <i>son</i> desafiantes, pero... hay tantos\nmaravillosos y emocionantes por ahí también. Estoy\nsegura de que si la gente supiera eso...",
+      "choice_data_list": [
+        "¿Por qué no usas el evento para enseñarles?",
+        "¿Por qué no usas el evento para enseñarles?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Sí! Si podemos usar este evento para mostrar lo\nfascinantes y encantadores que pueden ser los\nlibros, la gente se sentirá menos intimidada!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡No digas más!",
+      "choice_data_list": [
+        "¿S-Sweep Tosho?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡De nada por adelantado! ♪ ¡La Genial Chica Mágica\nSweepy está aquí para ayudar!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Si nos unimos y le presentamos a todos algunos\ncuentos mágicos, apuesto a que podremos abrirles\nlos ojos a las maravillas de la magia!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿R-realmente? ¡Entonces, me encantaría tu ayuda!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Muy bien, trato hecho! Y si esto tiene éxito,\nesperaré que te unos a mí para alguna práctica de\nmagia! ♪"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Vale! Si significa que más gente aprenda a\napreciar la lectura, entonces me uniré a ti para\ncualquier tipo de práctica que quieras!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Además... También he querido expresar mi gratitud\npor toda tu ayuda en la biblioteca también."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Solo ayudo porque eres tan torpe que no puedo\nsoportar quedarme quieta mirando! <i>¡<i>Tengo</i> que\nintervenir!",
+      "choice_data_list": [
+        "¡Yo también ayudaré en todo lo que pueda!",
+        "¡Yo también ayudaré en todo lo que pueda!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Muchas gracias a las dos!"
+    }
+  ]
 }

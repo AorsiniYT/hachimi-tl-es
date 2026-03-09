@@ -11,15 +11,15 @@
     },
     {
       "name": "Rice Shower",
-      "text": "¿Te gusta el chocolate, Hermano?<n> ¿Te hace feliz\ncuando <n>recibes algunos?"
+      "text": "¿Te gusta el chocolate, Hermano? ¿Te hace feliz\ncuando recibes algunos?"
     },
     {
       "name": "Rice Shower",
-      "text": "¿Te gusta el chocolate, hermana mayor?<n> ¿Te hace\nfeliz cuando recibes <n>un poco?"
+      "text": "¿Te gusta el chocolate, hermana mayor? ¿Te hace\nfeliz cuando recibes un poco?"
     },
     {
       "name": "Monólogo",
-      "text": "En cuanto escucho la palabra \"chocolate\",<n> recuerdo\nque hoy es San Valentín.",
+      "text": "En cuanto escucho la palabra \"chocolate\", recuerdo\nque hoy es San Valentín.",
       "choice_data_list": [
         "Diría que sí, me hace feliz."
       ]
@@ -30,7 +30,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Rice Shower sale corriendo sin decir otra<n> palabra."
+      "text": "Rice Shower sale corriendo sin decir otra palabra."
     },
     {
       "name": "Monólogo",
@@ -42,18 +42,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Ella construye una verdadera montaña de<n> chocolates\nen mi escritorio."
+      "text": "Ella construye una verdadera montaña de chocolates\nen mi escritorio."
     },
     {
       "name": "Rice Shower",
-      "text": "Hice muchos. Algunos con leche, <n>algunos oscuros...\nalgunos con nueces, algunos<n> con fresas..."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "¡Elige el que quieras!",
-      "choice_data_list": [
-        "¿Elegir?"
-      ]
+      "text": "Hice muchos. Algunos con leche, algunos oscuros...\nalgunos con nueces, algunos con fresas..."
     },
     {
       "name": "Rice Shower",
@@ -64,19 +57,26 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Sí. No quieres comer un sabor que no<n> te guste,\n¿verdad?"
+      "text": "¡Elige el que quieras!",
+      "choice_data_list": [
+        "¿Elegir?"
+      ]
     },
     {
       "name": "Rice Shower",
-      "text": "Por eso hice tantos... <n>Seguro que entre ellos está\ntu<n> favorito."
+      "text": "Sí. No quieres comer un sabor que no te guste,\n¿verdad?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Por eso hice tantos... Seguro que entre ellos está\ntu favorito."
     },
     {
       "name": "Monólogo",
-      "text": "Parece que Rice Shower puso mucho <n>esfuerzo en\nasegurarse de que tuviera un<n> buen San Valentín."
+      "text": "Parece que Rice Shower puso mucho esfuerzo en\nasegurarse de que tuviera un buen San Valentín."
     },
     {
       "name": "Rice Shower",
-      "text": "Oh... ¿qué pasa? ¿No hice tu <n>favorito?",
+      "text": "Oh... ¿qué pasa? ¿No hice tu favorito?",
       "choice_data_list": [
         "¿Puedo llevármelos todos?"
       ]
@@ -94,7 +94,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Parece preocupada por el sabor. Debería<n> aliviar\nsus preocupaciones...",
+      "text": "Parece preocupada por el sabor. Debería aliviar\nsus preocupaciones...",
       "choice_data_list": [
         "Si no puedo, ¿me ayudarás a terminarlos?"
       ]
@@ -105,7 +105,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Heehee... Puedo comer un montón. ¡Avísame<n> de\ninmediato cuando hayas comido demasiado!"
+      "text": "Heehee... Puedo comer un montón. ¡Avísame de\ninmediato cuando hayas comido demasiado!"
     },
     {
       "name": "Rice Shower",
@@ -113,11 +113,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Como mi primer chocolate de San Valentín <n>mientras\nRice Shower me observa intensamente."
+      "text": "Como mi primer chocolate de San Valentín mientras\nRice Shower me observa intensamente."
     },
     {
       "name": "Monólogo",
-      "text": "Parece preocupada por el sabor. Debería<n> aliviar\nsus preocupaciones...",
+      "text": "Parece preocupada por el sabor. Debería aliviar\nsus preocupaciones...",
       "choice_data_list": [
         "Quiero aceptar todos tus sentimientos, Rice."
       ]
@@ -132,19 +132,19 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Pero... si estos chocolates representan mis<n>\nsentimientos, entonces debería haber hecho más."
+      "text": "Pero... si estos chocolates representan mis\nsentimientos, entonces debería haber hecho más."
     },
     {
       "name": "Rice Shower",
-      "text": "Esto no es ni de cerca suficiente para mostrar<n>\ncuánto significas para mí."
+      "text": "Esto no es ni de cerca suficiente para mostrar\ncuánto significas para mí."
     },
     {
       "name": "Rice Shower",
-      "text": "Esto no es ni de cerca suficiente para mostrar<n>\ncuánto significas para mí."
+      "text": "Esto no es ni de cerca suficiente para mostrar\ncuánto significas para mí."
     },
     {
       "name": "Monólogo",
-      "text": "Y así, paso un San Valentín dulce<n> con Rice Shower."
+      "text": "Y así, paso un San Valentín dulce con Rice Shower."
     }
   ]
 }

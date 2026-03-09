@@ -1,139 +1,139 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Super Creek",
-            "text": "¡Feliz Año Nuevo, Entrenador!"
-        },
-        {
-            "name": "Super Creek",
-            "text": "El año pasado me dejaste cuidarte <n>tan bien. Espero\nque este año también me<n> dejes hacer lo mismo.",
-            "choice_data_list": [
-                "Todavía siento que debería ser al revés..."
-            ]
-        },
-        {
-            "name": "Super Creek",
-            "text": "Mmm, ¿en serio? De todos modos, es un día<n> para\ncelebrar, así que no nos quedemos en eso."
-        },
-        {
-            "name": "Super Creek",
-            "text": "Perdón por cambiar de tema, pero ¿puedo<n> contarte\nmi propósito para este año?",
-            "choice_data_list": [
-                "Adelante."
-            ]
-        },
-        {
-            "name": "Super Creek",
-            "text": "Este año, quiero consentirte como nunca<n> te han\nconsentido antes! ♪"
-        },
-        {
-            "name": "Super Creek",
-            "text": "Sé que no debería apresurarme<n> ni nada, pero ya no\npuedo esperar<n> más..."
-        },
-        {
-            "name": "Super Creek",
-            "text": "Eh... ¿Podría empezar este nuevo <n>año mimándote?"
-        },
-        {
-            "name": "Super Creek",
-            "text": "Tus deseos son órdenes, ¡así que<n> dime qué quieres!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Siento que esto es más un regalo de Año<n> Nuevo que\nuna resolución..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "¿Qué debería pedir?",
-            "choice_data_list": [
-                "Me gustaría una comida casera.",
-                "¡No necesito nada!",
-                "Dame montones de elogios."
-            ]
-        },
-        {
-            "name": "Super Creek",
-            "text": "¡Oh, una comida casera? ¡Claro que sí!"
-        },
-        {
-            "name": "Super Creek",
-            "text": "El Año Nuevo solo llega una vez cada<n> doce meses,\nasí que estaba pensando en <n>cocinar algo especial\npara ti."
-        },
-        {
-            "name": "Super Creek",
-            "text": "¡Vamos a ello!"
-        },
-        {
-            "name": "Super Creek",
-            "text": "¡Todo listo! Ozoni de siete hierbas,<n> frijoles\nnegros suavizados y ¡hamburguesa<n> de Año Nuevo! ♪"
-        },
-        {
-            "name": "Super Creek",
-            "text": "Espero que no te moleste si te doy el <n>primer\nbocado..."
-        },
-        {
-            "name": "Super Creek",
-            "text": "¡Abre bien la boca! ♪"
-        },
-        {
-            "name": "Monólogo",
-            "text": "¡Cada plato es sabroso y rico en <n>nutrientes! Super\nCreek también parece <n>estar disfrutando la comida."
-        },
-        {
-            "name": "Super Creek",
-            "text": "¿En serio? ¿No vas a desear<n> nada?"
-        },
-        {
-            "name": "Super Creek",
-            "text": "Grrr, entonces tendremos que ver <n>quién se rompe\nprimero. No me voy a casa <n>hasta que desees algo."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Varias horas después..."
-        },
-        {
-            "name": "Super Creek",
-            "text": "<i>Bostezooo...</i> Ya es hora de que me <n>digas tu\ndeseo..."
-        },
-        {
-            "name": "Super Creek",
-            "text": "Has estado esperando tanto tiempo.<n> Seguro que hay\nalgo que deseas.",
-            "choice_data_list": [
-                "Quiero apoyar mi cabeza en tu regazo y dormir una\nsiesta..."
-            ]
-        },
-        {
-            "name": "Super Creek",
-            "text": "¡Por fin, un deseo! ¡Adelante!"
-        },
-        {
-            "name": "Super Creek",
-            "text": "Yo también me siento... más <i>bien... <i>Zzz...</i>"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Nos quedamos dormidos uno encima del otro.<n> La\nagradable calidez nos sumerge en un<n> sueño\nprofundo."
-        },
-        {
-            "name": "Super Creek",
-            "text": "Jeje, ¡lo tienes! Que te elogien desde<n> el primer\ndía debería ayudar a tu crecimiento<n> personal\ndurante todo el año!"
-        },
-        {
-            "name": "Super Creek",
-            "text": "Vale, aquí voy. ¡Eres un entrenador<n> tan bueno! ¡El\nmejor que hay! ♪"
-        },
-        {
-            "name": "Super Creek",
-            "text": "¿Eh, qué fue esa luz hace un <n>momento? Parecía que\nmi mano brilló por<n> un segundo..."
-        },
-        {
-            "name": "Super Creek",
-            "text": "¿Pasó algo? ¿Es esto lo que llaman<n> un fenómeno\nsobrenatural?"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Mi mente de repente se inunda de ideas. <n>Siento que\n¡puedo enseñarle cualquier cosa a<n> Super Creek!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "¡Feliz Año Nuevo, Entrenador!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "El año pasado me dejaste cuidarte tan bien. Espero\nque este año también me dejes hacer lo mismo.",
+      "choice_data_list": [
+        "Todavía siento que debería ser al revés..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Mmm, ¿en serio? De todos modos, es un día para\ncelebrar, así que no nos quedemos en eso."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Perdón por cambiar de tema, pero ¿puedo contarte\nmi propósito para este año?",
+      "choice_data_list": [
+        "Adelante."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Este año, quiero consentirte como nunca te han\nconsentido antes! ♪"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Sé que no debería apresurarme ni nada, pero ya no\npuedo esperar más..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Eh... ¿Podría empezar este nuevo año mimándote?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Tus deseos son órdenes, ¡así que dime qué quieres!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que esto es más un regalo de Año Nuevo que\nuna resolución..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué debería pedir?",
+      "choice_data_list": [
+        "Me gustaría una comida casera.",
+        "¡No necesito nada!",
+        "Dame montones de elogios."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oh, una comida casera? ¡Claro que sí!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "El Año Nuevo solo llega una vez cada doce meses,\nasí que estaba pensando en cocinar algo especial\npara ti."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Vamos a ello!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Todo listo! Ozoni de siete hierbas, frijoles\nnegros suavizados y ¡hamburguesa de Año Nuevo! ♪"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Espero que no te moleste si te doy el primer\nbocado..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Abre bien la boca! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Cada plato es sabroso y rico en nutrientes! Super\nCreek también parece estar disfrutando la comida."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿En serio? ¿No vas a desear nada?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Grrr, entonces tendremos que ver quién se rompe\nprimero. No me voy a casa hasta que desees algo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Varias horas después..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "<i>Bostezooo...</i> Ya es hora de que me digas tu\ndeseo..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Has estado esperando tanto tiempo. Seguro que hay\nalgo que deseas.",
+      "choice_data_list": [
+        "Quiero apoyar mi cabeza en tu regazo y dormir una\nsiesta..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Por fin, un deseo! ¡Adelante!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Yo también me siento... más <i>bien... <i>Zzz...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos quedamos dormidos uno encima del otro. La\nagradable calidez nos sumerge en un sueño\nprofundo."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Jeje, ¡lo tienes! Que te elogien desde el primer\ndía debería ayudar a tu crecimiento personal\ndurante todo el año!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Vale, aquí voy. ¡Eres un entrenador tan bueno! ¡El\nmejor que hay! ♪"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Eh, qué fue esa luz hace un momento? Parecía que\nmi mano brilló por un segundo..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Pasó algo? ¿Es esto lo que llaman un fenómeno\nsobrenatural?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi mente de repente se inunda de ideas. Siento que\n¡puedo enseñarle cualquier cosa a Super Creek!"
+    }
+  ]
 }

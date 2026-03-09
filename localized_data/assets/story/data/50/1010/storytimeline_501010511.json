@@ -1,148 +1,148 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Mientras estaba en el centro comercial mi día\nlibre,<n> veo a Taiki Shuttle con unos amigos en una\ntienda de<n> mascotas."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "...¿Estás bien, Taiki?"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡¿Cómo podría estar bien con esta<n> bola de ternura\nfrente a mí?!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡No puedo contenerme más! ¡Es hora<n> de darle un\nbuen abrazo!"
-        },
-        {
-            "name": "Cachorro",
-            "text": "¡Guau, guau! ¡Grr!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Eek! P-pero ¿por qué?",
-            "choice_data_list": [
-                "¿Qué pasa?"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "<i>¡Entrenador! <i>Mocoso...</i> ¡Tienes que ayudarme!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Intento consolar a Taiki mientras explica<n> la\nsituación entre lágrimas."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Suzuka pudo abrazar a ese cachorrito, <n>pero ni\nsiquiera me deja tocar su pata..."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "<i>Suspiro...</i> Me está rompiendo el pobre corazón...<n>\nOjalá fuera Suzuka ahora mismo."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "E-eh... Bueno... Mmm..."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "¿Te importaría darnos algunas <n>sugerencias sobre\ncómo hacer que el cachorro<n> se acerque a Taiki?"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "<i>Mocoso...</i> ¡Dime qué hacer, Entrenador!",
-            "choice_data_list": [
-                "No muestres miedo y sujétalo con confianza.",
-                "Relájate antes de sujetarlo."
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Tiene sentido! ¡Apuesto a que el pequeño<n> puede\noler mi miedo! ¡Vale—hora de <n>intentarlo de nuevo!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Escucha, cachorro! ¡Mírame a los ojos!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Yo soy el sheriff por aquí, así que<n> lo que digo\nyo va! ¡Las únicas leyes <n>aquí son las de la\nfrontera!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Así que... ¡más te vale dejarme abrazarte!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Creo que eso fue <n>demasiado..."
-        },
-        {
-            "name": "Cachorro",
-            "text": "¡Guau, guau!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Oh, ahí viene el cachorro! ¡Debe estar<n> buscando\nun abrazo!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "No way..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Al cachorro le ha caído bien Taiki<n> Shuttle. Parece\nque logró mostrarle<n> quién manda."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Buena idea. Quizá el cachorro solo estaba<n> nervioso\nporque Taiki estaba nerviosa..."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Oh, ya veo! ¡Vale—esta vez lo<n> haré bien!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Inhala... y exhala..."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "..."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Inhala... y exhala..."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Eh, Taiki? Creo que ya es suficiente<n> relajación..."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Ups, mi culpa! ¡Gracias por<n> el aviso, Suzuka!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Taiki intenta abrazar al cachorro de nuevo..."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Oh, mis estrellas de la suerte..."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Jeje. Me alegra que todo saliera bien <n>para ti."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¿No eres lo más lindo? ¡Déjame<n> sentir otra vez ese\npelaje tan<n> suave!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Parece que el tiempo de juego con el cachorro\n<n>realmente está ayudando a Taiki Shuttle a\nrecuperarse."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras estaba en el centro comercial mi día\nlibre, veo a Taiki Shuttle con unos amigos en una\ntienda de mascotas."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...¿Estás bien, Taiki?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡¿Cómo podría estar bien con esta bola de ternura\nfrente a mí?!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No puedo contenerme más! ¡Es hora de darle un\nbuen abrazo!"
+    },
+    {
+      "name": "Cachorro",
+      "text": "¡Guau, guau! ¡Grr!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Eek! P-pero ¿por qué?",
+      "choice_data_list": [
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>¡Entrenador! <i>Mocoso...</i> ¡Tienes que ayudarme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Intento consolar a Taiki mientras explica la\nsituación entre lágrimas."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Suzuka pudo abrazar a ese cachorrito, pero ni\nsiquiera me deja tocar su pata..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Suspiro...</i> Me está rompiendo el pobre corazón...\nOjalá fuera Suzuka ahora mismo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "E-eh... Bueno... Mmm..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Te importaría darnos algunas sugerencias sobre\ncómo hacer que el cachorro se acerque a Taiki?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Mocoso...</i> ¡Dime qué hacer, Entrenador!",
+      "choice_data_list": [
+        "No muestres miedo y sujétalo con confianza.",
+        "Relájate antes de sujetarlo."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Tiene sentido! ¡Apuesto a que el pequeño puede\noler mi miedo! ¡Vale—hora de intentarlo de nuevo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Escucha, cachorro! ¡Mírame a los ojos!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yo soy el sheriff por aquí, así que lo que digo\nyo va! ¡Las únicas leyes aquí son las de la\nfrontera!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Así que... ¡más te vale dejarme abrazarte!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Creo que eso fue demasiado..."
+    },
+    {
+      "name": "Cachorro",
+      "text": "¡Guau, guau!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, ahí viene el cachorro! ¡Debe estar buscando\nun abrazo!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No way..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al cachorro le ha caído bien Taiki Shuttle. Parece\nque logró mostrarle quién manda."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Buena idea. Quizá el cachorro solo estaba nervioso\nporque Taiki estaba nerviosa..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, ya veo! ¡Vale—esta vez lo haré bien!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Inhala... y exhala..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Inhala... y exhala..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eh, Taiki? Creo que ya es suficiente relajación..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ups, mi culpa! ¡Gracias por el aviso, Suzuka!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki intenta abrazar al cachorro de nuevo..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh, mis estrellas de la suerte..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje. Me alegra que todo saliera bien para ti."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿No eres lo más lindo? ¡Déjame sentir otra vez ese\npelaje tan suave!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que el tiempo de juego con el cachorro\nrealmente está ayudando a Taiki Shuttle a\nrecuperarse."
+    }
+  ]
 }

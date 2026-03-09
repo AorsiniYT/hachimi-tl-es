@@ -1,123 +1,123 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Hishi Amazon ha estado sintiéndose fuera de<n> su\njuego últimamente, así que me pide que vaya a<n> un\nsantuario con ella.",
-            "choice_data_list": [
-                "No te creí el tipo de persona que reza por\nfavores.",
-                "No te creí el tipo de persona que reza por\nfavores."
-            ]
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "¿Qué? No, no estoy aquí por eso. No es<n> como que\nrezar me cure milagrosamente."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Debería estar cuidando mi salud, eso<n> es obvio.\nSolo estoy tratando de mantener<n> el ánimo alto."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Mira, voy a hacer una promesa a los<n> dioses.",
-            "choice_data_list": [
-                "¿Qué clase de promesa?"
-            ]
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Una promesa de que lograré las cosas con<n> mi propio\npoder y sin necesidad de<n> intervención divina."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Voy a prometerles que no me iré a ninguna<n> parte\ncuando las cosas se pongan <n>difíciles, y que\nentrenaré más duro que cualquier<n> otro y saldré\nvictoriosa!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "No puedo darle la espalda a una promesa a los<n>\ndioses, ¿verdad?",
-            "choice_data_list": [
-                "Entonces prometo ayudarte a ganar, pase lo que\npase.",
-                "Entonces prometo ayudarte a ganar, pase lo que\npase."
-            ]
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Muy bien, entonces a rezar."
-        },
-        {
-            "text": "<i>¡Clang, clang! ¡Palmas, palmas!</i>"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Oye, será mejor que me tengas los ojos bien<n>\npuestos allá arriba, ¡porque voy a dejar a <n>todos\nmis oponentes en el polvo, no importa<n> lo duros que\nsean!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Uf. Supongo que esto tendrá que <n>bastar. Ya me\nsiento mejor... ¿Huh?"
-        },
-        {
-            "text": "<i>Roce, roce...</i>"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Me preguntaba qué era todo ese <n>alboroto... Figuró\nque serías tú, Ama."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "¿Brian? ¿Qué estás haciendo aquí?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Nada. Solo un poco de entrenamiento en solitario."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "En fin, luego."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "...Entrenamiento en solitario, ¿eh?"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "¿Qué estoy haciendo, holgazaneando cuando<n> Brian\nestá por aquí corriendo y entrenando <n>tan duro?"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Pero ¿sabes qué? ¡Verla realmente me sacó<n> de mi\ndepresión! ¡Estoy empezando a sentirme como<n> yo\nmisma otra vez! ¡Corramos de vuelta a <n>casa, a toda\nvelocidad!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "¡Quizás encontrarme con Brian fue un pequeño<n>\nempujón desde arriba!"
-        },
-        {
-            "text": "¡Parece que Hishi Amazon ha vuelto a<n> su yo normal\ny enérgico!"
-        },
-        {
-            "name": "Gato",
-            "text": "Meeeow."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Oh, es solo un gato. Qué lindo gatito—"
-        },
-        {
-            "name": "Gato",
-            "text": "Mrraaow!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "¡Oye, ese es mi pañuelo!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "¡Vuelve aquí!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "<i>Jadeando... Resoplando...</i> ¿Qué demonios...? ¿Me\n<n>estás diciendo que ni siquiera puedo atrapar a un\ngato ahora?"
-        },
-        {
-            "text": "La mala salud de Hishi Amazon la deja a<n> merced del\ngato..."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Hishi Amazon ha estado sintiéndose fuera de su\njuego últimamente, así que me pide que vaya a un\nsantuario con ella.",
+      "choice_data_list": [
+        "No te creí el tipo de persona que reza por\nfavores.",
+        "No te creí el tipo de persona que reza por\nfavores."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué? No, no estoy aquí por eso. No es como que\nrezar me cure milagrosamente."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Debería estar cuidando mi salud, eso es obvio.\nSolo estoy tratando de mantener el ánimo alto."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Mira, voy a hacer una promesa a los dioses.",
+      "choice_data_list": [
+        "¿Qué clase de promesa?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Una promesa de que lograré las cosas con mi propio\npoder y sin necesidad de intervención divina."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Voy a prometerles que no me iré a ninguna parte\ncuando las cosas se pongan difíciles, y que\nentrenaré más duro que cualquier otro y saldré\nvictoriosa!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "No puedo darle la espalda a una promesa a los\ndioses, ¿verdad?",
+      "choice_data_list": [
+        "Entonces prometo ayudarte a ganar, pase lo que\npase.",
+        "Entonces prometo ayudarte a ganar, pase lo que\npase."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Muy bien, entonces a rezar."
+    },
+    {
+      "text": "<i>¡Clang, clang! ¡Palmas, palmas!</i>"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Oye, será mejor que me tengas los ojos bien\npuestos allá arriba, ¡porque voy a dejar a todos\nmis oponentes en el polvo, no importa lo duros que\nsean!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Uf. Supongo que esto tendrá que bastar. Ya me\nsiento mejor... ¿Huh?"
+    },
+    {
+      "text": "<i>Roce, roce...</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Me preguntaba qué era todo ese alboroto... Figuró\nque serías tú, Ama."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Brian? ¿Qué estás haciendo aquí?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Nada. Solo un poco de entrenamiento en solitario."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "En fin, luego."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...Entrenamiento en solitario, ¿eh?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué estoy haciendo, holgazaneando cuando Brian\nestá por aquí corriendo y entrenando tan duro?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero ¿sabes qué? ¡Verla realmente me sacó de mi\ndepresión! ¡Estoy empezando a sentirme como yo\nmisma otra vez! ¡Corramos de vuelta a casa, a toda\nvelocidad!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Quizás encontrarme con Brian fue un pequeño\nempujón desde arriba!"
+    },
+    {
+      "text": "¡Parece que Hishi Amazon ha vuelto a su yo normal\ny enérgico!"
+    },
+    {
+      "name": "Gato",
+      "text": "Meeeow."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Oh, es solo un gato. Qué lindo gatito—"
+    },
+    {
+      "name": "Gato",
+      "text": "Mrraaow!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oye, ese es mi pañuelo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Vuelve aquí!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "<i>Jadeando... Resoplando...</i> ¿Qué demonios...? ¿Me\nestás diciendo que ni siquiera puedo atrapar a un\ngato ahora?"
+    },
+    {
+      "text": "La mala salud de Hishi Amazon la deja a merced del\ngato..."
+    }
+  ]
 }

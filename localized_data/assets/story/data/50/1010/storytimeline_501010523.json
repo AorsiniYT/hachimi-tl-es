@@ -1,87 +1,87 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Taiki Shuttle me insiste en ir a visitar<n> una\ngranja con ella mi día libre..."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Mmm... No es como las de mi tierra, pero <n>¡una\ngranja es una granja!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Hay tanta energía aquí! El olor de<n> los\npastizales, el rugido de los<n> tractores..."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "La brisa suave fluyendo por la <n>granja, el mugido\ndel ganado <n>desbocado..."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Espera, ¿ganado desbocado?!"
-        },
-        {
-            "name": "Granjero",
-            "text": "¡Es una emergencia! ¡Las vacas han<n> escapado!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Nos giramos para ver varias vacas <n>corriendo por\nuna cerca rota!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Je-je! ¡No podrían haber escapado<n> en mejor\nmomento! ¡Ustedes déjenmelo<n> a mí!",
-            "choice_data_list": [
-                "Parece algo peligroso.",
-                "Parece algo peligroso."
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Todo bien! ¡Mi familia se dedica a arrear<n> vacas!\n¡Estoy acostumbrada a este tipo de cosas!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Muévanse, ahora!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Yeehaw!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Ella se acerca a las vacas escapadas<n> por el lado\nmientras grita órdenes,<n> y regresan a donde\npertenecen en <n>un santiamén."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Uf! ¡Y más o menos así se <n>hace!\n¡Sorprendentemente bien<n> para estar sola!",
-            "choice_data_list": [
-                "¿Nunca lo habías hecho sola?!"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Jaja, no! ¡Mi mamá y yo siempre lo hacíamos<n>\njuntas en mi tierra!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Pero no importa! ¡Mi cuerpo se siente<n> mucho más\nligero de tanto arrear!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Tengo la sensación de que puedo subir mi velocidad<n>\nun notch y hacer giros cerrados justo en <n>el talón.",
-            "choice_data_list": [
-                "¿Es así?"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "¡Sí, señor! ¡Me alegra mucho que hayamos venido<n> a\nesta granja! ¡Gracias por traerme!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Al día siguiente, noto que la carrera<n> de Taiki\nShuttle ciertamente ha mejorado mucho,<n> como ella\npredijo."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Taiki Shuttle me insiste en ir a visitar una\ngranja con ella mi día libre..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Mmm... No es como las de mi tierra, pero ¡una\ngranja es una granja!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Hay tanta energía aquí! El olor de los\npastizales, el rugido de los tractores..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "La brisa suave fluyendo por la granja, el mugido\ndel ganado desbocado..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Espera, ¿ganado desbocado?!"
+    },
+    {
+      "name": "Granjero",
+      "text": "¡Es una emergencia! ¡Las vacas han escapado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos giramos para ver varias vacas corriendo por\nuna cerca rota!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Je-je! ¡No podrían haber escapado en mejor\nmomento! ¡Ustedes déjenmelo a mí!",
+      "choice_data_list": [
+        "Parece algo peligroso.",
+        "Parece algo peligroso."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Todo bien! ¡Mi familia se dedica a arrear vacas!\n¡Estoy acostumbrada a este tipo de cosas!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Muévanse, ahora!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Yeehaw!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella se acerca a las vacas escapadas por el lado\nmientras grita órdenes, y regresan a donde\npertenecen en un santiamén."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Uf! ¡Y más o menos así se hace!\n¡Sorprendentemente bien para estar sola!",
+      "choice_data_list": [
+        "¿Nunca lo habías hecho sola?!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Jaja, no! ¡Mi mamá y yo siempre lo hacíamos\njuntas en mi tierra!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pero no importa! ¡Mi cuerpo se siente mucho más\nligero de tanto arrear!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Tengo la sensación de que puedo subir mi velocidad\nun notch y hacer giros cerrados justo en el talón.",
+      "choice_data_list": [
+        "¿Es así?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sí, señor! ¡Me alegra mucho que hayamos venido a\nesta granja! ¡Gracias por traerme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, noto que la carrera de Taiki\nShuttle ciertamente ha mejorado mucho, como ella\npredijo."
+    }
+  ]
 }

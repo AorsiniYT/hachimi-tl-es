@@ -1,87 +1,87 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Tokai Teio",
-            "text": "¿Lo ves ahora? ¡Esto es de lo que estoy<n> hecha!"
-        },
-        {
-            "name": "Espectador A",
-            "text": "¡Teio, fuiste increíble!"
-        },
-        {
-            "name": "Espectador B",
-            "text": "¡Te animaré en la próxima carrera!<n> ¡No me\ndefraudes!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "¡Lo sabes! ¡Seguro ganaré el primer<n> lugar!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Con eso, Tokai Teio señala con dos dedos\n<n>decididamente hacia arriba en el aire."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "¡Voy a ser campeona de la <n>Triple Corona!"
-        },
-        {
-            "name": "Espectador A",
-            "text": "¡Puedes hacerlo! ¡Tú puedes!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "<i>Wooooo!</i>"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "¡Ah, Entrenador! ¡Lo logré! ¡Gané el Derby!",
-            "choice_data_list": [
-                "Congrats!",
-                "Congrats!"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "¡Hehe! Soy bastante genial, ¿eh? ¡Eso me acerca<n> un\npaso más al Presidente!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "He llegado tan lejos. No me detendré hasta\n<n>convertirme en campeona de la Triple Corona!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Con el fervor de Tokai Teio, ¡hará realidad<n> su\nsueño con seguridad!",
-            "choice_data_list": [
-                "¡Ahora, hagámoslo de nuevo en el Kikuka Sho!"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "¡Sí! ¡Volveré a la rutina a partir<n> de mañana!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "¡Ngh?! Ay, ay, ay..."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Ah, hehe... Parece que estoy un poco cansada. Mi\npie<n> se está calambrando.",
-            "choice_data_list": [
-                "Necesitas descansar primero."
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Sí, supongo que tienes razón..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Tokai Teio brilla gloriosamente mientras<n> trae a\ncasa la Doble Corona."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Su mira está puesta en la carrera final,<n> la que le\notorgará el título de campeona de <n>la Triple Corona\n—¡el Kikuka Sho!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "¿Lo ves ahora? ¡Esto es de lo que estoy hecha!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Teio, fuiste increíble!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Te animaré en la próxima carrera! ¡No me\ndefraudes!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Lo sabes! ¡Seguro ganaré el primer lugar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, Tokai Teio señala con dos dedos\ndecididamente hacia arriba en el aire."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Voy a ser campeona de la Triple Corona!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Puedes hacerlo! ¡Tú puedes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Wooooo!</i>"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ah, Entrenador! ¡Lo logré! ¡Gané el Derby!",
+      "choice_data_list": [
+        "Congrats!",
+        "Congrats!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Hehe! Soy bastante genial, ¿eh? ¡Eso me acerca un\npaso más al Presidente!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "He llegado tan lejos. No me detendré hasta\nconvertirme en campeona de la Triple Corona!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con el fervor de Tokai Teio, ¡hará realidad su\nsueño con seguridad!",
+      "choice_data_list": [
+        "¡Ahora, hagámoslo de nuevo en el Kikuka Sho!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí! ¡Volveré a la rutina a partir de mañana!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ngh?! Ay, ay, ay..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ah, hehe... Parece que estoy un poco cansada. Mi\npie se está calambrando.",
+      "choice_data_list": [
+        "Necesitas descansar primero."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sí, supongo que tienes razón..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio brilla gloriosamente mientras trae a\ncasa la Doble Corona."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su mira está puesta en la carrera final, la que le\notorgará el título de campeona de la Triple Corona\n—¡el Kikuka Sho!"
+    }
+  ]
 }

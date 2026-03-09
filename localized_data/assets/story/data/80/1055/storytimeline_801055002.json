@@ -1,72 +1,72 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Un día, mientras estoy en el parque..."
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "¡Siempre maravillosa, no importa cuándo<n> o dónde! ☆\n¡Tú y yo, ambas somos<n> maravillosas! ★"
-        },
-        {
-            "name": "Niño A",
-            "text": "¡Oh, es la dama maravillosa!<n> ¡Maaarvelooous!"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "¡Hola! ¡Hoy y mañana serán <n>maravillosos! ☆ ¡Oh, tú\ntambién eres <n>maaarvelous! ★",
-            "choice_data_list": [
-                "¿Y eso de \"maravilloso\" otra vez?"
-            ]
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "¿Qué?! ¿No lo sabes? ¡Maravilloso es<n> solo eso!\n¡Maravilloso! ☆"
-        },
-        {
-            "name": "Monólogo",
-            "text": "No estoy segura de qué tipo de respuesta<n> esperaba,\npero la que obtengo de <n>Marvelous Sunday es más\nallá de <n>desconcertante..."
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "¡No hay suficiente maravillosidad en <n>este mundo!\n¿Qué puedo hacer para <n>aumentarla?",
-            "choice_data_list": [
-                "¿Echarle todo lo que tienes?",
-                "¿Quizás relajarte un poco y dejar que las cosas\nsucedan como deban?"
-            ]
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "¿Todo lo que tengo? ¡No me lo digas <n>dos veces!\n<i>¡Vrum, vrum! <n>¡Vaaa-vruuum!</i>"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "¡Wujuu! ¡Estoy cambiando a marchas más altas!"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "¡Mira! ¡Ahora puedo correr sin <n>parar! ¡Jajaja! ☆\n¡Jajaja! ★"
-        },
-        {
-            "name": "Monólogo",
-            "text": "No tengo idea de lo que está pasando, pero <n><i>sí</i> tengo una sonrisa en la cara después de eso."
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "Relajarse, ¿eh? Bueno, si eso es lo que quieres,<n>\n¡te mostraré relajación!"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "Voy a relajarme tanto, que no pasará mucho<n> tiempo\nantes de que el mundo sea más frío<n> que el hielo!"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "¡Ooh, ahora tengo un antojo enorme de un<n> buen\nraspado frío! ¡Vamos, vámonos!<n> ☆ ¡Jajaja! ★"
-        },
-        {
-            "name": "Monólogo",
-            "text": "No tengo idea de lo que está pasando, pero <n><i>sí</i> tengo una sonrisa en la cara después de eso."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estoy en el parque..."
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Siempre maravillosa, no importa cuándo o dónde! ☆\n¡Tú y yo, ambas somos maravillosas! ★"
+    },
+    {
+      "name": "Niño A",
+      "text": "¡Oh, es la dama maravillosa! ¡Maaarvelooous!"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Hola! ¡Hoy y mañana serán maravillosos! ☆ ¡Oh, tú\ntambién eres maaarvelous! ★",
+      "choice_data_list": [
+        "¿Y eso de \"maravilloso\" otra vez?"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¿Qué?! ¿No lo sabes? ¡Maravilloso es solo eso!\n¡Maravilloso! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy segura de qué tipo de respuesta esperaba,\npero la que obtengo de Marvelous Sunday es más\nallá de desconcertante..."
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡No hay suficiente maravillosidad en este mundo!\n¿Qué puedo hacer para aumentarla?",
+      "choice_data_list": [
+        "¿Echarle todo lo que tienes?",
+        "¿Quizás relajarte un poco y dejar que las cosas\nsucedan como deban?"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¿Todo lo que tengo? ¡No me lo digas dos veces!\n<i>¡Vrum, vrum! ¡Vaaa-vruuum!</i>"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Wujuu! ¡Estoy cambiando a marchas más altas!"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Mira! ¡Ahora puedo correr sin parar! ¡Jajaja! ☆\n¡Jajaja! ★"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No tengo idea de lo que está pasando, pero <i>sí</i> tengo una sonrisa en la cara después de eso."
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Relajarse, ¿eh? Bueno, si eso es lo que quieres,\n¡te mostraré relajación!"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Voy a relajarme tanto, que no pasará mucho tiempo\nantes de que el mundo sea más frío que el hielo!"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Ooh, ahora tengo un antojo enorme de un buen\nraspado frío! ¡Vamos, vámonos! ☆ ¡Jajaja! ★"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No tengo idea de lo que está pasando, pero <i>sí</i> tengo una sonrisa en la cara después de eso."
+    }
+  ]
 }

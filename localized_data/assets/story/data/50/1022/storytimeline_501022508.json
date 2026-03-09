@@ -1,41 +1,41 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Fine Motion y yo estamos tomando té <n>mientras\ntenemos una reunión."
-        },
-        {
-            "name": "Fine Motion",
-            "text": "Hm, ¿dónde está el azúcar? ¡Ah! ¡Aquí está! ♪"
-        },
-        {
-            "name": "Monólogo",
-            "text": "<i>Plip, plip, plip... Plop, plop... ¡PLOP!</i>"
-        },
-        {
-            "name": "Fine Motion",
-            "text": "Entonces, Entrenador, sobre nuestro régimen de<n>\nentrenamiento...",
-            "choice_data_list": [
-                "(Eso... fueron muchos cubos de azúcar.)",
-                "(Eso... fueron muchos cubos de azúcar.)"
-            ]
-        },
-        {
-            "name": "Fine Motion",
-            "text": "¿Qué opinas de hacer algunos cambios <n>basados en\nmis resultados de carreras? <n>Personalmente creo que\nla flexibilidad es clave.",
-            "choice_data_list": [
-                "¡C-claro!",
-                "¡C-claro!"
-            ]
-        },
-        {
-            "name": "Fine Motion",
-            "text": "Jeje, ¡entonces está decidido! ♪ ¡Vale,<n> voy a dar\nlo mejor de mí mañana!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Fine Motion no muestra su fatiga, <n>pero podría ser\nla razón por la que anhela<n> todo ese azúcar. Tal\nvez quiera echar <n>otro vistazo a su calendario de\ncarreras."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Fine Motion y yo estamos tomando té mientras\ntenemos una reunión."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hm, ¿dónde está el azúcar? ¡Ah! ¡Aquí está! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Plip, plip, plip... Plop, plop... ¡PLOP!</i>"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Entonces, Entrenador, sobre nuestro régimen de\nentrenamiento...",
+      "choice_data_list": [
+        "(Eso... fueron muchos cubos de azúcar.)",
+        "(Eso... fueron muchos cubos de azúcar.)"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Qué opinas de hacer algunos cambios basados en\nmis resultados de carreras? Personalmente creo que\nla flexibilidad es clave.",
+      "choice_data_list": [
+        "¡C-claro!",
+        "¡C-claro!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Jeje, ¡entonces está decidido! ♪ ¡Vale, voy a dar\nlo mejor de mí mañana!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fine Motion no muestra su fatiga, pero podría ser\nla razón por la que anhela todo ese azúcar. Tal\nvez quiera echar otro vistazo a su calendario de\ncarreras."
+    }
+  ]
 }
