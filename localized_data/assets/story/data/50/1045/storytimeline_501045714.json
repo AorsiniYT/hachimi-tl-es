@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "La lesión de Super Creek ha sido completamente<n>\ntratada."
+      "text": "La lesión de Super Creek ha sido completamente\ntratada."
     },
     {
       "name": "Super Creek",
@@ -11,33 +11,25 @@
     },
     {
       "name": "Super Creek",
-      "text": "Hum... Me vas a hacer sonrojar<n> si sigues mirándome\nasí.",
+      "text": "Hum... Me vas a hacer sonrojar si sigues mirándome\nasí.",
       "choice_data_list": [
         "Deja de fingir que estás bien."
       ]
     },
     {
       "name": "Super Creek",
-      "text": "¡No estoy fingiendo! Si solo me quedo quieta,\n<n>entonces no es na—",
+      "text": "¡No estoy fingiendo! Si solo me quedo quieta,\nentonces no es na—",
       "choice_data_list": [
         "<i>Mirar</i>"
       ]
     },
     {
       "name": "Super Creek",
-      "text": "Ahí vas mirando de nuevo. Deja de <n>molestarme!\n¡Hum!"
+      "text": "Ahí vas mirando de nuevo. Deja de molestarme!\n¡Hum!"
     },
     {
       "name": "Super Creek",
-      "text": "...En serio, duele, pero no es nada de<n> qué\npreocuparse."
-    },
-    {
-      "name": "Super Creek",
-      "text": "Estoy siendo seria... ¿vale?",
-      "choice_data_list": [
-        "Aún estoy preocupado.",
-        "Lloraré si descubro que mientes, ¿me oyes?"
-      ]
+      "text": "...En serio, duele, pero no es nada de qué\npreocuparse."
     },
     {
       "name": "Super Creek",
@@ -49,19 +41,27 @@
     },
     {
       "name": "Super Creek",
-      "text": "...Ya veo. Bueno, no querría hacerte<n> preocupar."
+      "text": "Estoy siendo seria... ¿vale?",
+      "choice_data_list": [
+        "Aún estoy preocupado.",
+        "Lloraré si descubro que mientes, ¿me oyes?"
+      ]
     },
     {
       "name": "Super Creek",
-      "text": "Muy bien entonces. Odio aprovecharme<n> de tu bondad,\npero solo esta vez..."
+      "text": "...Ya veo. Bueno, no querría hacerte preocupar."
     },
     {
       "name": "Super Creek",
-      "text": "¿Crees que podrías quedarte conmigo <n>hasta que esté\nmejor? Lo siento mucho..."
+      "text": "Muy bien entonces. Odio aprovecharme de tu bondad,\npero solo esta vez..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Crees que podrías quedarte conmigo hasta que esté\nmejor? Lo siento mucho..."
     },
     {
       "name": "Monólogo",
-      "text": "Super Creek sonríe a través del dolor <n>para que yo\nno me preocupe."
+      "text": "Super Creek sonríe a través del dolor para que yo\nno me preocupe."
     },
     {
       "name": "Super Creek",
@@ -69,11 +69,11 @@
     },
     {
       "name": "Super Creek",
-      "text": "Lo siento, Entrenador. Duele mucho de <n>verdad."
+      "text": "Lo siento, Entrenador. Duele mucho de verdad."
     },
     {
       "name": "Super Creek",
-      "text": "¡Gah, qué hago? No quiero que <n>tengas problemas por\nmi culpa..."
+      "text": "¡Gah, qué hago? No quiero que tengas problemas por\nmi culpa..."
     },
     {
       "name": "Super Creek",
@@ -81,7 +81,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Después de calmar a la agitada Super Creek,<n> me\ntomo mi tiempo para atender su lesión."
+      "text": "Después de calmar a la agitada Super Creek, me\ntomo mi tiempo para atender su lesión."
     },
     {
       "name": "Super Creek",
@@ -89,19 +89,19 @@
     },
     {
       "name": "Super Creek",
-      "text": "Si te hago llorar, simplemente tendré que <n>asumir\nmi error y consolarte."
+      "text": "Si te hago llorar, simplemente tendré que asumir\nmi error y consolarte."
     },
     {
       "name": "Super Creek",
-      "text": "Te daré un <i>grandote</i> abrazo, </i>y entonces... <n>Oh,\ncierto. Eso significa que tengo que mejorar<n>\nrápido."
+      "text": "Te daré un <i>grandote</i> abrazo, </i>y entonces... Oh,\ncierto. Eso significa que tengo que mejorar\nrápido."
     },
     {
       "name": "Super Creek",
-      "text": "...Eres tan lindo, Entrenador. ¡Gracias<n> por todo!\n♪"
+      "text": "...Eres tan lindo, Entrenador. ¡Gracias por todo!\n♪"
     },
     {
       "name": "Monólogo",
-      "text": "Le doy a Super Creek el cuidado que <n>necesita, y\nella me acaricia la cabeza <n>felizmente."
+      "text": "Le doy a Super Creek el cuidado que necesita, y\nella me acaricia la cabeza felizmente."
     }
   ]
 }

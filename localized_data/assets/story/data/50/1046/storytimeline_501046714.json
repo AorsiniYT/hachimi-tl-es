@@ -7,24 +7,15 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Lamento mucho haberte preocupado así,\n<n><i>Entrenador... <i>Snif.</i>"
+      "text": "Lamento mucho haberte preocupado así,\n<i>Entrenador... <i>Snif.</i>"
     },
     {
       "name": "Smart Falcon",
-      "text": "No... ¡Anímate, Falco! ¡Las lágrimas de <n>una ídola\nse reservan solo para momentos<n> felices!"
+      "text": "No... ¡Anímate, Falco! ¡Las lágrimas de una ídola\nse reservan solo para momentos felices!"
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Estaré bien, Entrenador! ¡Así que levanta la\ncabeza y<n> cambia esa mueca de enfado por una\nsonrisa!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "¡Ay!",
-      "choice_data_list": [
-        "¡Quédate quieta! ¡Todavía te estás recuperando!",
-        "¡Quédate quieta! ¡Todavía te estás recuperando!",
-        "¡Mantente fuerte! ¡Sigue adelante!"
-      ]
+      "text": "¡Estaré bien, Entrenador! ¡Así que levanta la\ncabeza y cambia esa mueca de enfado por una\nsonrisa!"
     },
     {
       "name": "Smart Falcon",
@@ -37,19 +28,28 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Agh... No puedo creer que hice que mi primer fan<n>\nse viera tan triste..."
+      "text": "¡Ay!",
+      "choice_data_list": [
+        "¡Quédate quieta! ¡Todavía te estás recuperando!",
+        "¡Quédate quieta! ¡Todavía te estás recuperando!",
+        "¡Mantente fuerte! ¡Sigue adelante!"
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "El trabajo de una ídola es hacer felices<n> a sus\nfans, ¿verdad? ¡Okay! ¡Voy a poner todo<n> mi\nesfuerzo en recuperarme!"
+      "text": "Agh... No puedo creer que hice que mi primer fan\nse viera tan triste..."
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Manténganse sintonizados para el arco<n> de\nrecuperación milagrosa de Falco! ¡Celebraré<n> mi\nregreso con un concierto!"
+      "text": "El trabajo de una ídola es hacer felices a sus\nfans, ¿verdad? ¡Okay! ¡Voy a poner todo mi\nesfuerzo en recuperarme!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Manténganse sintonizados para el arco de\nrecuperación milagrosa de Falco! ¡Celebraré mi\nregreso con un concierto!"
     },
     {
       "name": "Monólogo",
-      "text": "Smart Falcon decide descansar y esperar<n>\npacientemente a que sus lesiones sanen."
+      "text": "Smart Falcon decide descansar y esperar\npacientemente a que sus lesiones sanen."
     },
     {
       "name": "Smart Falcon",
@@ -64,19 +64,19 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "Mi lesión podría ser mucho más seria<n> de lo que\npensé... ¿Quizás no debería<n> moverme demasiado? No\nsé..."
+      "text": "Mi lesión podría ser mucho más seria de lo que\npensé... ¿Quizás no debería moverme demasiado? No\nsé..."
     },
     {
       "name": "Monólogo",
-      "text": "Incapaz de forzar una sonrisa por mucho tiempo,<n>\nSmart Falcon se toma un tiempo para descansar<n> lo\nque necesita."
+      "text": "Incapaz de forzar una sonrisa por mucho tiempo,\nSmart Falcon se toma un tiempo para descansar lo\nque necesita."
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Tienes toda la razón! No soy de las<n> que se\ndesaniman por algo así!"
+      "text": "¡Tienes toda la razón! No soy de las que se\ndesaniman por algo así!"
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Gracias por creer en mí! ¡Considera que estoy<n> de\nvuelta en acción!"
+      "text": "¡Gracias por creer en mí! ¡Considera que estoy de\nvuelta en acción!"
     },
     {
       "name": "Smart Falcon",
@@ -87,15 +87,15 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Gracias a tu ánimo, tengo montones<n> de energía!"
+      "text": "¡Gracias a tu ánimo, tengo montones de energía!"
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Muy bien! ¡Sé que ahora puedo <n>superarlo!"
+      "text": "¡Muy bien! ¡Sé que ahora puedo superarlo!"
     },
     {
       "name": "Monólogo",
-      "text": "Smart Falcon reanuda el entrenamiento<n> y tiene una\nrecuperación asombrosa!"
+      "text": "Smart Falcon reanuda el entrenamiento y tiene una\nrecuperación asombrosa!"
     }
   ]
 }

@@ -1,363 +1,363 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Estoy en camino de regreso al campus con <n>Fuji\nKiseki cuando me doy cuenta de algo terrible."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¿Perdiste tu teléfono?!"
-        },
-        {
-            "text": "Vacio mi bolso y bolsillos, pero mi <n>teléfono no\nestá por ningún lado."
-        },
-        {
-            "text": "Mi sangre se enfría cuando recuerdo toda<n> la\ninformación confidencial de Tracen que<n> está\nalmacenada en él.",
-            "choice_data_list": [
-                "¡Estaré en grandes problemas si esa información se\nfiltra!"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Apuesto... ¡Será mejor que la encontremos, y\nrápido!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Espera, ¿no tienes una tableta sincronizada<n> con tu\nteléfono?"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡Hay una aplicación que puedes usar para<n> rastrear\ntu teléfono perdido si has iniciado <n>sesión en la\nmisma cuenta en ambos dispositivos!"
-        },
-        {
-            "text": "Como tengo mi tableta conmigo, la saco de<n> mi\nbolso, descargo la aplicación<n> en cuestión y entro\nmi información."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡Oh! ¡El mapa se ha cargado!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Parece que tu teléfono está en un parque...<n> ¿tal\nvez? Parece estar moviéndose...",
-            "choice_data_list": [
-                "Huh?"
-            ]
-        },
-        {
-            "text": "Entrecerré los ojos en la pantalla y,\nefectivamente,<n> el punto que indica la ubicación de\nmi teléfono<n> se está moviendo."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Tal vez alguien lo recogió. Pero<n> no parece que lo\nestén llevando a una<n> comisaría o a objetos\nperdidos..."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Podríamos tener que perseguirlos<n> si son algún\nmalandro tratando de robar <n>tu teléfono. Espera,\n¡me cambiaré!",
-            "choice_data_list": [
-                "No hay necesidad de eso."
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡Al contrario! ¡Siempre es mejor prevenir<n> que\nlamentar! ¡Vamos una vez que me haya<n> cambiado!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡Vale, estamos aquí! Pero... No veo a<n> nadie que\nparezca un ladrón despreciable."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Supongo que lo único que podemos hacer <n>ahora es\npreguntar."
-        },
-        {
-            "name": "Gato",
-            "text": "Meeeow."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡Hola! ¡Qué gatito adorable! Oye, <n>¿has visto un\nsmartphone tirado por <n>algún la—"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Huh?",
-            "choice_data_list": [
-                "¿Qué pasa?"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Nada, solo... mira lo que <n>arrastra."
-        },
-        {
-            "text": "Efectivamente, hay un teléfono muy<n> familiar en un\ncordón muy familiar en<n> su boca.",
-            "choice_data_list": [
-                "My phone!",
-                "My phone!"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡Así <i>que es </i>tuyo! Pensé que lo había <n>visto antes."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡Ahaha! No puedo creerlo, pero nuestro ladrón<n> de\nteléfonos es un gato! ¡Nunca he visto un <n>ladrón\nmás adorable!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Pero no hay tiempo para quedarnos <n>riendo. ¡Vuelvo\nen un momento!"
-        },
-        {
-            "text": "Ella sale tras el gato y desaparece de mi vista\n<n>antes de que pueda responder."
-        },
-        {
-            "text": "Un tiempo considerable después, la<n> veo regresando\ncorriendo hacia mí."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "<i>¡Jadeo! ¡Jadeo!</i> Perdón por la espera, ¡pero<n>\nrecuperé tu teléfono!"
-        },
-        {
-            "text": "Fuji Kiseki está empapada, con un charco<n> de agua\ncreciendo a sus pies.",
-            "choice_data_list": [
-                "¡¿Qué pasó?!",
-                "¡¿Qué pasó?!"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Ahaha. Perdón por asustarte. Es una historia<n> un\npoco larga, pero..."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "<i>¡Jadeo! ¡Resuello...</i> Caramba, ¡eres<n> un gato muy\nágil, ¿verdad?!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡Cuidado, gatito! ¡Hay un lago por<n> allí!"
-        },
-        {
-            "text": "<i>Plop!</i>"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¿Acaso...? ¿Acabas de dejar caer el teléfono<n> ahí?!\n¡Puedes ser lindo, pero seguro que <n>eres un\nproblema!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡Uy, será mejor que saque el teléfono antes<n> de que\nse pierda!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Esa es la historia en pocas palabras. ¡Pero no<n> te\npreocupes! No estoy tan empapada como parezco.<n> ¡Mi\ncamiseta interior aún está seca como un hueso!"
-        },
-        {
-            "text": "Ella me lanza una sonrisa tranquilizadora,<n> pero el\nsudor en su frente me dice lo agotadora<n> que fue su\npersecución.",
-            "choice_data_list": [
-                "Dale algo de beber.",
-                "Dale una toalla.",
-                "Apúrate y cómprale ropa seca."
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡Está bien! ¡No tienes que darme<n> de beber! ¡Fui a\nbuscarlo porque<n> quise, eso es todo!",
-            "choice_data_list": [
-                "Aun así, hiciste mucho y necesitas mantenerte\nhidratada."
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Es un buen punto... Jaja. No me di <n>cuenta hasta\nahora, ¡pero tengo mucha sed!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡Uf! ¡Gracias! Fue muy refrescante.",
-            "choice_data_list": [
-                "Y <i>gracias a </i>ti por hacer tanto por mí."
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Huh?",
-            "choice_data_list": [
-                "Tu ropa está toda sucia por esa persecución de\ngato salvaje."
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡Guau, tienes razón! Estoy llena de barro...<n> En\nqué estado estoy."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Estaba tan concentrada en recuperar <n>tu teléfono\nque tuve visión de túnel."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Debo verme bastante patética ahora,<n> ¿eh?",
-            "choice_data_list": [
-                "Para nada. Estoy agradecida por tu ayuda."
-            ]
-        },
-        {
-            "text": "Pensar que Fuji Kiseki, que normalmente<n> está tan\nimpecable, literalmente se <n>arrastró por el barro\npor mí... Es demasiado<n> conmovedor."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¿Lo soy? De alguna manera, es vergonzoso<n>\nescucharte decir eso."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Pero... sí, tiene sentido."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Es extraño, pero siempre quiero verme lo <n>mejor\nposible frente a ti."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Pero ya que devolvió tu hermosa sonrisa,<n> con gusto\nllevaré este aspecto desaliñado<n> como una insignia\nde honor."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Porque tu sonrisa es mi tesoro."
-        },
-        {
-            "text": "Ella me sonríe, suave y cálida, y admiramos<n> la\npuesta de sol en un silencio amistoso."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¿Seguro que puedo usar esto? Estoy llena<n> de barro,\nsabes.",
-            "choice_data_list": [
-                "¡Por supuesto que estoy segura! ¡Para eso es!"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Vale... Entonces, ¡gracias! Te lo devolveré<n> mañana\ndespués de lavarlo."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡Uf! Se siente mucho mejor. Me encanta<n> lo suave\nque es tu toalla."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "También huele bien... La fragancia es tan suave y<n>\ntranquilizadora.",
-            "choice_data_list": [
-                "Really?"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Jeje. Supongo que no lo notas porque<n> estás\nacostumbrado."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Hablando de eso, escuché que eres más<n> compatible\ngenéticamente con personas<n> cuyo olor te gusta."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Creo que podría ser cierto."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Después de todo, me sumergí de cabeza <n>en un lago\nturbio por ti sin dudar."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Cuando lo pienso de esa manera... puedes<n> ser\nincluso más importante para mí de lo<n> que\nimaginaba.",
-            "choice_data_list": [
-                "...!"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Jeje. No hay por qué avergonzarse tanto."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Oye, Entrenador... ¿Qué soy para ti?"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¿También encuentras agradable mi fragancia?"
-        },
-        {
-            "text": "Al día siguiente, encuentro mi toalla <n>esperándome\nen mi oficina, doblada y <n>ordenada."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¡¿Vas a <i>comprarme </i>algunas?! <n>¡Está bien! ¡No tienes\nque molestarte<n> en hacer eso!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "De verdad, estoy bien. Estaré seca en un <n>momento."
-        },
-        {
-            "text": "A pesar de sus seguridades, aún <n>odiaría que se\nresfriara.",
-            "choice_data_list": [
-                "¡Vuelvo en un momento, así que espera aquí!"
-            ]
-        },
-        {
-            "text": "Voy a la tienda de conveniencia más cercana y<n>\nregreso apurado, solo para encontrar..."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "<i>Zzz...</i>",
-            "choice_data_list": [
-                "(¡Está dormida!)"
-            ]
-        },
-        {
-            "text": "Obviamente no puedo cambiarle <n>la ropa yo mismo,\npero tampoco puedo <n>dejarla aquí. Tampoco quisiera\n<n>despertarla."
-        },
-        {
-            "text": "Decido cargarla a casa sobre mi espalda."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "¿Q-qué?! ¿E-e-entrenador?!",
-            "choice_data_list": [
-                "Buenos días."
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Ah... Perdón. Debo haberme quedado dormida\n<n>mientras esperaba."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Sentí que alguien me levantaba, pero <n>en mi estado\nmedio dormida, pensé que era<n> mi madre.",
-            "choice_data_list": [
-                "¿Tu madre?"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Sí. Tu espalda se sintió tan firme y cálida...<n> Me\nrecordó a cuando mi madre me <n>cargaba, hace mucho\ntiempo."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Debo haberte confundido con ella porque<n> para mí\neres tan importante como ella..."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Perdón. Fue raro, ¿verdad? Todavía <n>debo estar\naturdida del sueño."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "De cualquier forma, será mejor que nos apuremos<n> a\ncasa. Anímate, Fuji!",
-            "choice_data_list": [
-                "Ese es el camino equivocado."
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "...Por favor, haz como que eso no pasó."
-        },
-        {
-            "text": "Fuji Kiseki va tambaleándose, así que la<n> apoyo\ntodo el camino de regreso a la<n> academia."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Estoy en camino de regreso al campus con Fuji\nKiseki cuando me doy cuenta de algo terrible."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Perdiste tu teléfono?!"
+    },
+    {
+      "text": "Vacio mi bolso y bolsillos, pero mi teléfono no\nestá por ningún lado."
+    },
+    {
+      "text": "Mi sangre se enfría cuando recuerdo toda la\ninformación confidencial de Tracen que está\nalmacenada en él.",
+      "choice_data_list": [
+        "¡Estaré en grandes problemas si esa información se\nfiltra!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Apuesto... ¡Será mejor que la encontremos, y\nrápido!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Espera, ¿no tienes una tableta sincronizada con tu\nteléfono?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Hay una aplicación que puedes usar para rastrear\ntu teléfono perdido si has iniciado sesión en la\nmisma cuenta en ambos dispositivos!"
+    },
+    {
+      "text": "Como tengo mi tableta conmigo, la saco de mi\nbolso, descargo la aplicación en cuestión y entro\nmi información."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Oh! ¡El mapa se ha cargado!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Parece que tu teléfono está en un parque... ¿tal\nvez? Parece estar moviéndose...",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "text": "Entrecerré los ojos en la pantalla y,\nefectivamente, el punto que indica la ubicación de\nmi teléfono se está moviendo."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Tal vez alguien lo recogió. Pero no parece que lo\nestén llevando a una comisaría o a objetos\nperdidos..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Podríamos tener que perseguirlos si son algún\nmalandro tratando de robar tu teléfono. Espera,\n¡me cambiaré!",
+      "choice_data_list": [
+        "No hay necesidad de eso."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Al contrario! ¡Siempre es mejor prevenir que\nlamentar! ¡Vamos una vez que me haya cambiado!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Vale, estamos aquí! Pero... No veo a nadie que\nparezca un ladrón despreciable."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Supongo que lo único que podemos hacer ahora es\npreguntar."
+    },
+    {
+      "name": "Gato",
+      "text": "Meeeow."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Hola! ¡Qué gatito adorable! Oye, ¿has visto un\nsmartphone tirado por algún la—"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Huh?",
+      "choice_data_list": [
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Nada, solo... mira lo que arrastra."
+    },
+    {
+      "text": "Efectivamente, hay un teléfono muy familiar en un\ncordón muy familiar en su boca.",
+      "choice_data_list": [
+        "My phone!",
+        "My phone!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Así <i>que es </i>tuyo! Pensé que lo había visto antes."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Ahaha! No puedo creerlo, pero nuestro ladrón de\nteléfonos es un gato! ¡Nunca he visto un ladrón\nmás adorable!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero no hay tiempo para quedarnos riendo. ¡Vuelvo\nen un momento!"
+    },
+    {
+      "text": "Ella sale tras el gato y desaparece de mi vista\nantes de que pueda responder."
+    },
+    {
+      "text": "Un tiempo considerable después, la veo regresando\ncorriendo hacia mí."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>¡Jadeo! ¡Jadeo!</i> Perdón por la espera, ¡pero\nrecuperé tu teléfono!"
+    },
+    {
+      "text": "Fuji Kiseki está empapada, con un charco de agua\ncreciendo a sus pies.",
+      "choice_data_list": [
+        "¡¿Qué pasó?!",
+        "¡¿Qué pasó?!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ahaha. Perdón por asustarte. Es una historia un\npoco larga, pero..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>¡Jadeo! ¡Resuello...</i> Caramba, ¡eres un gato muy\nágil, ¿verdad?!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Cuidado, gatito! ¡Hay un lago por allí!"
+    },
+    {
+      "text": "<i>Plop!</i>"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Acaso...? ¿Acabas de dejar caer el teléfono ahí?!\n¡Puedes ser lindo, pero seguro que eres un\nproblema!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Uy, será mejor que saque el teléfono antes de que\nse pierda!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Esa es la historia en pocas palabras. ¡Pero no te\npreocupes! No estoy tan empapada como parezco. ¡Mi\ncamiseta interior aún está seca como un hueso!"
+    },
+    {
+      "text": "Ella me lanza una sonrisa tranquilizadora, pero el\nsudor en su frente me dice lo agotadora que fue su\npersecución.",
+      "choice_data_list": [
+        "Dale algo de beber.",
+        "Dale una toalla.",
+        "Apúrate y cómprale ropa seca."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Está bien! ¡No tienes que darme de beber! ¡Fui a\nbuscarlo porque quise, eso es todo!",
+      "choice_data_list": [
+        "Aun así, hiciste mucho y necesitas mantenerte\nhidratada."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Es un buen punto... Jaja. No me di cuenta hasta\nahora, ¡pero tengo mucha sed!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Uf! ¡Gracias! Fue muy refrescante.",
+      "choice_data_list": [
+        "Y <i>gracias a </i>ti por hacer tanto por mí."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Huh?",
+      "choice_data_list": [
+        "Tu ropa está toda sucia por esa persecución de\ngato salvaje."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Guau, tienes razón! Estoy llena de barro... En\nqué estado estoy."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Estaba tan concentrada en recuperar tu teléfono\nque tuve visión de túnel."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Debo verme bastante patética ahora, ¿eh?",
+      "choice_data_list": [
+        "Para nada. Estoy agradecida por tu ayuda."
+      ]
+    },
+    {
+      "text": "Pensar que Fuji Kiseki, que normalmente está tan\nimpecable, literalmente se arrastró por el barro\npor mí... Es demasiado conmovedor."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Lo soy? De alguna manera, es vergonzoso\nescucharte decir eso."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero... sí, tiene sentido."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Es extraño, pero siempre quiero verme lo mejor\nposible frente a ti."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero ya que devolvió tu hermosa sonrisa, con gusto\nllevaré este aspecto desaliñado como una insignia\nde honor."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Porque tu sonrisa es mi tesoro."
+    },
+    {
+      "text": "Ella me sonríe, suave y cálida, y admiramos la\npuesta de sol en un silencio amistoso."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Seguro que puedo usar esto? Estoy llena de barro,\nsabes.",
+      "choice_data_list": [
+        "¡Por supuesto que estoy segura! ¡Para eso es!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Vale... Entonces, ¡gracias! Te lo devolveré mañana\ndespués de lavarlo."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Uf! Se siente mucho mejor. Me encanta lo suave\nque es tu toalla."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "También huele bien... La fragancia es tan suave y\ntranquilizadora.",
+      "choice_data_list": [
+        "Really?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jeje. Supongo que no lo notas porque estás\nacostumbrado."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hablando de eso, escuché que eres más compatible\ngenéticamente con personas cuyo olor te gusta."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Creo que podría ser cierto."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Después de todo, me sumergí de cabeza en un lago\nturbio por ti sin dudar."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Cuando lo pienso de esa manera... puedes ser\nincluso más importante para mí de lo que\nimaginaba.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jeje. No hay por qué avergonzarse tanto."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oye, Entrenador... ¿Qué soy para ti?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿También encuentras agradable mi fragancia?"
+    },
+    {
+      "text": "Al día siguiente, encuentro mi toalla esperándome\nen mi oficina, doblada y ordenada."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡¿Vas a <i>comprarme </i>algunas?! ¡Está bien! ¡No tienes\nque molestarte en hacer eso!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "De verdad, estoy bien. Estaré seca en un momento."
+    },
+    {
+      "text": "A pesar de sus seguridades, aún odiaría que se\nresfriara.",
+      "choice_data_list": [
+        "¡Vuelvo en un momento, así que espera aquí!"
+      ]
+    },
+    {
+      "text": "Voy a la tienda de conveniencia más cercana y\nregreso apurado, solo para encontrar..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>Zzz...</i>",
+      "choice_data_list": [
+        "(¡Está dormida!)"
+      ]
+    },
+    {
+      "text": "Obviamente no puedo cambiarle la ropa yo mismo,\npero tampoco puedo dejarla aquí. Tampoco quisiera\ndespertarla."
+    },
+    {
+      "text": "Decido cargarla a casa sobre mi espalda."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Q-qué?! ¿E-e-entrenador?!",
+      "choice_data_list": [
+        "Buenos días."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ah... Perdón. Debo haberme quedado dormida\nmientras esperaba."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sentí que alguien me levantaba, pero en mi estado\nmedio dormida, pensé que era mi madre.",
+      "choice_data_list": [
+        "¿Tu madre?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sí. Tu espalda se sintió tan firme y cálida... Me\nrecordó a cuando mi madre me cargaba, hace mucho\ntiempo."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Debo haberte confundido con ella porque para mí\neres tan importante como ella..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Perdón. Fue raro, ¿verdad? Todavía debo estar\naturdida del sueño."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "De cualquier forma, será mejor que nos apuremos a\ncasa. Anímate, Fuji!",
+      "choice_data_list": [
+        "Ese es el camino equivocado."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...Por favor, haz como que eso no pasó."
+    },
+    {
+      "text": "Fuji Kiseki va tambaleándose, así que la apoyo\ntodo el camino de regreso a la academia."
+    }
+  ]
 }

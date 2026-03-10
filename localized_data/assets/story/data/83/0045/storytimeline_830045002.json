@@ -1,228 +1,228 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Escuché que hay un resfriado circulando. <n>Entonces,\njusto cuando empiezo a pensar que mi<n> propia\ngarganta se siente un poco irritada..."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "ACHOO!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¿Ah, tú también te enfermaste?"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Jeje... Y suelo enorgullecerme de mi<n> buena salud.\nSupongo que lo contraje <n>de alguien."
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Sin lugar a dudas, vas a necesitar esto.<n> Es mi\npastilla mágica para la tos hecha<n> especialmente! ♪"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Vaya, es completamente negro. Pero parece\nefectivo. ¡Fondo blanco!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¡Blegh! ¿Qué demonios es esto?!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Sabe a... ¿medicina? ¿Una goma?<n> ¿Una llanta?!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Jeje, es regaliz negro. ¡A la mayoría de la gente de\nJapón no le gusta su sabor, pero en Europa es\nfamoso para tratar la tos! ♪"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¡Asqueroso o no, realmente funciona,<n> sabes! Así\nque inténtalo."
-        },
-        {
-            "text": "Una pastilla negra para la tos que <n>sabe a\nllanta... No suena muy atractiva,<n> pero..."
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Oye, tú. Pareces que vas a estornudar. <n>¡Toma una\npastilla para la tos!",
-            "choice_data_list": [
-                "What?!"
-            ]
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¿Por qué te alteras tanto?<n> ¡Te estoy haciendo un\nfavor! <n>¡Cómela ya!"
-        },
-        {
-            "text": "Con Sweep Tosho siendo tan considerada,<n> no puedo\nrechazarla. Me decido<n> y meto la pastilla negra en\nmi boca."
-        },
-        {
-            "text": "¡Augh! Sabe a medicina pero tiene la<n> textura de\nuna llanta!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¡Aja! ♪ Por tu cara sé que está <n>haciendo su magia!",
-            "choice_data_list": [
-                "¡Sí, se podría decir que sí!",
-                "¡Sí, se podría decir que sí!"
-            ]
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "¿¿Estás bien?? ¡Respira hondo! ¡Inhala! <n>¡Exhala!\n¡Inhala! ¡Exhala!"
-        },
-        {
-            "name": "Estudiante Transeúnte A",
-            "text": "¡Oh, Sweep! ¿Todavía con tus infames <n>pastillas\nmágicas para la tos?!"
-        },
-        {
-            "name": "Estudiante Transeúnte B",
-            "text": "¡Vaya, ¿ese entrenador está bien? ¡Esa es<n> una cara\nque dice \"sufrimiento\" si he visto <n>alguna!",
-            "choice_data_list": [
-                "Es asqueroso."
-            ]
-        },
-        {
-            "name": "Estudiante Transeúnte B",
-            "text": "Ahaha, ¿verdad? Iré a traerte<n> agua. Oh y cuidado,\n¡masticar lo<n> empeora!"
-        },
-        {
-            "text": "Los estudiantes empiezan a reunirse a nuestro<n>\nalrededor, quizás atraídos por mi expresión de\n<n>profunda incomodidad."
-        },
-        {
-            "text": "Mientras bebo un poco de agua y lentamente\n<n>recupero mi compostura..."
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Jeje. Comparado con cuando se <n>quejaban de\nresfriados y esas cosas,<n> ¡todos se ven un poco\nmejor ahora!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "No me extraña que la abuela siempre lo llamara<n>\ncaramelo mágico. ♪",
-            "choice_data_list": [
-                "¿Caramelo mágico?"
-            ]
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¡Esa cosa que te di! La abuela es una<n> gran bruja,\ny me dijo que el <n>caramelo siempre trae risas."
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Y esa risa hizo que todos se sintieran<n> un poco\nmejor, ¿verdad? ¡Esa es la<n> esencia de mi magia! ♪",
-            "choice_data_list": [
-                "(Qué sentimiento tan lindo.)",
-                "(Qué sentimiento tan lindo.)"
-            ]
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Oh, pareces que quieres un poco más. Está<n> bien,\n¡aquí tienes otro!",
-            "choice_data_list": [
-                "Bueno, supongo que podría intentar uno más...",
-                "¡No, gracias! ¡Estoy bien!"
-            ]
-        },
-        {
-            "text": "Magia que trae risa a todos los que te <n>rodean.\nJusto cuando empiezo a pensar que en realidad<n> es\nuna idea bastante agradable..."
-        },
-        {
-            "text": "...¡El horrible sabor me hace llorar <n>los ojos!"
-        },
-        {
-            "name": "Estudiante Transeúnte A",
-            "text": "¡Ahaha! ¡Deberías haber parado cuando<n> tuviste la\noportunidad!"
-        },
-        {
-            "name": "Estudiante Transeúnte B",
-            "text": "¡Oye, solo escúpelo y bebe un poco<n> de agua!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¡Jeje! ¡Un regaliz al día mantiene al médico<n>\nlejos! ♪"
-        },
-        {
-            "text": "Pero me encuentro completamente incapaz<n> de\nalcanzarlo... ¡Quizás todo mi cuerpo<n> ha sido\ntraumatizado por el sabor!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¿Por qué tu mano tiembla así?"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Lo que sea. Está bien, como un favor<n> extra\nespecial, te dejaré en paz por hoy."
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Pero eso significa que el resto de ustedes tienen\n<n>que comerse lo que queda."
-        },
-        {
-            "name": "Estudiante Transeúnte A",
-            "text": "¿Qué? ¿Nosotros?!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¡Duh! ¡Ahora abre la boca! ♪"
-        },
-        {
-            "name": "Estudiante Transeúnte A",
-            "text": "Ugh, está bien. Está bien, aquí viene... <n>BLEGH.\nSabe exactamente como una goma!"
-        },
-        {
-            "name": "Estudiante Transeúnte B",
-            "text": "¡No puede ser! ¡Sabe a llanta! ¡Una realmente<n>\ndesgastada!"
-        },
-        {
-            "name": "Estudiante Transeúnte A",
-            "text": "¡Ahaha! Vamos, ¿qué significa eso <n>siquiera?!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Aww, no seas así."
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Está bien. Entonces, solo tendré que encontrar a\nalguien<n> más para—"
-        },
-        {
-            "name": "???",
-            "text": "Jeje, espera un momento allí, Sweep."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "He estado desarrollando un nuevo suplemento,<n> pero\nel sabor ha asustado a los sujetos<n> de prueba."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Lo que me hace pensar ahora... Si uno<n> probara algo\naún peor de antemano,<n> eso podría potencialmente\nhacer que<n> el suplemento sepa bien por<n> comparación."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "¿Tal vez incluso esta Cápsula de <n>Amino Universal\nfinalmente será comestible?!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Tachyon, de verdad tienes un tornillo suelto<n> en la\ncabeza. Pero por otro lado..."
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¡Eso suena súper divertido! ♪"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "¡Entonces, empecemos, Sweep! <n>¡Ataque de pinza!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "¡Entendido! ¡Vamos!",
-            "choice_data_list": [
-                "¡P-para!",
-                "¡P-para!"
-            ]
-        },
-        {
-            "text": "En una operación despiadada <n>pero espléndidamente\ncoordinada, los dos<n> intentan atraparme. Pido ayuda\na Kitasan<n> Black y logro escapar de la prueba sin<n>\nun rasguño..."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Escuché que hay un resfriado circulando. Entonces,\njusto cuando empiezo a pensar que mi propia\ngarganta se siente un poco irritada..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "ACHOO!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Ah, tú también te enfermaste?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Jeje... Y suelo enorgullecerme de mi buena salud.\nSupongo que lo contraje de alguien."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Sin lugar a dudas, vas a necesitar esto. Es mi\npastilla mágica para la tos hecha especialmente! ♪"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Vaya, es completamente negro. Pero parece\nefectivo. ¡Fondo blanco!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Blegh! ¿Qué demonios es esto?!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Sabe a... ¿medicina? ¿Una goma? ¿Una llanta?!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Jeje, es regaliz negro. ¡A la mayoría de la gente de\nJapón no le gusta su sabor, pero en Europa es\nfamoso para tratar la tos! ♪"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Asqueroso o no, realmente funciona, sabes! Así\nque inténtalo."
+    },
+    {
+      "text": "Una pastilla negra para la tos que sabe a\nllanta... No suena muy atractiva, pero..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Oye, tú. Pareces que vas a estornudar. ¡Toma una\npastilla para la tos!",
+      "choice_data_list": [
+        "What?!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Por qué te alteras tanto? ¡Te estoy haciendo un\nfavor! ¡Cómela ya!"
+    },
+    {
+      "text": "Con Sweep Tosho siendo tan considerada, no puedo\nrechazarla. Me decido y meto la pastilla negra en\nmi boca."
+    },
+    {
+      "text": "¡Augh! Sabe a medicina pero tiene la textura de\nuna llanta!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Aja! ♪ Por tu cara sé que está haciendo su magia!",
+      "choice_data_list": [
+        "¡Sí, se podría decir que sí!",
+        "¡Sí, se podría decir que sí!"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¿¿Estás bien?? ¡Respira hondo! ¡Inhala! ¡Exhala!\n¡Inhala! ¡Exhala!"
+    },
+    {
+      "name": "Estudiante Transeúnte A",
+      "text": "¡Oh, Sweep! ¿Todavía con tus infames pastillas\nmágicas para la tos?!"
+    },
+    {
+      "name": "Estudiante Transeúnte B",
+      "text": "¡Vaya, ¿ese entrenador está bien? ¡Esa es una cara\nque dice \"sufrimiento\" si he visto alguna!",
+      "choice_data_list": [
+        "Es asqueroso."
+      ]
+    },
+    {
+      "name": "Estudiante Transeúnte B",
+      "text": "Ahaha, ¿verdad? Iré a traerte agua. Oh y cuidado,\n¡masticar lo empeora!"
+    },
+    {
+      "text": "Los estudiantes empiezan a reunirse a nuestro\nalrededor, quizás atraídos por mi expresión de\nprofunda incomodidad."
+    },
+    {
+      "text": "Mientras bebo un poco de agua y lentamente\nrecupero mi compostura..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Jeje. Comparado con cuando se quejaban de\nresfriados y esas cosas, ¡todos se ven un poco\nmejor ahora!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "No me extraña que la abuela siempre lo llamara\ncaramelo mágico. ♪",
+      "choice_data_list": [
+        "¿Caramelo mágico?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Esa cosa que te di! La abuela es una gran bruja,\ny me dijo que el caramelo siempre trae risas."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Y esa risa hizo que todos se sintieran un poco\nmejor, ¿verdad? ¡Esa es la esencia de mi magia! ♪",
+      "choice_data_list": [
+        "(Qué sentimiento tan lindo.)",
+        "(Qué sentimiento tan lindo.)"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Oh, pareces que quieres un poco más. Está bien,\n¡aquí tienes otro!",
+      "choice_data_list": [
+        "Bueno, supongo que podría intentar uno más...",
+        "¡No, gracias! ¡Estoy bien!"
+      ]
+    },
+    {
+      "text": "Magia que trae risa a todos los que te rodean.\nJusto cuando empiezo a pensar que en realidad es\nuna idea bastante agradable..."
+    },
+    {
+      "text": "...¡El horrible sabor me hace llorar los ojos!"
+    },
+    {
+      "name": "Estudiante Transeúnte A",
+      "text": "¡Ahaha! ¡Deberías haber parado cuando tuviste la\noportunidad!"
+    },
+    {
+      "name": "Estudiante Transeúnte B",
+      "text": "¡Oye, solo escúpelo y bebe un poco de agua!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Jeje! ¡Un regaliz al día mantiene al médico\nlejos! ♪"
+    },
+    {
+      "text": "Pero me encuentro completamente incapaz de\nalcanzarlo... ¡Quizás todo mi cuerpo ha sido\ntraumatizado por el sabor!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Por qué tu mano tiembla así?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Lo que sea. Está bien, como un favor extra\nespecial, te dejaré en paz por hoy."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Pero eso significa que el resto de ustedes tienen\nque comerse lo que queda."
+    },
+    {
+      "name": "Estudiante Transeúnte A",
+      "text": "¿Qué? ¿Nosotros?!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Duh! ¡Ahora abre la boca! ♪"
+    },
+    {
+      "name": "Estudiante Transeúnte A",
+      "text": "Ugh, está bien. Está bien, aquí viene... BLEGH.\nSabe exactamente como una goma!"
+    },
+    {
+      "name": "Estudiante Transeúnte B",
+      "text": "¡No puede ser! ¡Sabe a llanta! ¡Una realmente\ndesgastada!"
+    },
+    {
+      "name": "Estudiante Transeúnte A",
+      "text": "¡Ahaha! Vamos, ¿qué significa eso siquiera?!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Aww, no seas así."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Está bien. Entonces, solo tendré que encontrar a\nalguien más para—"
+    },
+    {
+      "name": "???",
+      "text": "Jeje, espera un momento allí, Sweep."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "He estado desarrollando un nuevo suplemento, pero\nel sabor ha asustado a los sujetos de prueba."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Lo que me hace pensar ahora... Si uno probara algo\naún peor de antemano, eso podría potencialmente\nhacer que el suplemento sepa bien por comparación."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Tal vez incluso esta Cápsula de Amino Universal\nfinalmente será comestible?!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Tachyon, de verdad tienes un tornillo suelto en la\ncabeza. Pero por otro lado..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Eso suena súper divertido! ♪"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Entonces, empecemos, Sweep! ¡Ataque de pinza!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Entendido! ¡Vamos!",
+      "choice_data_list": [
+        "¡P-para!",
+        "¡P-para!"
+      ]
+    },
+    {
+      "text": "En una operación despiadada pero espléndidamente\ncoordinada, los dos intentan atraparme. Pido ayuda\na Kitasan Black y logro escapar de la prueba sin\nun rasguño..."
+    }
+  ]
 }

@@ -1,211 +1,211 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Manhattan Cafe",
-            "text": "Hablando de eso... Cuando es de noche, <n><i>ellos</i> empiezan a aparecer por aquí...",
-            "choice_data_list": [
-                "<i>...¿<i>Ellas</i> sí?",
-                "<i>...¿<i>Ellos</i> lo hacen?"
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Sí... Vámonos antes de que los <n>interrumpamos..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Nos preparamos rápidamente para irnos, pero justo<n>\ncuando estamos a punto de..."
-        },
-        {
-            "name": "???",
-            "text": "¡Jajaja!"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "¡Conozco esa voz!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "¡Saludos, mi maravilloso público! ¡Les<n> agradezco\npor reunirse para verme en <n>esta noche tan\nespecial!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Permítanme comenzar. Esta es una ópera<n> creada por,\ndestinada a y perteneciente a<n> quien les habla, ¡el\nSoberano!"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "¡Oh no! Opera O está rodeada.",
-            "choice_data_list": [
-                "¡Espera, <i>están <i>ellos</i> aquí?!"
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Sí, y <i>ellos</i> no son muy amigables...<n> Vámonos."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "...Opera O!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "¿Oh? ¿Cómo estás, Cafe? ¿Has <n>venido a ver mi\nensayo de ópera?"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Bueno, no exactamente. ¿Cómo<n> lo digo?"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Decir la verdad podría hacer más mal<n> que bien. No\nquerríamos asustar a Opera<n> O. ¿Qué deberíamos\nhacer?",
-            "choice_data_list": [
-                "Dile la verdad.",
-                "Mantén la calma para que no se asuste."
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "...Vale."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Opera O, estás rodeada en este momento. <n><i>Ellas</i> han\n</i>llegado..."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "<i>Ellos</i> son como pensamientos, invisibles<n> a simple\nvista. Y no son amigables, por lo que <n>deberíamos\nirnos tan pronto como sea posible..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "La siempre optimista T.M. Opera O <n>parece\ninusualmente sorprendida. Sin embargo..."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "¡Jajaja! ¡Espléndido!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "¡Parece que mi encanto ha cautivado a <n>montones de\ngente!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "¡Entonces cantaré! ¡Para quienes existen<n> más allá\ndel mundo físico! ¡Todos ustedes,<n> aplaudan a su\nsoberano!"
-        },
-        {
-            "name": "???",
-            "text": "¡Overlord! ¡Overlord!"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Pero, ¿cómo...? ¿Ellos... están disfrutando esto?!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "¡Un verdadero amo debe dar la bienvenida<n> a\naudiencias de cualquier y todo tipo!<n> Si los\nespectadores poseen una forma <n>física no importa!"
-        },
-        {
-            "name": "???",
-            "text": "¡Overlord! ¡Overlord! ¡Gloria al<n> Overlord!"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Ay, Dios mío... Sus voces se están volviendo más<n>\nfuertes, entrando como un río desbordado..."
-        },
-        {
-            "name": "???",
-            "text": "¡Overlord! ¡Overlord! ¡Overlord!"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "¡Overlord... Overlord!",
-            "choice_data_list": [
-                "¿Café?!"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Cafe, ¿también has sido embrujado por<n> mis\nencantos? ¡Espléndido!"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "¡La pasión <i>que <i>ellos</i> tienen es irresistible!<n> ¡Debo\ngritar con ellos!"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "¡Oh, Señor Supremo! ¡Gloria al Señor Supremo!<n>\n¡Gloria al Señor Supremo!"
-        },
-        {
-            "name": "monólogo",
-            "text": "Parece que su fervor fue suficiente para<n> cautivar\na Manhattan Cafe. Sigue cantando<n> las alabanzas del\nsoberano hasta que nos <n>vayamos de la zona..."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Vale... Lo intentaré."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Opera O, ya casi es el toque de queda. <n>¿Te\ngustaría regresar conmigo?"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "¡Oh, mira qué hora es! Muy <n>bien, acepto tu oferta!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Y así, los tres nos fuimos a casa.<n> Pero..."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Esto no es bueno... Nos están siguiendo...",
-            "choice_data_list": [
-                "¿Nos siguen?",
-                "¿Nos siguen?"
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Sí, T.M. Opera O en particular..."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Si ella volteara ahora, <i>ellos</i> <n></i>la tendrían para\nsiempre..."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Por cierto, Cafe, me encantaría escuchar tus<n>\nopiniones sobre mi actuación de hace un <n>momento."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "¡No! No mires esto—"
-        },
-        {
-            "name": "Monólogo",
-            "text": "<i>¡Hraaagh!</i>"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Uf... Funcionó..."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "¿Cafe? ¿Hay algo allí?!"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "No... ¡Por favor, mantén la vista al frente!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "¡Jaa ja ja! No estoy seguro de por qué<n> insistes,\npero ¡esa pose regia tuya es <n>verdaderamente un\ndeleite contemplar!"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "...Bueno, mientras estés a salvo."
-        },
-        {
-            "name": "Monólogo",
-            "text": "¡Manhattan Cafe podría estar <n>agotada por la\nprueba, pero logra <n>mantener a T.M. Opera O sana y\nsalva!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Manhattan Cafe",
+      "text": "Hablando de eso... Cuando es de noche, <i>ellos</i> empiezan a aparecer por aquí...",
+      "choice_data_list": [
+        "<i>...¿<i>Ellas</i> sí?",
+        "<i>...¿<i>Ellos</i> lo hacen?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Sí... Vámonos antes de que los interrumpamos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos preparamos rápidamente para irnos, pero justo\ncuando estamos a punto de..."
+    },
+    {
+      "name": "???",
+      "text": "¡Jajaja!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¡Conozco esa voz!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Saludos, mi maravilloso público! ¡Les agradezco\npor reunirse para verme en esta noche tan\nespecial!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Permítanme comenzar. Esta es una ópera creada por,\ndestinada a y perteneciente a quien les habla, ¡el\nSoberano!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¡Oh no! Opera O está rodeada.",
+      "choice_data_list": [
+        "¡Espera, <i>están <i>ellos</i> aquí?!"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Sí, y <i>ellos</i> no son muy amigables... Vámonos."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Opera O!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Oh? ¿Cómo estás, Cafe? ¿Has venido a ver mi\nensayo de ópera?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Bueno, no exactamente. ¿Cómo lo digo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decir la verdad podría hacer más mal que bien. No\nquerríamos asustar a Opera O. ¿Qué deberíamos\nhacer?",
+      "choice_data_list": [
+        "Dile la verdad.",
+        "Mantén la calma para que no se asuste."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Vale."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Opera O, estás rodeada en este momento. <i>Ellas</i> han\n</i>llegado..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Ellos</i> son como pensamientos, invisibles a simple\nvista. Y no son amigables, por lo que deberíamos\nirnos tan pronto como sea posible..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La siempre optimista T.M. Opera O parece\ninusualmente sorprendida. Sin embargo..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jajaja! ¡Espléndido!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Parece que mi encanto ha cautivado a montones de\ngente!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Entonces cantaré! ¡Para quienes existen más allá\ndel mundo físico! ¡Todos ustedes, aplaudan a su\nsoberano!"
+    },
+    {
+      "name": "???",
+      "text": "¡Overlord! ¡Overlord!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Pero, ¿cómo...? ¿Ellos... están disfrutando esto?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Un verdadero amo debe dar la bienvenida a\naudiencias de cualquier y todo tipo! Si los\nespectadores poseen una forma física no importa!"
+    },
+    {
+      "name": "???",
+      "text": "¡Overlord! ¡Overlord! ¡Gloria al Overlord!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ay, Dios mío... Sus voces se están volviendo más\nfuertes, entrando como un río desbordado..."
+    },
+    {
+      "name": "???",
+      "text": "¡Overlord! ¡Overlord! ¡Overlord!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¡Overlord... Overlord!",
+      "choice_data_list": [
+        "¿Café?!"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Cafe, ¿también has sido embrujado por mis\nencantos? ¡Espléndido!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¡La pasión <i>que <i>ellos</i> tienen es irresistible! ¡Debo\ngritar con ellos!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¡Oh, Señor Supremo! ¡Gloria al Señor Supremo!\n¡Gloria al Señor Supremo!"
+    },
+    {
+      "name": "monólogo",
+      "text": "Parece que su fervor fue suficiente para cautivar\na Manhattan Cafe. Sigue cantando las alabanzas del\nsoberano hasta que nos vayamos de la zona..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Vale... Lo intentaré."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Opera O, ya casi es el toque de queda. ¿Te\ngustaría regresar conmigo?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Oh, mira qué hora es! Muy bien, acepto tu oferta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, los tres nos fuimos a casa. Pero..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Esto no es bueno... Nos están siguiendo...",
+      "choice_data_list": [
+        "¿Nos siguen?",
+        "¿Nos siguen?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Sí, T.M. Opera O en particular..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Si ella volteara ahora, <i>ellos</i> </i>la tendrían para\nsiempre..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Por cierto, Cafe, me encantaría escuchar tus\nopiniones sobre mi actuación de hace un momento."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¡No! No mires esto—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Hraaagh!</i>"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Uf... Funcionó..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Cafe? ¿Hay algo allí?!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No... ¡Por favor, mantén la vista al frente!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jaa ja ja! No estoy seguro de por qué insistes,\npero ¡esa pose regia tuya es verdaderamente un\ndeleite contemplar!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Bueno, mientras estés a salvo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Manhattan Cafe podría estar agotada por la\nprueba, pero logra mantener a T.M. Opera O sana y\nsalva!"
+    }
+  ]
 }

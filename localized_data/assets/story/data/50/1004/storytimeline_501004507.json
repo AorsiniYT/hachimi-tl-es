@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Entrego una gran pila de cartas de fans<n> a\nMaruzensky."
+      "text": "Entrego una gran pila de cartas de fans a\nMaruzensky."
     },
     {
       "name": "Maruzensky",
-      "text": "¡Oh, vaya, tantas cartas! ¡Puedo sentir\ncompletamente<n> el apoyo de todos! ♪"
+      "text": "¡Oh, vaya, tantas cartas! ¡Puedo sentir\ncompletamente el apoyo de todos! ♪"
     },
     {
       "name": "Maruzensky",
-      "text": "Oye, tengo algo de tiempo ahora. <n>¿Puedo leerlas?",
+      "text": "Oye, tengo algo de tiempo ahora. ¿Puedo leerlas?",
       "choice_data_list": [
         "Por supuesto, para eso las traje.",
         "Por supuesto, para eso las traje."
@@ -23,42 +23,35 @@
     },
     {
       "name": "Maruzensky",
-      "text": "«¡Quemas la pista como un auto deportivo!<n> ¡Eres la\nmejor!» ¡Aww, qué lindo! ♪"
+      "text": "«¡Quemas la pista como un auto deportivo! ¡Eres la\nmejor!» ¡Aww, qué lindo! ♪"
     },
     {
       "name": "Maruzensky",
-      "text": "«¡Estoy tan emocionado por tu próxima <n>carrera!»\n¡Entonces te daré una carrera <n>para recordar!"
+      "text": "«¡Estoy tan emocionado por tu próxima carrera!»\n¡Entonces te daré una carrera para recordar!"
     },
     {
       "name": "Maruzensky",
-      "text": "Hm, ¿qué dice esta? «¡Me encanta <n>tu canto,\nMaruzensky! ¡Eres mi fuego!»"
+      "text": "Hm, ¿qué dice esta? «¡Me encanta tu canto,\nMaruzensky! ¡Eres mi fuego!»"
     },
     {
       "name": "Maruzensky",
-      "text": "¡Es como si dijeran que soy su único deseo!<n> ♪\n¡Estoy tan feliz de que hayan disfrutado <n>mi\nconcierto!"
+      "text": "¡Es como si dijeran que soy su único deseo! ♪\n¡Estoy tan feliz de que hayan disfrutado mi\nconcierto!"
     },
     {
       "name": "Maruzensky",
-      "text": "Uf... Creo que eso es todo. ¡Fue<n> muy divertido! ♪"
+      "text": "Uf... Creo que eso es todo. ¡Fue muy divertido! ♪"
     },
     {
       "name": "Maruzensky",
-      "text": "Todas estas cartas están tan llenas<n> de emoción...\nRealmente me hace darme cuenta<n> de cuánto apoyo\ntengo."
+      "text": "Todas estas cartas están tan llenas de emoción...\nRealmente me hace darme cuenta de cuánto apoyo\ntengo."
     },
     {
       "name": "Maruzensky",
-      "text": "Quiero correr no solo para mí, sino para<n> el\ndisfrute de todos..."
+      "text": "Quiero correr no solo para mí, sino para el\ndisfrute de todos..."
     },
     {
       "name": "Maruzensky",
-      "text": "Realmente parece que mis sentimientos están<n>\nllegando a la gente."
-    },
-    {
-      "name": "Maruzensky",
-      "text": "Tú también lo crees, ¿verdad, Trainer?",
-      "choice_data_list": [
-        "Por supuesto."
-      ]
+      "text": "Realmente parece que mis sentimientos están\nllegando a la gente."
     },
     {
       "name": "Maruzensky",
@@ -69,11 +62,18 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Por eso, volveré a aumentar la velocidad para<n> mi\npróxima carrera."
+      "text": "Tú también lo crees, ¿verdad, Trainer?",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
     },
     {
       "name": "Maruzensky",
-      "text": "¡Estaré feliz de correr, cantar<n> y bailar... Se\nenamorarán aún más<n> de mí!"
+      "text": "Por eso, volveré a aumentar la velocidad para mi\npróxima carrera."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Estaré feliz de correr, cantar y bailar... Se\nenamorarán aún más de mí!"
     }
   ]
 }

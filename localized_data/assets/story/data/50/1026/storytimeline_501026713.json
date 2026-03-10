@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Mihono Bourbon",
-      "text": "Reportando resultados de diagnóstico: daños<n>\nmenores."
+      "text": "Reportando resultados de diagnóstico: daños\nmenores."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "La probabilidad de empeorar es<n> baja, pero... he\ndeterminado que <n>aún soy capaz de actividad <n>física\nsi logro controlar mi poder."
+      "text": "La probabilidad de empeorar es baja, pero... he\ndeterminado que aún soy capaz de actividad física\nsi logro controlar mi poder."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Solicitando permiso para continuar con <n>el\nentrenamiento. Yo completaré con éxito <n>las tareas\nde hoy.",
+      "text": "Solicitando permiso para continuar con el\nentrenamiento. Yo completaré con éxito las tareas\nde hoy.",
       "choice_data_list": [
         "Me preocupo por ti, así que tomemos un descanso.",
         "...Está bien. ¡Sigamos!",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Solicitando permiso para continuar con <n>el\nentrenamiento. Yo completaré con éxito <n>las tareas\nde hoy.",
+      "text": "Solicitando permiso para continuar con el\nentrenamiento. Yo completaré con éxito las tareas\nde hoy.",
       "choice_data_list": [
         "Me preocupo por ti, así que tomemos un descanso.",
         "...Está bien. ¡Sigamos!",
@@ -33,22 +33,22 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Orden reconocida. Lamento <n>causarte preocupación."
+      "text": "Orden reconocida. Lamento causarte preocupación."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Iniciando operación—\"recuperándome <n>para evitar\ncausarte preocupación.\""
+      "text": "Iniciando operación—\"recuperándome para evitar\ncausarte preocupación.\""
     },
     {
-      "text": "Y así, Mihono Bourbon descansa <n>para recuperarse de\nsu lesión."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Entendido. Iniciando <n>operación—\"continuación del\n<n>entrenamiento de fuerza limitada.\""
+      "text": "Y así, Mihono Bourbon descansa para recuperarse de\nsu lesión."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Restringiendo la producción de <n>potencia en\nconsideración de la parte del cuerpo dañada."
+      "text": "Entendido. Iniciando operación—\"continuación del\nentrenamiento de fuerza limitada.\""
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Restringiendo la producción de potencia en\nconsideración de la parte del cuerpo dañada."
     },
     {
       "name": "Mihono Bourbon",
@@ -75,22 +75,22 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Lamento. Incluso al 50% de potencia de <n>salida...\nmi lesión parece haberse irritado."
+      "text": "Lamento. Incluso al 50% de potencia de salida...\nmi lesión parece haberse irritado."
     },
     {
-      "text": "Dándose cuenta de que cualquier ejercicio solo\n<n>empeorará su condición, le aconsejo que descanse\n<n>tranquilamente."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Sin dolor al cincuenta por ciento de salida.<n>\nUmbral superado. ¡Siguiente el cincuenta y cinco<n>\npor ciento!"
+      "text": "Dándose cuenta de que cualquier ejercicio solo\nempeorará su condición, le aconsejo que descanse\ntranquilamente."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Reportando. He verificado que soy capaz<n> de\nentrenar hasta el sesenta y cinco por ciento<n> de\npotencia de salida."
+      "text": "Sin dolor al cincuenta por ciento de salida.\nUmbral superado. ¡Siguiente el cincuenta y cinco\npor ciento!"
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Propongo revisar nuestro régimen de entrenamiento<n>\nbasándome en estos datos.",
+      "text": "Reportando. He verificado que soy capaz de\nentrenar hasta el sesenta y cinco por ciento de\npotencia de salida."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Propongo revisar nuestro régimen de entrenamiento\nbasándome en estos datos.",
       "choice_data_list": [
         "¡Entendido!",
         "¡Entendido!"
@@ -98,14 +98,14 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Te mostraré que puedo ejecutar de manera<n> confiable\ncualquier régimen que me den."
+      "text": "Te mostraré que puedo ejecutar de manera confiable\ncualquier régimen que me den."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Es todo por ti, por instruirme y creer<n> que podía\nlimitar con éxito mi <n>potencia de salida."
+      "text": "Es todo por ti, por instruirme y creer que podía\nlimitar con éxito mi potencia de salida."
     },
     {
-      "text": "Haciendo un regreso inmediato,<n> Mihono Bourbon\nlogra limitar su <n>poder y completa totalmente el\nrégimen<n> revisado!"
+      "text": "Haciendo un regreso inmediato, Mihono Bourbon\nlogra limitar su poder y completa totalmente el\nrégimen revisado!"
     }
   ]
 }

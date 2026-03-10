@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Al pasar por el estudio de baile, <n>me sorprende\nescuchar la voz de Winning Ticket<n> desde dentro."
+      "text": "Al pasar por el estudio de baile, me sorprende\nescuchar la voz de Winning Ticket desde dentro."
     },
     {
       "name": "Winning Ticket",
@@ -11,26 +11,26 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ticket, ¿cuántas veces debo decir que <n>desperdicias\ndemasiado esfuerzo con tus <n>movimientos?"
+      "text": "Ticket, ¿cuántas veces debo decir que desperdicias\ndemasiado esfuerzo con tus movimientos?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No siempre tienes que usar \"máximo<n> poder\". Intenta\nregularte un poco.",
+      "text": "No siempre tienes que usar \"máximo poder\". Intenta\nregularte un poco.",
       "choice_data_list": [
         "Oye, ¿qué están haciendo?"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Oh, hola. Normalmente diría que debería<n> ser obvio,\npero quizás no sea el caso."
+      "text": "Oh, hola. Normalmente diría que debería ser obvio,\npero quizás no sea el caso."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Cuando la vi por primera vez comprometida <n>en esta\nactividad, yo pensé que estaba practicando<n> golpes\nde kárate."
+      "text": "Cuando la vi por primera vez comprometida en esta\nactividad, yo pensé que estaba practicando golpes\nde kárate."
     },
     {
       "name": "Winning Ticket",
-      "text": "¿¡Huh!? ¿Qué quieres decir? ¡Estoy <i>claramente</i>\n<n></i>haciendo movimientos de baile!"
+      "text": "¿¡Huh!? ¿Qué quieres decir? ¡Estoy <i>claramente</i>\n</i>haciendo movimientos de baile!"
     },
     {
       "name": "Biwa Hayahide",
@@ -38,36 +38,26 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Recibí algunos consejos de Hayahide,<n> pero no está\nyendo muy bien."
+      "text": "Recibí algunos consejos de Hayahide, pero no está\nyendo muy bien."
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Especialmente el giro final! No importa cuánto<n> lo\nintente, ¡siempre pierdo el equilibrio!"
+      "text": "¡Especialmente el giro final! No importa cuánto lo\nintente, ¡siempre pierdo el equilibrio!"
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Oh, oh, Entrenador! ¡Debes tener algún <n>consejo\npara mí también, ¿verdad?!",
+      "text": "¡Oh, oh, Entrenador! ¡Debes tener algún consejo\npara mí también, ¿verdad?!",
       "choice_data_list": [
         "Bueno, no soy instructor de baile, así que..."
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "De hecho, tu perspicacia puede ser valiosa<n>\n<i>precisamente <i>porque</i> esto no es tu área de\n<n>especialización."
+      "text": "De hecho, tu perspicacia puede ser valiosa\n<i>precisamente <i>porque</i> esto no es tu área de\nespecialización."
     },
     {
       "name": "Winning Ticket",
-      "text": "Si esto sigue así, ¡voy a hacer el ridículo<n> en el\nconcierto de ganadoras seguro!"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "¡Vamos, por favor! ¡Necesito tu ayuda!",
-      "choice_data_list": [
-        "Necesitas motivarte más.",
-        "Necesitas motivarte más.",
-        "Estás usando demasiado poder.",
-        "Estás usando demasiado poder."
-      ]
+      "text": "Si esto sigue así, ¡voy a hacer el ridículo en el\nconcierto de ganadoras seguro!"
     },
     {
       "name": "Winning Ticket",
@@ -81,7 +71,17 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "¿Motivarme? ¡Claro, eso debe<n> ser!"
+      "text": "¡Vamos, por favor! ¡Necesito tu ayuda!",
+      "choice_data_list": [
+        "Necesitas motivarte más.",
+        "Necesitas motivarte más.",
+        "Estás usando demasiado poder.",
+        "Estás usando demasiado poder."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Motivarme? ¡Claro, eso debe ser!"
     },
     {
       "name": "Winning Ticket",
@@ -93,46 +93,46 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Jeje... En lugar de la razón, vas con <n>motivación?\nUstedes dos hacen buena pareja.",
+      "text": "Jeje... En lugar de la razón, vas con motivación?\nUstedes dos hacen buena pareja.",
       "choice_data_list": [
         "¿Lo somos?"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Sospecho que puedes entender a <n>Ticket más a fondo\nque yo."
+      "text": "Sospecho que puedes entender a Ticket más a fondo\nque yo."
     },
     {
       "name": "Winning Ticket",
-      "text": "¿Hacemos buena pareja? ¿Como que hacemos buen<n>\nequipo? ¡V-vaya!"
+      "text": "¿Hacemos buena pareja? ¿Como que hacemos buen\nequipo? ¡V-vaya!"
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Estoy un poco avergonzada! ¡Pero eso también<n> me\nhace feliz!"
+      "text": "¡Estoy un poco avergonzada! ¡Pero eso también me\nhace feliz!"
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Okay, una vez más! ¡Obsérvame de cerca,<n>\nEntrenador!"
+      "text": "¡Okay, una vez más! ¡Obsérvame de cerca,\nEntrenador!"
     },
     {
       "name": "Monólogo",
-      "text": "Ticket se motiva aún más y <n>logra clavar el giro\nfinal <n>hermosamente."
+      "text": "Ticket se motiva aún más y logra clavar el giro\nfinal hermosamente."
     },
     {
       "name": "Winning Ticket",
-      "text": "¿En serio? Qué raro, pensé que estaba <n>usando la\ncantidad correcta..."
+      "text": "¿En serio? Qué raro, pensé que estaba usando la\ncantidad correcta..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Te dije que era demasiado. Por eso <n>tu movimiento\nno es limpio."
+      "text": "Te dije que era demasiado. Por eso tu movimiento\nno es limpio."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Al menos, no hay necesidad de dar esos <n>gritos\nensordecedores con cada movimiento<n> que hagas."
+      "text": "Al menos, no hay necesidad de dar esos gritos\nensordecedores con cada movimiento que hagas."
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Oh, okay! Ustedes dos tienen buenos<n> consejos. ¡Lo\nintentaré de nuevo!"
+      "text": "¡Oh, okay! Ustedes dos tienen buenos consejos. ¡Lo\nintentaré de nuevo!"
     },
     {
       "name": "Biwa Hayahide",
@@ -140,7 +140,7 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "¿Aún menos? ¡Okay, okay... <n>Relájate... relájate..."
+      "text": "¿Aún menos? ¡Okay, okay... Relájate... relájate..."
     },
     {
       "name": "Winning Ticket",
@@ -156,7 +156,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ahora no estás usando suficiente<n> poder. ¿Cómo\nplaneas bailar así?"
+      "text": "Ahora no estás usando suficiente poder. ¿Cómo\nplaneas bailar así?"
     },
     {
       "name": "Winning Ticket",
@@ -164,11 +164,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "¡T-tienes razón! ¡Vaya, Hayahide, eres tan<n>\ninteligente!"
+      "text": "¡T-tienes razón! ¡Vaya, Hayahide, eres tan\ninteligente!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Debes haber estudiado mucho... <n><i>snif...</i> para\nvolverte </i>tan inteligente!"
+      "text": "Debes haber estudiado mucho... <i>snif...</i> para\nvolverte </i>tan inteligente!"
     },
     {
       "name": "Winning Ticket",
@@ -176,7 +176,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Sí, sí, entiendo... Continuemos tu<n> lección de\nbaile."
+      "text": "Sí, sí, entiendo... Continuemos tu lección de\nbaile."
     },
     {
       "name": "Winning Ticket",
@@ -184,7 +184,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Después de una lección exhaustiva sobre el<n> valor\nde relajar sus músculos, Winning <n>Ticket termina un\npoco mejor preparada para sus<n> futuros esfuerzos de\nbaile."
+      "text": "Después de una lección exhaustiva sobre el valor\nde relajar sus músculos, Winning Ticket termina un\npoco mejor preparada para sus futuros esfuerzos de\nbaile."
     }
   ]
 }

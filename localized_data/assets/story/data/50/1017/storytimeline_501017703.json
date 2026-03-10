@@ -1,144 +1,144 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Tras un buen día fuera, Symboli <n>Rudolf y yo\nregresamos a la academia..."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Perdona por preguntar, pero ¿estás ocupado<n> ahora\nmismo?"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Esperaba que pudiéramos hablar un poco <n>más. Sobre\nun café, quizás.",
-            "choice_data_list": [
-                "¿Deberíamos ir a mi oficina?"
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Eso suena perfecto. Por favor, guíame—"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "¡Prez! ¡Allí estás! ¡Te he estado buscando <n>por\ntodas partes!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "¡Logré la <i>victoria más </i><i>loca</i> <n>ayer! ¡Tengo que\ncontártelo todo!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Vaya. No hay descanso para los malvados, <n>al\nparecer..."
-        },
-        {
-            "name": "Air Groove y Hishi Amazon",
-            "text": "¡Presidenta! ¡Oye, Prez!"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Me disculpo por presentarme así de <n>repente, pero\nel consejo estudiantil ha <n>recibido una solicitud\nde la directora—"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "¡Oh, no, no lo harás! Tenemos una situación<n> en las\ndormitorios, y necesito la ayuda de la<n> <i>Prez <i>¡ya!</i>"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Yo puedo manejar eso más tarde. La <n>solicitud de la\ndirectora es mucho más urgente—"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "¡Eh, atrás, ustedes dos! ¡Yo la tuve primero!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "¡Solo quieres una oportunidad para presumir! ¡Esto<n>\nes urgente!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "De repente, parece que está a punto de <n>estallar\nuna pelea por la atención de <n>Symboli Rudolf."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Hmmm, ¿qué hacer?",
-            "choice_data_list": [
-                "Aplazemos ese café.",
-                "Aplazemos ese café.",
-                "¿Quizás pueda ayudarlos?",
-                "¿Quizás pueda ayudarlos?"
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Hmmm, ¿qué hacer?",
-            "choice_data_list": [
-                "Aplazemos ese café.",
-                "Aplazemos ese café.",
-                "¿Quizás pueda ayudarlos?",
-                "¿Quizás pueda ayudarlos?"
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "No parece que hoy sea el día, <n>¿verdad?"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Pero hoy estará lejos de ser nuestra única<n>\noportunidad."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Ahora, ustedes tres, por favor cálmense<n> y esperen\nsu turno. Los escucharé a todos<n> en un lugar más\napropiado."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Los demás rápidamente se alinean mientras Symboli<n>\nRudolf toma el control."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Adiós, Entrenador."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Nos vemos mañana."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Mientras Symboli Rudolf se aleja <n>con el resto del\ngrupo, es difícil no admirar<n> el respeto que\ninspira entre sus<n> compañeros."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "No, no es necesario. Todo esto es solo parte del<n>\ntrabajo de presidenta del consejo estudiantil."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Además, hoy estará lejos de ser nuestra <n>única\noportunidad de hablar más. Solo tendremos<n> que\ntomar ese café juntos en otro<n> momento.",
-            "choice_data_list": [
-                "Suena bien.",
-                "Suena bien."
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Ahora, ustedes tres, por favor cálmense<n> y esperen\nsu turno. Los escucharé a todos<n> en un lugar más\napropiado."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Los demás rápidamente se alinean mientras Symboli<n>\nRudolf toma el control."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Adiós, Entrenador."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Nos vemos mañana."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Observando cómo Symboli Rudolf <n>rápidamente pone en\nlínea a los otros tres, siento<n> que he vislumbrado\nsu lado Emperador."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Tras un buen día fuera, Symboli Rudolf y yo\nregresamos a la academia..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Perdona por preguntar, pero ¿estás ocupado ahora\nmismo?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Esperaba que pudiéramos hablar un poco más. Sobre\nun café, quizás.",
+      "choice_data_list": [
+        "¿Deberíamos ir a mi oficina?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Eso suena perfecto. Por favor, guíame—"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Prez! ¡Allí estás! ¡Te he estado buscando por\ntodas partes!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Logré la <i>victoria más </i><i>loca</i> ayer! ¡Tengo que\ncontártelo todo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Vaya. No hay descanso para los malvados, al\nparecer..."
+    },
+    {
+      "name": "Air Groove y Hishi Amazon",
+      "text": "¡Presidenta! ¡Oye, Prez!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Me disculpo por presentarme así de repente, pero\nel consejo estudiantil ha recibido una solicitud\nde la directora—"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oh, no, no lo harás! Tenemos una situación en las\ndormitorios, y necesito la ayuda de la <i>Prez <i>¡ya!</i>"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Yo puedo manejar eso más tarde. La solicitud de la\ndirectora es mucho más urgente—"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Eh, atrás, ustedes dos! ¡Yo la tuve primero!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Solo quieres una oportunidad para presumir! ¡Esto\nes urgente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente, parece que está a punto de estallar\nuna pelea por la atención de Symboli Rudolf."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hmmm, ¿qué hacer?",
+      "choice_data_list": [
+        "Aplazemos ese café.",
+        "Aplazemos ese café.",
+        "¿Quizás pueda ayudarlos?",
+        "¿Quizás pueda ayudarlos?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hmmm, ¿qué hacer?",
+      "choice_data_list": [
+        "Aplazemos ese café.",
+        "Aplazemos ese café.",
+        "¿Quizás pueda ayudarlos?",
+        "¿Quizás pueda ayudarlos?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No parece que hoy sea el día, ¿verdad?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero hoy estará lejos de ser nuestra única\noportunidad."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ahora, ustedes tres, por favor cálmense y esperen\nsu turno. Los escucharé a todos en un lugar más\napropiado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los demás rápidamente se alinean mientras Symboli\nRudolf toma el control."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Adiós, Entrenador."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Nos vemos mañana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Symboli Rudolf se aleja con el resto del\ngrupo, es difícil no admirar el respeto que\ninspira entre sus compañeros."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No, no es necesario. Todo esto es solo parte del\ntrabajo de presidenta del consejo estudiantil."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Además, hoy estará lejos de ser nuestra única\noportunidad de hablar más. Solo tendremos que\ntomar ese café juntos en otro momento.",
+      "choice_data_list": [
+        "Suena bien.",
+        "Suena bien."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ahora, ustedes tres, por favor cálmense y esperen\nsu turno. Los escucharé a todos en un lugar más\napropiado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los demás rápidamente se alinean mientras Symboli\nRudolf toma el control."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Adiós, Entrenador."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Nos vemos mañana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Observando cómo Symboli Rudolf rápidamente pone en\nlínea a los otros tres, siento que he vislumbrado\nsu lado Emperador."
+    }
+  ]
 }

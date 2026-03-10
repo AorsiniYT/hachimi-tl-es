@@ -1,197 +1,197 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Con la próxima carrera de Ardan a la vuelta de la<n>\nesquina, ella y yo pasamos nuestros días\nentrenando.",
-            "name": "Monólogo"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "<i>Resoplido, resoplido...</i> Uf..."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Mi tiempo bajó, ¿verdad? Mi <n>respiración tampoco se\nsiente tan agitada <n>como antes.",
-            "choice_data_list": [
-                "¡Sí, estás volando en este régimen! ¡Buen trabajo!",
-                "¡Sí, estás volando en este régimen! ¡Buen trabajo!"
-            ]
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Gracias. Ahora entonces... volveré a la<n> práctica."
-        },
-        {
-            "text": "Cuando Ardan está en modo práctica, nada<n> puede\nsacudirla, ni siquiera los elogios.",
-            "choice_data_list": [
-                "Esa concentración tuya es tu arma más fuerte.",
-                "Esa concentración tuya es tu arma más fuerte."
-            ],
-            "name": "Monólogo"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "¿Un... arma? Ah, mis <n>disculpas. Aprecio el\ncumplido—simplemente<n> nunca lo había pensado así."
-        },
-        {
-            "text": "Parece que ella no es consciente de los efectos\n<n>que su determinación ha tenido en ella y en su<n>\nentrenamiento.",
-            "name": "Monólogo"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Como seguro sabes, nací con un <n>cuerpo frágil y\ndébil."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "No sé cuándo mi cuerpo me fallará. <n>Entre las\ninnumerables Umamusume que<n> brillan tanto, mi\nestrella bien podría<n> quemarse más rápido."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Como esa pintura en el bosque, puedo <n>desvanecerme\ny ser olvidada. Y sin embargo, aquí<n> y ahora..."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Aún deseo brillar, y estoy dispuesta a hacer lo<n>\nque sea necesario para lograrlo."
-        },
-        {
-            "text": "Incluso mientras hablaba de sus propias<n>\ncircunstancias, los ojos de Mejiro Ardan ardían<n>\ncon una determinación silenciosa... pero firme.",
-            "choice_data_list": [
-                "(No quiero decepcionarla...)"
-            ],
-            "name": "Monólogo"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Estoy lista, Entrenador. Por favor, cronometra mi\núltima vuelta.",
-            "choice_data_list": [
-                "Bien... ¡Vamos!"
-            ]
-        },
-        {
-            "name": "Umamusume Observadora",
-            "text": "¿Huh? ¿Cuántas vueltas<n> van? Ella hace muchos\nejercicios... <n>¿Estará bien?"
-        },
-        {
-            "text": "Puedo escuchar la voz de las juniors ansiosas<n> de\nArdan. Sin embargo...",
-            "name": "Monólogo"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "<i>Resoplido... resoplido...</i> Hasta ahora, bien...",
-            "choice_data_list": [
-                "(No te preocupes, ella puede manejar más.)"
-            ]
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "¿Todo bien?",
-            "choice_data_list": [
-                "Me preguntaba si deberíamos agregar otra vuelta o\ndos."
-            ]
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Y-yo lo agradecería, de hecho. Solo<n> pensaba que\nquería correr un poco más."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Gracias por hoy. Siento que el entrenamiento<n> de\nhoy fue especialmente fructífero."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Además, me preguntaba... ¿Quizás podríamos<n> usar el\nrégimen de práctica aumentado<n> de hoy en el futuro?",
-            "choice_data_list": [
-                "Estaba a punto de preguntar."
-            ]
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "¡Oh, vaya! Ehehe, debería estar agradecida.<n> Como\nestoy ahora, no tengo que preocuparme<n> por\nsobrecalentarme más."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Antes de mi debut, hubo veces que<n> no pude\npracticar durante días. Me<n> alegra saber que eso ya\nes pasado."
-        },
-        {
-            "text": "Con eso, nuestra reunión post-entrenamiento\n<n>termina en una nota optimista. Sin embargo, a\npesar de<n> que el día terminó, la postura de Ardan\n<n>permanece tan compuesta como siempre.",
-            "choice_data_list": [
-                "Puedes relajarte un poco más durante tus\ndescansos, sabes.",
-                "Puedes relajarte un poco más durante tus\ndescansos, sabes."
-            ],
-            "name": "Monólogo"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "¿Qué quieres decir?",
-            "choice_data_list": [
-                "Podrías sentarte o incluso dormir una siesta en el\nsofá."
-            ]
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Gracias, pero me siento más tranquila<n> así."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Los corredores de la familia Mejiro hacen<n> muchas\napariciones públicas, así que <n>nos enseñan cómo\nconducirnos desde muy <n>jóvenes. Y, bueno..."
-        },
-        {
-            "name": "Mejiro Family Friend",
-            "text": "¿Ardan? ¿Por qué estás aquí, tan sola?<n> Te estás\napoyando contra la <n>pared... ¿Te sientes enferma?"
-        },
-        {
-            "name": "Ardan Joven",
-            "text": "No, señora. Solo estaba pensando para mis\nadentros..."
-        },
-        {
-            "name": "Mejiro Family Friend",
-            "text": "Vamos, vamos, no te esfuerces demasiado.<n> ¡Tienes\nque cuidar tu salud!"
-        },
-        {
-            "name": "Ardan Joven",
-            "text": "(Oh... Si me relajo demasiado, otros pensarán que\n<n>estoy enferma...)"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "...",
-            "choice_data_list": [
-                "Ardan?"
-            ]
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Ah, mis disculpas. De todos modos, me siento<n> más\nrelajada así, así que no te preocupes."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Además, te prometí que no me excedería,<n> ¿verdad?\nTe aseguro que estoy bien.",
-            "choice_data_list": [
-                "Bien, pero recuerda, está bien hacer lo que\nquieras a veces.",
-                "Bien, pero recuerda, está bien hacer lo que\nquieras a veces."
-            ]
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Ay, querida... No sé si consentirme así<n> es una\nbuena idea, Entrenador."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Quizás mañana me salte la práctica<n> simplemente\nporque tengo ganas. ¿Qué harás<n> entonces?",
-            "choice_data_list": [
-                "¡No voy a ser indulgente contigo en términos de\nentrenamiento!",
-                "¡No voy a ser indulgente contigo en términos de\nentrenamiento!"
-            ]
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Hehe... Y eso es exactamente lo que espero.<n> Pero\ngracias por tu preocupación. Prometo<n> que estoy\nbien.",
-            "choice_data_list": [
-                "(Bueno, si ella lo dice...)"
-            ]
-        },
-        {
-            "text": "Mientras sonríe, siento que mi propio deseo<n> de\nprotestar más se derrite. Parece que incluso<n> yo no\nsoy rival para la terquedad determinada<n> de Mejiro\nArdan.",
-            "name": "Monólogo"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Con la próxima carrera de Ardan a la vuelta de la\nesquina, ella y yo pasamos nuestros días\nentrenando.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "<i>Resoplido, resoplido...</i> Uf..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Mi tiempo bajó, ¿verdad? Mi respiración tampoco se\nsiente tan agitada como antes.",
+      "choice_data_list": [
+        "¡Sí, estás volando en este régimen! ¡Buen trabajo!",
+        "¡Sí, estás volando en este régimen! ¡Buen trabajo!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Gracias. Ahora entonces... volveré a la práctica."
+    },
+    {
+      "text": "Cuando Ardan está en modo práctica, nada puede\nsacudirla, ni siquiera los elogios.",
+      "choice_data_list": [
+        "Esa concentración tuya es tu arma más fuerte.",
+        "Esa concentración tuya es tu arma más fuerte."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Un... arma? Ah, mis disculpas. Aprecio el\ncumplido—simplemente nunca lo había pensado así."
+    },
+    {
+      "text": "Parece que ella no es consciente de los efectos\nque su determinación ha tenido en ella y en su\nentrenamiento.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Como seguro sabes, nací con un cuerpo frágil y\ndébil."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "No sé cuándo mi cuerpo me fallará. Entre las\ninnumerables Umamusume que brillan tanto, mi\nestrella bien podría quemarse más rápido."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Como esa pintura en el bosque, puedo desvanecerme\ny ser olvidada. Y sin embargo, aquí y ahora..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Aún deseo brillar, y estoy dispuesta a hacer lo\nque sea necesario para lograrlo."
+    },
+    {
+      "text": "Incluso mientras hablaba de sus propias\ncircunstancias, los ojos de Mejiro Ardan ardían\ncon una determinación silenciosa... pero firme.",
+      "choice_data_list": [
+        "(No quiero decepcionarla...)"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Estoy lista, Entrenador. Por favor, cronometra mi\núltima vuelta.",
+      "choice_data_list": [
+        "Bien... ¡Vamos!"
+      ]
+    },
+    {
+      "name": "Umamusume Observadora",
+      "text": "¿Huh? ¿Cuántas vueltas van? Ella hace muchos\nejercicios... ¿Estará bien?"
+    },
+    {
+      "text": "Puedo escuchar la voz de las juniors ansiosas de\nArdan. Sin embargo...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "<i>Resoplido... resoplido...</i> Hasta ahora, bien...",
+      "choice_data_list": [
+        "(No te preocupes, ella puede manejar más.)"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Todo bien?",
+      "choice_data_list": [
+        "Me preguntaba si deberíamos agregar otra vuelta o\ndos."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Y-yo lo agradecería, de hecho. Solo pensaba que\nquería correr un poco más."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Gracias por hoy. Siento que el entrenamiento de\nhoy fue especialmente fructífero."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Además, me preguntaba... ¿Quizás podríamos usar el\nrégimen de práctica aumentado de hoy en el futuro?",
+      "choice_data_list": [
+        "Estaba a punto de preguntar."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Oh, vaya! Ehehe, debería estar agradecida. Como\nestoy ahora, no tengo que preocuparme por\nsobrecalentarme más."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Antes de mi debut, hubo veces que no pude\npracticar durante días. Me alegra saber que eso ya\nes pasado."
+    },
+    {
+      "text": "Con eso, nuestra reunión post-entrenamiento\ntermina en una nota optimista. Sin embargo, a\npesar de que el día terminó, la postura de Ardan\npermanece tan compuesta como siempre.",
+      "choice_data_list": [
+        "Puedes relajarte un poco más durante tus\ndescansos, sabes.",
+        "Puedes relajarte un poco más durante tus\ndescansos, sabes."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Qué quieres decir?",
+      "choice_data_list": [
+        "Podrías sentarte o incluso dormir una siesta en el\nsofá."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Gracias, pero me siento más tranquila así."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Los corredores de la familia Mejiro hacen muchas\napariciones públicas, así que nos enseñan cómo\nconducirnos desde muy jóvenes. Y, bueno..."
+    },
+    {
+      "name": "Mejiro Family Friend",
+      "text": "¿Ardan? ¿Por qué estás aquí, tan sola? Te estás\napoyando contra la pared... ¿Te sientes enferma?"
+    },
+    {
+      "name": "Ardan Joven",
+      "text": "No, señora. Solo estaba pensando para mis\nadentros..."
+    },
+    {
+      "name": "Mejiro Family Friend",
+      "text": "Vamos, vamos, no te esfuerces demasiado. ¡Tienes\nque cuidar tu salud!"
+    },
+    {
+      "name": "Ardan Joven",
+      "text": "(Oh... Si me relajo demasiado, otros pensarán que\nestoy enferma...)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...",
+      "choice_data_list": [
+        "Ardan?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ah, mis disculpas. De todos modos, me siento más\nrelajada así, así que no te preocupes."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Además, te prometí que no me excedería, ¿verdad?\nTe aseguro que estoy bien.",
+      "choice_data_list": [
+        "Bien, pero recuerda, está bien hacer lo que\nquieras a veces.",
+        "Bien, pero recuerda, está bien hacer lo que\nquieras a veces."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ay, querida... No sé si consentirme así es una\nbuena idea, Entrenador."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Quizás mañana me salte la práctica simplemente\nporque tengo ganas. ¿Qué harás entonces?",
+      "choice_data_list": [
+        "¡No voy a ser indulgente contigo en términos de\nentrenamiento!",
+        "¡No voy a ser indulgente contigo en términos de\nentrenamiento!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Hehe... Y eso es exactamente lo que espero. Pero\ngracias por tu preocupación. Prometo que estoy\nbien.",
+      "choice_data_list": [
+        "(Bueno, si ella lo dice...)"
+      ]
+    },
+    {
+      "text": "Mientras sonríe, siento que mi propio deseo de\nprotestar más se derrite. Parece que incluso yo no\nsoy rival para la terquedad determinada de Mejiro\nArdan.",
+      "name": "Monólogo"
+    }
+  ]
 }

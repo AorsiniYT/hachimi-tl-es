@@ -1,268 +1,268 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Pasamos por un centro comercial en nuestro camino\nde <n>regreso de un paseo."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "¿Eh? ¿Eso es...?"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Gyaaah! ¡E-e-esto es un verdadero<n> problema!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "¿Qué pasa, Fukukitaru? Pareces<n> un poco distraída."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Oh! ¡La fortuna me sonríe! ¡Una salvadora!<n>\n¡Rescátame, Suzuka!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡En fin! ¡Por favor, dirija su mirada<n> aquí!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Esto es un... umm...",
-            "choice_data_list": [
-                "<i>¿Estupendo Juego del Adivino de Compatibilidad?</i>"
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Exaaactamente! Solo tienes que<n> poner sus nombres\ny algo de dinero,<n> ¡y adivinará su compatibilidad!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Según la palabra del gran Shiraoki,<n> ver un 100% de\ncoincidencia aquí es <n>buena suerte..."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Pero! Aquí estoy, habiendo olvidado por <n>completo\na quién iba a preguntar."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "¿Q-qué... desastre?"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Por eso necesito tu ayuda, ¡Suzuka!<n> ¡Créeme, este\njuego es bien conocido <n>por ser súper preciso!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "No me importa, pero... ¿está bien <n>que lo haga por\nti?"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Oh, totalmente. Mientras la <n>adivinación dé 100% de\ncompatibilidad y<n> yo lo vea, todo bien."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Entonces, si tienes a alguien en mente,<n> ¡solo\ndímelo!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "El gran Shiraoki es bastante relajado, ¿eh?<n> Me\npregunto a quién debería elegir, <n>entonces...",
-            "choice_data_list": [
-                "¿Quieres intentarlo conmigo?",
-                "¿Quieres intentarlo conmigo?",
-                "¿Por qué no lo intentas con Matikanefukukitaru?"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "El gran Shiraoki es bastante relajado, ¿eh?<n> Me\npregunto con quién debería elegir <n>entonces...",
-            "choice_data_list": [
-                "¿Quieres intentarlo conmigo?",
-                "¿Quieres intentarlo conmigo?",
-                "¿Por qué no lo intentas con Matikanefukukitaru?"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "With you?"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Oh! ¡Buena idea! ¡Estoy seguro de que ustedes<n> dos\ntienen compatibilidad perfecta! ¡Voy a ver <n>desde\naquí!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "¿E-e-estás seguro? Tiene que ser <n>100%, ¿verdad?"
-        },
-        {
-            "name": "Monólogo",
-            "text": "<i>¡Cha-ching!</i>"
-        },
-        {
-            "name": "Juego",
-            "text": "\"¡Por favor, ingresa dos nombres!\""
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Umm... \"Silence Suzuka\", y...",
-            "choice_data_list": [
-                "\"<username>.\"",
-                "\"<username>.\""
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Oh! ¡Algo en sus nombres grita <n>compatibilidad!\n¡Esto debe ser el destino!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Um, pareces muy emocionado, pero no te\n<n>desilusiones demasiado si no es 100%, ¿vale?"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Imposible! ¡Ni siquiera si este fuera el<n> día más\ndesafortunado de todos!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Además, ustedes dos son los mejores<n> compañeros.\n¿Verdad, el entrenador<n> de Suzuka?",
-            "choice_data_list": [
-                "¡Sí, estaremos bien!",
-                "¡Sí, estaremos bien!"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "No tú también..."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Bueno, supongo. Allá vamos..."
-        },
-        {
-            "name": "Juego",
-            "text": "\"Su compatibilidad es...\""
-        },
-        {
-            "name": "Juego",
-            "text": "\"¡100%! ¡Están destinados a estar<n> juntos!\n¡Asegúrense de expresar su <n>gratitud mutua\nregularmente y tendrán<n> buena fortuna!\""
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Allí! ¡Allí! ¡Mis ojos no me engañan!<n> ¡Alabado\nsea!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "E-es realmente 100%."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Escuchaste lo que dijo la adivinación, así<n> que\nmuestra tu gratitud!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "¿¡Eh?! ¿Quieres decir en este mismo instante?",
-            "choice_data_list": [
-                "Gracias por siempre dar lo mejor de ti."
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Um, ¡espera un momento! Um... Um..."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Gracias por todo tu... entrenamiento..."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Ja ja ja! ¡Muy bien! ¡Muy bien,<n> Suzuka!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "¡N-no me burles!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Parece que esta adivinación de <n>compatibilidad ha\nprofundizado la confianza<n> de Silence Suzuka en mí."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Como desees! ¡Cuando se trata<n> de adivinación,\nsiempre doy lo mejor de mí!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Todo lo que hacemos es ingresar nuestros\nnombres...<n> No puedes realmente dar lo mejor de ti\nen eso,<n> ¿verdad?"
-        },
-        {
-            "name": "Monólogo",
-            "text": "<i>¡Cha-ching!</i>"
-        },
-        {
-            "name": "Juego",
-            "text": "\"¡Por favor, ingresa dos nombres!\""
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Umm... \"Silence Suzuka\", y..."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "\"Matikanefukukitaru!\""
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Ja ja! ¡Lo veo!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Lo veo claramente! Nuestra compatibilidad<n> es\nperfecta. Como un par de estatuas de perros<n> leones\nfrente a un torii.",
-            "choice_data_list": [
-                "¡Hazlo lo mejor que puedas!"
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Gracias! ¡Lo haremos!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Pero no creo que quede nada por <n>hacer..."
-        },
-        {
-            "name": "Juego",
-            "text": "\"Su compatibilidad es...\""
-        },
-        {
-            "name": "Juego",
-            "text": "\"¡95%! ¡Casi! ¡Intenten desafiarse <n>mutuamente de\nvez en cuando!\""
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Waaaaahhh! ¡No es 100%?!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Bueno... Dijo que deberíamos intentar desafiarnos<n>\nmutuamente."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¡Esa debe ser la clave para obtener el último<n>\ncinco por ciento! ¡Suzuka! No hay tiempo que<n>\nperder..."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Correcto. Volvamos a la academia corriendo."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "¿Listos? ¡Vamos!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "¿Eh? ¡E-espera un segundo!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Al parecer, son capaces de obtener una lectura<n> de\ncompatibilidad del 100% unos días después."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Pasamos por un centro comercial en nuestro camino\nde regreso de un paseo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eh? ¿Eso es...?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Gyaaah! ¡E-e-esto es un verdadero problema!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Qué pasa, Fukukitaru? Pareces un poco distraída."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh! ¡La fortuna me sonríe! ¡Una salvadora!\n¡Rescátame, Suzuka!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡En fin! ¡Por favor, dirija su mirada aquí!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Esto es un... umm...",
+      "choice_data_list": [
+        "<i>¿Estupendo Juego del Adivino de Compatibilidad?</i>"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Exaaactamente! Solo tienes que poner sus nombres\ny algo de dinero, ¡y adivinará su compatibilidad!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Según la palabra del gran Shiraoki, ver un 100% de\ncoincidencia aquí es buena suerte..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Pero! Aquí estoy, habiendo olvidado por completo\na quién iba a preguntar."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Q-qué... desastre?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Por eso necesito tu ayuda, ¡Suzuka! ¡Créeme, este\njuego es bien conocido por ser súper preciso!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No me importa, pero... ¿está bien que lo haga por\nti?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh, totalmente. Mientras la adivinación dé 100% de\ncompatibilidad y yo lo vea, todo bien."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Entonces, si tienes a alguien en mente, ¡solo\ndímelo!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "El gran Shiraoki es bastante relajado, ¿eh? Me\npregunto a quién debería elegir, entonces...",
+      "choice_data_list": [
+        "¿Quieres intentarlo conmigo?",
+        "¿Quieres intentarlo conmigo?",
+        "¿Por qué no lo intentas con Matikanefukukitaru?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "El gran Shiraoki es bastante relajado, ¿eh? Me\npregunto con quién debería elegir entonces...",
+      "choice_data_list": [
+        "¿Quieres intentarlo conmigo?",
+        "¿Quieres intentarlo conmigo?",
+        "¿Por qué no lo intentas con Matikanefukukitaru?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "With you?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh! ¡Buena idea! ¡Estoy seguro de que ustedes dos\ntienen compatibilidad perfecta! ¡Voy a ver desde\naquí!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿E-e-estás seguro? Tiene que ser 100%, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Cha-ching!</i>"
+    },
+    {
+      "name": "Juego",
+      "text": "\"¡Por favor, ingresa dos nombres!\""
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Umm... \"Silence Suzuka\", y...",
+      "choice_data_list": [
+        "\"<username>.\"",
+        "\"<username>.\""
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh! ¡Algo en sus nombres grita compatibilidad!\n¡Esto debe ser el destino!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um, pareces muy emocionado, pero no te\ndesilusiones demasiado si no es 100%, ¿vale?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Imposible! ¡Ni siquiera si este fuera el día más\ndesafortunado de todos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Además, ustedes dos son los mejores compañeros.\n¿Verdad, el entrenador de Suzuka?",
+      "choice_data_list": [
+        "¡Sí, estaremos bien!",
+        "¡Sí, estaremos bien!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No tú también..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bueno, supongo. Allá vamos..."
+    },
+    {
+      "name": "Juego",
+      "text": "\"Su compatibilidad es...\""
+    },
+    {
+      "name": "Juego",
+      "text": "\"¡100%! ¡Están destinados a estar juntos!\n¡Asegúrense de expresar su gratitud mutua\nregularmente y tendrán buena fortuna!\""
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Allí! ¡Allí! ¡Mis ojos no me engañan! ¡Alabado\nsea!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "E-es realmente 100%."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Escuchaste lo que dijo la adivinación, así que\nmuestra tu gratitud!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿¡Eh?! ¿Quieres decir en este mismo instante?",
+      "choice_data_list": [
+        "Gracias por siempre dar lo mejor de ti."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um, ¡espera un momento! Um... Um..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Gracias por todo tu... entrenamiento..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ja ja ja! ¡Muy bien! ¡Muy bien, Suzuka!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡N-no me burles!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que esta adivinación de compatibilidad ha\nprofundizado la confianza de Silence Suzuka en mí."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Como desees! ¡Cuando se trata de adivinación,\nsiempre doy lo mejor de mí!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Todo lo que hacemos es ingresar nuestros\nnombres... No puedes realmente dar lo mejor de ti\nen eso, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Cha-ching!</i>"
+    },
+    {
+      "name": "Juego",
+      "text": "\"¡Por favor, ingresa dos nombres!\""
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Umm... \"Silence Suzuka\", y..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "\"Matikanefukukitaru!\""
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ja ja! ¡Lo veo!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Lo veo claramente! Nuestra compatibilidad es\nperfecta. Como un par de estatuas de perros leones\nfrente a un torii.",
+      "choice_data_list": [
+        "¡Hazlo lo mejor que puedas!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Gracias! ¡Lo haremos!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pero no creo que quede nada por hacer..."
+    },
+    {
+      "name": "Juego",
+      "text": "\"Su compatibilidad es...\""
+    },
+    {
+      "name": "Juego",
+      "text": "\"¡95%! ¡Casi! ¡Intenten desafiarse mutuamente de\nvez en cuando!\""
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Waaaaahhh! ¡No es 100%?!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bueno... Dijo que deberíamos intentar desafiarnos\nmutuamente."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Esa debe ser la clave para obtener el último\ncinco por ciento! ¡Suzuka! No hay tiempo que\nperder..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Correcto. Volvamos a la academia corriendo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Listos? ¡Vamos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Eh? ¡E-espera un segundo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al parecer, son capaces de obtener una lectura de\ncompatibilidad del 100% unos días después."
+    }
+  ]
 }

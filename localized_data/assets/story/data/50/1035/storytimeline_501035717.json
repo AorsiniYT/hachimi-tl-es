@@ -1,104 +1,104 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Winning Ticket parece indispuesta, así que<n> la\nllevo a la enfermería."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Lo siento, Entrenador... Descansaré bien y <n>me\naseguraré de mejorar."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Muy bien, buen ni—"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "<i>Zzz... Ronquido...</i>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡Gah! Espera... ¿eh?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¿D-dónde estoy? ¿Por qué estoy aquí?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡Es un lugar bastante bonito, though! La<n> hierba\nestá crujiendo, la brisa está soplando<n>\nsuavemente..."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡Apuesto a que correr a toda velocidad aquí <n>se\nsentaría muy bien!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡Muy bien! ¡Vamos a dar un carrerita! ¡Wooo!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡Yahooo! ¡Esto es divertido!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡Me siento como si pudiera correr para siempre!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Corre... Corre, corre...",
-            "choice_data_list": [
-                "¿Ticket?"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡Agh! ¡Dónde se fueron los campos de hierba?!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡Ohh! ¡Solo era un sueño!",
-            "choice_data_list": [
-                "¿Fue un buen sueño?",
-                "¿Fue un buen sueño?"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡Sí! ¡Fue <i>muy</i> agradable! </i>Gracias a eso, mi<n> cuerpo\ny espíritu se sienten totalmente renovados!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Winning Ticket está sonriendo feliz.<n> Parece que ha\ndescansado lo <n>suficiente."
-        },
-        {
-            "name": "Monólogo",
-            "text": "<i>Cruj, cruj!</i>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡Gagh!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡M-mi pierna está atrapada en la hierba! ¡Y<n> me\nestoy resbalando... Me caaigo!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡No puedo detenermee! ¡Ayúdamee!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡Eek! ...¿Eh? ¿Estoy viva?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡Eeesh... Eso fue asustador!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Parece que la siesta de Winning Ticket no fue<n> tan\ndescansada como podría haber sido..."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket parece indispuesta, así que la\nllevo a la enfermería."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Lo siento, Entrenador... Descansaré bien y me\naseguraré de mejorar."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Muy bien, buen ni—"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Zzz... Ronquido...</i>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Gah! Espera... ¿eh?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿D-dónde estoy? ¿Por qué estoy aquí?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Es un lugar bastante bonito, though! La hierba\nestá crujiendo, la brisa está soplando\nsuavemente..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Apuesto a que correr a toda velocidad aquí se\nsentaría muy bien!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Muy bien! ¡Vamos a dar un carrerita! ¡Wooo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Yahooo! ¡Esto es divertido!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Me siento como si pudiera correr para siempre!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Corre... Corre, corre...",
+      "choice_data_list": [
+        "¿Ticket?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Agh! ¡Dónde se fueron los campos de hierba?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ohh! ¡Solo era un sueño!",
+      "choice_data_list": [
+        "¿Fue un buen sueño?",
+        "¿Fue un buen sueño?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí! ¡Fue <i>muy</i> agradable! </i>Gracias a eso, mi cuerpo\ny espíritu se sienten totalmente renovados!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket está sonriendo feliz. Parece que ha\ndescansado lo suficiente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Cruj, cruj!</i>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Gagh!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡M-mi pierna está atrapada en la hierba! ¡Y me\nestoy resbalando... Me caaigo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡No puedo detenermee! ¡Ayúdamee!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Eek! ...¿Eh? ¿Estoy viva?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Eeesh... Eso fue asustador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que la siesta de Winning Ticket no fue tan\ndescansada como podría haber sido..."
+    }
+  ]
 }

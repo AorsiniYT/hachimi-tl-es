@@ -2,7 +2,7 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, llevo a <chrname><n> a la enfermería para un chequeo.",
+      "text": "Un día, llevo a <chrname> a la enfermería para un chequeo.",
       "name": "Monólogo"
     },
     {
@@ -11,21 +11,21 @@
     },
     {
       "name": "???",
-      "text": "¿Estás herido? ¿Enfermo? ¿Estresado? ¡Sea<n> lo que\nsea, lo curo todo!",
+      "text": "¿Estás herido? ¿Enfermo? ¿Estresado? ¡Sea lo que\nsea, lo curo todo!",
       "choice_data_list": [
         "¿Quién eres?!"
       ]
     },
     {
       "name": "???",
-      "text": "Bueno, considerando que estás en la enfermería<n> de\nla academia, diría que eso me convierte en<n> tu\nconfiable enfermera escolar. ¡Sí, solo<n> una\nempleada escolar promedio!",
+      "text": "Bueno, considerando que estás en la enfermería de\nla academia, diría que eso me convierte en tu\nconfiable enfermera escolar. ¡Sí, solo una\nempleada escolar promedio!",
       "choice_data_list": [
         "...¿No lo soy?"
       ]
     },
     {
       "name": "???",
-      "text": "¡Ajaja! Supongo que no hay manera de <n>engañarte.\nSupongo que debo empezar dándote mi<n> nombre."
+      "text": "¡Ajaja! Supongo que no hay manera de engañarte.\nSupongo que debo empezar dándote mi nombre."
     },
     {
       "name": "???",
@@ -33,18 +33,18 @@
     },
     {
       "name": "???",
-      "text": "Soy la (probable) salvadora de <n>todas las Uma\nMusume, la (autoproclamada)<n> legendaria\nacupunturista con el toque<n> mágico..."
+      "text": "Soy la (probable) salvadora de todas las Uma\nMusume, la (autoproclamada) legendaria\nacupunturista con el toque mágico..."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡La única e inigualable Sasami Anshinzawa!<n> ¿Ves?\n¡No te preocupes! ☆",
+      "text": "¡La única e inigualable Sasami Anshinzawa! ¿Ves?\n¡No te preocupes! ☆",
       "choice_data_list": [
         "..."
       ]
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Aunque soy solo una paciente, me gusta <n>pensar que\nestoy bastante versada en la práctica<n> medicinal—y\nhe escuchado... cosas <n>interesantes sobre la\nacupuntura."
+      "text": "Aunque soy solo una paciente, me gusta pensar que\nestoy bastante versada en la práctica medicinal—y\nhe escuchado... cosas interesantes sobre la\nacupuntura."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -52,7 +52,7 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No importa! ¡No importa! Ya nos <n>presentamos, así\nque acuéstate y déjame <n>poner estas agujas a\ntrabajar!"
+      "text": "¡No importa! ¡No importa! Ya nos presentamos, así\nque acuéstate y déjame poner estas agujas a\ntrabajar!"
     },
     {
       "name": "Mejiro Ardan",
@@ -60,18 +60,18 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Jajaja! ¡No hay que tener miedo! Todo <n>lo que voy\na hacer es deslizar estas agujas <n>extraordinarias\nprecisamente en tus puntos<n> de chakra."
+      "text": "¡Jajaja! ¡No hay que tener miedo! Todo lo que voy\na hacer es deslizar estas agujas extraordinarias\nprecisamente en tus puntos de chakra."
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces, voilà, presto! ¡Algo<n> indescriptible\nsucederá!",
+      "text": "¡Entonces, voilà, presto! ¡Algo indescriptible\nsucederá!",
       "choice_data_list": [
         "(Esto es indescriptiblemente sospechoso...)"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y permíteme asegurarte que<n> no hay absolutamente\nnada sospechoso <n>en esto! ¡Nunca ha salido nada\nmenos que<n> perfecto!"
+      "text": "¡Y permíteme asegurarte que no hay absolutamente\nnada sospechoso en esto! ¡Nunca ha salido nada\nmenos que perfecto!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -82,11 +82,11 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No te preocupes! Esta es mi primera vez, <n>así que\ntécnicamente, ¡tampoco he fallado nunca a <n>un\npaciente!"
+      "text": "¡No te preocupes! Esta es mi primera vez, así que\ntécnicamente, ¡tampoco he fallado nunca a un\npaciente!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Y no es como si no tuviera experiencia! Pasé<n> diez\naños bajo un maestro legendario, <n>consiguiendo\ngotas―¡Quiero decir, entrenando!"
+      "text": "¡Y no es como si no tuviera experiencia! Pasé diez\naños bajo un maestro legendario, consiguiendo\ngotas―¡Quiero decir, entrenando!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "text": "De ninguna manera vamos a hacer esto. Tomo<n> a <chrname> y me\ndirijo a la <n>puerta, cuando...",
+      "text": "De ninguna manera vamos a hacer esto. Tomo a <chrname> y me\ndirijo a la puerta, cuando...",
       "name": "Monólogo"
     },
     {
@@ -105,18 +105,18 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Eres <i>la</i> Mejiro Ardan, ¿verdad?!<n> ¡La Uma Musume\nsin igual, noble que<n> se esfuerza por brillar en el\nmomento!",
+      "text": "¡Eres <i>la</i> Mejiro Ardan, ¿verdad?! ¡La Uma Musume\nsin igual, noble que se esfuerza por brillar en el\nmomento!",
       "choice_data_list": [
         "¿Has oído hablar de ella?"
       ]
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¿He oído hablar de ella? ¡Por supuesto! <n>¡Soy una\ngran fan!"
+      "text": "¿He oído hablar de ella? ¡Por supuesto! ¡Soy una\ngran fan!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Por eso estoy aquí! ¡Para darte<n> mi apoyo! ¡Déjame\nayudarte!"
+      "text": "¡Por eso estoy aquí! ¡Para darte mi apoyo! ¡Déjame\nayudarte!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -124,11 +124,11 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Ya que sabes quién soy, tengo una <n>sugerencia. Los\nmilagros son conocidos por ocurrir<n> de vez en\ncuando en el campo de la <n>medicina. Por lo tanto,\ntu proposición puede valer<n> la pena considerarla,\npero—"
+      "text": "Ya que sabes quién soy, tengo una sugerencia. Los\nmilagros son conocidos por ocurrir de vez en\ncuando en el campo de la medicina. Por lo tanto,\ntu proposición puede valer la pena considerarla,\npero—"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Por favor! ¡Por faaaavor con zanahoria<n> encima!\n¡Incluso te dejaré elegir<n> qué chakra activo!"
+      "text": "¡Por favor! ¡Por faaaavor con zanahoria encima!\n¡Incluso te dejaré elegir qué chakra activo!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -143,14 +143,14 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Quiero decir, ¡está del lado seguro! Eso <i>es <i>bueno,</i><n>\n</i>¿verdad? De todos modos, ¡no te obsesiones con<n> los\ndetalles!"
+      "text": "Quiero decir, ¡está del lado seguro! Eso <i>es <i>bueno,</i>\n</i>¿verdad? De todos modos, ¡no te obsesiones con los\ndetalles!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Vamos a lo bueno! ¿Qué chakra debo <n>activar?\n¿Quieres un impulso a tus <n>habilidades? ¿A tu\nsalud? ¿O tal vez a tu <n><i>encanto?</i>"
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debo activar?\n¿Quieres un impulso a tus habilidades? ¿A tu\nsalud? ¿O tal vez a tu <i>encanto?</i>"
     },
     {
-      "text": "Huelo peligro en el aire, pero creo que<n> podría—y\nenfatizo <i>podría</i>—haber <n></i>una oportunidad de obtener\nalgo especial<n> de este tratamiento.",
+      "text": "Huelo peligro en el aire, pero creo que podría—y\nenfatizo <i>podría</i>—haber </i>una oportunidad de obtener\nalgo especial de este tratamiento.",
       "name": "Monólogo"
     },
     {
@@ -166,11 +166,11 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. Entonces, ¿quieres que <n>active el\nchakra de fuerza?"
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de fuerza?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
       "choice_data_list": [
         "Adelante.",
         "Espera, un momento."
@@ -178,7 +178,7 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! ¡Es hora de localizar<n>\nese chakra! ¡Olly, olly, todos libres!"
+      "text": "¡Muy bien, déjamelo a mí! ¡Es hora de localizar\nese chakra! ¡Olly, olly, todos libres!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -202,34 +202,34 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "¡Parezco estar... temblando de alegría!<n> ¡Un\nmilagro medicinal realmente ha ocurrido!"
+      "text": "¡Parezco estar... temblando de alegría! ¡Un\nmilagro medicinal realmente ha ocurrido!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "<i>¡Jadeo...</i> No puede ser... ¿En serio<n> funcionó?!"
+      "text": "<i>¡Jadeo...</i> No puede ser... ¿En serio funcionó?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
     },
     {
-      "text": "<chrname> está rebosando<n> de tanto poder que casi <n>no la\nreconozco!",
+      "text": "<chrname> está rebosando de tanto poder que casi no la\nreconozco!",
       "name": "Monólogo"
     },
     {
-      "text": "¡Arriesgamos y dio frutos! ¡Este es un<n> gran salto\nhacia lograr nuestra meta!",
+      "text": "¡Arriesgamos y dio frutos! ¡Este es un gran salto\nhacia lograr nuestra meta!",
       "name": "Monólogo"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Ngh... Los milagros son conocidos como <n>tales...\nprecisamente porque rara vez ocurren."
+      "text": "Ngh... Los milagros son conocidos como tales...\nprecisamente porque rara vez ocurren."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "En ese sentido, esto fue... un pequeño precio a\n<n>pagar... para aprender una lección tan\nimportante..."
+      "text": "En ese sentido, esto fue... un pequeño precio a\npagar... para aprender una lección tan\nimportante..."
     },
     {
-      "text": "La condición de <chrname><n> se deteriora rápidamente.",
+      "text": "La condición de <chrname> se deteriora rápidamente.",
       "name": "Monólogo"
     },
     {
@@ -238,19 +238,19 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿miren la hora? <n>¡Debería irme! ¡Adiós! ☆"
+      "text": "Bueno, ¿miren la hora? ¡Debería irme! ¡Adiós! ☆"
     },
     {
-      "text": "Debí saber que no era buena idea tentar a la\nsuerte.<n> No soy yo la que sufre, y sin embargo\nestoy llena<n> de remordimientos.",
+      "text": "Debí saber que no era buena idea tentar a la\nsuerte. No soy yo la que sufre, y sin embargo\nestoy llena de remordimientos.",
       "name": "Monólogo"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. Entonces, ¿quieres que active <n>el\nchakra de la victoria?"
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de la victoria?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
       "choice_data_list": [
         "Adelante.",
         "Espera, un momento."
@@ -258,7 +258,7 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! ¡Es hora de localizar<n>\nese chakra! ¡Olly, olly, todos libres!"
+      "text": "¡Muy bien, déjamelo a mí! ¡Es hora de localizar\nese chakra! ¡Olly, olly, todos libres!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -282,34 +282,34 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "¡Parezco estar... temblando de alegría!<n> ¡Un\nmilagro medicinal realmente ha ocurrido!"
+      "text": "¡Parezco estar... temblando de alegría! ¡Un\nmilagro medicinal realmente ha ocurrido!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "<i>¡Jadeo...</i> No puede ser... ¿En serio<n> funcionó?!"
+      "text": "<i>¡Jadeo...</i> No puede ser... ¿En serio funcionó?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
     },
     {
-      "text": "¡Puedo sentir una gran mejora en las<n> habilidades\nde <chrname>!",
+      "text": "¡Puedo sentir una gran mejora en las habilidades\nde <chrname>!",
       "name": "Monólogo"
     },
     {
-      "text": "¡Arriesgamos y dio frutos! ¡Este es un<n> gran salto\nhacia lograr nuestra meta!",
+      "text": "¡Arriesgamos y dio frutos! ¡Este es un gran salto\nhacia lograr nuestra meta!",
       "name": "Monólogo"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Ngh... Los milagros son conocidos como <n>tales...\nprecisamente porque rara vez ocurren."
+      "text": "Ngh... Los milagros son conocidos como tales...\nprecisamente porque rara vez ocurren."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "En ese sentido, esto fue... un pequeño precio a\n<n>pagar... para aprender una lección tan\nimportante..."
+      "text": "En ese sentido, esto fue... un pequeño precio a\npagar... para aprender una lección tan\nimportante..."
     },
     {
-      "text": "La condición de <chrname><n> se deteriora rápidamente.",
+      "text": "La condición de <chrname> se deteriora rápidamente.",
       "name": "Monólogo"
     },
     {
@@ -318,19 +318,19 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿miren la hora? <n>¡Debería irme! ¡Adiós! ☆"
+      "text": "Bueno, ¿miren la hora? ¡Debería irme! ¡Adiós! ☆"
     },
     {
-      "text": "Debí saber que no era buena idea tentar a la\nsuerte.<n> No soy yo la que sufre, y sin embargo\nestoy llena<n> de remordimientos.",
+      "text": "Debí saber que no era buena idea tentar a la\nsuerte. No soy yo la que sufre, y sin embargo\nestoy llena de remordimientos.",
       "name": "Monólogo"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. Entonces, ¿quieres que active<n> el\nchakra de la salud?"
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de la salud?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
       "choice_data_list": [
         "Adelante.",
         "Espera, un momento."
@@ -338,7 +338,7 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! ¡Es hora de localizar<n>\nese chakra! ¡Olly, olly, todos libres!"
+      "text": "¡Muy bien, déjamelo a mí! ¡Es hora de localizar\nese chakra! ¡Olly, olly, todos libres!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -362,34 +362,34 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "¡Parezco estar... temblando de alegría!<n> ¡Un\nmilagro medicinal realmente ha ocurrido!"
+      "text": "¡Parezco estar... temblando de alegría! ¡Un\nmilagro medicinal realmente ha ocurrido!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "<i>¡Jadeo...</i> No puede ser... ¿En serio<n> funcionó?!"
+      "text": "<i>¡Jadeo...</i> No puede ser... ¿En serio funcionó?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
     },
     {
-      "text": "¡Todo el cuerpo de <chrname><n> está irradiando un brillo\nsaludable! ¡Es<n> la imagen absoluta de la salud!",
+      "text": "¡Todo el cuerpo de <chrname> está irradiando un brillo\nsaludable! ¡Es la imagen absoluta de la salud!",
       "name": "Monólogo"
     },
     {
-      "text": "¡Arriesgamos y dio frutos! ¡Este es un<n> gran salto\nhacia lograr nuestra meta!",
+      "text": "¡Arriesgamos y dio frutos! ¡Este es un gran salto\nhacia lograr nuestra meta!",
       "name": "Monólogo"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Ngh... Los milagros son conocidos como <n>tales...\nprecisamente porque rara vez ocurren."
+      "text": "Ngh... Los milagros son conocidos como tales...\nprecisamente porque rara vez ocurren."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "En ese sentido, esto fue... un pequeño precio a\n<n>pagar... para aprender una lección tan\nimportante..."
+      "text": "En ese sentido, esto fue... un pequeño precio a\npagar... para aprender una lección tan\nimportante..."
     },
     {
-      "text": "La condición de <chrname><n> se deteriora rápidamente.",
+      "text": "La condición de <chrname> se deteriora rápidamente.",
       "name": "Monólogo"
     },
     {
@@ -398,19 +398,19 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿miren la hora? <n>¡Debería irme! ¡Adiós! ☆"
+      "text": "Bueno, ¿miren la hora? ¡Debería irme! ¡Adiós! ☆"
     },
     {
-      "text": "Debí saber que no era buena idea tentar a la\nsuerte.<n> No soy yo la que sufre, y sin embargo\nestoy llena<n> de remordimientos.",
+      "text": "Debí saber que no era buena idea tentar a la\nsuerte. No soy yo la que sufre, y sin embargo\nestoy llena de remordimientos.",
       "name": "Monólogo"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Ya veo, ya veo. Entonces, ¿quieres que active<n> el\nchakra del encanto?"
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra del encanto?"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Entonces empecemos! ¿Estás listo? <n>¡No hay vuelta\natrás después!",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
       "choice_data_list": [
         "Adelante.",
         "Espera, un momento."
@@ -418,7 +418,7 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Muy bien, déjamelo a mí! ¡Es hora de localizar<n>\nese chakra! ¡Olly, olly, todos libres!"
+      "text": "¡Muy bien, déjamelo a mí! ¡Es hora de localizar\nese chakra! ¡Olly, olly, todos libres!"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -442,34 +442,34 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "¡Parezco estar... temblando de alegría!<n> ¡Un\nmilagro medicinal realmente ha ocurrido!"
+      "text": "¡Parezco estar... temblando de alegría! ¡Un\nmilagro medicinal realmente ha ocurrido!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "<i>¡Jadeo...</i> No puede ser... ¿En serio<n> funcionó?!"
+      "text": "<i>¡Jadeo...</i> No puede ser... ¿En serio funcionó?!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un <n>genio\ntotal!"
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
     },
     {
-      "text": "<chrname> está rebosando <n>de encanto! ¡Está destinada a\nvolver miradas<n> dondequiera que vaya!",
+      "text": "<chrname> está rebosando de encanto! ¡Está destinada a\nvolver miradas dondequiera que vaya!",
       "name": "Monólogo"
     },
     {
-      "text": "¡Arriesgamos y dio frutos! ¡Este es un<n> gran salto\nhacia lograr nuestra meta!",
+      "text": "¡Arriesgamos y dio frutos! ¡Este es un gran salto\nhacia lograr nuestra meta!",
       "name": "Monólogo"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Ngh... Los milagros son conocidos como <n>tales...\nprecisamente porque rara vez ocurren."
+      "text": "Ngh... Los milagros son conocidos como tales...\nprecisamente porque rara vez ocurren."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "En ese sentido, esto fue... un pequeño precio a\n<n>pagar... para aprender una lección tan\nimportante..."
+      "text": "En ese sentido, esto fue... un pequeño precio a\npagar... para aprender una lección tan\nimportante..."
     },
     {
-      "text": "La condición de <chrname><n> se deteriora rápidamente.",
+      "text": "La condición de <chrname> se deteriora rápidamente.",
       "name": "Monólogo"
     },
     {
@@ -478,10 +478,10 @@
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "Bueno, ¿miren la hora? <n>¡Debería irme! ¡Adiós! ☆"
+      "text": "Bueno, ¿miren la hora? ¡Debería irme! ¡Adiós! ☆"
     },
     {
-      "text": "Debí saber que no era buena idea tentar a la\nsuerte.<n> No soy yo la que sufre, y sin embargo\nestoy llena<n> de remordimientos.",
+      "text": "Debí saber que no era buena idea tentar a la\nsuerte. No soy yo la que sufre, y sin embargo\nestoy llena de remordimientos.",
       "name": "Monólogo"
     },
     {
@@ -494,7 +494,7 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Eh! ¡Tú allí! ¡Espero que sepas que<n> los <i>intrusos\n<i>serán</i> procesados!</i>"
+      "text": "¡Eh! ¡Tú allí! ¡Espero que sepas que los <i>intrusos\n<i>serán</i> procesados!</i>"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -510,35 +510,35 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Los milagros alcanzados a través de la medicina.<n>\nEs una noción fascinante..."
+      "text": "Los milagros alcanzados a través de la medicina.\nEs una noción fascinante..."
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Pero cuando yo brille, deseo hacerlo a través<n> del\npoder de mis propias piernas, no porque un<n> milagro\nme haya bendecido. ...Ahora bien, creo<n> que es hora\nde reanudar el entrenamiento.",
+      "text": "Pero cuando yo brille, deseo hacerlo a través del\npoder de mis propias piernas, no porque un milagro\nme haya bendecido. ...Ahora bien, creo que es hora\nde reanudar el entrenamiento.",
       "choice_data_list": [
         "De acuerdo.",
         "De acuerdo."
       ]
     },
     {
-      "text": "Tengo curiosidad sobre quién es <n>realmente este\npersonaje de Anshinzawa, pero no<n> sirve de nada\nrumiarlo. Mejor olvidar el día de<n> hoy y seguir\nadelante.",
+      "text": "Tengo curiosidad sobre quién es realmente este\npersonaje de Anshinzawa, pero no sirve de nada\nrumiarlo. Mejor olvidar el día de hoy y seguir\nadelante.",
       "name": "Monólogo"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¿Has cambiado de opinión? ¡No te<n> preocupes, eso\npasa!"
+      "text": "¿Has cambiado de opinión? ¡No te preocupes, eso\npasa!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡Adelante, dime qué chakra quieres<n> que active,\nentonces!"
+      "text": "¡Adelante, dime qué chakra quieres que active,\nentonces!"
     },
     {
       "name": "Sasami Anshinzawa",
-      "text": "¡¿Eh?! ¡No nos dejes en suspense! Espera <n>un\nsegundo... ¿Cuánto tiempo llevo aquí?"
+      "text": "¡¿Eh?! ¡No nos dejes en suspense! Espera un\nsegundo... ¿Cuánto tiempo llevo aquí?"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "¡Oye! ¡Tú! ¡Espero que sepas que <n>los <i>intrusos\n<i>serán</i> procesados!</i>"
+      "text": "¡Oye! ¡Tú! ¡Espero que sepas que los <i>intrusos\n<i>serán</i> procesados!</i>"
     },
     {
       "name": "Sasami Anshinzawa",
@@ -553,11 +553,11 @@
       "text": "¡Oye! ¡Detente ahí mismo!"
     },
     {
-      "text": "La situación da un giro abrupto antes de que<n> pueda\ntomar una decisión.",
+      "text": "La situación da un giro abrupto antes de que pueda\ntomar una decisión.",
       "name": "Monólogo"
     },
     {
-      "text": "¿Qué fue todo eso?<n> <chrname> y yo nos<n> miramos perplejos.",
+      "text": "¿Qué fue todo eso? <chrname> y yo nos miramos perplejos.",
       "name": "Monólogo"
     }
   ]

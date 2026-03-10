@@ -1,262 +1,262 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Se realiza una sesión de entrenamiento pública\n<n>para los medios en preparación para el Tenno Sho<n>\nde primavera."
-        },
-        {
-            "name": "Monólogo",
-            "text": "<i>Charlan, charlan...</i>"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Phew..."
-        },
-        {
-            "name": "Miembro del Staff",
-            "text": "¡Y eso concluye la sesión de entrenamiento<n> pública\nde hoy!"
-        },
-        {
-            "name": "Reportero A",
-            "text": "Biwa Hayahide, ¡disculpe! ¿Podría tener una<n>\nentrevista uno a uno con usted, por favor?"
-        },
-        {
-            "name": "Reportero B",
-            "text": "Entiendo que Narita Taishin también estará<n> en el\nTenno Sho de primavera. Como <n>compañera de BNW—",
-            "choice_data_list": [
-                "¡Todos, por favor denle espacio!"
-            ]
-        },
-        {
-            "name": "Monólogo",
-            "text": "El rendimiento constante de Biwa Hayahide<n> ha\nestado llamando mucho la atención. Si <n>bien\nciertamente estamos agradecidos por eso..."
-        },
-        {
-            "name": "Prensa",
-            "text": "¡Disculpe, Biwa Hayahide! ¡Por aquí!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Ella no puede posiblemente atender cada<n> solicitud\nde entrevista. Educadamente nos<n> abrimos paso entre\nla multitud de <n>reporteros y nos vamos a casa."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Hehe, no tenías que ser tan<n> protector. No me\nestaban molestando.",
-            "choice_data_list": [
-                "Necesito que te mantengas concentrado.",
-                "Necesito que te mantengas concentrado."
-            ]
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Hmm."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Bueno, gracias por asegurarte de que <n>no me\ndistrajeran. Por cierto, ¿por casualidad<n> estás\nlibre este fin de semana?",
-            "choice_data_list": [
-                "Sí. ¿Qué pasa?"
-            ]
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Sucede algo importante <n>entonces, y concierne a\nambos."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Llega el fin de semana, y no tarda <n>mucho en\naveriguar por qué Biwa<n> Hayahide quiere pasarlo\nconmigo."
-        },
-        {
-            "name": "Locutor",
-            "text": "¡Qué día absolutamente espléndido en el<n> Hipódromo\nde Nakayama!"
-        },
-        {
-            "name": "Locutor",
-            "text": "¡Y aquí está, la favorita número uno<n> del Satsuki\nSho, Narita Brian!"
-        },
-        {
-            "name": "Espectadores",
-            "text": "Wooooo!"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Escucha esos vítores... Supongo que esto <n>es parte\ndel paquete Narita Brian."
-        },
-        {
-            "name": "Monólogo",
-            "text": "<i>¡Ka-chak!</i>"
-        },
-        {
-            "name": "Locutor",
-            "text": "Narita Brian está en excelente posición, <n>pero\ntodos están pisándole los talones saliendo<n> de la\nprimera curva."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "En marcado contraste con el animado <n>público, Biwa\nHayahide observa la carrera<n> en silencio\ncontemplativo."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Se mueven a un ritmo bastante rápido.<n> ¡Solo faltan\n800 metros! Este nivel de <n>intensidad seguramente\nsacudirá a algunas de<n> ellas."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "El ritmo es rápido, pero la ventaja está<n> apenas\npor delante del grupo."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Esto podría depender de quién tenga<n> suficiente\nenergía restante en la recta. Tengo<n> la sensación\nde que será reñido..."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "<i>Huff!</i>"
-        },
-        {
-            "name": "Locutor",
-            "text": "¡Narita Brian! ¡Narita Brian se ha <n>separado del\ngrupo!"
-        },
-        {
-            "name": "Locutor",
-            "text": "¡Está en la delantera! Se ha alejado por <n>tres\ncuerpos... ¡ahora cuatro! ¡Está ampliando<n> la\nbrecha!"
-        },
-        {
-            "name": "Locutor",
-            "text": "¡Y es una paliza total! ¡Tenemos un nuevo<n> récord!\n¡Narita Brian ha capturado su<n> primera corona de\nmanera devastadora!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Wooooo!"
-        },
-        {
-            "name": "Locutor",
-            "text": "¡Esto es increíble, gente! ¡Narita Brian no solo\nha<n> ganado la carrera, sino que ha establecido un\n<n>nuevo récord!",
-            "choice_data_list": [
-                "(¡Un nuevo récord de pista!)"
-            ]
-        },
-        {
-            "name": "Monólogo",
-            "text": "Narita Brian es ahora la Uma <n>Musume más rápida en\ncorrer <n>los 2,000 metros en el Hipódromo<n> de\nNakayama."
-        },
-        {
-            "name": "Comentarista",
-            "text": "Esa última sprint en la recta estuvo<n> en otro\nnivel. Puede ser una Uma<n> Musume uno en un\nmillón..."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Trainer?",
-            "choice_data_list": [
-                "Yes?",
-                "Yes?"
-            ]
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "La voy a derrotar.",
-            "choice_data_list": [
-                "...!"
-            ]
-        },
-        {
-            "name": "Monólogo",
-            "text": "Solo puedo especular sobre lo que podría<n> haber\ndicho si hubiera visto esta carrera<n> antes de\ncorrer en el Kikuka Sho."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Pero lo que sí sé con certeza es que ella está<n>\nempezando a sonar mucho más como una verdadera\n<n>luchadora últimamente."
-        },
-        {
-            "name": "Monólogo",
-            "text": "<i>Bzzz, bzzz, bzzz.</i>"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Hm? Creo que te están llamando."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Echo un vistazo a mi teléfono y levanto <n>las cejas\nante el nombre en la pantalla.",
-            "choice_data_list": [
-                "Tazuna?"
-            ]
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Ya veo. Entonces el Tenno Sho de primavera de este\n<n>año se celebrará en el Hipódromo de Hanshin."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Al parecer, el Hipódromo de Kyoto <n>está siendo\nremodelado, por lo que la <n>sede del Tenno Sho de\nprimavera se traslada<n> al Hipódromo de Hanshin."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Pero el problema es..."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Hm, ambos son circuitos para diestros,<n> pero las\npendientes están posicionadas de <n>manera diferente.\nEl área antes de la línea de<n> meta en Kyoto es\nplana, pero Hanshin tiene una <n>fuerte inclinación."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "No sirve de nada quejarse, pero esto<n> esencialmente\ninvalida todos nuestros<n> datos y predicciones."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Así, todo el trabajo que hemos hecho para\n<n>prepararnos para el Tenno Sho de primavera se<n> va\npor el desagüe.",
-            "choice_data_list": [
-                "(Qué timing...)"
-            ]
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Bueno... Supongo que es hora de <n>hacer ajustes a la\necuación ganadora <n>de nuevo.",
-            "choice_data_list": [
-                "What?!"
-            ]
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Hehe. ¿Qué pasa? Siempre fue nuestro<n> plan probar\nla ecuación aplicándola<n> prácticamente."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Aprovechemos al máximo el poco tiempo que <n>tenemos\ny hagamos lo mejor que podamos."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "...Como lo hicimos en el Kikuka Sho."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Tendremos que empezar de cero. Si<n> hacemos esto,\ntambién ocupará mucho<n> de tu tiempo."
-        },
-        {
-            "name": "Monólogo",
-            "text": "La Biwa Hayahide que antes estaba tan<n> perdida e\nindecisa ya no se encuentra<n> por ningún lado.",
-            "choice_data_list": [
-                "Has crecido tanto...",
-                "Has crecido tanto..."
-            ]
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Eh, Entrenador? ¿Por qué me <n>miras así—"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "<i>Gasp!</i>"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "¡M-mi cabeza no es más grande de lo normal!<n> ¿Ves?\n¡Es de tamaño completamente normal!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "No importa lo que la vida le lance ahora,<n> está\ncompletamente imperturbable. Ha progresado<n>\nverdaderamente mucho."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Se realiza una sesión de entrenamiento pública\npara los medios en preparación para el Tenno Sho\nde primavera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Charlan, charlan...</i>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Phew..."
+    },
+    {
+      "name": "Miembro del Staff",
+      "text": "¡Y eso concluye la sesión de entrenamiento pública\nde hoy!"
+    },
+    {
+      "name": "Reportero A",
+      "text": "Biwa Hayahide, ¡disculpe! ¿Podría tener una\nentrevista uno a uno con usted, por favor?"
+    },
+    {
+      "name": "Reportero B",
+      "text": "Entiendo que Narita Taishin también estará en el\nTenno Sho de primavera. Como compañera de BNW—",
+      "choice_data_list": [
+        "¡Todos, por favor denle espacio!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El rendimiento constante de Biwa Hayahide ha\nestado llamando mucho la atención. Si bien\nciertamente estamos agradecidos por eso..."
+    },
+    {
+      "name": "Prensa",
+      "text": "¡Disculpe, Biwa Hayahide! ¡Por aquí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella no puede posiblemente atender cada solicitud\nde entrevista. Educadamente nos abrimos paso entre\nla multitud de reporteros y nos vamos a casa."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hehe, no tenías que ser tan protector. No me\nestaban molestando.",
+      "choice_data_list": [
+        "Necesito que te mantengas concentrado.",
+        "Necesito que te mantengas concentrado."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hmm."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bueno, gracias por asegurarte de que no me\ndistrajeran. Por cierto, ¿por casualidad estás\nlibre este fin de semana?",
+      "choice_data_list": [
+        "Sí. ¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sucede algo importante entonces, y concierne a\nambos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llega el fin de semana, y no tarda mucho en\naveriguar por qué Biwa Hayahide quiere pasarlo\nconmigo."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Qué día absolutamente espléndido en el Hipódromo\nde Nakayama!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y aquí está, la favorita número uno del Satsuki\nSho, Narita Brian!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Escucha esos vítores... Supongo que esto es parte\ndel paquete Narita Brian."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Ka-chak!</i>"
+    },
+    {
+      "name": "Locutor",
+      "text": "Narita Brian está en excelente posición, pero\ntodos están pisándole los talones saliendo de la\nprimera curva."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En marcado contraste con el animado público, Biwa\nHayahide observa la carrera en silencio\ncontemplativo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se mueven a un ritmo bastante rápido. ¡Solo faltan\n800 metros! Este nivel de intensidad seguramente\nsacudirá a algunas de ellas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "El ritmo es rápido, pero la ventaja está apenas\npor delante del grupo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Esto podría depender de quién tenga suficiente\nenergía restante en la recta. Tengo la sensación\nde que será reñido..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Huff!</i>"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Narita Brian! ¡Narita Brian se ha separado del\ngrupo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Está en la delantera! Se ha alejado por tres\ncuerpos... ¡ahora cuatro! ¡Está ampliando la\nbrecha!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y es una paliza total! ¡Tenemos un nuevo récord!\n¡Narita Brian ha capturado su primera corona de\nmanera devastadora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Esto es increíble, gente! ¡Narita Brian no solo\nha ganado la carrera, sino que ha establecido un\nnuevo récord!",
+      "choice_data_list": [
+        "(¡Un nuevo récord de pista!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian es ahora la Uma Musume más rápida en\ncorrer los 2,000 metros en el Hipódromo de\nNakayama."
+    },
+    {
+      "name": "Comentarista",
+      "text": "Esa última sprint en la recta estuvo en otro\nnivel. Puede ser una Uma Musume uno en un\nmillón..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Trainer?",
+      "choice_data_list": [
+        "Yes?",
+        "Yes?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "La voy a derrotar.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo puedo especular sobre lo que podría haber\ndicho si hubiera visto esta carrera antes de\ncorrer en el Kikuka Sho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero lo que sí sé con certeza es que ella está\nempezando a sonar mucho más como una verdadera\nluchadora últimamente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Bzzz, bzzz, bzzz.</i>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hm? Creo que te están llamando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Echo un vistazo a mi teléfono y levanto las cejas\nante el nombre en la pantalla.",
+      "choice_data_list": [
+        "Tazuna?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ya veo. Entonces el Tenno Sho de primavera de este\naño se celebrará en el Hipódromo de Hanshin."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al parecer, el Hipódromo de Kyoto está siendo\nremodelado, por lo que la sede del Tenno Sho de\nprimavera se traslada al Hipódromo de Hanshin."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero el problema es..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hm, ambos son circuitos para diestros, pero las\npendientes están posicionadas de manera diferente.\nEl área antes de la línea de meta en Kyoto es\nplana, pero Hanshin tiene una fuerte inclinación."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No sirve de nada quejarse, pero esto esencialmente\ninvalida todos nuestros datos y predicciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así, todo el trabajo que hemos hecho para\nprepararnos para el Tenno Sho de primavera se va\npor el desagüe.",
+      "choice_data_list": [
+        "(Qué timing...)"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bueno... Supongo que es hora de hacer ajustes a la\necuación ganadora de nuevo.",
+      "choice_data_list": [
+        "What?!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hehe. ¿Qué pasa? Siempre fue nuestro plan probar\nla ecuación aplicándola prácticamente."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aprovechemos al máximo el poco tiempo que tenemos\ny hagamos lo mejor que podamos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Como lo hicimos en el Kikuka Sho."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tendremos que empezar de cero. Si hacemos esto,\ntambién ocupará mucho de tu tiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Biwa Hayahide que antes estaba tan perdida e\nindecisa ya no se encuentra por ningún lado.",
+      "choice_data_list": [
+        "Has crecido tanto...",
+        "Has crecido tanto..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Eh, Entrenador? ¿Por qué me miras así—"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Gasp!</i>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡M-mi cabeza no es más grande de lo normal! ¿Ves?\n¡Es de tamaño completamente normal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No importa lo que la vida le lance ahora, está\ncompletamente imperturbable. Ha progresado\nverdaderamente mucho."
+    }
+  ]
 }

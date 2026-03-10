@@ -11,19 +11,11 @@
     },
     {
       "name": "Reportero B",
-      "text": "¿Cómo te sientes al correr en una carrera tan<n>\nfamosa?"
+      "text": "¿Cómo te sientes al correr en una carrera tan\nfamosa?"
     },
     {
       "name": "Maruzensky",
-      "text": "¡Correr con ese gran grupo de <n>atletas talentosas\nfue muy divertido!"
-    },
-    {
-      "name": "Maruzensky",
-      "text": "¡Ah, Entrenador!",
-      "choice_data_list": [
-        "Esa fue la vez que más te he visto divertirte.",
-        "Esa fue la vez que más te he visto divertirte."
-      ]
+      "text": "¡Correr con ese gran grupo de atletas talentosas\nfue muy divertido!"
     },
     {
       "name": "Maruzensky",
@@ -35,27 +27,35 @@
     },
     {
       "name": "Maruzensky",
-      "text": "¡Jeje! En parte porque corrí con tantas<n> grandes\ncorredoras..."
+      "text": "¡Ah, Entrenador!",
+      "choice_data_list": [
+        "Esa fue la vez que más te he visto divertirte.",
+        "Esa fue la vez que más te he visto divertirte."
+      ]
     },
     {
       "name": "Maruzensky",
-      "text": "Pero sobre todo, ¡sentí que realmente logré<n> hacer\nque todos quisieran ir tras <n>de mí! ♪"
+      "text": "¡Jeje! En parte porque corrí con tantas grandes\ncorredoras..."
     },
     {
       "name": "Maruzensky",
-      "text": "¡Creo que voy a disfrutar corriendo el <n>próximo\naño—o más bien, el próximo año y todos<n> los años\nsiguientes!"
+      "text": "Pero sobre todo, ¡sentí que realmente logré hacer\nque todos quisieran ir tras de mí! ♪"
     },
     {
       "name": "Maruzensky",
-      "text": "Ahora que la carrera final de este año ha\nterminado,<n> es hora del último <i>empujón!</i>"
+      "text": "¡Creo que voy a disfrutar corriendo el próximo\naño—o más bien, el próximo año y todos los años\nsiguientes!"
     },
     {
       "name": "Maruzensky",
-      "text": "¡Vamos a la carretera y terminemos el año\n<n>correctamente!"
+      "text": "Ahora que la carrera final de este año ha\nterminado, es hora del último <i>empujón!</i>"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Vamos a la carretera y terminemos el año\ncorrectamente!"
     },
     {
       "name": "Monólogo",
-      "text": "El Arima Kinen llega a su fin para <n>Maruzensky\ndespués de una carrera muy satisfactoria."
+      "text": "El Arima Kinen llega a su fin para Maruzensky\ndespués de una carrera muy satisfactoria."
     }
   ]
 }

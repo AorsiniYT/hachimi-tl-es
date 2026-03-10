@@ -1,142 +1,142 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Voy al estudio de danza a petición de<n> King Halo."
-        },
-        {
-            "name": "King Halo",
-            "text": "Hoy, tendrás el privilegio de ver<n> mi lección de\nbaile real."
-        },
-        {
-            "name": "King Halo",
-            "text": "Verás un baile de primera clase de cerca y<n>\npersonal, ¡así que más te vale apreciarlo!"
-        },
-        {
-            "name": "King Halo",
-            "text": "¡Uno, dos, tres! ♪ ¡Uno, dos, tres! ♪"
-        },
-        {
-            "name": "King Halo",
-            "text": "Se supone que debes corear \"King\" aquí, <n>¿vale? ¡Y\nahora, vamos!",
-            "choice_data_list": [
-                "¿Eh?"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "¡No \"¿eh?\"! ¡Corea!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Un canto de primera clase ayuda a animar a<n> toda la\naudiencia en un concierto."
-        },
-        {
-            "name": "King Halo",
-            "text": "No importa si solo estamos <n>practicando—¡quiero que\nse sienta como la <n>cosa real!"
-        },
-        {
-            "name": "King Halo",
-            "text": "De lo contrario, esto es una pérdida de tiempo.",
-            "choice_data_list": [
-                "Entiendo lo que quieres decir, pero podría ser un\npoco difícil...",
-                "Entiendo lo que quieres decir, pero podría ser un\npoco difícil..."
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Bueno, supongo que es irrazonable <n>esperar que tú\ncrees la atmósfera de un <n>concierto todo por tu\ncuenta."
-        },
-        {
-            "name": "King Halo",
-            "text": "Me pregunto si deberíamos invitar a algunos<n>\nestudiantes más jóvenes para ayudar a crear el\nambiente<n> adecuado...",
-            "choice_data_list": [
-                "¡Entonces sería exactamente como la cosa real!",
-                "No te preocupes. ¡Puedo corear ese canto con el\npoder de una audiencia entera!"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Eso lo resuelve. ¡Cuántos más <n>vítores haya, más\nemocionante será!"
-        },
-        {
-            "name": "King Halo",
-            "text": "¡Uno, dos, tres! ♪ ¡Uno, dos, tres! ♪"
-        },
-        {
-            "name": "Seguidores de King Halo",
-            "text": "¡King! ♪ ¡King! ♪"
-        },
-        {
-            "name": "King Halo",
-            "text": "¡Ohohoho! ¡Así me gusta!"
-        },
-        {
-            "name": "King Halo",
-            "text": "¡Ahora te mostraré un baile de primera clase!"
-        },
-        {
-            "name": "Seguidores de King Halo",
-            "text": "¡Wooooo! ☆ ¡King es número uno!"
-        },
-        {
-            "name": "King Halo",
-            "text": "¡Ahora, todos unánse y háganlo aún <n>más\nemocionante!"
-        },
-        {
-            "name": "King Halo",
-            "text": "¡Se te ha concedido el privilegio <n>de bailar al\nlado de tu rey! ¡Ven acá!"
-        },
-        {
-            "name": "Seguidores de King Halo",
-            "text": "¡Yaaay! ♪"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Antes de que me dé cuenta, la lección de baile<n> se\nconvierte en una fiesta de baile, pero es efectiva<n>\na fin de cuentas."
-        },
-        {
-            "name": "King Halo",
-            "text": "Hehe, ¡ese es el espíritu!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Ahora entonces, ¡llevemos este baile al<n> límite!"
-        },
-        {
-            "name": "King Halo",
-            "text": "¡Uno, dos, tres! ♪ ¡Uno, dos, tres! ♪"
-        },
-        {
-            "name": "King Halo",
-            "text": "¡Es hora del canto!",
-            "choice_data_list": [
-                "¡King! ¡King!"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "¡Una vez más, con más entusiasmo! ¡Mantén<n> el ritmo\ncon el tempo!",
-            "choice_data_list": [
-                "¡King! ♪ King! ♪"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "¡Sí, así es!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Estoy acelerando el tempo ahora, así que asegúrate<n>\nde ¡mantener el paso!"
-        },
-        {
-            "name": "King Halo",
-            "text": "¡Ohohohoho! ¡Deleita tus ojos con este <n>baile de\nprimera clase!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "El baile de King Halo es verdaderamente una\n<n>experiencia viva y energizante."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy al estudio de danza a petición de King Halo."
+    },
+    {
+      "name": "King Halo",
+      "text": "Hoy, tendrás el privilegio de ver mi lección de\nbaile real."
+    },
+    {
+      "name": "King Halo",
+      "text": "Verás un baile de primera clase de cerca y\npersonal, ¡así que más te vale apreciarlo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Uno, dos, tres! ♪ ¡Uno, dos, tres! ♪"
+    },
+    {
+      "name": "King Halo",
+      "text": "Se supone que debes corear \"King\" aquí, ¿vale? ¡Y\nahora, vamos!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡No \"¿eh?\"! ¡Corea!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Un canto de primera clase ayuda a animar a toda la\naudiencia en un concierto."
+    },
+    {
+      "name": "King Halo",
+      "text": "No importa si solo estamos practicando—¡quiero que\nse sienta como la cosa real!"
+    },
+    {
+      "name": "King Halo",
+      "text": "De lo contrario, esto es una pérdida de tiempo.",
+      "choice_data_list": [
+        "Entiendo lo que quieres decir, pero podría ser un\npoco difícil...",
+        "Entiendo lo que quieres decir, pero podría ser un\npoco difícil..."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Bueno, supongo que es irrazonable esperar que tú\ncrees la atmósfera de un concierto todo por tu\ncuenta."
+    },
+    {
+      "name": "King Halo",
+      "text": "Me pregunto si deberíamos invitar a algunos\nestudiantes más jóvenes para ayudar a crear el\nambiente adecuado...",
+      "choice_data_list": [
+        "¡Entonces sería exactamente como la cosa real!",
+        "No te preocupes. ¡Puedo corear ese canto con el\npoder de una audiencia entera!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Eso lo resuelve. ¡Cuántos más vítores haya, más\nemocionante será!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Uno, dos, tres! ♪ ¡Uno, dos, tres! ♪"
+    },
+    {
+      "name": "Seguidores de King Halo",
+      "text": "¡King! ♪ ¡King! ♪"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! ¡Así me gusta!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ahora te mostraré un baile de primera clase!"
+    },
+    {
+      "name": "Seguidores de King Halo",
+      "text": "¡Wooooo! ☆ ¡King es número uno!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ahora, todos unánse y háganlo aún más\nemocionante!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Se te ha concedido el privilegio de bailar al\nlado de tu rey! ¡Ven acá!"
+    },
+    {
+      "name": "Seguidores de King Halo",
+      "text": "¡Yaaay! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que me dé cuenta, la lección de baile se\nconvierte en una fiesta de baile, pero es efectiva\na fin de cuentas."
+    },
+    {
+      "name": "King Halo",
+      "text": "Hehe, ¡ese es el espíritu!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Ahora entonces, ¡llevemos este baile al límite!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Uno, dos, tres! ♪ ¡Uno, dos, tres! ♪"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Es hora del canto!",
+      "choice_data_list": [
+        "¡King! ¡King!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Una vez más, con más entusiasmo! ¡Mantén el ritmo\ncon el tempo!",
+      "choice_data_list": [
+        "¡King! ♪ King! ♪"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Sí, así es!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Estoy acelerando el tempo ahora, así que asegúrate\nde ¡mantener el paso!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohohoho! ¡Deleita tus ojos con este baile de\nprimera clase!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El baile de King Halo es verdaderamente una\nexperiencia viva y energizante."
+    }
+  ]
 }

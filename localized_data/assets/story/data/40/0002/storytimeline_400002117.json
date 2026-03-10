@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Un día, mientras me preparo para las finales<n> de la\nUnity Cup, recibo la visita de Little<n> Cocon en mi\noficina."
+      "text": "Un día, mientras me preparo para las finales de la\nUnity Cup, recibo la visita de Little Cocon en mi\noficina."
     },
     {
       "name": "Little Cocon",
@@ -11,11 +11,11 @@
     },
     {
       "name": "Little Cocon",
-      "text": "Si terminamos corriendo contra tu equipo<n> durante\nlas finales..."
+      "text": "Si terminamos corriendo contra tu equipo durante\nlas finales..."
     },
     {
       "name": "Little Cocon",
-      "text": "Esas chicas mejor que corran como <n>si les\nimportara. No tiene sentido correr <n>contra un\nequipo si no ponen una pelea <n>adecuada."
+      "text": "Esas chicas mejor que corran como si les\nimportara. No tiene sentido correr contra un\nequipo si no ponen una pelea adecuada."
     },
     {
       "name": "Little Cocon",
@@ -23,7 +23,7 @@
     },
     {
       "name": "Bitter Glasse",
-      "text": "¡Hey, qué coincidencia! ¿Viniste a <n>declararles la\nguerra también?"
+      "text": "¡Hey, qué coincidencia! ¿Viniste a declararles la\nguerra también?"
     },
     {
       "name": "Little Cocon",
@@ -31,19 +31,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Después de escuchar el desafío de Little <n>Cocon y\nBitter Glasse..."
+      "text": "Después de escuchar el desafío de Little Cocon y\nBitter Glasse..."
     },
     {
       "name": "Monólogo",
-      "text": "<chrname> parece un poco<n> más motivado."
-    },
-    {
-      "name": "Monólogo",
-      "text": "¡Nuestro equipo está motivado!"
-    },
-    {
-      "name": "Monólogo",
-      "text": "¡El enfoque apasionado del equipo en <n>Velocidad ha\ntenido un efecto positivo<n> en <chrname>!"
+      "text": "<chrname> parece un poco más motivado."
     },
     {
       "name": "Monólogo",
@@ -51,7 +43,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡El enfoque apasionado del equipo en Resistencia<n>\nha tenido un efecto positivo<n> en <chrname>!"
+      "text": "¡El enfoque apasionado del equipo en Velocidad ha\ntenido un efecto positivo en <chrname>!"
     },
     {
       "name": "Monólogo",
@@ -59,7 +51,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡El enfoque apasionado del equipo en <n>Fuerza ha\ntenido un efecto positivo<n> en <chrname>!"
+      "text": "¡El enfoque apasionado del equipo en Resistencia\nha tenido un efecto positivo en <chrname>!"
     },
     {
       "name": "Monólogo",
@@ -67,7 +59,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡El enfoque apasionado del equipo en Coraje<n> ha\ntenido un efecto positivo<n> en <chrname>!"
+      "text": "¡El enfoque apasionado del equipo en Fuerza ha\ntenido un efecto positivo en <chrname>!"
     },
     {
       "name": "Monólogo",
@@ -75,7 +67,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡El enfoque apasionado del equipo en Inteligencia<n>\nha tenido un efecto positivo<n> en <chrname>!"
+      "text": "¡El enfoque apasionado del equipo en Coraje ha\ntenido un efecto positivo en <chrname>!"
     },
     {
       "name": "Monólogo",
@@ -83,7 +75,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡El increíblemente apasionado enfoque <n>del equipo\nen Velocidad ha tenido un efecto positivo<n> en <chrname>!"
+      "text": "¡El enfoque apasionado del equipo en Inteligencia\nha tenido un efecto positivo en <chrname>!"
     },
     {
       "name": "Monólogo",
@@ -91,7 +83,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡El increíblemente apasionado enfoque<n> del equipo\nen Resistencia ha tenido un efecto<n> positivo en <chrname>!"
+      "text": "¡El increíblemente apasionado enfoque del equipo\nen Velocidad ha tenido un efecto positivo en <chrname>!"
     },
     {
       "name": "Monólogo",
@@ -99,7 +91,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡El increíblemente apasionado enfoque<n> del equipo\nen Fuerza ha tenido un efecto positivo<n> en <chrname>!"
+      "text": "¡El increíblemente apasionado enfoque del equipo\nen Resistencia ha tenido un efecto positivo en <chrname>!"
     },
     {
       "name": "Monólogo",
@@ -107,7 +99,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡El increíblemente apasionado enfoque<n> del equipo\nen Coraje ha tenido un efecto positivo<n> en <chrname>!"
+      "text": "¡El increíblemente apasionado enfoque del equipo\nen Fuerza ha tenido un efecto positivo en <chrname>!"
     },
     {
       "name": "Monólogo",
@@ -115,7 +107,15 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡El increíblemente apasionado enfoque del<n> equipo\nen Inteligencia ha tenido un efecto positivo<n> en <chrname>!"
+      "text": "¡El increíblemente apasionado enfoque del equipo\nen Coraje ha tenido un efecto positivo en <chrname>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nuestro equipo está motivado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡El increíblemente apasionado enfoque del equipo\nen Inteligencia ha tenido un efecto positivo en <chrname>!"
     }
   ]
 }

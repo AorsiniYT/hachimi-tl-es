@@ -1,363 +1,363 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monólogo",
-            "text": "Incluso en sus recientes entrenamientos, <n>ha habido\nun cambio claro en el rendimiento de <n>Kawakami\nPrincess."
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¡Lo tengo! ¡Rrraaaagh!"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "<i>Jadeo... Jadeo...</i> Entrenador...",
-            "choice_data_list": [
-                "¡Esa fue una carrera excelente!"
-            ]
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "G-gracias... Pero todavía me estoy esforzando<n>\ndemasiado."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Es verdad, corrió demasiado fuerte en la<n> parte\ninicial de la carrera. No salió como<n> planeamos,\npero...",
-            "choice_data_list": [
-                "Has progresado sustancialmente.",
-                "Has progresado sustancialmente."
-            ]
-        },
-        {
-            "name": "Monólogo",
-            "text": "Antes, su cuerpo se ponía rígido solo<n> pensando en\nla carrera, y su forma se<n> desmoronaba como\nresultado."
-        },
-        {
-            "name": "Monólogo",
-            "text": "(Pero hoy, prestó mucha atención para<n> mantener sus\nmovimientos bajo <n>control. Ha aprendido a usar su\nfuerza con<n> intención y enfoque.)",
-            "choice_data_list": [
-                "Tu forma también está mejorando constantemente."
-            ]
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¡Oh! Ehehe... ¡Gracias! ♪"
-        },
-        {
-            "name": "Monólogo",
-            "text": "(Se ha acostumbrado lo suficiente a correr<n> que ya\nno se está esforzando demasiado<n> desde el\nprincipio. Quizás realmente <n>sea hora de...)",
-            "choice_data_list": [
-                "Tengo algo importante que discutir.",
-                "Tengo algo importante que discutir."
-            ]
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¿Algo importante?"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¡Delicioso! ¡Otra porción, por<n> favor, chef!"
-        },
-        {
-            "name": "Chef de Ramen",
-            "text": "Tienes agallas, jovencita. ¡Aquí,<n> toma otra\nporción de fideos!"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¡Mi entrenador paga hoy! Así que <n>planeo terminar\nal menos cinco porciones<n> más después de esta!"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Aun así, debo decir, Entrenador... Cuando dijiste<n>\n\"discusión importante\", nunca imaginé que la\n<n>tendríamos en un restaurante de ramen... Jeje."
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Esto es como en el episodio diez de Princess\n<n>Fighter, cuando el Entrenador Legendario <n>hace una\nconfesión importante...",
-            "choice_data_list": [
-                "Exacto. Por eso quería hablar aquí.",
-                "Exacto. Por eso quería hablar aquí."
-            ]
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Huh?",
-            "choice_data_list": [
-                "¡Quiero que entres a las Japanese Oaks!",
-                "¡Quiero que entres a las Japanese Oaks!"
-            ]
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¿¿¿L- las Oaks??? ¿¿¿Las Japanese <n>Oaks??? ¿¿¿En\nserio???"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¡Guau, guau, guau, guau, guau! ¡Pero <n>las Japanese\nOaks son una carrera G1! ¡Y no cualquier<n> carrera\nG1, sino la cumbre del tour de la Tiara,<n> que\nocurre una sola vez en la vida!",
-            "choice_data_list": [
-                "Este es el tipo de desafío que querías asumir,\n¿verdad?",
-                "Este es el tipo de desafío que querías asumir,\n¿verdad?"
-            ]
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "La Tiara es la corona de la princesa,<n> obtenible\nsolo en los escenarios más <n>grandes—las carreras\nG1."
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Y siempre me imaginé compitiendo<n> ferozmente en el\ntour de la Tiara,<n> despertando mi potencial en el\ncampo<n> de batalla como Princess Fighter."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Desde el principio, esto es lo<n> que ella ha soñado.",
-            "choice_data_list": [
-                "Es hora de dejar que tu poder de princesa\nflorezca."
-            ]
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "...!"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Ehe... Ehehe. ¡Gracias! ♪"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "...Y eso es lo que pasó, ¡King! ¿No es <n>increíble\nmi entrenador?!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Hmm. Bueno, puedo decir que fue una<n> propuesta\nbastante considerada. Pero ¿no<n> tienes una\nconferencia de prensa hoy?"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¿Rueda... de prensa?"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "AAAAHHH!"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¡L-l-l-la olvidé por completo! ¡Y el <n>Entrenador me\nlo recordó tantas veces!"
-        },
-        {
-            "name": "King Halo",
-            "text": "¿¿¿En serio??? ¡Oh, distraída! ¡Date prisa y<n>\nprepárate!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Te ayudaré, pero no esperes que lo<n> haga todo.\n¡Vamos, corre!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "La conferencia de prensa está por comenzar<n> en un\nminuto. He intentado contactar<n> a Kawakami Princess\nvarias veces, pero<n> no ha respondido..."
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¡Entrenadooor! ¡Lo siento muchísimo!"
-        },
-        {
-            "name": "King Halo",
-            "text": "<i>Jadeo... Jadeo...</i> ¿Llegamos a<n> tiempo?",
-            "choice_data_list": [
-                "¡Entremos rápido al lugar!"
-            ]
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¡Sí! ¡Entremos directos! Carguemos... <n>¿carguemos?"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¿¿¿C-carguemos???"
-        },
-        {
-            "name": "Monólogo",
-            "text": "<i>Crash!</i>"
-        },
-        {
-            "name": "Moderador",
-            "text": "L-la puerta... La derribó de una<n> sola patada..."
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¿¿¿L-legué??? ¡Soy yo! ¡Kawakami<n> Princess!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "...",
-            "choice_data_list": [
-                "¡Lamentamos mucho esto!"
-            ]
-        },
-        {
-            "name": "Reportero A",
-            "text": "Pfft... ¡Jajaja! ¡Qué Uma Musume <n>impredecible!\n¡Nunca en toda mi vida...!"
-        },
-        {
-            "name": "Reportero B",
-            "text": "¡Ahaha! Dímelo a mí. ¡Ojalá lo<n> hubiera grabado!\nImagina la <n>reacción del editor."
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¿¿¿En serio??? ¡Entonces puedo hacerlo una vez\nmás!",
-            "choice_data_list": [
-                "¡Espera! ¡Espera!"
-            ]
-        },
-        {
-            "name": "Reporteros",
-            "text": "Ahahaha!"
-        },
-        {
-            "name": "Umamusume de Alrededor",
-            "text": "..."
-        },
-        {
-            "name": "Moderador",
-            "text": "Bien, recuperemos la compostura y comencemos<n> con\nlas entrevistas a las corredoras. Primero..."
-        },
-        {
-            "name": "Umamusume de Pelo Castaño",
-            "text": "Sí. Primero me gustaría agradecerles<n> a todos por\nestar aquí hoy. He perseguido<n> el tour de la Tiara\nhasta ahora con el<n> objetivo de ganar las Japanese\nOaks."
-        },
-        {
-            "name": "Umamusume de Pelo Castaño",
-            "text": "Cada esfuerzo que he puesto en esto se verá<n>\nreflejado en mis resultados. Gracias."
-        },
-        {
-            "name": "Reportero C",
-            "text": "Guau, está la favorita abrumadora, tan<n> segura y\ndigna. No es de extrañar<n> que sea la contendiente\nmás <n>popular en el tour de la Tiara."
-        },
-        {
-            "name": "Moderador",
-            "text": "A continuación, tenemos a..."
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¡S-sí! ¿Es a mí?!",
-            "choice_data_list": [
-                "Todavía no, Princess."
-            ]
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Huh... ¿No?! Bien, entonces, la siguiente\n<n>corredora... ¡por favor!"
-        },
-        {
-            "name": "Reporteros",
-            "text": "Pfft..."
-        },
-        {
-            "name": "Moderador",
-            "text": "Finalmente, tomaremos preguntas de la<n> audiencia.\n¡Levanten la mano si <n>tienen algo que preguntar!"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Okay!",
-            "choice_data_list": [
-                "?!"
-            ]
-        },
-        {
-            "name": "Moderador",
-            "text": "S-sí, ¿Kawakami Princess?"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¡Tú, con el accesorio de oreja a rayas <n>amarillas y\nrosadas! ¿Tu adorno para el cabello<n> está basado en\nHoney Lemon Princess <i>de<n> <i>Sugar Love♪Princess\nFighter?!</i>"
-        },
-        {
-            "name": "Umamusume de Pelo Oscuro",
-            "text": "M-me?!"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¡Sí! ¡A ti también te encanta Princess Fighter,\n<n>¿verdad?! ¡Yo soy una gran fan! ¡Eso era todo lo\nque quería<n> preguntar!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "...",
-            "choice_data_list": [
-                "Por favor, pasen a la siguiente pregunta."
-            ]
-        },
-        {
-            "name": "Reporteros",
-            "text": "Pfft... ¡Ahahaha! ¡Usted y su entrenador<n> forman\nuna combinación única! ¡Seguro <n>que ganarán muchos\nfans!"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¿Huh? ¿¿¿En serio??? ¡G-gracias por <n>decirlo!"
-        },
-        {
-            "name": "Umamusume de Pelo Castaño",
-            "text": "Oye, esta es una conferencia de prensa para\n<n>corredoras que entran a las Japanese Oaks. ¿No<n>\ncrees que deberías comportarte <n>más apropiadamente?"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Oh... ¡cierto! ¡Soy Kawakami<n> Princess! Mi objetivo\neste año es <n>entrar a las Japanese Oaks y..."
-        },
-        {
-            "name": "Reporteros",
-            "text": "Jajaja, no necesitamos <n>una autopresentación en\neste punto. Jeje, solo<n> relájate y responde las\npreguntas."
-        },
-        {
-            "name": "Umamusume de Pelo Castaño",
-            "text": "..."
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Se acabó... Finalmente terminó...",
-            "choice_data_list": [
-                "Trabajemos en mantener la calma para la próxima\nvez."
-            ]
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Ughh, tienes razón... Supongo que también<n> tendré\nque entrenar en eso, ¿verdad?"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Aunque ya se ha acostumbrado a las carreras,<n>\nparece que aún tiene mucho margen para crecer<n>\nmentalmente."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Sin embargo, si puede aprender a mantenerse<n> firme\ny serena, mejorará su consistencia<n> en las carreras\ntambién."
-        },
-        {
-            "name": "Reportero D",
-            "text": "¡Oh, Kawakami Princess! ¿Tienes un<n> momento?"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Sí, ¿qué es?"
-        },
-        {
-            "name": "Reportero D",
-            "text": "Jaja, solo quería darte unas palabras<n> de ánimo.\nMis hijos son grandes<n> admiradores tuyos."
-        },
-        {
-            "name": "Reportero D",
-            "text": "Te estarán viendo en los Japanese <n>Oaks con sus\namigos. Así que, eh, ¡por<n> favor, dale todo!"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "..."
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "¡Ohhhh! ¡Déjalo en mis manos!"
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Entrenador, ¡voy a quedar en primer lugar en los<n>\nJapanese Oaks! ¡Una princesa debe reclamar<n> la\nvictoria!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Como si alguien hubiera accionado un<n> interruptor,\nKawakami Princess pasa<n> de desanimada a llena de\nenergía. Aún tiene un<n> largo camino por recorrer,\npero hacemos una promesa<n> para ganar los Japanese\nOaks."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Incluso en sus recientes entrenamientos, ha habido\nun cambio claro en el rendimiento de Kawakami\nPrincess."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Lo tengo! ¡Rrraaaagh!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>Jadeo... Jadeo...</i> Entrenador...",
+      "choice_data_list": [
+        "¡Esa fue una carrera excelente!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "G-gracias... Pero todavía me estoy esforzando\ndemasiado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es verdad, corrió demasiado fuerte en la parte\ninicial de la carrera. No salió como planeamos,\npero...",
+      "choice_data_list": [
+        "Has progresado sustancialmente.",
+        "Has progresado sustancialmente."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes, su cuerpo se ponía rígido solo pensando en\nla carrera, y su forma se desmoronaba como\nresultado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Pero hoy, prestó mucha atención para mantener sus\nmovimientos bajo control. Ha aprendido a usar su\nfuerza con intención y enfoque.)",
+      "choice_data_list": [
+        "Tu forma también está mejorando constantemente."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Oh! Ehehe... ¡Gracias! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Se ha acostumbrado lo suficiente a correr que ya\nno se está esforzando demasiado desde el\nprincipio. Quizás realmente sea hora de...)",
+      "choice_data_list": [
+        "Tengo algo importante que discutir.",
+        "Tengo algo importante que discutir."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿Algo importante?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Delicioso! ¡Otra porción, por favor, chef!"
+    },
+    {
+      "name": "Chef de Ramen",
+      "text": "Tienes agallas, jovencita. ¡Aquí, toma otra\nporción de fideos!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Mi entrenador paga hoy! Así que planeo terminar\nal menos cinco porciones más después de esta!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Aun así, debo decir, Entrenador... Cuando dijiste\n\"discusión importante\", nunca imaginé que la\ntendríamos en un restaurante de ramen... Jeje."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Esto es como en el episodio diez de Princess\nFighter, cuando el Entrenador Legendario hace una\nconfesión importante...",
+      "choice_data_list": [
+        "Exacto. Por eso quería hablar aquí.",
+        "Exacto. Por eso quería hablar aquí."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Huh?",
+      "choice_data_list": [
+        "¡Quiero que entres a las Japanese Oaks!",
+        "¡Quiero que entres a las Japanese Oaks!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿¿¿L- las Oaks??? ¿¿¿Las Japanese Oaks??? ¿¿¿En\nserio???"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Guau, guau, guau, guau, guau! ¡Pero las Japanese\nOaks son una carrera G1! ¡Y no cualquier carrera\nG1, sino la cumbre del tour de la Tiara, que\nocurre una sola vez en la vida!",
+      "choice_data_list": [
+        "Este es el tipo de desafío que querías asumir,\n¿verdad?",
+        "Este es el tipo de desafío que querías asumir,\n¿verdad?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "La Tiara es la corona de la princesa, obtenible\nsolo en los escenarios más grandes—las carreras\nG1."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Y siempre me imaginé compitiendo ferozmente en el\ntour de la Tiara, despertando mi potencial en el\ncampo de batalla como Princess Fighter."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desde el principio, esto es lo que ella ha soñado.",
+      "choice_data_list": [
+        "Es hora de dejar que tu poder de princesa\nflorezca."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ehe... Ehehe. ¡Gracias! ♪"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...Y eso es lo que pasó, ¡King! ¿No es increíble\nmi entrenador?!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Hmm. Bueno, puedo decir que fue una propuesta\nbastante considerada. Pero ¿no tienes una\nconferencia de prensa hoy?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿Rueda... de prensa?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "AAAAHHH!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡L-l-l-la olvidé por completo! ¡Y el Entrenador me\nlo recordó tantas veces!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¿¿¿En serio??? ¡Oh, distraída! ¡Date prisa y\nprepárate!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Te ayudaré, pero no esperes que lo haga todo.\n¡Vamos, corre!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La conferencia de prensa está por comenzar en un\nminuto. He intentado contactar a Kawakami Princess\nvarias veces, pero no ha respondido..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Entrenadooor! ¡Lo siento muchísimo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>Jadeo... Jadeo...</i> ¿Llegamos a tiempo?",
+      "choice_data_list": [
+        "¡Entremos rápido al lugar!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Sí! ¡Entremos directos! Carguemos... ¿carguemos?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿¿¿C-carguemos???"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Crash!</i>"
+    },
+    {
+      "name": "Moderador",
+      "text": "L-la puerta... La derribó de una sola patada..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿¿¿L-legué??? ¡Soy yo! ¡Kawakami Princess!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...",
+      "choice_data_list": [
+        "¡Lamentamos mucho esto!"
+      ]
+    },
+    {
+      "name": "Reportero A",
+      "text": "Pfft... ¡Jajaja! ¡Qué Uma Musume impredecible!\n¡Nunca en toda mi vida...!"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡Ahaha! Dímelo a mí. ¡Ojalá lo hubiera grabado!\nImagina la reacción del editor."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿¿¿En serio??? ¡Entonces puedo hacerlo una vez\nmás!",
+      "choice_data_list": [
+        "¡Espera! ¡Espera!"
+      ]
+    },
+    {
+      "name": "Reporteros",
+      "text": "Ahahaha!"
+    },
+    {
+      "name": "Umamusume de Alrededor",
+      "text": "..."
+    },
+    {
+      "name": "Moderador",
+      "text": "Bien, recuperemos la compostura y comencemos con\nlas entrevistas a las corredoras. Primero..."
+    },
+    {
+      "name": "Umamusume de Pelo Castaño",
+      "text": "Sí. Primero me gustaría agradecerles a todos por\nestar aquí hoy. He perseguido el tour de la Tiara\nhasta ahora con el objetivo de ganar las Japanese\nOaks."
+    },
+    {
+      "name": "Umamusume de Pelo Castaño",
+      "text": "Cada esfuerzo que he puesto en esto se verá\nreflejado en mis resultados. Gracias."
+    },
+    {
+      "name": "Reportero C",
+      "text": "Guau, está la favorita abrumadora, tan segura y\ndigna. No es de extrañar que sea la contendiente\nmás popular en el tour de la Tiara."
+    },
+    {
+      "name": "Moderador",
+      "text": "A continuación, tenemos a..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡S-sí! ¿Es a mí?!",
+      "choice_data_list": [
+        "Todavía no, Princess."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Huh... ¿No?! Bien, entonces, la siguiente\ncorredora... ¡por favor!"
+    },
+    {
+      "name": "Reporteros",
+      "text": "Pfft..."
+    },
+    {
+      "name": "Moderador",
+      "text": "Finalmente, tomaremos preguntas de la audiencia.\n¡Levanten la mano si tienen algo que preguntar!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Okay!",
+      "choice_data_list": [
+        "?!"
+      ]
+    },
+    {
+      "name": "Moderador",
+      "text": "S-sí, ¿Kawakami Princess?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Tú, con el accesorio de oreja a rayas amarillas y\nrosadas! ¿Tu adorno para el cabello está basado en\nHoney Lemon Princess <i>de <i>Sugar Love♪Princess\nFighter?!</i>"
+    },
+    {
+      "name": "Umamusume de Pelo Oscuro",
+      "text": "M-me?!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Sí! ¡A ti también te encanta Princess Fighter,\n¿verdad?! ¡Yo soy una gran fan! ¡Eso era todo lo\nque quería preguntar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...",
+      "choice_data_list": [
+        "Por favor, pasen a la siguiente pregunta."
+      ]
+    },
+    {
+      "name": "Reporteros",
+      "text": "Pfft... ¡Ahahaha! ¡Usted y su entrenador forman\nuna combinación única! ¡Seguro que ganarán muchos\nfans!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿Huh? ¿¿¿En serio??? ¡G-gracias por decirlo!"
+    },
+    {
+      "name": "Umamusume de Pelo Castaño",
+      "text": "Oye, esta es una conferencia de prensa para\ncorredoras que entran a las Japanese Oaks. ¿No\ncrees que deberías comportarte más apropiadamente?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Oh... ¡cierto! ¡Soy Kawakami Princess! Mi objetivo\neste año es entrar a las Japanese Oaks y..."
+    },
+    {
+      "name": "Reporteros",
+      "text": "Jajaja, no necesitamos una autopresentación en\neste punto. Jeje, solo relájate y responde las\npreguntas."
+    },
+    {
+      "name": "Umamusume de Pelo Castaño",
+      "text": "..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Se acabó... Finalmente terminó...",
+      "choice_data_list": [
+        "Trabajemos en mantener la calma para la próxima\nvez."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ughh, tienes razón... Supongo que también tendré\nque entrenar en eso, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque ya se ha acostumbrado a las carreras,\nparece que aún tiene mucho margen para crecer\nmentalmente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, si puede aprender a mantenerse firme\ny serena, mejorará su consistencia en las carreras\ntambién."
+    },
+    {
+      "name": "Reportero D",
+      "text": "¡Oh, Kawakami Princess! ¿Tienes un momento?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Sí, ¿qué es?"
+    },
+    {
+      "name": "Reportero D",
+      "text": "Jaja, solo quería darte unas palabras de ánimo.\nMis hijos son grandes admiradores tuyos."
+    },
+    {
+      "name": "Reportero D",
+      "text": "Te estarán viendo en los Japanese Oaks con sus\namigos. Así que, eh, ¡por favor, dale todo!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Ohhhh! ¡Déjalo en mis manos!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Entrenador, ¡voy a quedar en primer lugar en los\nJapanese Oaks! ¡Una princesa debe reclamar la\nvictoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como si alguien hubiera accionado un interruptor,\nKawakami Princess pasa de desanimada a llena de\nenergía. Aún tiene un largo camino por recorrer,\npero hacemos una promesa para ganar los Japanese\nOaks."
+    }
+  ]
 }
