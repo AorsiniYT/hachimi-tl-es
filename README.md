@@ -1,4 +1,9 @@
-# Traducciones al Español para Umamusume: Pretty Derby
+<h2 align="center">
+
+![](media/banner.png)
+
+<i>Traducciones al español de Umamusume: Pretty Derby (Global Steam)</i>
+</h2>
 
 Repositorio de traducciones fan al español para el juego Umamusume: Pretty Derby.
 Esta es una adaptación de las traducciones del proyecto [UmaTL] para uso con el patch [Hachimi].
