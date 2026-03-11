@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Después de terminar todo en el horario de\nentrenamiento de hoy...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Gracias por hoy."
+    },
+    {
+      "text": "Admire Vega se dirige en dirección opuesta al\nvestuario.",
+      "choice_data_list": [
+        "¿A dónde vas?",
+        "¿A dónde vas?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Voy a correr por el parque y luego volver por la\nribera del río."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Después, correré al parque con la colina grande, y\nuna vez que regrese, debería llegar justo a tiempo\npara el toque de queda."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Todavía tengo más energía para quemar... Así que\nvoy a hacer más entrenamiento.",
+      "choice_data_list": [
+        "Te acompañaré.",
+        "Guarda algo de energía para mañana."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Me acompañarás? No hay manera de que puedas\nseguir el ritmo..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Bueno, como sea. En ese caso, solo correré en la\npista. Por favor, vigila mi forma."
+    },
+    {
+      "text": "Con eso, me quedo con Admire Vega durante varias\nhoras mientras ella se concentra en su carrera.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Pero... la práctica extra que hago hoy puede\nayudar con la sesión de mañana."
+    },
+    {
+      "text": "Le explico la importancia del descanso adecuado a\nAdmire Vega.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Bueno, si lo pones así... Estás <i>hablando</i> desde </i>una\nposición de responsabilidad después de todo."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "A cambio, asegúrate de que el entrenamiento de\nmañana compense mi descanso."
+    }
+  ]
+}

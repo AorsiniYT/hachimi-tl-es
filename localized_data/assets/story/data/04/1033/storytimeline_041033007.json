@@ -1,0 +1,236 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Hoy marca el inicio del campamento de verano. He\npreparado dos regímenes de entrenamiento\ndiferentes para Admire Vega.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "En resumen, hay uno que puede hacer sola y otro\nque requeriría que los dos trabajemos en equipo.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...",
+      "choice_data_list": [
+        "Entonces, ¿qué opinas?"
+      ]
+    },
+    {
+      "text": "Le muestro ambas opciones y dejo claro que estoy\nbien con cualquiera, pero ella está tomando un\ntiempo inusualmente largo para responder.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Déjame pensarlo."
+    },
+    {
+      "text": "Ella toma ambas hojas impresas y se dirige a su\nalojamiento.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Estos regímenes... ambos están realmente bien\npensados.)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Incluso los ejercicios más básicos han sido\najustados para sacar mis fortalezas...)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Todo el programa de entrenamiento está adaptado\npara mi forma de correr... para mí.)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(El entrenador dijo que cualquiera está bien, pero\nes obvio al compararlos— lo que necesito ahora...\nes trabajar junto con mi entrenador.)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Pero aún así...)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Entrenador? Sobre mi régimen, um..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Yo... yo creo..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Que yo... yo necesito..."
+    },
+    {
+      "text": "Ella lucha por encontrar las palabras. Su\nrespuesta ya está formada—ella simplemente no\npuede obligarse a decirlo en voz alta.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Puedo decir que no quiere herir mis sentimientos.",
+      "choice_data_list": [
+        "Está bien.",
+        "Está bien."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Huh?",
+      "choice_data_list": [
+        "La elección es tuya.",
+        "La elección es tuya."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Sí. Gracias."
+    },
+    {
+      "text": "Ella elige el régimen en solitario.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Observo su progreso, tomando notas como siempre.\nHaré con gusto lo que sea para apoyarla.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Por la noche, abro su lectura recomendada y miro\nhacia el cielo, donde el Triángulo de Verano se\ndestaca sobre el resto.",
+      "choice_data_list": [
+        "Vega, y Deneb, y... ¿cuál era el tercero?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Estoy hojear el libro, tratando de encontrar la\npágina correcta, cuando...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Altair... La estrella más brillante en Aquila."
+    },
+    {
+      "text": "Admire Vega aparece a mi lado.",
+      "choice_data_list": [
+        "¿También aquí para ver las estrellas?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí... creo que sí."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...¿Entrenador?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "El entrenamiento de hoy fue... agradable. Se\nsintió que valió la pena... como si estuviera\nlogrando un progreso real.",
+      "choice_data_list": [
+        "¿¡En serio?!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Y-sí... Pero, um..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Cuanto más haces por mi bien, más me duele el\ncorazón."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Todas tus expectativas, tu trabajo duro, ellos...\ndeberían haber sido para mi hermana, no para mí..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Y aún así... aquí estoy...",
+      "choice_data_list": [
+        "¿Quién dice que no puedes compartir?",
+        "¿Quién dice que no puedes compartir?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Huh?"
+    },
+    {
+      "text": "No puedo pretender saber mucho sobre su hermana.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Sin embargo, sé que su hermana es muy querida para\nella... y también una fuente de gran dolor.",
+      "choice_data_list": [
+        "Si corres por el bien de tu hermana...",
+        "Si corres por el bien de tu hermana..."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Todos los horarios que elaboro, todo el consejo\nque doy—no están destinados solo para ella.",
+      "choice_data_list": [
+        "Entonces, todo lo que hago <i>es por <i>ambas</i>.</i>",
+        "Entonces, todo lo que hago <i>es por <i>ambas</i>.</i>"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Para... nosotras?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ambas... yo... y ella..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Ah... así que eso era lo que era.)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Aquella vez que me di la vuelta sin ir a ver las\nestrellas...)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(O inicié una conversación en el planetario...)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Quizás no era yo... sino <i>nosotras</i> todo el\ntiempo.)",
+      "choice_data_list": [
+        "¿Ayabe?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "text": "Ella toma asiento a mi lado, mira hacia el cielo\ndeslumbrante...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Supongo que podría enseñarte un par de cosas."
+    },
+    {
+      "text": "...Y me susurra los secretos de las estrellas que\nviajaron años luz para brillar intensamente aquí\nesta noche.",
+      "name": "Monólogo"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Espectadores",
+      "text": "<i>Charla, charla...</i>"
+    },
+    {
+      "name": "Aficionado a las Carreras A",
+      "text": "¡Es la hora, es la hora! ¡Finalmente vamos a ver a\nAdmire Vega, T.M. Opera O, Narita Top Road y\nMeisho Doto enfrentarse!"
+    },
+    {
+      "name": "Aficionado a las Carreras B",
+      "text": "Doto realmente dio un paso al frente para\nenfrentar a los tres grandes de los Clásicos del\naño pasado. ¡Me alegra tanto estar aquí para ver\ntodo esto!"
+    },
+    {
+      "name": "Aficionado A de Ayabe",
+      "text": "¡Pero Admire Vega definitivamente ganará el escudo\nde otoño. ¡Ha estado arrasando con la competencia!\n¡Es impecable!"
+    },
+    {
+      "name": "Aficionado A de Opera O",
+      "text": "¡Ni modo, será Opera O seguro! ¡Tiene esa fuerza\ninexplicable que definitivamente la hará la mejor\nde su generación!"
+    },
+    {
+      "name": "Aficionado A de Top Road",
+      "text": "...¡N-no hay manera! ¡Ni una posibilidad!"
+    },
+    {
+      "name": "Aficionado B de Top Road",
+      "text": "¡Top Road va a ganar hoy seguro! ¡Sin duda!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "text": "Con la carrera por comenzar pronto, Admire Vega\nestá lista. La veo tomar un respiro profundo, y de\nrepente tengo el impulso de preguntarle algo.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Ahora que lo pienso, nunca le he preguntado esto\nantes.",
+      "choice_data_list": [
+        "¿Estás nerviosa?",
+        "¿Estás nerviosa?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Sí. Un poco.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Creo... Tengo muchas cosas en la mente ahora\nmismo."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Hasta ahora, todo lo que podía pensar era en ganar\npara cumplir mi deber. Era simple."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Pero ahora..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Pienso en el vigor interminable de Opera O... y la\ntenacidad de Doto..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Y la determinación de Top Road."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Pienso en el deseo de todos de ganar... incluyendo\nel mío."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Pienso en la emoción de dirigirse a una carrera. Y\nel miedo justo antes de que comience."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Todo... rebotando en mi cabeza."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Así que sí... Me siento nerviosa.",
+      "choice_data_list": [
+        "Eso es..."
+      ]
+    },
+    {
+      "text": "Quiero decirle que es una buena clase de tensión,\npero me detengo...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Ella debería aferrarse a este sentimiento un poco\nmás.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Official",
+      "text": "¡Admire Vega! ¡Por favor, dirígete al corral!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Es la hora.",
+      "choice_data_list": [
+        "¡Ve a por ellos, Ayabe!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Volveré después de ganar."
+    }
+  ]
+}

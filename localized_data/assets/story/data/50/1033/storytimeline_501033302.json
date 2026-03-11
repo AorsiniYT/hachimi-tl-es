@@ -1,0 +1,452 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "A principios de año, Admire Vega y yo estamos\ncomprando lo necesario cuando...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado",
+      "text": "¡Aquí tienes, un boleto de rifa extra! ¡Gracias\npor comprar aquí!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...¿Un boleto de rifa?..."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Acérquense y prueben suerte en nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Los ganadores del primer premio reciben un filete\nde hamburguesa de zanahoria de lujo! ¡Los\nganadores del segundo premio reciben un montón de\nzanahorias! ¡Y los ganadores del tercer premio\npueden llevarse a casa una sola zanahoria!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue un\nboleto ahora y gira para tener la oportunidad de\nganar!",
+      "choice_data_list": [
+        "Esto debe ser parte de ese evento de ofertas que\nhay.",
+        "Esto debe ser parte de ese evento de ofertas que\nhay."
+      ]
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Eh, ustedes dos! ¡Tienen un boleto! ¿Por qué no\nprueban suerte?"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Podrían ganar un viaje a aguas termales con\npaisajes increíbles en el campo! ¡El cielo\nestrellado seguramente les ayudará a relajarse!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...",
+      "choice_data_list": [
+        "(Parece que eso podría haber despertado su\ninterés.)",
+        "(Parece que eso podría haber despertado su\ninterés.)"
+      ]
+    },
+    {
+      "text": "En ese caso...",
+      "choice_data_list": [
+        "Ya que estamos aquí, ¿por qué no lo intentamos?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Ella ya tiene un boleto. Sería una lástima\ndesperdiciarlo.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Es cierto... Sería un desperdicio."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "Muy bien, ¿listos para intentarlo? ¿Qué tal si lo\nhacen juntos? ¡Giren la tómbola con todo su\ncorazón!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "Muy bien, ¿listos para intentarlo? ¿Qué tal si lo\nhacen juntos? ¡Giren la tómbola con todo su\ncorazón!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Corazón?",
+      "choice_data_list": [
+        "¡Vamos a ganar ese gran premio, Ayabe!",
+        "¡Vamos a ganar ese gran premio, Ayabe!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Espera. ¿Qué quiere decir con 'corazón'?"
+    },
+    {
+      "text": "Ayabe y yo giramos la máquina de lotería con más\nfuerza!",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Una pequeña bola de plástico cae de la abertura de\nla tómbola...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Caramba! ¡Tenemos un ganador del gran premio!\n¡Vengan a recoger el cupón para sus vacaciones en\naguas termales! ¡Felicitaciones!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Huh?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Qué? ¿El gran premio? ¿En serio?",
+      "choice_data_list": [
+        "¡Lo lograste, Ayabe!",
+        "¡Lo lograste, Ayabe!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "E-eh... gracias..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "text": "¿Tal vez Admire Vega está en shock? Ella mira el\ncupón por un tiempo.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Cuando finalmente empieza a hablar...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Aquí... ¿Puedes guardarlo?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Para ser honesto, no sé realmente qué quiero\nhacer."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Realmente quiero ir? O solo estoy... No lo sé."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Pero no es que ver un cielo estrellado especial no\nme interese."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Si se acerca demasiado a la fecha de vencimiento,\npuedes usarlo como quieras."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Así que—",
+      "choice_data_list": [
+        "Yo lo guardaré por ti.",
+        "Yo lo guardaré por ti."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...!",
+      "choice_data_list": [
+        "Esperaré a que tomes tu decisión.",
+        "Esperaré a que tomes tu decisión."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Está bien."
+    },
+    {
+      "text": "Y así es como termino con el cupón para vacaciones\nen aguas termales hasta que Admire Vega se decida.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes un filete de\nhamburguesa de zanahoria de lujo!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Primer premio...",
+      "choice_data_list": [
+        "¡Casi!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Aún es bastante suerte."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Se siente pesado... Apuesto a que es llenador y\nsabe genial."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Deberíamos comerlo esta noche?",
+      "choice_data_list": [
+        "¿Qué? ¿Me incluyes?",
+        "¿Qué? ¿Me incluyes?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Huh?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Por qué no?",
+      "choice_data_list": [
+        "Ese fue tu boleto de rifa, así que debería ser\ntuyo.",
+        "Ese fue tu boleto de rifa, así que debería ser\ntuyo."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Es cierto, pero..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Normalmente no como cosas caras como esta.",
+      "choice_data_list": [
+        "¡Una razón más para celebrar tu tirada de suerte!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "What?"
+    },
+    {
+      "text": "Antes de regresar, compramos algunas cosas en el\ndistrito comercial.",
+      "choice_data_list": [
+        "Primero, <i>unos <i>deliciosos</i> aperitivos."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...¿Vas a actuar así el resto del día?"
+    },
+    {
+      "text": "Disfrutamos de una comida completa con el filete\nde hamburguesa como plato principal.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un montón de\nzanahorias!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Zanahorias... Muchas..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ni siquiera creo que podamos terminarlas todas\nnosotros...",
+      "choice_data_list": [
+        "¿Quieres compartirlas con todos?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Con todos?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Oh..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Mmm! ¡Este sándwich de ensalada de zanahoria\nrallada es fantástico!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí! ¡Está tan bien sazonado y es súper ligero!\nSiento que podría comer un montón sin llenarme."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Pero eso estaría bien, ¿no?! ¡Siento que ya he\ncomido mucho!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Los sirvo porque quiero que se coman todos.\nPuedes comer tantos como quieras."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "También te debo por esas bolas de arroz..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Yay! ¡Entonces no me contendré!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Spe, ten cuidado de no atragantarte..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Muchas gracias, Ayabe. Yo también tomaré un poco."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Esto quedaría genial con... café. Creo que también\ntomaré uno."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Poder comer con una mano ciertamente es más\neficiente... el equilibrio nutricional de los\ningredientes también es perfecto."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Ja ja ja! De hecho, no debería tener problema en\nreclutar a alguien para que me alimente mientras\nestoy en medio de mis experimentos!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Usa tus propias manos, maldición!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Guau! ¡Son tan coloridos! ¿Puedo tomar uno para\ncomer mientras leo?"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Jaja! ¡Es como si el destino nos hubiera atraído\naquí! ☆ ¡Unidos por estos maravillosos sándwiches!\n★☆"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Creo que invitamos a demasiada gente..."
+    },
+    {
+      "text": "La voz de Admire Vega rezuma arrepentimiento, pero\nmirando su rostro, no parece realmente importarle.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Miren aquí! ¡Han ganado el tercer premio! ¡Aquí\nestá su zanahoria!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Una sola zanahoria...",
+      "choice_data_list": [
+        "Lamento que no sea el gran premio.",
+        "Lamento que no sea el gran premio."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Eso no es muy fácil de conseguir. Supongo que esto\nes mejor que nada."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Está bien... Es un premio decente."
+    },
+    {
+      "text": "De vuelta de la rifa...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Hermanas jóvenes (Hermana menor)",
+      "text": "<i>Snif...</i> Lo siento, hermana..."
+    },
+    {
+      "name": "Hermanas jóvenes (Hermana mayor)",
+      "text": "¡No tienes que llorar! ¡Yo también lo olvidé,\nAiko!"
+    },
+    {
+      "name": "Hermanas jóvenes (Hermana mayor)",
+      "text": "Pero no podemos hacer curry sin una zanahoria...\n¿Qué hará mamá?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Eh. ¿Dijiste que olvidaste comprar una zanahoria?"
+    },
+    {
+      "name": "Hermanas jóvenes (Hermana mayor)",
+      "text": "Oh, eh... sí. Nuestra mamá nos pidió que fuéramos\nde compras."
+    },
+    {
+      "name": "Hermanas jóvenes (Hermana menor)",
+      "text": "<i>Snif...</i> ¡Es mi culpa! Estaba mirando dulces y me\nolvidé de ayudar!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ya veo... Es admirable que reflexiones sobre tu\nerror."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Como recompensa... Te daré esta zanahoria."
+    },
+    {
+      "name": "Hermanas jóvenes (Hermana menor)",
+      "text": "<i>Hip...</i> ¿Eh?"
+    },
+    {
+      "name": "Hermanas jóvenes (Hermana mayor)",
+      "text": "¿Qué? ¿E-estás segura?!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí. Aquí, tómala."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ustedes dos se llevan bien. ...Tengan cuidado con\nlos autos en el camino a casa."
+    },
+    {
+      "text": "Admire Vega habla suavemente mientras entrega la\nzanahoria a las dos hermanas que aún se sostienen\nfirmemente de la mano.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Oh, mala suerte! ¡Parece que sacaste un boleto\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Nada..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Bueno... Eso pasa a veces."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No se puede hacer nada."
+    },
+    {
+      "text": "Es su reacción habitual de imperturbabilidad, pero\npuedo decir que se siente más decaída de lo\nnormal.",
+      "name": "Monólogo"
+    }
+  ]
+}

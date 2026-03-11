@@ -1,0 +1,100 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Admire Vega",
+      "text": "Te dije que no es gran cosa. Solo me la torcí un\npoco cuando bajé."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No necesitabas llevarme a la enfermería."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ya me siento bien. ¿Me estás escuchando? Necesito\nseguir entrenando.",
+      "choice_data_list": [
+        "¿Realmente crees que estás en condiciones de\ncontinuar?",
+        "¿Realmente crees que estás en condiciones de\ncontinuar?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No tengo tiempo para estar acostado. Necesito\nestar en mis pies y corriendo. Yo...",
+      "choice_data_list": [
+        "Se necesita fuerza para superar la impaciencia.",
+        "Eso es muy típico de ti. Muy bien, pero ten\ncuidado.",
+        "Eso es muy típico de ti. Muy bien, pero ten\ncuidado."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No tengo tiempo para estar tirado. Necesito estar\nen movimiento y corriendo. Yo...",
+      "choice_data_list": [
+        "Se necesita fuerza para superar la impaciencia.",
+        "Eso es muy típico de ti. Muy bien, pero ten\ncuidado.",
+        "Eso es muy típico de ti. Muy bien, pero ten\ncuidado."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Superar mi impaciencia...",
+      "choice_data_list": [
+        "Esperemos hasta que estés completamente\nrecuperado."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Bien... Entendido. Entonces descansaré un poco."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Después de todo, eres mi entrenador."
+    },
+    {
+      "text": "Aunque algo reacia, Admire Vega escucha mi\nconsejo.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Es solo una lesión leve. Todavía puedo moverme—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Urgh...",
+      "choice_data_list": [
+        "No importa. Necesitamos volver a la enfermería."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "text": "Acompaño a la desanimada Admire Vega de vuelta a\nla enfermería.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>Sigh...</i>",
+      "choice_data_list": [
+        "¿Te duele?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Estoy bien. Ni siquiera fue una lesión seria en\nprimer lugar."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No necesitas seguir mirándolo. Estás arruinando mi\nconcentración."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Muy bien, empiezo."
+    },
+    {
+      "text": "Admire Vega regresa al entrenamiento mientras\ntiene cuidado de no empeorar su lesión.",
+      "name": "Monólogo"
+    }
+  ]
+}

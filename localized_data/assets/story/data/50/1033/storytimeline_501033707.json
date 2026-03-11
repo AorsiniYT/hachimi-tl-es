@@ -1,0 +1,140 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Admire Vega ha estado sintiéndose mal\nrecientemente, así que decido llevarla a un\nsantuario para intentar animarla.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Está tranquilo."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "text": "Ella inclina la cabeza hacia el cielo. Parece como\nsi cualquier tensión que sintiera estuviera\ncomenzando a aliviarse.",
+      "choice_data_list": [
+        "¿Qué estás mirando?",
+        "¿Qué estás mirando?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Las estrellas. Aunque no sean visibles durante el\ndía, sé que están allá arriba."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "<i>¡Huff! ¡Puff! ¡Huff!</i>"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Wheeew! ¡Ah, Ayabe y su entrenador! ¡Qué\ncoincidencia!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Lo es. ¿Estás practicando correr en la carretera?"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Sí! ¡Este es el punto donde la pista gira de\nvuelta hacia la academia!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Si aún no has visitado el santuario, ¿te gustaría\nentrar juntos? ¡Suelo ofrecer una oración antes de\nregresar!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Pasare. Solo vine aquí para un cambio de ambiente."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Ya veo. Bueno, ¡voy a ir al santuario entonces!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Rezaré para que ambos estemos en óptimas\ncondiciones para nuestras carreras!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Qué... quieres decir con eso?"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Ese es solo el deseo que quiero que se cumpla! No\nquiero que ninguno de los dos tenga un accidente\nrepentino o se enferme o algo!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Obviamente, si corres bien o no es completamente\nresponsabilidad tuya!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡De todos modos, me voy! ¡Nos vemos!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Dame un respiro..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Entrenador, ¿puedes venir conmigo al santuario?",
+      "choice_data_list": [
+        "Claro. Pero pensé que no tenías ganas.",
+        "Claro. Pero pensé que no tenías ganas."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Bueno, ahora sí. Supongo que mejoré."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Además... Tengo un favor que devolver."
+    },
+    {
+      "text": "Su cara brilla alegremente mientras habla. Con\neso, ambos vamos a rezar al santuario.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Es así... ¿Eh?"
+    },
+    {
+      "text": "Oímos un sonido de retumbo en la distancia.",
+      "choice_data_list": [
+        "¿Es eso..."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "<i>Plip... Plip, plop... FSSSHHH!</i>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Gahh! ¡Lluvia?!"
+    },
+    {
+      "text": "De repente el cielo se oscurece y la calle está\ninundada de lluvia intensa. Pero antes de mucho,\nlas nubes se alejan y el cielo se vuelve soleado\nde nuevo.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Eso fue un aguacero! Me alegra que haya terminado\nrápido, pero ahora estamos empapados."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>Sigh...</i>"
+    },
+    {
+      "text": "La tormenta repentina ha puesto a Admire Vega\ndirectamente de mal humor otra vez.",
+      "name": "Monólogo"
+    }
+  ]
+}

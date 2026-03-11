@@ -1,0 +1,543 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Hoy, Admire Vega y yo estamos comprando\ningredientes para hacer sándwiches.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Al parecer está preparando una lonchera para\nmañana. Sin embargo, no lo escuché de ella...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Hahaha! ¡Aparezco por cuarta vez!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¿Eh, Opera O! ¿Hoy también?!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Esta es la quinta vez. No la cuarta."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Y muchas veces más, Ayabe! Es decir..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Hasta que vengas al Intercambio de Almuerzos\nVerdaderamente Delicioso del Soberano Centenario!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Compañero de Clase A de Ayabe",
+      "text": "¡Jajaja! Opera O es muy linda. ¡Ella ama a Ayabe\nexactamente como el resto de nosotras!"
+    },
+    {
+      "name": "Compañero de Clase B de Ayabe",
+      "text": "¿Aparecerá mañana? Si esto se vuelve algo regular,\nla hora del almuerzo se convertirá en lo mejor del\ndía!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Um... Doto y yo nos encantaría que vinieras,\nAyabe! Por supuesto, la decisión es tuya, aunque."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Pero probarlo una vez no hace daño, ¿verdad? ¡Es\nmuy divertido intercambiar almuerzos con todos!"
+    },
+    {
+      "text": "...Y así, al parecer cedió.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Un intercambio de almuerzos caseros... Ni siquiera\nsoy muy buena cocinando para empezar."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Solo realmente sé hacer sándwiches."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>Sigh...</i>"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Me gustaría obtener tu opinión sobre qué debería\npreparar... si no te importa."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Como alguien más lo va a comer, probablemente sea\nmejor obtener la opinión de otra persona en lugar\nde seguir mis propias preferencias.",
+      "choice_data_list": [
+        "Por supuesto, estoy feliz de ayudar."
+      ]
+    },
+    {
+      "text": "Echo un vistazo alrededor pensando en lo saludable\nque es que Admire Vega se lo esté tomando en\nserio.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Algo general y seguro no debería ser demasiado\ndifícil de encontrar. Ella solo está haciendo un\nsándwich...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Tendero",
+      "text": "¡Bienvenidos, bienvenidos! Tenemos montones de\ndelicadezas raras que no encontrarán en ningún\notro lado!"
+    },
+    {
+      "name": "Tendero",
+      "text": "¡En las manos correctas, seguramente agregarán un\ntoque sorpresa a su cocina diaria! ¡Lleven su\ncocina al siguiente nivel!",
+      "choice_data_list": [
+        "(Aquí venden cosas extrañas...)",
+        "(Aquí venden cosas extrañas...)"
+      ]
+    },
+    {
+      "text": "Manejados correctamente, estos ingredientes\npodrían hacer un sándwich supremo. Pero es un poco\narriesgado, algunas de estas cosas parecen\nrequerir un trato especial.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Entonces, ¿qué debería elegir?",
+      "choice_data_list": [
+        "Vayamos con algo seguro.",
+        "¡Vayamos con la carne exótica!",
+        "¡Vayamos con el pescado poco común!",
+        "¡Vayamos con las hortalizas antiguas!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Estoy seguro de que sus compañeros de clase\nestarán felices incluso si elegimos ingredientes\nseguros. Sugiero algunas opciones típicas.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Bueno, si no es Ayabe! Me preguntaba quién\nandaría por aquí con su uniforme!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Tamamo... Hola."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Igualmente! Entonces, ¿ustedes dos están\ncomprando hoy?",
+      "choice_data_list": [
+        "Estamos buscando hacer un sándwich.",
+        "Estamos buscando hacer un sándwich."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Ooooh, sándwiches! No eres de las que usan\nloncheras tradicionales, ¿eh?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ahora que lo mencionas, creo que vi a Creek\nhaciendo sándwiches en forma de estrella el otro\ndía. ¿Tú planeas hacer algo así también, Ayabe?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Eh? No. Yo... sí tengo un molde, pero..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Jajaja! Pero casi no lo usas, ¿verdad? Bueno,\ncuando lo usas, lo que sea sale bastante lindo."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "A veces hago eso para los enanos en casa. ¡Ellos\nsiempre se ponen muy felices también!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Y <i>yo</i> me gusta poder picar los recortes! ¡Jajaja!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Imagino que algunos de los estudiantes más\njóvenes disfrutarían compartiendo las puntas\ncortadas."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí... Definitivamente lo entiendo, pero no sé..."
+    },
+    {
+      "text": "Al escuchar a Tamamo Cross hablar con admiración\nde sus hermanos menores, la expresión de Admire\nVega se suaviza un poco.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "¡Intentemos un desafío! Sugiero ir con la carne.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oh, hola, Ayabe! ¿Estás buscando carne de alta\ncalidad?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No, no exactamente...",
+      "choice_data_list": [
+        "¿Y <i>tú</i> estás buscando carne de alta calidad,\nHishiama?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Sí! Estoy comprando algo para el almuerzo de\nBrian."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ella siempre come siguiendo esa guía \"¡Supera tu\nOdio a las Verduras!\" Debe ser difícil, ¿verdad?\n¡Deberías consentirte de vez en cuando!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Así que, pensé en preparar algo de alta gama para\nlos amantes de la carne."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Y de hecho, estamos compitiendo para ver quién\npuede hacer el mejor almuerzo, uno contra uno!\n¡Juro que ganaré, o mi nombre no es Hishiama!",
+      "choice_data_list": [
+        "Es bueno hacer algo teniendo en mente a otra\npersona.",
+        "Es bueno hacer algo teniendo en mente a otra\npersona."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Es esencial cuando planeas dárselo!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Gracias... Tendré que tener eso en cuenta."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Hm? Jaja, bueno, ¡si ayudé, ayudé!"
+    },
+    {
+      "text": "Me pregunto si Admire Vega tendrá en mente a\nalguien mientras hace el sándwich.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Antes de que nos demos cuenta, el intercambio de\nalmuerzos comienza, y...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Oh, guau! ¡Ayabe, ¿de verdad hiciste esto?! ¡Sabe\nincreíble!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Mmm! ¡Está tan bueno! Como realmente, realmente,\nrealmente bueno! ¡Ahhh! ¡Simplemente está tan\nbueno!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ese vocabulario... ¿No eres una estudiante de\nhonor?"
+    },
+    {
+      "text": "...¡Es un éxito rotundo!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Se lo comió todo. Incluso dijo que estaba bueno.",
+      "choice_data_list": [
+        "¡Eso es genial!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Gracias por ayudarme."
+    },
+    {
+      "text": "¡Eso salió bastante bien!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Yo... decidí no unirme."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "El sándwich no era lo suficientemente bueno para\ndarle a otra persona...",
+      "choice_data_list": [
+        "¡Es mi culpa por dar malos consejos!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No, no es tu culpa. Fue mi decisión al final."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Simplemente se reduce a... mi falta de habilidad."
+    },
+    {
+      "text": "Eso fue decepcionante...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "¡Intentemos un desafío! Sugiero ir con el pescado.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oh! ¡Creí haber visto antes ese rostro celestial!\nAdve— quiero decir, ¡Ayabe!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Hola... Tengo que irme."
+    },
+    {
+      "text": "¡Inmediatamente después de devolver\nrespetuosamente el saludo, Admire Vega intenta\nirse con una compostura sorprendentemente fría!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oye, oye, oye! ¿A dónde vas?! ¡Al menos escucha\nmis próximas dos líneas!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Vine aquí a comprar víveres. No tengo tiempo para\nperder el tiempo contigo."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Como si hubiera pasado los 365 días del año\nholgazaneando 24-7 durante los últimos 4.6 mil\nmillones de años! Lo <i>cual <i>he hecho,</i> ¡por cierto!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Ves? Si vas a ser así, esta conversación se\nacabó."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Whoa, espera espera espera! ¡Al menos cuéntame\nsobre los dos tipos de colas de cometa! ¡Vamos!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...La cola iónica está compuesta de gases, y la\ncola de polvo se explica por sí sola. Bueno,\nadiós."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Espera, la última! ¡Lo juro! ¿Cuál es la\nconstelación que contiene la estrella de la cual\nlas estrellas variables pulsantes Mira obtuvieron\nsu nombre?!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Cetus. ¿Ya terminamos?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Y-y qué hay del grupo de asteroides que comparten\nórbita con Júp—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Los asteroides troyanos. ¡Ya basta!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Esto probablemente no suene a mucho viniendo de\nalguien que siguió rompiendo su promesa, pero el\nhecho de que sigas respondiendo realmente dice\nmucho de tu carácter."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "text": "Quizás como muestra de su agradecimiento, Gold\nShip nos ayuda a seleccionar ingredientes con su\nvasto conocimiento de mariscos.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Antes de que nos demos cuenta, el intercambio de\nalmuerzos comienza, y...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ahh! ¡Qué sabor increíble! ¡Qué riqueza en\nsabores! ¡Este es el tipo de sándwich supremo que\nel Soberano mereceeeeee! ♪"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Wagner, Rossini, Verdi e incluso Mozart se\napresurarían a componer canciones de alabanza\ndespués de solo un bocado!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Gracias. Pero no hables cuando comes."
+    },
+    {
+      "text": "...¡Es un éxito rotundo!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Se lo comió todo. Incluso dijo que estaba bueno.",
+      "choice_data_list": [
+        "¡Eso es genial!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Gracias por ayudarme."
+    },
+    {
+      "text": "¡Eso salió bastante bien!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Yo... decidí no unirme."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "El sándwich no era lo suficientemente bueno para\ndarle a otra persona...",
+      "choice_data_list": [
+        "¡Es mi culpa por dar malos consejos!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No, no es tu culpa. Fue mi decisión al final."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Simplemente se reduce a... mi falta de habilidad."
+    },
+    {
+      "text": "Eso fue decepcionante...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "¡Intentemos un desafío! Sugiero ir con las\nverduras.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Hola, Taishin."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hola..."
+    },
+    {
+      "name": "Ayabe y Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Um, ¿estás comprando?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí. ¿Y tú?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno... todos han estado haciendo un escándalo\nsobre nutrición o lo que sea."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Sabes qué? No importa."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Claro."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "En realidad... Tú estuviste en clase hoy, r—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Quiero decir... Nah, olvídalo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Pero en serio, por allá vi algunas cosas que\nparecen bastante fáciles de usar."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿En serio? Gracias."
+    },
+    {
+      "text": "Ninguno lo dice en voz alta, pero parece que su\nsentimiento hacia sus compañeros es extrañamente\nsimilar.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Antes de que nos demos cuenta, el intercambio de\nalmuerzos comienza, y...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Ohhh, guau, está tan bueno! ¡E-eres tan\ntalentosa, Ayabe!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Comeré con cuidado y saborearé cada bocado! ¡No\ndejaré caer ni una migaja!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Eso es un poco exagerado."
+    },
+    {
+      "text": "...¡Es un éxito rotundo!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Se lo comió todo. Incluso dijo que estaba bueno.",
+      "choice_data_list": [
+        "¡Eso es genial!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Gracias por ayudarme."
+    },
+    {
+      "text": "¡Eso salió bastante bien!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Yo... decidí no unirme."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "El sándwich no era lo suficientemente bueno para\ndarle a otra persona...",
+      "choice_data_list": [
+        "¡Es mi culpa por dar malos consejos!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No, no es tu culpa. Fue mi decisión al final."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Simplemente se reduce a... mi falta de habilidad."
+    },
+    {
+      "text": "Eso fue decepcionante...",
+      "name": "Monólogo"
+    }
+  ]
+}

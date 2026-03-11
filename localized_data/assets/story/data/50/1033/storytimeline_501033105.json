@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Hoy marca el inicio del campamento de verano y,\njunto con él, nuestro entrenamiento para el Tenno\nSho de otoño!",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Mis verificaciones preliminares están hechas, y\nlos preparativos especiales que organicé para el\ndía están todos listos para comenzar.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Haré todo lo que pueda para ayudar a Admire Vega a\nmejorar mientras se lanza hacia adelante para\nalcanzar los deseos de su corazón!",
+      "choice_data_list": [
+        "¿Empezamos, entonces?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Antes que eso..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Por qué tu cara se ve un poco roja?",
+      "choice_data_list": [
+        "Oh. Solo estaba corriendo un poco..."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Bebe agua y afloja tu cuello. Hay sombra por allí."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Podemos empezar el entrenamiento en veinte\nminutos. ¿Eso está bien?",
+      "choice_data_list": [
+        "Espera... ¿qué?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No puedes seguirme si te enfermas."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...¿Bueno?",
+      "choice_data_list": [
+        "¡T-tienes razón!"
+      ]
+    },
+    {
+      "text": "Actuando como una hermana mayor, ella parece\nnaturalmente habilidosa para cuidar de los demás.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Con eso en mente, me apresuro hacia la sombra como\nse me indicó.",
+      "name": "Monólogo"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Año Nuevo...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Muchos estudiantes se han ido a casa para las\nvacaciones de invierno. Con ellos ausentes por los\npróximos días, la academia ha estado tranquila y\nen silencio, como si se hubiera apagado un fuego.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "A pesar del cambio de ritmo, no puedo permitirme\nsimplemente holgazanear. Este año, mi entrenada\nentra en su importantísimo año clásico.",
+      "choice_data_list": [
+        "¡Muy bien! ¡Hora de trabajar!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Reviso los resultados de carreras del año pasado y\nlos registros de entrenamiento antes de escribir\ncuidadosamente un plan para este año.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Después de todo, Admire Vega enfrentará la\nincreíblemente desafiante gira de la Triple Corona\nClásica. Ninguna cantidad de preparación puede ser\nsuficiente para este desafío.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Con eso en mente, entusiastamente sigo con mis\ntareas, pero...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "<i>Gorgoteo...</i>",
+      "choice_data_list": [
+        "¡Caray, olvidé comer!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "A pesar de asegurarme de traer todo lo que\nnecesito para el trabajo, olvidé por completo\npreparar comida. También me quedé sin comidas\npreparadas y snacks.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Con los dedos cruzados, visito el distrito\ncomercial cercano, solo para encontrar que todo\nestá cerrado debido al feriado.",
+      "choice_data_list": [
+        "(Hmm, bueno entonces...)"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ah...",
+      "choice_data_list": [
+        "¡Oh, Ayabe! ¡Feliz Año Nuevo!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Feliz Año Nuevo."
+    },
+    {
+      "text": "Admire Vega devuelve mi saludo. Ella lleva un\nchándal, y sus mejillas están ligeramente\nsonrojadas—parece que ya ha comenzado a entrenar\ndiligentemente.",
+      "choice_data_list": [
+        "¿También estás haciendo compras?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí, se me acabó el polvo para bebida deportiva...",
+      "choice_data_list": [
+        "¿No somos afortunados de que las tiendas de\nconveniencia estén abiertas en Año Nuevo?",
+        "¿No somos afortunados de que las tiendas de\nconveniencia estén abiertas en Año Nuevo?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí, es de gran ayuda... siempre."
+    },
+    {
+      "text": "Al escucharla soltar la palabra 'siempre', de\nrepente me doy cuenta de que probablemente no\nregresa a casa, ni siquiera durante las\nvacaciones.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Ella tiene sus razones, que ciertamente no puedo\ncambiar, pero...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Voy a terminar mis compras. Nos vemos...",
+      "choice_data_list": [
+        "¡Ah, espera!",
+        "¡Ah, espera!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Sí?"
+    },
+    {
+      "text": "Dado que nos encontramos, ofrezco ayudar a\nterminar sus compras mientras consigo mi almuerzo.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "A pesar de su tenaz negativa, la convenzo de dejar\nque un adulto se encargue.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "De hecho, decido agregar un extra mientras estoy\nen ello. Pero, ¿qué elegir?",
+      "choice_data_list": [
+        "Un snack caliente para animarla.",
+        "Una sopa instantánea relajante.",
+        "Algo dulce para despejar su mente."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Qué es esto?",
+      "choice_data_list": [
+        "Pensé que podrías usarlo. Hace frío afuera, sabes."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Bueno, gracias."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "text": "Admire Vega empieza a comer el pan de carne muy\ncaliente, así que le doy un mordisco al que\nconseguí para mí.",
+      "choice_data_list": [
+        "¡O-OUCH!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Estás bien? ¿Está muy caliente para ti?",
+      "choice_data_list": [
+        "Sí, un poco creo... ¿A ti no?",
+        "Sí, un poco creo... ¿A ti no?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Estoy bien... No tengo problema con la comida\ncaliente."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Dicen que deberías comer sin dejar que la comida\ntoque la punta de tu lengua. No sé si funciona,\naunque...",
+      "choice_data_list": [
+        "¿En serio?"
+      ]
+    },
+    {
+      "text": "Después de un rato, disfruto de mi delicioso pan\nde carne.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No es uno con cosas extra dentro, ¿verdad?",
+      "choice_data_list": [
+        "¿Como una especie de regalo de Año Nuevo?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Un qué?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No importa... Gracias."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Hace frío afuera."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Y desolador... supongo porque los demás no están\naquí.)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ah, eso me recuerda..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ahh..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Qué caliente."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Eh, un postre?",
+      "choice_data_list": [
+        "¡Lo llamaron Soufflé de Vainilla Esponjoso!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Tú... realmente no tenías que hacerlo."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>Jadeo, jadeo, jadeo...</i> ¡Uf!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Qué suave...)"
+    },
+    {
+      "text": "<i>Zumbido... Zumbido...</i>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Bien. Solo tengo que esperar a que la ropa se\nseque."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Esponjoso...)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>Mordisco.</i>"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>(¡<i>Sí</i> es esponjoso!)"
+    }
+  ]
+}

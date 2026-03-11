@@ -1,0 +1,564 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, llevo a <chrname> a la enfermería para un chequeo.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! Un disfraz―¡quiero decir, una estudiante!\n¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás herido? ¿Enfermo? ¿Estresado? ¡Sea lo que\nsea, yo lo curo todo!",
+      "choice_data_list": [
+        "¡¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la enfermería de\nla academia, ¡diría que eso me convierte en tu\nconfiable enfermera escolar! ¡Sí, solo una\nempleada escolar promedio!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajaja! Supongo que no puedo engañarte. Supongo\nque debría empezar dándote mi nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ahem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "¡Soy la (probable) salvadora de todas las\nUmamusume, la (autoproclamada) legendaria\nacupunturista con el toque mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única e insustituible Sasami Anshinzawa! ¿Ves?\n¡No te preocupes! ☆",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "La oficina de seguridad está junto a la entrada de\nla escuela, ¿verdad?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya! ¡Pareces preocupado! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos presentamos, así\nque acuéstate y déjame usar estas agujas!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Q-qué? No te acerques..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay que tener miedo! Todo lo que haré\nes deslizar estas agujas extraordinarias\nprecisamente en tus puntos de chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y luego, voilà, presto! ¡Sucederá algo\nindescriptible!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y permíteme asegurarte que no hay absolutamente\nnada sospechoso en esto! ¡Nunca ha salido nada\nmenos que perfecto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestro.",
+      "choice_data_list": [
+        "¡¿Para tu maestro?! ¡¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! ¡Esta es mi primera vez, así que\ntécnicamente, tampoco he fallado con un paciente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es como si no tuviera experiencia! ¡Pasé\ndiez años bajo un maestro legendario, trayendo\nbebidas—¡quiero decir, entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡No te preocupes! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí, ya!)"
+      ]
+    },
+    {
+      "text": "De ninguna manera vamos a hacer esto. Tomo a <chrname> y me\ndirijo a la puerta, cuando...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¡¿A dónde van?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Eres Admire Vega, ¿verdad? ¡La Umamusume loba\nsolitaria que constantemente intenta superarse\nmientras mantiene a todos a distancia!",
+      "choice_data_list": [
+        "¿Has oído hablar de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿He oído hablar de ella? ¡Por supuesto! ¡Soy una\ngran fan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Es precisamente por eso que estoy aquí! ¡Para\ndarte mi apoyo! ¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Dame una oportunidad! ¡Por favor!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No lo pones fácil..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Por favor con un toque de zanahoria!\n¡Incluso te dejaré elegir qué chakra activar!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Estoy <i>segura</i> de que no arruinaré nada!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... más o menos segura.",
+      "choice_data_list": [
+        "<i>¡¿<i>Más o menos</i> segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Quiero decir, está del lado seguro! ¡Eso es\n<i>bueno,</i> ¿verdad? ¡De todos modos, no te quedes\natascado en los detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debo activar?\n¿Quieres un impulso a tus habilidades? ¿A tu\nsalud? ¿O tal vez a tu <i>encanto?</i>"
+    },
+    {
+      "text": "Huelo peligro en el aire, pero creo que podría—y\nenfatizo <i>podría</i>—haber </i>una oportunidad de obtener\nalgo especial de este tratamiento.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "¿Qué debemos hacer?",
+      "choice_data_list": [
+        "Activar el chakra de fuerza.",
+        "Activar el chakra de la victoria.",
+        "Activar el chakra de la salud.",
+        "Activar el chakra del encanto.",
+        "Esto es demasiado sospechoso. Vámonos de aquí\nmientras podamos."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de localizar ese\nchakra! ¡Ollie, ollie, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Urgh..."
+    },
+    {
+      "text": "¡Pinchazo perfecto!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Si fuera tan fácil mejorar, nadie se molestaría en\ntrabajar—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿¡Eh?! Mi cuerpo... me siento tan... rápido?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Jadeo...</i> Estás bromeando... ¿¡En serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "text": "<chrname> está rebosante de tanto poder que casi no la\nreconozco!",
+      "name": "Monólogo"
+    },
+    {
+      "text": "¡Arriesgamos y valió la pena! ¡Este es un gran\nsalto hacia lograr nuestro objetivo!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Si fuera tan fácil mejorar, nadie se molestaría en\ntrabajar—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Ngh. ¿Ves? Hay una razón por la que elijo... el\ncamino difícil..."
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Supongo que así es..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, mira la hora! ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí saber mejor que probar nuestra suerte. No soy\nla que sufre, pero estoy llena de arrepentimiento.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de la victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de localizar ese\nchakra! ¡Ollie, ollie, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Urgh..."
+    },
+    {
+      "text": "¡Pinchazo perfecto!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Si fuera tan fácil mejorar, nadie se molestaría en\ntrabajar—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿¡Eh?! Mi cuerpo... me siento tan... rápido?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Jadeo...</i> Estás bromeando... ¿¡En serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "text": "¡Puedo sentir una gran mejora en las habilidades\nde <chrname>!",
+      "name": "Monólogo"
+    },
+    {
+      "text": "¡Arriesgamos y valió la pena! ¡Este es un gran\nsalto hacia lograr nuestro objetivo!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Si fuera tan fácil mejorar, nadie se molestaría en\ntrabajar—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Ngh. ¿Ves? Hay una razón por la que elijo... el\ncamino difícil..."
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Supongo que así es..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, mira la hora! ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí saber mejor que probar nuestra suerte. No soy\nla que sufre, pero estoy llena de arrepentimiento.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de la salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de localizar ese\nchakra! ¡Ollie, ollie, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Urgh..."
+    },
+    {
+      "text": "¡Pinchazo perfecto!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Si fuera tan fácil mejorar, nadie se molestaría en\ntrabajar—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿¡Eh?! Mi cuerpo... me siento tan... rápido?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Jadeo...</i> Estás bromeando... ¿¡En serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "text": "¡El cuerpo entero de <chrname> está irradiando un brillo\nsaludable! ¡Es la imagen absoluta de la salud!",
+      "name": "Monólogo"
+    },
+    {
+      "text": "¡Arriesgamos y valió la pena! ¡Este es un gran\nsalto hacia lograr nuestro objetivo!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Si fuera tan fácil mejorar, nadie se molestaría en\ntrabajar—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Ngh. ¿Ves? Hay una razón por la que elijo... el\ncamino difícil..."
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Supongo que así es..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, mira la hora! ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí saber mejor que probar nuestra suerte. No soy\nla que sufre, pero estoy llena de arrepentimiento.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra del encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de localizar ese\nchakra! ¡Ollie, ollie, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Urgh..."
+    },
+    {
+      "text": "¡Pinchazo perfecto!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Si fuera tan fácil mejorar, nadie se molestaría en\ntrabajar—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿¡Eh?! Mi cuerpo... me siento tan... rápido?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Jadeo...</i> Estás bromeando... ¿¡En serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "text": "¡<chrname> está rebosante de encanto! ¡Seguro que llama la\natención dondequiera que vaya!",
+      "name": "Monólogo"
+    },
+    {
+      "text": "¡Arriesgamos y valió la pena! ¡Este es un gran\nsalto hacia lograr nuestro objetivo!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Si fuera tan fácil mejorar, nadie se molestaría en\ntrabajar—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Ngh. ¿Ves? Hay una razón por la que elijo... el\ncamino difícil..."
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Supongo que así es..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, mira la hora! ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí saber mejor que probar nuestra suerte. No soy\nla que sufre, pero estoy llena de arrepentimiento.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos, no seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Reconsiderar."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! ¡Espero que sepas que los <i>intrusos\n<i>serán</i> procesados!</i>"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me voy! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sabía que no se podía confiar en ella."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "La academia probablemente debería considerar\naumentar la seguridad.",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "text": "Tengo curiosidad sobre quién es realmente este\npersonaje Anshinzawa, pero no sirve de nada\nreflexionar sobre ello. Mejor olvidar el día de\nhoy y seguir adelante.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Has cambiado de opinión? No te preocupes,\n¡sucede!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Adelante y dime qué chakra quieres que active,\nentonces!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Bueno?! ¡No nos dejes en suspense! Espera un\nsegundo... ¿Cuánto tiempo llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! ¡Espero que sepas que los <i>intrusos\n<i>serán</i> procesados!</i>"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me voy! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "text": "La situación da un giro brusco antes de que pueda\ntomar una decisión.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "¿Qué fue todo eso? <chrname> y yo nos miramos perplejos.",
+      "name": "Monólogo"
+    }
+  ]
+}

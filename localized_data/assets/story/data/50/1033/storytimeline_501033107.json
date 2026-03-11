@@ -1,0 +1,310 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Hoy es el Día de San Valentín—el día en que todos\nintercambian regalos especiales.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Mayormente por curiosidad, voy a ver el área de\neventos en la sala de comida de la tienda\ndepartamental. Sin embargo...",
+      "choice_data_list": [
+        "(¡Está locamente lleno!)"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "???",
+      "text": "¡Hazlo lo mejor posible, Entrenador! No lo pienses\ndos veces, solo sigue presionando hacia adelante!",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jaja, qué coincidencia. ♪"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...",
+      "choice_data_list": [
+        "Gracioso verlos a los dos aquí.",
+        "Gracioso verlos a los dos aquí."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Sí! ¡Estamos en una cita! ♪"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Me están arrastrando. Ella me hizo ir a este café\ncon decoraciones horribles... y este puesto que\nvendía solo cosas fluorescentes."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Jaja! No es mi culpa que la ciudad esté llena de\ntantos lugares instagrameables en el Día de San\nValentín."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Hoy, estoy llevando a Ayabe a todos mis\nfavoritos! ♪",
+      "choice_data_list": [
+        "(Espera, ¿Ayabe está interesada en \"lugares\n<i>instagrameables? <i>¡Ayabe?!</i>)</i>"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sé lo que estás pensando. No te equivoques."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Esa no es la razón por la que estoy aquí."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Yo... eh... quiero disculparme... por lo que pasó\nantes del Kikuka Sho."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Estaba completamente equivocada. No debería haber\ndescargado mi frustración en ti así."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Lo siento mucho."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ayabe..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "<i>Sniffle...</i>"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "<i>Sniffle... hic...</i> Eso <i>realmente... <i>Sniffle...</i> Eso\nrealmente me asustó, ¡sabes!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Es como... ¡Es como si estuvieras diciendo que ni\nsiquiera te importaba si morías!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Yo... yo... <i>Sollozo...</i>"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Lo siento... de verdad. Ya no me siento así... Y\nnunca diría algo así."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Pues yo no te perdono! No tienes <i>ni idea</i> de\ncuánto me preocupé."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí... No tienes que perdonarme. Es tu derecho no\nhacerlo."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No te perdonaré—no ahora."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Tienes que compensarme primero. No me des una\ndisculpa. Dame tu compañía. ¡Montones y montones!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Esa es la única razón por la que estoy aquí. Es lo\nque tengo que hacer para disculparme..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Oye, no digas eso. Se supone que debes estar\ndiviértete."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Hoy, te voy a mostrar montones de lugares y cosas\nque nunca has visto antes!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Incluso podrías encontrar algo que no sabías que\nte gusta."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿No es eso lo importante para ti ahora, Ayabe?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...?"
+    },
+    {
+      "text": "El silencio después de la declaración de Curren\nChan me recuerda a una discusión previa que Admire\nVega y yo tuvimos.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Todo lo que no estuviera relacionado con correr...\nTuve que ignorar todo lo que <i>yo</i> alguna vez quise."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Viví toda mi vida apartando la mirada, ignorándolo\ntodo..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Y ahora, no tengo idea de qué hacer."
+    },
+    {
+      "text": "Ella está en el proceso de recoger los pedazos de\nsí misma que había abandonado. Está intentando\nvivir su vida al máximo, justo como hablamos.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Encontrar algo que le guste es probablemente lo\nque ella debería estar haciendo ahora.",
+      "choice_data_list": [
+        "¡Haz que la pase bien, Curren!",
+        "¡Haz que la pase bien, Curren!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Jaja! Entendido. ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Muy bien, ¡vamos al siguiente lugar!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "E-espera! ¡Detente!"
+    },
+    {
+      "text": "Más tarde esa noche...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Oh..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Nos estamos encontrando mucho hoy...",
+      "choice_data_list": [
+        "Seguro que sí. ¿Volviendo a la academia?",
+        "Seguro que sí. ¿Volviendo a la academia?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No. Curren y yo ya volvimos a nuestro dormitorio.\nY... decidí salir de nuevo."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Quería ver las estrellas."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No he ido muy a menudo... desde que ella se fue y\ndejamos de poder hablar."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Pero que Curren me arrastrara hoy..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Me hizo sentir como para salir de nuevo.",
+      "choice_data_list": [
+        "Supongo que esa es una cosa que ciertamente te\ngusta.",
+        "Supongo que esa es una cosa que ciertamente te\ngusta."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Huh?",
+      "choice_data_list": [
+        "¡Te gusta mirar las estrellas!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ya veo. Sí... Me gusta eso."
+    },
+    {
+      "text": "Le sonrío suavemente mientras ella se afirma.\nEntonces, yo noto que hay una máquina expendedora\ncerca y decido comprarle algo para su viaje de\nobservación de estrellas.",
+      "choice_data_list": [
+        "¿Te gustaría una bebida caliente para llevar?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Menciono que también estoy comprando una para mí,\nasí que no es una inconveniencia para mí. Espero\nun segundo para que ella responda...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Té oolong... por favor. Gracias."
+    },
+    {
+      "text": "Ella me da una respuesta mucho más rápida de lo\nque esperaba.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "La observo alejarse con un ligero golpeteo en su\npaso. Me pregunto si debería pasar la oche en mi\nventana mirando las estrellas yo también.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Entonces tomaré un té oolong..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...No. En realidad, ¿qué vas a tomar?"
+    },
+    {
+      "text": "Le doy un poco de pensamiento y recuerdo el evento\nque visité más temprano esta tarde.",
+      "choice_data_list": [
+        "Voy a conseguir un chocolate caliente. Es el Día\nde San Valentín, después de todo."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Esa es una razón extraña."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Pero...)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Tomaré lo mismo.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "text": "Después de recibir la lata de cacao caliente,\nAdmire Vega sale trotando hacia la colina.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Es muy azucarado...)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Qué manera tan extraña de tomar una decisión."
+    }
+  ]
+}

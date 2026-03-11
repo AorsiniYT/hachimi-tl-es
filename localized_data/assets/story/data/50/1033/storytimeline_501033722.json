@@ -1,0 +1,47 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Después de terminar de sugerir un horario de\nentrenamiento a Admire Vega...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...",
+      "choice_data_list": [
+        "¿Pasa algo?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Estoy bien. Solo tomando aire fresco..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¡Uf!",
+      "choice_data_list": [
+        "¿Tienes dolor de cabeza?",
+        "¿Tienes dolor de cabeza?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No es nada de qué preocuparse. He tomado algo de\nmedicina, así que se irá pronto."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Agh!",
+      "choice_data_list": [
+        "No te esfuerces si duele."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Tienes razón... Disculpa por no decírtelo antes."
+    },
+    {
+      "text": "Parece que Admire Vega está luchando con una\nmigraña...",
+      "name": "Monólogo"
+    }
+  ]
+}
