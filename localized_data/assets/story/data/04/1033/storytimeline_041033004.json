@@ -1,0 +1,317 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "No he tenido la oportunidad de hablar con Admire\nVega desde su carrera de pruebas, y eso me ha\nestado carcomiendo.",
+      "choice_data_list": [
+        "(¡Tengo que ver cómo está!)"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "No sé qué la acosa cuando corre, qué yace en el\nabismo que siempre parece estar mirando, o qué\ncarga la agobia...",
+      "choice_data_list": [
+        "Pero nunca lo sabré si no hago el esfuerzo de\naveriguar ."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Mientras camino por el campus buscándola, veo a su\ncompañera de entrenamiento del otro día, Meisho\nDoto.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh... Um, ¿q-quieres saber si he visto a Ayabe?\nUhh, bueno... Y-yo creo que <i>sí</i> la he visto,\npero..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jaa ja ja ja! Si es a nuestra discípula de las\nestrellas a quien buscas, mira hacia las altas\ncumbres! ¡Incluso ahora se ofrece a las\ntraicioneras pendientes!",
+      "choice_data_list": [
+        "Entonces... ¿ella está en las montañas?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "En términos plebeyos, ¡sí! O para desglosarlo\nrealmente, \"¡Ella se fue a hacer carrera en\nsenderos!\""
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Umm! Y-yo sé que no pertenezco a su conversación,\np-pero si saben dónde está, irán allí de\ninmediato, ¿verdad?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "A-Ayabe no tiene ningún problema haciendo\nentrenamiento de muy alto nivel... y probablemente\neso es lo que está haciendo ahora, así que..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "P-por favor, no vayas! Los senderos son demasiado\npeligrosos para una persona normal...",
+      "choice_data_list": [
+        "Agradezco la preocupación, pero eso no me\ndetendrá."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Déjalo ir, Doto. Porque en su cabeza, ya las\ncampanas del destino repiten su canción. No hay\nforma de detenerlo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Déjala ir, Doto. Porque en su cabeza, ya las\ncampanas del destino repiten su canción. No hay\nforma de detenerla."
+    },
+    {
+      "text": "Después de una carcajada, me dice más precisamente\ndónde podría encontrar a Admire Vega.",
+      "choice_data_list": [
+        "Gracias. ¡Nos vemos!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Wah, n-no hay vuelta atrás ahora..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ayabe ha estado insistiendo en estar sola desde\nlas pruebas... ¿Crees que estará bien?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Algunos ponen su oído en la puerta. Algunos se\natreven a golpear. Y aún otros la derriban. ¡Yo\ndigo que se quede así!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Viniste a hablar conmigo?",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No tengo nada que decir. Y no estoy aceptando\nninguna oferta de reclutamiento ahora mismo, así\nque..."
+    },
+    {
+      "text": "Bueno, eso no duró mucho. Pero estoy aquí con una\nmeta, y voy a llevarla a cabo!",
+      "choice_data_list": [
+        "(¡Tengo que alcanzarla!)",
+        "(¡Tengo que alcanzarla!)"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Desafortunadamente...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>Jadeo, jadeo...</i>",
+      "choice_data_list": [
+        "<i>¡Huff... Jadeo!</i>"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>Jadeo, jadeo... Suspiro...</i>",
+      "choice_data_list": [
+        "<i>¡Ugh... Tos!</i>"
+      ]
+    },
+    {
+      "text": "Meisho Doto <i>sí</i> me advirtió, para ser justos, pero\neste sendero no es broma! La distancia entre\nnosotros se amplía y se amplía.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Y solo empeora...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Mientras sigo adelante a pesar de haberla perdido\nde vista, el sol se hunde lejos bajo las copas de\nlos árboles.",
+      "choice_data_list": [
+        "Apenas puedo ver... dónde estoy pisando... ¡Guau!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "<i>¡Caer, estrellarse!</i>",
+      "name": "Monólogo"
+    },
+    {
+      "text": "...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Mis sentidos gradualmente regresan, y entreabro\nlos ojos para encontrar... estrellas.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Un mar de estrellas tan vasto que siento como si\npudiera ahogarme.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...¿Estás herida en algún lado?",
+      "choice_data_list": [
+        "¿Hm? ¡Espera, Admire Vega?! ¿Qué estás—"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Soy yo quien hace las preguntas. ¿Estás herido en\nalgún lado?",
+      "choice_data_list": [
+        "Me siento bien. Supongo que te tengo que agradecer\npor ¿eso?",
+        "Me siento bien. Supongo que te tengo que agradecer\npor ¿eso?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Quiero decir, no es como que pudiera\nsimplemente dejarte."
+    },
+    {
+      "text": "Después de un largo suspiro, Admire Vega deja\nescapar una pregunta.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Por qué te importo yo?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Mi carrera de prueba fue... Vieron lo que pasó. No\nte conozco, y tú apenas me conoces tampoco."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Entonces... ¿por qué?",
+      "choice_data_list": [
+        "No lo sé. Pero..."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Pero?",
+      "choice_data_list": [
+        "No podría dejarte solo.",
+        "No podría dejarte solo."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Estoy bien estando solo. Incluso lo prefiero."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Correr, ganar... Estos deberes debo llevarlos\nsolo. Porque ella... mi hermana, ella..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ella dio su vida en mi lugar.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...He dicho demasiado. Olvídalo."
+    },
+    {
+      "text": "Así que esa es la carga que lleva. Sin duda hay\nmás en ello, pero una cosa está clara—ella está\ndeterminada a soportarla sola.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Aún...",
+      "choice_data_list": [
+        "¡No te dejaré estar solo!",
+        "¡No te dejaré estar solo!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Mis piernas me están matando. Es un milagro que mi\ncuerpo aún pueda moverse. Pero estoy aquí ahora,\nal alcance de la mano.",
+      "choice_data_list": [
+        "¿Me permitirás ser tu entrenador?",
+        "¿Me permitirás ser tu entrenador?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Realmente no aprendes. ¿Y ahora qué?",
+      "choice_data_list": [
+        "Si quieres caminar tu camino solo, eso está bien\npara mí.",
+        "Si quieres caminar tu camino solo, eso está bien\npara mí."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Huh?",
+      "choice_data_list": [
+        "Pero eso no me detendrá de apoyarte en cada paso\ndel camino."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Qué estás..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Es toque de queda, así que... Debería irme."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Oh, Ayabe! Bienvenido de vuelta. ♪ Oye, mira esto\nsúper esponjoso—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Lo siento, pero... Solo quiero dormir ahora. Estoy\ntan... cansado..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Eh? Oh, um, oookay?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Zzz..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Aw, mira a la Durmiente Bonita aquí. Bueno, bueno,\nbueno... <i>alguien</i> tuvo un día extra-agradable."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Tuve un sueño. Y por primera vez en mucho\ntiempo... fue un sueño agradable."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Estaba con ella, la hermana más adorable que nunca\nhe visto, corriendo a través de un mar de\nestrellas, sin una preocupación en el mundo..."
+    },
+    {
+      "text": "Al día siguiente, escucho un golpe tímido en mi\npuerta y la abro para encontrar... ¡Admire Vega!",
+      "choice_data_list": [
+        "¿Esto significa que estás interesado en mi oferta?",
+        "¿Esto significa que estás interesado en mi oferta?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Quiero decir, necesitaré un entrenador para\ncompetir en la Twinkle Series."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Entonces <i>si <i>tengo</i> que elegir, entonces..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Podrías ser tú.",
+      "choice_data_list": [
+        "Gracias. Te prometo que no te arrepentirás.",
+        "Gracias. Te prometo que no te arrepentirás."
+      ]
+    },
+    {
+      "text": "Ella no parece particularmente emocionada de\ntenerme, pero, bueno, es un comienzo.",
+      "name": "Monólogo"
+    }
+  ]
+}

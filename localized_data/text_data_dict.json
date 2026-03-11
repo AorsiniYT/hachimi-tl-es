@@ -7464,9 +7464,9 @@
     "25": "0",
     "26": "0",
     "27": "0",
-    "28": "1500",
-    "29": "1500",
-    "30": "7,500 quilates (3 veces únicamente)",
+    "28": "x1,500 Solo Una Vez",
+    "29": "x1,500 Solo Una Vez",
+    "30": "x7,500 Solo Tres Veces",
     "32": "x1,500 (Dos veces únicamente)",
     "3001": "Paquete Inicial de Novato A",
     "3002": "Paquete Inicial de Novato B",
@@ -7480,7 +7480,11 @@
     "4007": "x5,000",
     "4008": "x7,500 (Tres veces únicamente)",
     "4020": "x1,500 (Dos veces únicamente)",
-    "4101": "x1,500 (Una vez únicamente)"
+    "4101": "x1,500 (Una vez únicamente)",
+    "4028": "x1,500 Solo Una Vez",
+    "4029": "x1,500 Solo Una Vez",
+    "4030": "x7,500 Solo Tres Veces",
+    "4032": "x1,500 Solo Dos Veces"
   },
   "47": {
     "10071": "¡Disparo de Advertencia!",
@@ -8734,7 +8738,11 @@
     "2900": "300 quilates",
     "2901": "600 quilates",
     "2902": "1,200 quilates",
-    "2903": "2,400 quilates"
+    "2903": "2,400 quilates",
+    "4028": "Vale 3★ de Celebración del 1er Aniversario y 1,650 Quilates (solo 1 vez)",
+    "4029": "Vale SSR de Celebración del 1er Aniversario y 1,650 Quilates (solo 1 vez)",
+    "4030": "8,250 Quilates de Celebración del 1er Aniversario (solo 3 veces)",
+    "4032": "1,650 Quilates de Celebración del 1er Aniversario (solo 2 veces)"
   },
   "55": {
     "101": "Velocidad",

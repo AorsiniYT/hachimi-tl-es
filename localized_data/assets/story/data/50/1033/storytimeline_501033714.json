@@ -1,0 +1,92 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Admire Vega se lastimó durante el entrenamiento,\nasí que la acompaño a la enfermería.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Me dijeron que no la moviera hasta que esté\ncompletamente curada."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sabía que algo andaba mal, pero lo ignoré. Y ahora\nme enfrento a este desastre."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Pero eso aún no es razón para quedarme quieto."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Lo siento mucho, pero voy a salir a correr. Mi\nentrenamiento debe continuar.",
+      "choice_data_list": [
+        "Creo que deberías concentrarte en recuperarte por\nahora.",
+        "Busquemos algunos ejercicios seguros que puedas\nrealizar."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Pero quiero ganar..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Tengo que entrenar más duro que nadie. No tengo\notra opción.",
+      "choice_data_list": [
+        "No podrás correr en ninguna carrera si se pone\npeor.",
+        "No podrás correr en ninguna carrera si se pone\npeor."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Tienes razón... Lo sé. Aún así..."
+    },
+    {
+      "text": "Admire Vega parece no convencida pero sigue mi\nconsejo y descansa.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Admire Vega se dirige al gimnasio con la esperanza\nde entrenar de una manera que no afecte su lesión.\nSin embargo...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Uf...",
+      "choice_data_list": [
+        "¿Estás bien?!",
+        "¿Estás bien?!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sentí un ligero dolor... Pero no es nada de qué\npreocupar—¡AY!"
+    },
+    {
+      "text": "La detengo para que no continúe, pero su\nrecuperación toma más tiempo.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Vendo el área lesionada para fortalecer el\nsoporte.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...",
+      "choice_data_list": [
+        "¿Se siente bien?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No duele. Creo que estaré bien así."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Gracias. Estaré bien por ahora."
+    },
+    {
+      "text": "Después, ideamos una manera de evitar estresar su\nlesión, y logra terminar el entrenamiento sin\nproblemas.",
+      "name": "Monólogo"
+    }
+  ]
+}

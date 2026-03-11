@@ -1,0 +1,186 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Hoy, la academia está organizando un evento de\nencuentro para los fans.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mujer A",
+      "text": "¡Me encanta la forma en que corres, Ayabe! Pareces\nuna estrella fugaz cuando te separas del pelotón."
+    },
+    {
+      "name": "Mujer A",
+      "text": "¡Verte correr me llena de valor! ¡He querido\ndecirte eso por mucho tiempo!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Gracias. Seguiré dando lo mejor de mí."
+    },
+    {
+      "name": "Mujer A",
+      "text": "¡Eso también aplica para tu entrenador! ¡Es\nfantástico cómo trabajan en equipo!"
+    },
+    {
+      "name": "Mujer A",
+      "text": "¡Espero ver grandes cosas de ustedes dos!",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "text": "A pesar de las palabras de elogio, Admire Vega\nparece tensarse cuanto más tiempo estamos aquí.",
+      "choice_data_list": [
+        "¿Te sientes mal?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Estoy bien. La siguiente persona está llegando."
+    },
+    {
+      "text": "Me ignora y se prepara para los visitantes que\nvienen.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Hombre A",
+      "text": "¡También vi correr a tu madre! ¡Espero que estés a\nla altura de su legado!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Gracias. Espero contar con tu apoyo continuo."
+    },
+    {
+      "name": "Mujer B",
+      "text": "¡Asegúrate de ganar tu próxima carrera! ¡Te estoy\napoyando!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Gracias."
+    },
+    {
+      "text": "Responde igual que siempre, pero puedo ver que\ngradualmente se está estresando más.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Más tarde esa noche, Admire Vega ha desaparecido\nen algún lugar. Preocupado, voy a buscarla.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>Jadeo... jadeo...</i>"
+    },
+    {
+      "text": "Debe estar entrenando por su cuenta de nuevo. No\npuedo evitar preguntarme por qué se esfuerza\ntanto. ¿Podría ser...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Qué es?",
+      "choice_data_list": [
+        "¿Te cuesta lidiar con eventos como el de hoy?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No mucho...",
+      "choice_data_list": [
+        "Si te sientes incómoda, siempre podríamos reducir\nel número de visitantes—"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Eso no es necesario."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Más bien... necesito escuchar más a mis fans."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Su apoyo... en realidad no está destinado para mí."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Es ella... quien debería recibir los elogios."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sin embargo, aquí estoy... recibiendo lo que es de\nella."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Por eso... tengo que cumplir con sus expectativas."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Es..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ha sido mi misión desde que nací. Es lo único que\npuedo hacer.",
+      "choice_data_list": [
+        "Haré lo que sea para ayudar.",
+        "Haré lo que sea para ayudar.",
+        "No es lo <i>único</i> que puedes hacer."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ha sido mi misión desde que nací. Es lo único que\npuedo hacer.",
+      "choice_data_list": [
+        "Haré lo que sea para ayudar.",
+        "Haré lo que sea para ayudar.",
+        "No es lo <i>único</i> que puedes hacer."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Eso..."
+    },
+    {
+      "name": "Mujer A",
+      "text": "¡Espero ver grandes cosas de ustedes dos!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Cumplir con sus expectativas..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Bueno... intentaré no excederme."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Como qué?",
+      "choice_data_list": [
+        "Tu forma de correr puede inspirar valor en otros.",
+        "Tu forma de correr puede inspirar valor en otros."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Mujer A",
+      "text": "¡Verte correr me llena de valor! ¡He querido\ndecirte eso por mucho tiempo!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...",
+      "choice_data_list": [
+        "Sigamos avanzando."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Sí."
+    }
+  ]
+}

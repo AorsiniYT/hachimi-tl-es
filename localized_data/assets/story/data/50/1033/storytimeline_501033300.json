@@ -1,0 +1,388 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Sin darnos cuenta, ya es la última noche del\ncampamento de verano.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Mientras termino de preparar las estrategias para\nel próximo Kikuka Sho, miro por la ventana.",
+      "choice_data_list": [
+        "Las estrellas se ven muy claras esta noche."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Dejo que mis ojos se pierdan en el cielo nocturno,\ny un pensamiento cruza mi mente.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Así es. Esta noche es...",
+      "choice_data_list": [
+        "La luna nueva.",
+        "La luna nueva."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Uf... ¡Ayabe! ¡Perdón por hacerte esperar!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Está bien... No esperé mucho."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Probablemente te acorralaron otros compañeros,\n¿verdad?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Eres <i>tú</i> después de todo."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Jajaja, adivinaste. Tuve que atender un pequeño\nfavor..."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡De cualquier manera, apresurémonos! Será hora de\napagar las luces antes de que nos demos cuenta."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Segura que quieres correr en pareja conmigo... en\nla última noche del campamento de verano?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ya mejoraste mucho durante nuestro tiempo aquí."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Mmmm... Bueno, <i>claro que </i><i>yo</i> lo hice. Pero podrías\npensar esto como yo <i>midiendo </i><i>tu</i> mejora."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Además... realmente quiero correr contigo. ¡Así\nque vamos!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Si tengo que decirlo, ¡he estado ansioso por hacer\nesto!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Ansioso?"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Sí. Después del Derby, ¡he estado esforzándome\nmucho en el entrenamiento!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Quiero ver si puedo alcanzarte. Quiero medir hasta\ndónde puedo llegar."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡He estado ansioso por probar mis habilidades\ncontra ti!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Heh."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¿Eh? ¡O-oye, Ayabe! ¿Por qué sonríes?!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Oh... Nada. Solo hablas como un niño a veces."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Oye! Quiero decir, técnicamente aún no somos\nadultos, ¿verdad?"
+    },
+    {
+      "name": "???",
+      "text": "¡Jaaajaja! ¡Pensé que escuché el sonido de\nconversaciones alegres!"
+    },
+    {
+      "name": "Ayabe y Top Road",
+      "text": "...!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡E-e-es voz!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ayabe y Top Road! No necesitan explicarse.\nEvidentemente, desean participar..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡En la parada del Señor Supremo para iluminar el\ncielo nocturno!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Guau! ¡Opera O está haciendo que los campos\nbrillen con luz!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Jajaja... Opera O y Doto se divierten como\nsiempre."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Si es una comedia lo que deseas, yo la proveeré!\n¡Ven, Top Road! No te detengas y únete a la fila."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Cuando marchemos, debes cantar—¡SEÑOR SUPREMO!\n¡SEÑOR SUPREMO! ¡SE-ÑOR, SUPREMO!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡SEÑOR SUPREMO! ¡SEÑOR SUPREMO! ¡SUPREMO, SUPREMO!\nSupremo, supremo..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Eek?! Y-yo lo arruiné."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Cuenten sin mí."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "No seas tímida, Ayabe! Eres más que capaz, por eso\nte llamé."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Mientras soy yo, el Señor Supremo, quien borrará\ntodas las sombras del mundo, tú has ganado el\nderecho a estar a mi lado—una aliada de mi\nesplendor que ilumina incluso la noche sin luna!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Huh?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Hm? ¿Qué pasa, Ayabe?"
+    },
+    {
+      "text": "Admire Vega escanea apresuradamente el cielo\nnocturno, ignorando los rostros confundidos de\nT.M. Opera O y los demás.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Estrellas de todos los tamaños brillan y parpadean\ntan intensamente, que uno podría quemarse las\nretinas por mirar mucho tiempo.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Pero la luna—no se ve por ningún lado.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Por eso vengo a hablar, en esta noche de luna\nnueva."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Es algo que siempre he hecho, incluso antes de\nconocerte."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ahora es mi costumbre, una tradición que nunca he\nroto desde que supe lo que perdí."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(No...)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(No, no, no—esto no puede ser.)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Olvidé...?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Guau! ¿Eh?! ¡Ayabe? ¡Ayabeee!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Y-y ahí se va. Me pregunto qué pasa..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Se veía pálida..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "La sombra de la Parca."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Huh?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Quizás la estaba persiguiendo. No... Ella puede\nhaberla invocado ella misma."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿E-estás diciendo... que Ayabe podría tener algún\nespíritu extraño siguiéndola?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡E-entonces, tenemos que ir tras ella! Casi es\nhora de apagar las luces—¡es peligroso salir sola!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Deténganse. No deben seguirla a la oscuridad."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Debemos esperar en la luz. ¿Entiendes, verdad,\nDoto?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "O-Opera O... Entiendo..."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Ayabe..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>Huff, puff, huff!</i>"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Tengo que llegar a terreno más alto... más cerca\nde las estrellas!)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Más cerca de mi hermana... ¡Tengo que darme\nprisa!)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...¿Cuándo empezó esto?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Aún está... caliente.)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Mi garganta, mi pecho... se siente como si se\nquemaran.)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(¿Es el mismo calor que sentí durante mi carrera\ndebut? ¿Es <i>este... <i>tu</i> calor?)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Cuánto más rápida estará para cuando llegue el\nDerby?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Será nuestra próxima carrera aún mejor que—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Desde cuándo yo..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Después de todo, ¡quiero que todos compitan con\ntodo lo que tienen—incluyéndome a mí!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "(Competir... con todo lo que tengo...)"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Desde cuándo olvidé mis pecados—mi deber?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Desde cuándo olvidé todo mi propósito para estar\nviva?"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Espero con ansias correr contigo hoy!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Sí."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Demos lo mejor de nosotros."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Empecé a correr por mi propia satisfacción, por mi\npropio deseo, por mi propio placer..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>¡Por <i>mí misma!</i>"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Cómo me atrevo a vivir... por mí misma?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>Huff, puff... Wheeze...</i>"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Lo sien—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Yo... yo..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¡Lo siento!"
+    },
+    {
+      "name": "???",
+      "text": "..."
+    },
+    {
+      "name": "???",
+      "text": "Ayabe..."
+    },
+    {
+      "name": "???",
+      "text": "Ayabe, ¿qué pasa?"
+    }
+  ]
+}
