@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Voy camino a mi oficina con Matikanetannhauser,\ncuando...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oooh... Me duele la cabeza...",
+      "choice_data_list": [
+        "¿Te duele la cabeza?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Sí... Me ha dolido desde que desperté esta mañana.\nMe pregunto si hice algo poco saludable..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Veamos... He estado durmiendo mucho últimamente."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No ha habido cambios importantes en mi rutina de\nejercicios, y estoy comiendo bien."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, la presión atmosférica está baja hoy. Quizás\nsea eso."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Lo tengo! ¡Haré un muñeco de sol para ayudar a\nque el clima mejore cuando regrese a mi\nhabitación!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Lluvia, lluvia, vete lejos! ¡Munmunmun otro día!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Owww... Cantar me hace latir la cabeza..."
+    },
+    {
+      "text": "Matikanetannhauser continúa sufriendo su dolor de\ncabeza por un tiempo.",
+      "name": "Monólogo"
+    }
+  ]
+}

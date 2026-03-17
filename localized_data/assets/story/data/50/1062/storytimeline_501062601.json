@@ -1,0 +1,31 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Matikanetannhauser",
+      "text": "<i>Inhalar, exhalar...</i> El día finalmente ha llegado."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "<i>Inhalar, exhalar...</i> Solo mírame, Entrenador. Esta\nvez, me llevo el primer lugar...",
+      "choice_data_list": [
+        "¿Estás nerviosa?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No. Solo estoy respirando profundamente para no\nagitarme y tener un sangrado nasal."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "La carrera de hoy es una oportunidad importante\npara redimirme. Lo último que quiero es tener que\nretirarme porque mi nariz está sangrando.",
+      "choice_data_list": [
+        "Ah, ya veo... ¡Buena suerte ahí afuera!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Gracias. ¡Ahí voy!"
+    }
+  ]
+}

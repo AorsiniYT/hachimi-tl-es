@@ -1,0 +1,266 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día en el centro comercial, escucho una\nconversación entre tres miembros de la familia\nMejiro.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Entonces... Dober, Hermana Ryan, ¿qué les parece\nesta tienda de taiyaki?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Los taiyaki están realmente deliciosos! Gracias\npor traernos, Bright."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Jeje."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Caray, Bright. Estás prácticamente eufórico de\nalegría."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "De hecho. He estado esperando mucho que los tres\nsalgamos juntos. ♪"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Ryan... Hermana Ryan..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Hm? ¿Qué es, Bright?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¿Te importaría alimentarme con un taiyaki?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ahaha, eres un niño tan mimado."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Listo? Di \"Ahh\"."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Ahhh."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Jeje, eso estuvo tan delicioso que creo que\nquisiera otro bocado."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡D-detente! No deberías hacer ese tipo de cosas en\npúblico—¡todos están mirando! ¡Ni siquiera eres un\nniño. Y—"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Guau?!"
+    },
+    {
+      "text": "<i>¡Thump!</i>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Perdón por chocar contigo.",
+      "choice_data_list": [
+        "Ustedes se llevan muy bien.",
+        "Ustedes se llevan muy bien."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Oh, ¡lo siento mucho por chocar contigo! ¿Estás\nbien?",
+      "choice_data_list": [
+        "Ustedes se llevan muy bien.",
+        "Ustedes se llevan muy bien."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ah, haha... Bueno, ella es tan linda que no puedo\nevitar mimarla."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ah, haha... Bueno, ella es tan linda que no puedo\nevitar mimarla."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Simplemente me siento tan cómodo alrededor de\nHermana Ryan y su gran, cálido corazón."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Me encanta especialmente cómo me acaricia la cabeza.\n<i>Una mirada...</i>"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Uy, <i>vale.</i> Qué buena chica eres.<i>Caricia, caricia.</i>"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Jeje. ♪ Esto es pura felicidad."
+    },
+    {
+      "text": "Mientras la demostración de afecto continúa,\nMejiro Dober los mira en silencio.",
+      "choice_data_list": [
+        "¿Por qué no te unes, Dober?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿¡¿Eh?!? ¿Estás bromeando? ¡Nunca en un millón de\naños!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿¡¿Qué?!? N-no, gracias. ¡No hago ese tipo de\ncosas!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡No tengo el más mínimo deseo de ser mimada así!",
+      "choice_data_list": [
+        "¿Por qué no le pides que te alimente?",
+        "¿Por qué no intentas llamarla \"Hermana\"?",
+        "¿Por qué no intentas llamarla \"Hermana\"?"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "No quiero que Ryan me mime así... Bueno, tal vez\nun poco...",
+      "choice_data_list": [
+        "¿Por qué no le pides que te alimente?",
+        "¿Por qué no intentas llamarla \"Hermana\"?",
+        "¿Por qué no intentas llamarla \"Hermana\"?"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿¿E-estás loco?! ¡Nunca!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "N-no, ¡no puedo! ¡Sería demasiado vergonzoso!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "E-entonces... no hay forma de que yo pudiera..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "E-entonces... no hay forma de que yo pudiera..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Eh, R-Ryan!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Hm? ¿Qué pasa, Dober?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿M-me alimentarás...?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Oh, eh, ¡claro! Di \"Ahh\"..."
+    },
+    {
+      "text": "<i>¡Ñam!</i>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Ñam, ñam...</i>"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡E-es suficiente! ...¡Olvida lo que acaba de\npasar! ¡Yo... no me gusta este tipo de cosas!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Acabo de tener un lapsus de juicio momentáneo!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...Dober es tan linda, ¿verdad?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh, ella hace que mi corazón palpite."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡¿Eh?! ¿Quieres que empiece a llamarla \"Hermana Mayor\"<i>¡ahora?!</i>"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿¡¿Qué?!? Pero yo... ¡soy demasiado mayor para ese\ntipo de cosas!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Sería demasiado vergonzoso!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Sería demasiado vergonzoso!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "B-B-Bi... B-Bi-Bi..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Hm? ¿Qué pasa, Dober?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Hermana..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...¡N-no puedo hacerlo! ¡Voy a morir de vergüenza!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡No es lo que piensas! ¡No me gusta esa cosa!\n¡Esto definitivamente no es lo que parece!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡No quiero que me mimes!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...Dober realmente es adorable, ¿verdad?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¡Me encontré bastante encantado! ♪"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, estoy caminando por la promenade de la\nacademia cuando veo a Admire Vega parada inmóvil.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Kittens",
+      "text": "Meeeow. ♪"
+    },
+    {
+      "text": "Sigo su mirada y veo dos gatitos que parecen\nhermanos luchando. Admire Vega se ve más relajada\nde lo habitual mientras los observa.",
+      "choice_data_list": [
+        "¿Te gustan los gatos?",
+        "¿Te gustan los gatos?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Huh?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Quiero decir... No los odio..."
+    },
+    {
+      "text": "Dicho eso, Admire Vega rápidamente se aleja antes\nde que pueda decir algo más.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Más tarde esa noche...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ella aún no ha regresado... Pero tampoco la vi por\nallí...",
+      "choice_data_list": [
+        "¿A quién estás buscando?",
+        "¿A quién estás buscando?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Nadie... Solo estoy dando un paseo."
+    },
+    {
+      "text": "Eso dice, pero sus ojos se dirigen a un pequeño\ngatito que la mira y maúlla.",
+      "choice_data_list": [
+        "¿No había uno más antes?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No he visto a su hermanita desde el almuerzo."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ella probablemente solo fue a dar un paseo o a\nbuscar comida...",
+      "choice_data_list": [
+        "¿Te gustaría que te ayude a buscarla?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Por qué ofreces?",
+      "choice_data_list": [
+        "Porque cuantas más personas haya, más fácil será\nencontrarla."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Está bien."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jajaja! Encontrar un gatito o dos no será ningún\nproblema en absoluto con el Señor de los Cien Años\na tu lado!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Sr. Tanuki, aquí hay algo con el olor del gatito.\n¿Puedes detectarlo en otro lugar?"
+    },
+    {
+      "name": "Tanuki",
+      "text": "<i>Resoplido, resoplido.</i>"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sé que tener más personas hará la búsqueda\nmás eficiente, pero... ¿tuviste que invitar a <i>estas</i>\ndos?",
+      "choice_data_list": [
+        "Pensé que sería más fácil trabajar con personas\nque ya conoces."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Solo no vengas a llorar a mí cuando las cosas se\nsalgan de control."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Sal de tu escondite, Christine! ♪ Estoy aquí,\nnada puede dañarte. ♪"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Señor Tanuki! ¡Este no es el gatito perdido—esta\nes tu cena!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Estás aquí? Puedes salir ahora."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ella tampoco está aquí..."
+    },
+    {
+      "text": "Todos nos separamos para buscar al gatito perdido\nhasta que finalmente...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Gatito",
+      "text": "Meeeow."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh. ¿Es ese el gatito que buscamos, allí en la\nparte superior del escenario?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Te encontré, Christine! ¡Tu serenata angelical es\nmúsica dulce para mis oídos!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Deja de llamarla así. ¡Caray...",
+      "choice_data_list": [
+        "¡Qué alivio!",
+        "¡Qué alivio!",
+        "Eres tan amable.",
+        "Eres tan amable."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Deja de llamarla así. ¡Caray...",
+      "choice_data_list": [
+        "¡Qué alivio!",
+        "¡Qué alivio!",
+        "Eres tan amable.",
+        "Eres tan amable."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Supongo."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "De todos modos... Gracias por ayudarme."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Como dice el refrán, lo que bien acaba, bien\nestá! Ahora permíteme expresar la abrumadora\nalegría escondida en el corazón de Ayabe! ¡En\nforma de canción, por supuesto!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "La-la-laaa! ♪ Mi corazón baila, encontraste a tu\namado, ¡Pétalos de rosa de alegría florecen\nalrededor del mundo! ♪"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Basta. De todos modos, encontramos al gatito,\nasí que me voy ahora."
+    },
+    {
+      "name": "Kittens",
+      "text": "Miau. ♪"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "De nada. Me alegra que no hayan terminado\nseparados."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ustedes las chicas sean buenas y manténganse\nunidas, ¿vale?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "What?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Sí! Siempre vienes a rescatarme cuando también\ncometo errores tontos."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Basta de eso..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Solo estoy..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Olvídalo. Encontramos al gatito, así que me voy\nahora."
+    },
+    {
+      "name": "Kittens",
+      "text": "Miau. ♪"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "De nada. Me alegra que no hayan terminado\nseparados."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ustedes las chicas sean buenas y manténganse\nunidas, ¿vale?"
+    }
+  ]
+}

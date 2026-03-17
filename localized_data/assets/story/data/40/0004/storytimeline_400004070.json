@@ -1,0 +1,61 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Un placer verte de nuevo! Soy Etsuko Otonashi de <i>Twinkle Monthly</i>.¿Por casualidad estarías\nlibre ahora mismo?",
+      "choice_data_list": [
+        "¿Por qué de repente tanta formalidad?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Jeje... Pensé que sería apropiado, considerando\nque esta es la última carrera y todo eso."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...Ya es la hora. Esta carrera decidirá a la más\ngrande.",
+      "choice_data_list": [
+        "Exactamente."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "He esperado esto con tanta impaciencia, pero\ntambién me pone un poco triste... Es una sensación\nextraña."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Lo siento! No quería aguar un momento tan\nespecial! Sí, necesito recomponerme y realizar\nesta entrevista."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Como entrenadora de una contendiente principal para el título de <i>la más grande</i>, ¿cuál es tu perspectiva a medida que nos acercamos a la carrera final?!",
+      "choice_data_list": [
+        "¡Vamos a ganar!"
+      ]
+    },
+    {
+      "text": "El rugido de la multitud es atronador. Casi es\nhora de que suene la fanfarria.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "¡El título de \"la más grande\" se decidirá aquí\nmismo!",
+      "name": "Monólogo"
+    },
+    {
+      "text": "¿Cuál es tu perspectiva a pocos días de la carrera\nfinal?",
+      "choice_data_list": [
+        "¡Tengo fe!"
+      ],
+      "name": "Reporter Otonashi"
+    },
+    {
+      "text": "El rugido de la multitud es atronador. Casi es\nhora de que suene la fanfarria.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Voy a estar pendiente de <chrname> hasta el último momento.\nEn mi mente, al menos, ya es la más grande.",
+      "name": "Monólogo"
+    }
+  ]
+}

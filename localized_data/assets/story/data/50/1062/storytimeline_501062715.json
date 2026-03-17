@@ -1,0 +1,57 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Matikanetannhauser acaba de completar su rutina de\nentrenamiento completa, cuando...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Oye, Entrenador! ¡Hoy quiero correr un poco más!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Fuku me dijo que mi objeto de la suerte hoy es la\nluna!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Creo que podría obtener algún tipo de poder\nincreíble si corro de noche! ¡Esta es mi gran\noportunidad para superar mi yo ordinario!",
+      "choice_data_list": [
+        "¡Sal a buscar la luna!",
+        "Lo siento, pero terminarás agotándote."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡De acuerdo! ¡Prepárense para ver mi poder lunar!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Arriba, arriba y allá voy! Ei, ei, mun! ♪"
+    },
+    {
+      "text": "Matikanetannhauser continúa felizmente corriendo\nhasta bien entrada la noche.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hrm... Pero si el poder viene de la luz de la\nluna...",
+      "choice_data_list": [
+        "¿No bastaría con mirar la luna?",
+        "¿No bastaría con mirar la luna?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Oh, ahora que lo mencionas, ella nunca dijo que\ntuviera que correr!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "En ese caso, ¡esta noche solo miraré la luna desde\nmi habitación hasta que esté llena de poder!"
+    },
+    {
+      "text": "Con eso decidido, Matikanetannhauser regresa a su\ndormitorio.",
+      "name": "Monólogo"
+    }
+  ]
+}

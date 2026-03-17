@@ -1,0 +1,224 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "De regreso a la academia, nos encontramos con Nice\nNature, quien invita a Kitasan Black y a mí a un\nmercado de pulgas en el barrio comercial.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno? ¿Qué te parece el mejor pan en todo el\nbarrio comercial?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Mmm! ¡Está delicioso! ¡Y la mermelada de\nalbaricoque encima lo lleva a otro nivel!"
+    },
+    {
+      "name": "Vendedor A",
+      "text": "Lo sé, ¿verdad? <i>Debería</i> estar volando de las\nestanterías, pero..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "No se puede vender algo sin gente a quien\nvenderlo...",
+      "choice_data_list": [
+        "Ahora que lo mencionas, no hay muchos clientes por\naquí."
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Todo el mercado se siente desierto... pero ¿por\nqué? La gente debería estar acudiendo aquí con\ncomida tan deliciosa en oferta!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Escuché que hay un gran evento cerca, así que\ntodos deben estar allí en su lugar."
+    },
+    {
+      "name": "Tendero A",
+      "text": "Este mercadillo de pulgas se supone que debe\npromocionar el próximo Festival de Gratitud del\ndistrito comercial, pero a este ritmo, nadie se\nenterará."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Vamos, vamos! No hay necesidad de deprimirse\ntanto! Al fin y al cabo, tienes dos clientes muy\nsatisfechos justo frente a ti, ¿verdad?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Eh... Si está bien para ti, ¡me gustaría ayudarte!",
+      "choice_data_list": [
+        "¿Tienes algún tipo de plan?",
+        "¿Tienes algún tipo de plan?"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Sí, y tú vas a ayudar! Oh, pero primero,\ncompremos pan extra y mermelada."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Vale! Ahora tenemos que untar la mermelada en el\npan, y..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Aquí, Entrenador! ¡Vamos a comer!",
+      "choice_data_list": [
+        "¿Qué?!"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Tenemos mermelada de albaricoque, fresa, kiwi y\narándano! ¡Pon la cantidad que quieras!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¿Con qué quieres empezar? ¿Qué tal un poco de la\nbuena y vieja mermelada de fresa?"
+    },
+    {
+      "text": "Kitasan Black me pasa una rebanada de pan untada\ncon mermelada de fresa, así que la acepto y doy un\nmordisco.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¿Qué tal?",
+      "choice_data_list": [
+        "¡D-delicioso!"
+      ]
+    },
+    {
+      "name": "Transitante",
+      "text": "Eso se ve realmente sabroso... ¿Lo están vendiendo\nen un evento cerca o algo así?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Los compramos en ese mercadillo de pulgas justo\npor allí! ¡Tienen montones de comida deliciosa y\nofertas increíbles a la venta!"
+    },
+    {
+      "name": "Transitante",
+      "text": "¡Guau, en serio? No tenía idea de que estaban\nhaciendo un mercadillo. Tal vez deberíamos ir a\nechar un vistazo.",
+      "choice_data_list": [
+        "¡Lo logramos! ¡Atraímos a un grupo de clientes!"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Muy bien! ¡Sigamos con el buen trabajo y probemos\notro lugar!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Mmm-mmm! ¡Este pan de mermelada de kiwi realmente\nme cae de maravilla! ¡Puedo sentir cómo toda la\nfatiga se va de mi cuerpo!",
+      "choice_data_list": [
+        "¡El regusto ácido también es genial!",
+        "¡El regusto ácido también es genial!"
+      ]
+    },
+    {
+      "name": "Jogger",
+      "text": "Mmm... De repente tengo hambre."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Oh, adelante, toma una rebanada si quieres! ¡Las\nestán vendiendo justo por allí en el mercadillo!"
+    },
+    {
+      "text": "<i>Charlar, charlar... Murmurar, murmurar...</i>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Guau, estamos teniendo tantos clientes! ¿Cómo\nlograste atraer a tanta gente tan rápido, Kitasan?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Jeje, ¡lo único que hicimos fue divertirnos! La\ncuriosidad hizo el resto.",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Incluso cuando estás ocupado o con prisa en algún\nlugar, si escuchas a la gente divirtiéndose,\nnaturalmente quieres ver qué está pasando,\n¿verdad?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Podrías preguntarte qué es el alboroto y echar un\nvistazo. Una vez que lo haces, ¡ya te has\nconvertido en parte del festival!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "La gente inevitablemente se dejará llevar por la\nemoción, así que todo lo que tenemos que hacer es\nseguir divirtiéndonos y mantener el ambiente de\nfiesta en alto!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Guau, así de simple? Claramente estamos\naprendiendo de la maestra aquí.",
+      "choice_data_list": [
+        "¡Así que por eso estabas actuando tan emocionado\nafuera!",
+        "¡Así que por eso estabas actuando tan emocionado\nafuera!"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Sí! Pero gracias a las tiendas aquí que pude\nanimar las cosas tanto!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Las personalidades acogedoras de todos y el\ncuidado que pusieron en cada producto son lo que\nhizo que los clientes se emocionaran tanto!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Jeje! Seguro que estás exagerando."
+    },
+    {
+      "name": "Tendero A",
+      "text": "¡Tienes razón, sin embargo! La atmósfera relajada\ny amigable del distrito comercial es nuestro\nprincipal punto de venta!"
+    },
+    {
+      "name": "Tendero B",
+      "text": "¡Una vez que los clientes están aquí, el resto\ndepende de nosotros!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Gracias por toda su ayuda, ustedes dos. Tengo el\npresentimiento ¡de que el festival va a estar\ngenial!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Aquí! ¡Tomen un poco de pan y mermelada\ndeliciosos como regalo de agradecimiento!",
+      "choice_data_list": [
+        "¡Un regalo elegante para una chica elegante!",
+        "¡Un regalo elegante para una chica elegante!",
+        "Seguro que fue divertido atraer clientes.",
+        "Seguro que fue divertido atraer clientes."
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Aquí! ¡Tomen un poco de pan y mermelada\ndeliciosos como regalo de agradecimiento!",
+      "choice_data_list": [
+        "¡Un regalo elegante para una chica elegante!",
+        "¡Un regalo elegante para una chica elegante!",
+        "Seguro que fue divertido atraer clientes.",
+        "Seguro que fue divertido atraer clientes."
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¿Yo, elegante?! Jeje, eso podría ser ir un poco\ndemasiado lejos..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Vamos, eres nuestro superestiloso capitán!\n¡Mantén la cabeza alta!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Ay, ustedes! ¡Voy a tomar eso como un cumplido\nsincero, entonces! ¡Jaja!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "(Papá... Me pregunto si he logrado dar un pequeño\npaso más para ser como tú...)"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Realmente lo fue! Seguro que sabes de lo que\nestás hablando, Entrenador!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Y no es como que no hayamos obtenido nada nosotros\nmismos. ¡Quiero decir, fue muy divertido!"
+    }
+  ]
+}

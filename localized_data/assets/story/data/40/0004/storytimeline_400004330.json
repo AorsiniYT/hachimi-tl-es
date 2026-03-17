@@ -1,0 +1,225 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Soy el príncipe de este reino.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Las lujosas fiestas continúan día y noche dentro\nde mi castillo. Estos eventos son la cima de la\nextravagancia y me sirven solo las comidas más\nexquisitas.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Y sin embargo, estoy insatisfecho con este estilo\nde vida. ¿No hay nada que pueda ayudarme a\nliberarme de esta tediosa monotonía?",
+      "name": "Monólogo"
+    },
+    {
+      "name": "???",
+      "text": "BAM!",
+      "choice_data_list": [
+        "¿Q-qué fue eso?!",
+        "¿Q-qué fue eso?!"
+      ]
+    },
+    {
+      "text": "¡De repente, uno de los muros exteriores del\ncastillo se derrumba! El polvo se disipa para\nrevelar a una sola chica parada sobre los\nescombros!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "???",
+      "text": "¡Por fin he llegado al castillo del reino! ¡Vaya,\nes tan brillante, deslumbrante y hermoso!"
+    },
+    {
+      "name": "???",
+      "text": "¡Este es un castillo verdaderamente digno de\nalguien como yo!",
+      "choice_data_list": [
+        "¿Quién <i>eres</i> tú?",
+        "¿Quién <i>eres</i> tú?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Oh, vaya! Entonces que eres el príncipe? ¡Oh,\ncuánto he anhelado conocerte! ¡Eres literalmente\nel príncipe de mis sueños!"
+    },
+    {
+      "name": "???",
+      "text": "Permíteme presentarme. <i>Yo</i> soy la única y sole..."
+    },
+    {
+      "name": "Cinderella",
+      "text": "¡Cenicienta!",
+      "choice_data_list": [
+        "¿¡Qué?!"
+      ]
+    },
+    {
+      "name": "Cinderella's Stepmother",
+      "text": "¿¿C-Cenicienta?! ¿Qué haces aquí?!"
+    },
+    {
+      "name": "Cinderella's Stepsister",
+      "text": "¡Pero te dejamos atrás en la mansión!"
+    },
+    {
+      "name": "Cinderella",
+      "text": "¡Corrí cien kilómetros para llegar aquí!"
+    },
+    {
+      "name": "Cinderella",
+      "text": "Escalé montañas, salté valles, rompí rocas, nadé\npor rápidos furiosos..."
+    },
+    {
+      "name": "Cinderella",
+      "text": "Y después de superar una serie de desgracias, ¡por\nfin he llegado a la fiesta que tanto esperaba!",
+      "choice_data_list": [
+        "¡E-e-so es increíble!"
+      ]
+    },
+    {
+      "text": "Todavía no entiendo muy bien lo que pasa, pero\nesta chica parece bastante increíble.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "???",
+      "text": "<i>Jadeo... Jadeo...</i> ¡E-eh! ¡Cenicienta! ¡Espera ahí\nmismo!"
+    },
+    {
+      "name": "Cinderella",
+      "text": "¿Oh? ¿Quién podrías ser?"
+    },
+    {
+      "name": "???",
+      "text": "<i>Jadeo...</i> Uf... E-espera un segundo... Necesito\nalgo de agua... También tuvimos que correr todo\neste camino, ¿sabes?"
+    },
+    {
+      "name": "???",
+      "text": "<i>Glu, glu...</i> ¡Ahhh! ¡Bien! Prepárate para que te\nvuele la cabeza, Cenicienta! ¡Porque yo soy..."
+    },
+    {
+      "name": "La Hechicera",
+      "text": "¡La Hechicera!",
+      "choice_data_list": [
+        "¿¡La Hechicera?!"
+      ]
+    },
+    {
+      "text": "Espera, ¿esta \"hechicera\" también corrió cien\nkilómetros para llegar aquí?!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "???",
+      "text": "¡Eso... no es todo! <i>Jadeo... Resuello...</i> También está\nyo—<i>jadeo</i>—y..."
+    },
+    {
+      "name": "Vodka el Hada",
+      "text": "Y-yo, la hechicera... <i>jadeo,jadeo...</i> ¡hadas!\n<i>Jadeo...</i> ¡Uf!",
+      "choice_data_list": [
+        "¿¡Hadas?!"
+      ]
+    },
+    {
+      "name": "La Hechicera",
+      "text": "¡Cenicienta! ¿Viniste todo este camino sola? ¡Y\njusto cuando iba a ayudarte con mi maravillosa\nmagia!"
+    },
+    {
+      "name": "La Hechicera",
+      "text": "Supongo que no necesitarás esa calabaza convertida\nen carruaje. Ni un dispositivo mágico para\nayudarte a cruzar esas montañas traicioneras.\nMmm... ¿Qué más necesitas?"
+    },
+    {
+      "name": "Scarlet el Hada",
+      "text": "¡Hechicera! Creo que podría usar un vestido\nelegante digno de esta lujosa fiesta!"
+    },
+    {
+      "name": "Vodka el Hada",
+      "text": "¡No, Scarlet! Lo que necesita es un par de zapatillas de cristal! ¡Unas realmente <i>dulces</i> y con estilo!"
+    },
+    {
+      "name": "Scarlet el Hada",
+      "text": "¡Oh, qué sabrás?!"
+    },
+    {
+      "name": "Vodka el Hada",
+      "text": "¡Qué dijiste?!",
+      "choice_data_list": [
+        "Ustedes dos se llevan muy bien.",
+        "Ustedes dos se llevan muy bien."
+      ]
+    },
+    {
+      "name": "Las Dos Hadas",
+      "text": "¡No es cierto!"
+    },
+    {
+      "name": "Cinderella",
+      "text": "¿Qué opinas, mi príncipe? ¿Un vestido hermoso o\nzapatillas de cristal, cuál debería elegir?",
+      "choice_data_list": [
+        "Creo que eres perfecta tal como eres.",
+        "Creo que eres perfecta tal como eres.",
+        "¡Deberías resaltar tus puntos fuertes!"
+      ]
+    },
+    {
+      "name": "La Hechicera",
+      "text": "¿¡¿Qué?!? ¿Quieres decir que no quieres ninguna?!"
+    },
+    {
+      "text": "La verdadera belleza no tiene nada que ver con tu\napariencia. Le digo a Cenicienta que lo que\nrealmente importa es tu corazón y cómo lo\ndemuestras.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Cinderella",
+      "text": "¡Ya veo! ¡Es exactamente como dijo mi amada\nPrincesa Luchadora! \"¡No debes juzgar a las\npersonas por cómo se ven!\""
+    },
+    {
+      "name": "Cinderella",
+      "text": "Entonces, básicamente... lo que estás diciendo es\n<i>que ya soy </i>una princesa, ¿verdad?!",
+      "choice_data_list": [
+        "¡Eres la definición misma de una princesa!",
+        "¡Eres la definición misma de una princesa!"
+      ]
+    },
+    {
+      "name": "Cinderella",
+      "text": "¡Ohohoho! ¡Soy tan princesa como puede ser!"
+    },
+    {
+      "name": "La Hechicera",
+      "text": "¡Caray! ¡Entonces para qué vinimos todo este\ncamino?! ¡No los entiendo!"
+    },
+    {
+      "name": "Cinderella",
+      "text": "¿¡¿Eh?!? ¿Mis puntos fuertes?"
+    },
+    {
+      "text": "Ella corrió cien kilómetros sobre terreno\npeligroso. Ese tipo de habilidad física poderosa\nes notable. ¡Tiene un potencial ilimitado!",
+      "choice_data_list": [
+        "¡Únete a mí y persigue una carrera como atleta!",
+        "¡Únete a mí y persigue una carrera como atleta!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Cinderella",
+      "text": "¿Yo? ¿Una atleta?!"
+    },
+    {
+      "name": "Cinderella",
+      "text": "E-entonces... lo que debería pedirle a la\nhechicera es..."
+    },
+    {
+      "name": "Cinderella",
+      "text": "¡Un par de zapatillas de entrenamiento!"
+    },
+    {
+      "name": "La Hechicera",
+      "text": "¡Vamos, no necesitas magia para conseguir\nzapatillas de entrenamiento!"
+    },
+    {
+      "text": "<i>¡Beep-beep-beep! ¡Beep-beep-beep!</i>",
+      "choice_data_list": [
+        "¿¡¿Eh?!? ...Oh, todo fue un sueño."
+      ],
+      "name": "Monólogo"
+    }
+  ]
+}

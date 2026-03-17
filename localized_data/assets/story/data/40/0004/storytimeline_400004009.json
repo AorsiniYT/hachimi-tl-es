@@ -1,0 +1,205 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Después de completar nuestro entrenamiento diario, <chrname>\ny yo nos despedimos y vamos a casa.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡Entrenador <username>!"
+    },
+    {
+      "text": "Es Aoi Kiryuin, una compañera entrenadora aquí en\nla Academia Tracen y una mujer sincera.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Gran trabajo allí. Nosotras también acabamos de\nterminar.",
+      "choice_data_list": [
+        "¿Nosotras?"
+      ]
+    },
+    {
+      "text": "Otra entrenadora de la Academia Tracen, la\nestricta pero acomplizada Riko Kashimoto, se\nacerca a nosotras con un aspecto algo agotado.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...Buenas noches."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡Ah, Entrenadora Kashimoto! ¡Debería seguir\ndescansando!"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "No hay de qué preocuparse. En realidad...<i>suspiro...</i>\nno estoy tan cansada...",
+      "choice_data_list": [
+        "¿Qué pasó?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Bueno..."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡Hola, Entrenadora Kashimoto! ¿Ha terminado su\nentrenamiento del día?"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Oh, hola. Sí, solo pensé en revisar la pista una\núltima vez antes de mañana."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡Yo también estaba pensando en hacer lo mismo! Um,\nsi está bien contigo..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...¿Lo hacemos juntas?"
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡M-mientras esté bien contigo!"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "No me importa. Podremos realizar una revisión\nbásica más eficientemente trabajando juntas."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡Gracias! ¡Entonces comencemos de inmediato!"
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Hm, el césped está un poco áspero aquí..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Seguro que el personal de la academia lo atenderá\nmañana por la mañana, pero debemos tener cuidado\nsi decidimos hacer una sesión temprana."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡Definitivamente! Um, lo siguiente es... ¡Allá!"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...!"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "La tierra aquí está... <i>jadeo...</i> bien. No debería haber\nproblemas... Uf..."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¿Estás bien, Entrenadora Kashimoto? ¿E-estamos\nyendo muy rápido?"
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡Lo siento! Deberíamos haber ido más lento..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "No... Estoy bien."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Si algo, podríamos ir un poco más rápido. Apúrate,\nEntrenadora Kiryuin."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¿En serio? ¿Estás segura de esto?"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "<i>Jadeo... resuello...</i> E-e-el césped por aquí aún es\nadecuado."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡Entrenadora Kashimoto! ¡Por favor, no se esfuerce\ntanto!"
+    },
+    {
+      "text": "...",
+      "choice_data_list": [
+        "Así que estaban corriendo a fondo."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Ambas",
+      "text": "...Sí."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Qué patético... Me he avergonzado a mí misma."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡N-no seas tonto! Pero... Um, eh... ¡Entrenador <username>!",
+      "choice_data_list": [
+        "¿Sí?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡Tu régimen de entrenamiento hoy fue espectacular!\nY no solo hablo de tus tiempos por vuelta."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Tú y tu compañera estaban en perfecta sincronía.\nPodía notar realmente cuánto se confían la una a\nla otra."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Tengo que estar de acuerdo en ese punto. No puedes\nlograr ese tipo de entrenamiento sin tener una\nfuerte fe en la otra.",
+      "choice_data_list": [
+        "¡Me siento honrada de recibir tales elogios!"
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Dicho esto, no creo que nos hayas vencido en ese\nfrente. Yo también he viajado este largo viaje\njunto a mis compañeras."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Si entráramos en la misma carrera, creo de corazón\nque ellas saldrían victoriosas."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡Yo también! Te elogié mucho hace un momento, pero\nme niego a creer que mi Meek perdería."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Meek es la que está allá corriendo—es ella la que\nlo da todo. Una vez que esas puertas de salida se\nabran, ¡todo lo que puedo hacer es mirar!"
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Por eso tengo más fe en ella que en nadie más.",
+      "choice_data_list": [
+        "Entrenadora Kiryuin..."
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "¿Y tú, Entrenador <username>? ¿Crees en tu compañera?",
+      "choice_data_list": [
+        "Sí. Y no tengo intención de perder."
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...Supongo que esa fue una pregunta sin sentido."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Entrenadora Kiryuin, Entrenador <username>, les deseo a\nambas la mejor de las suertes.",
+      "choice_data_list": [
+        "¡Correcto! ¡Lo mismo para ti!"
+      ]
+    },
+    {
+      "text": "Esta noche, mientras nos deseamos suerte, renuevo\nmi fe en <chrname> y resuelvo hacer lo mejor que pueda.",
+      "name": "Monólogo"
+    }
+  ]
+}

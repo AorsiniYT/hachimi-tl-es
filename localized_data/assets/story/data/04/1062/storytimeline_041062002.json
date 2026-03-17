@@ -1,0 +1,251 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Todo ha ido bien desde que me convertí en la\nentrenadora de Matikanetannhauser. Mientras mira\nlas nubes hoy, tiene algo en mente.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hm, hoy quiero mezclar un poco mi entrenamiento..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, ¡pero no me malinterpretes! No es que tu\nrégimen no sea lo suficientemente estimulante!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Es que vi algunas ideas de entrenamiento realmente\ninteresantes en la tele ayer. ¡Algunos corredores\nincluso hacen triatlones y hasta juegan a las\nescondidas!",
+      "choice_data_list": [
+        "(Huh. Algo así podría ser bueno para un cambio.)"
+      ]
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "¡Exacto! ¡Y tengo justo la idea para los dos!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, hola, Directora."
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Estaba paseando por ahí cuando escuché que\nhablabas de ideas de entrenamiento novedosas. ¡Así\nque escucha esto!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "¿Te gustaría hacer un poco de cardio,mejorar tu\ningenio en la pista,<i>y</i> desarrollar fortaleza mental—todo mientras\njuegas un juego?"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "¡Me refiero a policías y ladrones, por supuesto!"
+    },
+    {
+      "text": "Encantada con la idea, Matikanetannhauser\nentusiasmada arrastra a muchos otros participantes\na nuestra sesión de entrenamiento especial.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Mira todo este espacio! ¡Ni siquiera sabía que\nteníamos acceso a un campo así!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Parece que puedes hacer una solicitud especial\npara usar estos terrenos si tu entrenamiento lo\nrequiere. No tendremos problemas para dar lo mejor\naquí."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Empecemos la fiesta! Primero, explicaré las\nreglas."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Cinco de nosotros formaremos el equipo de\npolicías, y cinco seremos los ladrones. ¡Los\npolicías intentarán atrapar a los ladrones dentro\ndel límite de tiempo!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Si al menos un ladrón logra mantenerse fuera del\nalcance de los policías cuando se acabe el tiempo,\nentonces su equipo entero gana! ¡Pero si los\npolicías atrapan a todos los ladrones, entonces\nellos ganan!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Los ladrones que aún estén libres pueden rescatar\na compañeros capturados, así que los policías\ndeben mantenerse alerta hasta el final."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Los ganadores serán tratados con un super\nelegante parfait, así que asegúrense de dar lo\nmejor!"
+    },
+    {
+      "name": "Todos",
+      "text": "¡Piedra, papel o tijera, ya! ¡Ya! ...¡Ya! ...¡Ya!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Muy bien, a robar!"
+    },
+    {
+      "name": "Robber Team",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Nuestra unidad aprehenderá a estos delincuentes en\ntiempo récord. ¡Oficiales, muévanse!"
+    },
+    {
+      "name": "Cop Team",
+      "text": "¡Sí!"
+    },
+    {
+      "text": "Comienza un intenso juego de policías y ladrones.\nCiertos criminales se encuentran en la cárcel sin\nmucho recurso, sin embargo.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Grrr! Esto apesta, esto apesta, ¡esto APESTA!\n¡Casi me escapaba también!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Qué lástima. Supongo que la comisaría local\nrealmente sabe lo que hace. Entonces, ¿quién no ha\nsido atrapado aún...? ¿Quién, solo Tannhauser? ¿En\nserio?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ah, pero ella puede pelear de verdad cuando su\ncabeza está en el juego. ¡Todavía podemos ganar!\n¡Sigue así, Tannhauser!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿Huh? Tal vez soy la única que queda? Yikes, ¿qué\nhago? ¿Debería intentar ir a rescatarlos? Tendré\nque ponerme detrás de ellos de alguna manera..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hmm... ¡No hay más que hacerlo! ¡Ei!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "¿Hm? Vi a alguien agacharse en los arbustos por\nahí. ¡Tras ella!"
+    },
+    {
+      "name": "Policía A",
+      "text": "¡Alto ahí, Machitan! ¡Te hemos atrapado con las\nmanos en la masa!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Uf, ¡son <i>demasiado</i> agudos!"
+    },
+    {
+      "name": "Policía B",
+      "text": "<i>Jadeo... jadeo...</i> Solo un... poco más... ¡Deberías\nentregarte!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "<i>Jadeo... jadeo...</i> ¡La maestra ladrona Machitan no\nse deja atrapar tan fácilmente!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Tenemos plenty de oficiales descansados y listos\npara relevar en múltiples puntos. Ríndete\nTannhauser, estás acabada."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "<i>Jadeo... jadeo... jadeo... jadeo...</i> Ha... no... lo\ncreoo..."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Oh, quién! ¡Machitan tiene un poder serio! ¡Sigue\nesquivándolos!"
+    },
+    {
+      "name": "Ladrón A",
+      "text": "Han sido casi veinte minutos seguidos de esto.\n¿Cómo no está totalmente exhausta a estas alturas?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Así es exactamente la corredora Tannhauser."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "<i>Jadeo... jadeo... resuello...</i>"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "No estamos llegando a ninguna parte, oficiales.\nNecesitamos una nueva formación—"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Y ahí está mi oportunidad! ¡Nos vemos!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Machitan! ¡SÍ! ¡Viene a rescatarnos! ¡En serio\neres la mejor!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "<i>Jadeo... jadeo... jadeo... jadeo...</i> Geh...\n¡Haaaaah!"
+    },
+    {
+      "text": "La maestra ladrona logra zafarse de sus\nperseguidores y llegar a la cárcel, pero luego...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡AY!"
+    },
+    {
+      "text": "...Se estrella de cabeza contra un árbol y se\ndesploma sobre la hierba.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "¡Tannhauser, bajo custodia!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Mumuu... También estaba tan cerca de escapar..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Aún así, fue una pelea de primera. Bien por ti por\nesforzarte tanto."
+    },
+    {
+      "text": "Los jugadores de ambos equipos se conmueven al\nhaber presenciado la demostración de fuerza de\nvoluntad y determinación de Tannhauser.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Muh... Es frustrante. Siento que estaba tan cerca,\npero nunca parezco ganar al final.",
+      "choice_data_list": [
+        "¿Es así?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Sí. Incluso en mis días en el club junior, a veces\nme enfermaba antes de las carreras, sin mencionar\nlos sangrados nasales... Siempre hay algo."
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "¡Exacto! Matikanetannhauser puede ser un poco\ndesordenada."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Directora! ¡Acabamos de volver del juego! Espera,\n¿\"desordenada\"?"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "¡Así es! Aunque creo que podemos decir que esa es\nuna historia del pasado! No todos pueden afirmar\nenfrentar ambiciones tan altas con una mente tan\nserena como la tuya."
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "¡Solo veo la luz más brillante emanando de nuestra\nfutura estrella! ¡Espero grandes cosas, y eso es\ntodo lo que tengo que decir! ¡Ja ja ja!",
+      "choice_data_list": [
+        "Y se fue...",
+        "Y se fue..."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ehehe, eso realmente ayuda. La directora en\nrealidad sale a animarme cuando me siento mal\nbastante a menudo."
+    },
+    {
+      "text": "Las palabras de la directora sobre Tannhauser\nresuenan conmigo. Tengo que asegurarme de que ella\ntenga su oportunidad de lograr grandes cosas.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Junto con esa increíble actuación en el juego de\npolicías y ladrones de hoy, no puedo evitar sentir\nun renovado sentido de emoción por su futuro.",
+      "name": "Monólogo"
+    }
+  ]
+}

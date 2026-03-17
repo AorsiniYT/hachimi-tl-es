@@ -49,7 +49,7 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Pero el boleto vino con algo que <i>tú</i> compraste.</i>",
+      "text": "Pero el boleto vino con algo que<i>tú</i>\ncompraste.",
       "choice_data_list": [
         "Bueno, esta salida de compras también fue por tu\nbien."
       ]
@@ -100,7 +100,7 @@
     },
     {
       "name": "Dependiente de la Rifa",
-      "text": "¡No hay de qué, señorita! El gran premio recibe\nese <i>nombre precisamente <i>por </i>su</i> rareza."
+      "text": "¡Para nada, joven! El gran premio se llama\nel gran premio precisamente <i>porque</i>de su rareza!"
     },
     {
       "name": "Mejiro Ardan",
@@ -202,7 +202,7 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Se podría decir que ganamos este premio <i>juntos,</i>\nasí </i>que se deduce que también debemos disfrutarlo\njuntos...",
+      "text": "Se podría decir que ganamos este premio<i>juntos,</i>\nasí que se deduce que también debemos\ndisfrutarlo\njuntos...",
       "choice_data_list": [
         "En ese caso, creo que disfrutaré."
       ]
@@ -217,7 +217,7 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Esta comida será un manjar especial, así que me\ngustaría <i>mucho <i>presentarlo</i> de la mejor manera\nposible."
+      "text": "Esta comida va a ser un trato especial,así que me\ngustaría mucho <i>presentarla</i> lo\nmás agradable posible."
     },
     {
       "text": "Más tarde, Mejiro Ardan y yo disfrutamos juntos de\nla riquísima hamburguesa de zanahoria de lujo.",

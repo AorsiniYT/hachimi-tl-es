@@ -1,0 +1,208 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "El día finalmente ha llegado para que yo dé mi\npresentación frente a las otras entrenadoras.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Es hora de nuestra reunión regular de\nentrenadores. ¡Estoy ansiosa por tu presentación,\n<username>!"
+    },
+    {
+      "text": "Puede que no sea tan buena como las entrenadoras\nveteranas, pero he aprendido a trabajar duro a\ntravés de todo mi entrenamiento de fuerza, ¡y\nestoy determinada a hacer lo mejor!",
+      "choice_data_list": [
+        "(¡Tengo esto!)"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Entonces... ¿cómo fue?",
+      "choice_data_list": [
+        "¡Fue genial!"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿¡En serio!? ¡Eso es fantástico! Qué alivio\nescuchar eso.",
+      "choice_data_list": [
+        "Te invité hoy para darte mis agradecimientos.",
+        "Te invité hoy para darte mis agradecimientos."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡No es necesario! No hice nada especial."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Básicamente, solo te di consejos no solicitados de\nla nada... Y todo porque me vi en ti.",
+      "choice_data_list": [
+        "¿Te viste en mí? ¿Cómo?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Bueno, es solo... Pasé por lo mismo una vez..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Siempre he disfrutado estar activa, desde que era\npequeña. Eso es lo que me metió en el ejercicio al\nprincipio."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Luego, un día, mi tía me dijo que estaba realmente\nbien construida para correr."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Soy bastante común y no notable para una Mejiro,\npero luego me di cuenta de que aún había algo que\ntambién me distinguía."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Mi musculatura era mi fortaleza, ¡y estaba\ndeterminada a convertirla en mi arma!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Así que, comencé a ejercitarme aún más. Sin\nembargo..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "\"¡Tengo que levantar esto, o si no! ¡Yo... tengo\nque entrenar más!\""
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Un día, choqué contra una pared y entré en pánico\ntotal. Me lancé de lleno al entrenamiento."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Incluso comencé a renunciar al sueño por el bien\ndel entrenamiento. Eventualmente, todos me\ndetuvieron. Y luego..."
+    },
+    {
+      "name": "Grandma Mejiro",
+      "text": "Escuché de Ardan que te has estado ejercitando\nhasta enfermarte."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Eso no es cierto! Solo estoy tratando de ponerme\nmás fuerte para que—"
+    },
+    {
+      "name": "Grandma Mejiro",
+      "text": "No puedes cruzar mil millas en un solo salto."
+    },
+    {
+      "name": "Grandma Mejiro",
+      "text": "Eso aplica para cualquiera, incluso para McQueen y\nArdan."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...!"
+    },
+    {
+      "name": "Grandma Mejiro",
+      "text": "Ryan... Reconoce el valor en cada paso que das."
+    },
+    {
+      "name": "Grandma Mejiro",
+      "text": "No importa cuán pequeño sea el paso que des, aún\nes un paso adelante."
+    },
+    {
+      "name": "Grandma Mejiro",
+      "text": "Las barras que has estado levantando son más\npesadas que las que usaste el año pasado, ¿no?"
+    },
+    {
+      "name": "Grandma Mejiro",
+      "text": "Has llegado a personificar esas mismas barras. Es\npor eso que esperamos tanto de ti. No lo olvides."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Todos tendemos a concentrarnos en hacer grandes\ntransformaciones y obtener un éxito enorme."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Pero lo que realmente es importante...",
+      "choice_data_list": [
+        "¿Es el progreso diario que haces, verdad?",
+        "¿Es el progreso diario que haces, verdad?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Correcto! ¡Siempre que hagas un poco cada día, no\nhay nada que no puedas lograr!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Es por eso que realmente quería que te dieras\ncuenta..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Lo asombroso que es el entrenamiento de fuerza!"
+    },
+    {
+      "text": "Estoy bastante segura de que fue el entrenamiento\nde fuerza el que me enseñó la importancia de\ntrabajar duro todos los días, no al revés, pero\nbueno.",
+      "choice_data_list": [
+        "Eres una buena presentadora.",
+        "Eres una buena presentadora.",
+        "¡No hay nada como el entrenamiento de fuerza!",
+        "¡No hay nada como el entrenamiento de fuerza!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Estoy bastante segura de que fue el entrenamiento\nde fuerza el que me enseñó la importancia de\ntrabajar duro todos los días, no al revés, pero\nbueno.",
+      "choice_data_list": [
+        "Eres una buena presentadora.",
+        "Eres una buena presentadora.",
+        "¡No hay nada como el entrenamiento de fuerza!",
+        "¡No hay nada como el entrenamiento de fuerza!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿¡Qué!? ¿Yo? ¿Una buena presentadora?!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Estás bromeando! ¡Esa es, como, la última cosa en\nla que soy buena! Odio pararme frente a la gente e\nintentar explicar ideas.",
+      "choice_data_list": [
+        "Apuesto a que serías buena en conferencias de\nentrenamiento de fuerza."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...¡Conferencias de entrenamiento de fuerza!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eso en realidad suena un poco divertido...\n¿Quieres ayudarme a practicar haciendo\npresentaciones, entonces?"
+    },
+    {
+      "text": "Algún tiempo después, la acompaño para su práctica\nde presentación y aumento aún más mi conocimiento\nsobre el ejercicio.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Sí! ¡Sabía que me entenderías, Entrenador!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "A propósito, he estado ideando una rutina de\nejercicio solo para ti.",
+      "choice_data_list": [
+        "What?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Armé esta rutina para ti adaptada a tus hábitos y\nmúsculos comúnmente usados, que obtuvimos\nobservando tu entrenamiento!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Te enfocaste en entrenar tu parte superior la\núltima vez, así que esta rutina se enfoca en tu\nmitad inferior, especialmente tus muslos y..."
+    },
+    {
+      "text": "Ella continúa hablando poéticamente sobre el\nrégimen que ha armado durante un largo, largo\ntiempo.",
+      "name": "Monólogo"
+    }
+  ]
+}

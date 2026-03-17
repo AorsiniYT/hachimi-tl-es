@@ -15,7 +15,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Daño mínimo. La misión puede reanudarse a\nvoluntad. Esperando órdenes del <i>comandante. <i>Bip,\nbip.</i>",
+      "text": "Daño mínimo. La misión puede reanudarse a voluntad.\nEsperando órdenes del comandante.<i>Bip, bip.</i>",
       "choice_data_list": [
         "Las reparaciones tienen prioridad.",
         "¡Vamos a actualizar tu sistema operativo!"
@@ -23,7 +23,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Iniciando escaneo <i>secundario... <i>Bip.</i> </i>La misión\npuede reanudarse a voluntad. Solicitando nuevas\nórdenes.",
+      "text": "Iniciando escaneo secundario... <i>Bip.</i>La misión puede\nreanudarse a voluntad.Solicitando nuevas órdenes.",
       "choice_data_list": [
         "Desestimado. Las reparaciones deben tener\nprioridad."
       ]
@@ -41,7 +41,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "<i>Suspiro.</i> Orden reconocida. Priorizando\n<i>reparaciones... <i>Bip, bip, bip...</i>"
+      "text": "<i>Suspiro.</i> Orden reconocida. Priorizando reparaciones...\n<i>Bip, bip, bip...</i>"
     },
     {
       "name": "Monólogo",
@@ -65,7 +65,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Genial, ahora solo soy un montón de <i>chatarra.\n<i>Suspiro...</i>"
+      "text": "Genial, ahora solo soy un montón de chatarra. <i>Suspiro...</i>"
     },
     {
       "name": "Monólogo",

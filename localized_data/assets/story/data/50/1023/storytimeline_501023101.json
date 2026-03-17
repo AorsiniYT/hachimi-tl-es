@@ -31,7 +31,7 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "<i>¡No <i>manera!</i> ¿Cómo lo supiste?! ¡Es exactamente\nasí! ¡Correr en el Derby es mi sueño!"
+      "text": "¡De ninguna <i>manera</i>! ¿Cómo supiste?! ¡Es exactamente correcto!\n¡Correr en el Derby es mi sueño!"
     },
     {
       "name": "Winning Ticket",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Espectador",
-      "text": "<i>Snif.</i> No es eso. Solo <i>estoy—<i>¡hip!</i>—tan feliz </i>de que\nella haya ganado!"
+      "text": "<i>Snif.</i> No es eso. Estoy solo—<i>¡hip!</i>—tan feliz de que\nella ganó!"
     },
     {
       "name": "Espectador",
@@ -232,12 +232,12 @@
       "name": "Biwa Hayahide",
       "text": "Revisaremos a los ganadores de la Triple Corona\nClásica de los últimos diez años y veremos si\npodemos identificar alguna tendencia.",
       "choice_data_list": [
-        "¿De los <i>últimos <i>diez</i> años?"
+        "¿De los últimos <i>diez</i> años?"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Tienes toda la razón. Eso no es suficiente,\n¿verdad? <i>Revisemos datos </i>de <i>veinte</i> años."
+      "text": "Tienes toda la razón. Eso no es suficiente, ¿verdad?\nRevisemos <i>veinte</i>años de datos."
     },
     {
       "name": "Monólogo",

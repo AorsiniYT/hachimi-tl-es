@@ -1,0 +1,222 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Desde que me senté en mi escritorio para elaborar\nun nuevo régimen de entrenamiento para <chrname>, las\núltimas horas han volado. Estoy a punto de tomar\nun descanso cuando...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "<i>Toc, toc</i>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Estás ahí, Entrenador? Soy Tazuna. Tienes una\nvisita. ♪"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Es Etsuko Otonashi de <i>Twinkle Monthly.</i>\n¿Por casualidad estarías disponible para hablar en este\nmomento?",
+      "choice_data_list": [
+        "Por favor, pasa."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Gracias."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Oh, ¿estás trabajando? Perdón por molestarte.",
+      "choice_data_list": [
+        "Sí, estaba pensando en un nuevo régimen de\nentrenamiento."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Un régimen de entrenamiento? Eh, si no te\nimporta, ¿puedo echar un vistazo?",
+      "choice_data_list": [
+        "Adelante."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Muchas gracias. Disculpa..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Ohh... Hm, ya veo. Asombroso... Oh, pero esto\nes... ¡Hmm!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...Gracias de nuevo. ¡Eso fue realmente\nfascinante!",
+      "choice_data_list": [
+        "Me gustaría escuchar tu opinión al respecto."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿La mía? Pero solo soy una reportera. No estoy\nsegura de que mis pensamientos sean especialmente\nperspicaces...",
+      "choice_data_list": [
+        "Otras perspectivas también son valiosas."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Qué actitud tan asombrosa! Absorbiendo todo lo\nque puedes, casi como un agujero negro\ninsaciable..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Entonces, con todo respeto, creo que podría ser\nbeneficioso reconsiderar la forma de los tacos que\nhas elegido."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Con esta forma de correr, creo que usar tacos de\nborde exterior aliviará parte de la carga sobre el\ncorredor."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Además, me parece que la resistencia a menudo se\nconvierte en un motivo de preocupación para los\ncorredores alrededor de esta etapa de sus\ncarreras."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Y basándote en tus tiempos de vuelta más\nrecientes, podría beneficiarte aumentar el número\nde sesiones de entrenamiento en rampa..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...Eso es todo lo que tengo que comentar. Es solo\nla opinión de un aficionado, pero espero que pueda\nser de ayuda de alguna pequeña manera.",
+      "choice_data_list": [
+        "¡Fascinante!"
+      ]
+    },
+    {
+      "text": "¡Ella ciertamente tiene mucho que decir, y sus\nobservaciones son todas increíblemente\nperspicaces!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Siempre supe que eras conocedor de las carreras,\npero eres un verdadero manantial de sabiduría,\nReportera Otonashi!",
+      "choice_data_list": [
+        "Podrías convertirte en entrenadora tú misma."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Me honra escuchar eso... Pero estoy bastante\ncontenta siendo reportera."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Si no fuera reportera, yo...",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oh! ¿No necesitas discutir las revistas,\nReportera Otonashi?"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Hm? ¡Ah! ¡Lo siento muchísimo! ¡No es propio de\nmí olvidar mis prioridades!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Me gustaría que echaras un vistazo a estas\nrevistas y me dijeras qué te parecen los anuncios\npara el Twinkle Star Climax!",
+      "choice_data_list": [
+        "Ah, me preguntaba qué había en la bolsa."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Vaya que hay muchas! Y no solo revistas de\ncarreras, también hay revistas de moda y manga de\nUmamusume."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Así es! Y las publicaciones físicas son solo una\npequeña fracción del panorama total—también hemos\nescrito artículos especiales para sitios web.",
+      "choice_data_list": [
+        "¿Todo esto y dices que es solo una pequeña\nfracción?!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Yo también quedé completamente sorprendida!",
+      "choice_data_list": [
+        "¡Realmente hace que te des cuenta de la magnitud\nde este evento, ¿verdad?!"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Ojalá pudiera redirigir tus amables comentarios a\nlas muchas empresas que accedieron a colaborar y\nayudar!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Sin embargo, todavía tenemos mucho combustible en\nel tanque. El día de apertura de la serie aún está\nlejos..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Y esperamos usar ese tiempo para más promoción.\nQuiero crear el evento de carreras más grandioso:\nuno que cada ciudadano esperará con el aliento\ncontenido!",
+      "choice_data_list": [
+        "¡Tu energía es palpable!"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Bueno, ¡esta serie va a determinar al más grande,\ndespués de todo! Quiero aprender de tu ejemplo,\nEntrenador <username>, y dedicarme por completo a esta\ncausa!",
+      "choice_data_list": [
+        "¿Entonces yo también me dedico por completo a\nello?",
+        "¿Entonces yo también me dedico por completo a\nello?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Naturalmente! ...¡Oh, mira la hora!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Mi agenda está repleta de reuniones para este\nproyecto, así que necesito volver a la oficina de\ninmediato. ¡Gracias por su tiempo hoy!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ahí se va. Entra y sale de aquí como un\nremolino...",
+      "choice_data_list": [
+        "¡Así es!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Oh, a propósito, ¿has visto esto?"
+    },
+    {
+      "text": "Tazuna me pasa una revista. Entre la línea de\nreportajes sobre corredores de élite hay un\nartículo sobre <chrname>!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Estos son los principales contendientes para el\ntítulo de \"el más grande\". ...¿Qué opinas?",
+      "choice_data_list": [
+        "Para ser honesto, estoy extasiado. Pero..."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Pero?",
+      "choice_data_list": [
+        "¡Algún día, quiero ver un número completo dedicado\na ella!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oh, por Dios! Entiendo cómo te sientes, sin\nembargo. Un artículo tan pequeño deja un poco que\ndesear."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Número Especial sobre <chrname>, la Umamusume Más Grande!\nHehe, espero leer eso algún día. ♪"
+    },
+    {
+      "text": "Estoy seguro de que <chrname> surgirá de esta serie como\nalgo más que un simple contendiente.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "¡Durante nuestra sesión de entrenamiento más tarde\nese día, estoy rebosante de aún más motivación que\nde costumbre!",
+      "name": "Monólogo"
+    }
+  ]
+}

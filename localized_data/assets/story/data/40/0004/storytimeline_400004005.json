@@ -1,0 +1,114 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Voz de la Academia",
+      "text": "Entrenador <username>, por favor venga a la oficina del\ndirector inmediatamente."
+    },
+    {
+      "text": "El anuncio suena serio, así que me dirijo a la\noficina del director con cierta agitación.",
+      "choice_data_list": [
+        "Es <username>."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Por favor, pase."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Por favor, tome asiento."
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "...",
+      "choice_data_list": [
+        "...¿E-eh?"
+      ]
+    },
+    {
+      "name": "Tazuna y Directora Akikawa",
+      "text": "..."
+    },
+    {
+      "text": "¡El silencio es realmente inquietante! A medida\nque los minutos sin palabras empiezan a sentirse\ncomo horas...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "...Me siento cada vez más inquieto. ¿Ha ocurrido\nalgo terrible?",
+      "choice_data_list": [
+        "¡Eh! ¿Q-qué está pasando?!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "¡Gratitud!",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Te llamamos hoy aquí para expresarte nuestra\ngratitud, Entrenador!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "¡En efecto! Tu pupila <chrname>..."
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Bueno, ¡ha dado una brillante actuación durante\neste vital tercer año en su carrera en la Twinkle\nSeries!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "¡No tenemos duda de que el camino que abrió\nservirá como un faro brillante no solo para sus\ncompañeros de clase, sino también para la próxima\ngeneración!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Por lo tanto, estamos... ¡INCREÍBLEMENTE\nagradecidos! ¡Espléndido trabajo, Entrenador!",
+      "choice_data_list": [
+        "¡M-muchas gracias!"
+      ]
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "¡Correcto! Además... ¡Expectativas! ¡Espero con\ngran ansia la gloria sin precedentes que seguro\nalcanzarás en el futuro!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "También me gustaría agradecerte por tus continuos\nesfuerzos. No dudes en hacerme saber si hay algo\nen lo que pueda asistirte."
+    },
+    {
+      "text": "¡Parece que todo lo que tenían preparado era un\nmontón de elogios! Estoy muy agradecido, por\nsupuesto, pero algo todavía me molesta.",
+      "choice_data_list": [
+        "¿Qué fue ese silencio incómodo?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "¡Una sorpresa! ¡Naturalmente!",
+      "choice_data_list": [
+        "...¿Una sorpresa?"
+      ]
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "¡Sí! ¡Pensé que construir un poco de suspenso\nharía que la recompensa fuera más satisfactoria!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "L-lo siento. Intenté detenerla..."
+    },
+    {
+      "text": "...Hay un par de cosas que me gustaría cuestionar,\npero me alegra saber que soy apreciado.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Más tarde, le cuento a <chrname> lo que pasó y compartimos\nla alegría!",
+      "name": "Monólogo"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Es el último día del campamento de verano, pero\nMatikanetannhauser no está por ningún lado. La\nbusco por todos lados, hasta que...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Oh, Entrenador!",
+      "choice_data_list": [
+        "Ya es casi hora de irse."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Ah! ¿Ya es tan tarde?! ¡Perdón! Solo estaba\nbuscando algo...",
+      "choice_data_list": [
+        "¿Qué estás buscando?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Solo algunas cosas que encontré ayer pero olvidé\ntraer de vuelta. Oh, ¿dónde están?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...¡Ah! ¡Aquí están!"
+    },
+    {
+      "text": "Ella señala hacia una fila de varios caracoles\naraña.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ehe, ¡son conchas marinas con forma de araña! ¡Son\ntan lindas y puntiagudas!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oye, ¡usémoslas para decorar tu oficina! Pueden\nrecordarnos este verano."
+    },
+    {
+      "text": "En definitiva, el campamento de verano de este año\nllega a su fin con Matikanetannhauser de buen\nhumor.",
+      "name": "Monólogo"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Estoy caminando junto al estudio de baile cuando\nveo a Narita Top Road practicando vigorosamente.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "<i>Jadeo... Jadeo...</i> ¡Eso fue terrible! ¡Pero aún no\nme rindo! ¡Vale, una vez más!",
+      "choice_data_list": [
+        "(¡Ella realmente está trabajando duro!)"
+      ]
+    },
+    {
+      "name": "Compañero de Clase A",
+      "text": "¡Oh! ¡Representante de Clase! ¡Gracias a Dios que\nte encontré!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¿Eh? ...¡Guau! ¿Qué pasa?"
+    },
+    {
+      "name": "Compañero de Clase A",
+      "text": "¡E-es malo! ¡Muy malo! ¡Vamos, apúrate! ¡Todos te\nnecesitan!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Uh oh. Esto debe ser una verdadera emergencia.\n¡Vale, guía el camino!"
+    },
+    {
+      "name": "Compañero de Clase A",
+      "text": "¡Vale! Y... ¡oh! ¿Podrías venir tú también? ¡Tener\nun adulto cerca nos haría sentir mucho mejor!",
+      "choice_data_list": [
+        "Eh, ¡vale!"
+      ]
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¿Todo está bien?!"
+    },
+    {
+      "name": "Compañero de Clase B",
+      "text": "¡Representante de Clase! ¡Viniste! ¡Y hasta\ntrajiste un entrenador!"
+    },
+    {
+      "name": "Compañero de Clase B",
+      "text": "Qué alivio... ¡Ahora sí tendremos posibilidades de\naprobar el examen de recuperación de mañana!",
+      "choice_data_list": [
+        "Espera. ¿Examen de recuperación?"
+      ]
+    },
+    {
+      "name": "Compañero de Clase A",
+      "text": "L-lo siento! Estaba tan apurado que olvidé\nexplicar la situación...",
+      "choice_data_list": [
+        "Y yo que pensé que algo terrible había pasado..."
+      ]
+    },
+    {
+      "name": "Compañero de Clase A",
+      "text": "¡Pero esto <i>sí</i> es terrible, y necesitamos tu ayuda!\n¡Por favor, ayúdanos a estudiar! ¡De lo contrario,\nestamos perdidos!"
+    },
+    {
+      "text": "No me importa quedarme, pero Narita Top Road\nestaba en medio de la práctica de baile. La miro\ncon preocupación.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Je... Jeje... ¡Jajaja!",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Ah, qué alivio. ¡Pensé que alguien se había\nlastimado o algo! Me alegra mucho que no fuera\nnada serio."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "De todos modos, me encantaría ayudar con sus\nestudios. Soy una maestra estricta, así que\n¡prepárense para trabajar duro!"
+    },
+    {
+      "name": "Compañeros de Clase",
+      "text": "¡Gracias! ¡Me salvaste!",
+      "choice_data_list": [
+        "¿Qué hay de tu práctica de baile?",
+        "¿Qué hay de tu práctica de baile?"
+      ]
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Oh, está bien. Puedo practicar cuando sea. ¿Y tú?\n¿Tienes el tiempo?",
+      "choice_data_list": [
+        "No tengo nada planeado, así que puedo ayudar."
+      ]
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¿En serio? ¡Muchas gracias!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dividamos el trabajo. Primero, necesitamos\nentender con qué estamos tratando y determinar qué\nhabrá en el examen de mañana."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "A continuación, analizaremos la situación,\naveriguaremos qué no entienden y abordaremos todo\ncon lo que están luchando.",
+      "choice_data_list": [
+        "¡Vale!"
+      ]
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Muy bien, todos. ¡Es hora de ponerse serios!\n¡Mañana todos obtendrán calificaciones\naprobatorias!"
+    },
+    {
+      "name": "Compañeros de Clase",
+      "text": "¡Sí, señora!"
+    },
+    {
+      "text": "Tengo curiosidad por saber cómo fue el examen de\nrecuperación, así que visito el aula de los\nestudiantes al día siguiente.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Compañero de Clase A",
+      "text": "¡Sííí! ¡Aprobé! ¡Muchas gracias! ¡Nos salvaste!"
+    },
+    {
+      "name": "Compañero de Clase B",
+      "text": "¡Lo sé, ¿verdad?! ¡Lo hiciste todo tan fácil de\nentender! ¡Estaríamos perdidos sin ti, Top Road!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Ahaha. Lo único que hice fue ayudar. ¡Ustedes son\nlas que pusieron todo el esfuerzo!",
+      "choice_data_list": [
+        "Eres tan modesta.",
+        "Eres tan modesta."
+      ]
+    },
+    {
+      "name": "Compañero de Clase B",
+      "text": "¡Oh, hola! ¡Y sí, realmente lo es! Top Road es tan\nbuena en todo—la escuela, el baile, las\ncarreras... ¡pero es tan humilde al respecto!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Ay, estás exagerando!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Pero gracias! ¡Estoy realmente feliz de haber\npodido ayudarlos a todos!"
+    },
+    {
+      "text": "Narita Top Road sonríe con brillo. ¡Es el retrato\nde una estudiante modelo!",
+      "name": "Monólogo"
+    }
+  ]
+}
