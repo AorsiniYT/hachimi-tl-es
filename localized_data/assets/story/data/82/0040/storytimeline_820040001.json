@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Hoy, tanto entrenadores nuevos como veteranos se\nhan reunido para escuchar los informes de\nrendimiento de cada uno. He aprendido bastante del\nevento, pero...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Hoy, tanto entrenadores nuevos como veteranos se\nhan reunido para escuchar los informes de\nrendimiento de cada uno. He aprendido bastante del\nevento, pero..."
     },
     {
       "name": "Trainer Kiryuin",
@@ -13,15 +13,15 @@
       ]
     },
     {
-      "text": "Hago mi mejor esfuerzo para armar una presentación\nperspicaz...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Hago mi mejor esfuerzo para armar una presentación\nperspicaz..."
     },
     {
+      "name": "Monólogo",
       "text": "Paso los próximos días preparándome, pero la\ninformación que he reunido parece no ser ni de\ncerca tan útil como lo que presentaron los\nentrenadores veteranos.",
       "choice_data_list": [
         "(¿Qué debería hacer?)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ryan",
@@ -50,15 +50,15 @@
       "text": "¡Vamos a empezarte con algunos levantamientos de\nmancuernas! Aquí, ¡prueba con esta de veinte\nkilogramos!"
     },
     {
-      "text": "No veo cómo el entrenamiento de fuerza ayudará mi\npresentación, pero ya que ella parece bastante\npreocupada por mí, decido intentarlo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No veo cómo el entrenamiento de fuerza ayudará mi\npresentación, pero ya que ella parece bastante\npreocupada por mí, decido intentarlo."
     },
     {
+      "name": "Monólogo",
       "text": "Me preparo para levantar la mancuerna, pero...",
       "choice_data_list": [
         "¡Es muy pesada!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ryan",
@@ -77,8 +77,8 @@
       "text": "¡Intentémoslo de nuevo, pero con cinco kilogramos\nesta vez! ¡Confía en tus deltoides!"
     },
     {
-      "text": "Por el resto del día, me concentro en entrenar mis\ndeltoides bombeando las mancuernas de cinco kilos.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Por el resto del día, me concentro en entrenar mis\ndeltoides bombeando las mancuernas de cinco kilos."
     },
     {
       "name": "Mejiro Ryan",
@@ -88,8 +88,8 @@
       ]
     },
     {
-      "text": "Y así, el peso de mis mancuernas aumenta día a\ndía.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, el peso de mis mancuernas aumenta día a\ndía."
     },
     {
       "name": "Mejiro Ryan",
@@ -104,8 +104,8 @@
       "text": "¡Ese es el espíritu! ¡Bueno, adelante y\nlevántalos!"
     },
     {
-      "text": "¡Asombrosamente, las mancuernas de veinte kilos\nque ni se movían cuando intenté levantarlas antes\nse elevan ligeramente en el aire!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Asombrosamente, las mancuernas de veinte kilos\nque ni se movían cuando intenté levantarlas antes\nse elevan ligeramente en el aire!"
     },
     {
       "name": "Mejiro Ryan",
@@ -123,11 +123,11 @@
       "text": "¡No hay nada que no puedas hacer siempre y cuando\nte construyas diligentemente!"
     },
     {
+      "name": "Monólogo",
       "text": "En el momento en que ella dice eso, de repente me\ndoy cuenta de que si solo trabajo en mi informe de\nrendimiento lenta y constantemente, entonces\nquizás, solo quizás...",
       "choice_data_list": [
         "Trabajaré en mi informe de rendimiento de la misma\nmanera—constantemente y sin apresurarme."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ryan",

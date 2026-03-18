@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "A medida que la carrera se desarrolla, una cierta\nUmamusume observa atentamente...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "A medida que la carrera se desarrolla, una cierta\nUmamusume observa atentamente..."
     },
     {
       "name": "Comentarista",
@@ -114,8 +114,8 @@
       "text": "Pero antes de decidir eso, tengo algo que necesito\ndecirle a alguien."
     },
     {
-      "text": "Al día siguiente, Sakura Chiyono O le pide a\nMaruzensky que se reúna con ella en la azotea.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Al día siguiente, Sakura Chiyono O le pide a\nMaruzensky que se reúna con ella en la azotea."
     },
     {
       "name": "Sakura Chiyono O",
@@ -178,12 +178,12 @@
       "text": "Por favor, corre allí con todo lo que tienes."
     },
     {
-      "text": "El viento sopla a su alrededor, y aunque solo es\nun momento, se siente mucho más largo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El viento sopla a su alrededor, y aunque solo es\nun momento, se siente mucho más largo."
     },
     {
-      "text": "A lo largo de su conversación, el sol ha estado\nhundiéndose lentamente hacia el horizonte, y\nbrilla...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "A lo largo de su conversación, el sol ha estado\nhundiéndose lentamente hacia el horizonte, y\nbrilla..."
     },
     {
       "name": "Maruzensky",
@@ -198,16 +198,16 @@
       "text": "Pero..."
     },
     {
-      "text": "Un instante pasa, entonces Maruzensky desgarra el\nsobre que ha estado sosteniendo en pedazos.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un instante pasa, entonces Maruzensky desgarra el\nsobre que ha estado sosteniendo en pedazos."
     },
     {
       "name": "Maruzensky",
       "text": "Espero que aún me esperes."
     },
     {
-      "text": "Y con esas palabras, su promesa mutua adquiere una\nnueva forma.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y con esas palabras, su promesa mutua adquiere una\nnueva forma."
     },
     {
       "name": "Sakura Chiyono O",
@@ -256,48 +256,48 @@
       "text": "Quiero ponerme más fuerte, y también quiero avivar\nla pasión de Maruzen por correr. ¿Qué carrera G1\ncrees que debería abordar a continuación?"
     },
     {
-      "text": "La miro a sus ojos expectantes y pienso. Si su\nplan va a fructificar, tenemos dos opciones.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La miro a sus ojos expectantes y pienso. Si su\nplan va a fructificar, tenemos dos opciones."
     },
     {
-      "text": "Una carrera de una milla sería un buen\nentrenamiento para igualar la velocidad del Hot\nRod, lo que nos llevaría a la Yasuda Kinen.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Una carrera de una milla sería un buen\nentrenamiento para igualar la velocidad del Hot\nRod, lo que nos llevaría a la Yasuda Kinen."
     },
     {
-      "text": "Alternativamente, podríamos afilar los instintos\nde carrera de Chiyono O contra oponentes más\nfuertes en la Takarazuka Kinen de media distancia.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Alternativamente, podríamos afilar los instintos\nde carrera de Chiyono O contra oponentes más\nfuertes en la Takarazuka Kinen de media distancia."
     },
     {
+      "name": "Monólogo",
       "text": "En este momento, creo que nuestra mejor opción es\nir con...",
       "choice_data_list": [
         "Hagamos una carrera de una milla—la Yasuda Kinen.",
         "Hagamos una carrera de media distancia—la\nTakarazuka Kinen."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "La Carrera Objetivo ahora es la Yasuda Kinen.",
-      "name": "Monólogo"
-    },
-    {
-      "name": "Sakura Chiyono O",
-      "text": "¡Entendido! ¡Déjame anotarlo en mis Chiyonotes!"
-    },
-    {
-      "text": "Con eso, decidimos competir en la Yasuda Kinen.",
-      "name": "Monólogo"
-    },
-    {
-      "text": "La Carrera Objetivo ahora es la Takarazuka Kinen.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La Carrera Objetivo ahora es la Yasuda Kinen."
     },
     {
       "name": "Sakura Chiyono O",
       "text": "¡Entendido! ¡Déjame anotarlo en mis Chiyonotes!"
     },
     {
-      "text": "Con eso, decidimos competir en la Takarazuka\nKinen.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con eso, decidimos competir en la Yasuda Kinen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Carrera Objetivo ahora es la Takarazuka Kinen."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Entendido! ¡Déjame anotarlo en mis Chiyonotes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, decidimos competir en la Takarazuka\nKinen."
     }
   ]
 }

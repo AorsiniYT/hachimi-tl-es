@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "A principios de año, Admire Vega y yo estamos\ncomprando lo necesario cuando...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "A principios de año, Admire Vega y yo estamos\ncomprando lo necesario cuando..."
     },
     {
       "name": "Empleado",
@@ -46,15 +46,15 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "En ese caso...",
       "choice_data_list": [
         "Ya que estamos aquí, ¿por qué no lo intentamos?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Ella ya tiene un boleto. Sería una lástima\ndesperdiciarlo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella ya tiene un boleto. Sería una lástima\ndesperdiciarlo."
     },
     {
       "name": "Admire Vega",
@@ -81,20 +81,20 @@
       "text": "Espera. ¿Qué quiere decir con 'corazón'?"
     },
     {
-      "text": "Ayabe y yo giramos la máquina de lotería con más\nfuerza!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ayabe y yo giramos la máquina de lotería con más\nfuerza!"
     },
     {
-      "text": "Una pequeña bola de plástico cae de la abertura de\nla tómbola...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura de\nla tómbola..."
     },
     {
       "name": "Empleado de la rifa",
       "text": "¡Caramba! ¡Tenemos un ganador del gran premio!\n¡Vengan a recoger el cupón para sus vacaciones en\naguas termales! ¡Felicitaciones!"
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Admire Vega",
@@ -117,12 +117,12 @@
       "text": "..."
     },
     {
-      "text": "¿Tal vez Admire Vega está en shock? Ella mira el\ncupón por un tiempo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¿Tal vez Admire Vega está en shock? Ella mira el\ncupón por un tiempo."
     },
     {
-      "text": "Cuando finalmente empieza a hablar...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Cuando finalmente empieza a hablar..."
     },
     {
       "name": "Admire Vega",
@@ -173,16 +173,16 @@
       "text": "...Está bien."
     },
     {
-      "text": "Y así es como termino con el cupón para vacaciones\nen aguas termales hasta que Admire Vega se decida.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así es como termino con el cupón para vacaciones\nen aguas termales hasta que Admire Vega se decida."
     },
     {
       "name": "Empleado de la rifa",
       "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes un filete de\nhamburguesa de zanahoria de lujo!"
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Admire Vega",
@@ -235,27 +235,27 @@
       "text": "What?"
     },
     {
+      "name": "Monólogo",
       "text": "Antes de regresar, compramos algunas cosas en el\ndistrito comercial.",
       "choice_data_list": [
         "Primero, unos <i>deliciosos</i> aperitivos."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
       "text": "...¿Vas a actuar así el resto del día?"
     },
     {
-      "text": "Disfrutamos de una comida completa con el filete\nde hamburguesa como plato principal.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Disfrutamos de una comida completa con el filete\nde hamburguesa como plato principal."
     },
     {
       "name": "Empleado de la rifa",
       "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un montón de\nzanahorias!"
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Admire Vega",
@@ -337,16 +337,16 @@
       "text": "Creo que invitamos a demasiada gente..."
     },
     {
-      "text": "La voz de Admire Vega rezuma arrepentimiento, pero\nmirando su rostro, no parece realmente importarle.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La voz de Admire Vega rezuma arrepentimiento, pero\nmirando su rostro, no parece realmente importarle."
     },
     {
       "name": "Empleado de la rifa",
       "text": "¡Miren aquí! ¡Han ganado el tercer premio! ¡Aquí\nestá su zanahoria!"
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Admire Vega",
@@ -365,8 +365,8 @@
       "text": "Está bien... Es un premio decente."
     },
     {
-      "text": "De vuelta de la rifa...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "De vuelta de la rifa..."
     },
     {
       "name": "Hermanas jóvenes (Hermana menor)",
@@ -421,16 +421,16 @@
       "text": "Ustedes dos se llevan bien. ...Tengan cuidado con\nlos autos en el camino a casa."
     },
     {
-      "text": "Admire Vega habla suavemente mientras entrega la\nzanahoria a las dos hermanas que aún se sostienen\nfirmemente de la mano.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Admire Vega habla suavemente mientras entrega la\nzanahoria a las dos hermanas que aún se sostienen\nfirmemente de la mano."
     },
     {
       "name": "Empleado de la rifa",
       "text": "¡Oh, mala suerte! ¡Parece que sacaste un boleto\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación!"
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Admire Vega",
@@ -445,8 +445,8 @@
       "text": "No se puede hacer nada."
     },
     {
-      "text": "Es su reacción habitual de imperturbabilidad, pero\npuedo decir que se siente más decaída de lo\nnormal.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Es su reacción habitual de imperturbabilidad, pero\npuedo decir que se siente más decaída de lo\nnormal."
     }
   ]
 }

@@ -2,20 +2,20 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, estoy caminando por la promenade de la\nacademia cuando veo a Admire Vega parada inmóvil.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un día, estoy caminando por la promenade de la\nacademia cuando veo a Admire Vega parada inmóvil."
     },
     {
       "name": "Kittens",
       "text": "Meeeow. ♪"
     },
     {
+      "name": "Monólogo",
       "text": "Sigo su mirada y veo dos gatitos que parecen\nhermanos luchando. Admire Vega se ve más relajada\nde lo habitual mientras los observa.",
       "choice_data_list": [
         "¿Te gustan los gatos?",
         "¿Te gustan los gatos?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -26,12 +26,12 @@
       "text": "Quiero decir... No los odio..."
     },
     {
-      "text": "Dicho eso, Admire Vega rápidamente se aleja antes\nde que pueda decir algo más.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Dicho eso, Admire Vega rápidamente se aleja antes\nde que pueda decir algo más."
     },
     {
-      "text": "Más tarde esa noche...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Más tarde esa noche..."
     },
     {
       "name": "Admire Vega",
@@ -50,11 +50,11 @@
       "text": "Nadie... Solo estoy dando un paseo."
     },
     {
+      "name": "Monólogo",
       "text": "Eso dice, pero sus ojos se dirigen a un pequeño\ngatito que la mira y maúlla.",
       "choice_data_list": [
         "¿No había uno más antes?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -122,8 +122,8 @@
       "text": "Ella tampoco está aquí..."
     },
     {
-      "text": "Todos nos separamos para buscar al gatito perdido\nhasta que finalmente...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Todos nos separamos para buscar al gatito perdido\nhasta que finalmente..."
     },
     {
       "name": "Gatito",

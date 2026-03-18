@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Monólogo",
       "text": "Después de recoger algunos suministros de\nentrenamiento en el distrito comercial, Mejiro\nArdan y yo estamos de regreso.",
       "choice_data_list": [
         "Gracias por venir de compras conmigo."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -37,11 +37,11 @@
       "text": "¡Ha pasado tanto tiempo desde la última vez que vi\nuna! Y es una máquina de rifa bastante antigua,\n¿verdad?"
     },
     {
+      "name": "Monólogo",
       "text": "De repente recuerdo que recibimos un boleto de\nrifa gratuito cuando compré los suministros de\nentrenamiento antes.",
       "choice_data_list": [
         "¿Quieres probar suerte en la rifa?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -71,20 +71,20 @@
       "text": "Sí, por favor, me gustaría intentarlo."
     },
     {
-      "text": "¡Mejiro Ardan le da un fuerte giro a la máquina de\nrifa!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Mejiro Ardan le da un fuerte giro a la máquina de\nrifa!"
     },
     {
-      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
     },
     {
       "name": "Dependiente de la Rifa",
       "text": "¡Caramba! ¡Tenemos un ganador del gran premio!\n¡Ven a recoger el cupón para tus vacaciones en\naguas termales! ¡Felicitaciones!"
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Mejiro Ardan",
@@ -158,8 +158,8 @@
       "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Te llevas una\nhamburguesa de zanahoria de lujo!"
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Mejiro Ardan",
@@ -220,16 +220,16 @@
       "text": "Esta comida va a ser un trato especial,así que me\ngustaría mucho <i>presentarla</i> lo\nmás agradable posible."
     },
     {
-      "text": "Más tarde, Mejiro Ardan y yo disfrutamos juntos de\nla riquísima hamburguesa de zanahoria de lujo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Más tarde, Mejiro Ardan y yo disfrutamos juntos de\nla riquísima hamburguesa de zanahoria de lujo."
     },
     {
       "name": "Empleado de la rifa",
       "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un montón de\nzanahorias!"
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Mejiro Ardan",
@@ -263,16 +263,16 @@
       "text": "¿Se te ocurre alguna receta que use zanahorias?"
     },
     {
-      "text": "Esa noche, después de disfrutar plenamente el\nplato de zanahoria que prepara Mejiro Ardan, me\nsiento muy revitalizado y listo para enfrentar el\nmañana.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Esa noche, después de disfrutar plenamente el\nplato de zanahoria que prepara Mejiro Ardan, me\nsiento muy revitalizado y listo para enfrentar el\nmañana."
     },
     {
       "name": "Empleado de la rifa",
       "text": "¡Mira por aquí! ¡Has ganado el tercer premio!\n¡Aquí tienes tu zanahoria!"
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Mejiro Ardan",
@@ -310,16 +310,16 @@
       "text": "Oh, por supuesto. Dado que no se ve una zanahoria\nde esta calidad todos los días, ¿te gustaría\ncompartirla conmigo?"
     },
     {
-      "text": "Y así, en el camino de regreso, Mejiro Ardan y yo\ndisfrutamos juntos de la deliciosa zanahoria.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, en el camino de regreso, Mejiro Ardan y yo\ndisfrutamos juntos de la deliciosa zanahoria."
     },
     {
       "name": "Empleado de la rifa",
       "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un blanco!\n¡Toma este paquete de pañuelos como premio de\nconsolación."
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Mejiro Ardan",
@@ -353,8 +353,8 @@
       "text": "...¿Volvemos?"
     },
     {
-      "text": "Aunque ella no lo dice ni lo muestra, puedo notar\nque Mejiro Ardan se siente un poco desanimada...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Aunque ella no lo dice ni lo muestra, puedo notar\nque Mejiro Ardan se siente un poco desanimada..."
     }
   ]
 }

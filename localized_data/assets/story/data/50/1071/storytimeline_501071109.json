@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Es 24 de diciembre, y hoy...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Es 24 de diciembre, y hoy..."
     },
     {
       "name": "Mejiro Ardan",
@@ -14,8 +14,8 @@
       "text": "¡Felices fiestas!"
     },
     {
-      "text": "Mejiro Ardan y yo estamos organizando una fiesta\nen mi oficina, y ella ha invitado a un montón de\nsus amigas a unirse.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mejiro Ardan y yo estamos organizando una fiesta\nen mi oficina, y ella ha invitado a un montón de\nsus amigas a unirse."
     },
     {
       "name": "Sakura Chiyono O",
@@ -46,12 +46,12 @@
       "text": "¡Ha sido un año lleno de eventos! Pero sabes, un\nrecuerdo que <i>definitivamente</i> se quedará conmigo es\nesa vez en el Takarazuka Kinen, cuando..."
     },
     {
-      "text": "Sentadas alrededor de una mesa llena de comida,\nMejiro Ardan y sus amigas rememoran durante horas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sentadas alrededor de una mesa llena de comida,\nMejiro Ardan y sus amigas rememoran durante horas."
     },
     {
-      "text": "Luego, cuando el sol se pone...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Luego, cuando el sol se pone..."
     },
     {
       "name": "Yaeno Muteki",
@@ -98,11 +98,11 @@
       "text": "...Estoy agradecida."
     },
     {
+      "name": "Monólogo",
       "text": "Después de despedir a Sakura Chiyono O y a Yaeno\nMuteki...",
       "choice_data_list": [
         "¿Listos para empezar a limpiar?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -120,11 +120,11 @@
       "text": "¡Vamos a tener una fiesta posterior! ♪"
     },
     {
+      "name": "Monólogo",
       "text": "Una vez que mi oficina está impecable, Mejiro\nArdan cambia su atuendo y las dos damos un paseo\nnocturno por la ciudad.",
       "choice_data_list": [
         "¿Esta es la fiesta posterior?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -151,20 +151,20 @@
       "text": "Siento como si... estuviéramos caminando entre un\nmar de estrellas."
     },
     {
+      "name": "Monólogo",
       "text": "Mejiro Ardan sonríe mientras habla, y se me ocurre\nuna idea.",
       "choice_data_list": [
         "¿Por qué no vamos a ver un mar de estrellas aún\nmás grande?",
         "¿Por qué no vamos a ver un mar de estrellas aún\nmás grande?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "¿Eh?"
     },
     {
-      "text": "Después de abrirnos paso por las bulliciosas\ncalles nocturnas, Mejiro Ardan y yo finalmente\nllegamos al planetario.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después de abrirnos paso por las bulliciosas\ncalles nocturnas, Mejiro Ardan y yo finalmente\nllegamos al planetario."
     },
     {
       "name": "Mejiro Ardan",
@@ -190,16 +190,16 @@
       "text": "Todo es tan hermoso..."
     },
     {
-      "text": "Esto ni siquiera se acerca a compensar a Mejiro\nArdan por todo lo que ha hecho por mí. De hecho...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Esto ni siquiera se acerca a compensar a Mejiro\nArdan por todo lo que ha hecho por mí. De hecho..."
     },
     {
       "name": "Mejiro Ardan",
       "text": "...!"
     },
     {
-      "text": "Al ver las estrellas brillar en sus ojos, y\nescuchar la emoción en sus jadeos, siento que ella\nme ha dado <i>otro</i> regalo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Al ver las estrellas brillar en sus ojos, y\nescuchar la emoción en sus jadeos, siento que ella\nme ha dado <i>otro</i> regalo."
     },
     {
       "name": "Mejiro Ardan",
@@ -229,12 +229,12 @@
       "text": "¡Sí! ¡Lo haré!"
     },
     {
-      "text": "Con Mejiro Ardan y yo haciendo una promesa para el\nfuturo, esta noche se ha convertido en una velada\nque nunca olvidaré.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con Mejiro Ardan y yo haciendo una promesa para el\nfuturo, esta noche se ha convertido en una velada\nque nunca olvidaré."
     },
     {
-      "text": "Y así, nuestra fiesta posterior llega a su fin, y\nyo acompaño a Mejiro Ardan de vuelta a su\ndormitorio.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, nuestra fiesta posterior llega a su fin, y\nyo acompaño a Mejiro Ardan de vuelta a su\ndormitorio."
     },
     {
       "name": "Mejiro Ardan",
@@ -288,8 +288,8 @@
       ]
     },
     {
-      "text": "Mi mente reconstruye la imagen de ella en el\nplanetario, la luz de las estrellas reflejada en\nsus ojos... Dudo que ever olvide la maravilla pura\ny radiante que vi en ella hoy.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mi mente reconstruye la imagen de ella en el\nplanetario, la luz de las estrellas reflejada en\nsus ojos... Dudo que ever olvide la maravilla pura\ny radiante que vi en ella hoy."
     },
     {
       "name": "Mejiro Ardan",
@@ -308,12 +308,12 @@
       "text": "Mientras yo misma respire."
     },
     {
-      "text": "Algún día, miraré hacia atrás el centelleo de las\nestrellas que vi esta noche.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Algún día, miraré hacia atrás el centelleo de las\nestrellas que vi esta noche."
     },
     {
-      "text": "La noche resulta tan inolvidable que no tengo duda\nal respecto.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La noche resulta tan inolvidable que no tengo duda\nal respecto."
     }
   ]
 }

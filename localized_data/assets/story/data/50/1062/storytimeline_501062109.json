@@ -2,20 +2,20 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "<i>Pum... Pum...</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>Pum... Pum...</i>"
     },
     {
-      "text": "Son las vacaciones de invierno, y me despierto una\nmañana con el sonido de algo golpeando mi ventana.\nAbriendo las cortinas, encuentro...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Son las vacaciones de invierno, y me despierto una\nmañana con el sonido de algo golpeando mi ventana.\nAbriendo las cortinas, encuentro..."
     },
     {
       "name": "Matikanetannhauser",
       "text": "¡Hey, Entrenador! ¡Baja! ¡Mira toda esta nieve!"
     },
     {
-      "text": "Con una bola de nieve agarrada en una mano,\nMatikanetannhauser me hace señas con la otra.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con una bola de nieve agarrada en una mano,\nMatikanetannhauser me hace señas con la otra."
     },
     {
       "name": "Matikanetannhauser",
@@ -26,28 +26,28 @@
       "text": "¡Y justo a tiempo para las vacaciones! ¿Qué puede\nser más mágico que esto?!"
     },
     {
-      "text": "Matikanetannhauser es como un cachorro emocionado.\nAún así, hace un frío que congela. Empiezo a\nmarchar en el lugar para calentar mi cuerpo,\ncuando...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Matikanetannhauser es como un cachorro emocionado.\nAún así, hace un frío que congela. Empiezo a\nmarchar en el lugar para calentar mi cuerpo,\ncuando..."
     },
     {
-      "text": "<i>Pum...</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>Pum...</i>"
     },
     {
       "name": "Matikanetannhauser",
       "text": "Jeje, ¡te atrapé!"
     },
     {
-      "text": "...Me golpea una bola de nieve.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "...Me golpea una bola de nieve."
     },
     {
       "name": "Matikanetannhauser",
       "text": "¡Ahaha! ¡Estás todo cubierto de nieve!"
     },
     {
-      "text": "No voy a quedarme aquí parado y recibir golpes.\nFormo mi propia bola de nieve y la lanzo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No voy a quedarme aquí parado y recibir golpes.\nFormo mi propia bola de nieve y la lanzo."
     },
     {
       "name": "Matikanetannhauser",
@@ -70,8 +70,8 @@
       "text": "...¡Espera, casi lo olvido! ¡Ven conmigo un\nmomento!"
     },
     {
-      "text": "Me lleva a un lugar donde hay un pequeño y\nsolitario muñeco de nieve.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Me lleva a un lugar donde hay un pequeño y\nsolitario muñeco de nieve."
     },
     {
       "name": "Matikanetannhauser",
@@ -86,31 +86,31 @@
       "text": "¡Aquí, mira bien sus ojos! ¿No se parecen a los\ntuyos?"
     },
     {
+      "name": "Monólogo",
       "text": "Justo como dijo, puedo ver el parecido.",
       "choice_data_list": [
         "Más o menos... ¿supongo?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
       "text": "¡Jeje! ¡Que sepas que puse esfuerzo!"
     },
     {
+      "name": "Monólogo",
       "text": "Parece que trabajó muy duro en ello, así que\nquiero hacer algo por ella a cambio.",
       "choice_data_list": [
         "Entonces, ¿qué tal si hago un muñeco de nieve de\nTannhauser para acompañarlo?",
         "Entonces, ¿qué tal si hago un muñeco de nieve de\nTannhauser para acompañarlo?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
       "text": "¡¿Qué?! ¿Un muñeco de nieve <i>mío</i>?!"
     },
     {
-      "text": "Unas horas después, y con algunas pruebas y\nerrores, logro hacer un muñeco de nieve que se\nparece a Matikanetannhauser.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Unas horas después, y con algunas pruebas y\nerrores, logro hacer un muñeco de nieve que se\nparece a Matikanetannhauser."
     },
     {
       "name": "Matikanetannhauser",
@@ -125,12 +125,12 @@
       "text": "Jeje, ¡son tan lindos! ¿No sería genial si nunca\nse derritieran?"
     },
     {
-      "text": "Termino pasando un día inolvidable con\nMatikanetannhauser.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Termino pasando un día inolvidable con\nMatikanetannhauser."
     },
     {
-      "text": "Me lleva a un iglú solitario.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Me lleva a un iglú solitario."
     },
     {
       "name": "Matikanetannhauser",
@@ -145,12 +145,12 @@
       "text": "¿Quieres entrar? Está más cálido de lo que crees."
     },
     {
+      "name": "Monólogo",
       "text": "Hago lo que dice y entro al iglú. Está bastante\nestrecho, pero también extrañamente acogedor.",
       "choice_data_list": [
         "Esto está bastante bien.",
         "Esto está bastante bien."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -165,8 +165,8 @@
       "text": "Está tranquilo, cálido y hermoso... Y estás justo\na mi lado..."
     },
     {
-      "text": "Matikanetannhauser se acerca más y descansa su\ncabeza en mi hombro.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Matikanetannhauser se acerca más y descansa su\ncabeza en mi hombro."
     },
     {
       "name": "Matikanetannhauser",
@@ -185,8 +185,8 @@
       "text": "...¡Yay!"
     },
     {
-      "text": "La nieve comienza a caer silenciosamente fuera del\niglú, y contemplamos el hermoso paisaje nevado.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La nieve comienza a caer silenciosamente fuera del\niglú, y contemplamos el hermoso paisaje nevado."
     }
   ]
 }

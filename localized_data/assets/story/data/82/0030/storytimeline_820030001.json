@@ -2,24 +2,24 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "No puedo concentrarme en mi trabajo, así que\ndecido dar un paseo en el parque, pero cuando\nllego...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No puedo concentrarme en mi trabajo, así que\ndecido dar un paseo en el parque, pero cuando\nllego..."
     },
     {
+      "name": "Monólogo",
       "text": "<i>¡Whoosh!</i>",
       "choice_data_list": [
         "¿Eh? ¿Qué es ese ruido?",
         "¿Eh? ¿Qué es ese ruido?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Ines Fujin",
       "text": "¡CUIDADO!"
     },
     {
-      "text": "<i>¡Pum!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>"
     },
     {
       "name": "Ines Fujin",
@@ -42,11 +42,11 @@
       "text": "¡Supongo que llegué en el momento justo, entonces!\nGracias a Dios no te lastimaste."
     },
     {
+      "name": "Monólogo",
       "text": "Parece que estoy más distraído de lo que me di\ncuenta. Necesito volver a enfocarme, pero...",
       "choice_data_list": [
         "(No funciona... Sigo perdiendo la concentración.)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -87,16 +87,16 @@
       "text": "¡Siempre como esto para recargar mi energía!\nSeguro que también te devuelve a plena capacidad!"
     },
     {
-      "text": "¡La barra es sorprendentemente llenadora y\nsabrosa! Eso, junto con la amabilidad de Ines\nFujin, me devuelve a plena energía!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡La barra es sorprendentemente llenadora y\nsabrosa! Eso, junto con la amabilidad de Ines\nFujin, me devuelve a plena energía!"
     },
     {
       "name": "Ines Fujin",
       "text": "¡Bien! Parece que estás en plena forma. ¡Esas\nbarras vienen en muchos sabores diferentes,\n¿sabes?"
     },
     {
-      "text": "<i>¡Grgrrr...</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Grgrrr...</i>"
     },
     {
       "name": "Ines Fujin",
@@ -126,8 +126,8 @@
       "text": "¡De nada! Ahora que eso está resuelto... ¡Juguemos\na la pelota!"
     },
     {
-      "text": "Después de eso, logro recargar energías jugando\nbéisbol con Ines Fujin!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después de eso, logro recargar energías jugando\nbéisbol con Ines Fujin!"
     },
     {
       "name": "Ines Fujin",
@@ -184,8 +184,8 @@
       "text": "Esta es mi bebida favorita, así que tómala de un\ntrago para que puedas trabajar duro!"
     },
     {
-      "text": "Gracias a su cálido ánimo y a la bebida deportiva\nque me dio, puedo terminar mi trabajo sin\nproblemas!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Gracias a su cálido ánimo y a la bebida deportiva\nque me dio, puedo terminar mi trabajo sin\nproblemas!"
     }
   ]
 }

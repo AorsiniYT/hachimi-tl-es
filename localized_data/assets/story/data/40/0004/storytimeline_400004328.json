@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Después de terminar el trabajo, subo a la azotea y\nme encuentro con Admire Vega y Silence Suzuka.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después de terminar el trabajo, subo a la azotea y\nme encuentro con Admire Vega y Silence Suzuka."
     },
     {
       "name": "Silence Suzuka",
@@ -38,23 +38,23 @@
       "text": "..."
     },
     {
+      "name": "Monólogo",
       "text": "El tiempo pasa mientras miramos en silencio el\ncielo estrellado.",
       "choice_data_list": [
         "¿Cuál es tu estrella favorita, Ayabe?",
         "¿Cuál es tu estrella favorita, Suzuka?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
       "text": "...Seguro que puedes deducirlo por mi nombre."
     },
     {
+      "name": "Monólogo",
       "text": "Vega. Es una estrella hermosa que brilla muy\nintensamente.",
       "choice_data_list": [
         "Recuérdame... ¿Qué tipo de estrella es Vega?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -119,11 +119,11 @@
       "text": "¿Mi estrella favorita? ...Supongo que diría Spica."
     },
     {
+      "name": "Monólogo",
       "text": "Spica—una estrella maravillosa que brilla con un\nbrillante matiz azul.",
       "choice_data_list": [
         "Recuérdame... ¿Qué tipo de estrella es Spica?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -199,16 +199,16 @@
       ]
     },
     {
-      "text": "Ni siquiera necesito preguntar si ella realmente\nlo dice todo en serio.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ni siquiera necesito preguntar si ella realmente\nlo dice todo en serio."
     },
     {
-      "text": "Ni siquiera necesito preguntar si ella realmente\nlo dice todo en serio.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ni siquiera necesito preguntar si ella realmente\nlo dice todo en serio."
     },
     {
-      "text": "En contraste con la frialdad de sus palabras,\nsiento un calor en su voz, como algo que gotea\ndesde lo profundo de su corazón.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "En contraste con la frialdad de sus palabras,\nsiento un calor en su voz, como algo que gotea\ndesde lo profundo de su corazón."
     },
     {
       "name": "Silence Suzuka",
@@ -223,12 +223,12 @@
       "text": "Realmente hay un montón de entrometidos en esta\nacademia."
     },
     {
-      "text": "Las estrellas brillan intensamente en el cielo\ndespejado.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Las estrellas brillan intensamente en el cielo\ndespejado."
     },
     {
-      "text": "Así como las constelaciones unen a las estrellas,\ntambién las personas están conectadas por los\nlazos que forjan entre sí.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Así como las constelaciones unen a las estrellas,\ntambién las personas están conectadas por los\nlazos que forjan entre sí."
     }
   ]
 }

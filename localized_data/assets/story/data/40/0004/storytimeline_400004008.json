@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "¡El artículo de la Periodista Otonashi sobre mí\nfue sorprendentemente bien recibido!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡El artículo de la Periodista Otonashi sobre mí\nfue sorprendentemente bien recibido!"
     },
     {
       "name": "Peatón A",
@@ -14,12 +14,12 @@
       "text": "Escuché todos esos rumores sobre entrenamiento\nexcesivamente brutal, pero esto pinta un cuadro\ncompletamente diferente."
     },
     {
-      "text": "A medida que el artículo circula, esos extraños\nrumores sobre mí gradualmente empiezan a\ndesvanecerse.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "A medida que el artículo circula, esos extraños\nrumores sobre mí gradualmente empiezan a\ndesvanecerse."
     },
     {
-      "text": "Los días que <chrname> y yo pasamos con la Periodista\nOtonashi se acabaron en lo que parece un abrir y\ncerrar de ojos...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Los días que <chrname> y yo pasamos con la Periodista\nOtonashi se acabaron en lo que parece un abrir y\ncerrar de ojos..."
     },
     {
       "name": "Reporter Otonashi",
@@ -106,8 +106,8 @@
       ]
     },
     {
-      "text": "Hacemos lo que ella propone y continuamos nuestra\nconversación mientras trotamos alrededor de la\npista.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Hacemos lo que ella propone y continuamos nuestra\nconversación mientras trotamos alrededor de la\npista."
     },
     {
       "name": "Reporter Otonashi",
@@ -133,8 +133,8 @@
       "text": "Así que dejé el atletismo. ¡La mera idea de que un\nhumano ganara contra una Umamusume era absurda."
     },
     {
-      "text": "La Periodista Otonashi rápidamente aumenta la\nvelocidad. Me cuesta todo lo que tengo mantener el\nritmo con ella.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La Periodista Otonashi rápidamente aumenta la\nvelocidad. Me cuesta todo lo que tengo mantener el\nritmo con ella."
     },
     {
       "name": "Reporter Otonashi",
@@ -149,8 +149,8 @@
       "text": "¡Pero entonces! <i>Jadeo... Jadeo...</i>"
     },
     {
-      "text": "Después de cruzar la línea de meta, la Periodista\nOtonashi de repente se detiene.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después de cruzar la línea de meta, la Periodista\nOtonashi de repente se detiene."
     },
     {
       "name": "Reporter Otonashi",
@@ -213,16 +213,16 @@
       "text": "Una vez más, felicidades por clasificar. Estoy\ntan emocionada que casi siento que soy <i>yo</i> la que\nva a correr!"
     },
     {
+      "name": "Monólogo",
       "text": "El día en que se decidirá a la \"mejor\" se acerca\nrápidamente. <chrname> y yo hemos llegado hasta aquí...",
       "choice_data_list": [
         "(Me pregunto si podremos lograr nuestro sueño.)",
         "(Me pregunto si podremos lograr nuestro sueño.)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Nuestro sueño nació el día que prometí correr\njunto a <chrname>. No hay vuelta atrás ahora.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Nuestro sueño nació el día que prometí correr\njunto a <chrname>. No hay vuelta atrás ahora."
     }
   ]
 }

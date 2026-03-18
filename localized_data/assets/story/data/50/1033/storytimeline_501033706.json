@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "De regreso de un paseo con Admire Vega...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "De regreso de un paseo con Admire Vega..."
     },
     {
       "name": "???",
@@ -37,12 +37,12 @@
       "text": "Entonces, creo que realmente no tengo opción..."
     },
     {
+      "name": "Monólogo",
       "text": "Y así, todos llegamos al acuario.",
       "choice_data_list": [
         "Las niñas parecen muy apegadas a ti.",
         "Las niñas parecen muy apegadas a ti."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -128,8 +128,8 @@
       "text": "...!"
     },
     {
-      "text": "<i>¡Splash!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Splash!</i>"
     },
     {
       "name": "Admire Vega",

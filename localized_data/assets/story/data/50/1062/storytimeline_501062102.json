@@ -18,16 +18,16 @@
       "text": "Mumumumuuu!"
     },
     {
-      "text": "<i>¡Crash!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Crash!</i>"
     },
     {
       "name": "Matikanetannhauser",
       "text": "¡Buaaa! ¡L-la campana del santuario se cayó!"
     },
     {
-      "text": "Tengo otro ajetreado Día de Año Nuevo con\nMatikanetannhauser y sus amigas este año.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Tengo otro ajetreado Día de Año Nuevo con\nMatikanetannhauser y sus amigas este año."
     },
     {
       "name": "Matikanetannhauser",
@@ -86,8 +86,8 @@
       "text": "Sí, pero es un poco vergonzoso, así que es un\nsecreto."
     },
     {
-      "text": "Más tarde en la noche, Matikanetannhauser me\ndetiene cuando estamos a punto de separarnos.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Más tarde en la noche, Matikanetannhauser me\ndetiene cuando estamos a punto de separarnos."
     },
     {
       "name": "Matikanetannhauser",
@@ -139,13 +139,13 @@
       "text": "¡Así que trabajemos muy duro! ¿Cómo deberíamos\nempezar?"
     },
     {
+      "name": "Monólogo",
       "text": "El entrenamiento perfecto para hoy es...",
       "choice_data_list": [
         "¡Empecemos preservando tu resistencia!",
         "¡Ya que estamos aquí, hagamos un régimen completo!",
         "¡Demos la bienvenida al nuevo año con algo de\nreconocimiento enemigo!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -171,8 +171,8 @@
       "text": "<i>Zzz... Zzz...</i>"
     },
     {
-      "text": "Y así, comenzamos el entrenamiento de este año\nbastante pacíficamente.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, comenzamos el entrenamiento de este año\nbastante pacíficamente."
     },
     {
       "name": "Matikanetannhauser",
@@ -187,8 +187,8 @@
       "text": "¡Lo sé! ¡Haré mi propio giratorio de decisiones!\n¡Mi primera prueba de suerte para el año!"
     },
     {
-      "text": "Y así, comenzamos el entrenamiento de este año\nbastante pacíficamente.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, comenzamos el entrenamiento de este año\nbastante pacíficamente."
     },
     {
       "name": "Matikanetannhauser",
@@ -203,12 +203,12 @@
       "text": "...Oh, pero mientras estoy en eso, ¿y si me\ndisfrazara como un arbusto ninja?"
     },
     {
-      "text": "Y así, comenzamos el entrenamiento de este año\nbastante pacíficamente.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, comenzamos el entrenamiento de este año\nbastante pacíficamente."
     },
     {
-      "text": "Muchos oponentes difíciles nos esperan en nuestro\núltimo año. ¡Quiero que hagamos todo lo posible\npara vencerlos a todos!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Muchos oponentes difíciles nos esperan en nuestro\núltimo año. ¡Quiero que hagamos todo lo posible\npara vencerlos a todos!"
     }
   ]
 }

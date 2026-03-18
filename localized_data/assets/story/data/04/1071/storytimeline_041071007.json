@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Ahora vamos a la mitad de nuestro campamento de\nentrenamiento de verano, y Mejiro Ardan está\nhaciendo buen progreso. Un día, mientras salimos\npara comenzar nuestra sesión de la tarde...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ahora vamos a la mitad de nuestro campamento de\nentrenamiento de verano, y Mejiro Ardan está\nhaciendo buen progreso. Un día, mientras salimos\npara comenzar nuestra sesión de la tarde..."
     },
     {
       "name": "Mejiro Ardan",
@@ -26,12 +26,12 @@
       "text": "Bueno... Aprecio la preocupación. Personalmente me\nsiento lo suficientemente bien como para asistir,\npero..."
     },
     {
+      "name": "Monólogo",
       "text": "Debe estar preocupada por alarmar a los otros\nparticipantes y organizadores del evento. Pero si\ndice que está sana, no veo por qué no debería\nparticipar.",
       "choice_data_list": [
         "Digo que lo hacemos. Además, estaré allí por si\nacaso.",
         "Digo que lo hacemos. Además, estaré allí por si\nacaso."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -42,8 +42,8 @@
       "text": "Muy bien, pero entenderemos si al final no pueden\nvenir. ¡O si tienen que irse a la mitad!"
     },
     {
-      "text": "Terminamos nuestro día de entrenamiento y nos\ndirigimos a donde se está llevando a cabo la\nprueba de valor.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Terminamos nuestro día de entrenamiento y nos\ndirigimos a donde se está llevando a cabo la\nprueba de valor."
     },
     {
       "name": "Umamusume Espectral A",
@@ -54,12 +54,12 @@
       "text": "¡Aaaaahhh!¡Eeeeek!"
     },
     {
+      "name": "Monólogo",
       "text": "Desde la oscuridad adelante, podemos escuchar los\ngritos de otras personas que se atreven con la\nprueba de valor.",
       "choice_data_list": [
         "Suena como... ¿divertido?",
         "Suena como... ¿divertido?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -82,8 +82,8 @@
       "text": "Gracias, estaré alerta. Y por favor, tú también\nten cuidado con las picaduras de insectos."
     },
     {
-      "text": "Mientras continuamos, es claro que las personas\nque interpretan a los monstruos y fantasmas están\nsiendo fáciles con Ardan por su bien. Me pregunto\nsi Ardan se está divirtiendo...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mientras continuamos, es claro que las personas\nque interpretan a los monstruos y fantasmas están\nsiendo fáciles con Ardan por su bien. Me pregunto\nsi Ardan se está divirtiendo..."
     },
     {
       "name": "Mejiro Ardan",
@@ -110,22 +110,22 @@
       "text": "¿U-u-u-u-fantasma?!"
     },
     {
+      "name": "Monólogo",
       "text": "Ahora que lo menciona... A pesar de que la obra\nera una comedia, la premisa en sí <i>es</i> algo\nescalofriante...",
       "choice_data_list": [
         "J-ja... ¿Hace frío aquí o soy solo... yo?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Sin respuesta. Miro a mi lado y me doy cuenta de\nque Ardan se ha ido.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sin respuesta. Miro a mi lado y me doy cuenta de\nque Ardan se ha ido."
     },
     {
+      "name": "Monólogo",
       "text": "Preocupado de que la haya dejado atrás\naccidentalmente, giro la cabeza, pero aún no hay\nseñal de ella...",
       "choice_data_list": [
         "¿Ardan?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "???",
@@ -215,12 +215,12 @@
       "text": "Además, te prometí que no me excedería, ¿cierto?\nTe aseguro que estoy bien."
     },
     {
-      "text": "Está bien, pero recuerda que está bien hacer lo\nque quieras a veces.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Está bien, pero recuerda que está bien hacer lo\nque quieras a veces."
     },
     {
-      "text": "Está bien, pero recuerda que está bien hacer lo\nque quieras a veces.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Está bien, pero recuerda que está bien hacer lo\nque quieras a veces."
     },
     {
       "name": "Mejiro Ardan",

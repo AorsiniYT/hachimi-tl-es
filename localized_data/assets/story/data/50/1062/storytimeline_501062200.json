@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "¡Por fin llega el día de la carrera debut de\nMatikanetannhauser!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Por fin llega el día de la carrera debut de\nMatikanetannhauser!"
     },
     {
       "name": "Matikanetannhauser",
@@ -30,22 +30,22 @@
       ]
     },
     {
-      "text": "Con esa promesa hecha, ¡nos dirigimos entusiastas\na la sala de espera!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con esa promesa hecha, ¡nos dirigimos entusiastas\na la sala de espera!"
     },
     {
+      "name": "Monólogo",
       "text": "Todavía falta un rato para la carrera. Pienso que\npodríamos repasar nuestra estrategia, pero cuando\nme giro para hablar con Matikanetannhauser...",
       "choice_data_list": [
         "..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
+      "name": "Monólogo",
       "text": "...No está aquí.",
       "choice_data_list": [
         "¡¿Eh?!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -60,16 +60,16 @@
       "text": "Hombre, siempre parece que arruino algo cuando me\ntomo las cosas en serio."
     },
     {
-      "text": "Ciertamente está motivada, aunque un poco\ndesenfocada.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ciertamente está motivada, aunque un poco\ndesenfocada."
     },
     {
       "name": "Matikanetannhauser",
       "text": "De todos modos, ¡solo necesito reenfocarme y\nhacerlo lo mejor que pueda!"
     },
     {
-      "text": "¡Y así, la carrera debut de Matikanetannhauser\ncomienza!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Y así, la carrera debut de Matikanetannhauser\ncomienza!"
     }
   ]
 }

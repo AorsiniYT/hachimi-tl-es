@@ -22,11 +22,11 @@
       "text": "Sí, tienes razón."
     },
     {
+      "name": "Monólogo",
       "text": "Caminando por el pasillo, veo a Admire Vega\ntrabajando duro con los miembros de su comité de\nasuntos generales. Parece que hay algún tipo de\nproblema.",
       "choice_data_list": [
         "¿Todo bien?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -84,8 +84,8 @@
       "text": "¡Grrr! No puedo sacar la pelota del árbol ni con\nesta escoba!"
     },
     {
-      "text": "<i>¡Pum!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>"
     },
     {
       "name": "Ikuno Dictus",
@@ -181,12 +181,12 @@
       "text": "¡Un momento! ¿Qué quieres decir con \"título\"?"
     },
     {
-      "text": "Después de que explico el razonamiento detrás de\nsu nombre meritorio, ella parece sorprendida pero\npermanece en silencio.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después de que explico el razonamiento detrás de\nsu nombre meritorio, ella parece sorprendida pero\npermanece en silencio."
     },
     {
-      "text": "Observar las actividades del comité hoy me muestra\nque revisar el equipo puede ser una tarea simple,\npero requiere paciencia. Cuando le digo a Admire\nVega...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Observar las actividades del comité hoy me muestra\nque revisar el equipo puede ser una tarea simple,\npero requiere paciencia. Cuando le digo a Admire\nVega..."
     },
     {
       "name": "Admire Vega",
@@ -204,8 +204,8 @@
       "text": "Lo que sea, me voy a casa."
     },
     {
-      "text": "Aunque no elaboró, tengo la sensación de que\nrealmente aprecia el trabajo que hago.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Aunque no elaboró, tengo la sensación de que\nrealmente aprecia el trabajo que hago."
     }
   ]
 }

@@ -22,12 +22,12 @@
       "text": "(El Derby Japonés está a la vuelta de la\nesquina... ¡y sin embargo!)"
     },
     {
+      "name": "Monólogo",
       "text": "Aunque Mejiro Ardan se desempeñó brillantemente en\nel Aoba Sho, no parece tan eufórica como yo habría\nesperado.",
       "choice_data_list": [
         "...¿Sucede algo?",
         "...¿Sucede algo?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -46,16 +46,16 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "A primera vista, Mejiro Ardan se ve igual que\nsiempre—perfectamente bien. Pero... algo en ella\nparece fuera de lugar.",
       "choice_data_list": [
         "(Quizás necesite proceder con cuidado aquí...)",
         "(Quizás necesite proceder con cuidado aquí...)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "El día después del Aoba Sho...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El día después del Aoba Sho..."
     },
     {
       "name": "Mejiro Ardan",

@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "En uno de nuestros días libres, estamos haciendo\nvoluntariado en una clase de repostería para niños\ncuando Eishin Flash y yo notamos a uno de los\nniños parado solo en la esquina.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "En uno de nuestros días libres, estamos haciendo\nvoluntariado en una clase de repostería para niños\ncuando Eishin Flash y yo notamos a uno de los\nniños parado solo en la esquina."
     },
     {
       "name": "Eishin Flash",
@@ -22,22 +22,22 @@
       "text": "No quiero... Hay mucha gente..."
     },
     {
+      "name": "Monólogo",
       "text": "El niño parece interesado en la clase pero es\nreacio a unirse a los demás. Intento hacerlo menos\nintimidante.",
       "choice_data_list": [
         "No hay prisa. Puedes empezar cuando estés listo."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Niño callado",
       "text": "...Está bien."
     },
     {
+      "name": "Monólogo",
       "text": "El niño asiente con alivio. Estoy seguro de que\ntodo estará bien, pero aún quiero mantenerlo bajo\nvigilancia.",
       "choice_data_list": [
         "Guardemos algunas galletas para ellos una vez que\nterminemos."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -80,8 +80,8 @@
       "text": "¡Oye, eso no es justo! ¿Cómo es que ellos pueden\ncomer galletas aunque no ayudaron en absoluto?!"
     },
     {
-      "text": "Ante la acusación, el niño callado se congela\nantes de retirar la mano que se extendía hacia las\ngalletas que Eishin Flash sostiene en sus manos.\nEs cuando Eishin Flash habla.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ante la acusación, el niño callado se congela\nantes de retirar la mano que se extendía hacia las\ngalletas que Eishin Flash sostiene en sus manos.\nEs cuando Eishin Flash habla."
     },
     {
       "name": "Eishin Flash",
@@ -112,8 +112,8 @@
       "text": "G-gracias..."
     },
     {
-      "text": "Esperaba que Eishin Flash tomara un enfoque más\nduro, así que me sorprende lo gentilmente que\nmanejó las cosas. Cuando le pregunto al\nrespecto...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Esperaba que Eishin Flash tomara un enfoque más\nduro, así que me sorprende lo gentilmente que\nmanejó las cosas. Cuando le pregunto al\nrespecto..."
     },
     {
       "name": "Eishin Flash",
@@ -159,8 +159,8 @@
       "text": "Hornear permite que todas las personas compartan\nsu alegría juntas. Por eso me encanta hornear\ntanto."
     },
     {
-      "text": "Eishin Flash sonríe suavemente mientras observa a\nlos niños devorar galletas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Eishin Flash sonríe suavemente mientras observa a\nlos niños devorar galletas."
     }
   ]
 }

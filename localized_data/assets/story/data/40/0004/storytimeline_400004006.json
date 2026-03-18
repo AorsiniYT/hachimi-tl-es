@@ -2,15 +2,15 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Termino de acompañar a <chrname> de vuelta a los\ndormitorios después del entrenamiento cuando de\nrepente...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Termino de acompañar a <chrname> de vuelta a los\ndormitorios después del entrenamiento cuando de\nrepente..."
     },
     {
+      "name": "Monólogo",
       "text": "<i>Murmullo... Murmullo...</i>",
       "choice_data_list": [
         "(...¿Alboroto en la puerta de la academia?)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Periodista A",
@@ -85,12 +85,12 @@
       "text": "...Muy bien. Pero la próxima vez deben concedernos\nuna entrevista."
     },
     {
-      "text": "Afortunadamente, las palabras de la Directora\nAkikawa logran convencer a los periodistas\nabiertamente descontentos de marcharse.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Afortunadamente, las palabras de la Directora\nAkikawa logran convencer a los periodistas\nabiertamente descontentos de marcharse."
     },
     {
-      "text": "Más tarde, sostenemos una reunión en la oficina de\nla directora sobre el asunto. Según la Periodista\nOtonashi...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Más tarde, sostenemos una reunión en la oficina de\nla directora sobre el asunto. Según la Periodista\nOtonashi..."
     },
     {
       "name": "Reporter Otonashi",
@@ -258,12 +258,12 @@
       "text": "Creo firmemente que la decisión final debe recaer\nen usted, ¡compañero de <chrname>!"
     },
     {
-      "text": "De repente me quedo sin palabras. ¿Un entorno de\nentrenamiento estable o el apoyo público? ¿Cuál\nsería lo mejor para el desarrollo de <chrname>?",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "De repente me quedo sin palabras. ¿Un entorno de\nentrenamiento estable o el apoyo público? ¿Cuál\nsería lo mejor para el desarrollo de <chrname>?"
     },
     {
-      "text": "Es cierto que el conocimiento de la Periodista\nOtonashi será un activo poderoso. ¿Pero realmente\npuedo confiar en ella?",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Es cierto que el conocimiento de la Periodista\nOtonashi será un activo poderoso. ¿Pero realmente\npuedo confiar en ella?"
     },
     {
       "name": "Reporter Otonashi",
@@ -296,16 +296,16 @@
       "text": "¡D-de acuerdo! ¡Haré lo posible por no\ninterponerme en su camino!"
     },
     {
-      "text": "Todavía no estoy segura de cuál es el sueño de la\nPeriodista Otonashi, pero si le negara la\noportunidad de perseguirlo...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Todavía no estoy segura de cuál es el sueño de la\nPeriodista Otonashi, pero si le negara la\noportunidad de perseguirlo..."
     },
     {
-      "text": "Siento que también estaría dándole la espalda al\nsueño que <chrname> y yo juramos realizar.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Siento que también estaría dándole la espalda al\nsueño que <chrname> y yo juramos realizar."
     },
     {
-      "text": "¡Y así comienza la cobertura \"cara a cara\" de la\nPeriodista Otonashi!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Y así comienza la cobertura \"cara a cara\" de la\nPeriodista Otonashi!"
     }
   ]
 }

@@ -30,15 +30,15 @@
       "text": "\"Esperamos verlos de nuevo. El próximo espectáculo\ncomenzará a las...\""
     },
     {
+      "name": "Monólogo",
       "text": "He venido a un planetario con la esperanza de que\nme dé algo de qué hablar con Admire Vega.",
       "choice_data_list": [
         "Eso fue espectacular..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Para mi sorpresa, me encuentro interesado en\naprender más, así que pienso que podría aprovechar\ny agarrar un libro en la tienda de regalos,\ncuando...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Para mi sorpresa, me encuentro interesado en\naprender más, así que pienso que podría aprovechar\ny agarrar un libro en la tienda de regalos,\ncuando..."
     },
     {
       "name": "Admire Vega",
@@ -56,22 +56,22 @@
       "text": "¿Viniste solo a ver las estrellas?"
     },
     {
+      "name": "Monólogo",
       "text": "¿Qué es esto? ¿Ayabe provocando más conversación?",
       "choice_data_list": [
         "Sí, pensé que aprendería un poco sobre ellas."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
       "text": "¿Pero por qué? ¿Desde cuándo te gustan las\nestrellas?"
     },
     {
+      "name": "Monólogo",
       "text": "¡Y la conversación sigue! No puedo dejar que esta\noportunidad se desperdicie. Necesito calcular mis\nrespuestas...",
       "choice_data_list": [
         "¡Desde que te conocí!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -88,8 +88,8 @@
       ]
     },
     {
-      "text": "Bueno, esa respuesta no fue nada calculada.\nRápidamente rectifico.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Bueno, esa respuesta no fue nada calculada.\nRápidamente rectifico."
     },
     {
       "name": "Admire Vega",
@@ -150,8 +150,8 @@
       "text": "El que tienes en la mano derecha es más fácil de\nseguir."
     },
     {
-      "text": "Echando un vistazo a las opciones que estaba\nconsiderando, ella suelta su recomendación\ncasualmente antes de marcharse sin decir otra\npalabra.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Echando un vistazo a las opciones que estaba\nconsiderando, ella suelta su recomendación\ncasualmente antes de marcharse sin decir otra\npalabra."
     },
     {
       "name": "Admire Vega",

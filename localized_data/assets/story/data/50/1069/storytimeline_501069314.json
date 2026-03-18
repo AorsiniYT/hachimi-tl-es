@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "La carrera de Sakura Chiyono O comienza, y trago\nnerviosamente mientras la veo destrozar la pista.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La carrera de Sakura Chiyono O comienza, y trago\nnerviosamente mientras la veo destrozar la pista."
     },
     {
       "name": "Maruzensky",
@@ -21,11 +21,11 @@
       "text": "Estás en la misma situación, ¿verdad?"
     },
     {
+      "name": "Monólogo",
       "text": "Maruzensky mira la pista, donde Sakura Chiyono O\nestá tomando una curva.",
       "choice_data_list": [
         "¡Puedes hacerlo, Chiyono O!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Locutor",
@@ -40,8 +40,8 @@
       "text": "(Mis pulmones... arden.)"
     },
     {
-      "text": "<i>Crac...</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>Crac...</i>"
     },
     {
       "name": "Sakura Chiyono O",
@@ -60,8 +60,8 @@
       "text": "...Oh."
     },
     {
-      "text": "<i>Crrr... ¡Crac!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>Crrr... ¡Crac!</i>"
     },
     {
       "name": "Sakura Chiyono O",
@@ -84,8 +84,8 @@
       "text": "Esto..."
     },
     {
-      "text": "<i>¡Crac!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Crac!</i>"
     },
     {
       "name": "Yaeno Muteki",
@@ -120,8 +120,8 @@
       "text": "..."
     },
     {
-      "text": "Sakura Chiyono O se gira y mira hacia adelante una\nvez más!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sakura Chiyono O se gira y mira hacia adelante una\nvez más!"
     },
     {
       "name": "Espectador A",
@@ -132,15 +132,15 @@
       "text": "¡Puedes con esto, Creek! ¡Tienes que ganar esta!"
     },
     {
-      "text": "La multitud se agita en frenesí mientras anima a\nlos corredores en la pista. La mayoría apoya a las\nTres Grandes Eternas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La multitud se agita en frenesí mientras anima a\nlos corredores en la pista. La mayoría apoya a las\nTres Grandes Eternas."
     },
     {
+      "name": "Monólogo",
       "text": "Con todo este ruido, probablemente no me oirá\naunque grite, ¡pero aún así! ¡Tengo que\nintentarlo!",
       "choice_data_list": [
         "¡Chiyono O! ¡Puedes haaaacerlo!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -159,20 +159,20 @@
       "text": "¡RAAAAAH!"
     },
     {
-      "text": "¡Wooooo!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Wooooo!"
     },
     {
       "name": "Locutor",
       "text": "¿Será que los cerezos están floreciendo de nuevo\nen otoño? ¡Sakura Chiyono O ha tomado la\ndelantera! Mantiene el ritmo y—"
     },
     {
-      "text": "...!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "...!"
     },
     {
-      "text": "¡Wooooo!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Wooooo!"
     },
     {
       "name": "Locutor",
@@ -286,16 +286,16 @@
       "text": "¡Sí!"
     },
     {
-      "text": "¡Wooooo!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Wooooo!"
     },
     {
-      "text": "Los vítores de la multitud son tan fuertes que se\nmiden en la escala Richter, enviando temblores\npalpables a través del mismo Hipódromo de Tokio.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Los vítores de la multitud son tan fuertes que se\nmiden en la escala Richter, enviando temblores\npalpables a través del mismo Hipódromo de Tokio."
     },
     {
-      "text": "Llevaremos ese entusiasmo con nosotros a la\ncarrera prometida. ¡Vamos camino a la Copa Japón!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Llevaremos ese entusiasmo con nosotros a la\ncarrera prometida. ¡Vamos camino a la Copa Japón!"
     }
   ]
 }

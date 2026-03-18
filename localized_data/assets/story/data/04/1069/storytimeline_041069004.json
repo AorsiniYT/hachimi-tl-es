@@ -10,20 +10,20 @@
       "text": "...¡Por supuesto! ¡Muchas gracias!"
     },
     {
-      "text": "Desde ese día, Sakura Chiyono O ha estado de\nvuelta en la pista desde la mañana hasta la noche,\ntrabajando duro.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Desde ese día, Sakura Chiyono O ha estado de\nvuelta en la pista desde la mañana hasta la noche,\ntrabajando duro."
     },
     {
       "name": "Sakura Chiyono O",
       "text": "Okay, a partir de mañana intentaré un ritmo más\nrápido durante los intervalos de descanso y...\n¡Oh, hola!"
     },
     {
+      "name": "Monólogo",
       "text": "Ella está repasando el cuaderno que una vez dejó\ncaer frente a mí, sus \"Chiyonotas\".",
       "choice_data_list": [
         "Veo que estás usando bien esas Chiyonotas.",
         "Veo que estás usando bien esas Chiyonotas."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -34,8 +34,8 @@
       "text": "Porque si no estoy en esto para ganarlo, bueno...\n¿cuál es el punto?"
     },
     {
-      "text": "Pronto llega el día de su carrera de práctica con\nMaruzensky.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Pronto llega el día de su carrera de práctica con\nMaruzensky."
     },
     {
       "name": "Sakura Chiyono O",
@@ -50,8 +50,8 @@
       "text": "¿Hm? ¡Oye, mira allí! ¡Maruzen se acerca a la\npuerta... con Chiyo?!"
     },
     {
-      "text": "A medida que los espectadores entran, ¡la carrera\npara zurdos sobre 2,400 metros de césped que\ncambia la vida comienza!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "A medida que los espectadores entran, ¡la carrera\npara zurdos sobre 2,400 metros de césped que\ncambia la vida comienza!"
     },
     {
       "name": "Maruzensky",
@@ -202,12 +202,12 @@
       "text": "¡Jaja! ¡Por supuesto!"
     },
     {
-      "text": "Con el sol mismo sonriéndole, la carrera de toda\nuna vida de Chiyono O llega a su fin.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con el sol mismo sonriéndole, la carrera de toda\nuna vida de Chiyono O llega a su fin."
     },
     {
-      "text": "Después, mientras regreso a mi oficina...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después, mientras regreso a mi oficina..."
     },
     {
       "name": "Sakura Chiyono O",
@@ -225,11 +225,11 @@
       "text": "¡Así que cuando triunfe—cuando tenga mi próximo\nenfrentamiento con Maruzen—quiero que estés a mi\nlado!"
     },
     {
+      "name": "Monólogo",
       "text": "Su inquebrantable determinación para crecer como\ncorredora me hace querer ver hasta qué tan lejos\nllegará. No tengo razón para declinar.",
       "choice_data_list": [
         "Sería un honor."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",

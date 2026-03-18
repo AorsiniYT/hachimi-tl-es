@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Monólogo",
       "text": "Un día, cuando regresábamos a la academia, Kitasan\nBlack dice que quiere pasar por un santuario, así\nque nos dirigimos a uno.",
       "choice_data_list": [
         "¿Entonces, por qué quisiste visitar un santuario\nde repente?",
         "¿Entonces, por qué quisiste visitar un santuario\nde repente?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -46,8 +46,8 @@
       "text": "¡Espero que mis oraciones sean escuchadas y\nconcedidas!"
     },
     {
-      "text": "En ese preciso momento...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "En ese preciso momento..."
     },
     {
       "name": "Vecino A",
@@ -70,8 +70,8 @@
       "text": "¡Por supuesto! ¡Odiamos verte desanimada! Bueno,\nsi nos disculpan, tenemos una que otra oración que\nhacer."
     },
     {
-      "text": "Con eso, las dos se dirigen al santuario y juntan\nlas manos en oración.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con eso, las dos se dirigen al santuario y juntan\nlas manos en oración."
     },
     {
       "name": "Vecinos A y B",
@@ -90,8 +90,8 @@
       "text": "¡Estoy tan feliz! ¡Es como si también estuviera a\npunto de reventar de energía! ¡Guau, me siento\ngenial!"
     },
     {
-      "text": "La amabilidad de sus vecinos ayuda a Kitasan Black\na animarse y sentirse mucho mejor de nuevo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La amabilidad de sus vecinos ayuda a Kitasan Black\na animarse y sentirse mucho mejor de nuevo."
     },
     {
       "name": "Kitasan Black",
@@ -118,8 +118,8 @@
       "text": "Así que gracias por eso y, eh, me gustaría\nagradecerles por el desfile de mikoshi del verano\npasado, y también—"
     },
     {
-      "text": "Las fervientes oraciones y expresión de gratitud\nde Kitasan Black tardan más de lo esperado...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Las fervientes oraciones y expresión de gratitud\nde Kitasan Black tardan más de lo esperado..."
     },
     {
       "name": "Kitasan Black",
@@ -130,8 +130,8 @@
       "text": "Uf... Guau, pero estoy agotada..."
     },
     {
-      "text": "Parece que su oración sincera en realidad la agotó\naún más. La condición de Kitasan Black no mejora\nen absoluto.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Parece que su oración sincera en realidad la agotó\naún más. La condición de Kitasan Black no mejora\nen absoluto."
     }
   ]
 }

@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Habiendo dejado un récord admirable en la Twinkle\nSeries, Admire Vega ha completado los importantes\nprimeros tres años de su carrera.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Habiendo dejado un récord admirable en la Twinkle\nSeries, Admire Vega ha completado los importantes\nprimeros tres años de su carrera."
     },
     {
       "name": "T.M. Opera O",
@@ -30,8 +30,8 @@
       "text": "¡Sí! ¡Eso es maravilloso! ¡Gracias!"
     },
     {
-      "text": "Admire Vega está siendo entrevistada para un\nartículo especial titulado \"¡Un Encarnizado\nEnfrentamiento Cuádruple Entre Rivales!\"",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Admire Vega está siendo entrevistada para un\nartículo especial titulado \"¡Un Encarnizado\nEnfrentamiento Cuádruple Entre Rivales!\""
     },
     {
       "name": "Reportero",
@@ -98,11 +98,11 @@
       "text": "Eso al menos... es como me gusta pensarlo."
     },
     {
+      "name": "Monólogo",
       "text": "Al día siguiente...",
       "choice_data_list": [
         "(¡Qué gran artículo!)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -117,8 +117,8 @@
       ]
     },
     {
-      "text": "Mis días junto a Admire Vega no terminarán aquí.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mis días junto a Admire Vega no terminarán aquí."
     }
   ]
 }

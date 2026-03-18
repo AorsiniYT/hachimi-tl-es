@@ -6,11 +6,11 @@
       "text": "Entrenador <username>, por favor venga a la oficina del\ndirector inmediatamente."
     },
     {
+      "name": "Monólogo",
       "text": "El anuncio suena serio, así que me dirijo a la\noficina del director con cierta agitación.",
       "choice_data_list": [
         "Es <username>."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -32,15 +32,15 @@
       "text": "..."
     },
     {
-      "text": "¡El silencio es realmente inquietante! A medida\nque los minutos sin palabras empiezan a sentirse\ncomo horas...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡El silencio es realmente inquietante! A medida\nque los minutos sin palabras empiezan a sentirse\ncomo horas..."
     },
     {
+      "name": "Monólogo",
       "text": "...Me siento cada vez más inquieto. ¿Ha ocurrido\nalgo terrible?",
       "choice_data_list": [
         "¡Eh! ¿Q-qué está pasando?!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -81,11 +81,11 @@
       "text": "También me gustaría agradecerte por tus continuos\nesfuerzos. No dudes en hacerme saber si hay algo\nen lo que pueda asistirte."
     },
     {
+      "name": "Monólogo",
       "text": "¡Parece que todo lo que tenían preparado era un\nmontón de elogios! Estoy muy agradecido, por\nsupuesto, pero algo todavía me molesta.",
       "choice_data_list": [
         "¿Qué fue ese silencio incómodo?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -103,12 +103,12 @@
       "text": "L-lo siento. Intenté detenerla..."
     },
     {
-      "text": "...Hay un par de cosas que me gustaría cuestionar,\npero me alegra saber que soy apreciado.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "...Hay un par de cosas que me gustaría cuestionar,\npero me alegra saber que soy apreciado."
     },
     {
-      "text": "Más tarde, le cuento a <chrname> lo que pasó y compartimos\nla alegría!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Más tarde, le cuento a <chrname> lo que pasó y compartimos\nla alegría!"
     }
   ]
 }

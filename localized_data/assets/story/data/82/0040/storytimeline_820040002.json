@@ -2,19 +2,19 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "El día finalmente ha llegado para que yo dé mi\npresentación frente a las otras entrenadoras.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El día finalmente ha llegado para que yo dé mi\npresentación frente a las otras entrenadoras."
     },
     {
       "name": "Trainer Kiryuin",
       "text": "Es hora de nuestra reunión regular de\nentrenadores. ¡Estoy ansiosa por tu presentación,\n<username>!"
     },
     {
+      "name": "Monólogo",
       "text": "Puede que no sea tan buena como las entrenadoras\nveteranas, pero he aprendido a trabajar duro a\ntravés de todo mi entrenamiento de fuerza, ¡y\nestoy determinada a hacer lo mejor!",
       "choice_data_list": [
         "(¡Tengo esto!)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ryan",
@@ -139,24 +139,24 @@
       "text": "¡Lo asombroso que es el entrenamiento de fuerza!"
     },
     {
+      "name": "Monólogo",
       "text": "Estoy bastante segura de que fue el entrenamiento\nde fuerza el que me enseñó la importancia de\ntrabajar duro todos los días, no al revés, pero\nbueno.",
       "choice_data_list": [
         "Eres una buena presentadora.",
         "Eres una buena presentadora.",
         "¡No hay nada como el entrenamiento de fuerza!",
         "¡No hay nada como el entrenamiento de fuerza!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
+      "name": "Monólogo",
       "text": "Estoy bastante segura de que fue el entrenamiento\nde fuerza el que me enseñó la importancia de\ntrabajar duro todos los días, no al revés, pero\nbueno.",
       "choice_data_list": [
         "Eres una buena presentadora.",
         "Eres una buena presentadora.",
         "¡No hay nada como el entrenamiento de fuerza!",
         "¡No hay nada como el entrenamiento de fuerza!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ryan",
@@ -178,8 +178,8 @@
       "text": "Eso en realidad suena un poco divertido...\n¿Quieres ayudarme a practicar haciendo\npresentaciones, entonces?"
     },
     {
-      "text": "Algún tiempo después, la acompaño para su práctica\nde presentación y aumento aún más mi conocimiento\nsobre el ejercicio.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Algún tiempo después, la acompaño para su práctica\nde presentación y aumento aún más mi conocimiento\nsobre el ejercicio."
     },
     {
       "name": "Mejiro Ryan",
@@ -201,8 +201,8 @@
       "text": "Te enfocaste en entrenar tu parte superior la\núltima vez, así que esta rutina se enfoca en tu\nmitad inferior, especialmente tus muslos y..."
     },
     {
-      "text": "Ella continúa hablando poéticamente sobre el\nrégimen que ha armado durante un largo, largo\ntiempo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella continúa hablando poéticamente sobre el\nrégimen que ha armado durante un largo, largo\ntiempo."
     }
   ]
 }

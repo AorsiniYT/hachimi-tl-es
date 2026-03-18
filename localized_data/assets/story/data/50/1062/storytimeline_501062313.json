@@ -10,8 +10,8 @@
       "text": "...La próxima vez, supongo. Sí, la próxima. ¡La\npróxima vez definitivamente ganaré!"
     },
     {
-      "text": "Estoy caminando por el túnel de corredores para\nrecoger a Matikanetannhauser cuando escucho\nalgunas voces tenues.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Estoy caminando por el túnel de corredores para\nrecoger a Matikanetannhauser cuando escucho\nalgunas voces tenues."
     },
     {
       "name": "Rice Shower",
@@ -50,8 +50,8 @@
       "text": "¡Yo también!"
     },
     {
-      "text": "Después de intercambiar cumplidos, los dos\nregresan a la sala de espera de buen humor.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después de intercambiar cumplidos, los dos\nregresan a la sala de espera de buen humor."
     },
     {
       "name": "Matikanetannhauser",
@@ -124,8 +124,8 @@
       "text": "Pero aún así, ¿no sería increíble ganar una\ncarrera grande como esa en primavera?"
     },
     {
-      "text": "Ella puede no ser consciente de ello, pero su\ninquebrantable optimismo es uno de sus rasgos más\nfuertes.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella puede no ser consciente de ello, pero su\ninquebrantable optimismo es uno de sus rasgos más\nfuertes."
     },
     {
       "name": "Matikanetannhauser",
@@ -140,11 +140,11 @@
       "text": "...¿Qué opinas?"
     },
     {
+      "name": "Monólogo",
       "text": "Realmente no hay razón para que me niegue. Si ella\nquiere hacerlo, quiero ayudar.",
       "choice_data_list": [
         "Okay. Hagamos que tu próxima carrera sean los\nDiamond Stakes."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -195,12 +195,12 @@
       "text": "Bueno, ya es hora de que regrese al campus a\ncorrer un poco. ¡Yo también necesito ponerme al\ndía!"
     },
     {
-      "text": "Ella puede no haber ganado, pero definitivamente\nmostró de lo que es capaz en el Kikuka Sho.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella puede no haber ganado, pero definitivamente\nmostró de lo que es capaz en el Kikuka Sho."
     },
     {
-      "text": "¡Lo siguiente son los aún más largos Diamond\nStakes!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Lo siguiente son los aún más largos Diamond\nStakes!"
     }
   ]
 }

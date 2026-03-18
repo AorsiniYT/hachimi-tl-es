@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Matikanetannhauser tiene una entrevista programada\nmañana.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Matikanetannhauser tiene una entrevista programada\nmañana."
     },
     {
-      "text": "Pensando que sería mejor tener una breve reunión\nantes, entro a mi oficina solo para encontrar...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Pensando que sería mejor tener una breve reunión\nantes, entro a mi oficina solo para encontrar..."
     },
     {
       "name": "Matikanetannhauser",
@@ -21,12 +21,12 @@
       "text": "... ¡Haaah! ¡Cangrejo enlatado, calamar enlatado,\ncurry enlatado! ¡Cannelloni, bala de cañón,\nCanadá!"
     },
     {
+      "name": "Monólogo",
       "text": "Matikanetannhauser está recitando lo que parece\nser algún hechizo misterioso con intensa\nconcentración. Todo mientras usa su ropa de\ncarrera característica por alguna razón.",
       "choice_data_list": [
         "...¿Qué está pasando aquí?",
         "...¿Qué está pasando aquí?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -156,8 +156,8 @@
       "text": "Vamos, ¡hagámoslo oficial con una promesa de\nmeñique! Si la fastidio, ¡beberé un erizo de mar!"
     },
     {
-      "text": "Rebosante de vigor y completamente concentrada,\nMatikanetannhauser asiste a su entrevista en forma\nperfecta.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Rebosante de vigor y completamente concentrada,\nMatikanetannhauser asiste a su entrevista en forma\nperfecta."
     },
     {
       "name": "Matikanetannhauser",

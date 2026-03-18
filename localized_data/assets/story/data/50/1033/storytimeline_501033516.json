@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "De vuelta de las compras, veo a Curren Chan\ninvitar a Admire Vega a un café.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "De vuelta de las compras, veo a Curren Chan\ninvitar a Admire Vega a un café."
     },
     {
       "name": "Curren Chan",
@@ -46,8 +46,8 @@
       "text": "¡Miren esta torre de panqueques! ♪ ¡Las\ndecoraciones de fruta son tan lindas!"
     },
     {
-      "text": "Miro la montaña de panqueques gruesos cubiertos\nextravagantemente con fruta y malvaviscos gourmet.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Miro la montaña de panqueques gruesos cubiertos\nextravagantemente con fruta y malvaviscos gourmet."
     },
     {
       "name": "Curren Chan",
@@ -66,22 +66,22 @@
       "text": "Esta textura... es tan ligera en el paladar.\nTerminas comiendo más."
     },
     {
+      "name": "Monólogo",
       "text": "El panqueque en el plato de Admire Vega desaparece\nen un instante.",
       "choice_data_list": [
         "Intenta no comer demasiado, ¿vale?",
         "Intenta no comer demasiado, ¿vale?",
         "(La dejaré comer todo lo que quiera.)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
+      "name": "Monólogo",
       "text": "El panqueque en el plato de Admire Vega desaparece\nen un instante.",
       "choice_data_list": [
         "Intenta no comer demasiado, ¿vale?",
         "Intenta no comer demasiado, ¿vale?",
         "(La dejaré comer todo lo que quiera.)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -96,12 +96,12 @@
       "text": "¡Jaja! Sabía que disfrutarías estos panqueques\nesponjosos, ¡Ayabe! ♪"
     },
     {
-      "text": "Admire Vega saborea cuidadosa y lentamente su\nporción razonable de panqueques.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Admire Vega saborea cuidadosa y lentamente su\nporción razonable de panqueques."
     },
     {
-      "text": "Admire Vega normalmente es estricta consigo misma.\nCreo que le haría bien darse un capricho en algo\nque disfruta de vez en cuando.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Admire Vega normalmente es estricta consigo misma.\nCreo que le haría bien darse un capricho en algo\nque disfruta de vez en cuando."
     },
     {
       "name": "Admire Vega",
@@ -112,8 +112,8 @@
       "text": "¡Jaja! Sabía que disfrutarías estos panqueques\nesponjosos, ¡Ayabe! ♪"
     },
     {
-      "text": "Aunque la torre de panqueques está pensada para\nservir a un grupo de personas, Admire Vega termina\ncomiendo la mayoría de la pila.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Aunque la torre de panqueques está pensada para\nservir a un grupo de personas, Admire Vega termina\ncomiendo la mayoría de la pila."
     }
   ]
 }

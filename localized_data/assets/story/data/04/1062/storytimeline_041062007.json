@@ -22,27 +22,27 @@
       "text": "Oh, y esta noche hay un festival. Tengo que dar\ntodo en el entrenamiento antes de que me distraiga\neso. ¡Arriba, arriba, y a volar!"
     },
     {
-      "text": "Nuestro campamento de entrenamiento de verano va\nbien hasta ahora. Además de nuestras sesiones\ndiarias, nos hemos asegurado de divertirnos cuando\npodemos.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Nuestro campamento de entrenamiento de verano va\nbien hasta ahora. Además de nuestras sesiones\ndiarias, nos hemos asegurado de divertirnos cuando\npodemos."
     },
     {
-      "text": "Ya nos hemos dado el gusto de comer raspados en la\ncasa de la playa, y hasta hemos construido uno o\ndos castillos de arena. El festival de esta noche\nseguro será otro punto culminante.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ya nos hemos dado el gusto de comer raspados en la\ncasa de la playa, y hasta hemos construido uno o\ndos castillos de arena. El festival de esta noche\nseguro será otro punto culminante."
     },
     {
       "name": "Matikanetannhauser",
       "text": "¡He sudado bastante hoy! Tengo muchas ganas de ir\na juguetear entre las olas, pero ¡eso tendrá que\nesperar! ¡A dar otra vuelta!"
     },
     {
+      "name": "Monólogo",
       "text": "Después de que nuestro entrenamiento termina,\nregreso solo al alojamiento con tiempo de sobra\nantes del festival.",
       "choice_data_list": [
         "(Creo que tomaré una pequeña siesta.)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "No es común que el vestíbulo esté tan vacío. A\nnadie debería importarle si me acuesto en el sofá\nun rato.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No es común que el vestíbulo esté tan vacío. A\nnadie debería importarle si me acuesto en el sofá\nun rato."
     },
     {
       "name": "Matikanetannhauser",
@@ -117,15 +117,15 @@
       "text": "(Correcto. Es gracias a todos mis amigos que puedo\nser tan alegre. Ahora a compartir algo de eso con\nel Entrenador de la misma manera!)"
     },
     {
-      "text": "Solo tenía la intención de tomar una siesta, pero\nal despertar, puedo decir que he estado durmiendo\nun buen rato.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Solo tenía la intención de tomar una siesta, pero\nal despertar, puedo decir que he estado durmiendo\nun buen rato."
     },
     {
+      "name": "Monólogo",
       "text": "Abro los ojos para encontrar montones de comida y\nbaratijas en la mesa frente a mí. Zanahorias\nasadas, pan de yakisoba, e incluso abanicos\nnovedosos...",
       "choice_data_list": [
         "¿Qué está pasando?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -170,23 +170,23 @@
       "text": "¡Así que quería que experimentaras lo mismo!\n¡Espero que te haya dado una supercarga!"
     },
     {
-      "text": "Ella tiene razón. Ciertamente he notado cuánto la\nbondad de todos mantiene las brasas de su corazón\nardiendo fuerte.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella tiene razón. Ciertamente he notado cuánto la\nbondad de todos mantiene las brasas de su corazón\nardiendo fuerte."
     },
     {
       "name": "Matikanetannhauser",
       "text": "¡Mun, mumumu! ¡Reúnanse ante mí, espíritus de\nvitalidad y vigor! ¡Energía energizante, explosión\nenergética!"
     },
     {
-      "text": "Mientras ella me golpea con su rayo de energía,\necho otro vistazo a la mesa. No hay orden ni\nconcierto en cómo están dispuestos los objetos.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mientras ella me golpea con su rayo de energía,\necho otro vistazo a la mesa. No hay orden ni\nconcierto en cómo están dispuestos los objetos."
     },
     {
+      "name": "Monólogo",
       "text": "Pero puedo sentir el calor que emana de cada uno\nde ellos—la bondad de muchos.",
       "choice_data_list": [
         "¡Guau, ese rayo de energía hizo maravillas!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -205,16 +205,16 @@
       "text": "Oh, pero oye, ¿todas estas cosas son suficientes?\n¿Algo más que quieras? ¡Debería poder conseguir\ncualquier cosa bastante fácil!"
     },
     {
-      "text": "Después de que le hago saber que estoy bien, ella\nmerodea por ahí un rato nombrando las varias cosas\nque cree que me gustarán, lo que también es\nvigorizante a su manera.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después de que le hago saber que estoy bien, ella\nmerodea por ahí un rato nombrando las varias cosas\nque cree que me gustarán, lo que también es\nvigorizante a su manera."
     },
     {
       "name": "Matikanetannhauser",
       "text": "¡Guau, solo mira este mar de gente! ¡Las orillas\nresuenan con sus voces! ¡Este es un festival\nanimado, sin duda!"
     },
     {
-      "text": "Matikanetannhauser se siente como en casa dentro\nde la animada atmósfera del festival.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Matikanetannhauser se siente como en casa dentro\nde la animada atmósfera del festival."
     },
     {
       "name": "Matikanetannhauser",
@@ -232,8 +232,8 @@
       "text": "¡Arriba, mambo! ¡Haz el mambo del festival! De un\nlado a otro ahora, de un lado a otro, ¡haz el\nmambo del festival!"
     },
     {
-      "text": "Ella claramente recibe tanto amor de su familia\ncomo de todos los demás. Y tengo ganas de que los\ndías divertidos por venir sean parte de su vida\ntambién.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella claramente recibe tanto amor de su familia\ncomo de todos los demás. Y tengo ganas de que los\ndías divertidos por venir sean parte de su vida\ntambién."
     }
   ]
 }

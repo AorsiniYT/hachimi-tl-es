@@ -22,8 +22,8 @@
       "text": "Me pregunto si es una premonición. ¡Quizás\nrealmente seré seleccionada como Mejor Umamusume!"
     },
     {
-      "text": "<i>Toc, toc.</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>Toc, toc.</i>"
     },
     {
       "name": "Mejiro Ardan",
@@ -42,8 +42,8 @@
       "text": "¡Qué maravilloso escuchar eso! Hay tanto que\nquiero hablar contigo so—"
     },
     {
-      "text": "<i>Bzz... Bzz...</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>Bzz... Bzz...</i>"
     },
     {
       "name": "Sakura Chiyono O",
@@ -138,12 +138,12 @@
       "text": "...Ella es como yo. Ambas estamos tratando de\nsuperar quienes somos."
     },
     {
-      "text": "<i>¡Clatter, clatter!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Clatter, clatter!</i>"
     },
     {
-      "text": "Es Año Nuevo, pero estoy ocupándome creando el\nhorario de entrenamiento de la próxima semana.\nMientras trabajo, Sakura Chiyono O entra volando\npor la puerta.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Es Año Nuevo, pero estoy ocupándome creando el\nhorario de entrenamiento de la próxima semana.\nMientras trabajo, Sakura Chiyono O entra volando\npor la puerta."
     },
     {
       "name": "Sakura Chiyono O",
@@ -170,15 +170,15 @@
       "text": "¡A observar algunas carreras, por supuesto! Um,\nveamos... La próxima carrera de alto perfil es..."
     },
     {
-      "text": "Antes de que pueda decir una palabra, Sakura\nChiyono O comienza a hacer preparativos...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Antes de que pueda decir una palabra, Sakura\nChiyono O comienza a hacer preparativos..."
     },
     {
+      "name": "Monólogo",
       "text": "Y terminamos en el Hipódromo de Kioto para ver una\ncarrera.",
       "choice_data_list": [
         "Seguro que sabes cómo hacer que las cosas pasen..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -197,8 +197,8 @@
       "text": "¡Oooh! ¡Así que así es como es un cerrar de\ncarrera! ¡Ya veo!"
     },
     {
-      "text": "Y así, Sakura Chiyono O y yo continuamos viendo\ncarreras por un buen rato.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, Sakura Chiyono O y yo continuamos viendo\ncarreras por un buen rato."
     },
     {
       "name": "Sakura Chiyono O",
@@ -216,8 +216,8 @@
       "text": "Bueno, allá voy."
     },
     {
-      "text": "Y así, Sakura Chiyono O se acurruca en la gran\nalfombra calefactora en mi oficina.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, Sakura Chiyono O se acurruca en la gran\nalfombra calefactora en mi oficina."
     },
     {
       "name": "Sakura Chiyono O",
@@ -235,8 +235,8 @@
       "text": "¡Entrenador, por favor! ¡Solo dime sobre mi\npróxima carrera!"
     },
     {
-      "text": "A pesar de su actitud rebelde repentina, Sakura\nChiyono O se relaja en mi oficina por un rato.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "A pesar de su actitud rebelde repentina, Sakura\nChiyono O se relaja en mi oficina por un rato."
     },
     {
       "name": "Sakura Chiyono O",
@@ -262,8 +262,8 @@
       "text": "¡Eek! ¡Entrenador?!"
     },
     {
-      "text": "Frenéticamente detengo a Sakura Chiyono O antes de\nque se lance por el camino equivocado en la vida.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Frenéticamente detengo a Sakura Chiyono O antes de\nque se lance por el camino equivocado en la vida."
     }
   ]
 }

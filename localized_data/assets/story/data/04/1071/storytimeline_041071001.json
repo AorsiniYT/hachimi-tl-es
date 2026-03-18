@@ -2,23 +2,23 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Ha pasado algún tiempo desde que comencé mi\ntrabajo en la Academia Tracen como entrenador.\nMientras debería estar en el trabajo ahora\nmismo...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ha pasado algún tiempo desde que comencé mi\ntrabajo en la Academia Tracen como entrenador.\nMientras debería estar en el trabajo ahora\nmismo..."
     },
     {
+      "name": "Monólogo",
       "text": "<i>Gorgoteo...</i>",
       "choice_data_list": [
         "¡M-mi estómago!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Mi cuerpo está gritando de dolor, así que después\nde una rápida llamada, voy camino al hospital.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mi cuerpo está gritando de dolor, así que después\nde una rápida llamada, voy camino al hospital."
     },
     {
-      "text": "Según el médico, no es más que una intoxicación\nalimentaria. Aliviada al escuchar que no es nada\nserio, tomo la medicina recetada y me dirijo a\ncasa.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Según el médico, no es más que una intoxicación\nalimentaria. Aliviada al escuchar que no es nada\nserio, tomo la medicina recetada y me dirijo a\ncasa."
     },
     {
       "name": "Médico",
@@ -49,12 +49,12 @@
       "text": "¡Adiós! ¡Ten cuidado allá! ¡Lo digo en serio!"
     },
     {
-      "text": "Mientras observo esta extrañamente sombría escena\nentre el personal del hospital y su paciente, noto\nel uniforme de Tracen y reconozco a Mejiro Ardan.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mientras observo esta extrañamente sombría escena\nentre el personal del hospital y su paciente, noto\nel uniforme de Tracen y reconozco a Mejiro Ardan."
     },
     {
-      "text": "La próxima vez que la veo es cuando bajo del\nautobús y llego a la Academia Tracen. Es entonces\ncuando noto a una Umamusume muy preocupada.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La próxima vez que la veo es cuando bajo del\nautobús y llego a la Academia Tracen. Es entonces\ncuando noto a una Umamusume muy preocupada."
     },
     {
       "name": "Sakura Chiyono O",
@@ -121,8 +121,8 @@
       "text": "Ah, ¿quieres saber más sobre Mejiro Ardan?\nBueno..."
     },
     {
-      "text": "Con mi curiosidad despertada, he venido a Tazuna\npara aprender más sobre Mejiro Ardan.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con mi curiosidad despertada, he venido a Tazuna\npara aprender más sobre Mejiro Ardan."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -192,12 +192,12 @@
       "text": "¡Si estás tan interesado, quizás sea mejor hablar\ncon la propia Ardan!"
     },
     {
-      "text": "Mi conversación con Tazuna solo profundiza mi\ncuriosidad. Debe ser difícil vivir a la sombra de\ntu hermana como la hermana débil, pero todo lo que\npuedo imaginar es la gentil sonrisa de Ardan.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mi conversación con Tazuna solo profundiza mi\ncuriosidad. Debe ser difícil vivir a la sombra de\ntu hermana como la hermana débil, pero todo lo que\npuedo imaginar es la gentil sonrisa de Ardan."
     },
     {
-      "text": "Quizás... Yo misma iré a ver cómo está mañana.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Quizás... Yo misma iré a ver cómo está mañana."
     }
   ]
 }

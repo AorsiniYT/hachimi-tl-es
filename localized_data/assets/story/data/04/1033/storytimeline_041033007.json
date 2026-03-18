@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Hoy marca el inicio del campamento de verano. He\npreparado dos regímenes de entrenamiento\ndiferentes para Admire Vega.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Hoy marca el inicio del campamento de verano. He\npreparado dos regímenes de entrenamiento\ndiferentes para Admire Vega."
     },
     {
-      "text": "En resumen, hay uno que puede hacer sola y otro\nque requeriría que los dos trabajemos en equipo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "En resumen, hay uno que puede hacer sola y otro\nque requeriría que los dos trabajemos en equipo."
     },
     {
       "name": "Admire Vega",
@@ -17,16 +17,16 @@
       ]
     },
     {
-      "text": "Le muestro ambas opciones y dejo claro que estoy\nbien con cualquiera, pero ella está tomando un\ntiempo inusualmente largo para responder.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Le muestro ambas opciones y dejo claro que estoy\nbien con cualquiera, pero ella está tomando un\ntiempo inusualmente largo para responder."
     },
     {
       "name": "Admire Vega",
       "text": "...Déjame pensarlo."
     },
     {
-      "text": "Ella toma ambas hojas impresas y se dirige a su\nalojamiento.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella toma ambas hojas impresas y se dirige a su\nalojamiento."
     },
     {
       "name": "Admire Vega",
@@ -69,16 +69,16 @@
       "text": "Que yo... yo necesito..."
     },
     {
-      "text": "Ella lucha por encontrar las palabras. Su\nrespuesta ya está formada—ella simplemente no\npuede obligarse a decirlo en voz alta.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella lucha por encontrar las palabras. Su\nrespuesta ya está formada—ella simplemente no\npuede obligarse a decirlo en voz alta."
     },
     {
+      "name": "Monólogo",
       "text": "Puedo decir que no quiere herir mis sentimientos.",
       "choice_data_list": [
         "Está bien.",
         "Está bien."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -97,34 +97,34 @@
       "text": "...Sí. Gracias."
     },
     {
-      "text": "Ella elige el régimen en solitario.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella elige el régimen en solitario."
     },
     {
-      "text": "Observo su progreso, tomando notas como siempre.\nHaré con gusto lo que sea para apoyarla.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Observo su progreso, tomando notas como siempre.\nHaré con gusto lo que sea para apoyarla."
     },
     {
+      "name": "Monólogo",
       "text": "Por la noche, abro su lectura recomendada y miro\nhacia el cielo, donde el Triángulo de Verano se\ndestaca sobre el resto.",
       "choice_data_list": [
         "Vega, y Deneb, y... ¿cuál era el tercero?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Estoy hojear el libro, tratando de encontrar la\npágina correcta, cuando...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Estoy hojear el libro, tratando de encontrar la\npágina correcta, cuando..."
     },
     {
       "name": "Admire Vega",
       "text": "Altair... La estrella más brillante en Aquila."
     },
     {
+      "name": "Monólogo",
       "text": "Admire Vega aparece a mi lado.",
       "choice_data_list": [
         "¿También aquí para ver las estrellas?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -166,24 +166,24 @@
       "text": "Huh?"
     },
     {
-      "text": "No puedo pretender saber mucho sobre su hermana.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No puedo pretender saber mucho sobre su hermana."
     },
     {
+      "name": "Monólogo",
       "text": "Sin embargo, sé que su hermana es muy querida para\nella... y también una fuente de gran dolor.",
       "choice_data_list": [
         "Si corres por el bien de tu hermana...",
         "Si corres por el bien de tu hermana..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
+      "name": "Monólogo",
       "text": "Todos los horarios que elaboro, todo el consejo\nque doy—no están destinados solo para ella.",
       "choice_data_list": [
         "Entonces, todo lo que hago es por <i>las dos</i>.",
         "Entonces, todo lo que hago es por <i>las dos</i>."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -221,16 +221,16 @@
       "text": "..."
     },
     {
-      "text": "Ella toma asiento a mi lado, mira hacia el cielo\ndeslumbrante...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella toma asiento a mi lado, mira hacia el cielo\ndeslumbrante..."
     },
     {
       "name": "Admire Vega",
       "text": "Supongo que podría enseñarte un par de cosas."
     },
     {
-      "text": "...Y me susurra los secretos de las estrellas que\nviajaron años luz para brillar intensamente aquí\nesta noche.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "...Y me susurra los secretos de las estrellas que\nviajaron años luz para brillar intensamente aquí\nesta noche."
     }
   ]
 }

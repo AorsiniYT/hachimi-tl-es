@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Pasando por la tienda de la escuela un día, noto\nque han instalado una sección especial que no\nhabía visto antes.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Pasando por la tienda de la escuela un día, noto\nque han instalado una sección especial que no\nhabía visto antes."
     },
     {
-      "text": "Mirando alegremente hacia el letrero que lleva las\npalabras \"¡Gran Apertura!\" está...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mirando alegremente hacia el letrero que lleva las\npalabras \"¡Gran Apertura!\" está..."
     },
     {
       "name": "Director Akikawa",
@@ -25,11 +25,11 @@
       "text": "¡Hemos acondicionado un nuevo espacio dentro de la\ntienda específicamente para entrenadores! Y hoy es\nla <i>gran</i> inauguración!"
     },
     {
+      "name": "Monólogo",
       "text": "La Directora Akikawa señala con gran intensidad un\nletrero que dice...",
       "choice_data_list": [
         "¿Tienda de Entrenadores?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -43,8 +43,8 @@
       ]
     },
     {
-      "text": "Escucho con asombro mientras la Directora Akikawa\nexplica alegremente los diferentes productos que\nestán disponibles.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Escucho con asombro mientras la Directora Akikawa\nexplica alegremente los diferentes productos que\nestán disponibles."
     },
     {
       "name": "Director Akikawa",
@@ -68,11 +68,11 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "Todo esto suena demasiado bueno para ser verdad.\nReúno mi valor y pregunto directamente.",
       "choice_data_list": [
         "Eh, ¿de dónde sacaste los fondos para todo esto—"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -150,16 +150,16 @@
       ]
     },
     {
-      "text": "¿Cómo llegó al punto en que <i>yo también</i> renuncio a\ntodo?",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¿Cómo llegó al punto en que <i>yo también</i> renuncio a\ntodo?"
     },
     {
-      "text": "Miro por la ventana mientras escucho a la\nReportera Otonashi charlar emocionada.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Miro por la ventana mientras escucho a la\nReportera Otonashi charlar emocionada."
     },
     {
-      "text": "Realmente estoy agradecido de tener acceso a la\nTienda de Entrenadores, sin embargo. ¡Necesito\naprovechar cada opción disponible para mí!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Realmente estoy agradecido de tener acceso a la\nTienda de Entrenadores, sin embargo. ¡Necesito\naprovechar cada opción disponible para mí!"
     }
   ]
 }

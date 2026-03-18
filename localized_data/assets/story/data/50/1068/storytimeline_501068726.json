@@ -2,19 +2,19 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, durante un paseo con Kitasan Black...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un día, durante un paseo con Kitasan Black..."
     },
     {
       "name": "Kitasan Black",
       "text": "¡Oh, mira! ¡Allí tienen Cuties! Ay, sí que me\ntraen recuerdos."
     },
     {
+      "name": "Monólogo",
       "text": "Kitasan Black señala una máquina de garra llena de\npeluches de Umamusume.",
       "choice_data_list": [
         "¿Dices que te traen recuerdos?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -29,20 +29,20 @@
       "text": "Parece que han añadido más variedades desde\nentonces. Soy muy mala en estos juegos, así que\nnunca logré ganar nada. Jaja."
     },
     {
+      "name": "Monólogo",
       "text": "Kitasan Black parece sentirse atraída por los\npeluches. En ese caso...",
       "choice_data_list": [
         "¡Entonces te ganaré algunos!",
         "¡Entonces te ganaré algunos!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
       "text": "¿Qué? ¿En serio? ¡Muchas graciaaas!"
     },
     {
-      "text": "¡Ahora no hay manera de que falle!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Ahora no hay manera de que falle!"
     }
   ]
 }

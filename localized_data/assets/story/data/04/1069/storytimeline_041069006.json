@@ -14,8 +14,8 @@
       "text": "Por el sueño que comparto con Maruzen... y a\npartir de hoy, ¡también por ti!"
     },
     {
-      "text": "Sakura Chiyono O no necesita que le recuerden\ntrabajar duro. Así que si hay algo que pueda hacer\ncomo su entrenador, sería...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sakura Chiyono O no necesita que le recuerden\ntrabajar duro. Así que si hay algo que pueda hacer\ncomo su entrenador, sería..."
     },
     {
       "name": "Sakura Chiyono O",
@@ -40,8 +40,8 @@
       "text": "Oh, pero aún vamos al mismo lugar. Si no te\nimporta, ¿qué tal si vamos juntos?"
     },
     {
-      "text": "No tengo razón para decir que no, así que vamos\njuntos a la librería.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No tengo razón para decir que no, así que vamos\njuntos a la librería."
     },
     {
       "name": "Sakura Chiyono O",
@@ -114,11 +114,11 @@
       "text": "¡Me alegra haber seguido trabajando! Porque de lo\ncontrario, nunca habría conocido a un entrenador\ntan increíble."
     },
     {
+      "name": "Monólogo",
       "text": "En mi habitación esa noche, mientras reviso los\nlibros que compré...",
       "choice_data_list": [
         "Un mensaje... ¿de Chiyono O?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -145,12 +145,12 @@
       "text": "¡Así que sigamos adelante como dos! ¡Vale, nos\nvemos en el entrenamiento!"
     },
     {
-      "text": "El proverbio no termina de cuadrar, pero es la\nintención lo que cuenta.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El proverbio no termina de cuadrar, pero es la\nintención lo que cuenta."
     },
     {
-      "text": "Empiezo a escribir un corto agradecimiento, luego\ncambio de opinión y alargo la mano hacia el botón\nde llamada.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Empiezo a escribir un corto agradecimiento, luego\ncambio de opinión y alargo la mano hacia el botón\nde llamada."
     },
     {
       "name": "Sakura Chiyono O",
@@ -186,8 +186,8 @@
       ]
     },
     {
-      "text": "El uso correcto de su proverbio aún se me escapa,\npero por ahora, solo disfrutaré esta charla con\nChiyono O.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El uso correcto de su proverbio aún se me escapa,\npero por ahora, solo disfrutaré esta charla con\nChiyono O."
     }
   ]
 }

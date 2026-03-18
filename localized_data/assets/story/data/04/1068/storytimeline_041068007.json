@@ -2,19 +2,19 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Hoy es el último día de nuestro campamento de\nverano. Todo ha ido bien, pero hay algo que me\ntiene pensando...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Hoy es el último día de nuestro campamento de\nverano. Todo ha ido bien, pero hay algo que me\ntiene pensando..."
     },
     {
       "name": "Kitasan Black",
       "text": "..."
     },
     {
+      "name": "Monólogo",
       "text": "Kita claramente me está observando. ¿Qué razón\npodría tener para estar mirándome de reojo?",
       "choice_data_list": [
         "Um..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -25,24 +25,24 @@
       "text": "Oh, a ver si adivino, ¿quieres que prepare el\nequipo para nuestra próxima sesión de\nentrenamiento, verdad? ¡Déjalo en mis manos, lo\nharé en un santiamén!"
     },
     {
-      "text": "Sin darme la oportunidad de responder, Kita sale\ndisparada hacia nuestro siguiente lugar de\nentrenamiento.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sin darme la oportunidad de responder, Kita sale\ndisparada hacia nuestro siguiente lugar de\nentrenamiento."
     },
     {
       "name": "Kitasan Black",
       "text": "<i>Jadeo, jadeo...</i> ¡Yaaaaah!"
     },
     {
-      "text": "Pierdo la oportunidad de preguntarle sobre las\nmiradas, así que volvemos a nuestro entrenamiento.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Pierdo la oportunidad de preguntarle sobre las\nmiradas, así que volvemos a nuestro entrenamiento."
     },
     {
+      "name": "Monólogo",
       "text": "Recientemente, la forma de correr de Kita ha sido\nimpecable. Parece que este campamento de verano ha\nhecho maravillas con ella.",
       "choice_data_list": [
         "¡Así se hace, Kita!",
         "¡Así se hace, Kita!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -79,8 +79,8 @@
       "text": "Um, ¡no es nada!"
     },
     {
-      "text": "Esa noche, Kita y yo decidimos ir a ver un\nfestival que hay cerca.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Esa noche, Kita y yo decidimos ir a ver un\nfestival que hay cerca."
     },
     {
       "name": "Kitasan Black",
@@ -226,31 +226,31 @@
       "text": "¡Así es como <i>yo</i> puedo apoyarte!"
     },
     {
+      "name": "Monólogo",
       "text": "Las palabras honestas y sinceras de Kita me dejan\nun poco desconcertado. Aún así, respondo a sus\nsentimientos.",
       "choice_data_list": [
         "Hagámonos felices el uno al otro, ¿vale?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
       "text": "¡Sí! ¡Es una promesa!"
     },
     {
-      "text": "La brillante sonrisa de Kita brilla tan\nintensamente como un espectáculo de fuegos\nartificiales. Los dos queremos que el otro sea\nfeliz, y no hay nada mejor que eso.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La brillante sonrisa de Kita brilla tan\nintensamente como un espectáculo de fuegos\nartificiales. Los dos queremos que el otro sea\nfeliz, y no hay nada mejor que eso."
     },
     {
       "name": "Kitasan Black",
       "text": "¡Muy bien! Vamos, ¡esto es un festival! ¡Hagamos\nruido!"
     },
     {
-      "text": "Kita levanta ambas manos en el aire con una cara\nrenovada.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Kita levanta ambas manos en el aire con una cara\nrenovada."
     },
     {
-      "text": "Animados por la gente a nuestro alrededor,\nterminamos subiendo al escenario. Mientras tanto,\nel ritmo de los tambores resuena en todo el lugar,\nllenándolo de alegría festiva.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Animados por la gente a nuestro alrededor,\nterminamos subiendo al escenario. Mientras tanto,\nel ritmo de los tambores resuena en todo el lugar,\nllenándolo de alegría festiva."
     }
   ]
 }

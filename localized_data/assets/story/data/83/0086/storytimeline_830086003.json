@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "¡Es el día antes del mini concierto! Cuando llego\nal lugar, los cuatro performers ya están allí.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Es el día antes del mini concierto! Cuando llego\nal lugar, los cuatro performers ya están allí."
     },
     {
       "name": "T.M. Opera O",
@@ -22,8 +22,8 @@
       "text": "Relájate, Doto. ¡El concierto será genial mañana!"
     },
     {
-      "text": "Ellos comienzan su ensayo. Toda la práctica de\nNarita Top Road parece estar dando frutos hasta\nque—",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ellos comienzan su ensayo. Toda la práctica de\nNarita Top Road parece estar dando frutos hasta\nque—"
     },
     {
       "name": "Narita Top Road",
@@ -42,8 +42,8 @@
       "text": "(Girar en el lugar, girar en el lugar—¡agh!)"
     },
     {
-      "text": "<i>¡Pum!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>"
     },
     {
       "name": "Director de Escenario",
@@ -96,12 +96,12 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "La coreografía no es nueva para ella. Solo\nnecesita recordar todo el esfuerzo que ha puesto\nhasta ahora.",
       "choice_data_list": [
         "¡Has hecho el trabajo, así que apóyate en él\nahora!",
         "¡Has hecho el trabajo, así que apóyate en él\nahora!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -151,8 +151,8 @@
       "text": "¡Sí! Por ejemplo..."
     },
     {
-      "text": "Es al día siguiente, justo antes del concierto.\n¡Ha llegado la hora de que Narita Top Road muestre\nlos frutos de su trabajo!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Es al día siguiente, justo antes del concierto.\n¡Ha llegado la hora de que Narita Top Road muestre\nlos frutos de su trabajo!"
     },
     {
       "name": "Director de Escena",
@@ -206,8 +206,8 @@
       "text": "Bueno, es hora de hacer esto. ¡Les mostraremos de\nqué estamos hechos realmente!"
     },
     {
-      "text": "Narita Top Road me lanza una sonrisa brillante\nantes de subir al escenario.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Narita Top Road me lanza una sonrisa brillante\nantes de subir al escenario."
     }
   ]
 }

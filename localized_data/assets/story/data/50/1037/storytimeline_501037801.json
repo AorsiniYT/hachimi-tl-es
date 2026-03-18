@@ -2,15 +2,15 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Monólogo",
       "text": "Casi es el White Day, y necesito pensar en un\nregalo para Eishin Flash.",
       "choice_data_list": [
         "Mmm..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "He pasado días buscando en tiendas en línea, pero\nnada me ha llamado la atención. Quizás sea mejor\nir de compras en persona para este tipo de\ncosas...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "He pasado días buscando en tiendas en línea, pero\nnada me ha llamado la atención. Quizás sea mejor\nir de compras en persona para este tipo de\ncosas..."
     },
     {
       "name": "Eishin Flash",
@@ -43,12 +43,12 @@
       "text": "¡Espere—¿Entrenador?!"
     },
     {
-      "text": "No hay forma de que pueda preguntarle a Eishin\nFlash qué debería regalarle para el White Day.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No hay forma de que pueda preguntarle a Eishin\nFlash qué debería regalarle para el White Day."
     },
     {
-      "text": "Me siento mal por huir sin dar explicaciones,\npero escapo antes de que pueda detenerme.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Me siento mal por huir sin dar explicaciones,\npero escapo antes de que pueda detenerme."
     },
     {
       "name": "Mihono Bourbon",
@@ -66,8 +66,8 @@
       "text": "¿Hm?"
     },
     {
-      "text": "Les explico la situación y les pido consejo sobre\nqué regalarle a Eishin Flash.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Les explico la situación y les pido consejo sobre\nqué regalarle a Eishin Flash."
     },
     {
       "name": "Nishino Flower",
@@ -82,8 +82,8 @@
       "text": "¡Espero que encuentres algo bonito! ¡Oh! ¡Creo que\nuna tarjeta también la haría feliz!"
     },
     {
-      "text": "Les agradezco su consejo y me dirijo a\nla tienda. Resulta que Tosen Jordan también\nestá allí.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Les agradezco su consejo y me dirijo a\nla tienda. Resulta que Tosen Jordan también\nestá allí."
     },
     {
       "name": "Tosen Jordan",
@@ -98,8 +98,8 @@
       "text": "Pero conociendo a Flash, ella diría algo como: \"La\nintención es lo que cuenta\". Como sea, ella te\nregaló un pastel, así que ¿por qué no le regalas\nuno también?"
     },
     {
-      "text": "Echo un vistazo a la tienda de todos modos, pero\nlas palabras de Tosen Jordan me persiguen. Es\nentonces cuando...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Echo un vistazo a la tienda de todos modos, pero\nlas palabras de Tosen Jordan me persiguen. Es\nentonces cuando..."
     },
     {
       "name": "Sakura Bakushin O",
@@ -114,31 +114,31 @@
       "text": "¡Todo lo que necesito es una palabra de\nagradecimiento! ¡GUAU! ¿Acaso no soy increíble?\n¡Una estudiante ejemplar, si me lo preguntas! Pero\nsi quieren darme algo, ¡lo aceptaré con gusto!"
     },
     {
-      "text": "...No puedo decidirme. Sakura Bakushin O\ntiene un buen punto. Pero solo decir \"gracias\" a\nEishin Flash no se siente suficiente...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "...No puedo decidirme. Sakura Bakushin O\ntiene un buen punto. Pero solo decir \"gracias\" a\nEishin Flash no se siente suficiente..."
     },
     {
+      "name": "Monólogo",
       "text": "Después de mucha deliberación, finalmente\ndecido...",
       "choice_data_list": [
         "Escribir una carta.",
         "¡Hornear algo!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Decido escribirle una carta, no solo para\nagradecerle por su regalo del día de San Valentín,\nsino también para dejarle saber lo conmovido que\nestoy por su arduo trabajo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Decido escribirle una carta, no solo para\nagradecerle por su regalo del día de San Valentín,\nsino también para dejarle saber lo conmovido que\nestoy por su arduo trabajo."
     },
     {
-      "text": "Pierdo la cuenta de cuántas veces empiezo la carta\nde nuevo. El sol ya se ha puesto para cuando logro\nterminarla.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Pierdo la cuenta de cuántas veces empiezo la carta\nde nuevo. El sol ya se ha puesto para cuando logro\nterminarla."
     },
     {
+      "name": "Monólogo",
       "text": "Aun así, siento que no sería suficiente\ndarle solo una carta. Tal vez podría darle\nalgo más también, como...",
       "choice_data_list": [
         "Una flor o algo..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -183,27 +183,27 @@
       "text": "Gracias... Leeré y atesoraré cada palabra."
     },
     {
-      "text": "No quería darle la carta de esta manera, pero\ncuando se la entrego, Eishin Flash la sostiene\ncomo si fuera la cosa más importante del mundo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No quería darle la carta de esta manera, pero\ncuando se la entrego, Eishin Flash la sostiene\ncomo si fuera la cosa más importante del mundo."
     },
     {
-      "text": "Mi repostería no le llega a los talones a la de\nEishin Flash, pero tal vez pueda hacer unos\ncupcakes...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mi repostería no le llega a los talones a la de\nEishin Flash, pero tal vez pueda hacer unos\ncupcakes..."
     },
     {
-      "text": "Habiendo decidido qué hacer, busco una receta\ny salgo a comprar los ingredientes.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Habiendo decidido qué hacer, busco una receta\ny salgo a comprar los ingredientes."
     },
     {
+      "name": "Monólogo",
       "text": "Después de buscar un rato, me encuentro con un\ndilema.",
       "choice_data_list": [
         "¿Cuál de estos es mejor para un pastel?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Resulta que hay varios tipos de crema para batir,\ny no tengo idea de cuál comprar. ¿Debería llevar\nuna cara solo para estar seguro?",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Resulta que hay varios tipos de crema para batir,\ny no tengo idea de cuál comprar. ¿Debería llevar\nuna cara solo para estar seguro?"
     },
     {
       "name": "Eishin Flash",
@@ -236,8 +236,8 @@
       "text": "Sin embargo, ya es de tarde. Incluso si empieza\nahora..."
     },
     {
-      "text": "Tiene un buen punto. No estoy acostumbrado a\nhornear, así que quién sabe cuándo podré terminar.\nPuede que ni siquiera llegue a tiempo para el\nWhite Day.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Tiene un buen punto. No estoy acostumbrado a\nhornear, así que quién sabe cuándo podré terminar.\nPuede que ni siquiera llegue a tiempo para el\nWhite Day."
     },
     {
       "name": "Eishin Flash",
@@ -256,12 +256,12 @@
       "text": "Esa alegría sería la misma, sin importar si lo\nhacemos en el White Day o no. ¿Cierto?"
     },
     {
-      "text": "Eishin Flash me consuela y se ríe para sí misma.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Eishin Flash me consuela y se ríe para sí misma."
     },
     {
-      "text": "Y así, celebramos el White Day unos días después\nhorneando un pastel y comiéndolo juntos.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, celebramos el White Day unos días después\nhorneando un pastel y comiéndolo juntos."
     }
   ]
 }

@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Mientras comía en la cafetería, escuché a Mejiro\nBright y Fine Motion teniendo una discusión.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mientras comía en la cafetería, escuché a Mejiro\nBright y Fine Motion teniendo una discusión."
     },
     {
       "name": "Fine Motion",
@@ -54,11 +54,11 @@
       "text": "Mmm, así que todos sus fondos eran en efectivo? Y\ndebió ser un incendio enorme para destruir todo\nese capital. Es extraño que no haya visto ninguna\nnoticia al respecto..."
     },
     {
+      "name": "Monólogo",
       "text": "Incapaz de quedarme callado por más tiempo,\ninterrumpo su conversación.",
       "choice_data_list": [
         "Todo es un montón de mentiras."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Bright",
@@ -80,12 +80,12 @@
       "text": "Significa que no hubo accidente y que nadie\nresultó herido."
     },
     {
+      "name": "Monólogo",
       "text": "A pesar de casi ser engañada por este \"príncipe\",\nMejiro Bright aún siente un gran alivio.",
       "choice_data_list": [
         "Realmente eres una persona amable.",
         "Necesitas aprender un poco más sobre cómo funciona\nel mundo."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Bright",
@@ -134,8 +134,8 @@
       "text": "Eh, lo siento, ¡yo tampoco lo sé! ¡Mi equipo de\nseguridad se encarga de esas cosas por mí!"
     },
     {
-      "text": "Y así, termino ayudando a Mejiro Bright a cambiar\nsu dirección de correo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, termino ayudando a Mejiro Bright a cambiar\nsu dirección de correo."
     }
   ]
 }

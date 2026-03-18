@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Monólogo",
       "text": "Admire Vega completa su rutina de entrenamiento\nmás rápido de lo habitual hoy.",
       "choice_data_list": [
         "¿Quieres correr un poco más?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -21,12 +21,12 @@
       "text": "Me dirijo de vuelta a la residencia."
     },
     {
-      "text": "Admire Vega normalmente corre hasta que salen las\nestrellas, así que es extraño que acorte su\nentrenamiento.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Admire Vega normalmente corre hasta que salen las\nestrellas, así que es extraño que acorte su\nentrenamiento."
     },
     {
-      "text": "Debe sentirse agotada. Probablemente debería\najustar su programa de carreras.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Debe sentirse agotada. Probablemente debería\najustar su programa de carreras."
     }
   ]
 }

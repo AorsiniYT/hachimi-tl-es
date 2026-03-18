@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, llevo a <chrname> a la enfermería para un chequeo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un día, llevo a <chrname> a la enfermería para un chequeo."
     },
     {
       "name": "???",
@@ -96,8 +96,8 @@
       ]
     },
     {
-      "text": "No hay manera de que hagamos esto. Tomo a <chrname> y me\ndirijo a la puerta, cuando...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No hay manera de que hagamos esto. Tomo a <chrname> y me\ndirijo a la puerta, cuando..."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -150,10 +150,11 @@
       "text": "¡Vamos a lo bueno! ¿Qué chakra debería activar?\n¿Quieres un impulso a tus habilidades? ¿A tu\nsalud? ¿O quizás a tu <i>encanto?</i>"
     },
     {
-      "text": "Huelo peligro en el aire, pero calculo que podría\n—y enfatizo <i>podría</i>— haber una oportunidad de\nconseguir algo especial con este tratamiento.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Huelo peligro en el aire, pero calculo que podría\n—y enfatizo <i>podría</i>— haber una oportunidad de\nconseguir algo especial con este tratamiento."
     },
     {
+      "name": "Monólogo",
       "text": "¿Qué hacemos?",
       "choice_data_list": [
         "Activar el chakra de fuerza.",
@@ -161,8 +162,7 @@
         "Activar el chakra de salud.",
         "Activar el chakra de encanto.",
         "Esto es demasiado sospechoso. Mejor salgamos de\naquí mientras podamos."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sasami Anshinzawa",
@@ -193,8 +193,8 @@
       "text": "Hyaaah!"
     },
     {
-      "text": "¡Perforación Perfecta!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Perforación Perfecta!"
     },
     {
       "name": "Matikanetannhauser",
@@ -213,12 +213,12 @@
       "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy una total\ngenio!"
     },
     {
-      "text": "<chrname> rebosa de tanto poder que casi no la reconozco!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<chrname> rebosa de tanto poder que casi no la reconozco!"
     },
     {
-      "text": "¡Arriesgamos y salió bien! ¡Este es un gran salto\nhacia el logro de nuestra meta!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y salió bien! ¡Este es un gran salto\nhacia el logro de nuestra meta!"
     },
     {
       "name": "Matikanetannhauser",
@@ -229,8 +229,8 @@
       "text": "Y-yo veo una botella gigante de jugo de tomate...\nN-no, ¡aléjate! ¡Alto! ¡No te acerques más! ¡No\nquiero beber de ti!"
     },
     {
-      "text": "El estado de <chrname> se deteriora rápidamente.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El estado de <chrname> se deteriora rápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -241,8 +241,8 @@
       "text": "¡Mira qué hora es! Debería irme. ¡Adiós! ☆"
     },
     {
-      "text": "Debí haber sabido que no era buena idea tentar a\nla suerte. No soy la que sufre, y sin embargo\nestoy llena de remordimientos.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Debí haber sabido que no era buena idea tentar a\nla suerte. No soy la que sufre, y sin embargo\nestoy llena de remordimientos."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -273,8 +273,8 @@
       "text": "Hyaaah!"
     },
     {
-      "text": "¡Pinchazo Perfecto!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
     },
     {
       "name": "Matikanetannhauser",
@@ -293,12 +293,12 @@
       "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy una genio\ntotal!"
     },
     {
-      "text": "¡Puedo sentir una gran mejora en las habilidades\nde <chrname>!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Puedo sentir una gran mejora en las habilidades\nde <chrname>!"
     },
     {
-      "text": "¡Arriesgamos y dio frutos! ¡Este es un gran salto\nhacia alcanzar nuestra meta!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y dio frutos! ¡Este es un gran salto\nhacia alcanzar nuestra meta!"
     },
     {
       "name": "Matikanetannhauser",
@@ -309,8 +309,8 @@
       "text": "Y-yo veo una botella gigante de jugo de tomate...\nN-no, ¡aléjate! ¡Alto! ¡No te acerques más! ¡No\nquiero beber de ti!"
     },
     {
-      "text": "El estado de <chrname> se deteriora rápidamente.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El estado de <chrname> se deteriora rápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -321,8 +321,8 @@
       "text": "¡Mira qué hora es! Debería irme. ¡Adiós! ☆"
     },
     {
-      "text": "Debí haber sabido que no era buena idea tentar a\nla suerte. No soy la que sufre, y sin embargo\nestoy llena de remordimientos.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Debí haber sabido que no era buena idea tentar a\nla suerte. No soy la que sufre, y sin embargo\nestoy llena de remordimientos."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -353,8 +353,8 @@
       "text": "Hyaaah!"
     },
     {
-      "text": "¡Pinchazo Perfecto!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
     },
     {
       "name": "Matikanetannhauser",
@@ -373,12 +373,12 @@
       "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy una genio\ntotal!"
     },
     {
-      "text": "¡Todo el cuerpo de <chrname> irradia un brillo saludable!\n¡Es la imagen perfecta de la salud!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Todo el cuerpo de <chrname> irradia un brillo saludable!\n¡Es la imagen perfecta de la salud!"
     },
     {
-      "text": "¡Arriesgamos y dio frutos! ¡Este es un gran salto\nhacia alcanzar nuestra meta!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y dio frutos! ¡Este es un gran salto\nhacia alcanzar nuestra meta!"
     },
     {
       "name": "Matikanetannhauser",
@@ -389,8 +389,8 @@
       "text": "Y-yo veo una botella gigante de jugo de tomate...\nN-no, ¡aléjate! ¡Alto! ¡No te acerques más! ¡No\nquiero beber de ti!"
     },
     {
-      "text": "El estado de <chrname> se deteriora rápidamente.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El estado de <chrname> se deteriora rápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -401,8 +401,8 @@
       "text": "¡Mira qué hora es! Debería irme. ¡Adiós! ☆"
     },
     {
-      "text": "Debí haber sabido que no era buena idea tentar a\nla suerte. No soy la que sufre, y sin embargo\nestoy llena de remordimientos.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Debí haber sabido que no era buena idea tentar a\nla suerte. No soy la que sufre, y sin embargo\nestoy llena de remordimientos."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -433,8 +433,8 @@
       "text": "Hyaaah!"
     },
     {
-      "text": "¡Pinchazo Perfecto!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
     },
     {
       "name": "Matikanetannhauser",
@@ -453,12 +453,12 @@
       "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy una genio\ntotal!"
     },
     {
-      "text": "¡<chrname> rebosa de encanto! ¡Seguro que llama la atención\ndondequiera que vaya!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡<chrname> rebosa de encanto! ¡Seguro que llama la atención\ndondequiera que vaya!"
     },
     {
-      "text": "¡Arriesgamos y dio frutos! ¡Este es un gran salto\nhacia alcanzar nuestra meta!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y dio frutos! ¡Este es un gran salto\nhacia alcanzar nuestra meta!"
     },
     {
       "name": "Matikanetannhauser",
@@ -469,8 +469,8 @@
       "text": "Y-yo veo una botella gigante de jugo de tomate...\nN-no, ¡aléjate! ¡Alto! ¡No te acerques más! ¡No\nquiero beber de ti!"
     },
     {
-      "text": "El estado de <chrname> se deteriora rápidamente.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El estado de <chrname> se deteriora rápidamente."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -481,8 +481,8 @@
       "text": "¡Mira qué hora es! Debería irme. ¡Adiós! ☆"
     },
     {
-      "text": "Debí haber sabido que no era buena idea tentar a\nla suerte. No soy la que sufre, y sin embargo\nestoy llena de remordimientos.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Debí haber sabido que no era buena idea tentar a\nla suerte. No soy la que sufre, y sin embargo\nestoy llena de remordimientos."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -521,8 +521,8 @@
       ]
     },
     {
-      "text": "Tengo curiosidad sobre quién es realmente este\npersonaje Anshinzawa, pero no sirve de nada darle\nvueltas. Lo mejor es olvidar el día de hoy y\nseguir adelante.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Tengo curiosidad sobre quién es realmente este\npersonaje Anshinzawa, pero no sirve de nada darle\nvueltas. Lo mejor es olvidar el día de hoy y\nseguir adelante."
     },
     {
       "name": "Sasami Anshinzawa",
@@ -553,12 +553,12 @@
       "text": "¡Oye! ¡Alto ahí!"
     },
     {
-      "text": "La situación da un giro abrupto antes de que pueda\ntomar una decisión.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La situación da un giro abrupto antes de que pueda\ntomar una decisión."
     },
     {
-      "text": "¿Qué fue todo eso? <chrname> y yo nos miramos\ndesconcertados.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¿Qué fue todo eso? <chrname> y yo nos miramos\ndesconcertados."
     }
   ]
 }

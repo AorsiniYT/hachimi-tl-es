@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día en el centro comercial, escucho una\nconversación entre tres miembros de la familia\nMejiro.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un día en el centro comercial, escucho una\nconversación entre tres miembros de la familia\nMejiro."
     },
     {
       "name": "Mejiro Bright",
@@ -62,8 +62,8 @@
       "text": "¡Guau?!"
     },
     {
-      "text": "<i>¡Thump!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Thump!</i>"
     },
     {
       "name": "Mejiro Dober",
@@ -106,11 +106,11 @@
       "text": "Jeje. ♪ Esto es pura felicidad."
     },
     {
+      "name": "Monólogo",
       "text": "Mientras la demostración de afecto continúa,\nMejiro Dober los mira en silencio.",
       "choice_data_list": [
         "¿Por qué no te unes, Dober?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -179,8 +179,8 @@
       "text": "Oh, eh, ¡claro! Di \"Ahh\"..."
     },
     {
-      "text": "<i>¡Ñam!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Ñam!</i>"
     },
     {
       "name": "Mejiro Dober",

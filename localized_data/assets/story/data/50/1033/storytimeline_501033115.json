@@ -49,16 +49,16 @@
       "text": "..."
     },
     {
-      "text": "Rápidamente corro hacia ella. Desde el Kikuka Sho,\nella ha rechazado todos mis intentos de hablar con\nella.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Rápidamente corro hacia ella. Desde el Kikuka Sho,\nella ha rechazado todos mis intentos de hablar con\nella."
     },
     {
+      "name": "Monólogo",
       "text": "Es evidente, las cosas se están saliendo de mi\ncontrol. Admire Vega parece completamente agotada\nde energía.",
       "choice_data_list": [
         "¡Te estás consumiendo!",
         "¡Te estás consumiendo!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -68,15 +68,15 @@
       ]
     },
     {
-      "text": "Los asuntos de su salud son mi responsabilidad,\nindependientemente de cuándo ocurra el problema.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Los asuntos de su salud son mi responsabilidad,\nindependientemente de cuándo ocurra el problema."
     },
     {
+      "name": "Monólogo",
       "text": "Su entrenamiento temerario solo ha empeorado sus\nhuesos desalineados. Su pierna izquierda ha\nllegado al límite.",
       "choice_data_list": [
         "Volvamos para que te traten—"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -106,16 +106,16 @@
       ]
     },
     {
-      "text": "Soy su entrenador, lo que significa que sus metas\nson mis metas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Soy su entrenador, lo que significa que sus metas\nson mis metas."
     },
     {
+      "name": "Monólogo",
       "text": "But...",
       "choice_data_list": [
         "Pero tú misma eres igual de importante.",
         "Pero tú misma eres igual de importante."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -129,15 +129,15 @@
       ]
     },
     {
-      "text": "Ignorando mis llamados, se va. Juzgando por la\ndirección que toma, creo que se dirige a las\nmontañas... pero el sol ya se ha puesto hace rato.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ignorando mis llamados, se va. Juzgando por la\ndirección que toma, creo que se dirige a las\nmontañas... pero el sol ya se ha puesto hace rato."
     },
     {
+      "name": "Monólogo",
       "text": "Realmente me trae recuerdos de la primera vez que\nnos conocimos.",
       "choice_data_list": [
         "¡No la perderé esta vez!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -383,19 +383,19 @@
       "text": "...Y el dolor en mi pierna izquierda."
     },
     {
-      "text": "Encontrando a Admire Vega sola e inconsciente en\nel bosque, llamo a una ambulancia y la llevo\nrápidamente al hospital.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Encontrando a Admire Vega sola e inconsciente en\nel bosque, llamo a una ambulancia y la llevo\nrápidamente al hospital."
     },
     {
+      "name": "Monólogo",
       "text": "No puedo contar cuántas veces la llamé mientras\ngemía en su sueño.",
       "choice_data_list": [
         "¡Ayabe! Estaba tan preocupado por ti..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Finalmente recupera la conciencia y se revisa.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Finalmente recupera la conciencia y se revisa."
     },
     {
       "name": "Admire Vega",
@@ -417,16 +417,16 @@
       "text": "Mi hermana pequeña... ¡se ha ido!"
     },
     {
-      "text": "Admire Vega se aferra a mí y empieza a llorar—las\nlágrimas no se detienen.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Admire Vega se aferra a mí y empieza a llorar—las\nlágrimas no se detienen."
     },
     {
-      "text": "Sus dedos se clavan en mi brazo hasta que duele...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sus dedos se clavan en mi brazo hasta que duele..."
     },
     {
-      "text": "Pero sé que ni siquiera es una fracción del dolor\nque ella siente ahora.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Pero sé que ni siquiera es una fracción del dolor\nque ella siente ahora."
     }
   ]
 }

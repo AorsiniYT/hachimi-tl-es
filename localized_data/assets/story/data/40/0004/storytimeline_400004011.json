@@ -13,8 +13,8 @@
       "text": "Verás, soy parte del comité de selección para los\nPremios Best Umamusume, y—"
     },
     {
-      "text": "<i>Toc, toc</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>Toc, toc</i>"
     },
     {
       "name": "Riko Kashimoto",
@@ -33,15 +33,15 @@
       "text": "Ya veo. En ese caso, echa un vistazo a esto."
     },
     {
-      "text": "Abro la carta que me entrega.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Abro la carta que me entrega."
     },
     {
+      "name": "Monólogo",
       "text": "\"Estimada <chrname>, nos complace informarle que ha sido\nseleccionada como la Mejor Umamusume del Año\nClásico de este año.\"",
       "choice_data_list": [
         "¿¡Mejor Umamusume del Año Clásico!?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Riko Kashimoto",
@@ -75,8 +75,8 @@
       "text": "Mantente enfocada y conserva este impulso para el\núltimo año."
     },
     {
-      "text": "Más tarde, <chrname> y yo juramos seguir trabajando duro\ntambién el próximo año.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Más tarde, <chrname> y yo juramos seguir trabajando duro\ntambién el próximo año."
     }
   ]
 }

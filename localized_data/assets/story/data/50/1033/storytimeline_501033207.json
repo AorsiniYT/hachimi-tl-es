@@ -34,16 +34,16 @@
       "text": "..."
     },
     {
-      "text": "Con la carrera por comenzar pronto, Admire Vega\nestá lista. La veo tomar un respiro profundo, y de\nrepente tengo el impulso de preguntarle algo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con la carrera por comenzar pronto, Admire Vega\nestá lista. La veo tomar un respiro profundo, y de\nrepente tengo el impulso de preguntarle algo."
     },
     {
+      "name": "Monólogo",
       "text": "Ahora que lo pienso, nunca le he preguntado esto\nantes.",
       "choice_data_list": [
         "¿Estás nerviosa?",
         "¿Estás nerviosa?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -96,12 +96,12 @@
       ]
     },
     {
-      "text": "Quiero decirle que es una buena clase de tensión,\npero me detengo...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Quiero decirle que es una buena clase de tensión,\npero me detengo..."
     },
     {
-      "text": "Ella debería aferrarse a este sentimiento un poco\nmás.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella debería aferrarse a este sentimiento un poco\nmás."
     },
     {
       "name": "Official",

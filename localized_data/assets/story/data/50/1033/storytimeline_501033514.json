@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, veo a Admire Vega y Silence Suzuka\ncorriendo juntas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un día, veo a Admire Vega y Silence Suzuka\ncorriendo juntas."
     },
     {
       "name": "Admire Vega",
@@ -58,11 +58,11 @@
       "text": "Oh, y ambas usualmente aumentamos nuestro ritmo en\nsesiones antes de una carrera."
     },
     {
+      "name": "Monólogo",
       "text": "Las dos parecen tener una mentalidad similar\ncuando se trata de entrenamiento...",
       "choice_data_list": [
         "¿Por qué no intentan entrenar juntas?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -85,8 +85,8 @@
       "text": "Oh, cierto... Lo siento. Eh... ¿Qué debería decir?"
     },
     {
-      "text": "Y así, las dos comienzan su entrenamiento. Sin\nembargo...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, las dos comienzan su entrenamiento. Sin\nembargo..."
     },
     {
       "name": "Silence Suzuka",
@@ -97,11 +97,11 @@
       "text": "(Raro... esto no se siente realmente motivador.)"
     },
     {
+      "name": "Monólogo",
       "text": "Parece que están teniendo problemas para\nsincronizarse.",
       "choice_data_list": [
         "Demos por terminado el día."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -112,24 +112,24 @@
       "text": "Está bien."
     },
     {
-      "text": "Al día siguiente, veo a Admire Vega y Silence\nSuzuka corriendo juntas por la pista otra vez.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Al día siguiente, veo a Admire Vega y Silence\nSuzuka corriendo juntas por la pista otra vez."
     },
     {
-      "text": "Ambas se ven notables, manteniendo su distancia,\nposición y velocidad sin interferir la una con la\notra.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ambas se ven notables, manteniendo su distancia,\nposición y velocidad sin interferir la una con la\notra."
     },
     {
-      "text": "Ambas continúan hacia adelante, como si\ncompletamente no fueran conscientes la una de la\notra.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ambas continúan hacia adelante, como si\ncompletamente no fueran conscientes la una de la\notra."
     },
     {
+      "name": "Monólogo",
       "text": "Supongo que eso es lo que les funciona mejor.",
       "choice_data_list": [
         "Ustedes dos son increíbles.",
         "Ustedes dos son increíbles."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -198,8 +198,8 @@
       "text": "Sí. Lo mismo por aquí."
     },
     {
-      "text": "Los dos quizás no puedan ponerle un nombre a su\nrelación, pero es claro que comparten un vínculo\nespecial.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Los dos quizás no puedan ponerle un nombre a su\nrelación, pero es claro que comparten un vínculo\nespecial."
     }
   ]
 }

@@ -38,15 +38,15 @@
       "text": "(...llegue hasta ti.)"
     },
     {
-      "text": "Ya casi son las pruebas, un evento crucial donde\nlos entrenadores buscan nuevo talento prometedor.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ya casi son las pruebas, un evento crucial donde\nlos entrenadores buscan nuevo talento prometedor."
     },
     {
+      "name": "Monólogo",
       "text": "Visitando el hipódromo, me encuentro entre muchos\nde mis colegas también aquí para ver a las\ncorredoras novatas practicar para su gran día.",
       "choice_data_list": [
         "(Creo que tengo la lista de corredoras en algún\nlado...)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Entrenador Experto A",
@@ -60,8 +60,8 @@
       ]
     },
     {
-      "text": "Al escuchar un nombre que también tenía marcado en\nmi lista, rápidamente vuelvo mi atención a la\npista.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Al escuchar un nombre que también tenía marcado en\nmi lista, rápidamente vuelvo mi atención a la\npista."
     },
     {
       "name": "Meisho Doto",
@@ -88,8 +88,8 @@
       "text": "<i>Jadeo, jadeo...</i>"
     },
     {
-      "text": "Mientras los demás se van a encontrarse con\namigos, ella sola continúa entrenando, sin parecer\nmolesta en lo más mínimo por perderse eso.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mientras los demás se van a encontrarse con\namigos, ella sola continúa entrenando, sin parecer\nmolesta en lo más mínimo por perderse eso."
     },
     {
       "name": "Admire Vega",
@@ -100,27 +100,27 @@
       ]
     },
     {
-      "text": "La inmensa cantidad de talento que percibo de ella\nme recorre un escalofrío por la espalda.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La inmensa cantidad de talento que percibo de ella\nme recorre un escalofrío por la espalda."
     },
     {
+      "name": "Monólogo",
       "text": "Admire Vega. Ella tiene un futuro brillante por\ndelante, sin duda alguna. Pero me pregunto...",
       "choice_data_list": [
         "(¿Qué tipo de persona es?)",
         "(¿Qué tipo de persona es?)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "De vuelta en mi oficina, empiezo a revisar cada\npedazo de papel que puedo encontrar sobre ella.\nPara cuando emergo de mi mar de documentos, ya ha\nanochecido.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "De vuelta en mi oficina, empiezo a revisar cada\npedazo de papel que puedo encontrar sobre ella.\nPara cuando emergo de mi mar de documentos, ya ha\nanochecido."
     },
     {
+      "name": "Monólogo",
       "text": "Salgo afuera, pensando que debería volver al\ndormitorio de entrenadores, solo para encontrarme\ncon...",
       "choice_data_list": [
         "Espera, ¿hay alguien en la pista?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -131,19 +131,19 @@
       ]
     },
     {
-      "text": "El lugar está desierto excepto por la corredora\nsolitaria. Se ve completamente exhausta, pero a\npesar de eso...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El lugar está desierto excepto por la corredora\nsolitaria. Se ve completamente exhausta, pero a\npesar de eso..."
     },
     {
       "name": "Admire Vega",
       "text": "...¡Vamos! ¡Sigue!"
     },
     {
+      "name": "Monólogo",
       "text": "Ella no cede. Su ritmo se niega a disminuir. Es\ncasi como si...",
       "choice_data_list": [
         "Como si algo la estuviera acosando..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -154,16 +154,16 @@
       "text": "..."
     },
     {
-      "text": "Finalmente, parece ceder a la fatiga. Cuando sus\npasos dan paso al silencio, gira sus ojos hacia el\ncielo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Finalmente, parece ceder a la fatiga. Cuando sus\npasos dan paso al silencio, gira sus ojos hacia el\ncielo."
     },
     {
+      "name": "Monólogo",
       "text": "Inundada con tantas estrellas, sus ojos parecen\nvacilar, como si estuviera ansiosa de que puedan\nser tragadas por ese vasto mar.",
       "choice_data_list": [
         "¿Estás bien?",
         "¿Estás bien?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -173,8 +173,8 @@
       ]
     },
     {
-      "text": "Me toma por sorpresa mi propia pregunta.\nSimplemente se me escapó.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Me toma por sorpresa mi propia pregunta.\nSimplemente se me escapó."
     },
     {
       "name": "Admire Vega",
@@ -204,12 +204,12 @@
       "text": "Si tienes asuntos de entrenador que discutir,\nespera hasta después de las pruebas. Buenas\nnoches."
     },
     {
-      "text": "Las luces se apagan abruptamente, dejando solo la\nluz de las estrellas para iluminarla mientras se\naleja, fundiéndose en la noche.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Las luces se apagan abruptamente, dejando solo la\nluz de las estrellas para iluminarla mientras se\naleja, fundiéndose en la noche."
     },
     {
-      "text": "Una tremenda carga parece pesar sobre ella, tan\npesada que la lleva al punto de auto-sacrificio.\nEn los días siguientes, también me preocupa.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Una tremenda carga parece pesar sobre ella, tan\npesada que la lleva al punto de auto-sacrificio.\nEn los días siguientes, también me preocupa."
     }
   ]
 }

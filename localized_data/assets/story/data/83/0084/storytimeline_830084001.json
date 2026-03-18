@@ -6,8 +6,8 @@
       "text": "¡Jajajajajaja! ¡No puede ser! ¡Me estás tomando el\npelo!"
     },
     {
-      "text": "Veo a Nishino Flower con cara de querer hablar con\nTosen Jordan. Desafortunadamente, esta última está\nenfrascada en una conversación con una amiga.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Veo a Nishino Flower con cara de querer hablar con\nTosen Jordan. Desafortunadamente, esta última está\nenfrascada en una conversación con una amiga."
     },
     {
       "name": "Umamusume a la moda",
@@ -34,11 +34,11 @@
       "text": "Ugh, parece que la regué..."
     },
     {
+      "name": "Monólogo",
       "text": "De repente, noto un llavero tirado a mis pies. De\nél cuelga un pequeño peluche.",
       "choice_data_list": [
         "¿Eh? ¿Eso es..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -77,12 +77,12 @@
       "text": "Mmm... ¿Cuáles estaba leyendo?"
     },
     {
+      "name": "Monólogo",
       "text": "Con mi propio interés despertado, hojeo varias\nrevistas. ¿Cuál de estos artículos es más probable\nque Nishino Flower haya leído?",
       "choice_data_list": [
         "\"¡Intenta el Hazlo Tú Mismo Hoy!\"",
         "\"¡Una Nueva Tú! ☆ ¡Vibraciones de Adulta\nGlamurosa!\""
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mihono Bourbon",

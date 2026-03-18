@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Mientras camino por el edificio de la escuela,\nespío a Kitasan Black sonriendo mientras sigue a\nuna Special Week que parece bastante nerviosa.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mientras camino por el edificio de la escuela,\nespío a Kitasan Black sonriendo mientras sigue a\nuna Special Week que parece bastante nerviosa."
     },
     {
       "name": "Special Week",
@@ -81,8 +81,8 @@
       "text": "Como su superior, pensé que sería apropiado darle\nun recorrido por la escuela. Pero, ¿qué más le\npuedo mostrar? Mmm..."
     },
     {
-      "text": "Eso dice, pero Kitasan Black ya lleva un tiempo en\nTracen, así que darle un recorrido ahora parece un\npoco inútil...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Eso dice, pero Kitasan Black ya lleva un tiempo en\nTracen, así que darle un recorrido ahora parece un\npoco inútil..."
     },
     {
       "name": "Kitasan Black",
@@ -109,20 +109,20 @@
       "text": "¡C-claro! Bien, podemos hacer eso."
     },
     {
-      "text": "No puedo quitarme la sensación de que sus roles\ncomo superior e inferior se han invertido en\ncuanto a quién lidera a quién...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No puedo quitarme la sensación de que sus roles\ncomo superior e inferior se han invertido en\ncuanto a quién lidera a quién..."
     },
     {
       "name": "Kitasan Black",
       "text": "¿Qué crees que deberíamos hacer, Entrenador?"
     },
     {
+      "name": "Monólogo",
       "text": "Kitasan Black me lanza una mirada significativa.\nParece que quiere que yo tome la decisión para no\nser ella quien tome la delantera sobre su\nsuperior.",
       "choice_data_list": [
         "¡Deberían correr en pareja!",
         "¿Por qué no comemos algo juntos?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Special Week",
@@ -181,12 +181,12 @@
       "text": "¡Guau! ¿Una porción doble?"
     },
     {
-      "text": "Como hemos entrado en su área de expertise,\nSpecial Week da un giro de 180, adoptando un nuevo\naire de superioridad.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Como hemos entrado en su área de expertise,\nSpecial Week da un giro de 180, adoptando un nuevo\naire de superioridad."
     },
     {
-      "text": "Sin embargo...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sin embargo..."
     },
     {
       "name": "Kitasan Black",
@@ -197,8 +197,8 @@
       "text": "¡Jeje! ¡Sí! ¡Cuento contigo cuando se trata de\ncomida! ¡Pide lo que quieras! ♪"
     },
     {
-      "text": "Todavía parece que el entusiasmo de Kitasan por\nser consentida es lo que le da a Special Week un\npoco más de margen para mostrar su superioridad.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Todavía parece que el entusiasmo de Kitasan por\nser consentida es lo que le da a Special Week un\npoco más de margen para mostrar su superioridad."
     }
   ]
 }

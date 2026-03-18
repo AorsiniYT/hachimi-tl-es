@@ -2,15 +2,15 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Me han pedido que ayude con un mini concierto que\nla academia está organizando.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Me han pedido que ayude con un mini concierto que\nla academia está organizando."
     },
     {
+      "name": "Monólogo",
       "text": "Cuatro Umamusume actuarán. El concierto no será\npor un tiempo, pero los pósters promocionales ya\nhan llegado.",
       "choice_data_list": [
         "¡Es hora de poner todos estos!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -33,12 +33,12 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "Al recordar, ella estaba practicando su baile\nantes de que su compañera nos llamara para irnos.\nY ahora que lo pienso...",
       "choice_data_list": [
         "Supongo que vas a estar en el concierto, ¿eh?",
         "Supongo que vas a estar en el concierto, ¿eh?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -64,12 +64,12 @@
       ]
     },
     {
-      "text": "Cuesta creer que empezó a practicar para el\nconcierto con tanta anticipación. Es el epítome de\nla dedicación.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Cuesta creer que empezó a practicar para el\nconcierto con tanta anticipación. Es el epítome de\nla dedicación."
     },
     {
-      "text": "Al día siguiente, mientras reviso la versión del\nentrenador del calendario de eventos de la\nescuela...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Al día siguiente, mientras reviso la versión del\nentrenador del calendario de eventos de la\nescuela..."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -87,11 +87,11 @@
       "text": "Ha habido algunos cambios en los participantes\nlistados para el próximo ensayo. Aquí está la\nnueva lista."
     },
     {
+      "name": "Monólogo",
       "text": "Echo un vistazo y noto que Narita Top Road ha sido\nañadida.",
       "choice_data_list": [
         "¿Top Road también está participando?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -105,8 +105,8 @@
       ]
     },
     {
-      "text": "¿Ella está haciendo esto además del próximo\nconcierto? Me preocupa que pueda estar\nsobreesforzándose, así que voy a revisar al centro\nde entrenamiento, y...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¿Ella está haciendo esto además del próximo\nconcierto? Me preocupa que pueda estar\nsobreesforzándose, así que voy a revisar al centro\nde entrenamiento, y..."
     },
     {
       "name": "Narita Top Road",
@@ -138,12 +138,12 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "Antes de que pueda responder, ella empieza a\nbailar. Comparado con la última vez que la vi...",
       "choice_data_list": [
         "¡Increíble! ¡Tu baile es perfecto!",
         "¡Increíble! ¡Tu baile es perfecto!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -162,34 +162,34 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "Ella lo está tomando a la ligera como si nada,\npero es evidente cuánto esfuerzo está poniendo a\ndiario para cumplir con las expectativas de todos.",
       "choice_data_list": [
         "¡No puedo esperar a verte en el ensayo!",
         "Aún así, ten cuidado de no sobreesforzarte.",
         "Aún así, ten cuidado de no sobreesforzarte."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
+      "name": "Monólogo",
       "text": "Ella lo está tomando a la ligera como si nada,\npero es evidente cuánto esfuerzo está poniendo a\ndiario para cumplir con las expectativas de todos.",
       "choice_data_list": [
         "¡No puedo esperar a verte en el ensayo!",
         "Aún así, ten cuidado de no sobreesforzarte.",
         "Aún así, ten cuidado de no sobreesforzarte."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Narita Top Road",
       "text": "¡Gracias! ¡Haré aún más entrenamiento para\nasegurarme de no decepcionarte!"
     },
     {
-      "text": "Me da una última sonrisa brillante antes de\nregresar a la pista.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Me da una última sonrisa brillante antes de\nregresar a la pista."
     },
     {
-      "text": "Entonces, el día del ensayo, ¡Narita Top Road lo\nhace espectacularmente!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Entonces, el día del ensayo, ¡Narita Top Road lo\nhace espectacularmente!"
     },
     {
       "name": "Narita Top Road",
@@ -200,8 +200,8 @@
       "text": "¡Tengo una idea! ¿Por qué no te unes a mí para\nalgunos estiramientos de enfriamiento? ¡Debes\nsentirte rígido por todo tu trabajo de escritorio!"
     },
     {
-      "text": "Entonces, el día del ensayo, ¡Narita Top Road lo\nhace espectacularmente!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Entonces, el día del ensayo, ¡Narita Top Road lo\nhace espectacularmente!"
     }
   ]
 }

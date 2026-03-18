@@ -2,16 +2,16 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Soy el príncipe de este reino.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Soy el príncipe de este reino."
     },
     {
-      "text": "Las lujosas fiestas continúan día y noche dentro\nde mi castillo. Estos eventos son la cima de la\nextravagancia y me sirven solo las comidas más\nexquisitas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Las lujosas fiestas continúan día y noche dentro\nde mi castillo. Estos eventos son la cima de la\nextravagancia y me sirven solo las comidas más\nexquisitas."
     },
     {
-      "text": "Y sin embargo, estoy insatisfecho con este estilo\nde vida. ¿No hay nada que pueda ayudarme a\nliberarme de esta tediosa monotonía?",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y sin embargo, estoy insatisfecho con este estilo\nde vida. ¿No hay nada que pueda ayudarme a\nliberarme de esta tediosa monotonía?"
     },
     {
       "name": "???",
@@ -22,8 +22,8 @@
       ]
     },
     {
-      "text": "¡De repente, uno de los muros exteriores del\ncastillo se derrumba! El polvo se disipa para\nrevelar a una sola chica parada sobre los\nescombros!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡De repente, uno de los muros exteriores del\ncastillo se derrumba! El polvo se disipa para\nrevelar a una sola chica parada sobre los\nescombros!"
     },
     {
       "name": "???",
@@ -76,8 +76,8 @@
       ]
     },
     {
-      "text": "Todavía no entiendo muy bien lo que pasa, pero\nesta chica parece bastante increíble.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Todavía no entiendo muy bien lo que pasa, pero\nesta chica parece bastante increíble."
     },
     {
       "name": "???",
@@ -103,8 +103,8 @@
       ]
     },
     {
-      "text": "Espera, ¿esta \"hechicera\" también corrió cien\nkilómetros para llegar aquí?!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Espera, ¿esta \"hechicera\" también corrió cien\nkilómetros para llegar aquí?!"
     },
     {
       "name": "???",
@@ -163,8 +163,8 @@
       "text": "¿¡¿Qué?!? ¿Quieres decir que no quieres ninguna?!"
     },
     {
-      "text": "La verdadera belleza no tiene nada que ver con tu\napariencia. Le digo a Cenicienta que lo que\nrealmente importa es tu corazón y cómo lo\ndemuestras.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La verdadera belleza no tiene nada que ver con tu\napariencia. Le digo a Cenicienta que lo que\nrealmente importa es tu corazón y cómo lo\ndemuestras."
     },
     {
       "name": "Cinderella",
@@ -191,12 +191,12 @@
       "text": "¿¡¿Eh?!? ¿Mis puntos fuertes?"
     },
     {
+      "name": "Monólogo",
       "text": "Ella corrió cien kilómetros sobre terreno\npeligroso. Ese tipo de habilidad física poderosa\nes notable. ¡Tiene un potencial ilimitado!",
       "choice_data_list": [
         "¡Únete a mí y persigue una carrera como atleta!",
         "¡Únete a mí y persigue una carrera como atleta!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Cinderella",
@@ -215,11 +215,11 @@
       "text": "¡Vamos, no necesitas magia para conseguir\nzapatillas de entrenamiento!"
     },
     {
+      "name": "Monólogo",
       "text": "<i>¡Beep-beep-beep! ¡Beep-beep-beep!</i>",
       "choice_data_list": [
         "¿¡¿Eh?!? ...Oh, todo fue un sueño."
-      ],
-      "name": "Monólogo"
+      ]
     }
   ]
 }

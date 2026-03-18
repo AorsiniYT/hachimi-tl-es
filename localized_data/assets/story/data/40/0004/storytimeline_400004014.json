@@ -2,16 +2,16 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "<chrname> ha obtenido <achievement_name>.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<chrname> ha obtenido <achievement_name>."
     },
     {
-      "text": "<achievement_info>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<achievement_info>"
     },
     {
-      "text": "Un día, soy convocada de la nada a la oficina de\nla directora.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un día, soy convocada de la nada a la oficina de\nla directora."
     },
     {
       "name": "Director Akikawa",
@@ -26,8 +26,8 @@
       "text": "¡Bien hecho! Tu gran logro pasará a la historia de\nla Academia Tracen—me atrevo a decir, de <i>toda</i> la\nhistoria de las Umamusume!"
     },
     {
-      "text": "La Directora Akikawa me colma de elogios inmensos,\n¡cara a cara! ¡Suena como que hemos logrado el\nmejor resultado posible!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La Directora Akikawa me colma de elogios inmensos,\n¡cara a cara! ¡Suena como que hemos logrado el\nmejor resultado posible!"
     }
   ]
 }

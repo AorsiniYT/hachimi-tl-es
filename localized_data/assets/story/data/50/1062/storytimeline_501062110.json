@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Con la Serie de las Estrellas ya detrás de\nnosotros, las cosas han empezado a calmarse. Un\ndía...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con la Serie de las Estrellas ya detrás de\nnosotros, las cosas han empezado a calmarse. Un\ndía..."
     },
     {
       "name": "Matikanetannhauser",
@@ -14,8 +14,8 @@
       "text": "¡Guau!"
     },
     {
-      "text": "Matikanetannhauser ha sido encargada de guiar a\nestudiantes potenciales durante el campus abierto\nde la academia.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Matikanetannhauser ha sido encargada de guiar a\nestudiantes potenciales durante el campus abierto\nde la academia."
     },
     {
       "name": "Nice Nature",
@@ -129,12 +129,12 @@
       ]
     },
     {
-      "text": "Ya me he acostumbrado, pero la directora\nocasionalmente aparece para animar a\nMatikanetannhauser y decirle que espera mucho de\nella.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ya me he acostumbrado, pero la directora\nocasionalmente aparece para animar a\nMatikanetannhauser y decirle que espera mucho de\nella."
     },
     {
-      "text": "Ha tenido a Matikanetannhauser en alta estima\ndesde hace mucho tiempo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ha tenido a Matikanetannhauser en alta estima\ndesde hace mucho tiempo."
     },
     {
       "name": "Matikanetannhauser",
@@ -241,20 +241,20 @@
       "text": "¡Dime qué piensas!"
     },
     {
+      "name": "Monólogo",
       "text": "Matikanetannhauser me entrega su cuaderno que,\ncomo de costumbre, está lleno de borde a borde con\nsu plan de entrenamiento.",
       "choice_data_list": [
         "¿No es esto trabajar un poco demasiado duro?",
         "¿No es esto trabajar un poco demasiado duro?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
       "text": "¡¿De qué estás hablando?! ¡Esto es totalmente\nnormal!"
     },
     {
-      "text": "Matikanetannhauser es la misma de siempre, y no\nparece que nuestro tiempo juntos vaya a terminar\npronto.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Matikanetannhauser es la misma de siempre, y no\nparece que nuestro tiempo juntos vaya a terminar\npronto."
     }
   ]
 }

@@ -54,12 +54,12 @@
       "text": "Me convertiré en la mejor hermana mayor del mundo."
     },
     {
-      "text": "Es la mañana de la Japan Cup. Un ambiente algo\nsolemne circula por todo Tokyo Racecourse.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Es la mañana de la Japan Cup. Un ambiente algo\nsolemne circula por todo Tokyo Racecourse."
     },
     {
-      "text": "Admire Vega, caminando hacia adelante con la cara\nalta, se detiene en seco.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Admire Vega, caminando hacia adelante con la cara\nalta, se detiene en seco."
     },
     {
       "name": "Admire Vega",
@@ -77,15 +77,15 @@
       "text": "¿Puedo hablar con ellos un poco?"
     },
     {
-      "text": "Miro hacia adelante y me doy cuenta de a quién se\nrefiere.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Miro hacia adelante y me doy cuenta de a quién se\nrefiere."
     },
     {
+      "name": "Monólogo",
       "text": "Me hace sonreír saber que no necesité animarla a\nir a hablar con sus compañeras.",
       "choice_data_list": [
         "Adelante. Estaré en la sala de espera."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -184,8 +184,8 @@
       "text": "¡Umamusume de todo el mundo se han reunido aquí en\nFuchu para buscar honor y fama! ¡La Japan Cup está\na punto de comenzar!"
     },
     {
-      "text": "Wooooo!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Wooooo!"
     },
     {
       "name": "Narita Top Road",
