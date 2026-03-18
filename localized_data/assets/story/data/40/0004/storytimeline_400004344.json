@@ -1,0 +1,220 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tamamo Cross",
+      "text": "Esto es un verdadero lío... ¿Qué se supone que\ndebo hacer ahora?!"
+    },
+    {
+      "text": "Un día mientras pasaba por la sala de juegos, me\nencuentro con Tamamo Cross con un aparente dilema\nen sus manos.",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Huh?! Oh, perdón, ¡pero estoy en problemas aquí!\n¿Podrías ayudarme un momento?"
+    },
+    {
+      "text": "<i>¡Clink, jingle, clatter!</i>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Estado—ganancias inmensas. No hay indicios de que\nla liberación de medallas cesará. El número de\nmedallas adquiridas está aumentando\nsustancialmente."
+    },
+    {
+      "text": "Un número fenomenal de medallas se desborda desde\nel juego de medallas frente a Mihono Bourbon. Se\nhan derramado en el suelo y el flujo de salida no\nmuestra signos de detenerse.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Nada bueno, Bourbon! ¡La máquina debe estar rota!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hola, Tamamo. Permíteme refutar tu conjetura.\nIncidentes similares han ocurrido previamente."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Puedo confirmar dos instancias preexistentes de\ntal evento, y por lo tanto concluyo que esta\nmáquina está operando normalmente."
+    },
+    {
+      "text": "<i>¡Clink, jingle, clatter!</i>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Estado—ganancias inmensas. Aumento en la\nfrecuencia cardíaca identificado. Detectando\nsignos de euforia."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Argh! ¡Tenemos que detener esto! ¡Voy a llamar al\npersonal! ¡Quédate aquí y vigílala, Entrenador!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Agh?!",
+      "choice_data_list": [
+        "¿Qué es, Tamamo?!",
+        "¿Qué es, Tamamo?!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Ohohoho! ¡Ganar en un juego de carreras es algo\nsimple para alguien digno de ser una princesa!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Eres increíble, Kawakami!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Dejaré la competencia en una nube de polvo!\n¡Fuera de mi camino! ¡GIIIRRAAA!"
+    },
+    {
+      "text": "<i>¡Snap!</i>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿Oh? El volante se salió..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Kawakami! ¡No puedes manejar el volante con tanta\nfuerza!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Mira! ¡Hay una gran X roja parpadeando en mi\npantalla! ¡Es tan bonita!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Eso significa que vas por el camino equivocado,\nUrara!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "E-esto está muy mal! ¡No puedo lidiar con todos\nestos problemas a la vez!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Hay algo mal, Tamtam?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Creek? ¡Qué buen timing! ¡Entrenador! ¡Los tres\ntenemos que controlar esta situación!",
+      "choice_data_list": [
+        "¡Vale, yo me encargo de Bourbon!",
+        "¡Vale, yo me encargo de Bourbon!",
+        "¡Vale, yo me encargo de Kawakami y Urara!",
+        "¡Vale, yo me encargo de Kawakami y Urara!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Creek? ¡Qué buen timing! ¡Entrenador! ¡Los tres\ntenemos que controlar esta situación!",
+      "choice_data_list": [
+        "¡Vale, yo me encargo de Bourbon!",
+        "¡Vale, yo me encargo de Bourbon!",
+        "¡Vale, yo me encargo de Kawakami y Urara!",
+        "¡Vale, yo me encargo de Kawakami y Urara!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Recibido! ¡Iré contigo! ¡Creek, encárgate de\nKawakami y Urara!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡De acuerdo! ¡Buena suerte, ustedes dos!"
+    },
+    {
+      "text": "Tamamo Cross y yo vamos a buscar a un miembro del\npersonal, quien luego arregla el juego de medallas\nque funciona mal.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Muchas gracias. Me disculpo por causarle\ninconvenientes."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ey, no te preocupes. Solo me alegra que la máquina\nesté funcionando bien ahora."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tienes mi gratitud. Reiniciando Operación: Juego\nde Medallas."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿¡Qué!? ¡Oye, espera!"
+    },
+    {
+      "text": "...Terminamos teniendo que llamar al personal de\nnuevo.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Tamtam, Entrenador, eso estuvo genial!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Entendido! ¡Iré contigo! ¡Creek, tú encárgate de\nBourbon!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡De acuerdo! ¡Buena suerte, ustedes dos!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Tamamo! ¡Entrenador! ¡Realmente les debo mucho!\n¡Gracias a ustedes dos, llegué a la meta!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Yo también gané el juego! Después de relajarme y\nliberar esa tensión, mi toma de curvas se volvió\nverdaderamente elegante!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Eso es muy bueno de escuchar. Solo ver sus\nsonrisas es toda la recompensa que necesito."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Una vez más, Urara! ¡Apuntemos a algo de\nvelocidad real!"
+    },
+    {
+      "name": "Kawakami y Urara",
+      "text": "¡Quema caucho!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Y ahora se les olvida acelerar?!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Tamtam, Entrenador, eso estuvo genial!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Realmente me salvaste el pellejo allí, Creek. Y\nEntrenador, me alegra mucho que hayas pasado\ncuando lo hiciste. Les debo mucho a ambos."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, no hay de qué! Solo iba a casa después de\nrevisar la sección de artículos para bebés. ♪"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Artículos para bebés?!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "El hogar de mi familia es en realidad una\nguardería, así que realmente me gusta navegar por\nla sección de bebés. ♪"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Incluso tenían ropa que te quedaría <i>bien a ti,\nTamtam. </i>♪ ¡Ah, ya sé! ¡Volvamos y echemos un\nvistazo juntos!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Alguien AYÚDENMEEEE!"
+    }
+  ]
+}

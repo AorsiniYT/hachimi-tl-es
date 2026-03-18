@@ -1,0 +1,212 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nakayama Festa",
+      "text": "Dame una más. Una carta más."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "¡Ja! ¿Quieres pedir carta? Sabes que hay una línea\nmuy fina entre el valor y la temeridad, ¿verdad?\nSeguro te pasas."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Vaya, gracias por tu preocupación. Ahora sé a\nquién acudir la próxima vez que quiera una lección\nsobre conformarme con pequeñas victorias."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Me parece bien. De hecho, estaba pensando que ya\nes hora de que te enseñe una dura lección en <i>la\nrealidad.</i>"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Humph. Voy a borrar esa sonrisa de suficiencia de\ntu cara."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡E-eh! ¡Esto parece malas noticias! ¡Tenemos que\nir a llamar a un profesor o algo!",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "text": "Visitando la cafetería, me topo con algo de\nalboroto.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Ah, ¡Entrenador! ¿Puedes venir aquí un momento?\n¡Aquí se está armando un gran problema!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Esto es malo! El enfrentamiento entre esos dos se\nestá saliendo de control..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Están apostando sus futuros enteros! ¡El perdedor\ntiene que abandonar la academia!",
+      "choice_data_list": [
+        "¡Abandonar?!"
+      ]
+    },
+    {
+      "text": "¡Esto ya no es un juego! ¡Necesito detener esto de\ninmediato!",
+      "choice_data_list": [
+        "¡Ustedes dos necesitan calmarse! ¡Dejen de jugar!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Dejen de arruinarnos la diversión. Aquí estoy en\nracha, así que no se metan."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Sí, no te metas. Hagámoslo, Nakayama. Es hora de\ncambiar de repartidor."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No puedo esperar a que arruines tu mano y te\npases."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Eres un mocoso insolente, ¿sabes? Voy a acabar con\nesto ahora mismo."
+    },
+    {
+      "text": "La cosa está tan caliente que ninguno de ellos me\npresta atención.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Pero no puedo quedarme quieto y no hacer nada.\nTengo que detenerlos.",
+      "choice_data_list": [
+        "¡Déjenme participar!",
+        "¡Déjenme participar!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Nakayama y Sirius",
+      "text": ",",
+      "choice_data_list": [
+        "¡Si gano, ninguno de los dos se retira!",
+        "¡Si gano, ninguno de los dos se retira!"
+      ]
+    },
+    {
+      "text": "Sin embargo...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "¡Ja ja ja! ¡Qué bajo has caído! ¿Qué pasó con toda\nesa confianza que tenías hace un momento?!",
+      "choice_data_list": [
+        "Ngh... <i>Snif...</i>"
+      ]
+    },
+    {
+      "text": "Me dan una paliza una y otra vez sin siquiera\nacercarme a ganar. ¡Estos dos son demasiado\nbuenos!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Creo que es hora de que te retires, Entrenador. A\nmenos que disfrutes de esta racha perdedora en la\nque estás."
+    },
+    {
+      "text": "Pero no puedo permitirme retroceder.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "El juego es blackjack. El objetivo es formar una\nmano de cartas con un valor total lo más cercano a\nveintiuno posible sin pasarse.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "En este momento, tengo dieciséis. Parece un poco\ndébil, pero si añado otra carta podría pasarme.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "¡Tengo que ganar este juego! Pero, ¿debo pedir\ncarta o plantarme?",
+      "choice_data_list": [
+        "¡Pedir carta! ¡Dame otra carta!",
+        "Plantarme. Me quedo con mi mano actual."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "text": "Me dan un diez, lo que significa que he superado\nveintiuno y me he pasado...",
+      "choice_data_list": [
+        "¡Nooooo!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "¡Ah ja ja! ¡Eso te explotó en la cara! Aunque fue\ndivertido de ver."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Parece que ganamos nosotros.",
+      "choice_data_list": [
+        "¿Cómo pasó esto?"
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "¡Jaja! ¡Jajaja! ¡Qué vista tan patética! ¡Ajaja!"
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Tengo veintiuno. Eso es un blackjack."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Yo también.",
+      "choice_data_list": [
+        "¡Nooooo!"
+      ]
+    },
+    {
+      "text": "Dieciséis contra dos manos de veintiuno. Bueno, se\nfue la victoria que necesitaba tan\ndesesperadamente...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "¡Jaja! ¡Jajaja! ¡Qué vista tan patética! ¡Ajaja!"
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "¡Ja ja ja ja!"
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "..."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "<i>Ufff...</i>"
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Tch... Viendo la cara que pusiste después de esa\npérdida espectacular, he decidido retirarme por\nhoy.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Digo que mataste el ambiente."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Además, ya nos hartamos de verte perder.",
+      "choice_data_list": [
+        "...Preferiría que guardaran estos duelos intensos\npara la pista de carreras."
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Hmph."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Lo pensaré."
+    }
+  ]
+}

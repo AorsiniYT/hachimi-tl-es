@@ -1,0 +1,82 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, recibo una llamada telefónica de la\nPeriodista Otonashi.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"Lamento la llamada abrupta, pero hay algo que\nnecesito decirte de inmediato.\""
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"Los esfuerzos de <chrname> este año han sido\nreconocidos...\""
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"¡Y ha sido seleccionada como la Mejor Umamusume\nde Año Junior!\"",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "text": "Otonashi continúa, ofreciéndome cálidas palabras\nde elogio.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Cuelgo el teléfono y me deleito en sentimientos de\nalegría, motivada a trabajar aún más duro con mi\ncompañera. Luego, de repente...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "<i>Toc, toc</i>",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Me visita la Entrenadora Kiryuin y su gentil\ncompañera, Happy Meek.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Perdón por molestarte, Entrenador <username>, pero acabo de\nescuchar sobre tu premio!"
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡Felicitaciones! Tus logros este año han sido\nverdaderamente notables."
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Felicitaciones.",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Me emocionó saber que una corredora entrenada por\nmi colega ganó el premio."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡Tuve que pasar a felicitarte!"
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Mmm. Salud."
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Y ahora, estoy motivada para asegurarme de que sea\nyo quien salga victoriosa el próximo año.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "¡Sigamos dando lo mejor de nosotras como\ncompañeras entrenadoras y rivales!"
+    },
+    {
+      "text": "Más tarde, <chrname> y yo juramos trabajar duro y ser las\nmejores también el próximo año.",
+      "name": "Monólogo"
+    }
+  ]
+}

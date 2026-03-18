@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, durante un paseo con Kitasan Black...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Oh, mira! ¡Allí tienen Cuties! Ay, sí que me\ntraen recuerdos."
+    },
+    {
+      "text": "Kitasan Black señala una máquina de garra llena de\npeluches de Umamusume.",
+      "choice_data_list": [
+        "¿Dices que te traen recuerdos?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Sí! ¡Dia es increíble en las máquinas de garra!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Antes de entrar a Tracen, siempre jugaba una\npartida o dos de vuelta a casa después de ver una\ncarrera. ¡Intentaba conseguir los que se parecen a\nTeio y a las demás!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Parece que han añadido más variedades desde\nentonces. Soy muy mala en estos juegos, así que\nnunca logré ganar nada. Jaja."
+    },
+    {
+      "text": "Kitasan Black parece sentirse atraída por los\npeluches. En ese caso...",
+      "choice_data_list": [
+        "¡Entonces te ganaré algunos!",
+        "¡Entonces te ganaré algunos!"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¿Qué? ¿En serio? ¡Muchas graciaaas!"
+    },
+    {
+      "text": "¡Ahora no hay manera de que falle!",
+      "name": "Monólogo"
+    }
+  ]
+}

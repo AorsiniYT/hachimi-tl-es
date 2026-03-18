@@ -1,0 +1,247 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "???",
+      "text": "¡Mi memoria... se ha ido!"
+    },
+    {
+      "text": "Kitasan Black y yo nos sobresaltamos con un grito\nfuerte y corremos a la fuente para encontrar a\nGold Ship con una expresión preocupada.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡No puedo encontrar mi memoria de ayer en ningún\nlado! ¡He buscado dentro de mi bolso y en el hueco\nde un árbol, pero no está por ningún lado!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "C-cálmate. ¿Hay algo que podamos hacer para\nayudar?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Snif...</i> Mi pobre, preciosa memoria. Debe haberla\ngolpeado y la perdí en algún lugar..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Por favor! Tienen que ayudarme a encontrar mi\nmemoria. ¡Si no la encuentro pronto, alguien\npodría tomarla para sí!",
+      "choice_data_list": [
+        "(¿Las memorias son algo que se puede perder?)",
+        "(¿Las memorias son algo que se puede perder?)"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Bien! Vamos a buscar esa memoria, Golshi."
+    },
+    {
+      "text": "Y así, los tres nos ponemos a buscar por la\nescuela.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡La siento! ¡Me está llamando! ¡La línea de oro\ndebe estar por aquí!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¿Entonces está en esta área? ¡Entendido! Busquemos\ncon cuidado para ver si se cayó en algún lugar o\nse enterró."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ugh, todas estas malas hierbas estorban.\n¡Desmalecemos el área mientras buscamos!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Sííí! ¡Encontré una memoria! Espera, esta es la\nde la semana pasada cuando me enfrenté a esos\nmarcianos. ¡No es la que busco!",
+      "choice_data_list": [
+        "¿¡Luchaste contra marcianos?!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Claro que sí! ¡Y qué gran momento fue! ♪ Bien,\n¡sigamos! ¡A la siguiente memoria!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Shh! ¡Silencio! Tenemos que buscar esta maldita\nmemoria sin que nos note.",
+      "choice_data_list": [
+        "(Pero, ¿cómo puede una memoria notarnos?)"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Bien, estaremos callados. Oh, espera, déjame solo\nordenar estos libros. Parece que se van a caer."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ugh! Cerca, pero no. ¡Esta es la memoria de\nmañana! ¡WHOAH! ¡¿Voy a convertirme en la\npresidenta?!",
+      "choice_data_list": [
+        "(¡La probabilidad de que eso pase es bastante\nbaja!)"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Perdón por la espera! Guardé el equipo que estaba\ntirado para que nadie se tropiece y se lastime.\n¡Sigamos buscando esa memoria!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Mmm... No está resultando fácil de encontrar,\n¿verdad?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Pero eso no significa que voy a dejar de buscarla."
+    },
+    {
+      "text": "Aunque Kitasan Black no parece desanimada, empiezo\na preguntarme si es sabio dejarla seguir\nparticipando en esta búsqueda tonta.",
+      "choice_data_list": [
+        "¿Todavía crees que perdió la memoria?"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡No importa si creo eso o no! Solo quiero ayudar a\nGolshi."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "No puedo ignorar a alguien si está en problemas.\n¡Por eso me quedaré y la ayudaré hasta el final!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Gracias, Kitasan, pero hemos buscado en todos los\nlugares que se me ocurren...",
+      "choice_data_list": [
+        "¡Revisemos la escuela una vez más!",
+        "Quizás necesitemos pedir más ayuda..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "No, está bien... No quiero convertirme en\nprisionera de mi pasado. ¡Lo más importante es el\ntiempo que se pasa aquí y ahora!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Sin embargo, no se siente bien dejar tu memoria\nabandonada y perdida... Puedo seguir ayudándote si\nquieres."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Está bien. Hemos matado suficientes ti—eh, quiero\ndecir... Está bien porque he descubierto algo aún\nmás importante que mi memoria perdida."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Que el presente es más importante que el pasado!\nComo agradecimiento por enseñarme esta lección,\ndéjame darles algo bueno."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Echa un poco de sal ahí y mételo bajo tu\nalmohada! ¡Te garantizo que dormirás como un bebé,\nBaby!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¿Es algún tipo de amuleto?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Pero qué alivio! Golshi parecía haber liberado un\npeso de encima.",
+      "choice_data_list": [
+        "Entonces, ¿qué dice el papel?"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Déjame ver... \"Lo hice. Fui yo quien hizo todo\"?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jeje. Parece que sí. Gracias por todo su duro\ntrabajo.",
+      "choice_data_list": [
+        "¡Symboli Rudolf!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Disculpas por escuchar a escondidas. Escuché que\nalguien estaba haciendo buenas obras en la escuela\ny quería expresar mi gratitud en persona."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ustedes ayudaron a desmalezar el jardín, ordenar\nla biblioteca y guardar equipo de audio. Cada\ntarea era un problema enviado en nuestro buzón de\nsugerencias."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Solo hice todo eso mientras buscaba algo, pero me\nalegra haber podido ayudar!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Aunque se hizo por capricho, aún estoy agradecido.\nUna buena acción merece otra. Esto no es mucho,\npero aquí hay una recompensa por sus esfuerzos."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Guau, estas galletas se ven deliciosas! Las\nrepartiré con Golshi después."
+    },
+    {
+      "text": "Kitasan Black nunca es tacaña cuando ayuda a los\ndemás, y hoy pude ver lo grande que es realmente\nsu corazón.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Buena idea! Tal vez si le pedimos a alguien más\nque ayude—"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Por fin te encontré, Gold Ship! Ayer, tú—"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ahora, espera ahí, McQueen. No me digas que vas a\npreguntarle a alguien con amnesia sobre cosas que\npasaron ayer."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Qué es esto? ¿Tienes amnesia?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Entonces no recuerdas haber cantado esa canción\nrara frente a mi dormitorio anoche?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡No! ¡No recuerdo haber hecho algo así!",
+      "choice_data_list": [
+        "(¿<i>Esto</i> es para lo que era toda esta farsa?!)",
+        "(¿<i>Esto</i> es para lo que era toda esta farsa?!)"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Suspiro...</i> ¿Estás involucrando a otros en tus\nmentiras otra vez? Escucha, no vine aquí para\nreñirte."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Últimamente, he tenido dificultad para dormir. Me\npreguntaba qué estabas haciendo anoche cuando te\npusiste a cantar de la nada, pero..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Por alguna razón, escucharte cantar me envió a un\nsueño profundo y relajante. Quería venir a dar las\ngracias..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pero supongo que no sirve de nada si no puedes\nrecordar haberlo hecho. Solo me llevaré esto de\nvuelta."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Espera, ¿quieres darme algo? ¡Deberías haber\nempezado con eso, Gran Mack! ¡Oh, mis recuerdos\nhan regresado de repente! ¡Es un milagro!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Miserable! Lo siento mucho, ustedes dos. Gracias\npor aguantarla."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Y se fueron..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Bueno, aún me alegra que Golshi haya podido\nrecordar lo que pasó de inmediato. Eso me\ntranquiliza."
+    },
+    {
+      "text": "Kitasan Black creyó la historia exagerada de Gold\nShip hasta el final, y simplemente parece feliz de\nhaber sido de ayuda.",
+      "name": "Monólogo"
+    }
+  ]
+}

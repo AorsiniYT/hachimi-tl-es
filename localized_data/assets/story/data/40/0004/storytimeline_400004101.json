@@ -1,0 +1,200 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Tras un verdadero torbellino de fervor y\nexcitación, cae el telón sobre el Twinkle Star\nClimax.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Toda la multitud celebra el momento en que <chrname> es\ncoronada como la Umamusume más grande.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Qué ambiente tan eléctrico. ¡Todos están\nanimándote a las dos!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Tengo que escuchar tus pensamientos! ¿Cómo se\nsiente ver a tu compañera coronada como la más\ngrande?",
+      "choice_data_list": [
+        "Incluso si yo fuera el único espectador aquí...",
+        "Incluso si yo fuera el único espectador aquí..."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Sí?",
+      "choice_data_list": [
+        "Aún así declararía con confianza que mi compañera\nes la más grande."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Emm, pero... Los innumerables espectadores en las\ngradas están alabando tu logro."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Ellos son precisamente por qué tu compañera es\nreconocida y celebrada como la Umamusume más\ngrande."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Incluso yo pienso... que ella es la más rápida...",
+      "choice_data_list": [
+        "No lo dices en serio, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Eh? Claro que sí. El Twinkle Star Climax fue un\néxito masivo y—",
+      "choice_data_list": [
+        "Crees en la Umamusume que es la más grande en tu\ncorazón."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...!",
+      "choice_data_list": [
+        "Yo me siento igual.",
+        "Yo me siento igual."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...¿La más grande en mi corazón?"
+    },
+    {
+      "name": "Uma Joven",
+      "text": "¡Eres lenta, Etsie! Date prisa o te dejaré atrás."
+    },
+    {
+      "name": "Chica Humana",
+      "text": "¡E-espera!"
+    },
+    {
+      "name": "Uma Joven",
+      "text": "¡Wuju! ¡Gané!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "La verdad es que yo..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "No pude evitar pensar que si mi amiga de la\ninfancia hubiera entrado al Climax, habría\nobtenido más puntos."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Aunque una Umamusume diferente fue coronada como\nla más grande y está siendo alabada por esta gran\nmultitud... en el fondo, quería que mi amiga\nganara."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Vaya, la carrera de hoy fue fenomenal!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Me pregunto cómo será el próximo Climax. Apuesto a\nque habrá montones de retadoras ansiosas por\nquitarle la corona."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Ya estoy emocionada! Espero que mi favorita\nparticipe en el próximo Climax."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Verla coronada como la más grande desde las\ngradas sería como un sueño hecho realidad!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Un sueño..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...Quizás mi sueño ha estado vivo todo este\ntiempo."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Desde el día que perdí esa carrera, siento que he\nestado persiguiendo a mi amiga... persiguiendo mi\nsueño.",
+      "choice_data_list": [
+        "Quizás hay tantas Umamusumes \"más grandes\" como\nsueños."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...Puede que tengas razón. Todos depositan sus\nesperanzas en los hombros de la Umamusume en la\nque creen."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Sin embargo! Al menos por hoy, el título de \"la\nmás grande\" pertenece a una sola Umamusume."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Ahora, entrenador <username>! Por favor, diga unas palabras\npara todos.",
+      "choice_data_list": [
+        "<chrname> es la más grande."
+      ]
+    },
+    {
+      "text": "Y así, tanto en nombre como en realidad, <chrname> se\nconvierte en la Umamusume más grande.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "La prueba de su fuerza brilla con esplendor, ahora\ny siempre.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Sin embargo, incluso si no hubiera trofeo, ni\nespectadores en las gradas...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Nunca dejaría de creer en mi sueño... nunca\ndejaría de creer que ella es la más grande.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "La prueba de su fuerza brilla con esplendor, ahora\ny siempre.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Sin embargo, incluso si no hubiera trofeo, ni\nespectadores en las gradas...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Nunca dejaría de creer en mi sueño... nunca\ndejaría de creer que ella es la más grande.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "La prueba de su fuerza brilla con esplendor, ahora\ny siempre.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Sin embargo, incluso si no hubiera trofeo, ni\nespectadores en las gradas...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Nunca dejaría de creer en mi sueño... nunca\ndejaría de creer que ella es la más grande.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "La prueba de su fuerza brilla con esplendor, ahora\ny siempre.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Sin embargo, incluso si no hubiera trofeo, ni\nespectadores en las gradas...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Nunca dejaría de creer en mi sueño... nunca\ndejaría de creer que ella es la más grande.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "La prueba de su fuerza brilla con esplendor, ahora\ny siempre.",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Sin embargo, incluso si no hubiera trofeo, ni\nespectadores en las gradas...",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Nunca dejaría de creer en mi sueño... nunca\ndejaría de creer que ella es la más grande.",
+      "name": "Monólogo"
+    }
+  ]
+}

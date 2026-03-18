@@ -1,0 +1,141 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Mientras comía en la cafetería, escuché a Mejiro\nBright y Fine Motion teniendo una discusión.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Un mensaje de un príncipe?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Sí. Esta mañana recibí un correo electrónico de\nalguien que decía ser el príncipe de cierto país."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Al parecer, tiene un exceso de riqueza y está\nbuscando a alguien que use ese dinero\nefectivamente."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Mmm, así que es un filántropo? Pero me pregunto si\nun miembro de la realeza enviaría un correo así."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Entonces, ¿respondiste?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Sí, rechacé su oferta. No hay forma de que acepte\ndinero de un completo extraño."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Pero luego recibí otro mensaje diciendo que el\npríncipe había tenido un accidente..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Vaya, qué casualidad!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Al parecer, resultó gravemente herido y está\nsolicitando ayuda con sus gastos médicos."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Un momento. ¿No era el mismo tipo que tenía\ntanto dinero que quería regalarlo?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Dijo que todo su dinero se quemó en el accidente."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Mmm, así que todos sus fondos eran en efectivo? Y\ndebió ser un incendio enorme para destruir todo\nese capital. Es extraño que no haya visto ninguna\nnoticia al respecto..."
+    },
+    {
+      "text": "Incapaz de quedarme callado por más tiempo,\ninterrumpo su conversación.",
+      "choice_data_list": [
+        "Todo es un montón de mentiras."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¿Qué? ¿Es eso cierto?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ahaha, ¡pensé que todo sonaba un poco demasiado\nconveniente! Su afirmación de ser un príncipe,\nluego lastimarse en un accidente: ¿así que todo\nera un gran timo?",
+      "choice_data_list": [
+        "Exactamente."
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh, ¡ahora parece tan obvio! Bueno, eso es un gran\nalivio."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Significa que no hubo accidente y que nadie\nresultó herido."
+    },
+    {
+      "text": "A pesar de casi ser engañada por este \"príncipe\",\nMejiro Bright aún siente un gran alivio.",
+      "choice_data_list": [
+        "Realmente eres una persona amable.",
+        "Necesitas aprender un poco más sobre cómo funciona\nel mundo."
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "La noticia del accidente se sintió tan repentina\nque simplemente me invadió la preocupación. No\npensé en cuestionarla."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Es una verdadera lástima que haya gente tratando\nde aprovecharse de ese tipo de buena voluntad.\n¡Asegurémonos de mantenernos vigilantes, Bright!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¡Sí, absolutamente! Muchas gracias por tu consejo."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Cómo funciona el mundo... Ya veo."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Al menos, deberías poder distinguir si un correo\nes un timo o no.",
+      "choice_data_list": [
+        "Es mejor ignorar los correos de personas que no\nconoces."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Eso tiene sentido! Y suena mucho mejor que\nrevisar cada mensaje uno por uno."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Agradezco tu consejo. ¡Definitivamente seré más\ncuidadosa de ahora en adelante!",
+      "choice_data_list": [
+        "También deberías cambiar tu dirección de correo si\nes posible."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Ciertamente! Sería un gran problema si ese falso\npríncipe te contactara de nuevo."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¡Tienes toda la razón! ...Entonces, ¿cómo se haría\neso?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Eh, lo siento, ¡yo tampoco lo sé! ¡Mi equipo de\nseguridad se encarga de esas cosas por mí!"
+    },
+    {
+      "text": "Y así, termino ayudando a Mejiro Bright a cambiar\nsu dirección de correo.",
+      "name": "Monólogo"
+    }
+  ]
+}

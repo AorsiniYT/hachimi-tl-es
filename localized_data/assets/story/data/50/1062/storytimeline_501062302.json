@@ -1,0 +1,307 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, mientras caminamos por el distrito\ncomercial...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿O soy yo o hay más gente de lo normal? Me\npregunto qué está pasando."
+    },
+    {
+      "name": "Empleado de Rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!"
+    },
+    {
+      "name": "Empleado de Rifa",
+      "text": "¡Los ganadores del primer premio reciben una\nhamburguesa de zanahoria de lujo! ¡Los ganadores\ndel segundo premio reciben un haz de zanahorias!\n¡Y los ganadores del tercer premio pueden llevarse\na casa una sola zanahoria!"
+    },
+    {
+      "name": "Empleado de Rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue un\nboleto ahora y gira para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, ¡unas vacaciones en aguas termales! Eso suena\nmuy bien.",
+      "choice_data_list": [
+        "¿Quieres intentarlo?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Supongo que tengo que! ¡Disculpe! ¡Me gustaría\nintentarlo, por favor!"
+    },
+    {
+      "name": "Empleado de Rifa",
+      "text": "¡Por supuesto! ¡Será un boleto de rifa!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, cierto. Un boleto de rifa..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Dame un minuto. ¡Voy a ir a comprar!"
+    },
+    {
+      "text": "Matikanetannhauser regresa apresurada un poco más\ntarde con un boleto de rifa en la mano y le da una\nbuena vuelta a la máquina de rifa!",
+      "name": "Monólogo"
+    },
+    {
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de Rifa",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del gran premio!\n¡Ven a recoger el cupón para tus vacaciones en\naguas termales! ¡Felicitaciones!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡No <i>puede ser!</i>"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Lo hice! ¡Lo logré, Entrenador!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Gyaaah! ¡Estoy tan emocionada!",
+      "choice_data_list": [
+        "¡Felicitaciones!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Jeje. Entonces, ¿cuándo deberíamos ir?",
+      "choice_data_list": [
+        "¿A dónde?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡A las aguas termales, tonta! Estamos un poco\nocupados ahora, pero ¿qué tal si vamos una vez que\nlas cosas se calmen un poco?"
+    },
+    {
+      "text": "Ahora que lo pienso, el premio es un cupón para\ndos. Pero aún así...",
+      "choice_data_list": [
+        "¿Seguro que quieres ir <i>conmigo?</i>",
+        "¿Seguro que quieres ir <i>conmigo?</i>"
+      ],
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Bueno, sí..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿Por qué? ¿Es raro que yo te invite o algo?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Pensé que eras la opción obvia para este tipo de\ncosas."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Quiero decir, tú me cuidas más que nadie. Eres\ncomo mi compañero o mi, uh..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...De todos modos, no tienes que venir si no\nquieres.",
+      "choice_data_list": [
+        "¡Por supuesto que quiero!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿¡En serio!?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Yujuu! ¡Entonces, planifiquemos el viaje juntos!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Jeje, ¡no puedo esperar! \"¡Yo, el Entrenador y el\nMisterio de las Aguas Termales Brumosas!\"",
+      "choice_data_list": [
+        "¿Misterio?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Ups! Empezó a sonar como un título de película\nasí que se me escapó."
+    },
+    {
+      "text": "Dejando las películas a un lado, ¡ahora tenemos\nuna cosa más que esperar!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de Rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Oooh! ¡Primer premio!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No ganamos la escapada a las aguas termales, ¡pero\nesto se ve súper delicioso!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Y el premio es para los dos, así que deberíamos\ncomerlo juntos. ¡Cocinémoslo esta noche!",
+      "choice_data_list": [
+        "Si eso es lo que quieres hacer...",
+        "Si eso es lo que quieres hacer..."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Por supuesto! Y si vamos a cocinar, ¡también\npodría hacer algunas guarniciones!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hablando de eso... ¿te importa si pasamos por la\ntienda de comestibles de regreso?"
+    },
+    {
+      "text": "Después de eso, ¡Matikanetannhauser prepara una\ncena que se ve deliciosa para nosotros!",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hamburguesa de zanahoria de lujo con ensalada,\nsopa de maíz y..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Fideos somen!",
+      "choice_data_list": [
+        "...¿Fideos somen?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "La hamburguesa es bastante sustanciosa, ¡así que\npensé que combinaría mejor con algo que se coma\nfácil!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "También picé algunos puerros y hojas de perilla.\nEspera, déjame traerlos."
+    },
+    {
+      "text": "Dejando a un lado la extraña combinación, toda la\ncomida queda deliciosa, y tenemos una gran cena\njuntos.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de Rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te llevas a casa un haz de zanahorias!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Segundo?! ¡Estuve tan cerca!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Pero segundo aún es bastante bueno. ¡Las\nzanahorias se ven tan dulces y brillantes!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Y si tenemos tantas, ¡tenemos que compartir con\ntodos!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "La gente del vecindario solía traer siempre las\nverduras que cultivaban a nuestro restaurante.\n¡Siempre quise devolver el favor!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Disculpe, señora. Lamento molestarla tan tarde,\npero cosechamos más zanahorias de las que podemos\nusar, así que pensé que le gustaría algunas."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Viniste hasta aquí solo para dármelas? ¡Qué\ndulce! De hecho, cariño, tenemos algunas papas\nextra si quieres—"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Espera un minuto! ¿Por qué estamos interpretando\nroles?!"
+    },
+    {
+      "text": "Después escucho que su dormitorio estuvo más\nanimado de lo normal esa noche.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de Rifa",
+      "text": "¡Mira nada más! ¡Has ganado el tercer premio!\n¡Aquí tienes tu zanahoria!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Awww, ¿solo tercero?! Maldición."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, bueno. Así son las rifas, supongo."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Pero ya que es una zanahoria especial y todo, me\ngustaría hacer algo delicioso con ella."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Los burdocks salteados en el restaurante de mis\npadres están muy buenos. Ahora, ¿cuál era la\nreceta de nuevo?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Voy a llamarlos rápido!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿Hola, mamá?"
+    },
+    {
+      "text": "Después, ella me hace su famosa bardana salteada\nusando la zanahoria y algo de raíz de bardana.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Empleado de Rifa",
+      "text": "¡Oh, qué mala suerte! ¡Parece que sacaste una\nvacía! Toma este paquete de pañuelos como premio\nde consolación."
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Awww! ¡Qué mala suerte!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Pensé que no ganaríamos las vacaciones en aguas\ntermales, pero al menos me hubiera gustado ganar\nuna zanahoria..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Supongo que la vida a veces no es justa..."
+    },
+    {
+      "text": "Matikanetannhauser está un poco desanimada por un\ntiempo después.",
+      "name": "Monólogo"
+    }
+  ]
+}

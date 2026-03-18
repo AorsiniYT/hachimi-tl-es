@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, mientras salía con Matikanetannhauser...",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Ah! ¡Mira, Entrenador! ¡Tienen adorables!"
+    },
+    {
+      "text": "Matikanetannhauser señala una máquina de garra\nllena de peluches de Umamusume.",
+      "name": "Monólogo"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿No son adorables? ¡Solo verlos me hace querer\nuno!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, pero ya decidí que quiero conseguir un araña\nde peluche hoy, así que tendré que ser paciente...",
+      "choice_data_list": [
+        "¿Por qué no te consigo uno?",
+        "¿Por qué no te consigo uno?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Ohh! ¡Oh, oh, oh! ¿¡Estás seguro?!",
+      "choice_data_list": [
+        "¡Déjalo en mis manos!",
+        "¡Déjalo en mis manos!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ehehe, ¡gracias! ¡Buena suerte, Entrenador!"
+    },
+    {
+      "text": "¡Ahora no hay manera de fallar!",
+      "name": "Monólogo"
+    }
+  ]
+}
