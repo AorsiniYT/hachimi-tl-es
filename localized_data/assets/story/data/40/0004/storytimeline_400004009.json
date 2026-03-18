@@ -2,7 +2,7 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Después de completar nuestro entrenamiento diario, <chrname>\ny yo nos despedimos y vamos a casa.",
+      "text": "Después de completar nuestro entrenamiento diario,\n<chrname> y yo nos despedimos y vamos a casa.",
       "name": "Monólogo"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "name": "Riko Kashimoto",
-      "text": "No hay de qué preocuparse. En realidad...<i>suspiro...</i>\nno estoy tan cansada...",
+      "text": "No hay de qué preocuparse. En\nrealidad...<i>suspiro...</i> no estoy tan cansada...",
       "choice_data_list": [
         "¿Qué pasó?"
       ]
@@ -89,7 +89,7 @@
     },
     {
       "name": "Riko Kashimoto",
-      "text": "La tierra aquí está... <i>jadeo...</i> bien. No debería haber\nproblemas... Uf..."
+      "text": "La tierra aquí está... <i>jadeo...</i> bien. No debería\nhaber problemas... Uf..."
     },
     {
       "name": "Trainer Kiryuin",

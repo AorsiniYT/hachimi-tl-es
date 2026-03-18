@@ -27,7 +27,7 @@
     },
     {
       "name": "Gold City",
-      "text": "¡Ugh! ¡Esto apesta! ¡Odio esto, odio esto, <i>odio</i> esto!",
+      "text": "¡Ugh! ¡Esto apesta! ¡Odio esto, odio esto, <i>odio</i>\nesto!",
       "choice_data_list": [
         "Lo intentaste lo mejor que pudiste, City."
       ]
@@ -141,7 +141,7 @@
     },
     {
       "name": "Manager de City",
-      "text": "Si correr alguna vez se convierte en algo que te lastime, <i>intervendré</i>."
+      "text": "Si correr alguna vez se convierte en algo que te\nlastime, <i>intervendré</i>."
     },
     {
       "name": "Manager de City",
@@ -199,7 +199,7 @@
     },
     {
       "name": "Gold City",
-      "text": "Ella <i>escuchará</i> lo que tengo que decir, pase lo que pase."
+      "text": "Ella <i>escuchará</i> lo que tengo que decir, pase lo que\npase."
     }
   ]
 }
