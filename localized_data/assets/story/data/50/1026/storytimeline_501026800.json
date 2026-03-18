@@ -6,12 +6,12 @@
       "text": "¿Ya decidiste qué chocolates comprar? Puedo\nayudarte a encontrar algo adecuado si necesitas\nayuda."
     },
     {
+      "name": "Monólogo",
       "text": "Resulta que estaba revisando un evento de San\nValentín en mi día libre cuando Mihono Bourbon de\nrepente se acerca a mí.",
       "choice_data_list": [
         "¿Qué te trae por aquí?",
         "¿Qué te trae por aquí?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -29,12 +29,12 @@
       "text": "En términos contractuales, eso es correcto. En\ncuanto a por qué estoy trabajando aquí..."
     },
     {
-      "text": "Al parecer, algunos de los trabajadores del evento\nestán llegando tarde debido al tráfico, así que\nEishin Flash decidió ayudar en la tienda de una\namiga.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Al parecer, algunos de los trabajadores del evento\nestán llegando tarde debido al tráfico, así que\nEishin Flash decidió ayudar en la tienda de una\namiga."
     },
     {
-      "text": "Mihono Bourbon se la encontró aquí y también le\npidieron que ayudara. Ella aceptó como una forma\nde devolverle el favor a Eishin Flash por su\nconstante apoyo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mihono Bourbon se la encontró aquí y también le\npidieron que ayudara. Ella aceptó como una forma\nde devolverle el favor a Eishin Flash por su\nconstante apoyo."
     },
     {
       "name": "Mihono Bourbon",
@@ -76,8 +76,8 @@
       "text": "¡Guau! ¡Sabes mucho! Okay, creo que iré a esa\ntienda!"
     },
     {
-      "text": "Sus sugerencias son sorprendentemente detalladas.\n¿Habrá probado los chocolates de cada tienda\nantes? Realmente puedo sentir su pasión por San\nValentín.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sus sugerencias son sorprendentemente detalladas.\n¿Habrá probado los chocolates de cada tienda\nantes? Realmente puedo sentir su pasión por San\nValentín."
     },
     {
       "name": "Personal de tienda A",
@@ -107,8 +107,8 @@
       "text": "Eso... ¡sería aceptable! Los tres disfrutemos de\nun pastel juntos, entonces."
     },
     {
-      "text": "Vamos a un café cercano, y tanto Mihono Bourbon\ncomo Eishin Flash piden el especial pastel de\nchocolate de San Valentín.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Vamos a un café cercano, y tanto Mihono Bourbon\ncomo Eishin Flash piden el especial pastel de\nchocolate de San Valentín."
     },
     {
       "name": "Eishin Flash",
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "text": "Le explico cómo debatir sobre los chocolates\ncorrectos para darle a alguien es una forma de\nmostrar el 'corazón'.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Le explico cómo debatir sobre los chocolates\ncorrectos para darle a alguien es una forma de\nmostrar el 'corazón'."
     },
     {
       "name": "Eishin Flash",
@@ -201,12 +201,12 @@
       "text": "Okay, aquí están todos los chocolates que pediste."
     },
     {
+      "name": "Monólogo",
       "text": "Tosen Jordan cubre la mesa con varias cajas de\nchocolates de diferentes tiendas y empieza a\nabrirlas todas.",
       "choice_data_list": [
         "¿Todos estos son regalos de San Valentín para\npersonas?",
         "¿Todos estos son regalos de San Valentín para\npersonas?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -244,11 +244,11 @@
       "text": "¡Omigosh! ¡Este está <i>tan</i> rico! Aquí,tú pruébalo!"
     },
     {
+      "name": "Monólogo",
       "text": "Me ofrecen un chocolate oscuro que se ve rico. Le\ndoy un mordisco, y mi boca se inunda con una\namargura deliciosa y distintiva.",
       "choice_data_list": [
         "Está bueno. Me gusta que no sea demasiado dulce."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -271,8 +271,8 @@
       "text": "Oye, solo me pregunto, ¿querías darte un atracón\nde chocolates o algo?"
     },
     {
-      "text": "¿La 'investigación de regalos' de Bourbon era solo\nuna fachada? Viendo su cara llena de chocolates,\nno puedo evitar pensar que Tosen Jordan dio en el\nclavo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¿La 'investigación de regalos' de Bourbon era solo\nuna fachada? Viendo su cara llena de chocolates,\nno puedo evitar pensar que Tosen Jordan dio en el\nclavo."
     }
   ]
 }

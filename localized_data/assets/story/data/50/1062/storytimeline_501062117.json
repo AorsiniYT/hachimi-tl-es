@@ -22,12 +22,12 @@
       "text": "<i>Suspiro...</i> ¡Tengo que ponerme más fuerte!"
     },
     {
-      "text": "Ya vamos más de la mitad de octubre, aún en medio\nde nuestros preparativos para la Japan Cup.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ya vamos más de la mitad de octubre, aún en medio\nde nuestros preparativos para la Japan Cup."
     },
     {
-      "text": "Un día, Matikanetannhauser recibe una carta de la\nreportera con gafas redondas que la entrevistó\nantes.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un día, Matikanetannhauser recibe una carta de la\nreportera con gafas redondas que la entrevistó\nantes."
     },
     {
       "name": "Matikanetannhauser",
@@ -38,12 +38,12 @@
       "text": "¡Guau, qué emocionante! Me pregunto qué dirá."
     },
     {
-      "text": "Parece ser una carta personal, así que se la doy\nsin abrir.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Parece ser una carta personal, así que se la doy\nsin abrir."
     },
     {
-      "text": "Matikanetannhauser parece perfectamente relajada\ncuando abre la carta, pero...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Matikanetannhauser parece perfectamente relajada\ncuando abre la carta, pero..."
     },
     {
       "name": "Matikanetannhauser",
@@ -70,15 +70,15 @@
       "text": "¡Tengo que salir a caminar!"
     },
     {
-      "text": "Sale corriendo de la habitación sin siquiera\nesperar una respuesta. Su comportamiento\nsospechoso despierta mi curiosidad, así que decido\nseguirla discretamente...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sale corriendo de la habitación sin siquiera\nesperar una respuesta. Su comportamiento\nsospechoso despierta mi curiosidad, así que decido\nseguirla discretamente..."
     },
     {
+      "name": "Monólogo",
       "text": "Va a una colina cercana. Por alguna razón, parece\nestar manteniendo la carta a distancia.",
       "choice_data_list": [
         "¡Tannhauser!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -93,16 +93,16 @@
       "text": "Bueno, es que..."
     },
     {
-      "text": "Matikanetannhauser habla lentamente, luchando por\nencontrar las palabras adecuadas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Matikanetannhauser habla lentamente, luchando por\nencontrar las palabras adecuadas."
     },
     {
       "name": "Matikanetannhauser",
       "text": "Mi viaje para encontrarme a mí misma ha\nterminado..."
     },
     {
-      "text": "Sin entender del todo la situación, echo un\nvistazo a la carta y encuentro un mensaje lleno de\ngratitud.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sin entender del todo la situación, echo un\nvistazo a la carta y encuentro un mensaje lleno de\ngratitud."
     },
     {
       "name": "Reportera con gafas",
@@ -177,8 +177,8 @@
       "text": "¡Pude inspirar a alguien <i>porque</i> soy ordinaria!"
     },
     {
-      "text": "En el momento en que escucho \"estrella\" dicha con\ntanto énfasis, viene a mi mente un cierto recuerdo\nde la radiante sonrisa de Matikanetannhauser.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "En el momento en que escucho \"estrella\" dicha con\ntanto énfasis, viene a mi mente un cierto recuerdo\nde la radiante sonrisa de Matikanetannhauser."
     },
     {
       "name": "Matikanetannhauser",
@@ -193,19 +193,19 @@
       "text": "Ella es su estrella."
     },
     {
+      "name": "Monólogo",
       "text": "Matikanetannhauser, que normalmente es tan serena\nantes y después de las carreras, se emocionó tanto\nen aquel entonces.",
       "choice_data_list": [
         "...¿Quieres ser una estrella aún más grande?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
       "text": "Huh?"
     },
     {
-      "text": "La verdad es que, en los últimos dos años, las\npalabras de Matikanetannhauser han animado a\nmuchas personas a poder mirar hacia un futuro más\nbrillante.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La verdad es que, en los últimos dos años, las\npalabras de Matikanetannhauser han animado a\nmuchas personas a poder mirar hacia un futuro más\nbrillante."
     },
     {
       "name": "Matikanetannhauser",
@@ -224,8 +224,8 @@
       ]
     },
     {
-      "text": "Matikanetannhauser alisa con cuidado los bordes\narrugados de la carta.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Matikanetannhauser alisa con cuidado los bordes\narrugados de la carta."
     },
     {
       "name": "Matikanetannhauser",
@@ -252,8 +252,8 @@
       "text": "Pero, bueno..."
     },
     {
-      "text": "Matikanetannhauser mira al cielo como si buscara\nallí las palabras adecuadas...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Matikanetannhauser mira al cielo como si buscara\nallí las palabras adecuadas..."
     },
     {
       "name": "Matikanetannhauser",
@@ -284,8 +284,8 @@
       "text": "Y ese sentimiento se ha quedado conmigo, negándose\na irse. Por eso..."
     },
     {
-      "text": "Un largo silencio se instala entre nosotras. Y\nluego...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un largo silencio se instala entre nosotras. Y\nluego..."
     },
     {
       "name": "Matikanetannhauser",
@@ -319,12 +319,12 @@
       "text": "¡Ay! Agh... Algo acaba de volar a mi ojo..."
     },
     {
-      "text": "Su discurso no termina perfectamente, pero algo,\naunque sea muy pequeño, cambió dentro de ella hoy.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Su discurso no termina perfectamente, pero algo,\naunque sea muy pequeño, cambió dentro de ella hoy."
     },
     {
-      "text": "Unos días después, hay una conferencia de prensa\npara las Uma Musume que correrán en la Japan Cup.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Unos días después, hay una conferencia de prensa\npara las Uma Musume que correrán en la Japan Cup."
     },
     {
       "name": "Entrevistadora",
@@ -343,16 +343,16 @@
       "text": "¡Voy a ser la estrella de esta Japan Cup!"
     },
     {
-      "text": "(¡Bien dicho!)",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "(¡Bien dicho!)"
     },
     {
       "name": "Matikanetannhauser",
       "text": "¡Te voy a mostrar una carrera tan grandiosa que\ntodos los gente ordinaria como yo allá afuera se\nsentirán listos para enfrentar el mundo!"
     },
     {
-      "text": "La respuesta de Matikanetannhauser se propaga como\npólvora.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La respuesta de Matikanetannhauser se propaga como\npólvora."
     },
     {
       "name": "Mujer A",
@@ -371,8 +371,8 @@
       "text": "...Ehehe."
     },
     {
-      "text": "La anticipación por la Japan Cup crece lenta pero\nseguramente.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La anticipación por la Japan Cup crece lenta pero\nseguramente."
     }
   ]
 }

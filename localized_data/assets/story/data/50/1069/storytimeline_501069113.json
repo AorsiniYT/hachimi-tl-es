@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, en una habitación llena de trofeos, una\ncierta corredora está consultando a un médico\nsobre su condición.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un día, en una habitación llena de trofeos, una\ncierta corredora está consultando a un médico\nsobre su condición."
     },
     {
       "name": "Médico Jefe",
@@ -74,8 +74,8 @@
       "text": "Así es como lucharé contra mi destino."
     },
     {
-      "text": "Ese mismo día, en las cimas de las montañas aún\nnevadas, una cierta Umamusume lucha contra la\nnaturaleza misma en un intento por conquistar sus\npropias luchas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ese mismo día, en las cimas de las montañas aún\nnevadas, una cierta Umamusume lucha contra la\nnaturaleza misma en un intento por conquistar sus\npropias luchas."
     },
     {
       "name": "Yaeno Muteki",
@@ -150,8 +150,8 @@
       "text": "¡Podré devolverte mi gratitud mostrándote cuánto\nhe crecido!"
     },
     {
-      "text": "Un día, mientras trabajo en mi oficina, una\nUmamusume inesperada entra por la puerta.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un día, mientras trabajo en mi oficina, una\nUmamusume inesperada entra por la puerta."
     },
     {
       "name": "Mejiro Ardan",
@@ -170,16 +170,16 @@
       "text": "...Al menos hasta el Derby."
     },
     {
-      "text": "Pero, por más impactante que fue escuchar eso...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Pero, por más impactante que fue escuchar eso..."
     },
     {
       "name": "Yaeno Muteki",
       "text": "Me temo que preferiría evitar participar en\ncarreras en pareja con Chiyono O por ahora."
     },
     {
-      "text": "Yaeno Muteki había pasado antes para decirme lo\nmismo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Yaeno Muteki había pasado antes para decirme lo\nmismo."
     },
     {
       "name": "Sakura Chiyono O",
@@ -190,15 +190,15 @@
       ]
     },
     {
-      "text": "Las dos probablemente saben que Sakura Chiyono O\nestá planeando correr en el Derby.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Las dos probablemente saben que Sakura Chiyono O\nestá planeando correr en el Derby."
     },
     {
+      "name": "Monólogo",
       "text": "Es por eso que quieren evitar mostrar sus cartas\ndemasiado pronto: tratarla como una rival en lugar\nde una compañera de entrenamiento amistosa.\nDespués de todo...",
       "choice_data_list": [
         "Quieren ganar el Derby."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -256,12 +256,12 @@
       "text": "Oh, las luces en el gimnasio están encendidas."
     },
     {
+      "name": "Monólogo",
       "text": "Sakura Chiyono O se detiene en medio del\nentrenamiento para mirar el gimnasio de\nentrenamiento.",
       "choice_data_list": [
         "¿Qué pasa?",
         "¿Qué pasa?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -300,8 +300,8 @@
       "text": "No puedo perder esta carrera, ¡no cuando Maruzen\nfue quien me confió su sueño!"
     },
     {
-      "text": "La declaración de Sakura Chiyono O resuena con más\nfuerza de la que jamás la había escuchado hablar\nantes.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La declaración de Sakura Chiyono O resuena con más\nfuerza de la que jamás la había escuchado hablar\nantes."
     }
   ]
 }

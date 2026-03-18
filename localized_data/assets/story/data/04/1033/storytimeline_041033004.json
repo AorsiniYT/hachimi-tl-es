@@ -2,22 +2,22 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Monólogo",
       "text": "No he tenido la oportunidad de hablar con Admire\nVega desde su carrera de pruebas, y eso me ha\nestado carcomiendo.",
       "choice_data_list": [
         "(¡Tengo que ver cómo está!)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
+      "name": "Monólogo",
       "text": "No sé qué la acosa cuando corre, qué yace en el\nabismo que siempre parece estar mirando, o qué\ncarga la agobia...",
       "choice_data_list": [
         "Pero nunca lo sabré si no hago el esfuerzo de\naveriguar ."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Mientras camino por el campus buscándola, veo a su\ncompañera de entrenamiento del otro día, Meisho\nDoto.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mientras camino por el campus buscándola, veo a su\ncompañera de entrenamiento del otro día, Meisho\nDoto."
     },
     {
       "name": "Meisho Doto",
@@ -58,11 +58,11 @@
       "text": "Déjala ir, Doto. Porque en su cabeza, ya las\ncampanas del destino repiten su canción. No hay\nforma de detenerla."
     },
     {
+      "name": "Monólogo",
       "text": "Después de una carcajada, me dice más precisamente\ndónde podría encontrar a Admire Vega.",
       "choice_data_list": [
         "Gracias. ¡Nos vemos!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -89,16 +89,16 @@
       "text": "No tengo nada que decir. Y no estoy aceptando\nninguna oferta de reclutamiento ahora mismo, así\nque..."
     },
     {
+      "name": "Monólogo",
       "text": "Bueno, eso no duró mucho. Pero estoy aquí con una\nmeta, y voy a llevarla a cabo!",
       "choice_data_list": [
         "(¡Tengo que alcanzarla!)",
         "(¡Tengo que alcanzarla!)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Desafortunadamente...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Desafortunadamente..."
     },
     {
       "name": "Admire Vega",
@@ -115,35 +115,35 @@
       ]
     },
     {
-      "text": "Meisho Doto <i>sí</i> me advirtió, para ser justos, pero\neste sendero no es broma! La distancia entre\nnosotros se amplía y se amplía.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Meisho Doto <i>sí</i> me advirtió, para ser justos, pero\neste sendero no es broma! La distancia entre\nnosotros se amplía y se amplía."
     },
     {
-      "text": "Y solo empeora...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y solo empeora..."
     },
     {
+      "name": "Monólogo",
       "text": "Mientras sigo adelante a pesar de haberla perdido\nde vista, el sol se hunde lejos bajo las copas de\nlos árboles.",
       "choice_data_list": [
         "Apenas puedo ver... dónde estoy pisando... ¡Guau!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "<i>¡Caer, estrellarse!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Caer, estrellarse!</i>"
     },
     {
-      "text": "...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "..."
     },
     {
-      "text": "Mis sentidos gradualmente regresan, y entreabro\nlos ojos para encontrar... estrellas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mis sentidos gradualmente regresan, y entreabro\nlos ojos para encontrar... estrellas."
     },
     {
-      "text": "Un mar de estrellas tan vasto que siento como si\npudiera ahogarme.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un mar de estrellas tan vasto que siento como si\npudiera ahogarme."
     },
     {
       "name": "Admire Vega",
@@ -165,8 +165,8 @@
       "text": "...Quiero decir, no es como que pudiera\nsimplemente dejarte."
     },
     {
-      "text": "Después de un largo suspiro, Admire Vega deja\nescapar una pregunta.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después de un largo suspiro, Admire Vega deja\nescapar una pregunta."
     },
     {
       "name": "Admire Vega",
@@ -215,24 +215,24 @@
       "text": "...He dicho demasiado. Olvídalo."
     },
     {
-      "text": "Así que esa es la carga que lleva. Sin duda hay\nmás en ello, pero una cosa está clara—ella está\ndeterminada a soportarla sola.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Así que esa es la carga que lleva. Sin duda hay\nmás en ello, pero una cosa está clara—ella está\ndeterminada a soportarla sola."
     },
     {
+      "name": "Monólogo",
       "text": "Aún...",
       "choice_data_list": [
         "¡No te dejaré estar solo!",
         "¡No te dejaré estar solo!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
+      "name": "Monólogo",
       "text": "Mis piernas me están matando. Es un milagro que mi\ncuerpo aún pueda moverse. Pero estoy aquí ahora,\nal alcance de la mano.",
       "choice_data_list": [
         "¿Me permitirás ser tu entrenador?",
         "¿Me permitirás ser tu entrenador?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -286,12 +286,12 @@
       "text": "Estaba con ella, la hermana más adorable que nunca\nhe visto, corriendo a través de un mar de\nestrellas, sin una preocupación en el mundo..."
     },
     {
+      "name": "Monólogo",
       "text": "Al día siguiente, escucho un golpe tímido en mi\npuerta y la abro para encontrar... ¡Admire Vega!",
       "choice_data_list": [
         "¿Esto significa que estás interesado en mi oferta?",
         "¿Esto significa que estás interesado en mi oferta?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -310,8 +310,8 @@
       ]
     },
     {
-      "text": "Ella no parece particularmente emocionada de\ntenerme, pero, bueno, es un comienzo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella no parece particularmente emocionada de\ntenerme, pero, bueno, es un comienzo."
     }
   ]
 }

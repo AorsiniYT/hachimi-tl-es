@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, mientras camino por el pasillo...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un día, mientras camino por el pasillo..."
     },
     {
       "name": "Gold City",
@@ -58,11 +58,11 @@
       "text": "Ojalá hubiera algo que pudiera hacer para\nayudar..."
     },
     {
+      "name": "Monólogo",
       "text": "Entiendo los sentimientos de Sakura Chiyono O,\npero no hay mucho que ella pueda hacer sobre el\ntrabajo de Gold City. Aunque... si hay una cosa\nque ella <i>puede</i> hacer...",
       "choice_data_list": [
         "¿Qué tal si le compras un regalo para animarla?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -84,12 +84,12 @@
       "text": "No creo que ninguno me quedaría bien, pero estoy\nsegura de que una modelo como City puede llevar\nambos estilos sin problemas!"
     },
     {
+      "name": "Monólogo",
       "text": "Veo lo emocionada que está, pero no está bien que\nse gaste todo su dinero en ambos atuendos. Debería\nayudarla a reducir sus opciones de regalo.",
       "choice_data_list": [
         "Deberías regalarle el vestido.",
         "Deberías regalarle el traje."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -104,8 +104,8 @@
       "text": "¡Vale, seguiré tu sugerencia y se lo daré mañana!"
     },
     {
-      "text": "Al día siguiente, veo a Sakura Chiyono O dándole\nsu regalo a Gold City. Realmente no pierde tiempo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Al día siguiente, veo a Sakura Chiyono O dándole\nsu regalo a Gold City. Realmente no pierde tiempo."
     },
     {
       "name": "Gold City",
@@ -116,8 +116,8 @@
       "text": "¡Por supuesto!"
     },
     {
-      "text": "Gold City mete la mano en la bolsa de papel y saca\n...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Gold City mete la mano en la bolsa de papel y saca\n..."
     },
     {
       "name": "Gold City",
@@ -148,8 +148,8 @@
       "text": "¿En serio? ¡Qué bueno!"
     },
     {
-      "text": "Después de eso, veo a Sakura Chiyono O contándole\ntodo a su modelo a seguir, Maruzensky.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después de eso, veo a Sakura Chiyono O contándole\ntodo a su modelo a seguir, Maruzensky."
     },
     {
       "name": "Sakura Chiyono O",
@@ -164,8 +164,8 @@
       "text": "¡Vale! ¡Iré a comprarlo hoy!"
     },
     {
-      "text": "Más tarde esa noche...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Más tarde esa noche..."
     },
     {
       "name": "Gold City",
@@ -208,8 +208,8 @@
       "text": "¿Sí? Entonces quizás lo use en mi próxima\nentrevista."
     },
     {
-      "text": "El mes siguiente, Gold City usa su traje con las\nhombreras prominentes en TV, y causa bastante\nrevuelo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El mes siguiente, Gold City usa su traje con las\nhombreras prominentes en TV, y causa bastante\nrevuelo."
     }
   ]
 }

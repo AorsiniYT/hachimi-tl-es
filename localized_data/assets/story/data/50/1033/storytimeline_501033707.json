@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Admire Vega ha estado sintiéndose mal\nrecientemente, así que decido llevarla a un\nsantuario para intentar animarla.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Admire Vega ha estado sintiéndose mal\nrecientemente, así que decido llevarla a un\nsantuario para intentar animarla."
     },
     {
       "name": "Admire Vega",
@@ -14,12 +14,12 @@
       "text": "..."
     },
     {
+      "name": "Monólogo",
       "text": "Ella inclina la cabeza hacia el cielo. Parece como\nsi cualquier tensión que sintiera estuviera\ncomenzando a aliviarse.",
       "choice_data_list": [
         "¿Qué estás mirando?",
         "¿Qué estás mirando?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -98,31 +98,31 @@
       "text": "Además... Tengo un favor que devolver."
     },
     {
-      "text": "Su cara brilla alegremente mientras habla. Con\neso, ambos vamos a rezar al santuario.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Su cara brilla alegremente mientras habla. Con\neso, ambos vamos a rezar al santuario."
     },
     {
       "name": "Narita Top Road",
       "text": "Es así... ¿Eh?"
     },
     {
+      "name": "Monólogo",
       "text": "Oímos un sonido de retumbo en la distancia.",
       "choice_data_list": [
         "¿Es eso..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "<i>Plic... Plic, plop... FSSSHHH!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>Plic... Plic, plop... FSSSHHH!</i>"
     },
     {
       "name": "Narita Top Road",
       "text": "¡Gahh! ¡Lluvia?!"
     },
     {
-      "text": "De repente el cielo se oscurece y la calle está\ninundada de lluvia intensa. Pero antes de mucho,\nlas nubes se alejan y el cielo se vuelve soleado\nde nuevo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "De repente el cielo se oscurece y la calle está\ninundada de lluvia intensa. Pero antes de mucho,\nlas nubes se alejan y el cielo se vuelve soleado\nde nuevo."
     },
     {
       "name": "Narita Top Road",
@@ -133,8 +133,8 @@
       "text": "<i>Uf...</i>"
     },
     {
-      "text": "La tormenta repentina ha puesto a Admire Vega\ndirectamente de mal humor otra vez.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La tormenta repentina ha puesto a Admire Vega\ndirectamente de mal humor otra vez."
     }
   ]
 }

@@ -6,8 +6,8 @@
       "text": "¡Mi memoria... se ha ido!"
     },
     {
-      "text": "Kitasan Black y yo nos sobresaltamos con un grito\nfuerte y corremos a la fuente para encontrar a\nGold Ship con una expresión preocupada.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Kitasan Black y yo nos sobresaltamos con un grito\nfuerte y corremos a la fuente para encontrar a\nGold Ship con una expresión preocupada."
     },
     {
       "name": "Gold Ship",
@@ -34,8 +34,8 @@
       "text": "¡Bien! Vamos a buscar esa memoria, Golshi."
     },
     {
-      "text": "Y así, los tres nos ponemos a buscar por la\nescuela.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, los tres nos ponemos a buscar por la\nescuela."
     },
     {
       "name": "Gold Ship",
@@ -91,11 +91,11 @@
       "text": "Pero eso no significa que voy a dejar de buscarla."
     },
     {
+      "name": "Monólogo",
       "text": "Aunque Kitasan Black no parece desanimada, empiezo\na preguntarme si es sabio dejarla seguir\nparticipando en esta búsqueda tonta.",
       "choice_data_list": [
         "¿Todavía crees que perdió la memoria?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -176,8 +176,8 @@
       "text": "¡Guau, estas galletas se ven deliciosas! Las\nrepartiré con Golshi después."
     },
     {
-      "text": "Kitasan Black nunca es tacaña cuando ayuda a los\ndemás, y hoy pude ver lo grande que es realmente\nsu corazón.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Kitasan Black nunca es tacaña cuando ayuda a los\ndemás, y hoy pude ver lo grande que es realmente\nsu corazón."
     },
     {
       "name": "Kitasan Black",
@@ -240,8 +240,8 @@
       "text": "Bueno, aún me alegra que Golshi haya podido\nrecordar lo que pasó de inmediato. Eso me\ntranquiliza."
     },
     {
-      "text": "Kitasan Black creyó la historia exagerada de Gold\nShip hasta el final, y simplemente parece feliz de\nhaber sido de ayuda.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Kitasan Black creyó la historia exagerada de Gold\nShip hasta el final, y simplemente parece feliz de\nhaber sido de ayuda."
     }
   ]
 }

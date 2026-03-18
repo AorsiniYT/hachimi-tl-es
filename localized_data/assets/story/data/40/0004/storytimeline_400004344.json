@@ -6,27 +6,27 @@
       "text": "Esto es un verdadero lío... ¿Qué se supone que\ndebo hacer ahora?!"
     },
     {
+      "name": "Monólogo",
       "text": "Un día mientras pasaba por la sala de juegos, me\nencuentro con Tamamo Cross con un aparente dilema\nen sus manos.",
       "choice_data_list": [
         "¿Estás bien?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Tamamo Cross",
       "text": "¿Huh?! Oh, perdón, ¡pero estoy en problemas aquí!\n¿Podrías ayudarme un momento?"
     },
     {
-      "text": "<i>¡Clink, jingle, clatter!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Clink, jingle, clatter!</i>"
     },
     {
       "name": "Mihono Bourbon",
       "text": "Estado—ganancias inmensas. No hay indicios de que\nla liberación de medallas cesará. El número de\nmedallas adquiridas está aumentando\nsustancialmente."
     },
     {
-      "text": "Un número fenomenal de medallas se desborda desde\nel juego de medallas frente a Mihono Bourbon. Se\nhan derramado en el suelo y el flujo de salida no\nmuestra signos de detenerse.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un número fenomenal de medallas se desborda desde\nel juego de medallas frente a Mihono Bourbon. Se\nhan derramado en el suelo y el flujo de salida no\nmuestra signos de detenerse."
     },
     {
       "name": "Tamamo Cross",
@@ -41,8 +41,8 @@
       "text": "Puedo confirmar dos instancias preexistentes de\ntal evento, y por lo tanto concluyo que esta\nmáquina está operando normalmente."
     },
     {
-      "text": "<i>¡Clink, jingle, clatter!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Clink, jingle, clatter!</i>"
     },
     {
       "name": "Mihono Bourbon",
@@ -73,8 +73,8 @@
       "text": "¡Dejaré la competencia en una nube de polvo!\n¡Fuera de mi camino! ¡GIIIRRAAA!"
     },
     {
-      "text": "<i>¡Snap!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Snap!</i>"
     },
     {
       "name": "Kawakami Princess",
@@ -129,8 +129,8 @@
       "text": "¡De acuerdo! ¡Buena suerte, ustedes dos!"
     },
     {
-      "text": "Tamamo Cross y yo vamos a buscar a un miembro del\npersonal, quien luego arregla el juego de medallas\nque funciona mal.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Tamamo Cross y yo vamos a buscar a un miembro del\npersonal, quien luego arregla el juego de medallas\nque funciona mal."
     },
     {
       "name": "Mihono Bourbon",
@@ -149,8 +149,8 @@
       "text": "¿¡Qué!? ¡Oye, espera!"
     },
     {
-      "text": "...Terminamos teniendo que llamar al personal de\nnuevo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "...Terminamos teniendo que llamar al personal de\nnuevo."
     },
     {
       "name": "Super Creek",

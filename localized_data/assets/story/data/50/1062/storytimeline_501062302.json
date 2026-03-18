@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, mientras caminamos por el distrito\ncomercial...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un día, mientras caminamos por el distrito\ncomercial..."
     },
     {
       "name": "Matikanetannhauser",
@@ -45,20 +45,20 @@
       "text": "Dame un minuto. ¡Voy a ir a comprar!"
     },
     {
-      "text": "Matikanetannhauser regresa apresurada un poco más\ntarde con un boleto de rifa en la mano y le da una\nbuena vuelta a la máquina de rifa!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Matikanetannhauser regresa apresurada un poco más\ntarde con un boleto de rifa en la mano y le da una\nbuena vuelta a la máquina de rifa!"
     },
     {
-      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
     },
     {
       "name": "Empleado de Rifa",
       "text": "¡Santo cielo! ¡Tenemos un ganador del gran premio!\n¡Ven a recoger el cupón para tus vacaciones en\naguas termales! ¡Felicitaciones!"
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Matikanetannhauser",
@@ -87,12 +87,12 @@
       "text": "¡A las aguas termales, tonta! Estamos un poco\nocupados ahora, pero ¿qué tal si vamos una vez que\nlas cosas se calmen un poco?"
     },
     {
+      "name": "Monólogo",
       "text": "Ahora que lo pienso, el premio es un cupón para\ndos. Pero aún así...",
       "choice_data_list": [
         "¿Seguro que quieres ir <i>conmigo?</i>",
         "¿Seguro que quieres ir <i>conmigo?</i>"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -137,16 +137,16 @@
       "text": "¡Ups! Empezó a sonar como un título de película\nasí que se me escapó."
     },
     {
-      "text": "Dejando las películas a un lado, ¡ahora tenemos\nuna cosa más que esperar!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Dejando las películas a un lado, ¡ahora tenemos\nuna cosa más que esperar!"
     },
     {
       "name": "Empleado de Rifa",
       "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Matikanetannhauser",
@@ -173,8 +173,8 @@
       "text": "Hablando de eso... ¿te importa si pasamos por la\ntienda de comestibles de regreso?"
     },
     {
-      "text": "Después de eso, ¡Matikanetannhauser prepara una\ncena que se ve deliciosa para nosotros!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después de eso, ¡Matikanetannhauser prepara una\ncena que se ve deliciosa para nosotros!"
     },
     {
       "name": "Matikanetannhauser",
@@ -196,16 +196,16 @@
       "text": "También picé algunos puerros y hojas de perilla.\nEspera, déjame traerlos."
     },
     {
-      "text": "Dejando a un lado la extraña combinación, toda la\ncomida queda deliciosa, y tenemos una gran cena\njuntos.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Dejando a un lado la extraña combinación, toda la\ncomida queda deliciosa, y tenemos una gran cena\njuntos."
     },
     {
       "name": "Empleado de Rifa",
       "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te llevas a casa un haz de zanahorias!"
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Matikanetannhauser",
@@ -240,16 +240,16 @@
       "text": "¡Espera un minuto! ¿Por qué estamos interpretando\nroles?!"
     },
     {
-      "text": "Después escucho que su dormitorio estuvo más\nanimado de lo normal esa noche.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después escucho que su dormitorio estuvo más\nanimado de lo normal esa noche."
     },
     {
       "name": "Empleado de Rifa",
       "text": "¡Mira nada más! ¡Has ganado el tercer premio!\n¡Aquí tienes tu zanahoria!"
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Matikanetannhauser",
@@ -276,16 +276,16 @@
       "text": "¿Hola, mamá?"
     },
     {
-      "text": "Después, ella me hace su famosa bardana salteada\nusando la zanahoria y algo de raíz de bardana.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después, ella me hace su famosa bardana salteada\nusando la zanahoria y algo de raíz de bardana."
     },
     {
       "name": "Empleado de Rifa",
       "text": "¡Oh, qué mala suerte! ¡Parece que sacaste una\nvacía! Toma este paquete de pañuelos como premio\nde consolación."
     },
     {
-      "text": "Obtuviste: <itemname>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>"
     },
     {
       "name": "Matikanetannhauser",
@@ -300,8 +300,8 @@
       "text": "Supongo que la vida a veces no es justa..."
     },
     {
-      "text": "Matikanetannhauser está un poco desanimada por un\ntiempo después.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Matikanetannhauser está un poco desanimada por un\ntiempo después."
     }
   ]
 }

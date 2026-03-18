@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Además de sus sesiones de madrugada, Kitasan Black\nha estado dedicando cada minuto de su tiempo libre\nal entrenamiento.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Además de sus sesiones de madrugada, Kitasan Black\nha estado dedicando cada minuto de su tiempo libre\nal entrenamiento."
     },
     {
       "name": "Kitasan Black",
@@ -21,23 +21,23 @@
       "text": "Haaaaah!"
     },
     {
-      "text": "Kita sale corriendo con una velocidad tremenda.\nDebajo de su actitud entusiasta, también puedo\nsentir un toque de desesperación.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Kita sale corriendo con una velocidad tremenda.\nDebajo de su actitud entusiasta, también puedo\nsentir un toque de desesperación."
     },
     {
-      "text": "\"No desperdiciaré ni un segundo de tu tiempo\",\nhuh.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "\"No desperdiciaré ni un segundo de tu tiempo\",\nhuh."
     },
     {
+      "name": "Monólogo",
       "text": "...Quizás el programa de entrenamiento que creé\npara ella terminó contraproducente y ejerciendo\npresión sobre ella en su lugar.",
       "choice_data_list": [
         "(No puedo dejar que las cosas se queden así...)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "No quiero que se sienta presionada a correr.\nQuiero que mejore lentamente pero seguramente,\ncorriendo de la manera que mejor se adapte a ella.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No quiero que se sienta presionada a correr.\nQuiero que mejore lentamente pero seguramente,\ncorriendo de la manera que mejor se adapte a ella."
     },
     {
       "name": "Kitasan Black",
@@ -71,8 +71,8 @@
       "text": "¡Como <i>pum</i>—relajación! ¡Déjalo <i>todo</i> en mis manos!"
     },
     {
-      "text": "Empiezo a preguntarme si Kita sabe relajarse.\nDejando eso de lado, los dos hacemos planes para\nir a ver las hojas de otoño mañana.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Empiezo a preguntarme si Kita sabe relajarse.\nDejando eso de lado, los dos hacemos planes para\nir a ver las hojas de otoño mañana."
     },
     {
       "name": "Kitasan Black",
@@ -161,8 +161,8 @@
       "text": "¿Lo ves, Entrenador? Justo en esa colina..."
     },
     {
-      "text": "Parece que ir a ver las hojas otoñales realmente\ndio un buen cambio de ritmo. Dicho esto, a veces\nes difícil seguirle el ritmo a la energía tan\nentusiasta de Kita.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Parece que ir a ver las hojas otoñales realmente\ndio un buen cambio de ritmo. Dicho esto, a veces\nes difícil seguirle el ritmo a la energía tan\nentusiasta de Kita."
     },
     {
       "name": "Kitasan Black",
@@ -187,11 +187,11 @@
       "text": "Y antes de siquiera llegar aquí... Sabes, um... Te\nhice ayudar a esa gente."
     },
     {
+      "name": "Monólogo",
       "text": "Como ya estaba allí, solo tenía sentido que\nayudara donde pudiera. Sin mencionar que...",
       "choice_data_list": [
         "Fui feliz de poder ayudar."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",

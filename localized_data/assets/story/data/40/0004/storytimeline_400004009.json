@@ -2,16 +2,16 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Después de completar nuestro entrenamiento diario,\n<chrname> y yo nos despedimos y vamos a casa.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después de completar nuestro entrenamiento diario,\n<chrname> y yo nos despedimos y vamos a casa."
     },
     {
       "name": "Trainer Kiryuin",
       "text": "¡Entrenador <username>!"
     },
     {
-      "text": "Es Aoi Kiryuin, una compañera entrenadora aquí en\nla Academia Tracen y una mujer sincera.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Es Aoi Kiryuin, una compañera entrenadora aquí en\nla Academia Tracen y una mujer sincera."
     },
     {
       "name": "Trainer Kiryuin",
@@ -21,8 +21,8 @@
       ]
     },
     {
-      "text": "Otra entrenadora de la Academia Tracen, la\nestricta pero acomplizada Riko Kashimoto, se\nacerca a nosotras con un aspecto algo agotado.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Otra entrenadora de la Academia Tracen, la\nestricta pero acomplizada Riko Kashimoto, se\nacerca a nosotras con un aspecto algo agotado."
     },
     {
       "name": "Riko Kashimoto",
@@ -120,11 +120,11 @@
       "text": "¡Entrenadora Kashimoto! ¡Por favor, no se esfuerce\ntanto!"
     },
     {
+      "name": "Monólogo",
       "text": "...",
       "choice_data_list": [
         "Así que estaban corriendo a fondo."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Ambas",
@@ -198,8 +198,8 @@
       ]
     },
     {
-      "text": "Esta noche, mientras nos deseamos suerte, renuevo\nmi fe en <chrname> y resuelvo hacer lo mejor que pueda.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Esta noche, mientras nos deseamos suerte, renuevo\nmi fe en <chrname> y resuelvo hacer lo mejor que pueda."
     }
   ]
 }

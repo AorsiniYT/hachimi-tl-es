@@ -2,16 +2,16 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "El campamento está a la mitad, y actualmente estoy\ntomando los tiempos de Sakura Chiyono O, como\nprometí que haría antes de que comenzara el\ncampamento de verano.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El campamento está a la mitad, y actualmente estoy\ntomando los tiempos de Sakura Chiyono O, como\nprometí que haría antes de que comenzara el\ncampamento de verano."
     },
     {
       "name": "Sakura Chiyono O",
       "text": "<i>Jadeo... Jadeo...</i> ¿Cuál fue... cuál fue mi tiempo?"
     },
     {
-      "text": "Miro las notas en mi tablero y comparo su tiempo\nmás reciente con los tiempos pasados que he\nregistrado para ella.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Miro las notas en mi tablero y comparo su tiempo\nmás reciente con los tiempos pasados que he\nregistrado para ella."
     },
     {
       "name": "Sakura Chiyono O",
@@ -29,8 +29,8 @@
       "text": "Ajaja... Es más difícil mejorar de lo que pensé..."
     },
     {
-      "text": "<i>Chirrido... Crujido...</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>Chirrido... Crujido...</i>"
     },
     {
       "name": "Sakura Chiyono O",
@@ -77,8 +77,8 @@
       "text": "Y en el momento en que intentara dar mi siguiente\nzancada... mis piernas me fallarían."
     },
     {
-      "text": "<i>Chirrido... Crujido!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>Chirrido... Crujido!</i>"
     },
     {
       "name": "Sakura Chiyono O",
@@ -93,20 +93,20 @@
       "text": "Ngh... No hay manera de que pueda ser su rival,\n¡no como soy ahora!"
     },
     {
+      "name": "Monólogo",
       "text": "Sakura Chiyono O y yo estamos a punto de comenzar\nel entrenamiento, pero ella tiene una expresión\ninusualmente oscura en su rostro.",
       "choice_data_list": [
         "¿Estás bien?",
         "¿Estás bien?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
       "text": "¡S-sí! No es nada que afecte el entrenamiento de\nhoy, así que no te preocupes."
     },
     {
-      "text": "¡Woooo!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Woooo!"
     },
     {
       "name": "Sakura Chiyono O",
@@ -450,8 +450,8 @@
       "text": "¡Porque no quiero perderle a mis rivales!"
     },
     {
-      "text": "La luz parpadeante de la puesta de sol arde en los\nojos de Sakura Chiyono O, brillante con esperanza\ny aceptación.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La luz parpadeante de la puesta de sol arde en los\nojos de Sakura Chiyono O, brillante con esperanza\ny aceptación."
     }
   ]
 }

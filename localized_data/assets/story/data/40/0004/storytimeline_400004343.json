@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Mientras estoy en la cafetería, veo a Taiki\nShuttle y a Seeking the Pearl.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mientras estoy en la cafetería, veo a Taiki\nShuttle y a Seeking the Pearl."
     },
     {
       "name": "Seeking the Pearl",
@@ -54,12 +54,12 @@
       "text": "Jeje, revolución. ☆"
     },
     {
+      "name": "Monólogo",
       "text": "Aunque parecen estar disfrutando a fondo su\n\"conversación\", no tengo la menor idea de qué se\ntrata...",
       "choice_data_list": [
         "Eh, ¿de qué están hablando?",
         "Eh, ¿de qué están hablando?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Seeking the Pearl",
@@ -82,8 +82,8 @@
       "text": "Me dijiste que tenías antojo de buena comida, así\nque dije: \"¡Te prepararé un asado! ☆\""
     },
     {
-      "text": "Parece que no fui el único que tuvo problemas para\nseguir la conversación...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Parece que no fui el único que tuvo problemas para\nseguir la conversación..."
     },
     {
       "name": "Seeking the Pearl",
@@ -150,8 +150,8 @@
       "text": "¡Eso lo resuelve! ¡La palabra 'panqué' se entiende\nen todo el mundo! ¡Gracias por la sugerencia!"
     },
     {
-      "text": "Aunque la lógica detrás de su conversación es\nconfusa en el mejor de los casos, tengo la\nsensación de que han dado con una idea con gran\npotencial.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Aunque la lógica detrás de su conversación es\nconfusa en el mejor de los casos, tengo la\nsensación de que han dado con una idea con gran\npotencial."
     },
     {
       "name": "Taiki Shuttle",
@@ -182,8 +182,8 @@
       "text": "¡Excelente! ¡Puedo sentir tu pasión! ¡¿Qué tal?!\nHmph!"
     },
     {
-      "text": "No estoy seguro de que esto constituya una\nconversación, pero los dos intercambian\npensamientos con energía mientras usan todo su\ncuerpo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No estoy seguro de que esto constituya una\nconversación, pero los dos intercambian\npensamientos con energía mientras usan todo su\ncuerpo."
     }
   ]
 }

@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Un día, mientras paseo por la plaza central...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un día, mientras paseo por la plaza central..."
     },
     {
       "name": "Kitasan Black",
@@ -44,22 +44,22 @@
       "text": "¡L-lo siento! ¡Estoy seguro de que sentiré mi\nmotivación subir <i>de verdad</i> la próxima vez!"
     },
     {
+      "name": "Monólogo",
       "text": "A pesar de los altos estándares que Sweep Tosho le\nexige, Kitasan Black acepta sus demandas sin\nquejarse. Me pregunto...",
       "choice_data_list": [
         "¿Te está acosando una bruja malvada?!",
         "Debes de no querer que Sweep Tosho te odie, ¿eh?",
         "Debes de no querer que Sweep Tosho te odie, ¿eh?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
+      "name": "Monólogo",
       "text": "A pesar de los altos estándares que Sweep Tosho le\nexige, Kitasan Black acepta sus demandas sin\nquejarse. Me pregunto...",
       "choice_data_list": [
         "¿Te está acosando una bruja malvada?!",
         "Debes de no querer que Sweep Tosho te odie, ¿eh?",
         "Debes de no querer que Sweep Tosho te odie, ¿eh?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -145,12 +145,12 @@
       "text": "¿Eh?! ¡Absolutamente no! ¡Y deja de seguirme!"
     },
     {
-      "text": "Y así, sigo a Kitasan Black por la escuela\nmientras ella desesperadamente persigue a una\nSweep Tosho sonrojada.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, sigo a Kitasan Black por la escuela\nmientras ella desesperadamente persigue a una\nSweep Tosho sonrojada."
     },
     {
-      "text": "Resulta ser un <i>largo</i> trayecto, pero parece haber\ndado a Kitasan Black un poco más de resistencia.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Resulta ser un <i>largo</i> trayecto, pero parece haber\ndado a Kitasan Black un poco más de resistencia."
     },
     {
       "name": "Kitasan Black",
@@ -256,8 +256,8 @@
       "text": "Creo... que quizás funcionó un poquito. Mi corazón\naún se siente agradable y cálido."
     },
     {
-      "text": "Kitasan Black sonríe tímidamente.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Kitasan Black sonríe tímidamente."
     }
   ]
 }

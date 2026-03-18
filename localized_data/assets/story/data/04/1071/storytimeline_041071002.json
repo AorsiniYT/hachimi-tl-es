@@ -10,12 +10,12 @@
       "text": "Uf... <i>Jadeo, jadeo...</i> Tres series completadas...\nCreo que esa cantidad de peso debería bastar..."
     },
     {
-      "text": "Observo desde un lado mientras Mejiro Ardan hace\nsu entrenamiento. Es de intensidad ligera, y es\nevidente que va tomando las cosas con calma.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Observo desde un lado mientras Mejiro Ardan hace\nsu entrenamiento. Es de intensidad ligera, y es\nevidente que va tomando las cosas con calma."
     },
     {
-      "text": "Entre cada ejercicio, la veo sacar una tableta y\ndeslizar la pantalla. Me pregunto qué estará\nhaciendo...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Entre cada ejercicio, la veo sacar una tableta y\ndeslizar la pantalla. Me pregunto qué estará\nhaciendo..."
     },
     {
       "name": "Estudiante A",
@@ -50,15 +50,15 @@
       "text": "De acuerdo. Forzarla a esforzarse también sería\npeligroso... Ella simplemente no está hecha para\nla pista de carreras."
     },
     {
+      "name": "Monólogo",
       "text": "Parece que Tazuna tenía razón. Los entrenadores\nobviamente no creen que Ardan tenga lo necesario\npara ser una corredora.",
       "choice_data_list": [
         "(¿Pero qué piensa Ardan?)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Con ese pensamiento, decido seguir a Mejiro Ardan\nfuera del gimnasio, con la esperanza de hablar con\nella.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con ese pensamiento, decido seguir a Mejiro Ardan\nfuera del gimnasio, con la esperanza de hablar con\nella."
     },
     {
       "name": "Mejiro Ardan",
@@ -73,8 +73,8 @@
       ]
     },
     {
-      "text": "Mientras Mejiro Ardan cae al suelo, corro a su\nlado, sosteniéndola.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mientras Mejiro Ardan cae al suelo, corro a su\nlado, sosteniéndola."
     },
     {
       "name": "Mejiro Ardan",
@@ -88,23 +88,23 @@
       "text": "Jeje, supongo que trabajé un poco demasiado. Solo\nme dieron de alta ayer—¿oh? ¿Dónde está mi\ntableta?"
     },
     {
+      "name": "Monólogo",
       "text": "Escaneo el área a mi alrededor, y mis ojos caen en\nun objeto cuadrado justo junto a mis pies—la misma\ntableta que vi a Ardan mirando en el gimnasio.",
       "choice_data_list": [
         "¡Aquí está!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Mientras tomo la tableta en mis manos, la pantalla\nse ilumina, y me quedo asombrada por lo que veo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mientras tomo la tableta en mis manos, la pantalla\nse ilumina, y me quedo asombrada por lo que veo."
     },
     {
-      "text": "Mostrando en la pantalla hay una hoja de cálculo.\nDebajo de cada ejercicio hay notas sobre el\nmétodo, repeticiones, series, peso usado, así como\nsu tempo...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mostrando en la pantalla hay una hoja de cálculo.\nDebajo de cada ejercicio hay notas sobre el\nmétodo, repeticiones, series, peso usado, así como\nsu tempo..."
     },
     {
-      "text": "Incluso a simple vista, es evidente... Ella está\ndecidida a ver hasta dónde puede llegar.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Incluso a simple vista, es evidente... Ella está\ndecidida a ver hasta dónde puede llegar."
     },
     {
       "name": "Mejiro Ardan",
@@ -115,18 +115,18 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "Mejiro Ardan recupera su tableta antes de\nmarcharse. En mi aturdimiento, yo completamente\nolvidé que quería hablar con ella. En cambio, solo\nmiro cómo se va.",
       "choice_data_list": [
         "Ella está... maximizando sus resultados."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
+      "name": "Monólogo",
       "text": "Incluso los ejercicios estándar llevan su cuerpo\nal límite, pero eso no la detiene de intentarlo.\nEsa hoja de cálculo debe ser solo el principio de\nsu determinación.",
       "choice_data_list": [
         "Mejiro Ardan... Guau."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -136,8 +136,8 @@
       ]
     },
     {
-      "text": "Varios días pasan hasta que veo a Mejiro Ardan de\nnuevo, donde la encuentro parada frente a una muy\npreocupada Tazuna.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Varios días pasan hasta que veo a Mejiro Ardan de\nnuevo, donde la encuentro parada frente a una muy\npreocupada Tazuna."
     },
     {
       "name": "Mejiro Ardan",
@@ -151,8 +151,8 @@
       ]
     },
     {
-      "text": "No puedo creer mis oídos. He investigado las\naptitudes de Mejiro Ardan, y lo que estoy\nescuchando no—",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No puedo creer mis oídos. He investigado las\naptitudes de Mejiro Ardan, y lo que estoy\nescuchando no—"
     },
     {
       "name": "Tazuna Hayakawa",

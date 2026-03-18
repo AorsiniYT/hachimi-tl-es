@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Con el Satsuki Sho detrás de nosotros,\nentrenaremos incluso más duro que nunca en\npreparación para el Japanese Derby.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con el Satsuki Sho detrás de nosotros,\nentrenaremos incluso más duro que nunca en\npreparación para el Japanese Derby."
     },
     {
       "name": "Matikanetannhauser",
@@ -22,12 +22,12 @@
       "text": "¿Podemos hacer más entrenamiento para aumentar mi\nresistencia? También necesito correr aún más por\nmi cuenta..."
     },
     {
+      "name": "Monólogo",
       "text": "Ella saca su cuaderno, y veo lo llena que está su\nrutina de entrenamiento personal.",
       "choice_data_list": [
         "Estás realmente motivada, ¿eh?",
         "Estás realmente motivada, ¿eh?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -38,8 +38,8 @@
       "text": "El Japanese Derby es una carrera de una vez en la\nvida. Necesito ser la absolutamente mejor que\npueda ser!"
     },
     {
-      "text": "Un día, mientras entrenamos, muchos reporteros se\nreúnen cerca para entrevistar a Mihono Bourbon.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un día, mientras entrenamos, muchos reporteros se\nreúnen cerca para entrevistar a Mihono Bourbon."
     },
     {
       "name": "Matikanetannhauser",
@@ -213,11 +213,11 @@
       "text": "Pero la jefatura dijo que no tenemos que\nmolestarnos con nadie más. Es Mihono Bourbon de la\nque todos quieren leer..."
     },
     {
+      "name": "Monólogo",
       "text": "Parecen estar demasiado absortos en su trabajo\npara darse cuenta de que la Umamusume justo frente\na ellos también está corriendo en el Japanese\nDerby.",
       "choice_data_list": [
         "(Como su entrenador, no puedo quedarme aquí\ncallado...)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -263,12 +263,12 @@
       "text": "Después de todo, soy igual que todos los demás.\n¡Si no es el primer lugar, no lo necesito!"
     },
     {
-      "text": "Ella tiene la misma aire gentil que siempre, pero\nhay una pasión inconfundible en sus palabras.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella tiene la misma aire gentil que siempre, pero\nhay una pasión inconfundible en sus palabras."
     },
     {
-      "text": "Unas horas después, vemos al reportero con los\ngafas redondos pareciendo conmovido.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Unas horas después, vemos al reportero con los\ngafas redondos pareciendo conmovido."
     },
     {
       "name": "Reportero con Anteojos",
@@ -282,8 +282,8 @@
       ]
     },
     {
-      "text": "El Japanese Derby está casi aquí.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El Japanese Derby está casi aquí."
     }
   ]
 }

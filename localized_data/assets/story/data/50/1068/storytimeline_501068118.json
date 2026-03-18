@@ -10,8 +10,8 @@
       "text": "¡Incluso si no tuve momentos llamativos que me\ndiferenciaran, aún así pude empujarme a mis\nlímites!"
     },
     {
-      "text": "<i>¡Wooooosh!</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>¡Wooooosh!</i>"
     },
     {
       "name": "Kitasan Black",
@@ -33,8 +33,8 @@
       "text": "¿¡Estás bien?! ¿Necesitas un ánimo o tres?! ¡Aquí\ntienes algo de agua!"
     },
     {
-      "text": "Salgo corriendo a encontrarme con Kitasan Black,\nque se ve absolutamente aplastada por la fatiga.\nVoces detrás de mí captan mi atención.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Salgo corriendo a encontrarme con Kitasan Black,\nque se ve absolutamente aplastada por la fatiga.\nVoces detrás de mí captan mi atención."
     },
     {
       "name": "Espectador A",
@@ -45,12 +45,12 @@
       "text": "Probablemente sea la distancia que corrió. Muchas\nUmamusume terminan así después de correr el\nDerby..."
     },
     {
+      "name": "Monólogo",
       "text": "A Kitasan Black le toma bastante tiempo\nrecuperarse lo suficiente para hablar normalmente.",
       "choice_data_list": [
         "¿Te sientes mejor?",
         "¿Te sientes mejor?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -61,24 +61,24 @@
       "text": "¿El Derby es simplemente así de intenso? ¿O estoy\nasí de cansada por otra cosa?"
     },
     {
+      "name": "Monólogo",
       "text": "Después de alguna deliberación, decido contarle\nsobre la conversación que escuché y me preocupa.",
       "choice_data_list": [
         "Alguien dijo que la distancia de la carrera podría\nser el problema.",
         "Alguien dijo que la distancia de la carrera podría\nser el problema."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
       "text": "Distancia... ¿Estás diciendo que 2.400 metros es\ndemasiado para mí?"
     },
     {
-      "text": "No puedo decir con certeza si eso es cierto. Hoy\nes la primera vez que corre en una carrera G1 tan\nlarga.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No puedo decir con certeza si eso es cierto. Hoy\nes la primera vez que corre en una carrera G1 tan\nlarga."
     },
     {
-      "text": "Como su entrenador, estaba seguro de que podía\nmanejar largas distancias, pero después de verla\ncorrer hoy, ya no puedo decirlo con certeza.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Como su entrenador, estaba seguro de que podía\nmanejar largas distancias, pero después de verla\ncorrer hoy, ya no puedo decirlo con certeza."
     },
     {
       "name": "Kitasan Black",
@@ -93,8 +93,8 @@
       "text": "¡No te preocupes, Kitasan Black! ¡No hay nada de\nqué preocuparse!"
     },
     {
-      "text": "Sakura Bakushin O, que ha estado escuchando\nnuestra conversación todo el tiempo, se inserta en\nla conversación, llena de confianza.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O, que ha estado escuchando\nnuestra conversación todo el tiempo, se inserta en\nla conversación, llena de confianza."
     },
     {
       "name": "Sakura Bakushin O",
@@ -116,12 +116,12 @@
       ]
     },
     {
-      "text": "Hasta donde sé, Sakura Bakushin O es una\nespecialista en sprints que ha tenido muchas\ngrandes actuaciones en sprints G1.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Hasta donde sé, Sakura Bakushin O es una\nespecialista en sprints que ha tenido muchas\ngrandes actuaciones en sprints G1."
     },
     {
-      "text": "Dicho esto, nunca he escuchado a nadie agrupar\ntres sprints de 1.200 metros en una carrera de\nlarga distancia de 3.600 metros... Eso simplemente\nno es un razonamiento sólido.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Dicho esto, nunca he escuchado a nadie agrupar\ntres sprints de 1.200 metros en una carrera de\nlarga distancia de 3.600 metros... Eso simplemente\nno es un razonamiento sólido."
     },
     {
       "name": "Kitasan Black",
@@ -131,12 +131,12 @@
       ]
     },
     {
-      "text": "Suavemente intento evitar que Kitasan Black se\ntome la palabra de Sakura Bakushin O al pie de la\nletra.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Suavemente intento evitar que Kitasan Black se\ntome la palabra de Sakura Bakushin O al pie de la\nletra."
     },
     {
-      "text": "Aptitud para distancias aparte, no hay mucho que\npodamos hacer aparte de observar cómo se\ndesarrollan las cosas en la pista de aquí en\nadelante.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Aptitud para distancias aparte, no hay mucho que\npodamos hacer aparte de observar cómo se\ndesarrollan las cosas en la pista de aquí en\nadelante."
     },
     {
       "name": "Kitasan Black",

@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Monólogo",
       "text": "Es el día antes del final del campamento de\nverano, y acabo de despedir a una exhausta Sakura\nChiyono O.",
       "choice_data_list": [
         "(¿Hm? ¿Esos dos son quienes creo que son?)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -85,12 +85,12 @@
       "text": "Todos pueden ver que hace mucho que pasé mi mejor\nmomento."
     },
     {
-      "text": "Y luego, amanece.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y luego, amanece."
     },
     {
-      "text": "Con el campamento de verano atrás, las Umamusume\nestán ansiosas por recibir la temporada de otoño\nque se avecina...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con el campamento de verano atrás, las Umamusume\nestán ansiosas por recibir la temporada de otoño\nque se avecina..."
     }
   ]
 }

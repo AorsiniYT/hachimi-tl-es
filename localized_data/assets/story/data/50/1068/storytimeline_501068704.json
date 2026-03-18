@@ -68,11 +68,11 @@
       "text": "¡Entrenador, tenemos que salir de aquí! ¡RÁPIDO!\n¡AHORA! ¡VAMOS!"
     },
     {
+      "name": "Monólogo",
       "text": "Me giro para correr, pero al hacerlo, siento que\nmi cuerpo se levanta del suelo...",
       "choice_data_list": [
         "¿¡Qué?!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -94,8 +94,8 @@
       "text": "¡Ahaja! ¡Perdón! No puedo creer que solo te\ncargara como un saco de arroz... ¡Jejeje...\nJajaja!"
     },
     {
-      "text": "Después, Kitasan Black y yo revisamos el resto del\nfestival y la noche pasa en un abrir y cerrar de\nojos...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después, Kitasan Black y yo revisamos el resto del\nfestival y la noche pasa en un abrir y cerrar de\nojos..."
     },
     {
       "name": "Kitasan Black",
@@ -242,8 +242,8 @@
       "text": "¡YEAAAH!"
     },
     {
-      "text": "Todos levantan los puños en el aire. La pasión y\nla unidad que muestran la noche antes del festival\nes una vista bastante conmovedora.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Todos levantan los puños en el aire. La pasión y\nla unidad que muestran la noche antes del festival\nes una vista bastante conmovedora."
     },
     {
       "name": "Kitasan Black",
@@ -273,8 +273,8 @@
       "text": "Así que, eh, te agradecería mucho si pudieras\nquedarte conmigo hasta que logre conquistar mi\nmiedo!"
     },
     {
-      "text": "Su personalidad honesta provoca risas cálidas de\nquienes la rodean. Y siento que acabo de descubrir\notra razón más por la que todos la quieren tanto.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Su personalidad honesta provoca risas cálidas de\nquienes la rodean. Y siento que acabo de descubrir\notra razón más por la que todos la quieren tanto."
     }
   ]
 }

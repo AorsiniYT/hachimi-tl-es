@@ -2,23 +2,23 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Voy a la tienda de artículos deportivos a hacer\ncompras y veo a dos estudiantes de Tracen\nrevisando los estantes.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Voy a la tienda de artículos deportivos a hacer\ncompras y veo a dos estudiantes de Tracen\nrevisando los estantes."
     },
     {
-      "text": "Una de ellas es Little Cocon. Siempre fría con un\naire de cinismo, tiene un poco de lengua afilada.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Una de ellas es Little Cocon. Siempre fría con un\naire de cinismo, tiene un poco de lengua afilada."
     },
     {
-      "text": "La otra es Bitter Glasse, una corredora muy\ncompetitiva que alardea de fuerza sobrenatural y\ndisfruta de entrenamientos duros.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La otra es Bitter Glasse, una corredora muy\ncompetitiva que alardea de fuerza sobrenatural y\ndisfruta de entrenamientos duros."
     },
     {
+      "name": "Monólogo",
       "text": "Ambas están bajo la tutela de mi colega la\nEntrenadora Kashimoto. Aunque nunca consideré que\nninguna de ellas fuera del tipo sociable...",
       "choice_data_list": [
         "Hola."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Little Cocon",
@@ -41,12 +41,12 @@
       "text": "Tranquila, Little Cocon... Hoy vinimos a\nintercambiar información."
     },
     {
-      "text": "Little Cocon se aleja fríamente mientras Bitter\nGlasse me explica la situación.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Little Cocon se aleja fríamente mientras Bitter\nGlasse me explica la situación."
     },
     {
-      "text": "Están compartiendo opiniones sobre el equipo que\nhan estado usando para sugerir mejores opciones a\nla Entrenadora Kashimoto.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Están compartiendo opiniones sobre el equipo que\nhan estado usando para sugerir mejores opciones a\nla Entrenadora Kashimoto."
     },
     {
       "name": "Little Cocon",
@@ -99,8 +99,8 @@
       ]
     },
     {
-      "text": "Mientras reflexiono sobre lo que ambas dijeron,\ndecido volver a la academia.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mientras reflexiono sobre lo que ambas dijeron,\ndecido volver a la academia."
     },
     {
       "name": "Happy Meek",
@@ -111,15 +111,15 @@
       "text": "Phew..."
     },
     {
-      "text": "Es tarde, y la única estudiante aún entrenando es\nHappy Meek, la aprendiz de mi colega la\nEntrenadora Kiryuin.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Es tarde, y la única estudiante aún entrenando es\nHappy Meek, la aprendiz de mi colega la\nEntrenadora Kiryuin."
     },
     {
+      "name": "Monólogo",
       "text": "Happy Meek nunca dice mucho, y su expresión vacía\nhace parecer que siempre está distraída, pero su\nvínculo con la Entrenadora Kiryuin es profundo.",
       "choice_data_list": [
         "Buenas noches."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Happy Meek",
@@ -174,34 +174,34 @@
       "text": "Me voy a dar otra vuelta... Woo."
     },
     {
+      "name": "Monólogo",
       "text": "Algo de lo que dijo Happy Meek pesa en mi mente,\nasí que voy a mi oficina.",
       "choice_data_list": [
         "Las luces están encendidas..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Happy Meek",
       "text": "Además... tu compañera también estaba trabajando\nduro..."
     },
     {
-      "text": "¿Podría <chrname> también estar tratando de idear un plan\npara su tercer año?",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¿Podría <chrname> también estar tratando de idear un plan\npara su tercer año?"
     },
     {
+      "name": "Monólogo",
       "text": "En mi oficina, encuentro...",
       "choice_data_list": [
         "<chrname>!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Pasamos un tiempo juntos discutiendo una variedad\nde temas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Pasamos un tiempo juntos discutiendo una variedad\nde temas."
     },
     {
-      "text": "¡Los eventos de esta noche me han ayudado a darme\ncuenta de la fuerza de mi vínculo con <chrname>!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Los eventos de esta noche me han ayudado a darme\ncuenta de la fuerza de mi vínculo con <chrname>!"
     }
   ]
 }

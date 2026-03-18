@@ -2,16 +2,16 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Unos días después de que Admire Vega se desmayara\nen el bosque...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Unos días después de que Admire Vega se desmayara\nen el bosque..."
     },
     {
+      "name": "Monólogo",
       "text": "Se somete a un examen comprehensivo, solo para\nestar seguros. Los resultados no muestran\nanomalías en su pierna ni en ninguna otra parte,\nlo que le permite recibir el alta hospitalaria.",
       "choice_data_list": [
         "¿Todo listo, Ayabe?",
         "¿Todo listo, Ayabe?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -22,28 +22,28 @@
       "text": "...Sí."
     },
     {
+      "name": "Monólogo",
       "text": "Su débil respuesta me duele el corazón. Para ser\nhonesto, se siente como...",
       "choice_data_list": [
         "(es una cáscara vacía de sí misma.)",
         "(es una cáscara vacía de sí misma.)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Ella no dice una palabra, y yo no puedo reunir el\nvalor para hablar. Salimos del hospital en un\nsilencio ensordecedor.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella no dice una palabra, y yo no puedo reunir el\nvalor para hablar. Salimos del hospital en un\nsilencio ensordecedor."
     },
     {
-      "text": "Pero como era de esperar...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Pero como era de esperar..."
     },
     {
       "name": "T.M. Opera O",
       "text": "Haaah ha ha ha!"
     },
     {
-      "text": "No importa cuándo, dónde o cuál sea la\nsituación—la risa del Overlord es tan bulliciosa\ncomo siempre.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No importa cuándo, dónde o cuál sea la\nsituación—la risa del Overlord es tan bulliciosa\ncomo siempre."
     },
     {
       "name": "T.M. Opera O",
@@ -69,16 +69,16 @@
       ]
     },
     {
-      "text": "Aunque no tengo idea de lo que está pasando,\npronto...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Aunque no tengo idea de lo que está pasando,\npronto..."
     },
     {
-      "text": "T.M. Opera O nos lleva a la playa de\nnoche—bastante tarde, de hecho.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "T.M. Opera O nos lleva a la playa de\nnoche—bastante tarde, de hecho."
     },
     {
-      "text": "Y lo que es más...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y lo que es más..."
     },
     {
       "name": "Narita Top Road",
@@ -133,24 +133,24 @@
       "text": "But..."
     },
     {
-      "text": "Hay algo que quiere decir, pero en su lugar se\nsienta en la arena en silencio.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Hay algo que quiere decir, pero en su lugar se\nsienta en la arena en silencio."
     },
     {
-      "text": "Escucho... a las olas estrellándose en la orilla,\na la respiración de T.M. Opera O después de volver\na quedarse dormida, y a las voces de los otros\ncharlando tranquilamente.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Escucho... a las olas estrellándose en la orilla,\na la respiración de T.M. Opera O después de volver\na quedarse dormida, y a las voces de los otros\ncharlando tranquilamente."
     },
     {
-      "text": "Me siento allí por lo que parece una vida entera y\nsin embargo... antes de darme cuenta, ha\nterminado.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Me siento allí por lo que parece una vida entera y\nsin embargo... antes de darme cuenta, ha\nterminado."
     },
     {
-      "text": "Uno a uno, las estrellas que iluminan la noche\ndesaparecen.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Uno a uno, las estrellas que iluminan la noche\ndesaparecen."
     },
     {
-      "text": "Y el cielo lentamente comienza a aclararse.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y el cielo lentamente comienza a aclararse."
     },
     {
       "name": "T.M. Opera O",
@@ -193,12 +193,12 @@
       "text": "¿Eh? ¡E-espera!"
     },
     {
-      "text": "De manera algo poco característica, Narita Top\nRoad comienza a correr sin esperar una respuesta.\nAdmire Vega sale para unirse a ella.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "De manera algo poco característica, Narita Top\nRoad comienza a correr sin esperar una respuesta.\nAdmire Vega sale para unirse a ella."
     },
     {
-      "text": "Con el sonido de las olas ahora apaciguado en esta\nmañana temprana, todo lo que se puede escuchar son\nsus pasos corriendo a lo largo de la orilla.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con el sonido de las olas ahora apaciguado en esta\nmañana temprana, todo lo que se puede escuchar son\nsus pasos corriendo a lo largo de la orilla."
     },
     {
       "name": "Narita Top Road",
@@ -293,20 +293,20 @@
       "text": "¡Corramos juntos hasta que el cielo esté azul\nclaro!"
     },
     {
-      "text": "Admire Vega sale una vez más. Corre y corre y\ncorre...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Admire Vega sale una vez más. Corre y corre y\ncorre..."
     },
     {
-      "text": "Ambas corren hasta que están agotadas y se quedan\ndormidas, exhaustas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ambas corren hasta que están agotadas y se quedan\ndormidas, exhaustas."
     },
     {
-      "text": "Para cuando los cuatro entran en un taxi y vuelven\na la escuela, ya es mediodía.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Para cuando los cuatro entran en un taxi y vuelven\na la escuela, ya es mediodía."
     },
     {
-      "text": "Entrecerrando los ojos ante la luz deslumbrante\ndel sol, Admire Vega finalmente habla.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Entrecerrando los ojos ante la luz deslumbrante\ndel sol, Admire Vega finalmente habla."
     },
     {
       "name": "Admire Vega",
@@ -332,43 +332,43 @@
       "text": "P-pero..."
     },
     {
-      "text": "La miro, incapaz de decidirse, y pienso para mí\nmisma lo amable que realmente es como hermana.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La miro, incapaz de decidirse, y pienso para mí\nmisma lo amable que realmente es como hermana."
     },
     {
-      "text": "Ella tiene miedo, y con razón. Ella entiende que\nnuestros corazones y pensamientos son los hilos\nfinales que mantienen a los que han fallecido\nconectados a este mundo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella tiene miedo, y con razón. Ella entiende que\nnuestros corazones y pensamientos son los hilos\nfinales que mantienen a los que han fallecido\nconectados a este mundo."
     },
     {
-      "text": "Ella está preocupada de que si empieza a correr\npara sí misma y olvida a su hermana...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella está preocupada de que si empieza a correr\npara sí misma y olvida a su hermana..."
     },
     {
-      "text": "Entonces un día, junto con su memoria, su hermana\npueda desaparecer para siempre.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Entonces un día, junto con su memoria, su hermana\npueda desaparecer para siempre."
     },
     {
+      "name": "Monólogo",
       "text": "Lo que solo significa...",
       "choice_data_list": [
         "Corramos para hacer que tu hermana se sienta\norgullosa."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
       "text": "Huh?"
     },
     {
-      "text": "Explico que muy probablemente, ella ya lo ha\nhecho. Después de todo, Admire Vega ha corrido en\nla Triple Corona Clásica, el Grand Prix, y varias\notras carreras de mayores.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Explico que muy probablemente, ella ya lo ha\nhecho. Después de todo, Admire Vega ha corrido en\nla Triple Corona Clásica, el Grand Prix, y varias\notras carreras de mayores."
     },
     {
+      "name": "Monólogo",
       "text": "Sé que si tuviera una hermana así...",
       "choice_data_list": [
         "Estaría inmensamente orgulloso.",
         "Estaría inmensamente orgulloso."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -411,16 +411,16 @@
       ]
     },
     {
-      "text": "Asiento rápidamente con la cabeza. Las lágrimas\nque se acumulan en mis ojos empiezan a derramarse,\ny rápidamente las limpio.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Asiento rápidamente con la cabeza. Las lágrimas\nque se acumulan en mis ojos empiezan a derramarse,\ny rápidamente las limpio."
     },
     {
-      "text": "Admire Vega ríe de manera extraña.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Admire Vega ríe de manera extraña."
     },
     {
-      "text": "Y bajo la luz radiante del día, ella sonríe.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y bajo la luz radiante del día, ella sonríe."
     }
   ]
 }

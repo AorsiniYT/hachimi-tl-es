@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Con la próxima carrera de Ardan a la vuelta de la\nesquina, ella y yo pasamos nuestros días\nentrenando.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con la próxima carrera de Ardan a la vuelta de la\nesquina, ella y yo pasamos nuestros días\nentrenando."
     },
     {
       "name": "Mejiro Ardan",
@@ -22,20 +22,20 @@
       "text": "Gracias. Ahora entonces... volveré a la práctica."
     },
     {
+      "name": "Monólogo",
       "text": "Cuando Ardan está en modo práctica, nada puede\nsacudirla, ni siquiera los elogios.",
       "choice_data_list": [
         "Esa concentración tuya es tu arma más fuerte.",
         "Esa concentración tuya es tu arma más fuerte."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "¿Un... arma? Ah, mis disculpas. Aprecio el\ncumplido—simplemente nunca lo había pensado así."
     },
     {
-      "text": "Parece que ella no es consciente de los efectos\nque su determinación ha tenido en ella y en su\nentrenamiento.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Parece que ella no es consciente de los efectos\nque su determinación ha tenido en ella y en su\nentrenamiento."
     },
     {
       "name": "Mejiro Ardan",
@@ -54,11 +54,11 @@
       "text": "Aún deseo brillar, y estoy dispuesta a hacer lo\nque sea necesario para lograrlo."
     },
     {
+      "name": "Monólogo",
       "text": "Incluso mientras hablaba de sus propias\ncircunstancias, los ojos de Mejiro Ardan ardían\ncon una determinación silenciosa... pero firme.",
       "choice_data_list": [
         "(No quiero decepcionarla...)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -72,8 +72,8 @@
       "text": "¿Huh? ¿Cuántas vueltas van? Ella hace muchos\nejercicios... ¿Estará bien?"
     },
     {
-      "text": "Puedo escuchar la voz de las juniors ansiosas de\nArdan. Sin embargo...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Puedo escuchar la voz de las juniors ansiosas de\nArdan. Sin embargo..."
     },
     {
       "name": "Mejiro Ardan",
@@ -113,12 +113,12 @@
       "text": "Antes de mi debut, hubo veces que no pude\npracticar durante días. Me alegra saber que eso ya\nes pasado."
     },
     {
+      "name": "Monólogo",
       "text": "Con eso, nuestra reunión post-entrenamiento\ntermina en una nota optimista. Sin embargo, a\npesar de que el día terminó, la postura de Ardan\npermanece tan compuesta como siempre.",
       "choice_data_list": [
         "Puedes relajarte un poco más durante tus\ndescansos, sabes.",
         "Puedes relajarte un poco más durante tus\ndescansos, sabes."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -190,8 +190,8 @@
       ]
     },
     {
-      "text": "Mientras sonríe, siento que mi propio deseo de\nprotestar más se derrite. Parece que incluso yo no\nsoy rival para la terquedad determinada de Mejiro\nArdan.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mientras sonríe, siento que mi propio deseo de\nprotestar más se derrite. Parece que incluso yo no\nsoy rival para la terquedad determinada de Mejiro\nArdan."
     }
   ]
 }

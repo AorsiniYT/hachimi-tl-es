@@ -10,12 +10,12 @@
       "text": "¡No puede ser! ¡No hay, como, <i>nada</i>que podamos\nhacer al respecto!"
     },
     {
+      "name": "Monólogo",
       "text": "Un día salgo al techo de la academia y encuentro a\nNakayama Festa y Tosen Jordan en apuros.",
       "choice_data_list": [
         "¿Qué está pasando?",
         "¿Qué está pasando?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -75,11 +75,11 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "Tomo una galleta de Gold Ship. El sabor dulce y\nsuave acaricia mis papilas gustativas.",
       "choice_data_list": [
         "¡Está delicioso?!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -94,24 +94,24 @@
       "text": "¿¡Qué dices?! C-creo que me voy a desmayar..."
     },
     {
+      "name": "Monólogo",
       "text": "Definitivamente está pasando algo anormal aquí. Y\nnecesito averiguar qué...",
       "choice_data_list": [
         "¡Nakayama, necesito tu ayuda!",
         "¡Nakayama, necesito tu ayuda!",
         "¿Tienes alguna idea, Jordan?",
         "¿Tienes alguna idea, Jordan?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
+      "name": "Monólogo",
       "text": "Definitivamente está pasando algo anormal aquí. Y\nnecesito averiguar qué...",
       "choice_data_list": [
         "¡Nakayama, necesito tu ayuda!",
         "¡Nakayama, necesito tu ayuda!",
         "¿Tienes alguna idea, Jordan?",
         "¿Tienes alguna idea, Jordan?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -166,8 +166,8 @@
       "text": "¡Maldición!"
     },
     {
-      "text": "Nada de lo que intentamos pareció funcionar, pero\npor alguna razón inexplicable, Gold Ship volvió a\nser ella misma después de una buena noche de\nsueño.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Nada de lo que intentamos pareció funcionar, pero\npor alguna razón inexplicable, Gold Ship volvió a\nser ella misma después de una buena noche de\nsueño."
     },
     {
       "name": "Tosen Jordan",
@@ -230,8 +230,8 @@
       "text": "¿¡Qué diablos?!"
     },
     {
-      "text": "Nada de lo que intentamos pareció funcionar, pero\npor alguna razón inexplicable, Gold Ship volvió a\nser ella misma después de una buena noche de\nsueño.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Nada de lo que intentamos pareció funcionar, pero\npor alguna razón inexplicable, Gold Ship volvió a\nser ella misma después de una buena noche de\nsueño."
     }
   ]
 }

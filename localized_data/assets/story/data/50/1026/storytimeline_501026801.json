@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Monólogo",
       "text": "Es la mañana del Día Blanco, y me encuentro con\nMihono Bourbon para darle algunos malvaviscos como\nregalo de agradecimiento por San Valentín.",
       "choice_data_list": [
         "¡Hola, Bourbon! Considera esto mi agradecimiento\npor San Valentín."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -23,19 +23,19 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "<i>¡Bing-bong, bang-bong!</i>",
       "choice_data_list": [
         "Eh... Er, creo que nos vemos esta tarde."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mihono Bourbon",
       "text": "Sí..."
     },
     {
-      "text": "Eso fue extraño. Esperaba que estuviera más\nentusiasmada con el regalo. Me pregunto si algo\nanda mal.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Eso fue extraño. Esperaba que estuviera más\nentusiasmada con el regalo. Me pregunto si algo\nanda mal."
     },
     {
       "name": "Umamusume A",
@@ -50,16 +50,16 @@
       ]
     },
     {
-      "text": "¡No es de extrañar que Mihono Bourbon reaccionara\nasí! Debe haber estado muy decepcionada. ¡Tengo\nque enmendar esto de alguna manera!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡No es de extrañar que Mihono Bourbon reaccionara\nasí! Debe haber estado muy decepcionada. ¡Tengo\nque enmendar esto de alguna manera!"
     },
     {
       "name": "Mihono Bourbon",
       "text": "¿Huh? ¿Un parque de diversiones?"
     },
     {
-      "text": "Después del entrenamiento, invito a Mihono Bourbon\na un parque de diversiones como agradecimiento\nextra por su regalo de San Valentín.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después del entrenamiento, invito a Mihono Bourbon\na un parque de diversiones como agradecimiento\nextra por su regalo de San Valentín."
     },
     {
       "name": "Mihono Bourbon",
@@ -89,12 +89,12 @@
       "text": "Parece que debemos resolver un rompecabezas para\ndesbloquear este portón. Iniciando misión."
     },
     {
+      "name": "Monólogo",
       "text": "<i>¡Clatter! ¡Clatter!</i>",
       "choice_data_list": [
         "¡Aaaah!",
         "¡Aaaah!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -109,11 +109,11 @@
       "text": "¿Qué montaremos a continuación? Revisando\nregistros de atracciones que aún no hemos\nmontado..."
     },
     {
+      "name": "Monólogo",
       "text": "Parece que se está divirtiendo. ¡Qué alivio!",
       "choice_data_list": [
         "Me alegra mucho que te estés divirtiendo."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -152,8 +152,8 @@
       ]
     },
     {
-      "text": "Le digo que incluso si las palabras no se sienten\nexactamente correctas para ella, estoy seguro de\nque sus sentimientos aún se transmitirán fuerte y\nclaro.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Le digo que incluso si las palabras no se sienten\nexactamente correctas para ella, estoy seguro de\nque sus sentimientos aún se transmitirán fuerte y\nclaro."
     },
     {
       "name": "Mihono Bourbon",
@@ -179,8 +179,8 @@
       ]
     },
     {
-      "text": "Le aseguro que puedo leer su pura alegría de su\nexpresión y estado de ánimo general.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Le aseguro que puedo leer su pura alegría de su\nexpresión y estado de ánimo general."
     },
     {
       "name": "Mihono Bourbon",
@@ -201,12 +201,12 @@
       ]
     },
     {
-      "text": "Intento reordenar palabras y frases de un millón\nde formas hasta que Mihono Bourbon esté\nsatisfecha. Me hace darme cuenta de lo feliz que\nrealmente es.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Intento reordenar palabras y frases de un millón\nde formas hasta que Mihono Bourbon esté\nsatisfecha. Me hace darme cuenta de lo feliz que\nrealmente es."
     },
     {
-      "text": "Si sus sentimientos no pueden expresarse con\npalabras, quizás pueda usar su lenguaje corporal\npara aclarar las cosas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Si sus sentimientos no pueden expresarse con\npalabras, quizás pueda usar su lenguaje corporal\npara aclarar las cosas."
     },
     {
       "name": "Mihono Bourbon",
@@ -217,12 +217,12 @@
       "text": "..."
     },
     {
+      "name": "Monólogo",
       "text": "Ella empieza a hacer un baile extraño.",
       "choice_data_list": [
         "¿Eso es... un baile de alegría?",
         "¿Eso es... un baile de alegría?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -245,16 +245,16 @@
       ]
     },
     {
-      "text": "Es un poco vergonzoso, pero acepto hacerlo por\nella. Ambas comenzamos a bailar al unísono.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Es un poco vergonzoso, pero acepto hacerlo por\nella. Ambas comenzamos a bailar al unísono."
     },
     {
       "name": "Mihono Bourbon",
       "text": "¿Mis sentimientos se están transmitiendo\ncorrectamente?"
     },
     {
-      "text": "Mihono Bourbon me mira con tanto calor en sus ojos\nque se siente como si vislumbrara directamente su\ncorazón.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mihono Bourbon me mira con tanto calor en sus ojos\nque se siente como si vislumbrara directamente su\ncorazón."
     }
   ]
 }

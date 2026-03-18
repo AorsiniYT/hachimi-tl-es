@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Unos días después de la carrera debut de Mejiro\nArdan, la voy a visitar mientras se recupera en la\ncasa de descanso de su familia.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Unos días después de la carrera debut de Mejiro\nArdan, la voy a visitar mientras se recupera en la\ncasa de descanso de su familia."
     },
     {
       "name": "Nanny",
@@ -17,8 +17,8 @@
       "text": "Presumo que está aquí para ver a Señorita Ardan.\nPermítame mostrarle el camino."
     },
     {
-      "text": "Sigo a la niñera de Mejiro Ardan y, a corta\ndistancia de la casa de descanso, llegamos a una\npequeña área boscosa donde Mejiro Ardan está\nrelajándose.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sigo a la niñera de Mejiro Ardan y, a corta\ndistancia de la casa de descanso, llegamos a una\npequeña área boscosa donde Mejiro Ardan está\nrelajándose."
     },
     {
       "name": "Mejiro Ardan",
@@ -44,8 +44,8 @@
       "text": "Deseo hablar contigo en privado."
     },
     {
-      "text": "Mejiro Ardan me lleva a un claro elevado en una\npequeña colina más allá del bosque.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mejiro Ardan me lleva a un claro elevado en una\npequeña colina más allá del bosque."
     },
     {
       "name": "Mejiro Ardan",
@@ -116,20 +116,20 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "Mejiro Ardan me mira como si estuviera pensando\nalgo. Ya he decidido cómo voy a responder a su\npregunta.",
       "choice_data_list": [
         "Me gustaría mostrarte algo.",
         "Me gustaría mostrarte algo."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "¿Tienes... algo que mostrarme?"
     },
     {
-      "text": "Sacó mi tableta y se la entrego a Mejiro Ardan.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sacó mi tableta y se la entrego a Mejiro Ardan."
     },
     {
       "name": "Mejiro Ardan",
@@ -148,56 +148,56 @@
       "text": "...!"
     },
     {
-      "text": "La tableta que le mostré a Mejiro Ardan contiene\nun montón de agendas de carreras y planes de\nentrenamiento que he diseñado para su año júnior y\nen adelante.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La tableta que le mostré a Mejiro Ardan contiene\nun montón de agendas de carreras y planes de\nentrenamiento que he diseñado para su año júnior y\nen adelante."
     },
     {
-      "text": "Esos planes también incorporan cada escenario\nprevisible que pensé en lo que respecta a la salud\ny el bienestar de Mejiro Ardan.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Esos planes también incorporan cada escenario\nprevisible que pensé en lo que respecta a la salud\ny el bienestar de Mejiro Ardan."
     },
     {
       "name": "Mejiro Ardan",
       "text": "Entrenador... ¿Esto significa... que entendiste lo\nque intentaba decir?"
     },
     {
-      "text": "Por supuesto que sí. La forma en que me está\nponiendo a prueba con esto hablando de\nconsecuencias... Sé que solo me está alejando por\nbondad.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Por supuesto que sí. La forma en que me está\nponiendo a prueba con esto hablando de\nconsecuencias... Sé que solo me está alejando por\nbondad."
     },
     {
+      "name": "Monólogo",
       "text": "El punto es que no quiero bondad. Quiero otra\ncosa...",
       "choice_data_list": [
         "Ardan, deseo seguir siendo tu entrenador.",
         "Ardan, deseo seguir siendo tu entrenador."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "...!"
     },
     {
-      "text": "Es precisamente porque quiero seguir siendo su\nentrenador que he pensado en lo que debería hacer\nen ese rol, y lo que ella podría querer de mí.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Es precisamente porque quiero seguir siendo su\nentrenador que he pensado en lo que debería hacer\nen ese rol, y lo que ella podría querer de mí."
     },
     {
+      "name": "Monólogo",
       "text": "Decido que ahora es el momento de poner mi\nrespuesta en palabras. Como entrenador de Mejiro\nArdan...",
       "choice_data_list": [
         "No dejaré que tu luz se apague.",
         "No dejaré que tu luz se apague."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Como su entrenador, me aseguraré de proteger su\nfrágil cuerpo, para que pueda brillar en todas sus\ncarreras, ahora y para siempre.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Como su entrenador, me aseguraré de proteger su\nfrágil cuerpo, para que pueda brillar en todas sus\ncarreras, ahora y para siempre."
     },
     {
+      "name": "Monólogo",
       "text": "Y para ayudarla a ella—esta corredora que vive en\nel momento, y solo tiene ojos para el ahora...",
       "choice_data_list": [
         "Forjaré un camino hacia tu futuro.",
         "Forjaré un camino hacia tu futuro."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -259,8 +259,8 @@
       "text": "Me encantaría tenerte a mi lado mientras\ncontinuamos este viaje..."
     },
     {
-      "text": "Más tarde, Mejiro Ardan y yo vamos a hablar con su\nmédico.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Más tarde, Mejiro Ardan y yo vamos a hablar con su\nmédico."
     },
     {
       "name": "Médico Jefe",
@@ -305,8 +305,8 @@
       "text": "Jeje. Y yo también."
     },
     {
-      "text": "Después, la niñera de Mejiro Ardan conduce a los\ndos desde la casa de descanso de vuelta a la\nacademia.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después, la niñera de Mejiro Ardan conduce a los\ndos desde la casa de descanso de vuelta a la\nacademia."
     },
     {
       "name": "Mejiro Ardan",
@@ -351,8 +351,8 @@
       ]
     },
     {
-      "text": "La niñera de Mejiro Ardan hace una profunda\nreverencia al escuchar mi respuesta, luego se va\nsin pronunciar otra palabra.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La niñera de Mejiro Ardan hace una profunda\nreverencia al escuchar mi respuesta, luego se va\nsin pronunciar otra palabra."
     },
     {
       "name": "Mejiro Ardan",
@@ -386,26 +386,26 @@
       "text": "Por lo tanto, pido tu guía sobre en qué debería\nenfocarme <i>ahora,</i> Entrenador."
     },
     {
-      "text": "Al escucharla decir eso, siento como si Mejiro\nArdan... posiblemente esté depositando un poco más\nde confianza en mí de la que lo hacía antes.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Al escucharla decir eso, siento como si Mejiro\nArdan... posiblemente esté depositando un poco más\nde confianza en mí de la que lo hacía antes."
     },
     {
+      "name": "Monólogo",
       "text": "Mi determinación para apoyarla se fortalece aún\nmás—¡está poniendo su vida en mis manos!",
       "choice_data_list": [
         "Trabajemos en mejorar, poco a poco."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Lo que Mejiro Ardan necesita ahora es tanto\nexperiencia práctica como la capacidad física para\naguantar una carrera completa.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Lo que Mejiro Ardan necesita ahora es tanto\nexperiencia práctica como la capacidad física para\naguantar una carrera completa."
     },
     {
+      "name": "Monólogo",
       "text": "Durante su año júnior, planeo que continúe\nentrenando mientras acumula experiencia real de\ncarreras a un ritmo que le convenga.",
       "choice_data_list": [
         "Después de eso, podemos apuntar a un escenario más\ngrandioso para que brilles."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -416,8 +416,8 @@
       "text": "...Contaré contigo una vez más, Entrenador, a\npartir de mañana."
     },
     {
-      "text": "Con ambos completamente preparados para lo que se\navecina, Mejiro Ardan y yo damos la bienvenida a\nsu año júnior!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con ambos completamente preparados para lo que se\navecina, Mejiro Ardan y yo damos la bienvenida a\nsu año júnior!"
     }
   ]
 }

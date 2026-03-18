@@ -14,23 +14,23 @@
       "text": "¡Oh, Entrenador! ¡Qué maravilloso! ☆ ¿Te interesa\nalgo absolutamente maravilloso? ★"
     },
     {
+      "name": "Monólogo",
       "text": "Un día, después de encontrarme con Marvelous\nSunday e Ikuno Dictus, me encuentro siendo\nsaludado de manera extraña.",
       "choice_data_list": [
         "¿Qué estás haciendo?",
         "¿Qué estás haciendo?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Marvelous Sunday",
       "text": "¡Maravilloso! ☆ ¡Estamos repartiendo la\nmaravillosidad que todos aman! ¿Te interesa algo\nmaravilloso? ★"
     },
     {
+      "name": "Monólogo",
       "text": "¡Es casi como si estuviera recreando <i>La Pequeña\nVendedora de Fósforos</i>...",
       "choice_data_list": [
         "¿Tú también estás en esto, Ikuno?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Ikuno Dictus",
@@ -108,8 +108,8 @@
       "text": "¡Wow! ☆ ¡Pareces muy serio al respecto! ¡Okay,\naquí vamos! ¡Un consuelo maravilloso está en\ncamino! ★"
     },
     {
-      "text": "Al decir esto, Marvelous Sunday enciende un solo\nfósforo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Al decir esto, Marvelous Sunday enciende un solo\nfósforo."
     },
     {
       "name": "Profesor",
@@ -138,8 +138,8 @@
       "text": "Oho, son muy peludos. Jeje, aquí perrito, aquí\ngatito."
     },
     {
-      "text": "Ikuno Dictus ya se ha adaptado a la situación.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ikuno Dictus ya se ha adaptado a la situación."
     },
     {
       "name": "Profesor",
@@ -153,8 +153,8 @@
       "text": "Ahh! ☆ ¡Sé exactamente a qué te refieres! ¡Okay,\naquí vamos! ¡Un estómago maravillosamente lleno\nestá en camino! ★"
     },
     {
-      "text": "Al decir esto, Marvelous Sunday enciende un solo\nfósforo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Al decir esto, Marvelous Sunday enciende un solo\nfósforo."
     },
     {
       "name": "Profesor",
@@ -164,8 +164,8 @@
       ]
     },
     {
-      "text": "Un banquete lujoso se extiende ante nuestros ojos.\nPavo, filetes de hamburguesa de zanahoria, gratin,\npastel—todo se ve delicioso.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un banquete lujoso se extiende ante nuestros ojos.\nPavo, filetes de hamburguesa de zanahoria, gratin,\npastel—todo se ve delicioso."
     },
     {
       "name": "Ikuno Dictus",
@@ -176,8 +176,8 @@
       "text": "Mmm... El postre también es delicioso. Me\nencantaría que McQueen lo probara."
     },
     {
-      "text": "Ikuno Dictus ya se ha adaptado a la situación.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ikuno Dictus ya se ha adaptado a la situación."
     },
     {
       "name": "Profesor",
@@ -213,8 +213,8 @@
       ]
     },
     {
-      "text": "Tengo la sensación de que puede que me haya\ninvolucrado en algo que no debía—algo muy fuera de\nlo normal—pero ciertamente fue un día\nsatisfactorio.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Tengo la sensación de que puede que me haya\ninvolucrado en algo que no debía—algo muy fuera de\nlo normal—pero ciertamente fue un día\nsatisfactorio."
     }
   ]
 }

@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "El Spring Fan Fest ha llegado, y acérrimos\naficionados de todas partes han acudido a la\nAcademia Tracen para vislumbrar a las Umamusume\nactivas de este año.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El Spring Fan Fest ha llegado, y acérrimos\naficionados de todas partes han acudido a la\nAcademia Tracen para vislumbrar a las Umamusume\nactivas de este año."
     },
     {
       "name": "Anfitriona Umamusume",
@@ -70,12 +70,12 @@
       "text": "E-este lugar está lleno! ¡No puedo creer lo\npopulares que son las Tres Mejores!"
     },
     {
-      "text": "\"Las Tres Mejores\"—Oguri Cap, Inari One y Super\nCreek.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "\"Las Tres Mejores\"—Oguri Cap, Inari One y Super\nCreek."
     },
     {
-      "text": "Hábiles y poderosas, no es de extrañar que sean\npopulares, tanto aquí en el Fan Fest como en\ngeneral.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Hábiles y poderosas, no es de extrañar que sean\npopulares, tanto aquí en el Fan Fest como en\ngeneral."
     },
     {
       "name": "Sakura Chiyono O",
@@ -102,8 +102,8 @@
       "text": "Guau... Veo... Esto seguro es mucho..."
     },
     {
-      "text": "En la mesa frente a nosotros hay una montaña de\nperros calientes.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "En la mesa frente a nosotros hay una montaña de\nperros calientes."
     },
     {
       "name": "Umamusume A",
@@ -114,11 +114,11 @@
       "text": "Ooh... Ese es un buen premio..."
     },
     {
+      "name": "Monólogo",
       "text": "Sorprendida por el interés inusual de Sakura\nChiyono O, me preparo para empezar a comer perros\ncalientes.",
       "choice_data_list": [
         "Si solo son quince, supongo que podríamos superar\nel récord..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -140,8 +140,8 @@
       "text": "Probablemente pueda comer unos 150 perros\ncalientes de este tamaño, así que tú solo\nnecesitas comer diez, ¡por favor y gracias!"
     },
     {
-      "text": "El gong de inicio suena...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El gong de inicio suena..."
     },
     {
       "name": "Sakura Chiyono O",
@@ -155,12 +155,12 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "Miro a mi lado y veo que Sakura Chiyono O se ha\ndetenido. Está mirando fijamente los platos con\nuna expresión tensa.",
       "choice_data_list": [
         "¿Chiyono O? ¿Estás bien?",
         "¿Chiyono O? ¿Estás bien?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -193,12 +193,12 @@
       ]
     },
     {
-      "text": "No veo otra opción que rendirme. Le impido a\nSakura Chiyono O comer más y la llevo rápidamente\na la enfermería.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No veo otra opción que rendirme. Le impido a\nSakura Chiyono O comer más y la llevo rápidamente\na la enfermería."
     },
     {
-      "text": "El gong de inicio suena...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El gong de inicio suena..."
     },
     {
       "name": "Sakura Chiyono O",
@@ -209,15 +209,15 @@
       "text": "¡Uf! ¡Dejaré el resto para ti, Entrenador!"
     },
     {
-      "text": "Con una expresión satisfecha en su rostro, Sakura\nChiyono O me da los perros calientes restantes.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con una expresión satisfecha en su rostro, Sakura\nChiyono O me da los perros calientes restantes."
     },
     {
+      "name": "Monólogo",
       "text": "He logrado comer ocho perros calientes yo mismo\nhasta ahora, lo que significa que solo quedan...",
       "choice_data_list": [
         "¿¡Por qué aún quedan doce?!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -232,24 +232,24 @@
       "text": "Urgh..."
     },
     {
+      "name": "Monólogo",
       "text": "Juzgando por la expresión en el rostro de Sakura\nChiyono O, ya ha superado su límite. Y si ese es\nel caso, solo hay una cosa que puedo hacer...",
       "choice_data_list": [
         "¡Yo me encargo!",
         "¡Yo me encargo!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
       "text": "¡Vamos, Entrenador!"
     },
     {
-      "text": "Animada por el entusiasta ánimo de Sakura Chiyono\nO, logro de alguna manera seguir metiendo perros\ncalientes en mi boca.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Animada por el entusiasta ánimo de Sakura Chiyono\nO, logro de alguna manera seguir metiendo perros\ncalientes en mi boca."
     },
     {
-      "text": "Y finalmente...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y finalmente..."
     },
     {
       "name": "Umamusume A",
@@ -260,8 +260,8 @@
       "text": "¡Guau! ¡Muchas gracias! ¡Ay, es un sedancito!"
     },
     {
-      "text": "Después de ver la sonrisa en el rostro de Sakura\nChiyono O, me desmayo de inmediato.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después de ver la sonrisa en el rostro de Sakura\nChiyono O, me desmayo de inmediato."
     },
     {
       "name": "Sakura Chiyono O",

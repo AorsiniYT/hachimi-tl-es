@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Unos días después, es hora del Encuentro Tracen,\nun evento interno diseñado para dar a los\nestudiantes la oportunidad de superar sus límites.\nEsta vez, la competencia parece aún más reñida de\nlo habitual.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Unos días después, es hora del Encuentro Tracen,\nun evento interno diseñado para dar a los\nestudiantes la oportunidad de superar sus límites.\nEsta vez, la competencia parece aún más reñida de\nlo habitual."
     },
     {
       "name": "Locutor",
@@ -30,16 +30,16 @@
       "text": "...!"
     },
     {
-      "text": "Viendo a Sakura Chiyono O salir de las gradas con\nuna mueca de disgusto en el rostro, siento que\nquiero seguirla.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Viendo a Sakura Chiyono O salir de las gradas con\nuna mueca de disgusto en el rostro, siento que\nquiero seguirla."
     },
     {
+      "name": "Monólogo",
       "text": "Cuando finalmente la encuentro, está absolutamente\nempapada.",
       "choice_data_list": [
         "¿Estás bien?!",
         "¿Estás bien?!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -105,11 +105,11 @@
       "text": "...Todavía estamos a mundos de distancia."
     },
     {
+      "name": "Monólogo",
       "text": "Saca la carta de antes de su bolsillo y la hace\nañicos.",
       "choice_data_list": [
         "...!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -120,20 +120,20 @@
       "text": "Ah... L-lo siento! Yo, um... ¡tengo que irme!"
     },
     {
-      "text": "Recoge los pedazos uno por uno y los tira al bote\nde basura, luego sale corriendo antes de que pueda\ndetenerla.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Recoge los pedazos uno por uno y los tira al bote\nde basura, luego sale corriendo antes de que pueda\ndetenerla."
     },
     {
       "name": "Letter",
       "text": "Si algún día pudiera correr a tu lado frente a\nmiles, sería un sueño hecho realidad."
     },
     {
-      "text": "Veo un vistazo de su carta, escrita en letras\ngrandes, ordenadas pero temblorosas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Veo un vistazo de su carta, escrita en letras\ngrandes, ordenadas pero temblorosas."
     },
     {
-      "text": "Durante los próximos días, no puedo dejar de\npreocuparme por Sakura Chiyono O, pero lucho por\nencontrar la mejor manera de abordarla.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Durante los próximos días, no puedo dejar de\npreocuparme por Sakura Chiyono O, pero lucho por\nencontrar la mejor manera de abordarla."
     },
     {
       "name": "Maruzensky",
@@ -172,12 +172,12 @@
       "text": "Lo que quiero decir es, ella mira sus debilidades\na los ojos cada día. Se necesita un corazón fuerte\npara hacer eso... Así que estará bien."
     },
     {
-      "text": "Tiene un punto. Aceptar tus propias debilidades\nsuena fácil, pero sorprendentemente pocos pueden\nhacerlo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Tiene un punto. Aceptar tus propias debilidades\nsuena fácil, pero sorprendentemente pocos pueden\nhacerlo."
     },
     {
-      "text": "Estoy seguro de que parte de esa tenacidad\nproviene de la propia personalidad de Chiyono O,\npero el factor más grande debe ser...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Estoy seguro de que parte de esa tenacidad\nproviene de la propia personalidad de Chiyono O,\npero el factor más grande debe ser..."
     },
     {
       "name": "Letter",
@@ -195,12 +195,12 @@
       "text": "...Ya veo. Perdona mi ignorancia, entonces."
     },
     {
-      "text": "Sakura Chiyono O podría doblarse, pero no se\nquebrará. Con solo un poco más de valor, se pondrá\nde pie corriendo con una sonrisa.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sakura Chiyono O podría doblarse, pero no se\nquebrará. Con solo un poco más de valor, se pondrá\nde pie corriendo con una sonrisa."
     },
     {
-      "text": "Sin darme cuenta, estoy bajando las escaleras\ncorriendo y saliendo a buscarla.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sin darme cuenta, estoy bajando las escaleras\ncorriendo y saliendo a buscarla."
     }
   ]
 }

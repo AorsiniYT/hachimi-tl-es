@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "El campamento de verano del año clásico es un\nevento importante que prueba el límite de cuánto\npuede mejorar una Umamusume.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El campamento de verano del año clásico es un\nevento importante que prueba el límite de cuánto\npuede mejorar una Umamusume."
     },
     {
-      "text": "El autobús está a punto de partir al campamento, y\ntodos se están acomodando para el viaje.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El autobús está a punto de partir al campamento, y\ntodos se están acomodando para el viaje."
     },
     {
       "name": "Tokai Teio",
@@ -42,8 +42,8 @@
       "text": "Es solo que... es difícil salir con ellas porque\nme siento inferior a ellas..."
     },
     {
-      "text": "Parece que Kitasan Black todavía está molesta por\nel brillo innato en Tokai Teio y Special Week del\nque hablamos antes.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Parece que Kitasan Black todavía está molesta por\nel brillo innato en Tokai Teio y Special Week del\nque hablamos antes."
     },
     {
       "name": "Gold Ship",
@@ -58,12 +58,12 @@
       "text": "¡Golshi, Vodka! ¡Claro, me uniré!"
     },
     {
+      "name": "Monólogo",
       "text": "Por otro lado, no parece molestarle Gold Ship o\nVodka, una senior que siempre intenta ser genial.",
       "choice_data_list": [
         "Pareces estar completamente a gusto con Golshi y\nVodka, Kitasan.",
         "Pareces estar completamente a gusto con Golshi y\nVodka, Kitasan."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -82,35 +82,35 @@
       "text": "No sé si diría que somos increíbles. Siento que\nsomos más como rebeldes sin causa..."
     },
     {
+      "name": "Monólogo",
       "text": "Rebeldes... Vodka lo dijo como un comentario\ncasual, pero siento que la respuesta a la pregunta\nde Kitasan Black yace en ese sentimiento.",
       "choice_data_list": [
         "Quizás sea por sus personalidades...",
         "Quizás sea por sus personalidades..."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
       "text": "¿Qué quieres decir con eso? ¿Qué es por sus\npersonalidades?"
     },
     {
-      "text": "Explico cómo cada Umamusume tiene cierto aire que\nse refleja en sus personalidades.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Explico cómo cada Umamusume tiene cierto aire que\nse refleja en sus personalidades."
     },
     {
+      "name": "Monólogo",
       "text": "Algunas tienen personalidades más estándar,\nmientras que otras se desvían de la norma: las\natípicas. Kitasan Black probablemente encuentra\nmás fácil acercarse a estas últimas. Y si es\nasí...",
       "choice_data_list": [
         "Deberías intentar hablar mucho con Golshi y Vodka\neste verano."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
       "text": "¿Eh? Bueno, supongo."
     },
     {
-      "text": "Le asiento con aprobación. Estoy seguro de que\nayudará si Kitasan Black recibe orientación de una\nvariedad de diferentes compañeras mayores.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Le asiento con aprobación. Estoy seguro de que\nayudará si Kitasan Black recibe orientación de una\nvariedad de diferentes compañeras mayores."
     },
     {
       "name": "Vodka",
@@ -137,8 +137,8 @@
       "text": "Espera, ¿\"nosotros\"? Golshi, tu idea de la\ndiversión <i>va muchísimo más </i>allá de lo salvaje..."
     },
     {
-      "text": "Espero de verdad que Kitasan Black pueda superar\nsu complejo de inferioridad este verano con la\nayuda de otras Umamusume.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Espero de verdad que Kitasan Black pueda superar\nsu complejo de inferioridad este verano con la\nayuda de otras Umamusume."
     }
   ]
 }

@@ -78,8 +78,8 @@
       "text": "¡Oye! Vamos, Ayabe, al menos enciende las luces si\nestás aquí."
     },
     {
-      "text": "<i>Clac.</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>Clac.</i>"
     },
     {
       "name": "Admire Vega",
@@ -122,15 +122,15 @@
       "text": "(¿Rivales que tengo que vencer?)"
     },
     {
-      "text": "Llega el día del Satsuki Sho. En la lista están la\nprodigiosa T.M. Opera O y Narita Top Road...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Llega el día del Satsuki Sho. En la lista están la\nprodigiosa T.M. Opera O y Narita Top Road..."
     },
     {
+      "name": "Monólogo",
       "text": "Igual que la última vez, Admire Vega se encuentra\nen la cima de la encuesta de popularidad previa a\nla carrera.",
       "choice_data_list": [
         "(Y igual que la última vez, estoy seguro de que no\nle importa.)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -156,12 +156,12 @@
       "text": "Es hora. Me voy al área de preparación."
     },
     {
-      "text": "Reviso la revista que ella dejó en la mesa después\nde salir de la habitación.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Reviso la revista que ella dejó en la mesa después\nde salir de la habitación."
     },
     {
-      "text": "Un espacio aún queda entre las páginas que ella\nestaba leyendo. La abro y veo un artículo que\npresenta a tanto Narita Top Road como T.M. Opera O\ncomo \"corredores a seguir\".",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Un espacio aún queda entre las páginas que ella\nestaba leyendo. La abro y veo un artículo que\npresenta a tanto Narita Top Road como T.M. Opera O\ncomo \"corredores a seguir\"."
     },
     {
       "name": "T.M. Opera O",

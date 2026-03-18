@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Visito la biblioteca con Admire Vega, pero ella\ndesaparece de repente.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Visito la biblioteca con Admire Vega, pero ella\ndesaparece de repente."
     },
     {
       "name": "Zenno Rob Roy",
@@ -22,12 +22,12 @@
       "text": "Vale, tengo que hacer lo posible por tener\ncuidado... por el éxito del Rincón de la Lluvia de\nMeteoros."
     },
     {
+      "name": "Monólogo",
       "text": "¿Lluvia de meteoros? Eso me recuerda, vi algo en\nla tele sobre una que ocurrirá pronto. La\nbiblioteca debe estar preparando algo para eso.",
       "choice_data_list": [
         "Tu rincón de evento especial se ve divertido.",
         "Tu rincón de evento especial se ve divertido."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -42,8 +42,8 @@
       "text": "..."
     },
     {
-      "text": "Otro día, salgo a hacer investigación solo\ncuando...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Otro día, salgo a hacer investigación solo\ncuando..."
     },
     {
       "name": "Zenno Rob Roy",
@@ -82,12 +82,12 @@
       "text": "¡Se supone que la academia es un gran lugar para\nverla! Tal vez leer al respecto antes lo hará más\ndivertido."
     },
     {
-      "text": "El rincón de exhibición finalmente está completo.\nEspero con ansias el día del evento y ver cuánto\nvale la pena su trabajo juntos. Sin embargo...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El rincón de exhibición finalmente está completo.\nEspero con ansias el día del evento y ver cuánto\nvale la pena su trabajo juntos. Sin embargo..."
     },
     {
-      "text": "El día de la lluvia de meteoros... Veo a Zenno Rob\nRoy mirando con tristeza la lluvia que corre por\nlas ventanas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El día de la lluvia de meteoros... Veo a Zenno Rob\nRoy mirando con tristeza la lluvia que corre por\nlas ventanas."
     },
     {
       "name": "Zenno Rob Roy",
@@ -177,8 +177,8 @@
       "text": "Deja de mirarme así..."
     },
     {
-      "text": "Debo no haber hecho un buen trabajo ocultando mi\nsonrisa. Su expresión parece menos severa ahora,\naunque.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Debo no haber hecho un buen trabajo ocultando mi\nsonrisa. Su expresión parece menos severa ahora,\naunque."
     },
     {
       "name": "Admire Vega",
@@ -201,8 +201,8 @@
       "text": "...Está bien."
     },
     {
-      "text": "Admire Vega comienza a hablar en voz baja. Aunque\nalgo brusca, explica cuidadosamente mientras las\nUmamusume a su alrededor escuchan en silencio.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Admire Vega comienza a hablar en voz baja. Aunque\nalgo brusca, explica cuidadosamente mientras las\nUmamusume a su alrededor escuchan en silencio."
     }
   ]
 }

@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Una tarde...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Una tarde..."
     },
     {
       "name": "Mejiro Ardan",
@@ -298,8 +298,8 @@
       "text": "Te esperaré, sin importar cuánto tiempo tome."
     },
     {
-      "text": "Escuchar el relato de Mejiro Ardan sobre la\nsituación de Sakura Chiyono O me da un vistazo a\nsus sentimientos...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Escuchar el relato de Mejiro Ardan sobre la\nsituación de Sakura Chiyono O me da un vistazo a\nsus sentimientos..."
     },
     {
       "name": "Mejiro Ardan",
@@ -313,20 +313,20 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "Habiendo sido testigo de primera mano de lo fuerte\nque es su vínculo, puedo decirlo con confianza.",
       "choice_data_list": [
         "¡Hagamos lo mejor posible para el Osaka Hai!",
         "¡Hagamos lo mejor posible para el Osaka Hai!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "...¡Sí!"
     },
     {
-      "text": "¡El momentoso Osaka Hai pronto estará sobre\nnosotros!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡El momentoso Osaka Hai pronto estará sobre\nnosotros!"
     }
   ]
 }

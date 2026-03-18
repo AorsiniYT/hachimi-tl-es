@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Monólogo",
       "text": "No estoy seguro de qué es, pero tengo la sensación\nde que Mejiro Ardan no se siente ella misma hoy...",
       "choice_data_list": [
         "¿Cómo te sientes?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -28,8 +28,8 @@
       "text": "Gracias por tu preocupación, Entrenador. Veré si\nmi condición mejora antes de reanudar el\nentrenamiento."
     },
     {
-      "text": "Mejiro Ardan fuerza una sonrisa, pero el dolor de\ncabeza continúa molestándola por un tiempo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mejiro Ardan fuerza una sonrisa, pero el dolor de\ncabeza continúa molestándola por un tiempo."
     }
   ]
 }

@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "<i>Salida...</i>",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "<i>Salida...</i>"
     },
     {
       "name": "Kitasan Black",
@@ -42,16 +42,16 @@
       "text": "Dia... Aún no ha debutado, pero todos se apresuran\na entrevistarla..."
     },
     {
+      "name": "Monólogo",
       "text": "Es justo antes del comienzo de la serie de la\nTriple Corona Clásica, y Kitasan Black ha\nconstruido un currículum impresionante.",
       "choice_data_list": [
         "¡Lo has hecho genial, Kitasan!",
         "¡Lo has hecho genial, Kitasan!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Ha sido un ascenso lento pero constante, pero\ndefinitivamente ha mejorado. Estoy seguro de que\ntiene posibilidades de pelear en la Triple Corona\nClásica tal como está ahora.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ha sido un ascenso lento pero constante, pero\ndefinitivamente ha mejorado. Estoy seguro de que\ntiene posibilidades de pelear en la Triple Corona\nClásica tal como está ahora."
     },
     {
       "name": "Kitasan Black",
@@ -92,16 +92,16 @@
       ]
     },
     {
-      "text": "Entiendo lo que quiere decir. Siempre habrá\nUmamusume que sean enormemente populares desde el\nprincipio.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Entiendo lo que quiere decir. Siempre habrá\nUmamusume que sean enormemente populares desde el\nprincipio."
     },
     {
+      "name": "Monólogo",
       "text": "Ser una buena corredora no se traduce\nnecesariamente en popularidad, pero incluso si es\nasí...",
       "choice_data_list": [
         "Creo que hay una buena probabilidad de que las\ncosas salgan bien.",
         "Creo que hay una buena probabilidad de que las\ncosas salgan bien."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -112,8 +112,8 @@
       ]
     },
     {
-      "text": "Mientras ella siga creciendo, la gente seguramente\nse fijará en ella, y Kitasan Black ya está\nsubiendo esas escaleras de manera constante.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mientras ella siga creciendo, la gente seguramente\nse fijará en ella, y Kitasan Black ya está\nsubiendo esas escaleras de manera constante."
     },
     {
       "name": "Kitasan Black",
@@ -123,12 +123,12 @@
       ]
     },
     {
-      "text": "Lo que podemos y no podemos hacer se reduce a la\nmentalidad de Kitasan Black. Por ahora, ponemos la\nmira en el St. Lite Kinen en otoño.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Lo que podemos y no podemos hacer se reduce a la\nmentalidad de Kitasan Black. Por ahora, ponemos la\nmira en el St. Lite Kinen en otoño."
     },
     {
-      "text": "Y sin importar si decide correr en ellos o no,\ncreo que será bueno prepararse para el Satsuki Sho\ny el Japanese Derby al mismo tiempo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y sin importar si decide correr en ellos o no,\ncreo que será bueno prepararse para el Satsuki Sho\ny el Japanese Derby al mismo tiempo."
     },
     {
       "name": "Kitasan Black",
@@ -255,8 +255,8 @@
       "text": "¡Entrenador, escucha esto! ¡Encontré a alguien que\nserá de gran ayuda!"
     },
     {
-      "text": "Ella me contó lo que pasó ayer. Noté que Kitasan\nBlack ha estado un poco decaída últimamente, pero\npuede que haya encontrado exactamente a quien\nnecesitaba para animarse.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella me contó lo que pasó ayer. Noté que Kitasan\nBlack ha estado un poco decaída últimamente, pero\npuede que haya encontrado exactamente a quien\nnecesitaba para animarse."
     }
   ]
 }

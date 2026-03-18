@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "¡El primer lugar es para Admire Vega! ¡Admire Vega\nes nuestra campeona del Derby!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡El primer lugar es para Admire Vega! ¡Admire Vega\nes nuestra campeona del Derby!"
     },
     {
-      "text": "Wooooo!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Wooooo!"
     },
     {
       "name": "Admire Vega",
@@ -122,11 +122,11 @@
       "text": "Haremos todo esto de nuevo..."
     },
     {
+      "name": "Monólogo",
       "text": "Me encuentro con Admire Vega en la sala de\npreparación después de la carrera.",
       "choice_data_list": [
         "¡Felicidades por quedar primera!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -172,12 +172,12 @@
       "text": "Ya veo."
     },
     {
-      "text": "Ella rápidamente se va a preparar para el\nconcierto de la victoria. Mientras la observo, me\nsiento revitalizado.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ella rápidamente se va a preparar para el\nconcierto de la victoria. Mientras la observo, me\nsiento revitalizado."
     },
     {
-      "text": "Con el Kikuka Sho, la carrera final de la Triple\nCorona Clásica, próxima a realizarse, haré todo lo\nque pueda para asegurarme de que destaque de\nnuevo!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con el Kikuka Sho, la carrera final de la Triple\nCorona Clásica, próxima a realizarse, haré todo lo\nque pueda para asegurarme de que destaque de\nnuevo!"
     }
   ]
 }

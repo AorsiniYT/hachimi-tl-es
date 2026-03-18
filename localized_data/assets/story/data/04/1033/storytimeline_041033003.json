@@ -30,12 +30,12 @@
       "text": "¿Eso eras tú? Dime..."
     },
     {
-      "text": "La largamente esperada carrera de pruebas de\nAdmire Vega está a punto de comenzar. Los\nentrenadores llenan las gradas, ojos expectantes\npegados a la pista.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La largamente esperada carrera de pruebas de\nAdmire Vega está a punto de comenzar. Los\nentrenadores llenan las gradas, ojos expectantes\npegados a la pista."
     },
     {
-      "text": "Yo no soy la excepción, por supuesto, pero al\nmismo tiempo...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Yo no soy la excepción, por supuesto, pero al\nmismo tiempo..."
     },
     {
       "name": "Admire Vega",
@@ -50,19 +50,19 @@
       "text": "...Ganaré. Pase lo que pase."
     },
     {
+      "name": "Monólogo",
       "text": "Después de lo que vi esa noche, no puedo evitar\nsentirme tan preocupado como emocionado.",
       "choice_data_list": [
         "(Tengo un mal presentimiento sobre esto.)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "De todos modos, las puertas de salida se abren de\npar en par, y la carrera comienza.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "De todos modos, las puertas de salida se abren de\npar en par, y la carrera comienza."
     },
     {
-      "text": "¡Wooo!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Wooo!"
     },
     {
       "name": "Admire Vega",
@@ -144,12 +144,12 @@
       "text": "¡Y lo ha logrado! ¡El primer lugar en la carrera\nde pruebas es para Admire Vega! ¡Admire Vega!"
     },
     {
-      "text": "Su increíble remontada tardía envía a la multitud\na un frenesí.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Su increíble remontada tardía envía a la multitud\na un frenesí."
     },
     {
-      "text": "...Lo que pronto es seguido por murmullos\ninquietos.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "...Lo que pronto es seguido por murmullos\ninquietos."
     },
     {
       "name": "Admire Vega",
@@ -164,8 +164,8 @@
       "text": "Huh?"
     },
     {
-      "text": "Admire Vega huye del alboroto, sin siquiera una\npalabra para ningún entrenador.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Admire Vega huye del alboroto, sin siquiera una\npalabra para ningún entrenador."
     }
   ]
 }

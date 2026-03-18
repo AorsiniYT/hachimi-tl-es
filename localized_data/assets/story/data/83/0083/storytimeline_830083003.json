@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Monólogo",
       "text": "Una noche, mientras regreso a casa después del\ntrabajo, me encuentro con Sakura Chiyono O mirando\ncuriosamente algo.",
       "choice_data_list": [
         "¿Qué pasa?",
         "¿Qué pasa?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -21,11 +21,11 @@
       "text": "¡BAKUSHIIIN!"
     },
     {
+      "name": "Monólogo",
       "text": "<i>¡BANG!</i>",
       "choice_data_list": [
         "¿Qué...?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -43,8 +43,8 @@
       ]
     },
     {
-      "text": "El otro día, Sakura Bakushin O se fue diciendo que\nhabía entendido lo que su hermana necesitaba—y que\ntenía que prepararlo sola.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El otro día, Sakura Bakushin O se fue diciendo que\nhabía entendido lo que su hermana necesitaba—y que\ntenía que prepararlo sola."
     },
     {
       "name": "Sakura Chiyono O",
@@ -138,8 +138,8 @@
       "text": "Quiero ganar una carrera... ¡y lo haré a <i>mi</i>manera!"
     },
     {
-      "text": "Pronto, llega otra Carrera de Uma Kids. ¿Cómo\nsaldrán los resultados esta vez?",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Pronto, llega otra Carrera de Uma Kids. ¿Cómo\nsaldrán los resultados esta vez?"
     },
     {
       "name": "Sakura Bakushin O",
@@ -150,8 +150,8 @@
       "text": "¡Hermanaaa! ¡Lo logreee!"
     },
     {
-      "text": "A pesar de la calidad cuestionable de los dulces,\nayudaron a las hermanas a entenderse mutuamente.\nAhora su vínculo es más fuerte que nunca.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "A pesar de la calidad cuestionable de los dulces,\nayudaron a las hermanas a entenderse mutuamente.\nAhora su vínculo es más fuerte que nunca."
     },
     {
       "name": "Sakura Bakushin O",
@@ -162,8 +162,8 @@
       "text": "¡Hermanaaa! ¡Lo logré! ¡Corrí a mi manera!"
     },
     {
-      "text": "A pesar de la calidad cuestionable de los dulces,\nayudaron a las hermanas a lograr un avance. Ahora,\npaso a paso, están progresando.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "A pesar de la calidad cuestionable de los dulces,\nayudaron a las hermanas a lograr un avance. Ahora,\npaso a paso, están progresando."
     }
   ]
 }

@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "¡Hoy es el día del evento de agradecimiento al\npersonal planeado por Satono Diamond!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "¡Hoy es el día del evento de agradecimiento al\npersonal planeado por Satono Diamond!"
     },
     {
       "name": "Comentarista Umamusume",
@@ -42,8 +42,8 @@
       "text": "¡Queremos organizar una carrera de agradecimiento\nal personal para ellos!"
     },
     {
-      "text": "Desde ese día, Satono Diamond y los demás han\nestado trabajando duro para organizar el evento de\nhoy.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Desde ese día, Satono Diamond y los demás han\nestado trabajando duro para organizar el evento de\nhoy."
     },
     {
       "name": "Satono Diamond",
@@ -77,11 +77,11 @@
       "text": "Es más que suficiente agradecimiento solo con\nescuchar eso de ustedes. Esperamos con mucho\ninterés el evento."
     },
     {
+      "name": "Monólogo",
       "text": "Después de todas las preocupaciones de Satono\nDiamond sobre cómo agradecer al personal de la\nacademia, la respuesta resultó ser simple y\ndirecta.",
       "choice_data_list": [
         "(¡Si todos están animándote para que corras bien,\nentonces solo tienes que mostrar tu agradecimiento\ncorriendo bien para ellos, verdad?)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Satono Diamond",
@@ -104,8 +104,8 @@
       "text": "¡Por favor, míranos en este evento que preparamos\npara ustedes!"
     },
     {
-      "text": "Wooooo!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Wooooo!"
     },
     {
       "name": "Satono Diamond",
@@ -167,8 +167,8 @@
       ]
     },
     {
-      "text": "Y con eso, el evento de agradecimiento al personal\nde Satono Diamond termina en un rotundo éxito!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y con eso, el evento de agradecimiento al personal\nde Satono Diamond termina en un rotundo éxito!"
     },
     {
       "name": "Kitasan Black",
@@ -195,8 +195,8 @@
       ]
     },
     {
-      "text": "La emoción en el recinto alcanza un punto álgido\nmientras las reñidas carreras continúan.\nNaturalmente, los corredores ofrecen un concierto\nganador para cerrar el evento.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "La emoción en el recinto alcanza un punto álgido\nmientras las reñidas carreras continúan.\nNaturalmente, los corredores ofrecen un concierto\nganador para cerrar el evento."
     },
     {
       "name": "Satono Diamond",
@@ -207,8 +207,8 @@
       "text": "¡Espero que nuestros sentimientos lleguen a todos!\nPor favor disfruten de nuestra presentación de <i>We\nAre Dreamers!</i>"
     },
     {
-      "text": "Satono Diamond y las otras Umamusume cantan con\ntal poder y emoción que sus voces resuenan lejos y\nancho para que todos las escuchen.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Satono Diamond y las otras Umamusume cantan con\ntal poder y emoción que sus voces resuenan lejos y\nancho para que todos las escuchen."
     }
   ]
 }

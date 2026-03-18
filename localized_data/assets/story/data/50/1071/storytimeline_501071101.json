@@ -2,8 +2,8 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Con nuestro tercer año en los libros, damos la\nbienvenida al nuevo: un año en el que comienzan\nlos Clásicos. Y en cuanto a Mejiro Ardan...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con nuestro tercer año en los libros, damos la\nbienvenida al nuevo: un año en el que comienzan\nlos Clásicos. Y en cuanto a Mejiro Ardan..."
     },
     {
       "name": "Locutor A",
@@ -137,24 +137,24 @@
       ]
     },
     {
-      "text": "El compromiso de Mejiro Ardan de enfocarse\nexclusivamente en el momento es la fuente de su\nfuerza. Lo sé mejor que nadie. Pero aún...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El compromiso de Mejiro Ardan de enfocarse\nexclusivamente en el momento es la fuente de su\nfuerza. Lo sé mejor que nadie. Pero aún..."
     },
     {
+      "name": "Monólogo",
       "text": "Aunque ella solo esté mirando un poco más\nadelante, parte de mí está feliz de escucharla\nhablar sobre el futuro.",
       "choice_data_list": [
         "Espero con ansias el día en que lo discutamos más\na fondo.",
         "Espero con ansias el día en que lo discutamos más\na fondo."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "...Escuchar eso me hace muy feliz. Hasta ese día,\npor favor continúe guiándome."
     },
     {
-      "text": "Continuamos revisando su próximo régimen de\nentrenamiento. Luego, mientras tomamos un descanso\ndespués de terminar...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Continuamos revisando su próximo régimen de\nentrenamiento. Luego, mientras tomamos un descanso\ndespués de terminar..."
     },
     {
       "name": "Mejiro Ardan",
@@ -181,13 +181,13 @@
       "text": "Asumiendo que esté bien para usted, Entrenador...\n¿Qué opina?"
     },
     {
+      "name": "Monólogo",
       "text": "Nunca esperé una invitación como esta, pero un\ndescanso de la rutina habitual podría ser bueno\npara ella. En términos de actividades, el Año\nNuevo es el momento para...",
       "choice_data_list": [
         "Jugar a ponerle la nariz al muñeco de nieve.",
         "Comer sopa de mochi.",
         "Volar una cometa."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -217,12 +217,12 @@
       ]
     },
     {
-      "text": "Mejiro Ardan siempre es tan equilibrada que no\npuedo evitar sonreír después de ver una sonrisa\ntan rara y emocionada en su rostro.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mejiro Ardan siempre es tan equilibrada que no\npuedo evitar sonreír después de ver una sonrisa\ntan rara y emocionada en su rostro."
     },
     {
-      "text": "Voy a buscar el juego guardado en el armario de mi\noficina.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Voy a buscar el juego guardado en el armario de mi\noficina."
     },
     {
       "name": "Mejiro Ardan",
@@ -233,8 +233,8 @@
       "text": "...Bien. ¡Terminado!"
     },
     {
-      "text": "Comparado con una cara normal, la creación de\nMejiro Ardan... se parece más a una interpretación\núnica del cubismo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Comparado con una cara normal, la creación de\nMejiro Ardan... se parece más a una interpretación\núnica del cubismo."
     },
     {
       "name": "Mejiro Ardan",
@@ -253,16 +253,16 @@
       "text": "¡Muéstrame cómo se hace!"
     },
     {
-      "text": "Y así, Mejiro Ardan y yo comenzamos el año con\nalgunas risas ligeras.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, Mejiro Ardan y yo comenzamos el año con\nalgunas risas ligeras."
     },
     {
       "name": "Mejiro Ardan",
       "text": "Sí, yo también soy aficionada a la sopa de mochi.\nY aunque el Año Nuevo ya pasó, no puedo pensar en\notra actividad más apropiada para esta época del\naño."
     },
     {
-      "text": "Imagino que la cafetería tendrá varios tipos de\nplatos de Año Nuevo disponibles por tiempo\nlimitado. Comer allí es una opción, pero...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Imagino que la cafetería tendrá varios tipos de\nplatos de Año Nuevo disponibles por tiempo\nlimitado. Comer allí es una opción, pero..."
     },
     {
       "name": "Mejiro Ardan",
@@ -288,41 +288,41 @@
       "text": "...¿Qué opina?"
     },
     {
+      "name": "Monólogo",
       "text": "Su petición me toma por sorpresa. Pero en este\nmomento, eso es lo que ella quiere hacer, y como\nsu entrenador, no puedo ignorarlo.",
       "choice_data_list": [
         "Creo que aceptaré tu oferta."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "...! Muchas gracias. Comenzaré a preparar\ninmediatamente."
     },
     {
-      "text": "Mejiro Ardan se dirige a la cafetería para reunir\nlos ingredientes, luego se pone a trabajar en la\ncocina.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Mejiro Ardan se dirige a la cafetería para reunir\nlos ingredientes, luego se pone a trabajar en la\ncocina."
     },
     {
       "name": "Mejiro Ardan",
       "text": "Gracias por su paciencia. Su comida está lista.\nSírvese."
     },
     {
+      "name": "Monólogo",
       "text": "Ella sirve un tazón de sopa sustanciosa llena de\npescado y verduras. El aroma del caldo a base de\nsoja me hace agua la boca.",
       "choice_data_list": [
         "¡Gracias! ¡No puedo esperar para probarla!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
+      "name": "Monólogo",
       "text": "Los ingredientes más gruesos han sido cortados\nordenadamente y los pasteles de mochi tienen un\ntono dorado perfecto. La atención al detalle de\nMejiro Ardan se nota plenamente. Es solo que...",
       "choice_data_list": [
         "(...Creo que el sabor podría ser un poco débil.)"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "No es que sepa mal. El sabor es sutil y nutritivo.\nSimplemente no puedo evitar sentir que es un poco\nsimple.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "No es que sepa mal. El sabor es sutil y nutritivo.\nSimplemente no puedo evitar sentir que es un poco\nsimple."
     },
     {
       "name": "Mejiro Ardan",
@@ -362,23 +362,23 @@
       ]
     },
     {
+      "name": "Monólogo",
       "text": "Esta sopa de mochi me ha mostrado un nuevo lado de\nMejiro Ardan. Para mí, eso solo significa...",
       "choice_data_list": [
         "Está realmente deliciosa."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Este sabor representa uno de los innumerables\n\"momentos\" que Mejiro Ardan ha experimentado. No\nhay forma de que no sea delicioso.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Este sabor representa uno de los innumerables\n\"momentos\" que Mejiro Ardan ha experimentado. No\nhay forma de que no sea delicioso."
     },
     {
       "name": "Mejiro Ardan",
       "text": "...Realmente eres una persona amable."
     },
     {
-      "text": "Y así, mientras comemos sopa de mochi juntos,\nnosotros charlamos alegremente sobre cosas al azar\ny disfrutamos de un comienzo relajado del año\nnuevo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, mientras comemos sopa de mochi juntos,\nnosotros charlamos alegremente sobre cosas al azar\ny disfrutamos de un comienzo relajado del año\nnuevo."
     },
     {
       "name": "Mejiro Ardan",
@@ -412,8 +412,8 @@
       "text": "...! ¡Sí, vamos!"
     },
     {
-      "text": "Después de sacar una cometa del almacenamiento,\nnos dirigimos a un parque justo a la vuelta de la\nesquina de la academia.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Después de sacar una cometa del almacenamiento,\nnos dirigimos a un parque justo a la vuelta de la\nesquina de la academia."
     },
     {
       "name": "Mejiro Ardan",
@@ -456,8 +456,8 @@
       "text": "¡Sí!"
     },
     {
-      "text": "Ver a Mejiro Ardan volando una cometa tan inocente\njunto a estos niños me calienta el corazón. Qué\nbuena forma de comenzar el año nuevo...",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Ver a Mejiro Ardan volando una cometa tan inocente\njunto a estos niños me calienta el corazón. Qué\nbuena forma de comenzar el año nuevo..."
     }
   ]
 }

@@ -14,11 +14,11 @@
       "text": "¡Bienvenidos!"
     },
     {
+      "name": "Monólogo",
       "text": "Mientras el sol brilla alto en este tranquilo día,\nme encuentro rodeado de niños.",
       "choice_data_list": [
         "¡Muchas gracias por invitarme!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -29,16 +29,16 @@
       "text": "¡Sííí!"
     },
     {
-      "text": "El Club de la Victoria es un grupo famoso dedicado\na entrenar a jóvenes Umamusume.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El Club de la Victoria es un grupo famoso dedicado\na entrenar a jóvenes Umamusume."
     },
     {
-      "text": "Está compuesto por un equipo muy talentoso y\npresume de un historial impresionante, habiendo\nproducido varios famosos jinetes.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Está compuesto por un equipo muy talentoso y\npresume de un historial impresionante, habiendo\nproducido varios famosos jinetes."
     },
     {
-      "text": "Para continuar mi desarrollo como entrenador, he\nvenido hoy aquí para observar al Club de la\nVictoria en acción.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Para continuar mi desarrollo como entrenador, he\nvenido hoy aquí para observar al Club de la\nVictoria en acción."
     },
     {
       "name": "Sakura Chiyono O",
@@ -60,8 +60,8 @@
       ]
     },
     {
-      "text": "Muchas Umamusume que llevan el nombre Sakura se\nhan unido a este club—Sakura Bakushin O y Sakura\nChiyono O entre ellas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Muchas Umamusume que llevan el nombre Sakura se\nhan unido a este club—Sakura Bakushin O y Sakura\nChiyono O entre ellas."
     },
     {
       "name": "Sakura Bakushin O",
@@ -97,12 +97,12 @@
       "text": "Ah que lo pienso, ¡mi mamá también es exalumna del\nClub de la Victoria! ¡Ja-ja-ja-ja!"
     },
     {
+      "name": "Monólogo",
       "text": "Luego, observo a los jóvenes mientras entrenan. Su\nrégimen está tan fundamentado en teoría como\nesperaría de un club tan famoso.",
       "choice_data_list": [
         "Esto realmente es un entrenamiento de primera\nclase.",
         "Esto realmente es un entrenamiento de primera\nclase."
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -112,8 +112,8 @@
       ]
     },
     {
-      "text": "Incorporan juegos como el Dodgeball en el\nentrenamiento para romper la monotonía. Imagino\nque a los niños les encanta la variedad.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Incorporan juegos como el Dodgeball en el\nentrenamiento para romper la monotonía. Imagino\nque a los niños les encanta la variedad."
     },
     {
       "name": "Niños Umamusume",
@@ -124,11 +124,11 @@
       "text": "¡Oh no!"
     },
     {
+      "name": "Monólogo",
       "text": "¡De repente, uno de los niños siente dolor después\nde una gran caída!",
       "choice_data_list": [
         "¿¿Estás bien?!"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -166,19 +166,10 @@
       "text": "¡VICTORIA!"
     },
     {
+      "name": "Monólogo",
       "text": "Con eso, la joven chica pone toda su fuerza en sus\npiernas, luego se levanta con orgullo antes de\nsalir a toda velocidad para reunirse con los otros\nniños.",
       "choice_data_list": [
         "Eso fue asombroso."
-      ],
-      "name": "Monólogo"
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Entonces, Entrenador! ¿Qué opinas del Club de la\nVictoria?",
-      "choice_data_list": [
-        "¡Creo que es fantástico!",
-        "¡Creo que es fantástico!",
-        "Ahora sé por qué ustedes dos son tan grandes\ncorredoras."
       ]
     },
     {
@@ -191,8 +182,17 @@
       ]
     },
     {
-      "text": "Todos en este club creen en sus compañeros\nmiembros. Trabajan juntos para superar cualquier\ndificultad.",
-      "name": "Monólogo"
+      "name": "Sakura Bakushin O",
+      "text": "Entonces, Entrenador! ¿Qué opinas del Club de la\nVictoria?",
+      "choice_data_list": [
+        "¡Creo que es fantástico!",
+        "¡Creo que es fantástico!",
+        "Ahora sé por qué ustedes dos son tan grandes\ncorredoras."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todos en este club creen en sus compañeros\nmiembros. Trabajan juntos para superar cualquier\ndificultad."
     },
     {
       "name": "Sakura Bakushin O",
@@ -203,12 +203,12 @@
       "text": "¡Somos como dos zanahorias que crecieron en el\nmismo parche!"
     },
     {
-      "text": "El Club de la Victoria es una organización\napasionada cuyos miembros forman fuertes lazos y\nse apoyan mutuamente.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "El Club de la Victoria es una organización\napasionada cuyos miembros forman fuertes lazos y\nse apoyan mutuamente."
     },
     {
-      "text": "Hoy, aprendí otra forma de mostrar bondad a\nalguien además de solo prestarle una mano amiga.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Hoy, aprendí otra forma de mostrar bondad a\nalguien además de solo prestarle una mano amiga."
     },
     {
       "name": "Sakura Chiyono O",
@@ -219,8 +219,8 @@
       "text": "¡Puedes esperar grandes cosas de todos los jóvenes\nmiembros del Club de la Victoria!"
     },
     {
-      "text": "Con mi entusiasmo por el entrenamiento reavivado,\nsiento que no puedo permitirme descansar en mis\nlaureles!",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Con mi entusiasmo por el entrenamiento reavivado,\nsiento que no puedo permitirme descansar en mis\nlaureles!"
     }
   ]
 }

@@ -6,8 +6,8 @@
       "text": "¡Muchas gracias por la ayuda. Eres un salvavidas!"
     },
     {
-      "text": "Al ver a Hishi Amazon en el distrito comercial con\nun montón de bolsas, la ayudo a llevarlas de\nvuelta a los dormitorios.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Al ver a Hishi Amazon en el distrito comercial con\nun montón de bolsas, la ayudo a llevarlas de\nvuelta a los dormitorios."
     },
     {
       "name": "Hishi Amazon",
@@ -66,12 +66,12 @@
       "text": "No estoy mirando mal. Esta es simplemente mi cara."
     },
     {
+      "name": "Monólogo",
       "text": "Ella dice eso... pero aún me siento como una oveja\nacobardada ante un lobo amenazante.",
       "choice_data_list": [
         "¿Quieres que vaya a comprar algo de sakura mochi?",
         "¿No hay algo más que podamos darle?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Narita Brian",

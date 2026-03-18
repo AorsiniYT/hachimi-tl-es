@@ -2,19 +2,19 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Una mañana, soy recibido por una voz aguda y\nenergética frente a la puerta de la academia.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Una mañana, soy recibido por una voz aguda y\nenergética frente a la puerta de la academia."
     },
     {
       "name": "Sakura Bakushin O",
       "text": "¡BUENOS DÍAS!"
     },
     {
+      "name": "Monólogo",
       "text": "Ser saludado de manera tan explosiva a quemarropa\nme hace retroceder reflejamente un úmero de pasos.",
       "choice_data_list": [
         "¿Q-qué es esto?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -57,8 +57,8 @@
       "text": "¡Muy bien! ¡Mantén los ojos abiertos y observa\nbien! ¡BAKUSHIIIN!"
     },
     {
-      "text": "Y así, me quedo para ver a Sakura Bakushin O\nactuar su iniciativa de Saludo Explosivo.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Y así, me quedo para ver a Sakura Bakushin O\nactuar su iniciativa de Saludo Explosivo."
     },
     {
       "name": "Sakura Bakushin O",
@@ -112,16 +112,16 @@
       "text": "¡Ah, ya veo! En otras palabras, mis saludos\nrequieren aún <i>más</i> Bakushin!"
     },
     {
+      "name": "Monólogo",
       "text": "Ella parece decidida en su enfoque, pero debe\nhaber otra forma en que pueda expresar su pasión\nsin estresar a los estudiantes!",
       "choice_data_list": [
         "¿Y si intentas usar gestos en su lugar?",
         "¿Por qué no creas un eslogan pegadizo?"
-      ],
-      "name": "Monólogo"
+      ]
     },
     {
-      "text": "Sugiero que ella intente saludar con la mano o\nadoptar una pose amigable hacia las personas en\nlugar de alzar la voz hacia ellas.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sugiero que ella intente saludar con la mano o\nadoptar una pose amigable hacia las personas en\nlugar de alzar la voz hacia ellas."
     },
     {
       "name": "Sakura Bakushin O",
@@ -148,8 +148,8 @@
       "text": "¡Pero la Explosividad está aquí para salvar el\ndía! Es hora de comenzar mi Nuevo y Mejorado\nSaludo Explosivo Universal!"
     },
     {
-      "text": "Sugiero que usar un eslogan amigable a un volumen\nrazonable puede ser suficiente para expresar la\nimportancia de saludar a otros.",
-      "name": "Monólogo"
+      "name": "Monólogo",
+      "text": "Sugiero que usar un eslogan amigable a un volumen\nrazonable puede ser suficiente para expresar la\nimportancia de saludar a otros."
     },
     {
       "name": "Sakura Bakushin O",
