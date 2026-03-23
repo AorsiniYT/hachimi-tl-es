@@ -1,97 +1,116 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "text": "Esto... es Tracen Academy."
-    },
-    {
-      "text": "Aquí, prometedoras jóvenes Umamusume se reúnen\npara entrenar como corredoras, sus corazones\nllenos con los sueños de gloria encontrados en la\nTwinkle Series..."
-    },
-    {
-      "text": "Junto con sus compañeras de escuela, pasan sus\ndías entrenando tanto el cuerpo como la mente..."
-    },
-    {
-      "text": "Y sin embargo... no todas están contentas con el\nestado actual de la academia."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "¡EMERGENCIA!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "¡ESTO <i>NO PUEDE</i> SEGUIR!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "¿Q-qué pasa, Directora?"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "¡Tazuna! Yo, la directora de Tracen Academy, amo a\nmis estudiantes más que a nada..."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Por lo tanto, ¡no puedo soportar ver incluso el\npotencial de una sola corredora desperdiciado! Y\nsin embargo, ¡eso es exactamente lo que está\npasando!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Es por eso que..."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "¡Propuesta! ¡Crearé un evento de carreras\ncompletamente nuevo!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "¿¡Qué?! ¡Un nuevo evento?! ¡Desde cero?!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "¡Afirmativo! Nuestras estudiantes ahora tendrán\notro conjunto de carreras que esperar ¡más allá de\nla Twinkle Series!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "¡Una que incluya todas las distancias! Todos los\ncircuitos! ¡Un evento de carreras como ningún otro\nque haya existido antes!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Lo llamaré..."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "¡El URA Finale!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "URA... Final..."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "¡Prepárate! ¡Estamos a punto de ponernos muy\nocupadas!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "¡Rápido! Debemos programar una conferencia de\nprensa. ¡El mundo debe saber de esta noticia!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Directora..."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Entendido. ¡Déjalo en mis manos!"
-    },
-    {
-      "text": "Y así comienza la historia de un nuevo evento de\ncarreras, el URA Finale."
-    },
-    {
-      "text": "Creada para ayudar a todas las Umamusume a\nbrillar, esta carrera..."
-    },
-    {
-      "text": "¡Será el escenario en el que tú y la historia de\ntu aprendiz se despliega!"
-    },
-    {
-      "text": "¡El Comienzo! URA Finale!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Esta es... La Academia Tracen.",
+            "color_text_info_list": [
+                "La Academia Tracen"
+            ]
+        },
+        {
+            "text": "Aquí se consagran jóvenes y prometedoras\nUmamusume para entrenar como atletas, con\ncorazones colmados de sueños de la gloria\nque trae consigo la Serie Twinkle",
+            "color_text_info_list": [
+                "Serie Twinkle"
+            ]
+        },
+        {
+            "text": "Junto a sus compañeras de clase, pasarán sus\ndías entrenando cuerpo y mente por igual..."
+        },
+        {
+            "text": "Y sin embargo... no todas están contentas con el\nestado actual de la academia."
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "¡URGENTE!"
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "¡ESTO <i>NO PUEDE</i> CONTINUAR ASí CÓMO ASí!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¿Q...qué sucede, Directora?"
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "¡Tazuna! Yo, como directora de la honorable\nAcademia Tracen, amo a mis estudiantes más\nque a nada en el mundo...",
+            "color_text_info_list": [
+                "Tazuna"
+            ]
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "Por ende, ¡no soporto ver como el potencial de tan\nsolo una corredora se desaprovecha! Y aún así,\n¡eso es exaaactamente lo que está pasando!"
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "Es por eso que..."
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "¡Les tengo una propuesta! ¡Crearé un evento\nde carreras completamente nuevo!",
+            "color_text_info_list": [
+                "evento de carreras completamente nuevo"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¿¡Pero qué?! ¿¡Un nuevo evento?! ¿¡Desde cero?!"
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "¡Afirmativo! ¡Nuestras estudiantes contarán con\nun nuevo conjunto de carreras además de la\nSerie Twinkle ahora!"
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "¡Uno que abarque todas las distancias! ¡Todos los\ncircuitos! ¡Un evento de carreras como ningún otro\nque se haya visto antes!",
+            "color_text_info_list": [
+                "todas las distancias",
+                "Todos los circuitos"
+            ]
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "Tendrá por nombre..."
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "¡El Campeonato URA!",
+            "color_text_info_list": [
+                "Campeonato URA"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Campeonato... URA..."
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "¡Estén preparadas! ¡Estamos a punto de ponernos\nmanos a la obra!"
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "¡Rápido! Debemos programar una conferencia de\nprensa. ¡Todo el mundo debe saber de esta\nnoticia!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Directora..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Entendido. ¡Yo me encargo!"
+        },
+        {
+            "text": "Y de este modo da inicio la historia de un\nnuevo evento de carreras, el Campeonato URA."
+        },
+        {
+            "text": "Pensado en ayudar a que todas las Umamusume\npudieran destacar, esta competencia..."
+        },
+        {
+            "text": "¡Será el escenario en el que tú y tu Aprendiz\nharán historia!"
+        },
+        {
+            "text": "¡Comienza el Campeonato URA!"
+        }
+    ]
 }

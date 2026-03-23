@@ -1,61 +1,67 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Locutor",
-      "text": "¡Por fin ha llegado, amigos! La tan esperada Copa\nUnity"
-    },
-    {
-      "name": "Monólogo",
-      "text": "La Copa Unity es una competencia que se lleva a\ncabo al mismo tiempo que la Serie Twinkle"
-    },
-    {
-      "name": "Locutor",
-      "text": "Este enfrentamiento de equipos organizado por la\nAcademia Tracen pondrá a prueba no solo las\nhabilidades de cada individuo, sino también su\nfuerza como equipo"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Sin embargo, esto no es solo una competencia\nnormal"
-    },
-    {
-      "name": "Matikanefukukitaru",
-      "text": "Necesitamos salvar la academia del desastre seguro"
-    },
-    {
-      "name": "Haru Urara",
-      "text": "¡Oh, cielos! ¿Eso significa que somos héroes?"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "N-no sé si pueda hacer esto"
-    },
-    {
-      "name": "Taiki Shuttle",
-      "text": "Tendrás que contar con nosotros, así que por\nsupuesto que puedes. Solo tenemos que unir\nnuestras fuerzas y salir victoriosos"
-    },
-    {
-      "name": "Miembros del Equipo",
-      "text": "¡Sí!"
-    },
-    {
-      "name": "Little Cocon",
-      "text": "Ja. Seguro que sería genial si eso es todo lo que\nse necesita para ganar"
-    },
-    {
-      "name": "Bitter Glasse",
-      "text": "Sí, en serio"
-    },
-    {
-      "name": "Riko Kashimoto",
-      "text": "¿Crees que realmente puedes derrotar a mi equipo?"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Un épico enfrentamiento de equipos está a punto de\ncomenzar"
-    },
-    {
-      "name": "Monólogo",
-      "text": "Un épico enfrentamiento de equipos está a punto de\ncomenzar"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Locutor",
+            "text": "¡Por fin ha llegado, gente! La tan esperada\nCopa de la Unidad",
+            "color_text_info_list": [
+                "Copa de la Unidad"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "La Copa de la Unidad es una competencia que\nse lleva a cabo al mismo tiempo que la Serie Twinkle."
+        },
+        {
+            "name": "Locutor",
+            "text": "Esta liguilla de equipos organizada por la\nAcademia Tracen ¡pondrá a prueba no solo las\nhabilidades de cada individuo, sino también\nsu fuerza como equipo!",
+            "color_text_info_list": [
+                "Academia Tracen"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sin embargo, esto no es solo una competencia\ncualquiera."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "¡Tenemos que salvar a la academia de un\ndestino fatal!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "¡Oh, cielos! ¿Eso quiere decir que somos de\nlos buenos?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "N...No sé si sea capaz de hacer esto."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Nos tendrás a nosotras contigo, así que por\nsupuesto que puedes. ¡Solamente tenemos\nque unir nuestras fuerzas y ganar!"
+        },
+        {
+            "name": "Miembros del Equipo",
+            "text": "¡Sííííí!"
+        },
+        {
+            "name": "Little Cocon",
+            "text": "Ja. Sería genial si eso es todo lo que\nse necesita para ganar."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "¡Sí, en serio!"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "¿De verdad crees que puedes vencer a mi\nequipo?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Un épico enfrentamiento de equipos está\na punto de comenzar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Un épico enfrentamiento de equipos está\na punto de comenzar."
+        }
+    ]
 }
