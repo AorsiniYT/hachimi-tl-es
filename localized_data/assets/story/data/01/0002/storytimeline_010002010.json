@@ -1,13 +1,16 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "¡Vamos a elegir una segunda Uma Musume Legado!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Hasta que estés más familiarizado con el proceso,\npor favor intenta usar la función de Selección\nAutomática."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¡Elijamos una segunda Umamusume de Legado!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hasta que estés más familiarizado con el proceso,\npuedes intentar usar la función de Selección\nAutomática por ahora.",
+            "color_text_info_list": [
+                "Selección Automática"
+            ]
+        }
+    ]
 }

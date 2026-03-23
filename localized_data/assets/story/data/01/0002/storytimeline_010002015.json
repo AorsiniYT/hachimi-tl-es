@@ -1,21 +1,24 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Este lugar se llama el paddock. Los corredores\naparecen aquí antes de la carrera para emocionar a\nsus admiradores."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Atención. Hay varias cosas que puedes confirmar\naquí en el paddock antes de la carrera."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Dejaré las explicaciones detalladas para ti,\nTazuna."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Puedes contar conmigo. ♪"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Este lugar se llama el paddock. ¡Las corredoras\nse presentan aquí antes de la carrera para\nemocionar a sus más grandes admiradores!",
+            "color_text_info_list": [
+                "paddock"
+            ]
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "¡Presta atención! ¡Hay varias cosas que puedes confirmar\naquí en el paddock antes de la carrera!"
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "¡Dejaré las explicaciones complicadas para ti,\nTazuna!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Puede contar conmigo. ♪"
+        }
+    ]
 }
