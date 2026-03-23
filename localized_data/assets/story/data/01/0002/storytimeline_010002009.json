@@ -1,25 +1,31 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Una corredora decorada que transmite su ambición a\ntu entrenada se llama Uma Musume Veterana."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Una vez que una corredora ha completado su\nCarrera, puede ser registrada como Uma Musume\nVeterana y elegida como Legado."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Ahora, adelante y elige tus Legados."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Los Legados pueden transmitir Chispas de\nInspiración, que otorgan a tu entrenada mejoras de\natributos y pistas de habilidades, entre otros\nbeneficios."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Y no te preocupes, los Legados pueden inspirar a\nnuevas entrenadas tantas veces como desees."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Una corredora ilustre que transmite su ambición a\ntu Aprendíz se le da el nombre de\nUmamusume Veterana.",
+            "color_text_info_list": [
+                "Umamusume Veterana"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Una vez que una corredora ha completado su\nCarrera, puede ser registrada como tal y ser\nelegida como un Legado.",
+            "color_text_info_list": [
+                "puede ser registrada como tal y ser elegida como un Legado."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ahora, adelante y elige tus Legados."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Los Legados pueden otorgar Chispas de\nInspiración, que dan mejoras de\natributos y pistas de habilidades, entre otros\nbeneficios."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Y no te preocupes, los Legados pueden inspirar a\nnuevas aprendices tantas veces como desees."
+        }
+    ]
 }

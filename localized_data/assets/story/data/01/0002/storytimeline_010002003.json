@@ -1,17 +1,20 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Guau, conociste a algunas Umamusume increíbles.\nPero antes de que comencemos a entrenar..."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Permíteme explicar el scouting de Cartas de Apoyo"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Vamos a cambiar al Scout relevante"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Guau, ¡acabas de conocer a algunas Umamusume\nincreíbles! Pero antes de comenzar a entrenar..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Permíteme explicarte la obtención de\nCartas de Apoyo",
+            "color_text_info_list": [
+                "Cartas de Apoyo"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Vayamos al reclutamiento que nos interesa ahora."
+        }
+    ]
 }

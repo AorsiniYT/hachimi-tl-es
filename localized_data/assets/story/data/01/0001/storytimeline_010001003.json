@@ -1,17 +1,17 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Daiwa Scarlet",
-      "text": "<i>Jadeo... jadeo... jadeo...</i>",
-      "choice_data_list": [
-        "Buen trabajo allí",
-        "Buen trabajo allí"
-      ]
-    },
-    {
-      "name": "Daiwa Scarlet",
-      "text": "Hmph... Esto es apenas suficiente para\nsatisfacerme. Necesito más si voy a convertirme en\nla número uno"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Haa... haa... haa...</i>",
+            "choice_data_list": [
+                "¡Buen trabajo ahí afuera!",
+                "¡Buen trabajo ahí afuera!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph... Esto apenas me satisface.\n¡Necesitaré más si voy a convertirme en\nla número uno!"
+        }
+    ]
 }
