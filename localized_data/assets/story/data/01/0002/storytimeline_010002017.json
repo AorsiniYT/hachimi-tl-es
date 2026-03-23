@@ -1,21 +1,30 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Asegúrate de inscribir a tus Umamusume Veteranas\nen muchas carreras."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "En las Carreras Diarias, puedes ganar dinero y\nPuntos de Apoyo, entre otras cosas."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Solo puedes correr en estas carreras un número\ndeterminado de veces al día, así que asegúrate de\nparticipar todos los días."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Permíteme explicar los Ensayos de Equipo, donde\npuedes crear y competir con un equipo de Umamusume\nVeteranas."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¡Asegúrate de inscribir a tus Umamusume Veteranas\nen varias carreras!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "En las Carreras Diarias podrás ganar dinero,\nPuntos de Apoyo y entre otras cosas.",
+            "color_text_info_list": [
+                "Carreras Diarias"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Solo puedes correr en estas carreras un número\nlimitado de veces al día, así que asegúrate de\nparticipar todos los días.",
+            "color_text_info_list": [
+                "Solo puedes correr en estas carreras un número limitado de veces al día"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Permíteme explicarte la Competencia de Equipos,\ndonde puedes formar y hacer competir tu\nequipo de Umamusume Veteranas.",
+            "color_text_info_list": [
+                "Competencia de Equipos"
+            ]
+        }
+    ]
 }

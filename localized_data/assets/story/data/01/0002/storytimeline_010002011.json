@@ -1,17 +1,21 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Las dos Uma Musume Legado seleccionadas y tu Uma\nMusume Entrenada tienen un nivel de afinidad\ndeterminado por su relación."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Se dice que si comparten una buena afinidad, es un\npoco más probable que suceda algo agradable."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Esto podría ser bueno de recordar cuando estés\nhaciendo arreglos en el futuro. ♪"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Las dos Umamusume de Legado seleccionadas\ny tu Aprendíz tienen un nivel de afinidad\ndeterminado según el vínculo que tengan."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Se dice que si estas resultan tener una buena\nafinidad, es un poco más probable que\nsuceda algo bueno.",
+            "color_text_info_list": [
+                "algo bueno",
+                "un poco más probable"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Esto puede llegar a ser útil de recordar cuando\nestés realizando otro arreglo a futuro. ♪"
+        }
+    ]
 }

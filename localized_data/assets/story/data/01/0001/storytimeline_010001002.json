@@ -1,21 +1,27 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Finalmente estamos listos para intentar correr"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Atención, antes de participar en una carrera,\nasegúrate de revisar siempre tus habilidades"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Toma esto, permíteme otorgarte algunos puntos de\nhabilidad para esta ocasión especial"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Los puntos de habilidad se pueden adquirir en\nvarios momentos durante tu partida en Carrera"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¡Ya estamos listos para probar las carreras!"
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "¡Presta atención! Antes de participar en una carrera,\n¡asegúrate siempre de revisar tus habilidades!",
+            "color_text_info_list": [
+                "habilidades"
+            ]
+        },
+        {
+            "name": "Directora Akikawa",
+            "text": "¡Ten! ¡Permiteme otorgarte unos cuantos puntos\nde habilidad solo para esta ocasión en especial!",
+            "color_text_info_list": [
+                "puntos de habilidad"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¡Los puntos de habilidad se pueden adquirir en\nvarios momentos durante tu partida en Carrera!"
+        }
+    ]
 }

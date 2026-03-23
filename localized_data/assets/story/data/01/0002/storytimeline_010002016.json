@@ -1,17 +1,21 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Aquí puedes gestionar a tus Umamusume Veteranas,\nlas corredoras que han completado una partida de\nCarrera. También puedes fortalecer a tus Umamusume\nen Entrenamiento y tus Tarjetas de Apoyo."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Fortalecer a tus Umamusume en Entrenamiento y\nTarjetas de Apoyo te permitirá obtener mejores\nresultados en tus partidas de Carrera."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Los materiales utilizados para fortalecer se\nadquieren principalmente mediante carreras."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Aquí podrás gestionar a tus Umamusume Veteranas,\nlas corredoras que han completado una partida de\nCarrera. También puedes fortalecer a tus Umamusume\nAprendíz y tus Cartas de Apoyo."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Mejorar tus Umamusume Aprendíz y\nCartas de Apoyo te permitirá obtener mejores\nresultados en tus partidas de Carrera."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Los materiales utilizados para las mejoras se\nadquieren principalmente mediante carreras.",
+            "color_text_info_list": [
+                "Los materiales utilizados para las mejoras",
+                "adquieren principalmente mediante carreras"
+            ]
+        }
+    ]
 }
