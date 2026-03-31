@@ -51,13 +51,19 @@
     },
     {
       "name": "Monólogo",
-      "text": "Si quiere seguir dedicando sus logros a su hermana\nfallecida, el Arima Kinen a fin de año podría ser\nsu próximo objetivo."
+      "text": "Si quiere seguir dedicando sus logros a su hermana\nfallecida, el Arima Kinen a fin de año podría ser\nsu próximo objetivo.",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
     },
     {
       "name": "Monólogo",
       "text": "O tal vez prefiera la Triple Corona de Primavera\nSénior, para la que también he estado preparando\nmateriales por si acaso.",
       "choice_data_list": [
         "O tal vez... deberíamos olvidarnos de todo eso."
+      ],
+      "color_text_info_list": [
+        "Sénior"
       ]
     },
     {
@@ -66,7 +72,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "En ese caso, apuntar al Takarazuka Kinen el\npróximo verano sería lo mejor. Empiezo a recopilar\ndocumentos para presentarle."
+      "text": "En ese caso, apuntar al Takarazuka Kinen el\npróximo verano sería lo mejor. Empiezo a recopilar\ndocumentos para presentarle.",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
     },
     {
       "name": "Monólogo",

@@ -11,7 +11,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Wooooo!"
+      "text": "¡Wooooo!"
     },
     {
       "name": "Admire Vega",
@@ -51,13 +51,19 @@
     },
     {
       "name": "Monólogo",
-      "text": "Si ella quiere seguir dedicando sus logros a su\ndifunta hermana, el Arima Kinen al final del año\npodría ser su próximo objetivo."
+      "text": "Si ella quiere seguir dedicando sus logros a su\ndifunta hermana, el Arima Kinen al final del año\npodría ser su próximo objetivo.",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
     },
     {
       "name": "Monólogo",
       "text": "O tal vez ella prefiera la Triple Corona de\nPrimavera Senior, para la que también he estado\npreparando materiales por si acaso.",
       "choice_data_list": [
         "O tal vez... deberíamos olvidar todo eso."
+      ],
+      "color_text_info_list": [
+        "Senior"
       ]
     },
     {
@@ -66,7 +72,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "En ese caso, apuntar al Takarazuka Kinen el\npróximo verano sería lo mejor. Empiezo a compilar\ndocumentos para presentarle."
+      "text": "En ese caso, apuntar al Takarazuka Kinen el\npróximo verano sería lo mejor. Empiezo a compilar\ndocumentos para presentarle.",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
     },
     {
       "name": "Monólogo",

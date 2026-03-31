@@ -14,6 +14,9 @@
       "text": "Oye... ¿No has visto a Shinko Windy, verdad?",
       "choice_data_list": [
         "No, no la he visto."
+      ],
+      "color_text_info_list": [
+        "Shinko Windy"
       ]
     },
     {
@@ -26,7 +29,10 @@
     },
     {
       "name": "Narita Top Road",
-      "text": "¡Encontré a Windy! ¡Gracias por tu ayuda!"
+      "text": "¡Encontré a Windy! ¡Gracias por tu ayuda!",
+      "color_text_info_list": [
+        " Windy"
+      ]
     },
     {
       "name": "Shinko Windy",
@@ -54,7 +60,11 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¡Ayabe! Ticket acaba de encontrar a Taishin y la\nestá trayendo de vuelta a la fila de nuestra\nclase."
+      "text": "¡Ayabe! Ticket acaba de encontrar a Taishin y la\nestá trayendo de vuelta a la fila de nuestra\nclase.",
+      "color_text_info_list": [
+        "Ticket",
+        "Taishin"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -82,7 +92,10 @@
     },
     {
       "name": "Narita Top Road",
-      "text": "¡No te preocupes! Tú estás manejando todo el\nconsejo estudiantil, Air Groove. ¡Deja las clases\na mí!"
+      "text": "¡No te preocupes! Tú estás manejando todo el\nconsejo estudiantil, Air Groove. ¡Deja las clases\na mí!",
+      "color_text_info_list": [
+        "Air Groove"
+      ]
     },
     {
       "name": "Narita Top Road",

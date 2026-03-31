@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Wooooo!"
+      "text": "¡Wooooo!"
     },
     {
       "name": "Espectador A",
@@ -27,7 +27,10 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "¡Soy Otonashi de Twinkle Monthly! Admire Vega, ¡tu\nactuación hoy fue simplemente increíble!"
+      "text": "¡Soy Otonashi de Twinkle Monthly! Admire Vega, ¡tu\nactuación hoy fue simplemente increíble!",
+      "color_text_info_list": [
+        "Otonashi"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -66,7 +69,10 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Voy a correr en la Classic Triple Crown."
+      "text": "Voy a correr en la Classic Triple Crown.",
+      "color_text_info_list": [
+        "Classic"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -74,11 +80,14 @@
     },
     {
       "name": "Admire Vega",
-      "text": "El Satsuki Sho. ...Eso será todo."
+      "text": "El Satsuki Sho. ...Eso será todo.",
+      "color_text_info_list": [
+        "Satsuki Sho"
+      ]
     },
     {
       "name": "Reporteros",
-      "text": "Whoooa!"
+      "text": "¡Guau!"
     },
     {
       "name": "Narita Top Road",
@@ -110,7 +119,7 @@
     },
     {
       "name": "Narita Top Road",
-      "text": "HRAAAAH!"
+      "text": "¡HRAAAAH!"
     },
     {
       "name": "Comentarista",
@@ -130,7 +139,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "Wooooo!"
+      "text": "¡Wooooo!"
     },
     {
       "name": "Narita Top Road",
@@ -142,7 +151,7 @@
     },
     {
       "name": "TV",
-      "text": "Wooooo!"
+      "text": "¡Wooooo!"
     },
     {
       "name": "Meisho Doto",
@@ -178,7 +187,10 @@
     },
     {
       "name": "???",
-      "text": "...carreras de G1. La Triple Corona Clásica—el\nSatsuki Sho, el Japanese Derby y el Kikuka Sho...\nVamos... juntos..."
+      "text": "...carreras de G1. La Triple Corona Clásica—el\nSatsuki Sho, el Japanese Derby y el Kikuka Sho...\nVamos... juntos...",
+      "color_text_info_list": [
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "???",

@@ -15,7 +15,10 @@
     },
     {
       "name": "Empleado de la rifa",
-      "text": "¡Acérquense y prueben suerte en nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!"
+      "text": "¡Acérquense y prueben suerte en nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales para dos"
+      ]
     },
     {
       "name": "Empleado de la rifa",
@@ -98,7 +101,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...Huh?"
+      "text": "...¿Eh?"
     },
     {
       "name": "Admire Vega",
@@ -209,7 +212,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Huh?"
+      "text": "¿Eh?"
     },
     {
       "name": "Admire Vega",
@@ -232,7 +235,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "What?"
+      "text": "¿Qué?"
     },
     {
       "name": "Monólogo",
@@ -302,7 +305,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Spe, ten cuidado de no atragantarte..."
+      "text": "Spe, ten cuidado de no atragantarte...",
+      "color_text_info_list": [
+        "Spe"
+      ]
     },
     {
       "name": "Silence Suzuka",

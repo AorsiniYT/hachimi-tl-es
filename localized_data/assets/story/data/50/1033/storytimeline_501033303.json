@@ -99,13 +99,19 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Apunto a lo más alto, los G1..."
+      "text": "Apunto a lo más alto, los G1...",
+      "color_text_info_list": [
+        "G1"
+      ]
     },
     {
       "name": "Admire Vega",
       "text": "Así que quiero enfrentar el Hopeful Stakes.",
       "choice_data_list": [
         "...!"
+      ],
+      "color_text_info_list": [
+        "Hopeful Stakes"
       ]
     },
     {
@@ -134,7 +140,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Y con eso, nuestra siguiente meta está fijada.\nElla competirá en el Hopeful Stakes—una carrera G1\nde tercer año donde se reúnen nuevas estrellas\nprometedoras!"
+      "text": "Y con eso, nuestra siguiente meta está fijada.\nElla competirá en el Hopeful Stakes—una carrera G1\nde tercer año donde se reúnen nuevas estrellas\nprometedoras!",
+      "color_text_info_list": [
+        "tercer año"
+      ]
     },
     {
       "name": "Monólogo",
@@ -144,7 +153,7 @@
       "name": "Admire Vega",
       "text": "Sobre el entrenamiento de ahora en adelante...",
       "choice_data_list": [
-        "Hm?"
+        "¿Mm?"
       ]
     },
     {
