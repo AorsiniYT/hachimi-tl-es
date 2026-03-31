@@ -46,7 +46,10 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Incluso cuando el otoño termina, el invierno pasa,\ny paso de los Clásicos a mi último año—mis\nsentimientos nunca cambiarán."
+      "text": "Incluso cuando el otoño termina, el invierno pasa,\ny paso de los Clásicos a mi último año—mis\nsentimientos nunca cambiarán.",
+      "color_text_info_list": [
+        "último año"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -54,6 +57,9 @@
       "choice_data_list": [
         "Creo que es un objetivo maravilloso.",
         "Creo que es un objetivo maravilloso."
+      ],
+      "color_text_info_list": [
+        "Osaka Hai"
       ]
     },
     {

@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "¡A partir de hoy, voy a asumir la Serie Twinkle\ncon Daiwa Scarlet!"
+      "text": "¡A partir de hoy, voy a asumir la Serie Twinkle\ncon Daiwa Scarlet!",
+      "color_text_info_list": [
+        "Daiwa Scarlet"
+      ]
     },
     {
       "name": "Monólogo",
@@ -31,7 +34,10 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "<i>¡E-e-excúsame! </i>¡Déjame en paz, Vodka!"
+      "text": "<i>¡E-e-excúsame! </i>¡Déjame en paz, Vodka!",
+      "color_text_info_list": [
+        "Vodka"
+      ]
     },
     {
       "name": "Vodka",
@@ -109,7 +115,10 @@
     },
     {
       "name": "Umamusume A",
-      "text": "Eh... Escuché a alguien gritando hace rato...\n¿Fuiste tú, Scarlet?"
+      "text": "Eh... Escuché a alguien gritando hace rato...\n¿Fuiste tú, Scarlet?",
+      "color_text_info_list": [
+        "Scarlet"
+      ]
     },
     {
       "name": "Daiwa Scarlet",

@@ -11,7 +11,10 @@
     },
     {
       "name": "Vendedor de rifa",
-      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! El gran premio de este año es un\ncupón para unas vacaciones en aguas termales para\ndos personas."
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! El gran premio de este año es un\ncupón para unas vacaciones en aguas termales para\ndos personas.",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
     },
     {
       "name": "Vendedor de rifa",
@@ -54,7 +57,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -119,7 +125,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -176,7 +185,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -215,7 +227,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -250,7 +265,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
