@@ -34,7 +34,10 @@
     },
     {
       "name": "Special Week",
-      "text": "Tú estás aquí, Sei está aquí, y todas estamos\ncomiendo juntas."
+      "text": "Tú estás aquí, Sei está aquí, y todas estamos\ncomiendo juntas.",
+      "color_text_info_list": [
+        "Sei"
+      ]
     },
     {
       "name": "Special Week",
@@ -126,7 +129,10 @@
     },
     {
       "name": "Special Week",
-      "text": "Los Clásicos... La gira de la Triple Corona... El\nDerby Japonés también..."
+      "text": "Los Clásicos... La gira de la Triple Corona... El\nDerby Japonés también...",
+      "color_text_info_list": [
+        "Japanese Derby"
+      ]
     },
     {
       "name": "Special Week",
@@ -138,7 +144,10 @@
     },
     {
       "name": "Special Week",
-      "text": "¿Planeas correr en el Derby? ¿Para convertirte en\nla mejor de Japón?!"
+      "text": "¿Planeas correr en el Derby? ¿Para convertirte en\nla mejor de Japón?!",
+      "color_text_info_list": [
+        "Derby"
+      ]
     },
     {
       "name": "King Halo",
@@ -200,11 +209,17 @@
       "text": "...?"
     },
     {
-      "text": "(Si recuerdo correctamente, esta es Kawakami\nPrincess. Muchos entrenadores la consideran\nbastante ambiciosa.)"
+      "text": "(Si recuerdo correctamente, esta es Kawakami\nPrincess. Muchos entrenadores la consideran\nbastante ambiciosa.)",
+      "color_text_info_list": [
+        "Kawakami Princess"
+      ]
     },
     {
       "name": "King Halo",
-      "text": "Oh, si no es Kawakami. ¿Qué pasa? Te ves como si\nte hubieras atragantado con un tomate cherry."
+      "text": "Oh, si no es Kawakami. ¿Qué pasa? Te ves como si\nte hubieras atragantado con un tomate cherry.",
+      "color_text_info_list": [
+        "Kawakami"
+      ]
     },
     {
       "name": "Kawakami Princess",

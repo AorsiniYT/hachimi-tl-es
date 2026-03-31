@@ -11,7 +11,10 @@
     },
     {
       "name": "Vendedor de Rifa",
-      "text": "¡Acérquense y prueben suerte con nuestra lotería\nde Año Nuevo! ¡El gran premio de este año es un\ncupón para unas vacaciones en aguas termales para\ndos!"
+      "text": "¡Acérquense y prueben suerte con nuestra lotería\nde Año Nuevo! ¡El gran premio de este año es un\ncupón para unas vacaciones en aguas termales para\ndos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
     },
     {
       "name": "Vendedor de Rifa",
@@ -71,7 +74,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "King Halo",
@@ -148,7 +154,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "King Halo",
@@ -199,7 +208,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Monólogo",
@@ -258,7 +270,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "King Halo",
@@ -294,7 +309,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "King Halo",

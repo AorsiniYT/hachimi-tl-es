@@ -15,7 +15,10 @@
     },
     {
       "name": "Reportero Ocupado",
-      "text": "¡Esa senior! ¡Entonces apresurémonos y salgamos de\naquí! ¡Agarren todo el equipo, rápido!"
+      "text": "¡Esa senior! ¡Entonces apresurémonos y salgamos de\naquí! ¡Agarren todo el equipo, rápido!",
+      "color_text_info_list": [
+        "veterana"
+      ]
     },
     {
       "name": "King Halo",
@@ -35,7 +38,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Los corredores solo tienen una oportunidad de\nparticipar en el tour de la Triple Corona, una\nserie compuesta por la Satsuki Sho, el Japanese\nDerby y la Kikuka Sho."
+      "text": "Los corredores solo tienen una oportunidad de\nparticipar en el tour de la Triple Corona, una\nserie compuesta por la Satsuki Sho, el Japanese\nDerby y la Kikuka Sho.",
+      "color_text_info_list": [
+        "Satsuki Sho"
+      ]
     },
     {
       "name": "Monólogo",
