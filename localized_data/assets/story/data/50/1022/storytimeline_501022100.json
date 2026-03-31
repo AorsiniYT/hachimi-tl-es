@@ -18,6 +18,10 @@
       "text": "Hoy es el día en que Fine Motion comienza a\nentrenar en serio para su debut en la Serie\nTwinkle.",
       "choice_data_list": [
         "Primero, quiero confirmar tus habilidades\nactuales."
+      ],
+      "color_text_info_list": [
+        "Fine Motion",
+        "Serie Twinkle"
       ]
     },
     {
@@ -144,7 +148,10 @@
     },
     {
       "name": "Padre de Fine",
-      "text": "...Bien. Parece que está progresando mucho."
+      "text": "...Bien. Parece que está progresando mucho.",
+      "color_text_info_list": [
+        "Bien"
+      ]
     },
     {
       "name": "Fine Motion",
