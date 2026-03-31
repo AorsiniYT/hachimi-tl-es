@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "La Copa de la Unidad se divide entre la\npretemporada y la final. ¡Nuestro primer objetivo\nserá quedar en buen lugar en las carreras de\npretemporada!"
+      "text": "La Copa de la Unidad se divide entre la\npretemporada y la final. ¡Nuestro primer objetivo\nserá quedar en buen lugar en las carreras de\npretemporada!",
+      "color_text_info_list": [
+        "pretemporada",
+        "final"
+      ]
     },
     {
       "name": "Monólogo",
@@ -15,7 +19,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "También necesitaré pensar en un nombre para el\nequipo. ¡Gracias al ánimo de Tazuna, me siento\nmotivada y más que lista para asumir el desafío\nque tengo por delante!"
+      "text": "También necesitaré pensar en un nombre para el\nequipo. ¡Gracias al ánimo de Tazuna, me siento\nmotivada y más que lista para asumir el desafío\nque tengo por delante!",
+      "color_text_info_list": [
+        "nombre para el equipo"
+      ]
     }
   ]
 }

@@ -50,7 +50,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡Obtuviste: <itemname>!"
+      "text": "¡Obtuviste: <itemname>!",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Haru Urara",

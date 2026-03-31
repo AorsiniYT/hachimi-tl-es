@@ -49,7 +49,10 @@
       "text": "Como su nombre de equipo es Blue Bloom, pensé que\nera apropiado recompensarlas con un hermoso regalo\ncon tema floral!"
     },
     {
-      "text": "¡Obtuviste: <itemname>!"
+      "text": "¡Obtuviste: <itemname>!",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Rice Shower",

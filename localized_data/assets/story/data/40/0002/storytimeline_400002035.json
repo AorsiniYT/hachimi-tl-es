@@ -50,14 +50,20 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "¡Ta-dah! ¡Suplementos de Zanahoria! ¡Este es un\nsabor original inspirado en tu equipo!"
+      "text": "¡Ta-dah! ¡Suplementos de Zanahoria! ¡Este es un\nsabor original inspirado en tu equipo!",
+      "color_text_info_list": [
+        "Suplementos de Zanahoria"
+      ]
     },
     {
       "name": "Director Akikawa",
       "text": "¡Espero que continúes esforzándote por alcanzar\ncotas cada vez más altas!"
     },
     {
-      "text": "¡Obtuviste: <itemname>!"
+      "text": "¡Obtuviste: <itemname>!",
+      "color_text_info_list": [
+        "¡Obtuviste: <itemname>!"
+      ]
     },
     {
       "name": "Monólogo",
