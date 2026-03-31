@@ -43,7 +43,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "A partir de hoy, Mejiro Ryan y yo comenzamos a\ntrabajar para abordar la Twinkle Series."
+      "text": "A partir de hoy, Mejiro Ryan y yo comenzamos a\ntrabajar para abordar la Twinkle Series.",
+      "color_text_info_list": [
+        "Mejiro Ryan",
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Monólogo",
@@ -59,11 +63,17 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Pero nunca he estado a la altura de Mejiro\nMcQueen..."
+      "text": "Pero nunca he estado a la altura de Mejiro\nMcQueen...",
+      "color_text_info_list": [
+        "Mejiro McQueen"
+      ]
     },
     {
       "name": "Mejiro Ryan",
-      "text": "¡Ella es asombrosa—la mejor de la familia y una\nverdadera dama de alta clase!"
+      "text": "¡Ella es asombrosa—la mejor de la familia y una\nverdadera dama de alta clase!",
+      "color_text_info_list": [
+        "★★★"
+      ]
     },
     {
       "name": "Mejiro Ryan",
@@ -75,7 +85,10 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "¡Pero quiero destacar por mi cuenta! ¡Vine a la\nAcademia Tracen para ganar!"
+      "text": "¡Pero quiero destacar por mi cuenta! ¡Vine a la\nAcademia Tracen para ganar!",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
     },
     {
       "name": "Mejiro Ryan",
@@ -83,6 +96,9 @@
       "choice_data_list": [
         "¿Crees que estás lista para eso?",
         "¿Crees que estás lista para eso?"
+      ],
+      "color_text_info_list": [
+        "Classics"
       ]
     },
     {
@@ -119,7 +135,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Jeje. Con tan decidida, Ryan, soy yo la que\ndebería preocuparse por mi futuro."
+      "text": "Jeje. Con tan decidida, Ryan, soy yo la que\ndebería preocuparse por mi futuro.",
+      "color_text_info_list": [
+        "Ryan"
+      ]
     },
     {
       "name": "Mejiro Ryan",
@@ -191,11 +210,17 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "¡Oh, Ines!"
+      "text": "¡Oh, Ines!",
+      "color_text_info_list": [
+        "Ines"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "Es Ines Fujin. Es amiga, compañera de cuarto y\ncompañera de Ryan."
+      "text": "Es Ines Fujin. Es amiga, compañera de cuarto y\ncompañera de Ryan.",
+      "color_text_info_list": [
+        "Ines Fujin"
+      ]
     },
     {
       "name": "Ines Fujin",
