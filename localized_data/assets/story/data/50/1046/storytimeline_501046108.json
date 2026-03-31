@@ -79,11 +79,17 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Hola, Falcon. Estuviste genial ahí afuera."
+      "text": "Hola, Falcon. Estuviste genial ahí afuera.",
+      "color_text_info_list": [
+        "Falcon"
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "¡Suzuka!"
+      "text": "¡Suzuka!",
+      "color_text_info_list": [
+        "Suzuka"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -107,7 +113,10 @@
     },
     {
       "name": "Hombre A",
-      "text": "¡Está con la Silence Suzuka de la Arena!"
+      "text": "¡Está con la Silence Suzuka de la Arena!",
+      "color_text_info_list": [
+        "Silence Suzuka de la Arena"
+      ]
     },
     {
       "name": "Smart Falcon",

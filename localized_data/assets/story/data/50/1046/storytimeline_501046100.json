@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Hoy, Smart Falcon y yo comenzamos nuestro desafío\nde competir en la Serie Centelleante al fin."
+      "text": "Hoy, Smart Falcon y yo comenzamos nuestro desafío\nde competir en la Serie Centelleante al fin.",
+      "color_text_info_list": [
+        "Smart Falcon"
+      ]
     },
     {
       "name": "Monólogo",
@@ -33,6 +36,9 @@
       "text": "¡Inteligente y espectacular sin importar qué tan\nrápido vuele! ☆ ¡Es el favorito de todos—Faaalco!\n♪",
       "choice_data_list": [
         "¿Qué haces aquí?"
+      ],
+      "color_text_info_list": [
+        "Faaalco"
       ]
     },
     {
@@ -139,11 +145,17 @@
     },
     {
       "name": "Monólogo",
-      "text": "Le recuerdo que Daiwa Scarlet y Vodka son dos de\nlas favoritas para destacar en los Clásicos este\naño. Es inevitable que llamen la atención."
+      "text": "Le recuerdo que Daiwa Scarlet y Vodka son dos de\nlas favoritas para destacar en los Clásicos este\naño. Es inevitable que llamen la atención.",
+      "color_text_info_list": [
+        "Clásicos"
+      ]
     },
     {
       "name": "Smart Falcon",
-      "text": "Los Clásicos... carreras G1, todas en <i>césped...</i>"
+      "text": "Los Clásicos... carreras G1, todas en <i>césped...</i>",
+      "color_text_info_list": [
+        "G1"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -201,7 +213,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Los clásicos, el Arima Kinen, el Japan Cup, el\nTenno Sho... Todas las carreras más importantes se\ncorren en césped."
+      "text": "Los clásicos, el Arima Kinen, el Japan Cup, el\nTenno Sho... Todas las carreras más importantes se\ncorren en césped.",
+      "color_text_info_list": [
+        "Arima Kinen",
+        "Tenno Sho"
+      ]
     },
     {
       "name": "Monólogo",

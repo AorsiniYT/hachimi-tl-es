@@ -61,6 +61,9 @@
       "text": "¡Vamos, Suzuka! ¡Tú también, Entrenador! No pongas\nesa expresión en blanco. Todos juntos ahora...\n¡Yay! ☆",
       "choice_data_list": [
         "¡Yay!"
+      ],
+      "color_text_info_list": [
+        "Suzuka"
       ]
     },
     {
@@ -69,7 +72,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Perdón, pero... ¿de qué se trata todo esto, Smart\nFalcon?"
+      "text": "Perdón, pero... ¿de qué se trata todo esto, Smart\nFalcon?",
+      "color_text_info_list": [
+        "Smart Falcon"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -77,7 +83,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Silence Suzuka ya ha logrado un gran exito en\ncésped. Su estilo dinámico y poderoso de fuga\ncautiva a todos los que la ven."
+      "text": "Silence Suzuka ya ha logrado un gran exito en\ncésped. Su estilo dinámico y poderoso de fuga\ncautiva a todos los que la ven.",
+      "color_text_info_list": [
+        "Silence Suzuka"
+      ]
     },
     {
       "name": "Monólogo",
