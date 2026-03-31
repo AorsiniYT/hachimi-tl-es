@@ -182,6 +182,9 @@
       "text": "¡Saludos! Ha pasado demasiado tiempo, Entrenador <username>!\nCreo que la última vez que hablamos fue durante\ntus días de entrenamiento!",
       "choice_data_list": [
         "Es un placer verte de nuevo."
+      ],
+      "color_text_info_list": [
+        "★★★"
       ]
     },
     {
@@ -243,11 +246,18 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "La mejor y única forma de ganar fans es participar\nen carreras."
+      "text": "La mejor y única forma de ganar fans es participar\nen carreras.",
+      "color_text_info_list": [
+        "La mejor y única forma de ganar fans",
+        "participar en carreras"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Pero si puedes acumular un gran número de\nvictorias y reunir suficiente apoyo..."
+      "text": "Pero si puedes acumular un gran número de\nvictorias y reunir suficiente apoyo...",
+      "color_text_info_list": [
+        "acumular un gran número de victorias"
+      ]
     },
     {
       "name": "Director Akikawa",

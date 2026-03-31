@@ -120,7 +120,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Gracias a mi entrenamiento diario con <chrname>, he estado\nganando músculo recientemente. El poder brota\ndesde dentro de mí, y aró el campo con facilidad."
+      "text": "Gracias a mi entrenamiento diario con <chrname>, he estado\nganando músculo recientemente. El poder brota\ndesde dentro de mí, y aró el campo con facilidad.",
+      "color_text_info_list": [
+        "ganando músculo",
+        "El poder brota desde dentro de mí"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -171,7 +175,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Monólogo",
@@ -214,7 +221,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Monólogo",

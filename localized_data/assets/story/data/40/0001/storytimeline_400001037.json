@@ -143,7 +143,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Al parecer, no tengo la fuerza suficiente para\nusar una azada..."
+      "text": "Al parecer, no tengo la fuerza suficiente para\nusar una azada...",
+      "color_text_info_list": [
+        "no tengo la fuerza suficiente",
+        "suficiente"
+      ]
     },
     {
       "name": "Monólogo",
