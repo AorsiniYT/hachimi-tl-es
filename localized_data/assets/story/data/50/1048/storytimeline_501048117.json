@@ -138,7 +138,10 @@
     },
     {
       "name": "Entrenador compañero",
-      "text": "Es un campo de estrellas. Para no mencionar que el\nganador del Derby, Eishin Flash, también estará\nallí."
+      "text": "Es un campo de estrellas. Para no mencionar que el\nganador del Derby, Eishin Flash, también estará\nallí.",
+      "color_text_info_list": [
+        "Eishin Flash"
+      ]
     },
     {
       "name": "Compañero entrenador",
@@ -149,6 +152,9 @@
       "text": "Además, sus compañeras también están progresando\nmucho. ¿Oíste sobre Nakayama Festa? Ustedes\nrealmente necesitan organizarse—",
       "choice_data_list": [
         "Tosen Jordan siempre es seria."
+      ],
+      "color_text_info_list": [
+        "Nakayama Festa"
       ]
     },
     {

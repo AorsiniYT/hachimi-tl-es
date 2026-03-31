@@ -7,7 +7,10 @@
     },
     {
       "name": "Daitaku Helios",
-      "text": "¡Oye, Jordan! ☆ ¿Quieres agarrar una hamburguesa\ndespués de la escuela?"
+      "text": "¡Oye, Jordan! ☆ ¿Quieres agarrar una hamburguesa\ndespués de la escuela?",
+      "color_text_info_list": [
+        "Jordan"
+      ]
     },
     {
       "name": "Mejiro Palmer",
@@ -51,7 +54,12 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "(No tengo idea de qué pasa con Golshi, pero Palmer\ny Helios son mis mejores amigos. Siempre están\ndispuestos a hacer el tonto, y los amo a muerte!)"
+      "text": "(No tengo idea de qué pasa con Golshi, pero Palmer\ny Helios son mis mejores amigos. Siempre están\ndispuestos a hacer el tonto, y los amo a muerte!)",
+      "color_text_info_list": [
+        "Golshi",
+        "Palmer",
+        "Helios"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -103,7 +111,10 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "¡Felicitaciones! Para todos ustedes que enfrentan\nel tercer año junto con sus trainees, les deseo la\nmejor de las suertes!"
+      "text": "¡Felicitaciones! Para todos ustedes que enfrentan\nel tercer año junto con sus trainees, les deseo la\nmejor de las suertes!",
+      "color_text_info_list": [
+        "tercer año"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -126,7 +137,10 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Oh, ¿City?"
+      "text": "Oh, ¿City?",
+      "color_text_info_list": [
+        "City"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -162,7 +176,10 @@
     },
     {
       "name": "Gold City",
-      "text": "Escuché a Tickezo llorando por eso en la plaza\nantes."
+      "text": "Escuché a Tickezo llorando por eso en la plaza\nantes.",
+      "color_text_info_list": [
+        "Tickezo"
+      ]
     },
     {
       "name": "Gold City",
@@ -209,6 +226,9 @@
       "text": "Ya es hora de mi sesión de entrenamiento con Tosen\nJordan. Me dirijo a la pista como está programado,\npero...",
       "choice_data_list": [
         "Me pregunto dónde está ella."
+      ],
+      "color_text_info_list": [
+        "★★★"
       ]
     },
     {
@@ -317,7 +337,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "...Y así, Tosen Jordan y yo comenzamos nuestro\nviaje para enfrentar la Twinkle Series."
+      "text": "...Y así, Tosen Jordan y yo comenzamos nuestro\nviaje para enfrentar la Twinkle Series.",
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Tosen Jordan",

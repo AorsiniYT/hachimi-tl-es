@@ -45,7 +45,10 @@
     },
     {
       "name": "Reportero A",
-      "text": "¿Y planeas correr en alguna carrera junior G1?"
+      "text": "¿Y planeas correr en alguna carrera junior G1?",
+      "color_text_info_list": [
+        "G1"
+      ]
     },
     {
       "name": "Umamusume A",
@@ -170,7 +173,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "El próximo objetivo de Tosen Jordan es ganar la\nHopeful Stakes."
+      "text": "El próximo objetivo de Tosen Jordan es ganar la\nHopeful Stakes.",
+      "color_text_info_list": [
+        "Hopeful Stakes"
+      ]
     }
   ]
 }
