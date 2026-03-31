@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Comentarista",
-      "text": "¡Hishi Akebono ha tomado la delantera en los\núltimos cien metros! ¡Está aprovechando sus 180\ncentímetros de altura para dar zancadas poderosas!"
+      "text": "¡Hishi Akebono ha tomado la delantera en los\núltimos cien metros! ¡Está aprovechando sus 180\ncentímetros de altura para dar zancadas poderosas!",
+      "color_text_info_list": [
+        "Hishi Akebono"
+      ]
     },
     {
       "name": "Hishi Akebono",
@@ -19,7 +22,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Hishi Akebono y yo hemos comenzado nuestro sprint\nhacia la Twinkle Series. Después de que termine un\nemocionante entrenamiento..."
+      "text": "Hishi Akebono y yo hemos comenzado nuestro sprint\nhacia la Twinkle Series. Después de que termine un\nemocionante entrenamiento...",
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Hishi Akebono",
@@ -83,7 +89,10 @@
     },
     {
       "name": "Hishi Akebono",
-      "text": "Sí, ¡por eso entré en la Academia Tracen!"
+      "text": "Sí, ¡por eso entré en la Academia Tracen!",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
     },
     {
       "name": "Monólogo",
@@ -99,7 +108,10 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Muchas gracias, Akebono! ¡Vaya, qué divertido fue\npasar el rato con todos ustedes!"
+      "text": "¡Muchas gracias, Akebono! ¡Vaya, qué divertido fue\npasar el rato con todos ustedes!",
+      "color_text_info_list": [
+        "Akebono"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -111,7 +123,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Taiki Shuttle, una estudiante con una figura alta\ny un corazón aún más grande, y Sakura Bakushin O,\nuna representante de clase bastante intensa, han\nvenido a saludar."
+      "text": "Taiki Shuttle, una estudiante con una figura alta\ny un corazón aún más grande, y Sakura Bakushin O,\nuna representante de clase bastante intensa, han\nvenido a saludar.",
+      "color_text_info_list": [
+        "Taiki Shuttle"
+      ]
     },
     {
       "name": "Monólogo",
@@ -166,11 +181,17 @@
     },
     {
       "name": "Monólogo",
-      "text": "Biko Pegasus, una estudiante que idolatra a los\nhéroes y que es buena amiga de Hishi Akebono,\nviene corriendo hacia nosotros."
+      "text": "Biko Pegasus, una estudiante que idolatra a los\nhéroes y que es buena amiga de Hishi Akebono,\nviene corriendo hacia nosotros.",
+      "color_text_info_list": [
+        "Biko Pegasus"
+      ]
     },
     {
       "name": "Hishi Akebono",
-      "text": "Oh, vaya. ¿Qué pasa, Biko?"
+      "text": "Oh, vaya. ¿Qué pasa, Biko?",
+      "color_text_info_list": [
+        "Biko"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -225,6 +246,9 @@
       "text": "Eso me recuerda... La gente ha estado comentando y\ndeseándome suerte con mi debut en Umastagram\núltimamente.",
       "choice_data_list": [
         "¿Qué es Umastagram?"
+      ],
+      "color_text_info_list": [
+        "Umastagram"
       ]
     },
     {
