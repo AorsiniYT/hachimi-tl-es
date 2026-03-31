@@ -52,6 +52,9 @@
       "text": "Quiero enfrentar la Triple Corona Clásica.",
       "choice_data_list": [
         "...!"
+      ],
+      "color_text_info_list": [
+        "Clásica"
       ]
     },
     {
@@ -60,7 +63,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Mi única opción es ganar el Satsuki Sho, el Derby\nJaponés y el Kikuka Sho, donde solo los mejores se\nreúnen para competir."
+      "text": "Mi única opción es ganar el Satsuki Sho, el Derby\nJaponés y el Kikuka Sho, donde solo los mejores se\nreúnen para competir.",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Japanese Derby"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -71,7 +78,10 @@
       ]
     },
     {
-      "text": "Sin embargo, el Satsuki Sho todavía está lejos.\nSería mejor inscribirla en algunas carreras junior\npara que gane más experiencia."
+      "text": "Sin embargo, el Satsuki Sho todavía está lejos.\nSería mejor inscribirla en algunas carreras junior\npara que gane más experiencia.",
+      "color_text_info_list": [
+        "júnior"
+      ]
     },
     {
       "text": "Con ese fin...",
@@ -82,10 +92,16 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "¿Esa no es una carrera G1 junior?"
+      "text": "¿Esa no es una carrera G1 junior?",
+      "color_text_info_list": [
+        "G1"
+      ]
     },
     {
-      "text": "Al igual que el Satsuki Sho, el Hopeful Stakes es\nuna carrera de 2,000 metros celebrada en el\nHipódromo Nakayama."
+      "text": "Al igual que el Satsuki Sho, el Hopeful Stakes es\nuna carrera de 2,000 metros celebrada en el\nHipódromo Nakayama.",
+      "color_text_info_list": [
+        "Hopeful Stakes"
+      ]
     },
     {
       "text": "Le digo que sería una buena oportunidad para tener\nuna idea de cómo será la carrera real."

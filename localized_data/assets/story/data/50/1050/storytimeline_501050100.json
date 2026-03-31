@@ -7,7 +7,10 @@
     },
     {
       "name": "Locutor",
-      "text": "¡Y doblando la última curva desde el exterior está\nNarita Taishin! ¡Parece que le cuesta conseguir\nuna buena posición!"
+      "text": "¡Y doblando la última curva desde el exterior está\nNarita Taishin! ¡Parece que le cuesta conseguir\nuna buena posición!",
+      "color_text_info_list": [
+        "Narita Taishin"
+      ]
     },
     {
       "name": "Comentarista",
@@ -55,11 +58,17 @@
     },
     {
       "name": "Super Creek",
-      "text": "<i>Bostezooo...</i> ¿Taishin? ¿Qué pasa?"
+      "text": "<i>Bostezooo...</i> ¿Taishin? ¿Qué pasa?",
+      "color_text_info_list": [
+        "Taishin"
+      ]
     },
     {
       "name": "Narita Taishin",
-      "text": "¡Guau, Creek!"
+      "text": "¡Guau, Creek!",
+      "color_text_info_list": [
+        "Creek"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -103,7 +112,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡Hoy es el día en que comienza mi viaje para\nenfrentar la Serie Twinkle con Narita Taishin!"
+      "text": "¡Hoy es el día en que comienza mi viaje para\nenfrentar la Serie Twinkle con Narita Taishin!",
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Monólogo",
@@ -181,7 +193,10 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Tracen está lleno de corredores de nivel divino, y\naún así, solo unos pocos seleccionados de aquí\ncalifican para competir en ella."
+      "text": "Tracen está lleno de corredores de nivel divino, y\naún así, solo unos pocos seleccionados de aquí\ncalifican para competir en ella.",
+      "color_text_info_list": [
+        "Tracen"
+      ]
     },
     {
       "name": "Narita Taishin",

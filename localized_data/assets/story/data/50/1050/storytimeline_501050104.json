@@ -42,7 +42,10 @@
     },
     {
       "name": "Special Week",
-      "text": "¡Tickezo! ¡Me asustaste! Eh, ¿estás seguro que\nquieres correr conmigo?"
+      "text": "¡Tickezo! ¡Me asustaste! Eh, ¿estás seguro que\nquieres correr conmigo?",
+      "color_text_info_list": [
+        "Tickezo"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -85,7 +88,11 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Viste lo que andaba haciendo Ticket, y Hayahide\ndijo que quería entrenar por su cuenta este\nverano."
+      "text": "Viste lo que andaba haciendo Ticket, y Hayahide\ndijo que quería entrenar por su cuenta este\nverano.",
+      "color_text_info_list": [
+        "Ticket",
+        "Hayahide"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -101,7 +108,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Le digo que no hay nadie en la Academia Tracen que\ndude de sus habilidades."
+      "text": "Le digo que no hay nadie en la Academia Tracen que\ndude de sus habilidades.",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
     },
     {
       "name": "Narita Taishin",

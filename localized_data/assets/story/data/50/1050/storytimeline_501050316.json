@@ -67,6 +67,9 @@
       "choice_data_list": [
         "¡Oh, el Arima Kinen!",
         "¡Oh, el Arima Kinen!"
+      ],
+      "color_text_info_list": [
+        "Gran Premio"
       ]
     },
     {
@@ -86,7 +89,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡Nuestro próximo objetivo ahora está fijado para\nel Arima Kinen!"
+      "text": "¡Nuestro próximo objetivo ahora está fijado para\nel Arima Kinen!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
     }
   ]
 }

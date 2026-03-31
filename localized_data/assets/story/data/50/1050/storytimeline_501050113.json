@@ -23,7 +23,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Cálmate, Ticket."
+      "text": "Cálmate, Ticket.",
+      "color_text_info_list": [
+        "Ticket"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -31,11 +34,18 @@
     },
     {
       "name": "Monólogo",
-      "text": "Durante el almuerzo, mi atención se desvía hacia\nuna repentina explosión de ruido y actividad. Miro\nhacia allá para ver a Narita Taishin, Biwa\nHayahide y Winning Juntas."
+      "text": "Durante el almuerzo, mi atención se desvía hacia\nuna repentina explosión de ruido y actividad. Miro\nhacia allá para ver a Narita Taishin, Biwa\nHayahide y Winning Juntas.",
+      "color_text_info_list": [
+        "Biwa Hayahide",
+        "Winning Ticket"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "Winning Ticket es honesta, llena de energía y\nlleva el corazón en la manga. Está decidida a\nconvertirse en campeona del Derby."
+      "text": "Winning Ticket es honesta, llena de energía y\nlleva el corazón en la manga. Está decidida a\nconvertirse en campeona del Derby.",
+      "color_text_info_list": [
+        "Derby"
+      ]
     },
     {
       "name": "Monólogo",
@@ -207,7 +217,10 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Ticket ha sido un dolor de cabeza desde entonces,\ny Hayahide simplemente ha estado por aquí también."
+      "text": "Ticket ha sido un dolor de cabeza desde entonces,\ny Hayahide simplemente ha estado por aquí también.",
+      "color_text_info_list": [
+        "Hayahide"
+      ]
     },
     {
       "name": "Narita Taishin",

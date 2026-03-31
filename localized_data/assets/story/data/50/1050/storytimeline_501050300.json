@@ -29,7 +29,10 @@
     },
     {
       "name": "Pantalla",
-      "text": "¡Narita Brian va en cabeza con cincuenta metros\nrestantes! ¡La mantiene... y termina primera!"
+      "text": "¡Narita Brian va en cabeza con cincuenta metros\nrestantes! ¡La mantiene... y termina primera!",
+      "color_text_info_list": [
+        "Narita Brian"
+      ]
     },
     {
       "name": "Pantalla",
@@ -37,14 +40,23 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "¿Brian ya debutó?"
+      "text": "¿Brian ya debutó?",
+      "color_text_info_list": [
+        "Brian"
+      ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Oh, hola, Taishin. Sí, estará en su tercer año\ncomenzando este año."
+      "text": "Oh, hola, Taishin. Sí, estará en su tercer año\ncomenzando este año.",
+      "color_text_info_list": [
+        "tercer año"
+      ]
     },
     {
-      "text": "Narita Brian es una Umamusume con impresionante\npoder físico—alabada como \"la Bestia\"—y también es\nla hermana menor de Biwa Hayahide."
+      "text": "Narita Brian es una Umamusume con impresionante\npoder físico—alabada como \"la Bestia\"—y también es\nla hermana menor de Biwa Hayahide.",
+      "color_text_info_list": [
+        "Bestia"
+      ]
     },
     {
       "name": "Narita Taishin",
