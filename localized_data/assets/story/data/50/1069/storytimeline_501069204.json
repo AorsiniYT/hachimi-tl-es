@@ -71,11 +71,17 @@
     },
     {
       "name": "Espectador C",
-      "text": "¡Ogurin, tú puedes! ¡Aquí es donde comienza tu\nleyenda!"
+      "text": "¡Ogurin, tú puedes! ¡Aquí es donde comienza tu\nleyenda!",
+      "color_text_info_list": [
+        "Ogurin"
+      ]
     },
     {
       "name": "Espectador D",
-      "text": "¡Muéstrales quién manda aquí, Tamamo! ¡Dales a\ntodos un sabor de ese espíritu Naniwa!"
+      "text": "¡Muéstrales quién manda aquí, Tamamo! ¡Dales a\ntodos un sabor de ese espíritu Naniwa!",
+      "color_text_info_list": [
+        "Tamamo"
+      ]
     },
     {
       "name": "Maruzensky",

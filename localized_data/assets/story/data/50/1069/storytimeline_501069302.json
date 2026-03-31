@@ -11,7 +11,10 @@
     },
     {
       "name": "Empleado de la rifa",
-      "text": "¡Acérquense y prueben suerte en nuestra rifa de\nAño Nuevo! ¡El primer premio de este año es un\nviaje a aguas termales para dos!"
+      "text": "¡Acérquense y prueben suerte en nuestra rifa de\nAño Nuevo! ¡El primer premio de este año es un\nviaje a aguas termales para dos!",
+      "color_text_info_list": [
+        "viaje a aguas termales"
+      ]
     },
     {
       "name": "Empleado de la rifa",
@@ -59,7 +62,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -161,7 +167,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -238,7 +247,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -301,7 +313,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -340,7 +355,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Sakura Chiyono O",

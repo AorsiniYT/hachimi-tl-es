@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "¡Por fin ha llegado el momento de que Sakura\nChiyono O se enfrente a la Twinkle Series!"
+      "text": "¡Por fin ha llegado el momento de que Sakura\nChiyono O se enfrente a la Twinkle Series!",
+      "color_text_info_list": [
+        "Sakura Chiyono O",
+        "Serie Twinkle"
+      ]
     },
     {
       "name": "Monólogo",
@@ -61,15 +65,24 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Hola, Chiyono O. Ven a sentarte. Esta silla está\ndisponible."
+      "text": "Hola, Chiyono O. Ven a sentarte. Esta silla está\ndisponible.",
+      "color_text_info_list": [
+        "Chiyono O"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "¡Ardan! ¡Tengo ganas de competir contigo!"
+      "text": "¡Ardan! ¡Tengo ganas de competir contigo!",
+      "color_text_info_list": [
+        "Ardan"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "Mejiro Ardan de la familia Mejiro... Ella está un\naño por encima de Sakura Chiyono O, pero parece\nque debutarán al mismo tiempo."
+      "text": "Mejiro Ardan de la familia Mejiro... Ella está un\naño por encima de Sakura Chiyono O, pero parece\nque debutarán al mismo tiempo.",
+      "color_text_info_list": [
+        "Mejiro Ardan"
+      ]
     },
     {
       "name": "Monólogo",
@@ -115,7 +128,10 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Bamboo es la apasionada cabeza del comité\ndisciplinario. Fiel a su temperamento, destaca en\ncarreras cortas y de milla."
+      "text": "Bamboo es la apasionada cabeza del comité\ndisciplinario. Fiel a su temperamento, destaca en\ncarreras cortas y de milla.",
+      "color_text_info_list": [
+        "Bamboo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -123,7 +139,10 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Por otro lado, Creek es una fondista que prefiere\nlargas distancias. También vale la pena señalar\nque es muy buena cuidando de los demás."
+      "text": "Por otro lado, Creek es una fondista que prefiere\nlargas distancias. También vale la pena señalar\nque es muy buena cuidando de los demás.",
+      "color_text_info_list": [
+        "Creek"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -135,6 +154,9 @@
       "choice_data_list": [
         "¡Ciertamente has puesto mucho trabajo en esto!",
         "¡Ciertamente has puesto mucho trabajo en esto!"
+      ],
+      "color_text_info_list": [
+        "Yaeno"
       ]
     },
     {
@@ -147,6 +169,9 @@
       "choice_data_list": [
         "El Derby Japonés...",
         "El Derby Japonés..."
+      ],
+      "color_text_info_list": [
+        "Derby Japonés"
       ]
     },
     {
@@ -155,11 +180,17 @@
     },
     {
       "name": "Monólogo",
-      "text": "Y eso se debe a Maruzensky, una Umamusume a la que\nSakura Chiyono O admira mucho."
+      "text": "Y eso se debe a Maruzensky, una Umamusume a la que\nSakura Chiyono O admira mucho.",
+      "color_text_info_list": [
+        "Maruzensky"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "Conocida como la Bestia gracias a su fuerza\nabrumadora, ella es quien le dio a Sakura Chiyono\nO este sueño."
+      "text": "Conocida como la Bestia gracias a su fuerza\nabrumadora, ella es quien le dio a Sakura Chiyono\nO este sueño.",
+      "color_text_info_list": [
+        "Bestia"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -215,7 +246,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "En primer lugar, está Yaeno Muteki. Escucho que,\nal igual que Sakura Chiyono O, es hábil en\ncarreras de media distancia."
+      "text": "En primer lugar, está Yaeno Muteki. Escucho que,\nal igual que Sakura Chiyono O, es hábil en\ncarreras de media distancia.",
+      "color_text_info_list": [
+        "Yaeno Muteki"
+      ]
     },
     {
       "name": "Monólogo",
@@ -227,7 +261,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Ardan es la hermana menor de Mejiro Ramonu, la\nprimera Umamusume en ganar la Triple Tiara. Ella\ntambién es muy talentosa, y las expectativas sobre\nella son altas."
+      "text": "Ardan es la hermana menor de Mejiro Ramonu, la\nprimera Umamusume en ganar la Triple Tiara. Ella\ntambién es muy talentosa, y las expectativas sobre\nella son altas.",
+      "color_text_info_list": [
+        "Mejiro Ramonu"
+      ]
     },
     {
       "name": "Monólogo",
@@ -254,7 +291,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Veo ni más ni menos que a Maruzensky, junto con el\ncampeón de la Triple Corona, Mr. C.B."
+      "text": "Veo ni más ni menos que a Maruzensky, junto con el\ncampeón de la Triple Corona, Mr. C.B.",
+      "color_text_info_list": [
+        "Mr. C.B."
+      ]
     },
     {
       "name": "Monólogo",
@@ -266,7 +306,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "¡Chiyooo! ¡Tú puedes!"
+      "text": "¡Chiyooo! ¡Tú puedes!",
+      "color_text_info_list": [
+        "Chiyooo"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -278,6 +321,9 @@
       "choice_data_list": [
         "Te estás sonrojando.",
         "Te estás sonrojando."
+      ],
+      "color_text_info_list": [
+        "Maruzen"
       ]
     },
     {
@@ -286,7 +332,10 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Ella es el poderoso Hot Rod que destruye límites\ndondequiera que va."
+      "text": "Ella es el poderoso Hot Rod que destruye límites\ndondequiera que va.",
+      "color_text_info_list": [
+        "Hot Rod"
+      ]
     },
     {
       "name": "Sakura Chiyono O",

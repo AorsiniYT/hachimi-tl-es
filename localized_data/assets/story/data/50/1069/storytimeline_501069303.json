@@ -70,7 +70,10 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "¿Eh? ¿Qué? ¿U-una G1?!"
+      "text": "¿Eh? ¿Qué? ¿U-una G1?!",
+      "color_text_info_list": [
+        "G1"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -78,6 +81,9 @@
       "choice_data_list": [
         "El Asahi Hai Futurity Stakes, ¿eh?",
         "El Asahi Hai Futurity Stakes, ¿eh?"
+      ],
+      "color_text_info_list": [
+        "Asahi Hai Futurity Stakes"
       ]
     },
     {
@@ -86,7 +92,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Para ser honesto, estaba pensando más en el\nHopeful Stakes de 2,000 metros— como una carrera\nde media distancia en césped como el Derby, parece\nla opción más natural, pero..."
+      "text": "Para ser honesto, estaba pensando más en el\nHopeful Stakes de 2,000 metros— como una carrera\nde media distancia en césped como el Derby, parece\nla opción más natural, pero...",
+      "color_text_info_list": [
+        "Hopeful Stakes"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -109,7 +118,10 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "Eso significa que serás la única entre nosotras en\naceptar el desafío de convertirte en la campeona\njunior."
+      "text": "Eso significa que serás la única entre nosotras en\naceptar el desafío de convertirte en la campeona\njunior.",
+      "color_text_info_list": [
+        "júnior"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -117,7 +129,10 @@
     },
     {
       "name": "Yaeno Muteki",
-      "text": "No. Mis piernas aún no han mejorado lo suficiente,\nasí que mi debut se ha retrasado."
+      "text": "No. Mis piernas aún no han mejorado lo suficiente,\nasí que mi debut se ha retrasado.",
+      "color_text_info_list": [
+        "primera carrera"
+      ]
     },
     {
       "name": "Yaeno Muteki",
