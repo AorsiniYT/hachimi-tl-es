@@ -7,7 +7,10 @@
     },
     {
       "name": "Empleado del sorteo",
-      "text": "¡Acérquense y prueben suerte con nuestro sorteo de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!"
+      "text": "¡Acérquense y prueben suerte con nuestro sorteo de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
     },
     {
       "name": "Empleado del sorteo",
@@ -65,7 +68,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -123,7 +129,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -174,7 +183,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -205,7 +217,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -232,7 +247,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Kawakami Princess",

@@ -93,7 +93,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Ha llegado el día en que Kawakami Princess hará su\ndebut."
+      "text": "Ha llegado el día en que Kawakami Princess hará su\ndebut.",
+      "color_text_info_list": [
+        "estreno"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -108,6 +111,9 @@
       "text": "Como mínimo, durante mi año de potranca, quiero\ncorrer en el Hanshin Juvenile Fillies, y luego\nrecorrer el camino G1!",
       "choice_data_list": [
         "(Pero esas carreras G1 son el problema...)"
+      ],
+      "color_text_info_list": [
+        "año de potranca"
       ]
     },
     {
@@ -119,6 +125,9 @@
       "text": "Y muchas de esas carreras G1 solo se pueden correr\ndurante los años de potranca y clásica.",
       "choice_data_list": [
         "(Pero aun así...)"
+      ],
+      "color_text_info_list": [
+        "clásica"
       ]
     },
     {

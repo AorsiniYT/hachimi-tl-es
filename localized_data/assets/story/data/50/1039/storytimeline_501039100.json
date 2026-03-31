@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "¡Mis días de entrenamiento con Kawakami Princess\nfinalmente están por comenzar! Hoy, empezaremos\ncon..."
+      "text": "¡Mis días de entrenamiento con Kawakami Princess\nfinalmente están por comenzar! Hoy, empezaremos\ncon...",
+      "color_text_info_list": [
+        "Kawakami Princess"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -213,11 +216,17 @@
     },
     {
       "name": "King Halo",
-      "text": "¡Ohohoho! ¡Sí, soy yo! La Umamusume de primera,\nKing Halo!"
+      "text": "¡Ohohoho! ¡Sí, soy yo! La Umamusume de primera,\nKing Halo!",
+      "color_text_info_list": [
+        "King Halo"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "La autoproclamada Umamusume de primera, King Halo\nes una corredora actualmente en su último año.\nKawakami Princess la ve como un ídolo."
+      "text": "La autoproclamada Umamusume de primera, King Halo\nes una corredora actualmente en su último año.\nKawakami Princess la ve como un ídolo.",
+      "color_text_info_list": [
+        "último año"
+      ]
     },
     {
       "name": "King Halo",
@@ -256,7 +265,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Y así, comienzo mi viaje para enfrentar la Serie\nTwinkle con la enérgica Kawakami Princess."
+      "text": "Y así, comienzo mi viaje para enfrentar la Serie\nTwinkle con la enérgica Kawakami Princess.",
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
     }
   ]
 }

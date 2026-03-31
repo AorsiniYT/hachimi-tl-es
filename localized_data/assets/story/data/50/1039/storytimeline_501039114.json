@@ -123,7 +123,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Hoy, he traído a Kawakami Princess conmigo a Kioto\npara ver la Queen Elizabeth II Cup."
+      "text": "Hoy, he traído a Kawakami Princess conmigo a Kioto\npara ver la Queen Elizabeth II Cup.",
+      "color_text_info_list": [
+        "Queen Elizabeth II Cup"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -154,11 +157,17 @@
     },
     {
       "name": "Locutor",
-      "text": "¡La siguiente en aparecer en la hierba es Sweep\nTosho! Ella recientemente arrasó con sus oponentes\nen su camino a la victoria en el Takarazuka Kinen!"
+      "text": "¡La siguiente en aparecer en la hierba es Sweep\nTosho! Ella recientemente arrasó con sus oponentes\nen su camino a la victoria en el Takarazuka Kinen!",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
     },
     {
       "name": "Espectador rubio",
-      "text": "¡Oh, es Sweep! ¡Por favor, asegúrate de llegar a\nla puerta temprano hoy!"
+      "text": "¡Oh, es Sweep! ¡Por favor, asegúrate de llegar a\nla puerta temprano hoy!",
+      "color_text_info_list": [
+        "Sweep"
+      ]
     },
     {
       "name": "Sweep Tosho",
@@ -170,7 +179,10 @@
     },
     {
       "name": "Señora con sombrero",
-      "text": "Estoy de acuerdo. <i>Suspiro...</i> Si ella también\nparticipa, entonces espero que esto no se\nconvierta en una repetición del Tenno Sho otonal."
+      "text": "Estoy de acuerdo. <i>Suspiro...</i> Si ella también\nparticipa, entonces espero que esto no se\nconvierta en una repetición del Tenno Sho otonal.",
+      "color_text_info_list": [
+        "Tenno Sho otonal"
+      ]
     },
     {
       "name": "Sweep Tosho",
