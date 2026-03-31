@@ -259,7 +259,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Muy bien, entonces, escuchemos tus planes para mis\ncarreras de último año. Estoy todo oídos."
+      "text": "Muy bien, entonces, escuchemos tus planes para mis\ncarreras de último año. Estoy todo oídos.",
+      "color_text_info_list": [
+        "último año"
+      ]
     },
     {
       "name": "Monólogo",
@@ -313,7 +316,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "La carrera más cercana es un G1 medio, el Osaka\nHai. Con nuestra vista firmemente puesta, ¡es hora\nde traer a casa el trofeo!"
+      "text": "La carrera más cercana es un G1 medio, el Osaka\nHai. Con nuestra vista firmemente puesta, ¡es hora\nde traer a casa el trofeo!",
+      "color_text_info_list": [
+        "Osaka Hai"
+      ]
     }
   ]
 }
