@@ -11,7 +11,10 @@
     },
     {
       "name": "Dependiente de la Rifa",
-      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El primer premio de este año es un\ncupón para unas vacaciones en aguas termales para\ndos personas!"
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El primer premio de este año es un\ncupón para unas vacaciones en aguas termales para\ndos personas!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
     },
     {
       "name": "Dependiente de la Rifa",
@@ -90,7 +93,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -169,7 +175,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -232,7 +241,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -300,7 +312,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -354,7 +369,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Haru Urara",

@@ -3,13 +3,19 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Un día, mientras Haru Urara va ganando\nreconocimiento y se acerca al final de su año\nclásico..."
+      "text": "Un día, mientras Haru Urara va ganando\nreconocimiento y se acerca al final de su año\nclásico...",
+      "color_text_info_list": [
+        "año clásico"
+      ]
     },
     {
       "name": "Haru Urara",
       "text": "¡Oye, Entrenador! ¡Vamos a esa carrera Arima\nKinen!",
       "choice_data_list": [
         "¿Arima Kinen?"
+      ],
+      "color_text_info_list": [
+        "Arima Kinen"
       ]
     },
     {
@@ -18,11 +24,18 @@
     },
     {
       "name": "Haru Urara",
-      "text": "¡Escuché que tanto Spe como Grass van a estar en\nella! ¡Han estado entrenando superduro!"
+      "text": "¡Escuché que tanto Spe como Grass van a estar en\nella! ¡Han estado entrenando superduro!",
+      "color_text_info_list": [
+        "Spe",
+        "Grass"
+      ]
     },
     {
       "name": "Haru Urara",
-      "text": "¡Sei dijo que ella también va, así que yo también\nquiero ir!"
+      "text": "¡Sei dijo que ella también va, así que yo también\nquiero ir!",
+      "color_text_info_list": [
+        "Sei"
+      ]
     },
     {
       "name": "Monólogo",
@@ -46,7 +59,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Special Week y Grass Wonder están entre las\nUmamusume más vistas de este año."
+      "text": "Special Week y Grass Wonder están entre las\nUmamusume más vistas de este año.",
+      "color_text_info_list": [
+        "Special Week",
+        "Grass Wonder"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -228,7 +245,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Si Haru Urara quiere entrar en el Arima Kinen,\nprimero tendrá que demostrar que tiene lo\nnecesario quedando en puestos altos en carreras\ncon grado."
+      "text": "Si Haru Urara quiere entrar en el Arima Kinen,\nprimero tendrá que demostrar que tiene lo\nnecesario quedando en puestos altos en carreras\ncon grado.",
+      "color_text_info_list": [
+        "carreras con grado"
+      ]
     },
     {
       "name": "Haru Urara",
