@@ -2,7 +2,10 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Es la temporada, y los estudiantes de la Academia\nTracen están de buen ánimo..."
+      "text": "Es la temporada, y los estudiantes de la Academia\nTracen están de buen ánimo...",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -79,7 +82,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Gracias por organizar una fiesta tan maravillosa,\nTaiki."
+      "text": "Gracias por organizar una fiesta tan maravillosa,\nTaiki.",
+      "color_text_info_list": [
+        "Taiki"
+      ]
     },
     {
       "name": "Taiki Shuttle",

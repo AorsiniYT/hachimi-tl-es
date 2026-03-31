@@ -108,7 +108,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "No estoy cien por ciento seguro de lo que pasa,\npero juzgando por la reacción de Tazuna, terminar\nlas zanahorias probablemente no es tarea fácil."
+      "text": "No estoy cien por ciento seguro de lo que pasa,\npero juzgando por la reacción de Tazuna, terminar\nlas zanahorias probablemente no es tarea fácil.",
+      "color_text_info_list": [
+        "Tazuna"
+      ]
     },
     {
       "name": "Monólogo",
@@ -136,7 +139,10 @@
     },
     {
       "name": "Chico B",
-      "text": "¡Vamos, Taiki! ¡Sigue corriendo!"
+      "text": "¡Vamos, Taiki! ¡Sigue corriendo!",
+      "color_text_info_list": [
+        "Taiki"
+      ]
     },
     {
       "name": "Taiki Shuttle",

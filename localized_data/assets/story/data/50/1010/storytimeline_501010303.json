@@ -81,6 +81,9 @@
       "text": "Para ser más específico, podrías apuntar a los\nClásicos o al Tenno Sho.",
       "choice_data_list": [
         "(Todas esas carreras son demasiado largas para\nTaiki...)"
+      ],
+      "color_text_info_list": [
+        "Tenno Sho"
       ]
     },
     {
@@ -99,7 +102,10 @@
       "text": "¿Por qué no vas a ver qué está haciendo tu pupila?"
     },
     {
-      "text": "Siguiendo el consejo de Tazuna, voy a buscar a\nTaiki Shuttle."
+      "text": "Siguiendo el consejo de Tazuna, voy a buscar a\nTaiki Shuttle.",
+      "color_text_info_list": [
+        "Tazuna"
+      ]
     },
     {
       "text": "La encuentro en los terrenos de la academia\npracticando duro por su cuenta."
@@ -122,7 +128,10 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "Oh, ¡pero si es Suzuka y Air Groove! ¿Están\ncorriendo juntas?"
+      "text": "Oh, ¡pero si es Suzuka y Air Groove! ¿Están\ncorriendo juntas?",
+      "color_text_info_list": [
+        "Suzuka"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -141,7 +150,10 @@
       "text": "¿¡Qué?!"
     },
     {
-      "text": "Air Groove y Silence Suzuka van adelante por unos\ncientos de metros."
+      "text": "Air Groove y Silence Suzuka van adelante por unos\ncientos de metros.",
+      "color_text_info_list": [
+        "Silence Suzuka"
+      ]
     },
     {
       "text": "Sin embargo, Taiki Shuttle se acerca a ellas,\nllegando a una velocidad tremenda."
@@ -223,7 +235,10 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Entendido! Vamos a entrenar para el Shinzan Kinen\nsin parar!"
+      "text": "¡Entendido! Vamos a entrenar para el Shinzan Kinen\nsin parar!",
+      "color_text_info_list": [
+        "Shinzan Kinen"
+      ]
     }
   ]
 }

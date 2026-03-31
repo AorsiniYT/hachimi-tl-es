@@ -62,7 +62,10 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Guau! ¡Esa es una carrera G1, ¿verdad?!"
+      "text": "¡Guau! ¡Esa es una carrera G1, ¿verdad?!",
+      "color_text_info_list": [
+        "G1"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -94,7 +97,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Y así, decidimos el NHK Mile Cup, la carrera que\ncorona al Rey de la Milla para el año clásico."
+      "text": "Y así, decidimos el NHK Mile Cup, la carrera que\ncorona al Rey de la Milla para el año clásico.",
+      "color_text_info_list": [
+        "año clásico",
+        "NHK Mile Cup"
+      ]
     }
   ]
 }
