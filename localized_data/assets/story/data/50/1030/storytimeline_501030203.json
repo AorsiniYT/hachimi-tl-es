@@ -58,7 +58,10 @@
     },
     {
       "name": "Comentarista",
-      "text": "¿Mihono Bourbon, el Cohete Castaño? ¿O Rice\nShower, la Resistente Negra? ¡Este será un\nenfrentamiento para la historia!"
+      "text": "¿Mihono Bourbon, el Cohete Castaño? ¿O Rice\nShower, la Resistente Negra? ¡Este será un\nenfrentamiento para la historia!",
+      "color_text_info_list": [
+        "Resistente Negra"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -93,11 +96,17 @@
       "choice_data_list": [
         "¿Qué están haciendo aquí?",
         "¿Qué están haciendo aquí?"
+      ],
+      "color_text_info_list": [
+        "Zenno Rob Roy"
       ]
     },
     {
       "name": "Haru Urara",
-      "text": "¡Ehehe! Estamos aquí para apoyar a Rice,\n¡obviamente! ¿Verdad, Rob Roy?"
+      "text": "¡Ehehe! Estamos aquí para apoyar a Rice,\n¡obviamente! ¿Verdad, Rob Roy?",
+      "color_text_info_list": [
+        "Rob Roy"
+      ]
     },
     {
       "name": "Zenno Rob Roy",

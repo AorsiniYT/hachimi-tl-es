@@ -43,15 +43,24 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Guau... hay tanta gente. Es como una carrera G1..."
+      "text": "Guau... hay tanta gente. Es como una carrera G1...",
+      "color_text_info_list": [
+        "G1"
+      ]
     },
     {
       "name": "Rice Shower",
-      "text": "¿Eh? Espera, pensé que dijiste que la carrera de\nhoy ni siquiera estaba clasificada."
+      "text": "¿Eh? Espera, pensé que dijiste que la carrera de\nhoy ni siquiera estaba clasificada.",
+      "color_text_info_list": [
+        "clasificada"
+      ]
     },
     {
       "name": "Comentarista",
-      "text": "¡Aquí está! ¡Mihono Bourbon! ¡Qué manera de\ndebutar!"
+      "text": "¡Aquí está! ¡Mihono Bourbon! ¡Qué manera de\ndebutar!",
+      "color_text_info_list": [
+        "Mihono Bourbon"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -183,7 +192,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Pero primero, como calentamiento para la gira de\nla Triple Corona, decidimos enfrentar las Spring\nStakes."
+      "text": "Pero primero, como calentamiento para la gira de\nla Triple Corona, decidimos enfrentar las Spring\nStakes.",
+      "color_text_info_list": [
+        "Spring Stakes"
+      ]
     }
   ]
 }

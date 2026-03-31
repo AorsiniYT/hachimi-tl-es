@@ -30,7 +30,10 @@
     },
     {
       "name": "Reportero A",
-      "text": "¡Vimos un poco del Auburn Rocket allá atrás!"
+      "text": "¡Vimos un poco del Auburn Rocket allá atrás!",
+      "color_text_info_list": [
+        "Auburn Rocket"
+      ]
     },
     {
       "name": "Reportero A",
@@ -86,7 +89,12 @@
     },
     {
       "name": "Monólogo",
-      "text": "La Triple Corona está compuesta por tres carreras\nClásicas—el Satsuki Sho, el Japanese Derby y el\nKikuka Sho."
+      "text": "La Triple Corona está compuesta por tres carreras\nClásicas—el Satsuki Sho, el Japanese Derby y el\nKikuka Sho.",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Japanese Derby",
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "Monólogo",

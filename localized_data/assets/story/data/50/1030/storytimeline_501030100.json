@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Rice Shower",
-      "text": "...Tengo un entrenador."
+      "text": "...Tengo un entrenador.",
+      "color_text_info_list": [
+        "★★★"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -47,7 +50,11 @@
     },
     {
       "name": "Umamusume A",
-      "text": "¡Y ese es otro nuevo récord, Bourbon! ¡Parece que\nla estrella de los Clásicos de este año ya está\ndecidida!"
+      "text": "¡Y ese es otro nuevo récord, Bourbon! ¡Parece que\nla estrella de los Clásicos de este año ya está\ndecidida!",
+      "color_text_info_list": [
+        "Bourbon",
+        "Classics"
+      ]
     },
     {
       "name": "Umamusume B",
@@ -71,7 +78,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡Rice Shower y yo comenzamos a trabajar hacia la\nTwinkle Series hoy!"
+      "text": "¡Rice Shower y yo comenzamos a trabajar hacia la\nTwinkle Series hoy!",
+      "color_text_info_list": [
+        "Rice Shower",
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Monólogo",
