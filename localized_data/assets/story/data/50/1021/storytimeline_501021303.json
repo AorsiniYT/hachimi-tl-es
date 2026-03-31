@@ -91,6 +91,10 @@
       "text": "¡Y el próximo lugar que quiero llevar estas tripas\nes un G1! ¿Qué tal si probamos las Hopeful Stakes\no algo? ¡Tengo que darme prisa y mostrarle a la\ngente de mi casa lo lejos que he llegado!",
       "choice_data_list": [
         "Es una aspiración admirable, pero no estoy seguro\nde que debamos hacerla nuestro objetivo..."
+      ],
+      "color_text_info_list": [
+        "G1",
+        "Hopeful Stakes"
       ]
     },
     {
@@ -134,7 +138,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Tamamo Cross hace su gran debut en lucha de sumo,\npero no tarda en ser expulsada del ring por la\nimponente yokozuna, Hishi Akebono."
+      "text": "Tamamo Cross hace su gran debut en lucha de sumo,\npero no tarda en ser expulsada del ring por la\nimponente yokozuna, Hishi Akebono.",
+      "color_text_info_list": [
+        "Hishi Akebono"
+      ]
     },
     {
       "name": "Tamamo Cross",
