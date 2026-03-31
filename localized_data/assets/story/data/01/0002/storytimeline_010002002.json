@@ -1,29 +1,32 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Antes que nada, ¡conozcamos a algunas\nde las Umamusume con las que trabajarás!"
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Las Umamusume que puedes entrenar en una\npartida de Carrera se conocen como Umamusume\nAprendíz."
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Ten en cuenta que, si no has agregado a una\nUmamusume a tu lista de Umamusume Aprendices,\nno podrás entrenarla en una partida de Carrera",
-            "color_text_info_list": [
-                "si no has agregado a una Umamusume a tu lista de Umamusume Aprendices",
-                "no podrás entrenarla en una partida de Carrera"
-            ]
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "¡A través del reclutamiento puedes conocer a\nnuevas potenciales aprendices!"
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Pues bien, ¡probemos suerte en el Reclutamiento\nde Pretty Derby!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Antes que nada, ¡conozcamos a algunas\nde las Umamusume con las que trabajarás!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Las Umamusume que puedes entrenar en una\npartida de Carrera se conocen como Umamusume\nAprendíz.",
+      "color_text_info_list": [
+        "Umamusume Aprendíz"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ten en cuenta que, si no has agregado a una\nUmamusume a tu lista de Umamusume Aprendices,\nno podrás entrenarla en una partida de Carrera",
+      "color_text_info_list": [
+        "si no has agregado a una Umamusume a tu lista de Umamusume Aprendices",
+        "no podrás entrenarla en una partida de Carrera"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡A través del reclutamiento puedes conocer a\nnuevas potenciales aprendices!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Pues bien, ¡probemos suerte en el Reclutamiento\nde Pretty Derby!"
+    }
+  ]
 }
