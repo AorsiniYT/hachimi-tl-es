@@ -11,7 +11,10 @@
     },
     {
       "name": "Vendedor de Rifa",
-      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!"
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales para dos"
+      ]
     },
     {
       "name": "Vendedor de Rifa",
@@ -63,7 +66,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -143,7 +149,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -191,7 +200,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -246,7 +258,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -285,7 +300,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Kitasan Black",

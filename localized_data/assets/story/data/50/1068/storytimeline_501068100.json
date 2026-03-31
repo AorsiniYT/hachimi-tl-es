@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Espectadores",
-      "text": "Wooooo!"
+      "text": "Vamos!"
     },
     {
       "name": "Kitasan Black",
@@ -15,11 +15,17 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Fue una promesa extremadamente importante con mi\nmejor amiga, Satono Diamond."
+      "text": "Fue una promesa extremadamente importante con mi\nmejor amiga, Satono Diamond.",
+      "color_text_info_list": [
+        "Satono Diamond"
+      ]
     },
     {
       "name": "Kitasan joven",
-      "text": "Una carrera grande, ¿eh? Así que tú también\nquieres correr en una, ¡Dia!"
+      "text": "Una carrera grande, ¿eh? Así que tú también\nquieres correr en una, ¡Dia!",
+      "color_text_info_list": [
+        "Dia"
+      ]
     },
     {
       "name": "Kitasan joven",
@@ -31,15 +37,25 @@
     },
     {
       "name": "Dia joven",
-      "text": "Mmm... Quiero ganar una carrera G1. Creo que esa\nes la razón por la que nací."
+      "text": "Mmm... Quiero ganar una carrera G1. Creo que esa\nes la razón por la que nací.",
+      "color_text_info_list": [
+        "G1"
+      ]
     },
     {
       "name": "Kitasan joven",
-      "text": "¡Oh, vaya! ¡Entonces vamos ambas a Tracen!\n¡Podremos correr juntas allí si lo hacemos!"
+      "text": "¡Oh, vaya! ¡Entonces vamos ambas a Tracen!\n¡Podremos correr juntas allí si lo hacemos!",
+      "color_text_info_list": [
+        "Tracen"
+      ]
     },
     {
       "name": "Dia joven",
-      "text": "¡Oh, Kita! Vale, ¡es una promesa! ¡Corramos\ntambién la Triple Corona Clásica!"
+      "text": "¡Oh, Kita! Vale, ¡es una promesa! ¡Corramos\ntambién la Triple Corona Clásica!",
+      "color_text_info_list": [
+        "Kita",
+        "Clásica"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -47,7 +63,11 @@
     },
     {
       "name": "Comentarista",
-      "text": "¡Es Tokai Teio! ¡Tokai Teio es la campeona del\nSatsuki Sho! ¡Acabamos de presenciar un atisbo de\nsu magnífico talento aquí, gente!"
+      "text": "¡Es Tokai Teio! ¡Tokai Teio es la campeona del\nSatsuki Sho! ¡Acabamos de presenciar un atisbo de\nsu magnífico talento aquí, gente!",
+      "color_text_info_list": [
+        "Tokai Teio",
+        "Satsuki Sho"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -55,11 +75,14 @@
     },
     {
       "name": "Kitasan joven",
-      "text": "¡Tokai Teio!"
+      "text": "¡Tokai Teio!",
+      "color_text_info_list": [
+        "Tokai Teio"
+      ]
     },
     {
       "name": "Espectadores",
-      "text": "Wooooo!"
+      "text": "Vamos!"
     },
     {
       "name": "Kitasan Black",
@@ -83,6 +106,9 @@
       "choice_data_list": [
         "¿Estuviste ayudando a alguien de nuevo?",
         "¿Estuviste ayudando a alguien de nuevo?"
+      ],
+      "color_text_info_list": [
+        "Serie Twinkle"
       ]
     },
     {
@@ -91,7 +117,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Esta es la Umamusume que tengo a mi cargo, Kitasan\nBlack."
+      "text": "Esta es la Umamusume que tengo a mi cargo, Kitasan\nBlack.",
+      "color_text_info_list": [
+        "Kitasan Black"
+      ]
     },
     {
       "name": "Monólogo",

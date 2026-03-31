@@ -23,7 +23,12 @@
     },
     {
       "name": "Monólogo",
-      "text": "El grupo estelar también incluye a la velocísima\nSilence Suzuka, a la originaria de Hokkaido\nSpecial Week y a la siempre impredecible Gold\nShip."
+      "text": "El grupo estelar también incluye a la velocísima\nSilence Suzuka, a la originaria de Hokkaido\nSpecial Week y a la siempre impredecible Gold\nShip.",
+      "color_text_info_list": [
+        "Silence Suzuka",
+        "Week",
+        "Week"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -35,11 +40,18 @@
     },
     {
       "name": "Comentarista",
-      "text": "¡Es la recta final, y aquí viene! ¡Brusquement se\naleja! Tres cuerpos... cuatro... cinco cuerpos\ncompletos para una victoria contundente!"
+      "text": "¡Es la recta final, y aquí viene! ¡Brusquement se\naleja! Tres cuerpos... cuatro... cinco cuerpos\ncompletos para una victoria contundente!",
+      "color_text_info_list": [
+        "Brusquement"
+      ]
     },
     {
       "name": "Comentarista",
-      "text": "¡La Emperatriz Air Groove la ha entrenado bien!\n¡Qué velocidad y fuerza tan asombrosas nos ha\nmostrado hoy!"
+      "text": "¡La Emperatriz Air Groove la ha entrenado bien!\n¡Qué velocidad y fuerza tan asombrosas nos ha\nmostrado hoy!",
+      "color_text_info_list": [
+        "Emperatriz",
+        "Air Groove"
+      ]
     },
     {
       "name": "Air Groove",
@@ -130,7 +142,10 @@
     },
     {
       "name": "Special Week",
-      "text": "Vaya... ¿Todo esto no te trae recuerdos, Suzuka?\nEscuchar todas sus preguntas entusiastas y ver sus\ncámaras destellar?"
+      "text": "Vaya... ¿Todo esto no te trae recuerdos, Suzuka?\nEscuchar todas sus preguntas entusiastas y ver sus\ncámaras destellar?",
+      "color_text_info_list": [
+        "Suzuka"
+      ]
     },
     {
       "name": "Special Week",

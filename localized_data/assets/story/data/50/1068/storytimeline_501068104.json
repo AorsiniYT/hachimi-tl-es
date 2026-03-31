@@ -17,12 +17,12 @@
       "name": "Monólogo",
       "text": "Si todo lo que Kitasan Black necesitaba era un\nimpulso a su energía, esa respuesta sería\nsuficiente, pero ahora necesita más que eso...",
       "choice_data_list": [
-        "Why don't you ask the other students for advice\ntonight?"
+        "Por qué no les pides a las otras estudiantes\nconsejo esta noche?"
       ]
     },
     {
       "name": "Kitasan Black",
-      "text": "Sure! Thanks for the advice, Trainer!"
+      "text": "¡Claro! ¡Gracias por el consejo, Entrenador!"
     },
     {
       "name": "Monólogo",
@@ -70,11 +70,11 @@
     },
     {
       "name": "Gold Ship",
-      "text": "I'd do the same thing."
+      "text": "Yo haría lo mismo."
     },
     {
       "name": "Kitasan Black",
-      "text": "You too, Golshi?"
+      "text": "¿Tú también, Golshi?"
     },
     {
       "name": "Gold Ship",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "I don't, and I don't think I ever will!"
+      "text": "¡No lo hago, y no creo que alguna vez lo haga!"
     },
     {
       "name": "Monólogo",
@@ -114,7 +114,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "I guess that's a good place to start..."
+      "text": "Supongo que ese es un buen lugar para empezar..."
     },
     {
       "name": "Vodka",
@@ -164,8 +164,8 @@
       "name": "Monólogo",
       "text": "No sé cómo nos metimos en esta extraña competencia\nde popularidad, pero si tuviera que decir cuya\nfilosofía fue más influyente, diría...",
       "choice_data_list": [
-        "Gold Ship and her unconventional methods.",
-        "Vodka and her defiant spirit."
+        "Gold Ship y sus métodos no convencionales.",
+        "Vodka y su espíritu desafiante."
       ]
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Thank you! That would be great!"
+      "text": "¡Gracias! ¡Eso sería genial!"
     },
     {
       "name": "Monólogo",
@@ -226,7 +226,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Hm?"
+      "text": "¿Mmm?"
     },
     {
       "name": "Kitasan Black",
@@ -254,7 +254,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Really?"
+      "text": "¿En serio?"
     },
     {
       "name": "Señora de la tienda de ramen",
@@ -270,7 +270,10 @@
     },
     {
       "name": "Señora de la tienda de ramen",
-      "text": "Ella lentamente ganó atención poco a poco, y\ncuando finalmente ganó su primera carrera G1, ¡ay,\nqué alboroto hicimos por ella!"
+      "text": "Ella lentamente ganó atención poco a poco, y\ncuando finalmente ganó su primera carrera G1, ¡ay,\nqué alboroto hicimos por ella!",
+      "color_text_info_list": [
+        "G1"
+      ]
     },
     {
       "name": "Señora de la tienda de ramen",
@@ -282,11 +285,11 @@
     },
     {
       "name": "Señora de la tienda de ramen",
-      "text": "Well, let's see... About five years."
+      "text": "Bueno, veamos... Unos cinco años."
     },
     {
       "name": "Kitasan Black",
-      "text": "Five years?!"
+      "text": "¡Cinco años?!"
     },
     {
       "name": "Señora de la tienda de ramen",
@@ -322,7 +325,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "I... I..."
+      "text": "Yo... Yo..."
     },
     {
       "name": "Monólogo",
@@ -334,7 +337,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Trainer, I'm... I'm so pathetic."
+      "text": "Entrenador, soy... soy tan patético."
     },
     {
       "name": "Kitasan Black",
@@ -350,7 +353,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Yet here I am, complaining..."
+      "text": "Sin embargo, aquí estoy, quejándome..."
     },
     {
       "name": "Monólogo",

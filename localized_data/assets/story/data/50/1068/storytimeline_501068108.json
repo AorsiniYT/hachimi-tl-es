@@ -3,11 +3,17 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "El Festival de Fans, un evento donde los fans de\nUmamusume se reúnen en la Academia Tracen, está a\nla vuelta de la esquina."
+      "text": "El Festival de Fans, un evento donde los fans de\nUmamusume se reúnen en la Academia Tracen, está a\nla vuelta de la esquina.",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
     },
     {
       "name": "Special Week",
-      "text": "¿El sueño de Kitasan es poner una sonrisa en el\nrostro de todos? ¡Eso es tan maravilloso!"
+      "text": "¿El sueño de Kitasan es poner una sonrisa en el\nrostro de todos? ¡Eso es tan maravilloso!",
+      "color_text_info_list": [
+        "Kitasan"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -31,10 +37,10 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Trainer? What do you think?",
+      "text": "Entrenador, ¿qué opinas?",
       "choice_data_list": [
-        "Congrats on the lead role, Kitasan!",
-        "Congrats on the lead role, Kitasan!"
+        "¡Felicidades por el papel principal, Kitasan!",
+        "¡Felicidades por el papel principal, Kitasan!"
       ]
     },
     {
@@ -47,7 +53,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "The day of the event..."
+      "text": "El día del evento..."
     },
     {
       "name": "Vodka",
@@ -59,7 +65,7 @@
     },
     {
       "name": "Fans",
-      "text": "Wooooo!"
+      "text": "¡Wooooo!"
     },
     {
       "name": "Monólogo",
@@ -71,7 +77,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Raaaaah!"
+      "text": "¡Raaaaah!"
     },
     {
       "name": "Silence Suzuka",
@@ -91,7 +97,7 @@
     },
     {
       "name": "Fans",
-      "text": "YEEEAAAAAH!"
+      "text": "¡YEEEAAAAAH!"
     },
     {
       "name": "Kitasan Black",
@@ -103,13 +109,13 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "It's time for us to meet at laaaast! ♪"
+      "text": "¡Es hora de que nos encontremos al fin! ♪"
     },
     {
       "name": "Tokai Teio",
       "text": "Ahaha... Kita realmente está dando todo, ¿eh?",
       "choice_data_list": [
-        "Well, that's part of her charm!"
+        "Bueno, ¡eso es parte de su encanto!"
       ]
     },
     {
@@ -138,7 +144,7 @@
     },
     {
       "name": "Fans",
-      "text": "Wooooo!"
+      "text": "¡Wooooo!"
     },
     {
       "name": "Kitasan Black",
@@ -162,7 +168,7 @@
     },
     {
       "name": "Fans",
-      "text": "Wooooo!"
+      "text": "¡Wooooo!"
     },
     {
       "name": "Monólogo",
@@ -186,9 +192,9 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "It might simply be in her blood.",
+      "text": "Podría ser simplemente algo en su sangre.",
       "choice_data_list": [
-        "What do you mean by that?"
+        "¿Qué quieres decir con eso?"
       ]
     },
     {
@@ -217,7 +223,7 @@
     },
     {
       "name": "Fans",
-      "text": "Wooooo!"
+      "text": "¡Wooooo!"
     },
     {
       "name": "Kitasan Black",
