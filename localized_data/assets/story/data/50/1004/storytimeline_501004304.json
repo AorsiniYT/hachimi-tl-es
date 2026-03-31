@@ -110,7 +110,10 @@
     },
     {
       "name": "Reportero B",
-      "text": "¡Por favor, cuéntanos sobre tu impresionante\ncarrera en el Asahi Hai!"
+      "text": "¡Por favor, cuéntanos sobre tu impresionante\ncarrera en el Asahi Hai!",
+      "color_text_info_list": [
+        "Asahi Hai"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -192,7 +195,10 @@
     },
     {
       "name": "Compañera Umamusume",
-      "text": "Entrenador, por favor déjame retirarme de los\nsiguientes Spring Stakes..."
+      "text": "Entrenador, por favor déjame retirarme de los\nsiguientes Spring Stakes...",
+      "color_text_info_list": [
+        "Spring Stakes"
+      ]
     },
     {
       "name": "Entrenador experimentado",
@@ -220,7 +226,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "..."
+      "text": "Ella se retira... por mi culpa."
     },
     {
       "name": "Monólogo",

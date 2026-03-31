@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "¡Hoy es el día en que Maruzensky y yo finalmente\ncomenzamos el entrenamiento para su carrera debut!"
+      "text": "¡Hoy es el día en que Maruzensky y yo finalmente\ncomenzamos el entrenamiento para su carrera debut!",
+      "color_text_info_list": [
+        "Maruzensky"
+      ]
     },
     {
       "name": "Monólogo",
@@ -15,7 +18,10 @@
     },
     {
       "name": "Periodista B",
-      "text": "Ya te han dado el apodo de \"Auto de Carreras\".\n¿Estás segura de que puedes hacer honor a un\ntítulo así?"
+      "text": "Ya te han dado el apodo de \"Auto de Carreras\".\n¿Estás segura de que puedes hacer honor a un\ntítulo así?",
+      "color_text_info_list": [
+        "Auto de Carreras"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -39,7 +45,10 @@
     },
     {
       "name": "Periodista A",
-      "text": "Bueno, esta Twinkle Series seguro que va a\nestar<I>muy</I> interesante!"
+      "text": "Bueno, esta Twinkle Series seguro que va a\nestar<I>muy</I> interesante!",
+      "color_text_info_list": [
+        "Serie Twinkle"
+      ]
     },
     {
       "name": "Periodista B",
@@ -99,7 +108,10 @@
     },
     {
       "name": "Joven Umamusume A",
-      "text": "¡Gran carrera, Maruzen!"
+      "text": "¡Gran carrera, Maruzen!",
+      "color_text_info_list": [
+        "Maruzen"
+      ]
     },
     {
       "name": "Joven Umamusume B",
@@ -115,11 +127,17 @@
     },
     {
       "name": "Joven Umamusume A",
-      "text": "¡Mi sueño es ganar en los Clásicos! Con tu ayuda,\nestoy segura de que puedo lograrlo!"
+      "text": "¡Mi sueño es ganar en los Clásicos! Con tu ayuda,\nestoy segura de que puedo lograrlo!",
+      "color_text_info_list": [
+        "Clásicos"
+      ]
     },
     {
       "name": "Joven Umamusume B",
-      "text": "¡Y yo quiero ganar el Arima Kinen! ¡Así que por\nfavor corre conmigo!"
+      "text": "¡Y yo quiero ganar el Arima Kinen! ¡Así que por\nfavor corre conmigo!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -151,7 +169,10 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Y sin embargo... tienen sueños tan grandes sobre\nlos Clásicos y el Gran Premio."
+      "text": "Y sin embargo... tienen sueños tan grandes sobre\nlos Clásicos y el Gran Premio.",
+      "color_text_info_list": [
+        "Gran Premio"
+      ]
     },
     {
       "name": "Maruzensky",
