@@ -41,10 +41,7 @@
       "name": "Oguri Cap",
       "text": "<i>¡Jadeo!</i> Esto es..."
     },
-    {
-      "name": "Oguri Cap",
-      "text": "\"Con permiso de Tracen, tus fans se han ofrecido a\npreparar un delicioso banquete y organizar una\nfiesta para ayudarte a elevar tu espíritu de\ncarrera.\""
-    },
+    {},
     {
       "name": "Oguri Cap",
       "text": "¡Un banquete! \"Nos encantaría que este evento te\ndejara animado para tu próxima carrera. Si es\nposible, por favor asiste con este atuendo de\ncarreras característico.\""
@@ -150,10 +147,10 @@
       "text": "¡Oh, Oguri! ¡Oye, todos! ¡Oguri acaba de llegar!"
     },
     {
+      "name": "Líder de los fans",
       "text": "<i>¡Aplausos, aplausos!</i>"
     },
     {
-      "name": "Oguri Cap",
       "text": "¿¡Guau?! ¿Dónde estoy? ¡Hay pavo, e incluso pollo\nsobre arroz!"
     },
     {
@@ -215,6 +212,10 @@
     {
       "name": "???",
       "text": "Hm? Oye, eso es..."
+    },
+    {
+      "name": "???",
+      "text": "¿Mmm? Oye, ¿eso es..."
     }
   ]
 }
