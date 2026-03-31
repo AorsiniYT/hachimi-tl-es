@@ -18,7 +18,10 @@
     },
     {
       "name": "Riko Kashimoto",
-      "text": "Acabo de escuchar grandes noticias de la URA.\nQuizás ya recibiste un correo, pero quería\ndecírtelo en persona de todas formas."
+      "text": "Acabo de escuchar grandes noticias de la URA.\nQuizás ya recibiste un correo, pero quería\ndecírtelo en persona de todas formas.",
+      "color_text_info_list": [
+        "URA"
+      ]
     },
     {
       "name": "Riko Kashimoto",
@@ -41,6 +44,9 @@
       "text": "\"Estimada <chrname>, nos complace informarle que ha sido\nseleccionada como la Mejor Umamusume del Año\nClásico de este año.\"",
       "choice_data_list": [
         "¿¡Mejor Umamusume del Año Clásico!?"
+      ],
+      "color_text_info_list": [
+        "Mejor Umamusume del Año Clásico"
       ]
     },
     {
@@ -72,7 +78,10 @@
     },
     {
       "name": "Riko Kashimoto",
-      "text": "Mantente enfocada y conserva este impulso para el\núltimo año."
+      "text": "Mantente enfocada y conserva este impulso para el\núltimo año.",
+      "color_text_info_list": [
+        "último año"
+      ]
     },
     {
       "name": "Monólogo",

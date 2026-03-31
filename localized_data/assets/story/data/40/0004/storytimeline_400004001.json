@@ -127,7 +127,11 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "¡Saludos a todos los que ven esta transmisión\nespecial! Soy Otonashi de<i>Twinkle Monthly.</i>"
+      "text": "¡Saludos a todos los que ven esta transmisión\nespecial! Soy Otonashi de<i>Twinkle Monthly.</i>",
+      "color_text_info_list": [
+        "Otonashi",
+        "Twinkle Monthly"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -139,7 +143,10 @@
     },
     {
       "name": "Umamusume A",
-      "text": "¡Hey, empezó! Bastante increíble cómo transmiten\nesto en Umasta."
+      "text": "¡Hey, empezó! Bastante increíble cómo transmiten\nesto en Umasta.",
+      "color_text_info_list": [
+        "Umasta"
+      ]
     },
     {
       "name": "Umamusume B",
@@ -170,11 +177,17 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Yo, Etsuko Otonashi, junto con <i>Twinkle Monthly</i>\ny todos los demás medios que adoran\na las Umamusume..."
+      "text": "Yo, Etsuko Otonashi, junto con <i>Twinkle Monthly</i>\ny todos los demás medios que adoran\na las Umamusume...",
+      "color_text_info_list": [
+        "Etsuko Otonashi"
+      ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Nos gustaría anunciar formalmente una serie de\ncarreras completamente nueva: ¡el Twinkle Star\nClimax!"
+      "text": "Nos gustaría anunciar formalmente una serie de\ncarreras completamente nueva: ¡el Twinkle Star\nClimax!",
+      "color_text_info_list": [
+        "Twinkle Star Climax"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -182,7 +195,10 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "...Oh, parece que tenemos un comentario de un\nestudiante de la Academia Tracen. ¡Gracias por su\npregunta!"
+      "text": "...Oh, parece que tenemos un comentario de un\nestudiante de la Academia Tracen. ¡Gracias por su\npregunta!",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -214,7 +230,10 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "¿Qué es, Brian? ¿Esta nueva serie de carreras ha\ndespertado tu interés?"
+      "text": "¿Qué es, Brian? ¿Esta nueva serie de carreras ha\ndespertado tu interés?",
+      "color_text_info_list": [
+        "Brian"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -230,7 +249,10 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Para esta serie, definimos a la \"más grande\"como\nla Umamusume que pueda probar su fuerza de manera\nmás <i>constante!</i>"
+      "text": "Para esta serie, definimos a la \"más grande\"como\nla Umamusume que pueda probar su fuerza de manera\nmás <i>constante!</i>",
+      "color_text_info_list": [
+        "Umamusume que pueda probar su fuerza más\n<i>constante!</i>"
+      ]
     },
     {
       "name": "Mejiro Ryan",
@@ -238,7 +260,10 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Tomemos, por ejemplo, el Derby Japonés, una\ncarrera que solo se puede correr una vez en la\nvida."
+      "text": "Tomemos, por ejemplo, el Derby Japonés, una\ncarrera que solo se puede correr una vez en la\nvida.",
+      "color_text_info_list": [
+        "Derby Japonés"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -262,15 +287,26 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "¡El Twinkle Star Climax utilizará un sistema\nbasado en puntos!"
+      "text": "¡El Twinkle Star Climax utilizará un sistema\nbasado en puntos!",
+      "color_text_info_list": [
+        "sistema basado en puntos"
+      ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Un grupo cuidadosamente seleccionado de corredoras\ntalentosas competirá tres veces en condiciones\nidénticas para ganar puntos determinados por su\nposición."
+      "text": "Un grupo cuidadosamente seleccionado de corredoras\ntalentosas competirá tres veces en condiciones\nidénticas para ganar puntos determinados por su\nposición.",
+      "color_text_info_list": [
+        "competirá tres veces en condiciones idénticas",
+        "para ganar puntos determinados por su posición"
+      ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Además, habrá carreras para cubrir cada categoría\nque puedas imaginar: sprint, milla, media, larga,\ntierra..."
+      "text": "Además, habrá carreras para cubrir cada categoría\nque puedas imaginar: sprint, milla, media, larga,\ntierra...",
+      "color_text_info_list": [
+        "sprint, milla,",
+        "media, larga, tierra"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -282,7 +318,10 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Incluso si pongo mis miras en Oguri y entro en las\nmismas carreras que ella, no hay forma de saber\nqué hará todos los demás."
+      "text": "Incluso si pongo mis miras en Oguri y entro en las\nmismas carreras que ella, no hay forma de saber\nqué hará todos los demás.",
+      "color_text_info_list": [
+        "Oguri"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -314,7 +353,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Entonces, ¿por eso esta serie se supone que\nprobará quién es la más grande? Ya entiendo. Eres\nbuena explicando cosas, Tama."
+      "text": "Entonces, ¿por eso esta serie se supone que\nprobará quién es la más grande? Ya entiendo. Eres\nbuena explicando cosas, Tama.",
+      "color_text_info_list": [
+        "Tama"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -368,7 +410,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Después de apresurarme a la oficina de la\nDirectora Akikawa, escucho lo que ella y Tazuna\ntienen que decir."
+      "text": "Después de apresurarme a la oficina de la\nDirectora Akikawa, escucho lo que ella y Tazuna\ntienen que decir.",
+      "color_text_info_list": [
+        "Akikawa",
+        "Tazuna"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -376,7 +422,10 @@
     },
     {
       "name": "Director Akikawa",
-      "text": "Dicho esto, ¡hacerlo debería ser bastante simple!\n¡Y también extremadamente difícil! Si continúas\ntus hazañas heroicas en la Twinkle Series..."
+      "text": "Dicho esto, ¡hacerlo debería ser bastante simple!\n¡Y también extremadamente difícil! Si continúas\ntus hazañas heroicas en la Twinkle Series...",
+      "color_text_info_list": [
+        "Serie Destello"
+      ]
     },
     {
       "name": "Director Akikawa",
