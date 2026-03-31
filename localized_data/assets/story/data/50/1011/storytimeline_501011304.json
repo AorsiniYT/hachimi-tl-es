@@ -106,13 +106,19 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Eso significa permanecer lo más diligente posible\ndurante los Clásicos."
+      "text": "Eso significa permanecer lo más diligente posible\ndurante los Clásicos.",
+      "color_text_info_list": [
+        "Clásicos"
+      ]
     },
     {
       "name": "Grass Wonder",
       "text": "El Derby Japonés en particular es innegociable, ya\nque determinará el rostro de mi generación.",
       "choice_data_list": [
         "¡Suena como nuestro próximo objetivo, entonces!"
+      ],
+      "color_text_info_list": [
+        "Derby Japonés"
       ]
     },
     {
@@ -125,7 +131,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Y así, el Derby se ha convertido en nuestro primer\nobjetivo en prepararnos para un enfrentamiento con\nMaruzensky!"
+      "text": "Y así, el Derby se ha convertido en nuestro primer\nobjetivo en prepararnos para un enfrentamiento con\nMaruzensky!",
+      "color_text_info_list": [
+        "Derby"
+      ]
     }
   ]
 }

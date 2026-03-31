@@ -95,25 +95,40 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "¡En el Mainichi Okan!"
+      "text": "¡En el Mainichi Okan!",
+      "color_text_info_list": [
+        "Mainichi Okan"
+      ]
     },
     {
       "name": "Grass Wonder",
-      "text": "El Mainichi Okan... ¿No es una carrera G2? Pensé\nque elegirías algo más grandioso."
+      "text": "El Mainichi Okan... ¿No es una carrera G2? Pensé\nque elegirías algo más grandioso.",
+      "color_text_info_list": [
+        "G2"
+      ]
     },
     {
       "name": "El Condor Pasa",
-      "text": "No, ¡el Mainichi Okan de este año es especial! ¡La\nCorredora de Otro Mundo estará allí!"
+      "text": "No, ¡el Mainichi Okan de este año es especial! ¡La\nCorredora de Otro Mundo estará allí!",
+      "color_text_info_list": [
+        "Corredora de Otro Mundo"
+      ]
     },
     {
       "name": "El Condor Pasa",
-      "text": "¿Sabes quién es, verdad? ¡Silence Suzuka!"
+      "text": "¿Sabes quién es, verdad? ¡Silence Suzuka!",
+      "color_text_info_list": [
+        "Silence Suzuka"
+      ]
     },
     {
       "name": "Grass Wonder",
       "text": "...¿Silence Suzuka?",
       "choice_data_list": [
-        "(...!)"
+        "(!)"
+      ],
+      "color_text_info_list": [
+        "Silence Suzuka"
       ]
     },
     {

@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Hoy, Grass Wonder comienza oficialmente su\nbúsqueda a través de la Serie Twinkle!"
+      "text": "Hoy, Grass Wonder comienza oficialmente su\nbúsqueda a través de la Serie Twinkle!",
+      "color_text_info_list": [
+        "Grass Wonder",
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Monólogo",
@@ -11,7 +15,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Oh, querido... ¿Spe? Ese carácter kanji no es del\ntodo correcto."
+      "text": "Oh, querido... ¿Spe? Ese carácter kanji no es del\ntodo correcto.",
+      "color_text_info_list": [
+        "Spe"
+      ]
     },
     {
       "name": "Special Week",
@@ -19,7 +26,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "(Parece que está hablando con Special Week—una\nUmamusume de Hokkaido que está en el mismo año que\nella.)"
+      "text": "(Parece que está hablando con Special Week—una\nUmamusume de Hokkaido que está en el mismo año que\nella.)",
+      "color_text_info_list": [
+        "Special Week"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -27,7 +37,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "(Y esa es Seiun Sky, que también hará su debut\npronto. Su manera de comunicarse puede ser un poco\nindirecta a veces.)"
+      "text": "(Y esa es Seiun Sky, que también hará su debut\npronto. Su manera de comunicarse puede ser un poco\nindirecta a veces.)",
+      "color_text_info_list": [
+        "Seiun Sky"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -47,7 +60,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Vaya. Si incluso El está corrigiendo tu\ncaligrafía, me temo que tienes un largo camino por\nrecorrer..."
+      "text": "Vaya. Si incluso El está corrigiendo tu\ncaligrafía, me temo que tienes un largo camino por\nrecorrer...",
+      "color_text_info_list": [
+        "El"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -55,7 +71,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "(Otra compañera de clase del mismo año, El Condor\nPasa es una Umamusume con una personalidad grande\ny brillante. También comparte habitación con Grass\nWonder.)"
+      "text": "(Otra compañera de clase del mismo año, El Condor\nPasa es una Umamusume con una personalidad grande\ny brillante. También comparte habitación con Grass\nWonder.)",
+      "color_text_info_list": [
+        "El Condor Pasa"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -75,7 +94,10 @@
     },
     {
       "name": "Special Week",
-      "text": "¡Ahhh! ¡Eres el entrenador de Grass! ¿Llega tarde\nal entrenamiento?!"
+      "text": "¡Ahhh! ¡Eres el entrenador de Grass! ¿Llega tarde\nal entrenamiento?!",
+      "color_text_info_list": [
+        "Grass"
+      ]
     },
     {
       "name": "Special Week",
@@ -99,6 +121,9 @@
       "choice_data_list": [
         "¿Entonces todos están ayudando?",
         "¿Entonces todos están ayudando?"
+      ],
+      "color_text_info_list": [
+        "primeras carreras"
       ]
     },
     {

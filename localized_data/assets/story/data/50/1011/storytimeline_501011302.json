@@ -11,7 +11,10 @@
     },
     {
       "name": "Empleado de la Rifa",
-      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El primer premio de este año es\nunas vacaciones en aguas termales para dos!"
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El primer premio de este año es\nunas vacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
     },
     {
       "name": "Empleado de la Rifa",
@@ -67,7 +70,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -138,7 +144,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -194,7 +203,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -250,7 +262,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -294,7 +309,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Grass Wonder",

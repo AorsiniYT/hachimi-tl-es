@@ -50,7 +50,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Voy a correr en el Japan Cup a continuación."
+      "text": "Voy a correr en el Japan Cup a continuación.",
+      "color_text_info_list": [
+        "Japan Cup"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -86,11 +89,17 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "Al pensar en ganar experiencia en los Clásicos, el\ncurso convencional me llevaría al Kikuka Sho."
+      "text": "Al pensar en ganar experiencia en los Clásicos, el\ncurso convencional me llevaría al Kikuka Sho.",
+      "color_text_info_list": [
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "Grass Wonder",
-      "text": "Eso o quizás el Autumn Tenno Sho, teniendo en\ncuenta mis fortalezas."
+      "text": "Eso o quizás el Autumn Tenno Sho, teniendo en\ncuenta mis fortalezas.",
+      "color_text_info_list": [
+        "Tenno Sho de otoño"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -98,7 +107,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "...! Maruzen."
+      "text": "...! Maruzen.",
+      "color_text_info_list": [
+        "Maruzen"
+      ]
     },
     {
       "name": "Maruzensky",

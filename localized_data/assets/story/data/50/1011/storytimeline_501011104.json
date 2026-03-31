@@ -35,11 +35,17 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "¡No cuando tú y yo tenemos una cuenta que saldar,\nGrass!"
+      "text": "¡No cuando tú y yo tenemos una cuenta que saldar,\nGrass!",
+      "color_text_info_list": [
+        "Grass"
+      ]
     },
     {
       "name": "Grass Wonder",
-      "text": "Oh... El... ¿Qué te ha pasado de repente?"
+      "text": "Oh... El... ¿Qué te ha pasado de repente?",
+      "color_text_info_list": [
+        "El"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -214,7 +220,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Fue durante el examen de ingreso a la Academia\nTracen."
+      "text": "Fue durante el examen de ingreso a la Academia\nTracen.",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
     },
     {
       "name": "El Condor Pasa",
