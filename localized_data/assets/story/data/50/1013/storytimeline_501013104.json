@@ -23,7 +23,11 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "¿Son eso... Ryan y Dober?"
+      "text": "¿Son eso... Ryan y Dober?",
+      "color_text_info_list": [
+        "Ryan",
+        "Dober"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -31,15 +35,24 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "¿Qué, en serio?! ¿También estás interesada,\nMcQueen?"
+      "text": "¿Qué, en serio?! ¿También estás interesada,\nMcQueen?",
+      "color_text_info_list": [
+        "McQueen"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "(Ines Fujin, una Umamusume cariñosa que se adapta\nperfectamente al papel de hermana mayor de todos.)"
+      "text": "(Ines Fujin, una Umamusume cariñosa que se adapta\nperfectamente al papel de hermana mayor de todos.)",
+      "color_text_info_list": [
+        "Ines Fujin"
+      ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "¡Oh, Ines! ¿Viniste aquí con ellos?"
+      "text": "¡Oh, Ines! ¿Viniste aquí con ellos?",
+      "color_text_info_list": [
+        "Ines"
+      ]
     },
     {
       "name": "Ines Fujin",
