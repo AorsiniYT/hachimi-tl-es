@@ -11,7 +11,10 @@
     },
     {
       "name": "Taquillera",
-      "text": "¡Acérquense y prueben suerte en nuestra rifa de\nAño Nuevo! ¡El premio mayor de este año es unas\nvacaciones en aguas termales para dos personas!"
+      "text": "¡Acérquense y prueben suerte en nuestra rifa de\nAño Nuevo! ¡El premio mayor de este año es unas\nvacaciones en aguas termales para dos personas!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
     },
     {
       "name": "Taquillera",
@@ -55,7 +58,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -146,7 +152,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -182,7 +191,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -236,7 +248,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -295,7 +310,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Tokai Teio",

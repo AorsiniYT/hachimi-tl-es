@@ -23,7 +23,10 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Pfft... Nah, ¿por qué diría eso? ¡Voy a pasar al\naño senior siguiente!"
+      "text": "Pfft... Nah, ¿por qué diría eso? ¡Voy a pasar al\naño senior siguiente!",
+      "color_text_info_list": [
+        "sénior"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -39,7 +42,7 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "...Ahh!",
+      "text": "...Ah!",
       "choice_data_list": [
         "¿Estás llorando?",
         "¿Estás llorando?"
@@ -63,7 +66,7 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "<i>Sniff...</i>",
+      "text": "<i>Snif...</i>",
       "choice_data_list": [
         "Teio..."
       ]
@@ -125,7 +128,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Ponemos la mira en nuestro primer objetivo de\núltimo año: ¡el Tenno Sho de primavera!"
+      "text": "Ponemos la mira en nuestro primer objetivo de\núltimo año: ¡el Tenno Sho de primavera!",
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
     }
   ]
 }
