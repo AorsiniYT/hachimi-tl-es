@@ -182,13 +182,19 @@
     },
     {
       "name": "Curren Chan",
-      "text": "...Flower es tan linda."
+      "text": "...Flower es tan linda.",
+      "color_text_info_list": [
+        "Flower"
+      ]
     },
     {
       "text": "Nishino Flower. Una corredora talentosa que parece\nser el mayor obstáculo de Curren Chan en la\ncarrera de hoy.",
       "choice_data_list": [
         "Sí, es muy agradable y adorable.",
         "Sí, es muy agradable y adorable."
+      ],
+      "color_text_info_list": [
+        "Nishino Flower"
       ]
     },
     {

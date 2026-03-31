@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Hoy es el día en que Curren Chan comienza a\nentrenar en serio para la Serie Twinkle."
+      "text": "Hoy es el día en que Curren Chan comienza a\nentrenar en serio para la Serie Twinkle.",
+      "color_text_info_list": [
+        "Curren Chan",
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -26,6 +30,9 @@
       "text": "¿Cómo lo hice? ¡Corrí tan rápido como pude!",
       "choice_data_list": [
         "¡Eso estuvo genial!"
+      ],
+      "color_text_info_list": [
+        "★★★"
       ]
     },
     {
@@ -188,7 +195,13 @@
     },
     {
       "name": "Monólogo",
-      "text": "Los corredores tienen que ganar tres carreras G1\nespecíficas—el Oka Sho, el Japanese Oaks y el\nShuka Sho—para reclamar la Triple Tiara."
+      "text": "Los corredores tienen que ganar tres carreras G1\nespecíficas—el Oka Sho, el Japanese Oaks y el\nShuka Sho—para reclamar la Triple Tiara.",
+      "color_text_info_list": [
+        "G1",
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho"
+      ]
     },
     {
       "name": "Monólogo",

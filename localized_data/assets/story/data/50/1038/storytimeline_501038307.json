@@ -7,7 +7,10 @@
     },
     {
       "name": "Seguidor A",
-      "text": "¡Ella es número uno en los rankings de popularidad\npor algo! ¡Ella va en una racha ganadora de\ncarreras graduadas, así que creo que\ndefinitivamente lo tiene!"
+      "text": "¡Ella es número uno en los rankings de popularidad\npor algo! ¡Ella va en una racha ganadora de\ncarreras graduadas, así que creo que\ndefinitivamente lo tiene!",
+      "color_text_info_list": [
+        "carreras graduadas"
+      ]
     },
     {
       "name": "Seguidor B",
@@ -236,7 +239,11 @@
     },
     {
       "name": "Narración",
-      "text": "Y con eso, establecemos nuestra siguiente meta\ncomo la primera carrera de la Summer Sprint\nSeries—el Hakodate Sprint Stakes!"
+      "text": "Y con eso, establecemos nuestra siguiente meta\ncomo la primera carrera de la Summer Sprint\nSeries—el Hakodate Sprint Stakes!",
+      "color_text_info_list": [
+        "Summer Sprint Series",
+        "Hakodate Sprint Stakes"
+      ]
     },
     {
       "name": "Curren Chan",
