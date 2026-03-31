@@ -35,7 +35,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "La primera carrera de los Clásicos, el Satsuki\nSho, está justo a la vuelta de la esquina."
+      "text": "La primera carrera de los Clásicos, el Satsuki\nSho, está justo a la vuelta de la esquina.",
+      "color_text_info_list": [
+        "Satsuki Sho"
+      ]
     },
     {
       "name": "Monólogo",
@@ -86,7 +89,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Ah, Creek. ¡Claro! Me preguntaba qué podría haber\ngolpeado que fuera tan suave."
+      "text": "Ah, Creek. ¡Claro! Me preguntaba qué podría haber\ngolpeado que fuera tan suave.",
+      "color_text_info_list": [
+        "Creek"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -170,7 +176,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Gold Ship vs. Super Creek: ¡derrota!\n(Continuará...)"
+      "text": "Gold Ship vs. Super Creek: ¡derrota!\n(Continuará...)",
+      "color_text_info_list": [
+        "Super Creek"
+      ]
     }
   ]
 }

@@ -31,11 +31,17 @@
     },
     {
       "name": "Gold Ship",
-      "text": "¡Un yakisoba, ya voy! Oh, ¡hey Flash!"
+      "text": "¡Un yakisoba, ya voy! Oh, ¡hey Flash!",
+      "color_text_info_list": [
+        "Flash"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "Frente a mí está Eishin Flash, una Umamusume\nenfocada y que sigue las reglas al pie de la letra\nde Alemania."
+      "text": "Frente a mí está Eishin Flash, una Umamusume\nenfocada y que sigue las reglas al pie de la letra\nde Alemania.",
+      "color_text_info_list": [
+        "Eishin Flash"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -91,7 +97,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Tosen Jordan se acerca a la ventana. Tiene un poco\nde aire de chica del valle, pero más relajada."
+      "text": "Tosen Jordan se acerca a la ventana. Tiene un poco\nde aire de chica del valle, pero más relajada.",
+      "color_text_info_list": [
+        "Tosen Jordan"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -202,11 +211,17 @@
       "text": "Me pregunto si Flash y Jordan limpiaron sus\nplatos. ¡Jeje!",
       "choice_data_list": [
         "¿Eres amigo de esos dos?"
+      ],
+      "color_text_info_list": [
+        "Jordan"
       ]
     },
     {
       "name": "Gold Ship",
-      "text": "Soy Golshi, la más adorable de los amigos\nadorables, <i>¿verdad?</i>"
+      "text": "Soy Golshi, la más adorable de los amigos\nadorables, <i>¿verdad?</i>",
+      "color_text_info_list": [
+        "Golshi"
+      ]
     },
     {
       "name": "Gold Ship",

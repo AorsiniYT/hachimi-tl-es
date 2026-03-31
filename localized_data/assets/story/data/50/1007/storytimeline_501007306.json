@@ -22,7 +22,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Aaahhh...",
+      "text": "¡Uy...",
       "choice_data_list": [
         "Entonces, sobre tus próximas carreras..."
       ]
@@ -114,7 +114,10 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Por lo tanto, primero debo desafiarte a batallar\nen el escenario del Arima Kinen."
+      "text": "Por lo tanto, primero debo desafiarte a batallar\nen el escenario del Arima Kinen.",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
     },
     {
       "name": "Gold Ship",

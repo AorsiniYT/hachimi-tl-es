@@ -3,13 +3,19 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Con el nuevo año, el mundo de las carreras de\nnivel superior se abre ante nosotros."
+      "text": "Con el nuevo año, el mundo de las carreras de\nnivel superior se abre ante nosotros.",
+      "color_text_info_list": [
+        "superiores"
+      ]
     },
     {
       "name": "Monólogo",
       "text": "De hecho, algunas carreras grandes como el Tenno\nSho de primavera y el Takarazuka Kinen están a la\nvuelta de la esquina.",
       "choice_data_list": [
         "(¡Ojalá Gold Ship pueda seguir fuerte este año!)"
+      ],
+      "color_text_info_list": [
+        "Takarazuka Kinen"
       ]
     },
     {
@@ -22,7 +28,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Así que tengo una pregunta para ti, Tickezo."
+      "text": "Así que tengo una pregunta para ti, Tickezo.",
+      "color_text_info_list": [
+        "Tickezo"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -205,7 +214,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Gold Ship vs. Winning Ticket: ¡empate!\n(Continuará...)"
+      "text": "Gold Ship vs. Winning Ticket: ¡empate!\n(Continuará...)",
+      "color_text_info_list": [
+        "Winning Ticket"
+      ]
     },
     {
       "name": "Monólogo",
@@ -245,7 +257,10 @@
     },
     {
       "name": "Gold Ship",
-      "text": "(Curioso... McQueen me da la misma sensación de\nnostalgia que mi sueño...)"
+      "text": "(Curioso... McQueen me da la misma sensación de\nnostalgia que mi sueño...)",
+      "color_text_info_list": [
+        "McQueen"
+      ]
     },
     {
       "name": "Gold Ship",

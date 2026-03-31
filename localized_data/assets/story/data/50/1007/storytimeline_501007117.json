@@ -113,7 +113,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Siempre sospeché que la voz única que escuchamos\nen las carreras era la de la Directora Akikawa, y\nahora finalmente tengo la confirmación."
+      "text": "Siempre sospeché que la voz única que escuchamos\nen las carreras era la de la Directora Akikawa, y\nahora finalmente tengo la confirmación.",
+      "color_text_info_list": [
+        "Akikawa"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -236,7 +239,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Gold Ship: El Acorazado Insumergible Definitivo\n(Fin)"
+      "text": "Gold Ship: El Acorazado Insumergible Definitivo\n(Fin)",
+      "color_text_info_list": [
+        "El Acorazado Insumergible Definitivo"
+      ]
     }
   ]
 }
