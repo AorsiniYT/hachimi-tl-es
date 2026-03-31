@@ -35,13 +35,20 @@
     },
     {
       "name": "Monólogo",
-      "text": "Su próxima carrera... Si realmente está lista para\nesforzarse, el siguiente paso serían las carreras\ngraduadas."
+      "text": "Su próxima carrera... Si realmente está lista para\nesforzarse, el siguiente paso serían las carreras\ngraduadas.",
+      "color_text_info_list": [
+        "carreras graduadas"
+      ]
     },
     {
       "name": "Monólogo",
       "text": "Las carreras graduadas van desde G3 hasta G1, y\nlos rivales se vuelven más fuertes en cada rango.\nAsí que si ella busca un nuevo objetivo después de\nsu debut...",
       "choice_data_list": [
         "...¿Una G3?"
+      ],
+      "color_text_info_list": [
+        "G3",
+        "G1"
       ]
     },
     {
@@ -71,6 +78,9 @@
       "text": "Entonces, Entrenador, ¿cuál es la próxima carrera\nG1 juvenil?",
       "choice_data_list": [
         "Ya sea el Hanshin J.F. o el Asahi Hai F.S."
+      ],
+      "color_text_info_list": [
+        "juvenil"
       ]
     },
     {
@@ -87,7 +97,10 @@
     },
     {
       "name": "Vodka",
-      "text": "No sé qué significan las iniciales, ¡pero\nhagámoslo! Siguiente objetivo: ¡el Hanshin J.F.!"
+      "text": "No sé qué significan las iniciales, ¡pero\nhagámoslo! Siguiente objetivo: ¡el Hanshin J.F.!",
+      "color_text_info_list": [
+        "Hanshin J.F."
+      ]
     },
     {
       "name": "Monólogo",
@@ -99,7 +112,10 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "¡Vodka! ¡Escuché que vas a correr en el Hanshin\nJuvenile Fillies!"
+      "text": "¡Vodka! ¡Escuché que vas a correr en el Hanshin\nJuvenile Fillies!",
+      "color_text_info_list": [
+        "Hanshin Juvenile Fillies"
+      ]
     },
     {
       "name": "Vodka",
