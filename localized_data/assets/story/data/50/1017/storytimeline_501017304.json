@@ -97,11 +97,17 @@
       "text": "¡Hola, Rudolf!",
       "choice_data_list": [
         "(!)"
+      ],
+      "color_text_info_list": [
+        "Rudolf"
       ]
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Maruzensky. Tal como pensé."
+      "text": "Maruzensky. Tal como pensé.",
+      "color_text_info_list": [
+        "Maruzensky"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -113,7 +119,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Es Maruzensky la Bestia, la llamada \"Hot Rod\" que\nha arrasado en el mundo, y debutó incluso antes\nque Symboli Rudolf."
+      "text": "Es Maruzensky la Bestia, la llamada \"Hot Rod\" que\nha arrasado en el mundo, y debutó incluso antes\nque Symboli Rudolf.",
+      "color_text_info_list": [
+        "Bestia"
+      ]
     },
     {
       "name": "Monólogo",

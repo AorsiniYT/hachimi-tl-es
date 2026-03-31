@@ -3,7 +3,12 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Por fin, Symboli Rudolf, la Emperatriz, está\nprogramada para debutar en las carreras."
+      "text": "Por fin, Symboli Rudolf, la Emperatriz, está\nprogramada para debutar en las carreras.",
+      "color_text_info_list": [
+        "Symboli Rudolf",
+        "Emperatriz",
+        "debutar"
+      ]
     },
     {
       "name": "Monólogo",
@@ -19,7 +24,10 @@
     },
     {
       "name": "Reportero A",
-      "text": "Puede ser pronto, pero las expectativas por la\nEmperatriz son altas. ¿Sería justo decir que la\nTriple Corona Clásica es un hecho?"
+      "text": "Puede ser pronto, pero las expectativas por la\nEmperatriz son altas. ¿Sería justo decir que la\nTriple Corona Clásica es un hecho?",
+      "color_text_info_list": [
+        "Clásica"
+      ]
     },
     {
       "name": "Reportero B",
@@ -154,7 +162,12 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "El Satsuki Sho, el Derby Japonés y el Kikuka Sho:\nla Triple Corona Clásica."
+      "text": "El Satsuki Sho, el Derby Japonés y el Kikuka Sho:\nla Triple Corona Clásica.",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Japanese Derby",
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "Symboli Rudolf",

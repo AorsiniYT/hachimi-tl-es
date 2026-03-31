@@ -18,15 +18,25 @@
       "text": "Hishi Amazon y Fuji Kiseki. Sus informes de\nestado, por favor.",
       "choice_data_list": [
         "(Si recuerdo correctamente... son las líderes de\nlos dormitorios Miho y Ritto.)"
+      ],
+      "color_text_info_list": [
+        "Hishi Amazon",
+        "Fuji Kiseki"
       ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "Todas las chicas del dormitorio Miho están\npresentes. Estaban en el autobús que acaba de\npartir."
+      "text": "Todas las chicas del dormitorio Miho están\npresentes. Estaban en el autobús que acaba de\npartir.",
+      "color_text_info_list": [
+        "Miho"
+      ]
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Todos los residentes del Dormitorio Ritto también\nse han ido. Aparte de una que reportó estar\nenferma esta mañana."
+      "text": "Todos los residentes del Dormitorio Ritto también\nse han ido. Aparte de una que reportó estar\nenferma esta mañana.",
+      "color_text_info_list": [
+        "Dormitorio Ritto"
+      ]
     },
     {
       "name": "Symboli Rudolf",
