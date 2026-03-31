@@ -39,7 +39,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Air Groove..."
+      "text": "¡Y cuando llegue ese momento, te desafiaré una vez\nmás!"
     },
     {
       "name": "Monólogo",
@@ -94,7 +94,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "El, es tarde. Baja la voz, ¿vale?"
+      "text": "El, es tarde. Baja la voz, ¿vale?",
+      "color_text_info_list": [
+        "El"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -118,7 +121,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "El Condor Pasa se aleja a toda velocidad gritando\nen la noche, dejando a una preocupada Grass Wonder\nen una nube de polvo."
+      "text": "El Condor Pasa se aleja a toda velocidad gritando\nen la noche, dejando a una preocupada Grass Wonder\nen una nube de polvo.",
+      "color_text_info_list": [
+        "Grass Wonder"
+      ]
     },
     {
       "name": "Grass Wonder",

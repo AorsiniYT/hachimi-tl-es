@@ -59,7 +59,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "...!"
+      "text": "No te atrevas a intentar consolarme, Suzuka."
     },
     {
       "name": "Air Groove",
@@ -130,7 +130,10 @@
     },
     {
       "name": "Grass Wonder",
-      "text": "El, es tarde. Baja la voz, ¿vale?"
+      "text": "El, es tarde. Baja la voz, ¿vale?",
+      "color_text_info_list": [
+        "El"
+      ]
     },
     {
       "name": "El Condor Pasa",

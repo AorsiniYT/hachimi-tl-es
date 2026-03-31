@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "La Serie Twinkle ha comenzado. Hoy, hay un partido\nde práctica en la academia."
+      "text": "La Serie Twinkle ha comenzado. Hoy, hay un partido\nde práctica en la academia.",
+      "color_text_info_list": [
+        "Serie Twinkle"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -15,7 +18,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Los espectadores se agitan con emoción mientras\nven a la sensación que se escapa."
+      "text": "Los espectadores se agitan con emoción mientras\nven a la sensación que se escapa.",
+      "color_text_info_list": [
+        "fuga"
+      ]
     },
     {
       "name": "Monólogo",
@@ -31,15 +37,24 @@
     },
     {
       "name": "Taiki Shuttle",
-      "text": "¡Eh! ¡Suzuka! ¡Buena carrera!"
+      "text": "¡Eh! ¡Suzuka! ¡Buena carrera!",
+      "color_text_info_list": [
+        "Suzuka"
+      ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "Oh, Taiki."
+      "text": "Oh, Taiki.",
+      "color_text_info_list": [
+        "Taiki"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "Proveniente de EE. UU., Taiki Shuttle es una\ncorredora poderosa con una personalidad brillante\npara igualar."
+      "text": "Proveniente de EE. UU., Taiki Shuttle es una\ncorredora poderosa con una personalidad brillante\npara igualar.",
+      "color_text_info_list": [
+        "Taiki Shuttle"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -115,7 +130,10 @@
     },
     {
       "name": "Umamusume A",
-      "text": "Sabes, Silence Suzuka es definitivamente una\ncorredora talentosa, pero..."
+      "text": "Sabes, Silence Suzuka es definitivamente una\ncorredora talentosa, pero...",
+      "color_text_info_list": [
+        "Silence Suzuka"
+      ]
     },
     {
       "name": "Umamusume B",

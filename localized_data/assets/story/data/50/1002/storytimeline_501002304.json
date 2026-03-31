@@ -10,6 +10,9 @@
       "text": "El primero de los Clásicos es el Satsuki Sho,\ndonde puede aprovechar sus habilidades especiales.",
       "choice_data_list": [
         "(Sin embargo, sí me preocupa el salto a una\ncarrera tan grande.)"
+      ],
+      "color_text_info_list": [
+        "Satsuki Sho"
       ]
     },
     {
@@ -18,7 +21,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "¿El Yayoi Sho?"
+      "text": "¿El Yayoi Sho?",
+      "color_text_info_list": [
+        "Yayoi Sho"
+      ]
     },
     {
       "name": "Monólogo",

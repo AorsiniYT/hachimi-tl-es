@@ -63,7 +63,10 @@
       "name": "Silence Suzuka",
       "text": "¡Quiero correr en el Tenno Sho de otoño!",
       "choice_data_list": [
-        "...!"
+        "¡Quiero correr en el Tenno Sho de otoño!"
+      ],
+      "color_text_info_list": [
+        "Tenno Sho de otoño"
       ]
     },
     {
@@ -72,7 +75,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "El Tenno Sho de otoño es la cima de las carreras\nde media distancia G1. Todas las mejores\ncorredoras—incluyendo a las corredoras\nsenior—estarán presentes."
+      "text": "El Tenno Sho de otoño es la cima de las carreras\nde media distancia G1. Todas las mejores\ncorredoras—incluyendo a las corredoras\nsenior—estarán presentes.",
+      "color_text_info_list": [
+        "G1",
+        "sénior"
+      ]
     },
     {
       "name": "Monólogo",
@@ -99,11 +106,17 @@
       "choice_data_list": [
         "¿Por qué no empezamos probando con el Kinko Sho?",
         "¿Por qué no empezamos probando con el Kinko Sho?"
+      ],
+      "color_text_info_list": [
+        "G2"
       ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "El Kinko Sho... ¡De acuerdo!"
+      "text": "El Kinko Sho... ¡De acuerdo!",
+      "color_text_info_list": [
+        "Kinko Sho"
+      ]
     },
     {
       "name": "Monólogo",

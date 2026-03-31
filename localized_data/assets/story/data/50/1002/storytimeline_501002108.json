@@ -98,7 +98,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Sirviendo como comentarista del evento está ¡El\nCondor Pasa, amante de las artes marciales!"
+      "text": "Sirviendo como comentarista del evento está ¡El\nCondor Pasa, amante de las artes marciales!",
+      "color_text_info_list": [
+        "El Condor Pasa"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -122,7 +125,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Es la confrontación entre las dos anclas: Silence\nSuzuka, la Corredora de Otro Mundo, y Air Groove,\nla Emperatriz."
+      "text": "Es la confrontación entre las dos anclas: Silence\nSuzuka, la Corredora de Otro Mundo, y Air Groove,\nla Emperatriz.",
+      "color_text_info_list": [
+        "Corredora de Otro Mundo"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -142,7 +148,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Phew...",
+      "text": "Uf...",
       "choice_data_list": [
         "¡Buen trabajo! Casi lo logras.",
         "¡Buen trabajo! Casi lo logras."
@@ -224,7 +230,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "...Hah!"
+      "text": "...Ja!"
     },
     {
       "name": "Monólogo",
@@ -240,7 +246,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Phew...",
+      "text": "Uf...",
       "choice_data_list": [
         "¡Felicidades!"
       ]
