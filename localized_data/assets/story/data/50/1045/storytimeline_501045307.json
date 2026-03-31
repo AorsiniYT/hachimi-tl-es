@@ -86,7 +86,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Ahora que ha ganado el Kikuka Sho, estoy seguro de\nque Super Creek tiene lo necesario para correr\nentre los mayores en el Grand Prix también."
+      "text": "Ahora que ha ganado el Kikuka Sho, estoy seguro de\nque Super Creek tiene lo necesario para correr\nentre los mayores en el Grand Prix también.",
+      "color_text_info_list": [
+        "mayores",
+        "Grand Prix"
+      ]
     },
     {
       "name": "Super Creek",
@@ -105,7 +109,10 @@
     },
     {
       "name": "Super Creek",
-      "text": "¡Tomemos el Arima Kinen!"
+      "text": "¡Tomemos el Arima Kinen!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -117,11 +124,17 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Te enfrentarás al mejor corredor mayor por aquí, y\nal campeón clásico sin coronar."
+      "text": "Te enfrentarás al mejor corredor mayor por aquí, y\nal campeón clásico sin coronar.",
+      "color_text_info_list": [
+        "clásico sin coronar"
+      ]
     },
     {
       "name": "Tamamo Cross",
-      "text": "¿Verdad, Oguri?"
+      "text": "¿Verdad, Oguri?",
+      "color_text_info_list": [
+        "Oguri"
+      ]
     },
     {
       "name": "Oguri Cap",
