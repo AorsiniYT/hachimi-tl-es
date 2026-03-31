@@ -210,7 +210,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "¿El Mainichi Okan? Bueno, <i>es</i> antes de los G1 de\notoño..."
+      "text": "¿El Mainichi Okan? Bueno, <i>es</i> antes de los G1 de\notoño...",
+      "color_text_info_list": [
+        "Mainichi Okan"
+      ]
     },
     {
       "name": "Monólogo",
@@ -218,7 +221,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "Desde allí, puede avanzar al Japan Cup, a la gira\nde la Triple Corona Kikuka Sho, o al Mile\nChampionship."
+      "text": "Desde allí, puede avanzar al Japan Cup, a la gira\nde la Triple Corona Kikuka Sho, o al Mile\nChampionship.",
+      "color_text_info_list": [
+        "Kikuka Sho",
+        "Mile Championship"
+      ]
     },
     {
       "name": "El Condor Pasa",

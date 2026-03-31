@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "El Condor Pasa",
-      "text": "¡Bueno! ¡El día finalmente ha llegado para hacer\nmi debut!"
+      "text": "¡Bueno! ¡El día finalmente ha llegado para hacer\nmi debut!",
+      "color_text_info_list": [
+        "debut"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -61,7 +64,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "La URA está transmitiendo la carrera en línea. Le\naseguro que si corre bien, la notarán."
+      "text": "La URA está transmitiendo la carrera en línea. Le\naseguro que si corre bien, la notarán.",
+      "color_text_info_list": [
+        "URA"
+      ]
     },
     {
       "name": "El Condor Pasa",

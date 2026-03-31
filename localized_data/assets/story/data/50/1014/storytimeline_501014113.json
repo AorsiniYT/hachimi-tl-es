@@ -199,7 +199,10 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "¡Aaahhh, Pearl! ¿Cuándo regresaste de tu viaje a\nFrancia?!"
+      "text": "¡Aaahhh, Pearl! ¿Cuándo regresaste de tu viaje a\nFrancia?!",
+      "color_text_info_list": [
+        "Pearl"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -219,7 +222,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Ahora que Seeking the Pearl, una de las\nestudiantes mayores más respetadas de El Condor\nPasa, se ha unido al espectáculo, las cosas son\naún más emocionantes."
+      "text": "Ahora que Seeking the Pearl, una de las\nestudiantes mayores más respetadas de El Condor\nPasa, se ha unido al espectáculo, las cosas son\naún más emocionantes.",
+      "color_text_info_list": [
+        "Seeking the Pearl"
+      ]
     }
   ]
 }
