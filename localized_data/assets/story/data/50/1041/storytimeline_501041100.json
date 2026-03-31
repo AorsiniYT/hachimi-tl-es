@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Finalmente, hoy marca el inicio de la\nparticipación de Sakura Bakushin O en la Serie\nDestello!"
+      "text": "Finalmente, hoy marca el inicio de la\nparticipación de Sakura Bakushin O en la Serie\nDestello!",
+      "color_text_info_list": [
+        "Serie Destello"
+      ]
     },
     {
       "name": "Monólogo",
@@ -131,7 +134,10 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Es decir, ¡ganar todas las carreras G1 a través de\npura velocidad! ¡Ese es mi objetivo!"
+      "text": "Es decir, ¡ganar todas las carreras G1 a través de\npura velocidad! ¡Ese es mi objetivo!",
+      "color_text_info_list": [
+        "G1"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -162,11 +168,17 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Hm... Entonces, ¿hay carreras como el Asahi Hai\nFuturity Stakes y el Hanshin Juvenile Fillies que\nsolo puedes correr en tu año de júnior?"
+      "text": "Hm... Entonces, ¿hay carreras como el Asahi Hai\nFuturity Stakes y el Hanshin Juvenile Fillies que\nsolo puedes correr en tu año de júnior?",
+      "color_text_info_list": [
+        "año de júnior"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "¿Y solo puedes aspirar a la Triple Corona en tu\naño clásico?"
+      "text": "¿Y solo puedes aspirar a la Triple Corona en tu\naño clásico?",
+      "color_text_info_list": [
+        "año clásico"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -221,17 +233,27 @@
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "¡Así que voy a inscribirme en el Satsuki Sho, el\nJapanese Derby y el Kikuka Sho!"
+      "text": "¡Así que voy a inscribirme en el Satsuki Sho, el\nJapanese Derby y el Kikuka Sho!",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Japanese Derby"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "¡También iré por el Arima Kinen! Es una\ncompetencia de las mejores Umamusume después de\ntodo, así que no puedo NO inscribirme!"
+      "text": "¡También iré por el Arima Kinen! Es una\ncompetencia de las mejores Umamusume después de\ntodo, así que no puedo NO inscribirme!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
       "text": "El Tenno Sho también podría ser una buena carrera\npara inscribirse. Puede actuar como un escudo. ¡Es\nla carrera perfecta para proteger el asiento de\nrepresentante!",
       "choice_data_list": [
         "¡Muy bien! ¡Sigamos con ese plan!"
+      ],
+      "color_text_info_list": [
+        "Tenno Sho"
       ]
     },
     {
