@@ -54,6 +54,9 @@
       "choice_data_list": [
         "¿Quieres probar las Wakagoma Stakes?",
         "¿Quieres probar las Wakagoma Stakes?"
+      ],
+      "color_text_info_list": [
+        "Clásicos"
       ]
     },
     {
@@ -85,7 +88,10 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Me pregunto qué estará haciendo Teio. ¿En qué\ncarrera va a competir?"
+      "text": "Me pregunto qué estará haciendo Teio. ¿En qué\ncarrera va a competir?",
+      "color_text_info_list": [
+        "Teio"
+      ]
     },
     {
       "text": "Tokai Teio debutó al mismo tiempo que Nice Nature.\nNo es de extrañar que ella sienta curiosidad por\nella. Pero...",
@@ -103,7 +109,10 @@
       "text": "De todos modos, tienes razón. Vamos a ir al grano."
     },
     {
-      "text": "Y así, decidimos que su próxima carrera será las\nWakagoma Stakes!"
+      "text": "Y así, decidimos que su próxima carrera será las\nWakagoma Stakes!",
+      "color_text_info_list": [
+        "Wakagoma Stakes"
+      ]
     }
   ]
 }

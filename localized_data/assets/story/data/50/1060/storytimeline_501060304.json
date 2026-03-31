@@ -136,7 +136,11 @@
     },
     {
       "name": "Nice Nature",
-      "text": "¿Estás diciendo... que no voy a competir en el\nSatsuki Sho o el Japanese Derby?"
+      "text": "¿Estás diciendo... que no voy a competir en el\nSatsuki Sho o el Japanese Derby?",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Japanese Derby"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -185,11 +189,17 @@
     },
     {
       "name": "Monólogo",
-      "text": "Una carrera graduada que tiene lugar en Kokura...\nla carrera perfecta para que Nice Nature gane un\npoco de confianza."
+      "text": "Una carrera graduada que tiene lugar en Kokura...\nla carrera perfecta para que Nice Nature gane un\npoco de confianza.",
+      "color_text_info_list": [
+        "carrera graduada"
+      ]
     },
     {
       "name": "Nice Nature",
-      "text": "Eh, esa tiene la misma distancia que Wakagoma,\n¿verdad? Creo que es una buena idea."
+      "text": "Eh, esa tiene la misma distancia que Wakagoma,\n¿verdad? Creo que es una buena idea.",
+      "color_text_info_list": [
+        "Wakagoma"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -197,7 +207,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Y así, decidimos apuntar al Kokura Kinen a\ncontinuación!"
+      "text": "Y así, decidimos apuntar al Kokura Kinen a\ncontinuación!",
+      "color_text_info_list": [
+        "Kokura Kinen"
+      ]
     }
   ]
 }

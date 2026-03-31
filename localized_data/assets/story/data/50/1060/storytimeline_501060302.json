@@ -11,7 +11,10 @@
     },
     {
       "name": "Vendedor de la Rifa",
-      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!"
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
     },
     {
       "name": "Vendedor de la Rifa",
@@ -19,7 +22,10 @@
     },
     {
       "name": "Vendedor de la Rifa",
-      "text": "¡Oh, Natie, estás aquí! ¿Vas a probar suerte de\nnuevo este año?!"
+      "text": "¡Oh, Natie, estás aquí! ¿Vas a probar suerte de\nnuevo este año?!",
+      "color_text_info_list": [
+        "Natie"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -38,6 +44,9 @@
       "text": "De todos modos, ¡no soy la misma Nature de antes!\n¡Fui al santuario cien veces este año!\n¡Definitivamente voy a ganar!",
       "choice_data_list": [
         "E-En verdad te has metido de lleno..."
+      ],
+      "color_text_info_list": [
+        "Nature"
       ]
     },
     {
@@ -92,7 +101,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -197,7 +209,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -280,7 +295,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -346,7 +364,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -390,7 +411,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Nice Nature",
