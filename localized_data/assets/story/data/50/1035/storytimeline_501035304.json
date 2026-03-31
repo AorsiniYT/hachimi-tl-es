@@ -86,11 +86,18 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "¿Qué hay de la Triple Corona Clásica? ¿Tú también\nla tienes en la mira, verdad?"
+      "text": "¿Qué hay de la Triple Corona Clásica? ¿Tú también\nla tienes en la mira, verdad?",
+      "color_text_info_list": [
+        "Clásica"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "La Triple Corona Clásica—un logro prestigioso que\nrequiere que un corredor gane las tres carreras:\nel Satsuki Sho, el Japanese Derby y el Kikuka Sho.\n¡Es uno de los más altos honores en las carreras!"
+      "text": "La Triple Corona Clásica—un logro prestigioso que\nrequiere que un corredor gane las tres carreras:\nel Satsuki Sho, el Japanese Derby y el Kikuka Sho.\n¡Es uno de los más altos honores en las carreras!",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -125,7 +132,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "El Yayoi Sho..."
+      "text": "El Yayoi Sho...",
+      "color_text_info_list": [
+        "Yayoi Sho"
+      ]
     },
     {
       "name": "Monólogo",

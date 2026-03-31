@@ -35,6 +35,11 @@
       "choice_data_list": [
         "¿Qué tal el Hopeful Stakes?",
         "¿Qué tal el Hopeful Stakes?"
+      ],
+      "color_text_info_list": [
+        "Hopeful Stakes",
+        "juvenil",
+        "G1"
       ]
     },
     {
@@ -42,6 +47,9 @@
       "text": "¡Ohhh! ¡Es una carrera G1! ¡Suena divertido!",
       "choice_data_list": [
         "¡Intentemos obtener los mejores resultados\nposibles!"
+      ],
+      "color_text_info_list": [
+        "G1"
       ]
     },
     {
@@ -125,13 +133,19 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "¿Oh? ¿Hay algo que te preocupe, Ticket?"
+      "text": "¿Oh? ¿Hay algo que te preocupe, Ticket?",
+      "color_text_info_list": [
+        "Ticket"
+      ]
     },
     {
       "name": "Winning Ticket",
       "text": "¡Hayahideeee! ¡Estoy realmente preocupada!\n¡Super-mega preocupada!",
       "choice_data_list": [
         "(¡Eso es!)"
+      ],
+      "color_text_info_list": [
+        "Hayahide"
       ]
     },
     {

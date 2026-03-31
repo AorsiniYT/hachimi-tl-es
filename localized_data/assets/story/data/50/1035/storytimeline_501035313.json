@@ -73,7 +73,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Guau! ¡Una carrera Grand Prix! ¡Apuesto a que\nmuchos grandes competidores aparecerán allí!"
+      "text": "¡Guau! ¡Una carrera Grand Prix! ¡Apuesto a que\nmuchos grandes competidores aparecerán allí!",
+      "color_text_info_list": [
+        "Gran Premio"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -85,7 +88,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "¡Muy bien! ¡Voy a dar el máximo para el Takarazuka\nKinen!"
+      "text": "¡Muy bien! ¡Voy a dar el máximo para el Takarazuka\nKinen!",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
     }
   ]
 }

@@ -22,7 +22,10 @@
     },
     {
       "name": "Fan de Ticket A",
-      "text": "¡Oh, es Tickezo! ¡Estás en el equipo de voleibol,\nverdad?"
+      "text": "¡Oh, es Tickezo! ¡Estás en el equipo de voleibol,\nverdad?",
+      "color_text_info_list": [
+        "Tickezo"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -58,7 +61,10 @@
     },
     {
       "name": "Compañera de Equipo",
-      "text": "¡Qué buena salvada, Ticket!"
+      "text": "¡Qué buena salvada, Ticket!",
+      "color_text_info_list": [
+        "Ticket"
+      ]
     },
     {
       "name": "Monólogo",
