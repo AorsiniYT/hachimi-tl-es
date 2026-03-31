@@ -16,7 +16,10 @@
     },
     {
       "name": "Empleado de la Rifa",
-      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!"
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
     },
     {
       "name": "Empleado de la Rifa",
@@ -49,10 +52,16 @@
     },
     {
       "name": "Empleado de la Rifa",
-      "text": "¡Caramba! ¡Tenemos a un ganador del gran premio!\n¡Ven a recoger el cupón para tus vacaciones en\naguas termales! ¡Felicitaciones!"
+      "text": "¡Caramba! ¡Tenemos a un ganador del gran premio!\n¡Ven a recoger el cupón para tus vacaciones en\naguas termales! ¡Felicitaciones!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -130,7 +139,10 @@
       "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -181,7 +193,10 @@
       "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un montón de\nzanahorias!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -225,7 +240,10 @@
       "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -262,7 +280,10 @@
       "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un boleto\nvacío! Toma este paquete de pañuelos como premio\nde consolación."
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
     },
     {
       "name": "Meisho Doto",

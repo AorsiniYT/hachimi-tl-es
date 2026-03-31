@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Un día, durante un scrimmage de la Academia\nTracen..."
+      "text": "Un día, durante un scrimmage de la Academia\nTracen...",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
     },
     {
       "name": "Monólogo",
@@ -15,7 +18,10 @@
     },
     {
       "name": "Comentarista Uma Musume",
-      "text": "¡La carrera se acerca a su final! Meisho Doto sube\nla intensidad en la última curva. Pero..."
+      "text": "¡La carrera se acerca a su final! Meisho Doto sube\nla intensidad en la última curva. Pero...",
+      "color_text_info_list": [
+        "Meisho Doto"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -43,11 +49,17 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Ya veo. Así que tu nombre es Meisho Doto? Yo...\nsoy conocida como T.M. Opera O!"
+      "text": "Ya veo. Así que tu nombre es Meisho Doto? Yo...\nsoy conocida como T.M. Opera O!",
+      "color_text_info_list": [
+        "Ya veo. Así que tu nombre es Meisho Doto? Yo...\nsoy conocida como T.M. Opera O!"
+      ]
     },
     {
       "name": "T.M. Opera O",
-      "text": "¡Nací tanto una estrella como una soberana!\nSígueme, y no te arrepentirás."
+      "text": "¡Nací tanto una estrella como una soberana!\nSígueme, y no te arrepentirás.",
+      "color_text_info_list": [
+        "soberana"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -99,6 +111,9 @@
       "choice_data_list": [
         "Sí, creo lo mismo.",
         "Sí, creo lo mismo."
+      ],
+      "color_text_info_list": [
+        "Twinkle Series"
       ]
     },
     {
@@ -107,7 +122,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Matikanefukukitaru: una Uma Musume con afición por\nla adivinación y buena amiga de Meisho Doto, ha\nvenido a visitarnos para celebrar."
+      "text": "Matikanefukukitaru: una Uma Musume con afición por\nla adivinación y buena amiga de Meisho Doto, ha\nvenido a visitarnos para celebrar.",
+      "color_text_info_list": [
+        "Matikanefukukitaru"
+      ]
     },
     {
       "name": "Monólogo",
@@ -115,7 +133,10 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "¡Muchas gracias, Fukukitaru! Algún día me\nconvertiré en una corredora segura y brillaré de\nverdad."
+      "text": "¡Muchas gracias, Fukukitaru! Algún día me\nconvertiré en una corredora segura y brillaré de\nverdad.",
+      "color_text_info_list": [
+        "Fukukitaru"
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -150,7 +171,10 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "¡Me gustaría ayudar a Opera O algún día!"
+      "text": "¡Me gustaría ayudar a Opera O algún día!",
+      "color_text_info_list": [
+        "Opera O"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -166,7 +190,10 @@
     },
     {
       "name": "Air Shakur",
-      "text": "¿Tu gran sueño es ser más segura? Doto, ¿eso\nrealmente es lo que te impulsa?"
+      "text": "¿Tu gran sueño es ser más segura? Doto, ¿eso\nrealmente es lo que te impulsa?",
+      "color_text_info_list": [
+        "Doto"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -174,11 +201,17 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "Oh, Shakur..."
+      "text": "Oh, Shakur...",
+      "color_text_info_list": [
+        "Shakur"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "Esa es Air Shakur, la compañera de cuarto de\nMeisho Doto. Empezó a correr después que Doto,\npero he oído que es muy buena en análisis de\ndatos."
+      "text": "Esa es Air Shakur, la compañera de cuarto de\nMeisho Doto. Empezó a correr después que Doto,\npero he oído que es muy buena en análisis de\ndatos.",
+      "color_text_info_list": [
+        "Air Shakur"
+      ]
     },
     {
       "name": "Meisho Doto",

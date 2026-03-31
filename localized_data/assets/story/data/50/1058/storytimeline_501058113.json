@@ -7,13 +7,19 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "¡El día finalmente ha llegado, mi querida Doto!\n¡Vamos, debemos apresurarnos para el Derby\nJaponés!"
+      "text": "¡El día finalmente ha llegado, mi querida Doto!\n¡Vamos, debemos apresurarnos para el Derby\nJaponés!",
+      "color_text_info_list": [
+        "Japanese Derby"
+      ]
     },
     {
       "name": "Meisho Doto",
       "text": "¿Huh, ya está <i>aquí?!</i> Ni siquiera me he debutado\naún...",
       "choice_data_list": [
         "Pero vamos a ver a la generación anterior."
+      ],
+      "color_text_info_list": [
+        "Debutada"
       ]
     },
     {
@@ -42,7 +48,10 @@
     },
     {
       "name": "T.M. Opera O",
-      "text": "Allá está Special Week, el orgullo de Hokkaido con\naires de gobernante. ¡Grass Wonder y El Condor\nPasa también pertenecen a esta generación, pero no\nestán con nosotros hoy."
+      "text": "Allá está Special Week, el orgullo de Hokkaido con\naires de gobernante. ¡Grass Wonder y El Condor\nPasa también pertenecen a esta generación, pero no\nestán con nosotros hoy.",
+      "color_text_info_list": [
+        "Special Week"
+      ]
     },
     {
       "name": "T.M. Opera O",

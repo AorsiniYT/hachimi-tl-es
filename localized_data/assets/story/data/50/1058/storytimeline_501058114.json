@@ -35,7 +35,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "La ganadora de las carreras Clásicas del próximo\naño aún es una incógnita. Si su forma se\ndesarrolla a tiempo, alcanzar a T.M. Opera O\npodría ser posible."
+      "text": "La ganadora de las carreras Clásicas del próximo\naño aún es una incógnita. Si su forma se\ndesarrolla a tiempo, alcanzar a T.M. Opera O\npodría ser posible.",
+      "color_text_info_list": [
+        "Classic"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -71,7 +74,10 @@
     },
     {
       "name": "Locutor",
-      "text": "¡La victoria es para Admire Vega, la brillante\nestrella de la esperanza! Ella irrumpe más allá de\nla competencia, dominando las carreras de grado!"
+      "text": "¡La victoria es para Admire Vega, la brillante\nestrella de la esperanza! Ella irrumpe más allá de\nla competencia, dominando las carreras de grado!",
+      "color_text_info_list": [
+        "Admire Vega"
+      ]
     },
     {
       "name": "Locutor",
@@ -119,11 +125,17 @@
     },
     {
       "name": "Meisho Doto",
-      "text": "S-s-sí! Perdón por eso, Admire Vega... O sea...\nAyabe."
+      "text": "S-s-sí! Perdón por eso, Admire Vega... O sea...\nAyabe.",
+      "color_text_info_list": [
+        "Ayabe"
+      ]
     },
     {
       "name": "Meisho Doto",
-      "text": "Um... Te v-ví corriendo en UmaTube el otro día.\n¡Fuiste tan genial y... terriblemente rápido!"
+      "text": "Um... Te v-ví corriendo en UmaTube el otro día.\n¡Fuiste tan genial y... terriblemente rápido!",
+      "color_text_info_list": [
+        "UmaTube"
+      ]
     },
     {
       "name": "Admire Vega",
