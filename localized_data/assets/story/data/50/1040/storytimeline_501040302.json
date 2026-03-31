@@ -10,7 +10,10 @@
     },
     {
       "name": "Dependiente de la Rifa",
-      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! El primer premio de este año es unas\nvacaciones en aguas termales para dos personas."
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! El primer premio de este año es unas\nvacaciones en aguas termales para dos personas.",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
     },
     {
       "name": "Dependiente de la Rifa",
@@ -61,7 +64,10 @@
       "text": "¡Santo cielo! ¡Tenemos una ganadora del primer\npremio! ¡Venga y recoja el cupón para sus\nvacaciones en aguas termales! ¡Felicidades!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Gold City",
@@ -117,7 +123,7 @@
     },
     {
       "name": "Gold City",
-      "text": "...",
+      "text": "Después de calmar al empleado del sorteo, persigo\napresuradamente a Gold City con el boleto de\nvacaciones en la mano.",
       "choice_data_list": [
         "¡City!"
       ]
@@ -132,7 +138,7 @@
     },
     {
       "name": "Gold City",
-      "text": "Uh-huh."
+      "text": "Ajá."
     },
     {
       "name": "Gold City",
@@ -185,7 +191,10 @@
       "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicidades! ¡Usted se lleva un bistec de\nhamburguesa de zanahoria de lujo!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Gold City",
@@ -208,7 +217,7 @@
     },
     {
       "name": "Gold City",
-      "text": "..."
+      "text": "Demasiado bueno, de hecho. Apuesto a que mi\nmanager se enojaría si me lo como todo."
     },
     {
       "name": "Gold City",
@@ -234,7 +243,10 @@
       "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te llevas a casa un haz de zanahorias!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Gold City",
@@ -295,7 +307,10 @@
       "text": "¡Miren esto! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Gold City",
@@ -338,11 +353,14 @@
       "text": "Ohhh, mala suerte! ¡Parece que sacaste un boleto\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación."
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Gold City",
-      "text": "..."
+      "text": "Patético. Y se supone que soy modelo."
     },
     {
       "name": "Gold City",

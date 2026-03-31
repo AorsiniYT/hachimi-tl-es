@@ -23,7 +23,11 @@
     },
     {
       "name": "Reportero B",
-      "text": "¿Pondrás tus ojos en las carreras G1? ¿Quizás el\nHanshin Juvenile Fillies?"
+      "text": "¿Pondrás tus ojos en las carreras G1? ¿Quizás el\nHanshin Juvenile Fillies?",
+      "color_text_info_list": [
+        "G1",
+        "Hanshin Juvenile Fillies"
+      ]
     },
     {
       "name": "Reportero A",
@@ -53,7 +57,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "El Asahi Hai F.S. suele atraer a corredoras que\napuntan al tour de la Triple Corona Clásica,\nmientras que el Hanshin J.F. es para el tour de la\nTiara."
+      "text": "El Asahi Hai F.S. suele atraer a corredoras que\napuntan al tour de la Triple Corona Clásica,\nmientras que el Hanshin J.F. es para el tour de la\nTiara.",
+      "color_text_info_list": [
+        "Asahi Hai F.S."
+      ]
     },
     {
       "name": "Gold City",
@@ -80,7 +87,12 @@
     },
     {
       "name": "Monólogo",
-      "text": "La Triple Tiara consiste en el Oka Sho, el\nJapanese Oaks y el Shuka Sho—tres carreras famosas\npor su espectáculo glamuroso."
+      "text": "La Triple Tiara consiste en el Oka Sho, el\nJapanese Oaks y el Shuka Sho—tres carreras famosas\npor su espectáculo glamuroso.",
+      "color_text_info_list": [
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho"
+      ]
     },
     {
       "name": "Gold City",
