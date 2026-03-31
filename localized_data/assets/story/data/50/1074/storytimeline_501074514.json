@@ -1,0 +1,241 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, me encuentro visitando un parque de\ndiversiones propiedad y operado por los padres de\nMejiro Bright."
+    },
+    {
+      "name": "Gerente",
+      "text": "Ah, bienvenida, Miss Bright! ¡El evento de la casa\nembrujada de este año es realmente algo!\n¡Garantizo que saltarás de tu piel!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¡Jeje! Estoy muy emocionada por ello. ♪ De hecho,\nme gustaría experimentarlo ahora mismo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella fue invitada específicamente para observar\nesta casa embrujada del año antes de que abra al\npúblico."
+    },
+    {
+      "name": "Personal del Parque de Diversiones",
+      "text": "¡Miss Bright ha entrado en el recinto! Actualmente\nse dirige al este a una velocidad de caminata de\nveinticinco metros por minuto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con Mejiro Bright dentro de la atracción, me\nllevan a la sala de control de la casa embrujada.\nAl entrar, ¿a quién veo viendo las cámaras sino..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Me pregunto si Bright se asustará...",
+      "choice_data_list": [
+        "¿Qué están haciendo ustedes dos aquí?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Te llamamos como asesor porque queríamos probar\nnuestras tácticas en alguien como Bright!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Es cierto, sin embargo. No creo haber visto nunca\na Bright sorprendida por nada."
+    },
+    {
+      "name": "Gerente",
+      "text": "¡Exactamente! Hemos intentado innumerables veces\ndarle un buen susto a Miss Bright dentro de\nnuestra casa embrujada, pero sin éxito alguno."
+    },
+    {
+      "name": "Gerente",
+      "text": "<i>¡Sin embargo!</i> ¡Este año realmente nos hemos\nsuperado! ¡Por qué, diría que es la mejor obra que\nhe producido!"
+    },
+    {
+      "name": "Gerente",
+      "text": "¡El factor de miedo de esta atracción es tan\nextremo que anticipo que incluso Miss Bright lo\npasará genial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Suena como que toda la carrera de este gerente\nestá en juego en los resultados de hoy. Nos\nvolvemos a los monitores para ver el progreso de\nMejiro Bright..."
+    },
+    {
+      "name": "Personal del Parque de Diversiones",
+      "text": "Miss Bright ha salido del área del hospital\nabandonado, y ¡está sonriendo! ¡Nuestra primera\nlínea de defensa ha sido violada!"
+    },
+    {
+      "name": "Gerente",
+      "text": "¡Mantén la calma! ¡Anticipamos un desafío!\n¡Preparados para desplegar a Madam\nSangre-Músculos!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ah, así que ha llegado el momento. Me pregunto si\nesto finalmente asustará a Bright...",
+      "choice_data_list": [
+        "¿Quién es Madam Sangre-Músculos?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Es una muñeca manchada de sangre! Dober diseñó su\ncara, y yo supervisé la construcción de su cuerpo!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Es horrenda incluso a primera vista, y es <i>súper</i>\nrealista, así que incluso Bright debería llevarse\nun susto!"
+    },
+    {
+      "name": "Gerente",
+      "text": "¡Aún no! ¡Espera hasta que esté justo en el punto\nde caída! En tres, dos, uno—¡desplegar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Clunk!</i>"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh my... Eres una muñeca, ¿verdad? Debo decir,\ntienes una cara bastante hermosa. ♪"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Y tu constitución es completamente robusta. ¿Por\nqué, tus músculos están a la par con los de mi\nhermana Ryan, de hecho. ¡Jeje! ♪"
+    },
+    {
+      "name": "Personal del Parque de Diversiones",
+      "text": "¡Miss Bright ahora está acariciando la muñeca!\nN-nunca he conocido a un invitado que se comporte\nasí..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Puede que haya hecho la cara de la muñeca más\nbonita de lo necesario."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Creo que tal vez fui demasiado particular con los\nmúsculos también..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Bright procede a través de la casa\nembrujada, tomando sus varias sorpresas con calma\nen su camino..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Em, Ryan? No somos los únicos aquí que\nconocemos bastante bien a Bright..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Oh, cierto! ¡Tenemos a otro experto en Bright\njusto aquí!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Sí! ¡Su entrenador podría tener la información\ninterna sobre qué le da miedo a Bright!"
+    },
+    {
+      "name": "Gerente",
+      "text": "¡Por favor, Entrenador! Asume el papel de\nasustador principal y asusta a Miss Bright, ¡te lo\nruego!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El gerente va brevemente por el aire antes de\naterrizar en cuatro patas a mis pies. Incapaz de\nrechazar una petición tan apasionada, me encuentro\nsiendo llevado a una pequeña habitación..."
+    },
+    {
+      "name": "Gerente",
+      "text": "Guau, entrenadora. Te ves horroroso... Eso es\nrealmente maquillaje de zombie de nivel Hollywood!\nEs como si hubieras estado bajo tierra durante\naños",
+      "choice_data_list": [
+        "<i>No</i> estoy feliz de escuchar eso..."
+      ]
+    },
+    {
+      "name": "Mánager",
+      "text": "Ahora, es hora de ponerte frente a la señorita\nBright! Inicia \"Operación: Final T\"!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Dale con todo! Si puedes soñarlo, puedes lograrlo."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Déjame ver... La puerta de salida debería estar\njusto alrededor de esta esquina."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Kr-chak</i>",
+      "choice_data_list": [
+        "CEREBROOOOS!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como se instruyó, salto frente a Mejiro Bright en\nel momento perfecto y hago mi mejor impresión de\nzombie!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh, hola, entrenadora!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¿Estás vestida como un zombie, no es así? Te ves\n<i>muy</i> auténtica!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¿Te gustaría acompañarme a la salida? ♪ Me\nencantaría ver tu maquillaje bajo una iluminación\nadecuada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Operación: Final T ha fallado..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que Mejiro Bright sale de la casa\nembrujada, le confesamos nuestro plan."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Así que, sí, perdón por haber guardado todo eso en\nsecreto e intentado asustarte, Bright!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Yo también. Me sentí un poco culpable por lo que\nestábamos haciendo, pero el gerente insistió en\nque guardara silencio...",
+      "choice_data_list": [
+        "Perdón por haber seguido el juego!",
+        "Perdón por haber seguido el juego!",
+        "Pero no te asustaste en absoluto...",
+        "Pero no te asustaste en absoluto..."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Yo también. Me sentí un poco culpable por lo que\nestábamos haciendo, pero el gerente insistió en\nque guardara silencio...",
+      "choice_data_list": [
+        "Perdón por haber seguido el juego!",
+        "Perdón por haber seguido el juego!",
+        "Pero no te asustaste en absoluto...",
+        "Pero no te asustaste en absoluto..."
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "En otras palabras, las tres estaban trabajando\njuntas únicamente para darme una gran sorpresa,\n¿verdad?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Gracias a todos sus esfuerzos, disfruté al máximo\nmi experiencia en la casa embrujada. Muchas\ngracias. ♪"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Si me permite, entrenadora, respecto a su disfraz\ny maquillaje..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Dónde podría someterme a tal transformación yo\nmisma? Me encantaría experimentar ser un zombie!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Mejiro Bright permanece completamente ajena\nal final."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Antes de que llegue a sentirme sorprendida, me\ntoma unos momentos darme cuenta de que algo está\nocurriendo en realidad, sabes..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Podría estar más sorprendida si explicas de\nantemano lo que viene. Tal vez podrías haber hecho\nun anuncio, como, \"Cinco segundos para el\nsangriento muñeco.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dejando aparte nuestras travesuras, la casa\nembrujada termina siendo un gran éxito entre el\npúblico en general."
+    }
+  ]
+}

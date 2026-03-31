@@ -1,0 +1,70 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La sesión de entrenamiento de hoy con Mejiro\nBright termina sin problemas, pero en lugar de\nrecoger sus cosas, ella se queda quieta y mirando\na lo lejos.",
+      "choice_data_list": [
+        "(¿Qué está mirando?)"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Haa... Haa...</i> ...¡Sí! ¡Le quité segundos a mi\ntiempo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que está viendo la sesión de entrenamiento\nde Mejiro Dober desde lejos. Seguro que se está\nesforzando al todo."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Si pudiera hacer una petición... ¿Puedo continuar\nentrenando un poco más?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Eres libre de retirarte por hoy si lo deseas,\nEntrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puedo decir por qué quiere añadir horas extra de\nentrenamiento. Así que, teniendo eso en cuenta...",
+      "choice_data_list": [
+        "¡Me uniré!",
+        "¡Me uniré!",
+        "No hay prisa."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puedo decir por qué quiere añadir horas extra de\nentrenamiento. Así que, teniendo eso en cuenta...",
+      "choice_data_list": [
+        "¡Me uniré!",
+        "¡Me uniré!",
+        "No hay prisa."
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh, gracias, Entrenador! Qué amable de tu parte."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "No estaré mucho tiempo, te lo aseguro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, entrenamos juntos hasta que ella esté\nfeliz."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh... Ya veo. Así que estaba siendo demasiado\napresurado."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Entonces, procederé a mi propio ritmo, como\nrecomiendas."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Este es nuestro camino, y no debemos desviarnos de\nél."
+    }
+  ]
+}

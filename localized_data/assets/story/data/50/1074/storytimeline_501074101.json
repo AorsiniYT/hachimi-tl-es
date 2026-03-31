@@ -1,0 +1,276 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Con el cambio de año, Mejiro Bright entra en su\naño clásico."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Traqueteo, traqueteo...</i>"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Entrenador, tu tutoría resultó invaluable durante\nel transcurso del año pasado."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Espero más orientación de ti este año. Es un honor\npara mí.",
+      "choice_data_list": [
+        "También es un honor para mí."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "...No estoy segura de si respondí de la manera\napropiada, pero nuestra conversación sigue en pie,\nasí que démoslo por bueno.",
+      "choice_data_list": [
+        "A propósito, Bright, ¿tienes algún propósito de\nAño Nuevo?"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¡Ah, propósitos! Bueno, sí tengo uno en mente, por\nsupuesto."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Es desempeñarme bien en la Triple Corona Clásica y\ntraer más gloria al nombre Mejiro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Bright normalmente es de las que van\ndespacio, pero no muestra ninguna vacilación con\nsu respuesta. Puede ver su objetivo tan claro como\nel día."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Intento esforzarme especialmente en el Satsuki Sho\ny el Japanese Derby, ya que ninguno de esos ha\nsido ganado aún por un Mejiro.",
+      "choice_data_list": [
+        "¿En serio?",
+        "¿En serio?"
+      ],
+      "color_text_info_list": [
+        "Japanese Derby"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ah que lo pienso, ella tiene razón. Ningún miembro\nde la familia Mejiro ha ganado en el Satsuki Sho\nni en el Japanese Derby aún."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si su mira está puesta en esas carreras... ella\npodría haber reconocido ya a la posible\ncompetencia también.",
+      "choice_data_list": [
+        "¡No puedes dejar que tus rivales te ganen en el\nSatsuki Sho!",
+        "¡No puedes dejar que tus rivales te ganen en el\nSatsuki Sho!"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oooh... ¿Mis \"rivales\"?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Disculpe, Entrenador, pero ¿a quién podría estar\nrefiriéndose?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ah... Parece que ella no tiene su competencia\nmarcada aún. Bueno, cuando se trata de\ncontemporáneas de Mejiro Bright, hay..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Así que... ¿Estás apuntando al Satsuki Sho,\nverdad, Bright?",
+      "color_text_info_list": [
+        "Bright"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Aún no he definido mi estilo de carrera. Con\nsuerte, tendré una imagen más clara de él a tiempo\npara el Japanese Derby..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka. Es una Umamusume callada y\nreservada.",
+      "color_text_info_list": [
+        "Silence Suzuka"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su indecisión influye en su carrera y está\nlimitando su éxito. Las expectativas para su año\nclásico admitidamente no son las más altas."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Sí! ¡Lo veo! ¡Lo veo todo, Bright! Tienes la\nintención de correr correr correr en las carreras\nClásicas, ¿verdad?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Espero que un rival poderoso haga acto de\npresencia! Bueno, me refiero a mí misma allí, por\nsupuesto. ¡Eso asumiendo que pueda llenar esas\nzapatillas, de todos modos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru—ella le interesa la adivinación\ny lo sobrenatural.",
+      "color_text_info_list": [
+        "Matikanefukukitaru"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que está dando lo mejor de sí, pero los\nrumores abundan de que está confiando un poco\ndemasiado en la suerte en este momento."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Suzuka, Fukukitaru... Hemos hablado de vez en\ncuando, pero solo ahora me he dado cuenta.",
+      "color_text_info_list": [
+        "Suzuka",
+        "Fukukitaru"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Nos unimos a la Twinkle Series al mismo tiempo,\n¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Mejiro Bright, que tiende a marchar al\nritmo de su propio tambor, solo vio a esas dos\ncomo compañeras de conversación. En cuanto a sus\nrivales en sí, sin embargo, sin sorprender a\nnadie..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...Yo tampoco le había prestado atención. He\nestado completamente enfocada en perfeccionar mi\ncarrera."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Igualmente! He estado dedicando todos mis\nesfuerzos a aumentar mis parámetros de suerte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ninguna de ellas ha considerado a las otras como\namenazas... Todas están tan ocupadas encontrándose\na sí mismas que no tienen el espacio mental para\nsiquiera considerar rivales."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Disculpe, Entrenador. Dado que es el inicio de un\naño completamente nuevo, y en realidad hay dos\npersonas que me gustaría conocer mejor..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¿Quién crees que debería elegir para pasar tiempo\ncon? Siempre está la opción de pasar el tiempo\nsola, por supuesto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cómo pasar el Año Nuevo con sus contemporáneas...\n¿Qué le sugiero?",
+      "choice_data_list": [
+        "Trenzar el cabello de Suzuka.",
+        "Admirar algunos bonsais sola.",
+        "Invitar a Fukukitaru a jugar con muñecas."
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh, eso sí suena divertido. Querida Suzuka, me\npregunto si no te importaría dejarme trenzar tu\nhermoso cabello?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "He amado trenzar desde que era niña, ¿sabes..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Trenzarlo? Quiero decir, no me importaría..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Entonces comencemos."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "La la laaa, la la laaa. ♪"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eh... Bright? Llevas un rato en esto. ¿Casi\nterminas?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh, para nada. Todavía estoy cepillando tu\ncabello. Aún no he comenzado a trenzar. ♪"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...Así que esto va a tomar bastante más tiempo,\nentonces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Bright se asegura de que cada hebra de\ncabello de Silence Suzuka esté perfectamente en su\nlugar, y e incluso mientras se divierte, ella se\nvuelve más paciente a través del proceso también."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Admirar bonsais sola... Sí, eso podría ser\nagradable. Puedo jugar con mis amigas de la\nescuela en cualquier momento que quiera, después\nde todo..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Debo despedirme de ustedes dos por el momento. Me\nvoy a observar los bonsais."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Tonk... Tonk...</i>"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...Ahh."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Guau..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Bright está simplemente admirando los\nárboles bonsai cuando..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Entrenador? Me he dado cuenta..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Se dice que cada árbol bonsai es similar a un\nuniverso en miniatura, pero al observarlos..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Yo diría que no son universos, sino árboles al fin\ny al cabo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Las palabras me fallan. Aún así, esta aventura\nha sido definitivamente tranquilizadora para\nMejiro Bright."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Jugar con muñecas... Ah, sí, Fukukitaru, ¿qué\nopinas de esta pequeña?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Su nombre es Maki, y ella es <i>siempre</i> una niña tan\nbuena."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ohhh! Para que tengas una muñeca como esta en tu\nposesión, Bright, debes ser <i>verdaderamente</i> devota."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ese es tu encanto—tu protección, ¿no? ¡Una muñeca\nque sufre lesiones en tu lugar!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...¿Disculpe?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Bueno, las muñecas katashiro han sido usadas en\nceremonias de purificación Misogi durante\nmilenios..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Y esta muñeca ha absorbido cualquier y todas las\ncalamidades que te habrían acontecido, Bright. Qué\nafortunada..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh, querida. Pobre Maki..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Bright se dirige al santuario para escuchar\nalgunas enseñanzas sintoístas y se va habiendo\naprendido un par de cosas."
+    }
+  ]
+}
