@@ -7,15 +7,25 @@
     },
     {
       "name": "Televisión",
-      "text": "Ese nombre tan prestigioso nos ha dado\ninnumerables leyendas que dejaron su huella en la\nTwinkle Series."
+      "text": "Ese nombre tan prestigioso nos ha dado\ninnumerables leyendas que dejaron su huella en la\nTwinkle Series.",
+      "color_text_info_list": [
+        "Serie Twinkle"
+      ]
     },
     {
       "name": "Televisión",
-      "text": "Mejiro McQueen, Mejiro Ryan..."
+      "text": "Mejiro McQueen, Mejiro Ryan...",
+      "color_text_info_list": [
+        "Mejiro McQueen",
+        "Mejiro Ryan"
+      ]
     },
     {
       "name": "Televisión",
-      "text": "Mejiro Palmer, y muchos más."
+      "text": "Mejiro Palmer, y muchos más.",
+      "color_text_info_list": [
+        "Mejiro Palmer"
+      ]
     },
     {
       "name": "Televisión",
@@ -34,7 +44,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "¡Hoy, mi viaje con Mejiro Dober para enfrentar la\nTwinkle Series comienza!"
+      "text": "¡Hoy, mi viaje con Mejiro Dober para enfrentar la\nTwinkle Series comienza!",
+      "color_text_info_list": [
+        "Mejiro Dober"
+      ]
     },
     {
       "name": "Monólogo",
@@ -144,6 +157,9 @@
       "choice_data_list": [
         "Ese es un gran objetivo.",
         "Ese es un gran objetivo."
+      ],
+      "color_text_info_list": [
+        "estreno"
       ]
     },
     {
@@ -180,11 +196,17 @@
     },
     {
       "name": "???",
-      "text": "¡Dober!"
+      "text": "¡Dober!",
+      "color_text_info_list": [
+        "Dober"
+      ]
     },
     {
       "name": "???",
-      "text": "¡Dober!"
+      "text": "¡Dober!",
+      "color_text_info_list": [
+        "Dober"
+      ]
     },
     {
       "name": "Mejiro Bright",
@@ -192,11 +214,17 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "¡Bright!"
+      "text": "¡Bright!",
+      "color_text_info_list": [
+        "Bright"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "Monólogo: Bright, una compañera de Dober de\nmodales refinados y tranquila, y también Mejiro,\ncorre hacia nosotros, saludando."
+      "text": "Monólogo: Bright, una compañera de Dober de\nmodales refinados y tranquila, y también Mejiro,\ncorre hacia nosotros, saludando.",
+      "color_text_info_list": [
+        "Bright"
+      ]
     },
     {
       "name": "Mejiro Bright",

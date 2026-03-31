@@ -11,7 +11,10 @@
     },
     {
       "name": "Vendedor de la rifa",
-      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El premio mayor de este año es un\nviaje a aguas termales para dos!"
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El premio mayor de este año es un\nviaje a aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales para dos"
+      ]
     },
     {
       "name": "Vendedor de la rifa",
@@ -85,7 +88,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Has obtenido: <itemname>"
+      "text": "Has obtenido: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -209,7 +215,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Has obtenido: <itemname>"
+      "text": "Has obtenido: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -295,7 +304,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Has obtenido: <itemname>"
+      "text": "Has obtenido: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -363,7 +375,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Has obtenido: <itemname>"
+      "text": "Has obtenido: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -419,7 +434,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Has obtenido: <itemname>"
+      "text": "Has obtenido: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Mejiro Dober",

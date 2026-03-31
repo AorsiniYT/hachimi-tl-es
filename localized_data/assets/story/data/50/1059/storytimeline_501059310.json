@@ -114,7 +114,10 @@
     },
     {
       "name": "Locutor",
-      "text": "Continuando... ¿La actuación de Dober en las\nJapanese Oaks no te recordó a Mejiro Ramonu?"
+      "text": "Continuando... ¿La actuación de Dober en las\nJapanese Oaks no te recordó a Mejiro Ramonu?",
+      "color_text_info_list": [
+        "Mejiro Ramonu"
+      ]
     },
     {
       "name": "Locutor",
@@ -137,7 +140,10 @@
     },
     {
       "name": "Comentarista C",
-      "text": "Exacto. ¡Y no debemos olvidar el Tenno Sho de\nprimavera si hablamos de la familia Mejiro!\n¡Mejiro McQueen fue tan impresionante en él!"
+      "text": "Exacto. ¡Y no debemos olvidar el Tenno Sho de\nprimavera si hablamos de la familia Mejiro!\n¡Mejiro McQueen fue tan impresionante en él!",
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
     },
     {
       "name": "Monólogo",
@@ -329,6 +335,9 @@
       "text": "Quiero correr en el Osaka Hai.",
       "choice_data_list": [
         "¡Esa es una de las carreras de la Triple Corona\nsenior de primavera!"
+      ],
+      "color_text_info_list": [
+        "★★★"
       ]
     },
     {
@@ -337,6 +346,9 @@
       "choice_data_list": [
         "¡Una razón más para correr en ella, ¿verdad?!",
         "¡Una razón más para correr en ella, ¿verdad?!"
+      ],
+      "color_text_info_list": [
+        "★★★"
       ]
     },
     {

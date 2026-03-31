@@ -7,13 +7,24 @@
     },
     {
       "name": "Monólogo",
-      "text": "Está la gira de la Triple Corona Clásica, que\nconsiste en el Satsuki Sho, el Derby Japonés y el\nKikuka Sho..."
+      "text": "Está la gira de la Triple Corona Clásica, que\nconsiste en el Satsuki Sho, el Derby Japonés y el\nKikuka Sho...",
+      "color_text_info_list": [
+        "Clásica",
+        "Satsuki Sho",
+        "Japanese Derby",
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "Monólogo",
       "text": "Y está la gira de la Triple Tiara, que consiste en\nel Oka Sho, el Oaks Japonés y el Shuka Sho.",
       "choice_data_list": [
         "(Debería preguntarle a Dober qué camino prefiere.)"
+      ],
+      "color_text_info_list": [
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho"
       ]
     },
     {
@@ -118,7 +129,11 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "McQueen, Ryan, Palmer... Todas nuestras\npredecesoras han continuado el legado Mejiro."
+      "text": "McQueen, Ryan, Palmer... Todas nuestras\npredecesoras han continuado el legado Mejiro.",
+      "color_text_info_list": [
+        "McQueen",
+        "Palmer"
+      ]
     },
     {
       "name": "Mejiro Bright",
@@ -222,7 +237,10 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Voy a hacer lo que Ramonu—el orgullo y alegría de\nla familia Mejiro y la primera persona en ganar la\nTriple Tiara—hizo y también tomaré las tres\ntiaras."
+      "text": "Voy a hacer lo que Ramonu—el orgullo y alegría de\nla familia Mejiro y la primera persona en ganar la\nTriple Tiara—hizo y también tomaré las tres\ntiaras.",
+      "color_text_info_list": [
+        "Ramonu"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -325,11 +343,17 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Bueno, si quiero competir en la gira de la Triple\nTiara durante mi año clásico, debería correr\nprimero en el Hanshin Juvenile Fillies."
+      "text": "Bueno, si quiero competir en la gira de la Triple\nTiara durante mi año clásico, debería correr\nprimero en el Hanshin Juvenile Fillies.",
+      "color_text_info_list": [
+        "Hanshin Juvenile Fillies"
+      ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Bueno, si quiero competir en la gira de la Triple\nTiara durante mi año clásico, debería correr\nprimero en el Hanshin Juvenile Fillies."
+      "text": "Bueno, si quiero competir en la gira de la Triple\nTiara durante mi año clásico, debería correr\nprimero en el Hanshin Juvenile Fillies.",
+      "color_text_info_list": [
+        "Hanshin Juvenile Fillies"
+      ]
     },
     {
       "name": "Mejiro Dober",
