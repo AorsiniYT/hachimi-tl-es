@@ -47,7 +47,10 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Nuestra próxima carrera es el Mile Championship,\n¿verdad, Entrenador?"
+      "text": "Nuestra próxima carrera es el Mile Championship,\n¿verdad, Entrenador?",
+      "color_text_info_list": [
+        "Mile Championship"
+      ]
     },
     {
       "name": "Monólogo",
@@ -55,6 +58,9 @@
       "choice_data_list": [
         "¡Así es!",
         "¡Así es!"
+      ],
+      "color_text_info_list": [
+        "sénior"
       ]
     },
     {
@@ -71,7 +77,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Y así, la próxima carrera en nuestro calendario es\nel Mile Championship."
+      "text": "Y así, la próxima carrera en nuestro calendario es\nel Mile Championship.",
+      "color_text_info_list": [
+        "Mile Championship"
+      ]
     },
     {
       "name": "Monólogo",

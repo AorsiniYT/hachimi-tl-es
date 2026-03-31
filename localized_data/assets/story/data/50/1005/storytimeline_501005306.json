@@ -60,7 +60,10 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Una pared, ¿eh? En otras palabras... quieres\nhablar sobre tu aptitud de distancia, ¿sí?"
+      "text": "Una pared, ¿eh? En otras palabras... quieres\nhablar sobre tu aptitud de distancia, ¿sí?",
+      "color_text_info_list": [
+        "aptitud de distancia"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -263,13 +266,19 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Puedo continuar asumiendo el tour de la Triple\nCorona, que ahora será aún más interesante debido\na lo desafiante que será..."
+      "text": "Puedo continuar asumiendo el tour de la Triple\nCorona, que ahora será aún más interesante debido\na lo desafiante que será...",
+      "color_text_info_list": [
+        "tour de la Triple Corona"
+      ]
     },
     {
       "name": "Fuji Kiseki",
       "text": "O puedo cambiar de dirección completamente y\nlanzar todo lo que tengo a conquistar el tour de\nla milla!",
       "choice_data_list": [
         "...!"
+      ],
+      "color_text_info_list": [
+        "tour de la milla"
       ]
     },
     {

@@ -27,7 +27,10 @@
     },
     {
       "name": "Espectador B",
-      "text": "¡Su próxima carrera será la Arima Kinen, verdad?\n¡Oh, no puedo esperar a verla!"
+      "text": "¡Su próxima carrera será la Arima Kinen, verdad?\n¡Oh, no puedo esperar a verla!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
     },
     {
       "text": "Aunque Fuji Kiseki no logró la victoria, el\npúblico está lleno de elogios por sus admirables\nesfuerzos."
@@ -63,13 +66,19 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Solo me preguntaba, pero ¿cómo te sientes acerca\nde correr en el Takamatsunomiya Kinen después?"
+      "text": "Solo me preguntaba, pero ¿cómo te sientes acerca\nde correr en el Takamatsunomiya Kinen después?",
+      "color_text_info_list": [
+        "Takamatsunomiya Kinen"
+      ]
     },
     {
       "text": "Poco después de regresar de Kioto, Fuji Kiseki\npasa por mi oficina y abre una conversación con\nesa pregunta repentina."
     },
     {
-      "text": "Asumí que querría correr en el Japan Cup y la\nArima Kinen, pero supongo que me equivoqué."
+      "text": "Asumí que querría correr en el Japan Cup y la\nArima Kinen, pero supongo que me equivoqué.",
+      "color_text_info_list": [
+        "Japan Cup"
+      ]
     },
     {
       "text": "Dado que el Takamatsunomiya Kinen es una carrera\nde velocidad, no puedo evitar preguntarme...",

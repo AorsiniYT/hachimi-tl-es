@@ -10,7 +10,10 @@
     },
     {
       "name": "Empleado de la Rifa",
-      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!"
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
     },
     {
       "name": "Empleado de la Rifa",
@@ -66,7 +69,10 @@
       "text": "¡Santa vaca! ¡Tenemos un ganador del gran premio!\n¡Venga a recoger el cupón para sus vacaciones en\naguas termales! ¡Felicitaciones!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -136,7 +142,10 @@
       "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Obtienes un filete de\nhamburguesa de zanahoria de lujo!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -173,7 +182,10 @@
       "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te llevas a casa un montón de\nzanahorias!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -220,6 +232,9 @@
       "text": "Obtuviste: <itemname>",
       "choice_data_list": [
         "¡Una sola zanahoria!"
+      ],
+      "color_text_info_list": [
+        "<itemname>"
       ]
     },
     {
@@ -260,7 +275,10 @@
       "text": "¡Oh, qué mala suerte! Parece que sacaste un boleto\nvacío. Toma este paquete de pañuelos como premio\nde consolación."
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Fuji Kiseki",

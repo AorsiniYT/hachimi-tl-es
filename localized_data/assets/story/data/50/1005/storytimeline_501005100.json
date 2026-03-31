@@ -33,14 +33,21 @@
       "text": "Hyaaah!"
     },
     {
-      "text": "Hoy marca la entrada de Fuji Kiseki y mía en la\nSerie Destello. Es un día digno de conmemoración."
+      "text": "Hoy marca la entrada de Fuji Kiseki y mía en la\nSerie Destello. Es un día digno de conmemoración.",
+      "color_text_info_list": [
+        "Fuji Kiseki",
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Agnes Tachyon",
       "text": "¡Jajajaja! Nada mal, Fuji! ¡Pero más rápido! ¡Más\nrápido, digo!"
     },
     {
-      "text": "Fuji Kiseki ha estado envuelta en algún\nexperimento de Agnes Tachyon—una corredora más\nbien extraña con afición por la investigación."
+      "text": "Fuji Kiseki ha estado envuelta en algún\nexperimento de Agnes Tachyon—una corredora más\nbien extraña con afición por la investigación.",
+      "color_text_info_list": [
+        "Agnes Tachyon"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -201,6 +208,9 @@
       "text": "Y para eso, hay una cima que simplemente debo\nalcanzar en mi año clásico!",
       "choice_data_list": [
         "¿Cuál es?"
+      ],
+      "color_text_info_list": [
+        "año clásico"
       ]
     },
     {
@@ -211,7 +221,12 @@
       ]
     },
     {
-      "text": "La Triple Corona Clásica es un título solo\notorgado a aquellos que ganan el Satsuki Sho, el\nJapanese Derby y el Kikuka Sho."
+      "text": "La Triple Corona Clásica es un título solo\notorgado a aquellos que ganan el Satsuki Sho, el\nJapanese Derby y el Kikuka Sho.",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Japanese Derby",
+        "Kikuka Sho"
+      ]
     },
     {
       "text": "Pocos corredores han logrado obtener tal título,\naunque muchos anhelan el honor de llevarlo."
