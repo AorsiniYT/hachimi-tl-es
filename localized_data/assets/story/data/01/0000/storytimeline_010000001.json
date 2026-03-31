@@ -1,59 +1,58 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Un día... en el hipódromo de Tokio."
-        },
-        {
-            "name": "???",
-            "text": "¡Hola, nuevo entrenador! ¡Por aquí!"
-        },
-        {
-            "name": "???",
-            "text": "El hipódromo de Tokio está tan animado como\nsiempre. Tenga cuidado de no perderse\naccidentalmente."
-        },
-        {
-            "name": "???",
-            "text": "Ahora, permítame presentarme."
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Soy Tazuna Hayakawa, secretaria de la directora, ¡Y\nseré tu guía turística por hoy!",
-            "choice_data_list": [
-                "Le agradezco haberme incorporado."
-            ],
-            "color_text_info_list": [
-                "★★★",
-                "Hayakawa",
-                "Tazuna"
-            ]
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Por supuesto. ♪ Es un placer para mí poder conocer\na un nuevo entrenador con un futuro tan brillante\ncomo el suyo."
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "En todo caso, debemos continuar con el\nrecorrido de la academia. Pero, antes de eso..."
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Una carrera está a punto de comenzar. ¡Echémosle\nun vistazo!"
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "¿Puedes oír los estruendosos aplausos del\npúblico?"
-        },
-        {
-            "text": "¡Wooooo!"
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "¡Gente de todo el mundo comparte el mismo\naprecio por las carreras de Umamusume!"
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Y así, con la fanfarria, se levantan las cortinas\nde este escenario donde tú y tu aprendiz\nperseguirán sus sueños."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día... en el hipódromo de Tokio."
+    },
+    {
+      "name": "???",
+      "text": "¡Hola, nuevo entrenador! ¡Por aquí!"
+    },
+    {
+      "name": "???",
+      "text": "El hipódromo de Tokio está tan animado como\nsiempre. Tenga cuidado de no perderse\naccidentalmente."
+    },
+    {
+      "name": "???",
+      "text": "Ahora, permítame presentarme."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Soy Tazuna Hayakawa, secretaria de la directora, ¡Y\nseré tu guía turística por hoy!",
+      "choice_data_list": [
+        "Le agradezco haberme incorporado."
+      ],
+      "color_text_info_list": [
+        "★★★",
+        "Hayakawa"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Por supuesto. ♪ Es un placer para mí poder conocer\na un nuevo entrenador con un futuro tan brillante\ncomo el suyo."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "En todo caso, debemos continuar con el\nrecorrido de la academia. Pero, antes de eso..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Una carrera está a punto de comenzar. ¡Echémosle\nun vistazo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Puedes oír los estruendosos aplausos del\npúblico?"
+    },
+    {
+      "text": "¡Wooooo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Gente de todo el mundo comparte el mismo\naprecio por las carreras de Umamusume!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Y así, con la fanfarria, se levantan las cortinas\nde este escenario donde tú y tu aprendiz\nperseguirán sus sueños."
+    }
+  ]
 }
