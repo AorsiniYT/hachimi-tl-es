@@ -35,15 +35,24 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "¡Hola! ¡Mayano!"
+      "text": "¡Hola! ¡Mayano!",
+      "color_text_info_list": [
+        "Mayano"
+      ]
     },
     {
       "name": "Mayano Top Gun",
-      "text": "¡Hola, Teio! ♪ ¿Qué pasa? ¿Viniste a jugar\nconmigo?"
+      "text": "¡Hola, Teio! ♪ ¿Qué pasa? ¿Viniste a jugar\nconmigo?",
+      "color_text_info_list": [
+        "Teio"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "(Esta es Tokai Teio. Es la compañera de cuarto de\nMayano Top Gun y una admiradora de la Presidenta\ndel Consejo Estudiantil Symboli Rudolf.)"
+      "text": "(Esta es Tokai Teio. Es la compañera de cuarto de\nMayano Top Gun y una admiradora de la Presidenta\ndel Consejo Estudiantil Symboli Rudolf.)",
+      "color_text_info_list": [
+        "Tokai Teio"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -58,6 +67,9 @@
       "text": "Por ejemplo, podrías ver correr a Narita Brian.\n¡Pero sería aburrido verlo solo!",
       "choice_data_list": [
         "(Narita Brian...)"
+      ],
+      "color_text_info_list": [
+        "Narita Brian"
       ]
     },
     {
@@ -106,7 +118,10 @@
     },
     {
       "name": "Locutor",
-      "text": "¿Alguien siquiera tiene una oportunidad contra\nBrian?! ¡Aquí viene, y ha cruzado la línea de\nmeta!"
+      "text": "¿Alguien siquiera tiene una oportunidad contra\nBrian?! ¡Aquí viene, y ha cruzado la línea de\nmeta!",
+      "color_text_info_list": [
+        "Brian"
+      ]
     },
     {
       "name": "Locutor",
@@ -162,11 +177,18 @@
     },
     {
       "name": "Monólogo",
-      "text": "Hay dichos respecto a cada una de las carreras G1\nque forman el tour de Triple Corona."
+      "text": "Hay dichos respecto a cada una de las carreras G1\nque forman el tour de Triple Corona.",
+      "color_text_info_list": [
+        "G1"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "La corredora más rápida gana el Satsuki Sho. La\ncorredora más afortunada gana el Japanese Derby.\nLa corredora más fuerte gana el Kikuka Sho."
+      "text": "La corredora más rápida gana el Satsuki Sho. La\ncorredora más afortunada gana el Japanese Derby.\nLa corredora más fuerte gana el Kikuka Sho.",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Kikuka Sho"
+      ]
     },
     {
       "name": "Monólogo",
