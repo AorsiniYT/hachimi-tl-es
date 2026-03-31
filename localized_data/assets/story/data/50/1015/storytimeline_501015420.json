@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Legendary Bard",
-      "text": "¡Victoriosa estoy! Justo como todos esperaban, el\nDerby de hoy fue uno para la historia!"
+      "text": "¡Victoriosa estoy! Justo como todos esperaban, el\nDerby de hoy fue uno para la historia!",
+      "color_text_info_list": [
+        "Derby"
+      ]
     },
     {
       "name": "Legendary Bard",
@@ -15,7 +18,10 @@
     },
     {
       "name": "Legendary Bard",
-      "text": "Así que la haré sonar. ¡La Generación Dorada\nespera en el Arima Kinen!"
+      "text": "Así que la haré sonar. ¡La Generación Dorada\nespera en el Arima Kinen!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
     }
   ]
 }

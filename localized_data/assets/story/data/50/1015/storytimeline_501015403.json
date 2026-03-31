@@ -3,11 +3,17 @@
   "text_block_list": [
     {
       "name": "Legendary Bard",
-      "text": "Durante mi ascenso al poder como el próximo rey,\nmi compatriota, Meisho Doto, de repente irrumpe en\nel escenario! Pero entonces, justo cuando estamos\nestableciendo nuestros papeles principales..."
+      "text": "Durante mi ascenso al poder como el próximo rey,\nmi compatriota, Meisho Doto, de repente irrumpe en\nel escenario! Pero entonces, justo cuando estamos\nestableciendo nuestros papeles principales...",
+      "color_text_info_list": [
+        "Meisho Doto"
+      ]
     },
     {
       "name": "Legendary Bard",
-      "text": "¡I-imposible! ¡La Generación Dorada se retirará de\nla Serie Destello este año! Significa... el campo\nde batalla se trasladará a la Liga del Trofeo del\nSueño ¿¡?!"
+      "text": "¡I-imposible! ¡La Generación Dorada se retirará de\nla Serie Destello este año! Significa... el campo\nde batalla se trasladará a la Liga del Trofeo del\nSueño ¿¡?!",
+      "color_text_info_list": [
+        "Liga del Trofeo del Sueño"
+      ]
     },
     {
       "name": "Legendary Bard",
@@ -15,7 +21,10 @@
     },
     {
       "name": "Legendary Bard",
-      "text": "¡Convoco una conferencia de prensa y hago mi\ndeclaración! Acumularé victorias G1, me convertiré\nen rey y pondré fin al reinado de la Generación\nDorada!"
+      "text": "¡Convoco una conferencia de prensa y hago mi\ndeclaración! Acumularé victorias G1, me convertiré\nen rey y pondré fin al reinado de la Generación\nDorada!",
+      "color_text_info_list": [
+        "G1"
+      ]
     }
   ]
 }

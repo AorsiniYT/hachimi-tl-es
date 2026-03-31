@@ -3,7 +3,11 @@
   "text_block_list": [
     {
       "name": "Legendary Bard",
-      "text": "Por fin, yo, el Soberano, he entrado en la Serie\nDestello. ¡El tiempo para que mi presencia brille\nsobre las masas ha llegado!"
+      "text": "Por fin, yo, el Soberano, he entrado en la Serie\nDestello. ¡El tiempo para que mi presencia brille\nsobre las masas ha llegado!",
+      "color_text_info_list": [
+        "Soberano",
+        "Serie Destello"
+      ]
     },
     {
       "name": "Legendary Bard",
@@ -11,7 +15,10 @@
     },
     {
       "name": "Legendary Bard",
-      "text": "Ahora comienza el prólogo de <i>Orígenes del Overlord\nCenturial</i>."
+      "text": "Ahora comienza el prólogo de <i>Orígenes del Overlord\nCenturial</i>.",
+      "color_text_info_list": [
+        "Señora Suprema Centenaria"
+      ]
     }
   ]
 }
