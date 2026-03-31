@@ -11,7 +11,10 @@
     },
     {
       "name": "Empleado de la rifa",
-      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!"
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
     },
     {
       "name": "Empleado de la rifa",
@@ -66,7 +69,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -189,7 +195,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -244,7 +253,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -268,7 +280,10 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Gracias, Fukukitaru. Lo comeré durante mi descanso\nen el entrenamiento."
+      "text": "Gracias, Fukukitaru. Lo comeré durante mi descanso\nen el entrenamiento.",
+      "color_text_info_list": [
+        "Fukukitaru"
+      ]
     },
     {
       "name": "Inari One",
@@ -300,7 +315,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -344,7 +362,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Matikanefukukitaru",

@@ -45,6 +45,10 @@
       "text": "¿Dejaremos que nuestro impulso nos lleve adelante,\nabriéndonos paso directamente a través del Japan\nCup y el Arima Kinen?!",
       "choice_data_list": [
         "Y-yo creo que eso aún no está en las cartas..."
+      ],
+      "color_text_info_list": [
+        "Japan Cup",
+        "Arima Kinen"
       ]
     },
     {
@@ -60,7 +64,10 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "El Kinko Sho... ¿No es la próxima primavera? Eso\nestá bastante lejos..."
+      "text": "El Kinko Sho... ¿No es la próxima primavera? Eso\nestá bastante lejos...",
+      "color_text_info_list": [
+        "Kinko Sho"
+      ]
     },
     {
       "name": "Matikanefukukitaru",

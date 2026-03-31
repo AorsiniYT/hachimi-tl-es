@@ -39,13 +39,20 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "¿¡Qué demonios?! ¿¡El Japanese Derby?! ¿Qué es eso\nahora?"
+      "text": "¿¡Qué demonios?! ¿¡El Japanese Derby?! ¿Qué es eso\nahora?",
+      "color_text_info_list": [
+        "Japanese Derby"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
       "text": "¿Realmente se supone que debo saltarme el Satsuki\nSho y sumergirme directamente en el Derby?! ¡Oh\ndioses, ilustradme!",
       "choice_data_list": [
         "Esto podría ser un desafío enviado por los cielos."
+      ],
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Derby"
       ]
     },
     {
