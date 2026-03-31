@@ -43,7 +43,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Sabes cómo voy a correr en la Serie Twinkle,\n¿verdad?"
+      "text": "Sabes cómo voy a correr en la Serie Twinkle,\n¿verdad?",
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -51,7 +54,10 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Entonces Tama sugirió un lugar de takoyaki rico en\nla ciudad."
+      "text": "Entonces Tama sugirió un lugar de takoyaki rico en\nla ciudad.",
+      "color_text_info_list": [
+        "Tama"
+      ]
     },
     {
       "name": "Monólogo",
@@ -59,6 +65,9 @@
       "choice_data_list": [
         "¿Pero por qué takoyaki?",
         "¿Pero por qué takoyaki?"
+      ],
+      "color_text_info_list": [
+        "Oguri Cap"
       ]
     },
     {
@@ -83,7 +92,10 @@
     },
     {
       "name": "Tamamo Cross",
-      "text": "Voy a repetirlo una última vez, ¿vale?"
+      "text": "Voy a repetirlo una última vez, ¿vale?",
+      "color_text_info_list": [
+        "★★★"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -107,7 +119,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Parece que hubo una mala comunicación entre Oguri\nCap y Tamamo Cross."
+      "text": "Parece que hubo una mala comunicación entre Oguri\nCap y Tamamo Cross.",
+      "color_text_info_list": [
+        "Tamamo Cross"
+      ]
     },
     {
       "name": "Oguri Cap",
