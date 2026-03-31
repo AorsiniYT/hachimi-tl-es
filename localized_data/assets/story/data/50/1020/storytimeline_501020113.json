@@ -10,37 +10,58 @@
     },
     {
       "name": "Special Week",
-      "text": "<i>Jadeo... Jadeo...</i> ¡Una vez más, Grass!"
+      "text": "<i>Jadeo... Jadeo...</i> ¡Una vez más, Grass!",
+      "color_text_info_list": [
+        "Grass"
+      ]
     },
     {
-      "text": "Es Special Week, una corredora con velocidad\nincreíble cuyo objetivo es convertirse en la mejor\nde Japón."
+      "text": "Es Special Week, una corredora con velocidad\nincreíble cuyo objetivo es convertirse en la mejor\nde Japón.",
+      "color_text_info_list": [
+        "Special Week"
+      ]
     },
     {
       "name": "Grass Wonder",
       "text": "Jeje... Esperaba que dijeras eso."
     },
     {
-      "text": "Y esa es Grass Wonder. A pesar de su exterior\nsereno, es una Umamusume con increíble\ndeterminación."
+      "text": "Y esa es Grass Wonder. A pesar de su exterior\nsereno, es una Umamusume con increíble\ndeterminación.",
+      "color_text_info_list": [
+        "Grass Wonder"
+      ]
     },
     {
       "name": "El Condor Pasa",
-      "text": "¡Whooooa! ¡Ustedes dos están ardiendo! ¡Déjenme a\nmí y a King unirnos, por favor!"
+      "text": "¡Whooooa! ¡Ustedes dos están ardiendo! ¡Déjenme a\nmí y a King unirnos, por favor!",
+      "color_text_info_list": [
+        "King"
+      ]
     },
     {
-      "text": "También está El Condor Pasa. En su reciente\ncarrera debut, mostró lo que significa esforzarse\npor ser la Umamusume más fuerte del mundo."
+      "text": "También está El Condor Pasa. En su reciente\ncarrera debut, mostró lo que significa esforzarse\npor ser la Umamusume más fuerte del mundo.",
+      "color_text_info_list": [
+        "El Condor Pasa"
+      ]
     },
     {
       "name": "King Halo",
       "text": "¡Perfecto! ¡Te mostraré mi habilidad de primera!"
     },
     {
-      "text": "Y finalmente, King Halo—una Umamusume privilegiada\nnacida en una familia respetada. Muchos ya esperan\ngrandes cosas de ella."
+      "text": "Y finalmente, King Halo—una Umamusume privilegiada\nnacida en una familia respetada. Muchos ya esperan\ngrandes cosas de ella.",
+      "color_text_info_list": [
+        "King Halo"
+      ]
     },
     {
       "name": "King Halo",
       "text": "Eres el entrenador de Sky, ¿correcto? ¡Te\nconcederé el derecho de registrar nuestros\ntiempos!",
       "choice_data_list": [
         "¡Por supuesto!"
+      ],
+      "color_text_info_list": [
+        "Sky"
       ]
     },
     {
@@ -147,7 +168,10 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Entonces, ¿qué pensaste, Entrenador? Comencemos\ncon Spe—"
+      "text": "Entonces, ¿qué pensaste, Entrenador? Comencemos\ncon Spe—",
+      "color_text_info_list": [
+        "Spe"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -227,7 +251,10 @@
     },
     {
       "name": "Special Week",
-      "text": "¡Sí! ¡Voy a ganar el Derby y convertirme en la\nmejor para mis mamás!"
+      "text": "¡Sí! ¡Voy a ganar el Derby y convertirme en la\nmejor para mis mamás!",
+      "color_text_info_list": [
+        "Derby"
+      ]
     },
     {
       "name": "Grass Wonder",

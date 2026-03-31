@@ -23,7 +23,10 @@
     },
     {
       "name": "Fan B",
-      "text": "¡Podría causar un serio revuelo en su año sénior!"
+      "text": "¡Podría causar un serio revuelo en su año sénior!",
+      "color_text_info_list": [
+        "año sénior"
+      ]
     },
     {
       "name": "Fan C",
@@ -113,14 +116,20 @@
     },
     {
       "name": "Transeúnte B",
-      "text": "¡No puedo esperar a verte en el Arima Kinen!\n¡Buena suerte!"
+      "text": "¡No puedo esperar a verte en el Arima Kinen!\n¡Buena suerte!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
     },
     {
       "name": "Seiun Sky",
       "text": "¿El Arima Kinen? ¿Voy a correr en eso?"
     },
     {
-      "text": "El Grand Prix de fin de año—el Arima Kinen...\nMuchos fijan esta carrera como objetivo, pero\nSeiun Sky no lo ha considerado todavía."
+      "text": "El Grand Prix de fin de año—el Arima Kinen...\nMuchos fijan esta carrera como objetivo, pero\nSeiun Sky no lo ha considerado todavía.",
+      "color_text_info_list": [
+        "Grand Prix"
+      ]
     },
     {
       "name": "Transeúnte B",

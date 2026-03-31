@@ -19,6 +19,9 @@
       "choice_data_list": [
         "¿Estás bien? ¿Por qué estás sola?",
         "¿Estás bien? ¿Por qué estás sola?"
+      ],
+      "color_text_info_list": [
+        "Nishino Flower"
       ]
     },
     {
@@ -27,7 +30,10 @@
     },
     {
       "name": "Nishino Flower",
-      "text": "<i>¡Ah! ¿En serio, </i>Sky?!"
+      "text": "<i>¡Ah! ¿En serio, </i>Sky?!",
+      "color_text_info_list": [
+        "Sky"
+      ]
     },
     {
       "text": "Nishino Flower entra al pasillo y luego arrastra a\nun rostro familiar de vuelta adentro."
@@ -54,7 +60,10 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "Eres tan linda con toda esa energía. ☆"
+      "text": "Eres tan linda con toda esa energía. ☆",
+      "color_text_info_list": [
+        "★★★"
+      ]
     },
     {
       "name": "Nishino Flower",

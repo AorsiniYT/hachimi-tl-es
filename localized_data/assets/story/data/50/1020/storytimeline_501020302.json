@@ -10,7 +10,10 @@
     },
     {
       "name": "Encargado del Sorteo",
-      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!"
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
     },
     {
       "name": "Encargado del Sorteo",
@@ -74,7 +77,10 @@
       "text": "¡Santa trucha! ¡Tenemos un ganador del gran\npremio! ¡Ven y recoge el cupón para tus vacaciones\nen aguas termales! ¡Felicitaciones!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -173,7 +179,10 @@
       "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -225,7 +234,10 @@
       "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un montón de\nzanahorias!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -282,7 +294,10 @@
       "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
     },
     {
-      "text": "Obtuviste: <itemname>"
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -325,6 +340,9 @@
       "text": "Obtuviste: <itemname>",
       "choice_data_list": [
         "...Lo siento."
+      ],
+      "color_text_info_list": [
+        "<itemname>"
       ]
     },
     {

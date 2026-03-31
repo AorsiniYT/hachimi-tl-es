@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Es temprano en la mañana del gran día en que Seiun\nSky está a punto de comenzar a entrenar en serio\npara la Serie Destello."
+      "text": "Es temprano en la mañana del gran día en que Seiun\nSky está a punto de comenzar a entrenar en serio\npara la Serie Destello.",
+      "color_text_info_list": [
+        "Seiun Sky"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -30,6 +33,9 @@
       "choice_data_list": [
         "...Definitivamente dije que íbamos a entrenar.",
         "...Definitivamente dije que íbamos a entrenar."
+      ],
+      "color_text_info_list": [
+        "★★★"
       ]
     },
     {
@@ -144,7 +150,13 @@
     },
     {
       "name": "Monólogo",
-      "text": "El Satsuki Sho, el Japanese Derby y el Kikuka\nSho—las fechas coinciden todas con la Triple\nCorona Clásica!"
+      "text": "El Satsuki Sho, el Japanese Derby y el Kikuka\nSho—las fechas coinciden todas con la Triple\nCorona Clásica!",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Japanese Derby",
+        "Kikuka Sho",
+        "Clásica"
+      ]
     },
     {
       "name": "Seiun Sky",
