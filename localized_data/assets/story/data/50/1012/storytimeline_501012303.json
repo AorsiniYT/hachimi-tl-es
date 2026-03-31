@@ -7,7 +7,11 @@
     },
     {
       "name": "Locutor",
-      "text": "Esta nueva generación está tomando forma\nimpresionantemente, con Narita Brian siendo una\nfuerte contendiente para la Triple Corona Clásica."
+      "text": "Esta nueva generación está tomando forma\nimpresionantemente, con Narita Brian siendo una\nfuerte contendiente para la Triple Corona Clásica.",
+      "color_text_info_list": [
+        "Narita Brian",
+        "Clásica"
+      ]
     },
     {
       "name": "Locutor",
@@ -41,11 +45,18 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Espera, ¿esa no es una carrera junior G1?"
+      "text": "Espera, ¿esa no es una carrera junior G1?",
+      "color_text_info_list": [
+        "juvenil",
+        "G1"
+      ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "Así que nos vamos a preparar para las carreras G1\ndel próximo año, ¿eh? ¡Me gusta! ¡Que venga la\nHanshin J.F.!"
+      "text": "Así que nos vamos a preparar para las carreras G1\ndel próximo año, ¿eh? ¡Me gusta! ¡Que venga la\nHanshin J.F.!",
+      "color_text_info_list": [
+        "Hanshin J.F."
+      ]
     },
     {
       "name": "Monólogo",
@@ -138,7 +149,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "¡Brian!"
+      "text": "¡Brian!",
+      "color_text_info_list": [
+        "Brian"
+      ]
     },
     {
       "name": "Hishi Amazon",

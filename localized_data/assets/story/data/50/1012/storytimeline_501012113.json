@@ -10,7 +10,10 @@
     },
     {
       "name": "Umamusume A",
-      "text": "¡Guau, miren! El Presidente Rudolf y Brian están\nen una carrera en pareja!"
+      "text": "¡Guau, miren! El Presidente Rudolf y Brian están\nen una carrera en pareja!",
+      "color_text_info_list": [
+        "Rudolf"
+      ]
     },
     {
       "name": "Umamusume B",
@@ -24,7 +27,10 @@
       "text": "Hishi Amazon mira hacia la pista en la distancia\ndonde dos corredoras están compitiendo en el\ncésped."
     },
     {
-      "text": "Ellas aceleran alrededor de la cuarta curva,\ncargando hacia la línea de meta frente a ellas.\nSymboli Rudolf va a la cabeza, pero la ventaja es\nmínima."
+      "text": "Ellas aceleran alrededor de la cuarta curva,\ncargando hacia la línea de meta frente a ellas.\nSymboli Rudolf va a la cabeza, pero la ventaja es\nmínima.",
+      "color_text_info_list": [
+        "Symboli Rudolf"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -237,7 +243,10 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Y luego, en el Arima Kinen... En la carrera más\ndifícil que hay..."
+      "text": "Y luego, en el Arima Kinen... En la carrera más\ndifícil que hay...",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
     },
     {
       "name": "Hishi Amazon",
