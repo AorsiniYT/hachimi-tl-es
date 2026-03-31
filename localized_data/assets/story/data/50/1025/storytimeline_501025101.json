@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Damos la bienvenida al nuevo año y al inicio del\naño clásico de Manhattan Cafe."
+      "text": "Damos la bienvenida al nuevo año y al inicio del\naño clásico de Manhattan Cafe.",
+      "color_text_info_list": [
+        "año clásico"
+      ]
     },
     {
       "name": "Monólogo",
@@ -34,7 +37,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...Tachyon."
+      "text": "...Tachyon.",
+      "color_text_info_list": [
+        "Tachyon"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -70,7 +76,11 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "He decidido entrar en la Yayoi Sho, la carrera de\nprueba para la Satsuki Sho."
+      "text": "He decidido entrar en la Yayoi Sho, la carrera de\nprueba para la Satsuki Sho.",
+      "color_text_info_list": [
+        "Yayoi Sho",
+        "Satsuki Sho"
+      ]
     },
     {
       "name": "Manhattan Cafe",
