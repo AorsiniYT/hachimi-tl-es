@@ -47,10 +47,16 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Oh, cállate."
+      "text": "Oh, cállate.",
+      "color_text_info_list": [
+        "★★★"
+      ]
     },
     {
-      "text": "Parada en la pista está Hishi Amazon, la líder de\nsangre caliente de la Residencia Miho. Todavía\nestá esperando su debut."
+      "text": "Parada en la pista está Hishi Amazon, la líder de\nsangre caliente de la Residencia Miho. Todavía\nestá esperando su debut.",
+      "color_text_info_list": [
+        "Hishi Amazon"
+      ]
     },
     {
       "text": "Y a su lado está la hermana menor de Biwa\nHayahide, la Umamusume que ha capturado la\natención de todos—Narita Brian."
@@ -87,7 +93,10 @@
     },
     {
       "name": "Espectadores",
-      "text": "¡Vamos, Hishiama! ¡Tú puedes, Brian!"
+      "text": "¡Vamos, Hishiama! ¡Tú puedes, Brian!",
+      "color_text_info_list": [
+        "Hishiama"
+      ]
     },
     {
       "text": "Pero luego, en la recta final de la carrera..."
@@ -175,14 +184,21 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hola, Ticket. Y tú también, Taishin."
+      "text": "Hola, Ticket. Y tú también, Taishin.",
+      "color_text_info_list": [
+        "Ticket",
+        "Taishin"
+      ]
     },
     {
       "name": "Narita Taishin",
       "text": "<i>Suspiro...</i> A veces desearía que esta niña salvaje\nviniera con un interruptor de apagado."
     },
     {
-      "text": "Narita Taishin es la amiga de Biwa Hayahide que\nacaba de debutar este año. Su constitución delgada\noculta su habilidad para correr a velocidades\ninimaginables."
+      "text": "Narita Taishin es la amiga de Biwa Hayahide que\nacaba de debutar este año. Su constitución delgada\noculta su habilidad para correr a velocidades\ninimaginables.",
+      "color_text_info_list": [
+        "Narita Taishin"
+      ]
     },
     {
       "name": "Narita Taishin",
@@ -190,10 +206,16 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Bueno, quiero decir, vi a <i>Hayahide,</i> así que por\nsupuesto tuve\nque venir a saludar!"
+      "text": "Bueno, quiero decir, vi a <i>Hayahide,</i> así que por\nsupuesto tuve\nque venir a saludar!",
+      "color_text_info_list": [
+        "Hayahide"
+      ]
     },
     {
-      "text": "Winning Ticket es una Umamusume enérgica y una de\nlas compañeras de clase de Biwa Hayahide. He oído\nque las tres son amigas cercanas."
+      "text": "Winning Ticket es una Umamusume enérgica y una de\nlas compañeras de clase de Biwa Hayahide. He oído\nque las tres son amigas cercanas.",
+      "color_text_info_list": [
+        "Winning Ticket"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -231,6 +253,9 @@
       "text": "¡Sí! ¡Porque el Derby mide 2,400 metros!",
       "choice_data_list": [
         "(Debe de estar hablando del Derby japonés...)"
+      ],
+      "color_text_info_list": [
+        "Derby"
       ]
     },
     {
@@ -281,7 +306,10 @@
       "text": "Al día siguiente, escucho un rumor."
     },
     {
-      "text": "Al parecer, Narita Taishin y Winning Ticket\nparticiparán en el Hopeful Stakes, una carrera G1\npara juveniles."
+      "text": "Al parecer, Narita Taishin y Winning Ticket\nparticiparán en el Hopeful Stakes, una carrera G1\npara juveniles.",
+      "color_text_info_list": [
+        "Hopeful Stakes"
+      ]
     },
     {
       "text": "No es lo mismo que el Asahi Hai F.S. en el que\nparticipará Biwa Hayahide, pero sigue siendo un\nG1... Y es la carrera de nivel juvenil más alta."

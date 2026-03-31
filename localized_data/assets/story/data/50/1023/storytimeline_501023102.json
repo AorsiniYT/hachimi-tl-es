@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Es Año Nuevo, y decidimos visitar un santuario\npara pedir un deseo de éxito en las próximas\ncarreras senior de Biwa Hayahide."
+      "text": "Es Año Nuevo, y decidimos visitar un santuario\npara pedir un deseo de éxito en las próximas\ncarreras senior de Biwa Hayahide.",
+      "color_text_info_list": [
+        "senior"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -41,6 +44,9 @@
       "text": "La batalla entre Brian y yo podría ser tan pronto\ncomo este año.",
       "choice_data_list": [
         "...!"
+      ],
+      "color_text_info_list": [
+        "Brian"
       ]
     },
     {

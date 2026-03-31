@@ -43,7 +43,10 @@
     },
     {
       "name": "Joven Hayahide",
-      "text": "<i>Jadeo... jadeo...</i> ¡Bien! Voy a aumentar el ritmo,\n¡Brian!"
+      "text": "<i>Jadeo... jadeo...</i> ¡Bien! Voy a aumentar el ritmo,\n¡Brian!",
+      "color_text_info_list": [
+        "Brian"
+      ]
     },
     {
       "name": "Joven Brian",
@@ -99,18 +102,27 @@
     },
     {
       "name": "Monólogo",
-      "text": "Cuando saludo a Biwa Hayahide después de su examen\nde salud, me alegra verla lucir refrescada y sin\npreocupaciones."
+      "text": "Cuando saludo a Biwa Hayahide después de su examen\nde salud, me alegra verla lucir refrescada y sin\npreocupaciones.",
+      "color_text_info_list": [
+        "Biwa Hayahide"
+      ]
     },
     {
       "name": "Monólogo",
       "text": "Los dos vamos a abordar la Serie Destello a partir\nde hoy.",
       "choice_data_list": [
         "¡Trabajemos ambos lo más duro posible!"
+      ],
+      "color_text_info_list": [
+        "Serie Destello"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "En efecto. Ahora que la fecha de mi carrera debut\nha sido decidida, sabemos qué debemos hacer."
+      "text": "En efecto. Ahora que la fecha de mi carrera debut\nha sido decidida, sabemos qué debemos hacer.",
+      "color_text_info_list": [
+        "debut"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -137,6 +149,9 @@
       "text": "Esa es una vuelta bastante rápida. No esperaría\nmenos de la hermana mayor de Narita Brian.",
       "choice_data_list": [
         "¿Eh?"
+      ],
+      "color_text_info_list": [
+        "Narita Brian"
       ]
     },
     {
