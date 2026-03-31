@@ -128,13 +128,19 @@
       "text": "Estoy feliz mientras elijas un lugar donde pueda\nponerme más fuerte. En la menor cantidad de\ntiempo."
     },
     {
-      "text": "El próximo año es su último año. Tal vez competir\ncon los corredores más de élite sería una buena\nexperiencia para ella."
+      "text": "El próximo año es su último año. Tal vez competir\ncon los corredores más de élite sería una buena\nexperiencia para ella.",
+      "color_text_info_list": [
+        "último año"
+      ]
     },
     {
       "text": "El prestigioso escudo de premio espera en el Tenno\nSho de primavera. Pero primero, me gustaría ver\ncómo va el Hanshin Daishoten, ya que a menudo se\nconsidera una preliminar.",
       "choice_data_list": [
         "¿Qué tal el Hanshin Daishoten?",
         "¿Qué tal el Hanshin Daishoten?"
+      ],
+      "color_text_info_list": [
+        "Hanshin Daishoten"
       ]
     },
     {

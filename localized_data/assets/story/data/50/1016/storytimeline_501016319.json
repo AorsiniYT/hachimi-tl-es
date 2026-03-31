@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Locutor",
-      "text": "¡Y el ganador es Narita Brian! Narita Brian ha\nsuperado a la Actriz y a la Campeona de la Doble\nCorona y se ha llevado la victoria!"
+      "text": "¡Y el ganador es Narita Brian! Narita Brian ha\nsuperado a la Actriz y a la Campeona de la Doble\nCorona y se ha llevado la victoria!",
+      "color_text_info_list": [
+        "Actriz"
+      ]
     },
     {
       "name": "Monólogo",
@@ -39,7 +42,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "El Tenno Sho de otoño."
+      "text": "El Tenno Sho de otoño.",
+      "color_text_info_list": [
+        "Tenno Sho de otoño"
+      ]
     },
     {
       "name": "Narita Brian",

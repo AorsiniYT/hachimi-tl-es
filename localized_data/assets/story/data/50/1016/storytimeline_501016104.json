@@ -18,7 +18,10 @@
     },
     {
       "name": "Estudiantes",
-      "text": "¿Estás seguro, Presidente Rudolf?!"
+      "text": "¿Estás seguro, Presidente Rudolf?!",
+      "color_text_info_list": [
+        "Rudolf"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -127,7 +130,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Ughhh...",
+      "text": "Ufff...",
       "choice_data_list": [
         "¡Brian?!"
       ]

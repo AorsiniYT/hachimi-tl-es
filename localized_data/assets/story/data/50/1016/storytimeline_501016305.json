@@ -58,7 +58,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...Heh."
+      "text": "...Je."
     },
     {
       "name": "Monólogo",
@@ -73,11 +73,17 @@
     },
     {
       "name": "Umamusume A",
-      "text": "Oye, ¿viste a esa corredora? Fue una total bestia\nen ese tramo final."
+      "text": "Oye, ¿viste a esa corredora? Fue una total bestia\nen ese tramo final.",
+      "color_text_info_list": [
+        "bestia"
+      ]
     },
     {
       "name": "Umamusume B",
-      "text": "¿Te refieres a Brian, verdad? Me pregunto si ella\nestará en el Derby también. Acabo de enviarle un\nmensaje a mi entrenador para que hablemos de ello."
+      "text": "¿Te refieres a Brian, verdad? Me pregunto si ella\nestará en el Derby también. Acabo de enviarle un\nmensaje a mi entrenador para que hablemos de ello.",
+      "color_text_info_list": [
+        "Derby"
+      ]
     },
     {
       "name": "Ambas",
@@ -100,7 +106,10 @@
     },
     {
       "name": "Narita Brian",
-      "text": "El Japanese Derby estará aquí antes de que nos\ndemos cuenta, así que apresurémonos y hablemos."
+      "text": "El Japanese Derby estará aquí antes de que nos\ndemos cuenta, así que apresurémonos y hablemos.",
+      "color_text_info_list": [
+        "Japanese Derby"
+      ]
     },
     {
       "name": "Narita Brian",

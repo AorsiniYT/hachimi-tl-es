@@ -19,7 +19,10 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Ven a la Academia Tracen. Podría satisfacer esa\nhambre tuya."
+      "text": "Ven a la Academia Tracen. Podría satisfacer esa\nhambre tuya.",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
     },
     {
       "name": "Narita Brian",
@@ -35,6 +38,10 @@
       "choice_data_list": [
         "¿Lista?",
         "¿Lista?"
+      ],
+      "color_text_info_list": [
+        "Narita Brian",
+        "Twinkle Series"
       ]
     },
     {
@@ -59,15 +66,24 @@
     },
     {
       "name": "Entrenador Habilidoso",
-      "text": "Ese debe ser el entrenador que trabaja con Brian."
+      "text": "Ese debe ser el entrenador que trabaja con Brian.",
+      "color_text_info_list": [
+        "Brian"
+      ]
     },
     {
       "name": "Entrenador Veterano",
-      "text": "Escuché que Brian finalmente hará su debut. Su\nhermana, Biwa Hayahide, ha estado rindiendo bien\nen los Clásicos."
+      "text": "Escuché que Brian finalmente hará su debut. Su\nhermana, Biwa Hayahide, ha estado rindiendo bien\nen los Clásicos.",
+      "color_text_info_list": [
+        "Clásicos"
+      ]
     },
     {
       "name": "Entrenador Habilidoso",
-      "text": "Escuché que podría tener el potencial para incluso\nsuperar a su hermana. ¡Podría ser la Campeona de\nla Triple Corona—incluso superando a Rudolf!"
+      "text": "Escuché que podría tener el potencial para incluso\nsuperar a su hermana. ¡Podría ser la Campeona de\nla Triple Corona—incluso superando a Rudolf!",
+      "color_text_info_list": [
+        "Rudolf"
+      ]
     },
     {
       "name": "Symboli Rudolf",
@@ -78,7 +94,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "(Symboli Rudolf—la reconocida presidenta del\nconsejo estudiantil de la Academia Tracen. Es una\nfigura prestigiosa, siendo Campeona de la Triple\nCorona y el objeto de la admiración de todos.)"
+      "text": "(Symboli Rudolf—la reconocida presidenta del\nconsejo estudiantil de la Academia Tracen. Es una\nfigura prestigiosa, siendo Campeona de la Triple\nCorona y el objeto de la admiración de todos.)",
+      "color_text_info_list": [
+        "Symboli Rudolf"
+      ]
     },
     {
       "name": "Symboli Rudolf",
@@ -203,7 +222,11 @@
     },
     {
       "name": "Monólogo",
-      "text": "(Hishi Amazon—la líder del dormitorio de Miho. Es\nconocida por su fuerza y generosidad, y a menudo\nla llaman la Reina de las Amazonas.)"
+      "text": "(Hishi Amazon—la líder del dormitorio de Miho. Es\nconocida por su fuerza y generosidad, y a menudo\nla llaman la Reina de las Amazonas.)",
+      "color_text_info_list": [
+        "Hishi Amazon",
+        "Reina de las Amazonas"
+      ]
     },
     {
       "name": "Hishi Amazon",

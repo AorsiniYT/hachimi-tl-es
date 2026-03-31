@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Reportero",
-      "text": "¿Narita Brian también correrá en el Tenno Sho de\nprimavera?! <i>¡SÍ!</i>"
+      "text": "¿Narita Brian también correrá en el Tenno Sho de\nprimavera?! <i>¡SÍ!</i>",
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
     },
     {
       "name": "Reportero",
@@ -31,7 +34,10 @@
     },
     {
       "name": "Fotógrafo",
-      "text": "¡Entonces animémosla juntos! Es una verdadera\nlástima lo de tu lesión..."
+      "text": "¡Entonces animémosla juntos! Es una verdadera\nlástima lo de tu lesión...",
+      "color_text_info_list": [
+        "★★★"
+      ]
     },
     {
       "name": "Reportero",
@@ -91,7 +97,11 @@
     },
     {
       "name": "Espectadores",
-      "text": "¡Sí! ¡Tú puedes, McQueen! ¡Puedes hacerlo,\nBourbon!"
+      "text": "¡Sí! ¡Tú puedes, McQueen! ¡Puedes hacerlo,\nBourbon!",
+      "color_text_info_list": [
+        "McQueen",
+        "Bourbon"
+      ]
     },
     {
       "name": "Narita Brian",
