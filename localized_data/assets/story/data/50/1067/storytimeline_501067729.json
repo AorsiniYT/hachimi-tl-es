@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Satono Diamond",
+      "text": "Supongo que paramos por ahora, ¿eh?",
+      "choice_data_list": [
+        "Creo que ya me he avergonzado lo suficiente..."
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "N-no, ¡estuviste bien! Los controles son bastante\ndifíciles en este modelo!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Dado que la dificultad parece un poco excesiva, se\nlo haré saber a alguien de la compañía la próxima\nvez que tenga la oportunidad.",
+      "choice_data_list": [
+        "¡E-eso no es necesario!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}
