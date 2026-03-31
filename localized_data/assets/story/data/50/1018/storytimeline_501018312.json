@@ -7,7 +7,7 @@
     },
     {
       "name": "Monólogo",
-      "text": "<i>Wooooo!</i>"
+      "text": "<i>¡Wooooo!</i>"
     },
     {
       "name": "Air Groove",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "Suzuka."
+      "text": "Suzuka..."
     },
     {
       "name": "Silence Suzuka",
@@ -117,7 +117,7 @@
       "name": "Air Groove",
       "text": "¡No puedo dejar de temblar incluso ahora!",
       "choice_data_list": [
-        "Air Groove..."
+        "Air Groove... ¡Ni siquiera ahora puedo dejar de\ntemblar!"
       ]
     },
     {
@@ -134,7 +134,10 @@
     },
     {
       "name": "Air Groove",
-      "text": "Por el momento, la carrera a la que debemos\napuntar es el Sapporo Kinen."
+      "text": "Por el momento, la carrera a la que debemos\napuntar es el Sapporo Kinen.",
+      "color_text_info_list": [
+        "Sapporo Kinen"
+      ]
     },
     {
       "name": "Air Groove",

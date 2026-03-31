@@ -5,7 +5,7 @@
       "name": "Air Groove",
       "text": "La victoria estaba fuera de mi alcance... Qué\ndecepción total.",
       "choice_data_list": [
-        "Air Groove..."
+        "Air Groove... La victoria estaba fuera de mi\nalcance... Qué decepción tan absoluta."
       ]
     },
     {
@@ -70,7 +70,10 @@
     },
     {
       "name": "Symboli Rudolf",
-      "text": "Muy bien. Espero con ansias el resto de tu año\nclásico. Ahora bien, me retiro."
+      "text": "Muy bien. Espero con ansias el resto de tu año\nclásico. Ahora bien, me retiro.",
+      "color_text_info_list": [
+        "año clásico"
+      ]
     },
     {
       "name": "Air Groove",
@@ -141,11 +144,17 @@
     },
     {
       "name": "Monólogo",
-      "text": "El tour de la Tiara está compuesto por Oka Sho,\nJapanese Oaks y Shuka Sho."
+      "text": "El tour de la Tiara está compuesto por Oka Sho,\nJapanese Oaks y Shuka Sho.",
+      "color_text_info_list": [
+        "Japanese Oaks"
+      ]
     },
     {
       "name": "Monólogo",
-      "text": "Las tres son carreras G1 renombradas. Una victoria\nen cualquiera de ellas es suficiente para asegurar\nfama por años venideros."
+      "text": "Las tres son carreras G1 renombradas. Una victoria\nen cualquiera de ellas es suficiente para asegurar\nfama por años venideros.",
+      "color_text_info_list": [
+        "G1"
+      ]
     },
     {
       "name": "Monólogo",
