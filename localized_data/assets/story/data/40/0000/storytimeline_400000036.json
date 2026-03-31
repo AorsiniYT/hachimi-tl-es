@@ -59,7 +59,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Decido no mencionar la entrevista cuando voy a\nelogiar a <chrname> por su arduo trabajo."
+      "text": "Decido no mencionar la entrevista cuando voy a\nelogiar a <chrname> por su arduo trabajo.",
+      "color_text_info_list": [
+        "<chrname>"
+      ]
     },
     {
       "name": "Reporter Otonashi",
@@ -91,7 +94,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Luego voy y le cuento a <chrname> sobre la entrevista y\nelogio su arduo trabajo."
+      "text": "Luego voy y le cuento a <chrname> sobre la entrevista y\nelogio su arduo trabajo.",
+      "color_text_info_list": [
+        "<chrname>"
+      ]
     }
   ]
 }

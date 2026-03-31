@@ -3,7 +3,10 @@
   "text_block_list": [
     {
       "name": "Monólogo",
-      "text": "Cuando llego al trabajo por la mañana listo para\ncomenzar el día, Tazuna Hayakawa, la secretaria de\nla directora, se acerca a mí."
+      "text": "Cuando llego al trabajo por la mañana listo para\ncomenzar el día, Tazuna Hayakawa, la secretaria de\nla directora, se acerca a mí.",
+      "color_text_info_list": [
+        "Tazuna Hayakawa"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -18,6 +21,9 @@
       "text": "Si son capaces de lograr resultados consistentes,\npueden incluso ganar un título G1, el mismo\npináculo de las carreras.",
       "choice_data_list": [
         "¡Haré lo mejor que pueda!"
+      ],
+      "color_text_info_list": [
+        "título G1"
       ]
     },
     {
@@ -26,15 +32,26 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Ten en cuenta que los primeros tres años de un\ncorredor en la Serie Twinkle son los más\ncruciales."
+      "text": "Ten en cuenta que los primeros tres años de un\ncorredor en la Serie Twinkle son los más\ncruciales.",
+      "color_text_info_list": [
+        "primeros tres años"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Si tu aprendiz no ha logrado un récord\nsatisfactorio tres años después de su debut..."
+      "text": "Si tu aprendiz no ha logrado un récord\nsatisfactorio tres años después de su debut...",
+      "color_text_info_list": [
+        "no ha logrado un récord satisfactorio",
+        "tres años después de su debut"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Me temo que su contrato contigo puede ser\ncancelado."
+      "text": "Me temo que su contrato contigo puede ser\ncancelado.",
+      "color_text_info_list": [
+        "contrato contigo",
+        "cancelado"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -45,7 +62,10 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Primero lo primero, probablemente deberías\ncomenzar a entrenar para el próximo Make Debut."
+      "text": "Primero lo primero, probablemente deberías\ncomenzar a entrenar para el próximo Make Debut.",
+      "color_text_info_list": [
+        "Make Debut"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
