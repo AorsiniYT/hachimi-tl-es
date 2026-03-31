@@ -79,7 +79,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Huh?"
+      "text": "Eh?"
     },
     {
       "name": "Mihono Bourbon",
@@ -152,6 +152,9 @@
       "text": "¡Y ahora mismo, el Tenno Sho de primavera es lo\nque hace que mi corazón lata más fuerte!",
       "choice_data_list": [
         "¡Me parece bien!"
+      ],
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
       ]
     },
     {
@@ -176,7 +179,10 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "¡Como los Diamond Stakes de 3,400 metros o algo\nasí!"
+      "text": "¡Como los Diamond Stakes de 3,400 metros o algo\nasí!",
+      "color_text_info_list": [
+        "Diamond Stakes"
+      ]
     },
     {
       "name": "Matikanetannhauser",
@@ -199,7 +205,10 @@
     },
     {
       "name": "Monólogo",
-      "text": "Y así, nuestra próxima carrera es una carrera de\nlarga distancia G3: ¡los Diamond Stakes!"
+      "text": "Y así, nuestra próxima carrera es una carrera de\nlarga distancia G3: ¡los Diamond Stakes!",
+      "color_text_info_list": [
+        "G3"
+      ]
     }
   ]
 }
