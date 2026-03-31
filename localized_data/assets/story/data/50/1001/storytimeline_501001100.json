@@ -6,6 +6,10 @@
       "text": "Mi viaje para enfrentar la Serie Twinkle con\nSpecial Week finalmente comienza hoy",
       "choice_data_list": [
         "Haré todo lo que sea necesario para ayudar a que\nel sueño de Spe se haga realidad"
+      ],
+      "color_text_info_list": [
+        "Serie Twinkle",
+        "Twinkle Series"
       ]
     },
     {
@@ -151,7 +155,10 @@
     },
     {
       "name": "Special Week",
-      "text": "Bueno, primero debemos enfocarnos en mi debut"
+      "text": "Bueno, primero debemos enfocarnos en mi debut",
+      "color_text_info_list": [
+        "estreno"
+      ]
     },
     {
       "name": "Special Week",
