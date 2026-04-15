@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de su día libre, Nishino Flower y yo\nestamos teniendo una reunión juntas."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...¡Ah! ¡L-lo siento! ¿Acabo de quedarme dormida?!",
+      "choice_data_list": [
+        "Eso no es típico de ti.",
+        "Eso no es típico de ti."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Um... Lo siento mucho... Me despertó una pesadilla\nanoche y no pude volver a dormir..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Nishino Flower no descansó nada por\nculpa de su pesadilla."
+    }
+  ]
+}

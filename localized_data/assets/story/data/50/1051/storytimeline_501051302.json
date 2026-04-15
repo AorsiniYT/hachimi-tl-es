@@ -1,0 +1,387 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, Nishino Flower y yo regresábamos de ir de\ncompras, cuando..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Entrenadora! Parece que están haciendo la rifa\nallá!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acércate y prueba tu suerte con nuestra rifa de\nAño Nuevo! El gran premio de este año es una\nvacación en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacación en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe! ¡Los ganadores\ndel segundo premio reciben un fardo de zanahorias!\nY los ganadores del tercer premio pueden llevar a\ncasa ¡una sola zanahoria!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! Consigue un\nboleto ahora y gira para tener tu chance de ganar!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Guau! ¡Todos los premios son increíbles! ¡El\nempleado del supermercado no estaba bromeando!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Solo tengo un boleto y una oportunidad. ¡Como en\nuna carrera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El empleado del supermercado de antes en realidad\nle ofreció a Nishino Flower cien boletos de rifa,\npero ella declinó educadamente."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Oye, ¿quieres intentarlo? ¡Ojalá que consigas un\nbuen premio!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Gracias! Y sí, me gustaría probar mi suerte, ¡por\nfavor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nishino Flower le da una vuelta enérgica a la\npalanca de la rifa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae del orificio del\nvaso giratorio..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos a un ganador del gran\npremio! ¡Ven y consigue el cupón para tu vacación\nen aguas termales! ¡Felicidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Guau!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Wooow!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Obtuve el gran premio!",
+      "choice_data_list": [
+        "¡Felicidades!"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Gracias!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Una vacación en aguas termales... Suena tan a de\nadultos, ¿no?",
+      "choice_data_list": [
+        "Necesitarás ir con un acompañante."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Oh... Es cierto. Todavía soy muy joven para ir\nsola..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Le preguntaré a mis padres. Y, eh..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿Disculpa? ¿Se puede usar este cupón para cuatro\npersonas?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Creo que sí! ¡Lo revisaré por ti después!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Gracias! Eso significa que tú también puedes\nvenir, Entrenadora. ♪",
+      "choice_data_list": [
+        "¿Quieres que vaya?",
+        "¿Quieres que vaya?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Claro!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Nunca he ido a un onsen… pero los adultos les\ngustan esas cosas, ¿no?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Sí. A los que les encantan los onsens les gustan\nmuchísimo."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Tiene sentido! ¿Ese onsen está bueno?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Claro que sí! Tengo a alguien en mi familia que\nes muy exigente con los onsens, ¡pero este les\naprobó con sello!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Qué genial! ¡Gracias!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Ahora sí quiero que vengas, Entrenadora!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Me encantaría ir a un lugar tan bonito contigo."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Claro, solo si tú quieres…",
+      "choice_data_list": [
+        "Gracias."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Creo que será mucho más divertido si estás ahí!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Así que por favor ven!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Vamos, no puedes rechazar una petición tan\nsincera!",
+      "choice_data_list": [
+        "C-claro, por supuesto."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Nishino Flower y yo prometemos irnos de\nvacaciones juntas cuando las cosas no estén tan\nocupadas."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicidades! ¡Te llevas una hamburguesa\nde zanahoria deluxe!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Guau! ¡Qué hamburguesa tan elegante!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Jeje. Solo pensar en comerla me emociona.",
+      "choice_data_list": [
+        "¿Te gustan tanto las hamburguesas, eh?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Sí! Mi mamá siempre me las hacía cuando sacaba\nbuenas notas o ganaba una carrera."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Para mí, las hamburguesas están llenas de amor y\ncariño…",
+      "choice_data_list": [
+        "Su sabor debe estar lleno de recuerdos felices\npara ti.",
+        "Su sabor debe estar lleno de recuerdos felices\npara ti."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Así es! ¿Y tú, Entrenadora?",
+      "choice_data_list": [
+        "Mmm… no estoy segura…"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que las he comido tanto en días especiales\ncomo normales, pero no lo recuerdo bien. Siempre\nestoy tan ocupada que todo se vuelve una mezcla."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Um, si quieres, ¿por qué no compartimos esta\nhamburguesa?"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Podemos comerla para celebrar el primer premio\ndel sorteo!",
+      "choice_data_list": [
+        "Flower…"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Y de ahora en adelante, ¡haré un montón de\nhamburguesas cada vez que pase algo bueno!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "En realidad, no tiene que ser hamburguesas. ¡Te\nprepararé lo que quieras, Entrenadora!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Te ayudaré a crear todo tipo de recuerdos\nespeciales que podrás rememorar con cariño! ♪"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Qué día\nde suerte! ¡Te vas a casa con un montón de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Guau! ¡Mira todas estas zanahorias!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Todas están firmes, y las raíces están bien\ndistribuidas. También se ven dulces. ♪",
+      "choice_data_list": [
+        "Tienes buen ojo.",
+        "Tienes buen ojo."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Jeje. ¡Soy bastante segura cuando se trata de\njuzgar frutas y verduras!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Cada vez que ayudo en casa, me encargan de escoger\nlos ingredientes en las tiendas. ♪"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Por alguna razón, mis padres siempre se ponían muy\nfelices cuando los empleados del supermercado me\nelogiaban…"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Sus sonrisas eran enormes y cálidas."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Siempre daba lo mejor al escoger, porque quería\nver esas sonrisas.",
+      "choice_data_list": [
+        "¿Sabes qué? Tengo una idea."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿Tienes?"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Oh! ¡Mamá! ¡Papá! ¿Me están viendo bien?"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Jeje, ¡genial! Mi entrenadora tiene mi teléfono\nahora mismo."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿Ya preparaste la cena también? Puede que sea a\ntravés de una pantalla, pero ¡comamos juntos esta\nnoche! ♪"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Mira aquí! ¡Ganaste el tercer premio! ¡Aquí\ntienes tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Oh, es tan adorable… ♪"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Lamento que no hayas conseguido un premio mayor.\nEspero que no estés decepcionada."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Está bien! Quiero decir, ¡mira qué deliciosa se\nve esta zanahoria!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Puede que sea pequeña, pero tiene un color\nnaranja tan encantador.\nApuesto a que quedará genial\nestofada. ♪"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿Estás libre esta noche, Entrenadora?"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Si lo estás, digo que nos calentemos con una sopa\nde zanahoria. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es una noche muy fría, pero la sopa de zanahoria\ncasera de Nishino Flower mantiene nuestros\ncorazones y cuerpos bien calentitos."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Oh, mala suerte! ¡Parece que sacaste un boleto en\nblanco! Toma este paquete de pañuelos como premio\nde consolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Aww...",
+      "choice_data_list": [
+        "Qué lástima.",
+        "Qué lástima."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡No, para nada!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Ahora puedo darle un pañuelo a quien lo necesite!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al principio, Nishino Flower no parece molesta,\npero…"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Apuesto a que el Entrenador habría estado muy feliz\nsi yo hubiera ganado el\ngran premio..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ugh… Ojalá lo hubiera ganado…"
+    }
+  ]
+}

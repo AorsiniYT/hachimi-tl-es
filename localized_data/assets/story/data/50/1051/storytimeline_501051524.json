@@ -1,0 +1,329 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una noche, acompañé a Nishino Flower mientras\nesperábamos que una de sus flores floreciera. Al\nparecer, solo lo hace de noche."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Mmm... Debería florecer en cualquier momento..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "<i>Bostezo...</i>",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Oh! ¡Perdón!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Normalmente me acuesto a esta hora, así que estoy\nun poco somnolienta..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Pero haré todo lo posible por mantenerme\ndespierta esta noche! ¡Quiero estar aquí cuando la\nflor florezca!",
+      "choice_data_list": [
+        "Entonces esperemos un poco más.",
+        "No deberías excederte."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Gracias, Entrenadora!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Oh, pero por favor no te esfuerces demasiado,\n¿vale? Después de todo, fui yo quien te hizo venir\naquí conmigo...",
+      "choice_data_list": [
+        "Lo mismo para ti. No te esfuerces tampoco,\n¿entendido?",
+        "Lo mismo para ti. No te esfuerces tampoco,\n¿entendido?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Entendido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nishino Flower y yo seguimos charlando mientras\nesperamos que la flor florezca..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...",
+      "choice_data_list": [
+        "¿Flor?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡S-sí?! ¡N-no estaba dormida, lo juro!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "No se sabe cuándo florecerá, así que debo\nmantenerme alerta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nishino Flower lucha valientemente contra su\nsomnolencia, pero a medida que pasa el tiempo, el\ncapullo sigue obstinadamente cerrado..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desafortunadamente, la flor sigue bien cerrada\ncuando amanece..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "<i>Zzz... Zzz...</i>",
+      "choice_data_list": [
+        "Flor. Despiértate."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Ya es de mañana?! ¡Perdón, no quise dormirme!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿La flor—"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...",
+      "choice_data_list": [
+        "Lo siento. No lo hizo."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "No, está bien. Sabía que esas flores no florecen a\nmenudo. Además..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Me divertí mucho esperando aquí contigo!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...¿Entrenadora?"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Si, um... alguna vez tenemos la oportunidad,\n¿volverías a observar la flor conmigo?",
+      "choice_data_list": [
+        "¡Claro!"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque la flor no floreció, mi vínculo con Nishino\nFlower se siente un poco más fuerte que antes."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Brindemos por otra noche de observación de\nflores!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "No quería que te resfriaras, así que traje un poco\nde té caliente. ¡Aquí tienes, Entrenadora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nishino Flower y yo tomamos té y charlamos\nmientras esperamos que la flor florezca..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desafortunadamente, la flor sigue bien cerrada\ncuando amanece...",
+      "choice_data_list": [
+        "Qué lástima que tampoco floreció esta vez..."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Sí..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Pero seguro florecerá la próxima!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Entonces—",
+      "choice_data_list": [
+        "Intentemos esperarla otra noche, ¿vale?",
+        "Intentemos esperarla otra noche, ¿vale?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Vale!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque la flor no floreció, mi vínculo con Nishino\nFlower se siente un poco más fuerte que antes."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡No me estoy excediendo! Mira cuánta energía\ntengo—"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "<i>Bostezo...</i>"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Oh...",
+      "choice_data_list": [
+        "¿Quieres echar una siesta?",
+        "¿Quieres echar una siesta?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "P-pero...",
+      "choice_data_list": [
+        "Pasarse toda la noche despierta no te hará ningún\nfavor."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...Tienes razón."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Vale, tomaré una siesta corta."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Oh, pero asegúrate de no excederte tampoco,\nEntrenadora!",
+      "choice_data_list": [
+        "No lo haré."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decidimos turnarnos para dormir la siesta y volver\na revisar la flor..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero Nishino Flower y yo dormimos hasta la mañana\nsiguiente. Al despertar, corrimos a la flor en\npánico para ver..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Jaja... Claro que floreció anoche.",
+      "choice_data_list": [
+        "Lo siento mucho..."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Oh no, está bien! ¡No tienes que disculparte!\nQuiero decir, yo también me dormí, así que..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...Jeje. Es gracioso, ¿no?"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "No puedo creer que ambas dormimos mientras\nflorecía.",
+      "choice_data_list": [
+        "Supongo que eso nos hace aves del mismo plumaje,\n¿no?",
+        "Supongo que eso nos hace aves del mismo plumaje,\n¿no?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Jeje. Supongo que sí. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque la flor no floreció, mi vínculo con Nishino\nFlower se siente un poco más fuerte que antes."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡No me estoy excediendo! Mira cuánta energía\ntengo—"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "<i>Bostezo...</i>"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Oh...",
+      "choice_data_list": [
+        "¿Quieres echar una siesta?",
+        "¿Quieres echar una siesta?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "P-pero...",
+      "choice_data_list": [
+        "Pasarse la noche entera no te hará ningún favor."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...Tienes razón."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Vale, me echaré una siesta corta."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Oh, pero asegúrate de no pasarte tampoco,\n¡Entrenadora!",
+      "choice_data_list": [
+        "No lo haré."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decidimos turnarnos para dormir la siesta y volver\npara revisar la flor..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero Nishino Flower y yo dormimos sin despertarnos\nhasta la mañana siguiente. Cuando nos levantamos,\nlas dos corremos a la flor con pánico para ver..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Jaja... Claro, floreció anoche.",
+      "choice_data_list": [
+        "Lo siento mucho..."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Ay no, está bien! ¡No tienes que disculparte!\nQuiero decir, Yo también me quedé dormida, así\nque..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...Jeje. Es gracioso, ¿no?"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "No puedo creer que ambas dormimos sin ver que\nflorecía.",
+      "choice_data_list": [
+        "Supongo que eso nos hace aves del mismo plumaje,\n¿no?",
+        "Supongo que eso nos hace aves del mismo plumaje,\n¿no?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Jeje. Supongo que sí. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque la flor no floreció, mi vínculo con Nishino\nFlower se siente un poco más fuerte que antes."
+    }
+  ]
+}
