@@ -1,0 +1,194 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Flashy Part-Timer",
+      "text": "¿Eh? ¿Turno de la mañana otra vez hoy, Ines?\nSiento que te veo todo el tiempo últimamente."
+    },
+    {
+      "name": "Flashy Part-Timer",
+      "text": "Ahora que lo pienso, mi novio dijo que te vio\ntrabajando en otro lugar..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Jeje, ¡sí! He empezado otro trabajo a tiempo\nparcial."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ah, vaya. ¡Tengo que ir a clase! ¡Hablemos de\nnuevo la próxima vez que tengamos turno juntas!"
+    },
+    {
+      "name": "Flashy Part-Timer",
+      "text": "...Sí, está bien. ¡Aguanta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras completamos los últimos preparativos para\nel Kikuka Sho, algo sobre Ines Fujin parece\nextraño..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "<i>Jaa... jaa...</i> Urgh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tiene una expresión sombría en el rostro, y su\ntiempo de vuelta refleja su falta de aliento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es un tiempo mediocre, muy lejos de su mejor marca\npersonal. Intentar suprimir sus instintos\nnaturales ha vuelto su forma rígida...",
+      "choice_data_list": [
+        "(Está en una pequeña caída...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si no sale de esta rutina pronto, podría tener\ngraves implicaciones para sus futuras actuaciones.",
+      "choice_data_list": [
+        "Escucha, Ines...",
+        "Escucha, Ines..."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Qué pasa, entrenadora?",
+      "choice_data_list": [
+        "No tienes que esforzarte tanto."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Huh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "He estado esforzándome por ayudar a Ines a\ndesarrollar un nuevo estilo de carrera porque\ncreía que era la mejor forma de solucionar sus\nproblemas de resistencia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero si asumir ese desafío solo le está causando\nmás problemas, quizá sea mejor volver a su estilo\nde carrera original.",
+      "choice_data_list": [
+        "No olvides que estoy aquí para apoyarte.",
+        "No olvides que estoy aquí para apoyarte."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Estoy bien, estoy bien! En lugar de preocuparte,\nquiero que te relajes y esperes cosas grandes!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Quiero demostrarle a mi familia que siempre estaré\nllena de energía, sin importar lo dura que sea la\ncarrera!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Porque sé que esos dos estarán mirando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ha llegado el día del Kikuka Sho. Ines Fujin tiene\nlos ojos bien cerrados, como si intentara contener\nsu emoción."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Bzzzt... Bzzzt...</i>"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Oh—¡alguien me está llamando! ¿Eh? Pero este\nnúmero es..."
+    },
+    {
+      "name": "Shift Supervisor",
+      "text": "¿Hola? ¿Es Ines Fujin? ¿Dónde estás en este\nmomento?"
+    },
+    {
+      "name": "Shift Supervisor",
+      "text": "Como es tu primer día trabajando con nosotras,\nquería darte un rápido resumen de tus tareas. Pero\nno te presentaste en el lugar de reunión asignado."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...?!"
+    },
+    {
+      "name": "Shift Supervisor",
+      "text": "¿Eh? ¿Hola? No tengo el número equivocado,\n¿verdad?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Lo... lo siento mucho! ¡Lo siento! ¡Lo siento!\nYo—",
+      "choice_data_list": [
+        "¡Pásame el teléfono!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La cara de Ines Fujin se vuelve pálida de repente\nante mis ojos, así que tomo el teléfono y hablo\npor ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En resumen, ella programó por accidente un turno\nen su nuevo trabajo a tiempo parcial que se\nsuperpone con la competencia.",
+      "choice_data_list": [
+        "(Eso no es nada de ella...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de disculparnos profusamente, pudimos\nresolver el asunto sin que se convirtiera en un\nincidente de gran magnitud."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Lo siento, Trainer. La regué...",
+      "choice_data_list": [
+        "No te preocupes."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Nunca antes había pasado algo así...",
+      "choice_data_list": [
+        "Está bien, así que relájate."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo a Ines Fujin que le explicaré la situación\na su empleador para que no tenga que cargar con la\nculpa sola.",
+      "choice_data_list": [
+        "Respira hondo y concéntrate en la competencia."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...",
+      "choice_data_list": [
+        "¡Demuestra a todos cuánto disfrutas correr!",
+        "¡Demuestra a todos cuánto disfrutas correr!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "O-bien... ¡Tienes razón!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Al menos, tengo que redimirme en la pista!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La sigo de cerca mientras se apresura a salir de\nla sala de espera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No debería quedarse sola ahora. Lo menos que puedo\nhacer es saludarla desde el lado del paddock."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quiero hacer lo que sea para apoyarla, sin\nimportar cuán pequeño sea..."
+    }
+  ]
+}

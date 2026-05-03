@@ -1,0 +1,210 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de una salida con Ines Fujin, la acompaño\nen el parque de diversiones donde trabajará hoy."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Entrenadora, ¡eres tan preocupada! Aún está claro\nafuera—no tenías que venir hasta aquí conmigo.",
+      "choice_data_list": [
+        "Solo piénsalo como la última parada de nuestro\nviaje."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Jeje. ¡Bueno, gracias! Vale, ¡hora de dejar este\nlugar limpio!"
+    },
+    {
+      "name": "Shift Supervisor",
+      "text": "¡Oh, Ines! ¡Llegaste temprano! ¡Qué alivio!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Heya-hey! ¿Qué te tiene con tanta prisa?"
+    },
+    {
+      "name": "Shift Supervisor",
+      "text": "Hoy estamos un poco escasas de personal, así que\nhice algunos cambios de último minuto en los\nturnos. Ines, tendrás de guardia en la casa\nembrujada!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿¡Gu-ardia en la casa embrujada?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ines Fujin se queda paralizada mientras una\nexpresión perturbada se extiende por su rostro.\nMás o menos recuerdo que no es buena con cosas de\nmiedo...",
+      "choice_data_list": [
+        "¿Vas a estar bien? ¿No te asustan las cosas de\nterror—"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Yo—estoy genial! ¡Puedo <i>totalmente</i> enfrentar una\ncasa embrujada!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Contrario a lo que dice, no parece nada genial.\nSin poder ignorar mis dudas, intervengo...",
+      "choice_data_list": [
+        "Disculpa, pero yo soy su entrenadora...",
+        "Disculpa, pero yo soy su entrenadora..."
+      ]
+    },
+    {
+      "name": "Shift Supervisor",
+      "text": "Huh?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿¡Eh?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de cambiarse al uniforme de trabajo, Ines\nFujin llega a la casa embrujada con cara de\ndisgusto. La razón es..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Ugh, te preocupas <i>demasiado</i>! Sé que mi\nsupervisora está bien con eso, pero ¿pedir que me\nobserves en el trabajo?",
+      "choice_data_list": [
+        "Lo siento, pero solo me preocupa tu seguridad."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Bueno, supongo que cuatro manos son mejor que\ndos."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "La casa embrujada está cerrada ahora por fallas en\nla máquina. Nadie más ha sido asignado aquí, así\nque ¡me ayudas a limpiar este lugar!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ya que estás aquí, te enseñaré el arte de la\nlimpieza. Primero, empieza con el polvo del techo—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Ka‑thunk!</i>"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Eeek!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...¿Qué‑qué pasa? Oh, parece que me enredé el pie\nen el cable de la aspiradora... Ja ja..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...¡Uf! Creo que ya casi terminé. Hoy estoy más\ncansada de lo normal, ¿eh?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ugh, alguien dejó su paño de limpieza bajo el\nsofá. Supongo que se olvidó de guardarlo. ...Vale,\nlo tengo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Fwip...</i>"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "<i>Fwip...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bajo el sofá, escondida fuera de vista, hay una\nmarioneta momia. Sus ojos se cruzan con los de\nInes Fujin y—"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...¡Aaaargh!",
+      "choice_data_list": [
+        "N-no te preocupes, solo es—¡uff!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Sálvame, entrenadora!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Buen trabajo hoy..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De alguna forma terminamos nuestras tareas de\nlimpieza, pero Ines Fujin parece totalmente\nexhausta. Siento que debería romper el silencio...",
+      "choice_data_list": [
+        "Está bien admitir cuando no puedes con algo.",
+        "Está bien admitir cuando no puedes con algo.",
+        "Fue interesante verte reaccionar así."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "De alguna forma terminamos nuestras tareas de\nlimpieza, pero Ines Fujin parece totalmente\nexhausta. Siento que debería romper el silencio...",
+      "choice_data_list": [
+        "Está bien admitir cuando no puedes con algo.",
+        "Está bien admitir cuando no puedes con algo.",
+        "Fue interesante verte reaccionar así."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Sí, tal vez fui un poco terca..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "La verdad es que mi supervisora es lo\nsuficientemente amable para ajustar mis turnos\ncuando tengo entrenamiento."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Por eso esperaba devolverte el favor de alguna\nmanera..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Pero si no hubieras estado, entrenadora,\nprobablemente solo le habría causado un dolor de\ncabeza a mi supervisora."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...¡Sí, tienes razón! Debería pedir ayuda cuando\nla necesite. Vale, mostraré mi gratitud con..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Una buena carrera! ¡Creo que eso me queda mejor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me quedo impresionada con el fuerte sentido del\ndeber de Ines Fujin—¡y con cómo aprovechó los\neventos de hoy para alimentar su pasión por las\ncarreras!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Oh, pensaste que eso era entretenido, ¿eh?! ¡Oye,\nno está bien burlarse de la gente!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "<i>Suspiro...</i> Hoy hice un verdadero espectáculo de\nmí, ¿no? ¡Qué patética fui!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Entrenadora, ¿podrías mantener lo que pasó hoy\nentre nosotras? Me da mucha vergüenza...",
+      "choice_data_list": [
+        "Claro que sí."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que por más patética que haya parecido\nhoy, no le contaré a nadie."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Jeje. ¿Seguro que puedes guardar el secreto? Puede\nque nunca vuelvas a verme fallar así de mal,\n¿sabes?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...¡Pero gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ines Fujin sonríe suavemente. ¡Parece que esta\nexperiencia nos ha acercado aún más!"
+    }
+  ]
+}

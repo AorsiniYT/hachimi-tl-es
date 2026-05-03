@@ -1,0 +1,47 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy a mi oficina con Ines Fujin, cuando..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ngh...",
+      "choice_data_list": [
+        "¿Te duele la cabeza?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Sí... Me ha estado molestando desde esta mañana."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Tengo trabajo hoy—espero que esto no afecte mi\natención al cliente..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Oye, ¿puedes fingir que eres una clienta por un\nmomento?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Bienvenida! ¿Qué te gustaría comer?",
+      "choice_data_list": [
+        "Un tazón súper picante con mucho, mucho ajo."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Pfft, ahaha! ¡Hoy trabajo en una comida rápida,\nno en la tienda de ramen!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Ah! ¡Ah! Reírme hace que mi dolor de cabeza lata\naún más fuerte..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ines Fujin sigue sufriendo de su dolor de cabeza\npor un tiempo."
+    }
+  ]
+}

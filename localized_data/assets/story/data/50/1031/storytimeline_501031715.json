@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando Ines Fujin y yo terminamos el\nprograma de entrenamiento del día..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Lo hicimos genial! Parece que nuestra sesión de\nentrenamiento pasó en un abrir y cerrar de ojos."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ah sí, tengo un encargo de entrega después de\nesto. Creo que lo usaré para entrenar de forma\nindividual.",
+      "choice_data_list": [
+        "¿Entrenamiento individual?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Claro! Normalmente uso mi bicicleta para las\nentregas, pero esta vez usaré mis piernas!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Poder sudar durante mi turno hace que entregar sea\nel trabajo perfecto para entrenar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ines Fujin quizá esté entusiasmada, pero podría\nsobreesforzarse si entrega todo a pie...",
+      "choice_data_list": [
+        "¡Haz lo mejor!",
+        "Te vas a forzar, así que usa la bicicleta en su\nlugar."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Gracias! Bueno, ¡me voy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ines Fujin hace sus entregas con todo el vigor que\npuede reunir, fortaleciendo su fuerza en el\nproceso."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Bueno, supongo que si me agoto, no estaré en\ncondición de hacer mi entrenamiento regular..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Entendido! Si eso es lo que crees mejor, usaré mi\nbicicleta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Atentamente siguiendo mi petición, Ines Fujin se\ncuida de no sobrecargarse."
+    }
+  ]
+}

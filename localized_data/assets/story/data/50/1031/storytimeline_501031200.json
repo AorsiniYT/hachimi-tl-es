@@ -1,0 +1,194 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estamos en mi oficina, y Ines Fujin ha estado\nhablando por teléfono con alguien desde hace un\nrato."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Claro. Sí... pero mamá, es lo que Cassie y Polly\nquieren..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Sí, déjamelo a mí... ¡No te preocupes, estaré\nbien! ¡Hablamos pronto!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Entonces, entrenadora! ¡Necesito un gran favor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ya casi es hora de que empiece la carrera de Ines\nFujin. En la sala de espera, un par de gemelas\nUmamusume están sentadas felizmente en sillas."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Escúchenme, ustedes dos! Asegúrense de hacer lo\nque mi entrenadora les indique mientras no estoy!"
+    },
+    {
+      "name": "Hermanitas de Ines",
+      "text": "¡Lo haremos!",
+      "choice_data_list": [
+        "¡Eso es lo que me gusta escuchar!",
+        "¡Eso es lo que me gusta oír!"
+      ]
+    },
+    {
+      "name": "¡Yaaay!",
+      "text": "Yaaay!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las hermanitas de Ines Fujin han venido a ver su\ncarrera de debut. Ese gran favor que quería era\nque yo las cuidara."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Gracias por traerlas aquí a las dos."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Desafortunadamente, mi carrera coincide con la\nvisita al hospital de nuestra mamá, pero ambas\nsiguieron suplicando la oportunidad de acompañarme\ny verme.",
+      "choice_data_list": [
+        "Yo me encargo. ¡Tú solo concéntrate en la carrera!",
+        "Yo me encargo. ¡Tú solo concéntrate en la carrera!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Jaja, está bien. ¡Cuento contigo!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Voy a ir al paddock. ¡Deséame suerte!"
+    },
+    {
+      "name": "¡Espérate un segundo! Tenemos algo que mostrarte, hermana. ¡Listas, ya!",
+      "text": "¡E-espera un segundo! Las dos tenemos algo que\nqueremos mostrarte, sis! ¡Listas, preparadas..."
+    },
+    {
+      "name": "¡Gira, gira y pompones!",
+      "text": "¡Gira, gira y pompones!"
+    },
+    {
+      "name": "¡Pom‑pom! Uno, dos...",
+      "text": "¡Pompon! Uno, dos..."
+    },
+    {
+      "name": "¡Haz lo mejor, Gran Hermana! Jeje, ¿les gustó nuestro baile de animación?",
+      "text": "\"¡Haz tu mejor esfuerzo, Hermana Mayor!\" Jeje,\n¿les gustó nuestro baile de ánimo?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Jaja! ¡Eso fue fantástico! ¡Muchísimas gracias,\nustedes dos!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Le diste a tu hermana mayor un gran impulso de\nenergía! ¡Voy a recompensarlas terminando en\nprimer lugar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de despedirme de Ines Fujin, tomo a las\ngemelas de la mano y las llevo a los asientos de\nespectadores."
+    },
+    {
+      "name": "¡Guau! Entonces este es el Hipódromo Nakayama... Se ve diferente en la TV, ¿no?",
+      "text": "¡Guau! Entonces este es el Hipódromo Nakayama...\nSe ve diferente en la TV, ¿no?"
+    },
+    {
+      "name": "Tampoco hay mucha gente.",
+      "text": "Tampoco hay tanta gente.",
+      "choice_data_list": [
+        "Eso es porque es una carrera de debut."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Imagino que están más acostumbradas a ver el\nHipódromo Nakayama lleno hasta el techo durante el\nArima Kinen y el Satsuki Sho.",
+      "color_text_info_list": [
+        "Arima Kinen",
+        "Satsuki Sho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las únicas personas en las gradas ahora son los\norganizadores de la carrera y fans entusiastas.\nProbablemente se sienta diferente a ese ambiente\ngrande y festivo."
+    },
+    {
+      "name": "Ajá, ya veo.",
+      "text": "Ah, ya veo.",
+      "choice_data_list": [
+        "¿Esperabas que fuera más emocionante?"
+      ]
+    },
+    {
+      "name": "No, sigue siendo genial. ¡Podemos ver a Gran Hermana correr!",
+      "text": "No, ¡esto sigue siendo genial! ¡Podemos ver a la\nHermana Mayor correr!"
+    },
+    {
+      "name": "¡Le encanta correr muchísimo! ¡Y me encanta verla divertirse!",
+      "text": "¡Le encanta correr muchísimo! ¡Y a mí me encanta\nverla divertirse!"
+    },
+    {
+      "name": "¡Sí!",
+      "text": "¡Sí!",
+      "choice_data_list": [
+        "...Ya veo."
+      ]
+    },
+    {
+      "name": "¡Sí!",
+      "text": "¡Exacto! ¡Así que vamos a animar más fuerte para\nayudarla a ganar!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "<i>Inhala... Exhala...</i>"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Tengo que calmar estos nervios... ¡Puedo hacerlo!\nSolo tengo que recordar lo que me enseñó mi\nentrenadora!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "No es de extrañar que no haya muchos espectadores\nen mi primera carrera. Solo tengo que dar\nresultados—y entonces mi popularidad se disparará!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "(Puedo oír tantas voces diferentes.)"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "(Voces de las Umamusume contra las que compito, y\nde los espectadores que esperan justo más allá del\npaddock.)"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "<i>Inhala... exhala...</i>"
+    },
+    {
+      "name": "...",
+      "text": "..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "(¿Eso es un anuncio? Deben estar usando un sistema\nde altavoces de alta calidad. Puedo oír los\nsonidos de el paddock desde aquí.)"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "(Me pregunto si mi número ya apareció en gel\njumbotron.)"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "<i>Inhala...</i>"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Esto es todo—la verdadera experiencia."
+    },
+    {
+      "name": "Damas y caballeros, acompáñennos a ver a estas valientes Umamusume dar sus primeros pasos en sus carreras.",
+      "text": "Damas y caballeros, acompáñennos mientras vemos a\nestas valientes Umamusume dar los primeros pasos\nen sus carreras!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Serie Twinkle, allá voy!"
+    }
+  ]
+}

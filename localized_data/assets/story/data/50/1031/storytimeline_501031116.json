@@ -1,0 +1,208 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Doctor",
+      "text": "...Me preocupa un poco la hinchazón en tus\npiernas. Creo que sería prudente tomarte un\ndescanso para recuperarte."
+    },
+    {
+      "name": "Doctor",
+      "text": "Hice un examen completo, pero no parece haber\nproblemas graves. Por ahora, solo sigamos\nobservando tu progreso.",
+      "choice_data_list": [
+        "...Eso es bueno escuchar."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Sí, me alegra."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Bzzzt... Bzzzt...</i>"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Guau, tengo cuarenta mensajes sin leer en LANE!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Mi mamá y papá me enviaron muchísimos mensajes...",
+      "choice_data_list": [
+        "Muestra lo preocupados que estaban por ti."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ahaha, supongo que debería haberlo esperado.\nDespués de todo, me hospitalizaron de repente tras\ncompetir en el Derby."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La familia de Ines Fujin vino a animarla durante\nel Derby, y ya fueron informados de la situación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Les dije que no era nada serio, y que me quedaré\nal lado de Ines mientras se recupera. Pero\nseguramente estaban muy preocupadas.",
+      "choice_data_list": [
+        "¿Por qué no visitas casa mientras te recuperas?",
+        "¿Por qué no visitas casa mientras te recuperas?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Mmm, probablemente sea una buena idea. Verme en\npersona podría tranquilizarles.",
+      "choice_data_list": [
+        "Les encantará tener a su hermana mayor de vuelta\nen casa.",
+        "Les encantará tener a su hermana mayor de vuelta\nen casa."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Tienes razón! Seguro me aburriría mucho mientras\ndescanso las piernas de todos modos."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Y mientras estoy fuera, Entrenadora, cuento\ncontigo para crear una rutina de entrenamiento\npara mi próxima carrera, el Kikuka Sho!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso decidido, presento una solicitud de\npermiso a la academia y hago que Ines Fujin\nregrese a casa por una semana para descansar."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "No comas nada raro mientras no estoy, ¿vale,\nEntrenadora?",
+      "choice_data_list": [
+        "¡Claro que no!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Mmm, supongo que tendré que confiar en ti...\n¡Vale, me voy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Espero hasta que el tren de Ines Fujin haya salido\nde la estación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al volver a mi oficina, noto que los materiales\ndel Derby que dejé esparcidos por mi escritorio\nestán ordenados cuidadosamente.",
+      "choice_data_list": [
+        "Me pregunto si Ines lo limpió por mí?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me siento en mi escritorio despejado y empiezo a\npensar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Kikuka Sho es la última carrera del Triple\nCorona Clásico. A 3,000 metros, es realmente una\nbatalla de resistencia. Si Ines Fujin quiere tener\nuna oportunidad..."
+    },
+    {
+      "name": "Doctor de la enfermería",
+      "text": "...¿Así que te preocupa que su cuerpo no pueda\nresistir?",
+      "choice_data_list": [
+        "...Exacto."
+      ]
+    },
+    {
+      "name": "Doctor del infirmario",
+      "text": "Entiendo de dónde vienes. Nosotros en la academia\ntambién estábamos bastante preocupados por su\ncondición después del Derby."
+    },
+    {
+      "name": "Doctor del infirmario",
+      "text": "Necesitará apoyo adicional. Y no solo\nfísico—también debemos asegurarnos de que ella\nmantenga el equilibrio mental.",
+      "choice_data_list": [
+        "¿Te refieres a su bienestar mental?"
+      ]
+    },
+    {
+      "name": "Doctor del infirmario",
+      "text": "Sí. Llevar su cuerpo al límite inevitablemente\npresiona también su salud mental."
+    },
+    {
+      "name": "Doctor del infirmario",
+      "text": "Por favor, cuídala con aún más atención a partir\nde ahora."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Hey! ¡Regresé, Entrenadora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una semana pasa en un abrir y cerrar de ojos.\nDespués de un examen en el hospital, parece que\nestamos listos para volver al entrenamiento sin\nproblemas, pero..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Entrenadora, tengo algo reeeally importante que\ncontarte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ines Fujin se lanza a la conversación en cuanto\nllegamos al gimnasio."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Pues la cosa es... quiero desarrollar un estilo de\ncarrera más eficiente para mis futuras\ncompetencias.",
+      "choice_data_list": [
+        "¿Un estilo más eficiente?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Sí. Quiero decir... me colapsé después del Derby,\n¿no?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Quiero asegurarme de que eso nunca vuelva a pasar.\nNecesito una forma de evitar que me agote tanto."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Así que pensé que tendría que crear un nuevo\nestilo de carrera! ¿Qué piensas?¡",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su petición es justo lo que había esperado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algunas Umamusume tienen una dificultad extrema al\nintentar cambiar el estilo al que están\nacostumbradas. Por eso requiere un compromiso a\nlargo plazo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, si ayuda a aliviar la carga que ella\npone sobre su cuerpo, entonces definitivamente\nvale la pena intentarlo.",
+      "choice_data_list": [
+        "¡Gran idea! ¡Trabajémoslo durante el campamento!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Está bien! ¡Dejaré los cambios de rutina en tus\nmanos!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ojalá esto ayude a que mi cuerpo se mantenga unido\ny reduzca el tiempo que paso recuperándome."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Eh, Jefe, tengo algo de lo que necesito hablar\ncontigo."
+    },
+    {
+      "name": "Gerente de la tienda de conveniencia",
+      "text": "Oh, ¿qué pasa, Ines?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El verano se acerca rápido, lo que significa que\niremos a al campamento. Tendré que crear un nuevo\nhorario de entrenamiento antes de eso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El próximo objetivo de Ines Fujin es el Kikuka\nSho."
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, veo a Ines Fujin conversando animadamente\ncon sus amigas."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Sí, recomiendo empezar con ventas o catering. Esta\nrevista enumera un montón de vacantes..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Guau, hay tantas! ¿Alguna te llama la atención,\nMcQueen?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hmm. Todas se ven bastante atractivas, pero es un\npoco difícil imaginar en qué consiste el puesto\nsolo con la descripción...",
+      "choice_data_list": [
+        "¿De qué estás hablando?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Oh, Entrenadora! ¡Qué tal, qué tal! Estas dos me\nestaban pidiendo consejo sobre trabajos a tiempo\nparcial."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Sí, pensé que un trabajo a tiempo parcial sería\nuna buena experiencia laboral. Por eso le pregunté\na Ines qué tipos de trabajos hay."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Entonces, volviendo al tema, recomiendo un puesto\nen una tienda de conveniencia o como repartidora:\n¡muchos de esos lugares buscan Umamusume!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Tiene sentido, además podrías hacer buen ejercicio\ncargando cosas."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ya veo... Entonces, ¿qué implicaría exactamente\n<i>este</i> trabajo?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Te pones un disfraz de mascota para ese puesto. ¡Y\npuedes jugar con niños! ¡Me divertí muchísimo\nhaciéndolo!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Y no es la única experiencia divertida que tuve.\nUna vez ayudé en un espectáculo de magia y también\nhice lecturas en vivo de libros ilustrados.\n¡Tantos recuerdos!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Qué más...? Ah, estuvo la vez que ayudé a excavar\nunas ruinas."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "<i>¿Ruinas?</i> Espera, ¿existen trabajos a tiempo\nparcial así?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Solo si sabes dónde buscar—no suelen anunciarse en\nrevistas como esta. Ah, otro trabajo es vender\nloncheras en un estadio de béisbol—"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Un estadio de béisbol b-baseball? ¡¿Tienen\ntrabajos de medio tiempo en estadios de béisbol?!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Vaya, esto es una locura... Quiero decir, es\nbastante asombroso que haya tantas ofertas de\ntrabajo diferentes apretujadas en esta revista,\nclaro..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pero lo realmente notable es que parece que has\nprobado casi todas, Ines!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ja ja, bueno, cuando se trata de trabajos de medio\ntiempo, ¡te cubro! De todos modos... ¿Hm?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ines Fujin dirige su mirada a una Umamusume que\npasa y que está mirando al lado mientras lleva una\nbandeja apilada de postres."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando el peligro de la situación empieza a\nasomarse para mí, su pie resbala, y—"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Ay!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Cuidado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todos hacen una mueca, anticipando el inevitable\ndesastre de pasteles arruinados en el suelo.\n...Sin embargo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Swoosh!</i>"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Uff. Menos mal que atrapé todos esos postres!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Cuando lleves una bandeja, intenta estabilizarla\ncon los dedos en vez de con las palmas. Ah, y\ntrata de no distraerte!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Gr-gracias... ¡Lo siento mucho por esto!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Cómo lo hiciste? ¡Pasaste <i>whoosh</i> por el aire y\natrapaste cada postre!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Oh, ya lo había hecho antes en un trabajo de medio\ntiempo!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Eso no explica nada!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Ja ja! Bueno, no estaba trabajando como ninja ni\nnada, solo es un truco que aprendí en un trabajo\nde cafetería."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ines Fujin se ríe de su increíble hazaña, pero\nparece que su larga historia laboral está dando\nfrutos de varias maneras.",
+      "choice_data_list": [
+        "Es como si no hubiera nada que no puedas hacer.",
+        "Es como si no hubiera nada que no puedas hacer.",
+        "¡Eres increíble!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ines Fujin se ríe de su increíble hazaña, pero\nparece que su larga trayectoria laboral está dando\nfrutos de varias maneras.",
+      "choice_data_list": [
+        "Es como si no hubiera nada que no puedas hacer.",
+        "Es como si no hubiera nada que no puedas hacer.",
+        "¡Eres increíble!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Supongo. ♪ Pero recién estoy comenzando. Quiero\ndecir, ¡todavía hay tantas profesiones que puedo\nprobar!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Hay expertos en bancos de atún, personas que\ninvestigan el suelo para producir el mejor arroz,\nartistas que pueden crear imágenes impresionantes\nusando solo unos pocos lápices de colores..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ver a profesionales así me hace darme cuenta de\nque hay mucho que no puedo hacer. ¡Es un mundo\nenorme allá afuera!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...No sé si eres realmente demasiado ambicioso o\nsi yo simplemente carezco enormemente de\nexperiencia laboral."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Creo que de alguna forma hemos pasado de trabajos\na tiempo parcial a verdaderas vocaciones..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque sospecho que su alcance está un poco\nexagerado, me recuerda lo talentosa que realmente\nes Ines Fujin."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Jeje, ¡gracias por el cumplido! Sabes, hago todo\nesto porque quiero, así que es un poco raro\nescucharte decir eso."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Pero ahora realmente quiero enfocarme en lograr\nun buen equilibrio entre mi entrenamiento y mi\ntrabajo!",
+      "choice_data_list": [
+        "Ines..."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...Mmm. Me pregunto si todo ese trabajo a tiempo\nparcial es el secreto de la fuerza de Ines."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Todo esto demuestra cuán beneficiosos son los\ntrabajos a tiempo parcial."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que estos dos están perdiendo un poco el\npunto..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Muy bien, Entrenadora! ¡Cuento contigo para\nseguir apoyándome! ♪ Quiero decir, realmente\ndependo de ti."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de la experiencia siento que Ines Fujin y\nyo realmente tenemos un vínculo fuerte."
+    }
+  ]
+}

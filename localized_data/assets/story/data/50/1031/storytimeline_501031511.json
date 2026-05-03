@@ -1,0 +1,210 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "¡Escuché que Ines se vuelve <i>salvaje</i> cuando corres con ella! Apuesto a que nunca lo has hecho, ¿no?",
+      "text": "¡Escuché que Ines se vuelve <i>salvaje</i> cuando corres\ncon ella! Apuesto a que\nnunca has hecho eso,\n¿verdad?"
+    },
+    {
+      "name": "¿Eh? Pues, ¿alguna vez <i>has</i> entrenado con Ryan?",
+      "text": "¿Eh? Pues, <i>¿alguna </i>vez has entrenado con Ryan?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De camino a nuestra próxima sesión de\nentrenamiento, Ines Fujin y yo nos topamos con una\ncuriosa pelea entre fans.",
+      "choice_data_list": [
+        "¿Están peleando?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Sí... Y parece que se trata de mí y Ryan."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Voy a observar la situación desde donde no me\nvean. No quiero echar leña al fuego\ninvolucrándome."
+    },
+    {
+      "name": "Silencio, por favor. De ahora en adelante, levanta la mano si deseas hablar. Ahora, sin más preámbulos...",
+      "text": "Silencio, por favor. De ahora en adelante,\nlevanten la mano si quieren hablar. Ahora, sin más\npreámbulos..."
+    },
+    {
+      "name": "¡Comencemos oficialmente el cuarto debate \"¿Preferirías a Ines o a Ryan como tu hermana mayor?\"!",
+      "text": "¡Demos inicio oficial al cuarto debate\n\"¿Preferirías tener a Ines o a Ryan como tu\nhermana mayor?\"!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Apla, apla, apla!</i>",
+      "choice_data_list": [
+        "(\"¿Debate\"?!)"
+      ]
+    },
+    {
+      "name": "¡Permíteme presentar mi argumento a favor de Ines! Para ponerte en contexto, tengo que retroceder unos días...",
+      "text": "¡Permítanme presentar mi argumento a favor de\nInes! Para contexto, debo retroceder unos días..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Uf! ¿Ves? No hay nada como una buena carrera para\nlimpiar las preocupaciones."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Eh? ¿Quieres agradecerme con un regalo? ¡No te\npreocupes! ¡Me divertí! Corramos otra vez algún\ndía, ¿vale?, para despejar la mente."
+    },
+    {
+      "name": "¡Eeeek, lo sabía! ¡La amabilidad y humildad de Ines están en otro nivel!",
+      "text": "¡Eeeek, lo sabía! ¡La amabilidad y humildad de\nInes están en otro nivel!"
+    },
+    {
+      "name": "Mrrgh... Me gustaría presentar mi propio argumento a favor de Ryan. Todo esto ocurrió durante una sesión de entrenamiento...",
+      "text": "Mrrgh... ¡Quiero presentar mi propio argumento a\nfavor de Ryan! Todo esto ocurrió durante una\nsesión de entrenamiento..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡No te rindas! Mira tus bíceps... Y escucha qué\ntienen que decir."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Está bien—estoy justo detrás de ti. ¡Te apoyaré si\nte metes en problemas!"
+    },
+    {
+      "name": "¡Debiste haberte sentido tan a gusto! ¡Ryan es simplemente <i>tan</i> confiable!",
+      "text": "¡Debiste haberte sentido tan a gusto! ¡Ryan es <i>tan</i>\nconfiable!"
+    },
+    {
+      "name": "¿Y tú... Pues <i>he</i> estado guardando un argumento que te dejará fuera de combate!",
+      "text": "¿Por qué tú... Pues <i>he</i> estado guardando un\nargumento que te dejará fuera de combate!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Ay! No me gusta a dónde se dirige esto... ¡Hora\nde intervenir!"
+    },
+    {
+      "name": "¡Ay! No me gusta a dónde va esto... ¡Es hora de intervenir!",
+      "text": "¡No deberían pelear! ¡Pelear está mal!"
+    },
+    {
+      "name": "Ines y/e Ryan",
+      "text": "Espera... ¿Eh?",
+      "choice_data_list": [
+        "(¿Ryan también estaba aquí?!)",
+        "(¿Ryan también estaba aquí?!)"
+      ]
+    },
+    {
+      "name": "Estudiantes del club de debate",
+      "text": "¡Ines! ¿Ryan? ¿Qué demonios es..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Chicos, escuchen! Entiendo cómo se sienten. De\nverdad."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Pero pelear no es la solución. Quiero decir, Ines\ny yo..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Nos llevamos como mantequilla de maní y\nmermelada! ¡Y quiero que ustedes tengan esa misma\nrelación!"
+    },
+    {
+      "name": "Estudiantes del club de debate",
+      "text": "¡Eep! ¡Están parados <i>cerca</i> el uno del otro! ¡No\npuedo creer que vayamos a ver esto tan de cerca!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Eh? ¿No estaban a punto de pelear?"
+    },
+    {
+      "name": "Fan de Ryan A",
+      "text": "Ohhh. No, ¡esto pasa todo el tiempo! Cuando el\ndebate se calienta, ¡terminamos muy intensos!"
+    },
+    {
+      "name": "Fan de Ines A",
+      "text": "Tiene razón. Cuando ustedes dos son el tema de\nconversación, todos nos volvemos un montón de\nbocazas..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Quiero decir, eso es reconfortante... pero, eh, me\nsiento bastante avergonzada por... todo esto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que el comportamiento cotidiano de Ines y\nRyan ha cautivado a suficiente gente como para\ninspirar una comunidad de debate organizada.\n...Puedo entender por qué se sienten un poco\nnerviosas."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "<i>Suspiro...</i> Estas bajoestudiantes mías son tan..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Adorablemente lindas!",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Hm? ¿Qué pasa? ¿Qué confusión hay?",
+      "choice_data_list": [
+        "Es solo... Apenas pareces molesta por nada de\nesto...",
+        "Es solo... Apenas pareces molesta por nada de\nesto..."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Oh? Sí, nada en absoluto, nada en absoluto!\n¡Estoy acostumbrada a cosas así!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Tiene sentido, viendo que tienes todos esos años\nde experiencia como hermana mayor bajo tu\ncinturón!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Sííí. Y como hermana mayor de estas chicas, no\npodría estar más feliz. ♪ ¡Me dan ganas de\ndevolver de alguna forma el favor!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Qué crees que sería bueno, entrenadora? Quiero\nagradecer a mis adorables admiradoras!",
+      "choice_data_list": [
+        "¡Una linda y relajante fiesta de té!",
+        "...¿Qué tal un encuentro y saludo?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Ooh. Aún nos queda tiempo antes del\nentrenamiento, así que ¡por qué no! ♪"
+    },
+    {
+      "name": "¡Yay! ¿Te gustaría venir también, Ryan? ¡Nos encantaría verte allí!",
+      "text": "¡Yay! ¿Te gustaría venir también, Ryan? ¡Nos\nencantaría verte allí!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Sí, iré seguro. Oh, pero... trata de mantener los\ncumplidos al mínimo, ¿vale?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, rodeadas por los miembros del club de\ndebate, las dos ídolos disfrutan de una\nmaravillosa fiesta de té."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Eso sería suficiente? Quiero decir, saludaré a\ntantas personas como puedas traer, pero..."
+    },
+    {
+      "name": "¡De verdad lo entiendes, Entrenadora! ¡Este es el mejor regalo que podíamos haber pedido! ¡Será mejor que nos aseguremos de que <i>todas</i> puedan asistir a este!",
+      "text": "¡Lo captas, entrenadora! ¡Este es el mejor regalo\nque podíamos haber pedido! ¡Mejor asegurémonos que\n<i>todos</i> puedan asistir a este!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Espera, ¿hay otros miembros además de ustedes?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Qué genial! Invita a tantos miembros como\nquieras! ¡Ningún número está fuera de cuestión\npara esta hermana mayor. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque se enfrenta a una horda inesperadamente\nenorme de miembros, Ines Fujin los saluda a todos\ncon una actitud de hermana cariñosa."
+    }
+  ]
+}

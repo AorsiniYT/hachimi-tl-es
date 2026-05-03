@@ -1,0 +1,80 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Llevo a Ines Fujin a la enfermería de urgencia\nporque sufrió una lesión durante el entrenamiento."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Lo siento, la cagué un poco. Supongo que no podré\ncumplir mi turno hoy..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Pero de verdad no quiero saltarme el\nentrenamiento..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Oye, eh, creo que puedo apretar los dientes contra\nel dolor, ¿entonces podríamos hacer solo una\nsesión ligera de entrenamiento?",
+      "choice_data_list": [
+        "Deberías descansar por ahora.",
+        "Está bien, hagamos lo que podamos."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ngh... supongo que es lo mejor. Sería un verdadero\nproblema si esta lesión empeorara..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Está bien, lo entiendo. Descansaré hoy para poder\nrecuperarme lo antes posible..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decepcionada, Ines Fujin regresa a su dormitorio."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Gracias! Bien, entrenemos tanto como podamos\nmanejar!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Uno, dos, tres—<i>¡ay!</i>"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ugh... apenas le pongo peso y me está matando..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Acabamos de empezar a entrenar y ya estoy\nagotada...",
+      "choice_data_list": [
+        "Quizá sea mejor que mantengas el movimiento al\nmínimo."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Sí, quizá... Está bien, hoy me tomaré con calma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Frustrada, Ines Fujin regresa a su dormitorio."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Uno, dos, tres, cuatro..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Uff. Creo que puedo manejar este nivel de\nejercicio."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Si sigo así hasta que mi lesión sane, no tendré\nque preocuparme por oxidarme. ¡Qué alivio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras vigilo su lesión, Ines Fujin completa una\nsesión de entrenamiento ligera."
+    }
+  ]
+}

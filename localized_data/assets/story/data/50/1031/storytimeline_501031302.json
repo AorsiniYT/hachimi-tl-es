@@ -1,0 +1,370 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras camino por el distrito comercial una\nnoche..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Oh! ¡Entrenadora! ¡Tu momento no podría ser\nmejor!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Podrías dibujar esto para mí? ¡Tengo que ir al\ntrabajo pronto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella mete a la fuerza un papelito en la palma de\nmi mano. Lo miro más de cerca y veo...",
+      "choice_data_list": [
+        "¿Un boleto de rifa?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Sí! Tengo la mira puesta en el segundo premio:\n¡un fardo de zanahorias!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡La fila está por allá! ¡Cuento contigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro en la dirección a la que Ines Fujin señala y\nveo una larga fila de familias que acaban de\nterminar sus compras."
+    },
+    {
+      "name": "¡Acércate y prueba suerte con nuestra rifa de Año Nuevo! ¡El gran premio de este año es un viaje a aguas termales para dos!",
+      "text": "¡Acércate y prueba tu suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es una\nescapada a un onsen para dos!",
+      "color_text_info_list": [
+        "escapada a un onsen"
+      ]
+    },
+    {
+      "name": "Los ganadores del primer premio reciben un lujoso filete de hamburguesa de zanahoria. Los del segundo premio se llevan un fardo de zanahorias. Y los del tercer premio pueden llevarse una sola zanahoria a casa.",
+      "text": "¡Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe! ¡Los ganadores\ndel segundo premio reciben un fardo de zanahorias!\n¡Y los ganadores del tercer premio pueden llevarse\na casa una sola zanahoria!"
+    },
+    {
+      "name": "¡No dejes pasar esta oportunidad! Compra un boleto ahora y gira para intentar ganar!",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue un\nboleto ahora y gira para tener la chance de ganar!",
+      "choice_data_list": [
+        "(¡Intentaré ganar algo bueno!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entrego el boleto que obtuve de Ines Fujin y giro\nansiosa la manivela del dispositivo de la rifa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae del orificio del\ntambor..."
+    },
+    {
+      "name": "¡Vaya, vaya! ¡Tenemos un ganador del gran premio! Ven y recoge el cupón para tu viaje a aguas termales. ¡Felicidades!",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del gran premio!\n¡Ven a recoger el cupón para tu escapada a un\nonsen! ¡Felicidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "choice_data_list": [
+        "¡Guau!"
+      ],
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Qué...?! ¿En serio se puede ganar el gran premio?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Comparte un poco de esa buena suerte conmigo,\n¿vale?! La próxima vez que tenga chance, ¡yo\ntambién ganaré el gran premio!",
+      "choice_data_list": [
+        "¿Y este cupón?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Te lo dejo. Después de todo, fuiste tú quien lo\nganó."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "No me parece correcto quedármelo después. Vamos,\ndate prisa y mételo en tu bolsillo.",
+      "choice_data_list": [
+        "Pero era tu boleto desde el principio...",
+        "Pero era tu boleto desde el principio..."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Dije que está bien. ¡Solo acéptalo!",
+      "choice_data_list": [
+        "No, no puedo aceptarlo."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡¿Por qué no?!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "<i>Haa... Haa...</i> ¡Solo tómalo ya, Entrenadora!",
+      "choice_data_list": [
+        "¡Pero no es mío!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Arrrgh! ¡Espera, se me ocurrió una idea! ¿Qué tal\nesto?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Guardemos este cupón por ahora! Cuando\nencontremos un momento que nos convenga a ambas,\niremos. Fin de la historia. ¿Te parece?",
+      "choice_data_list": [
+        "¡Me parece bien!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Uff... Finalmente lo resolvimos, entonces."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Guardémoslo en esta habitación por ahora. Así\npodrás usarlo cuando te apetezca.",
+      "choice_data_list": [
+        "¡O cuando lo necesites, Ines!",
+        "¡O cuando lo necesites, Ines!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Geez..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Eres muy difícil de manejar."
+    },
+    {
+      "name": "¡Parece que tenemos otro ganador del primer premio! ¡Felicidades! Te llevas un lujoso filete de hamburguesa de zanahoria!",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicidades! ¡Obtienes una hamburguesa de\nzanahoria deluxe!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "choice_data_list": [
+        "¡Primer premio!"
+      ],
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Bienvenidos! ¿Cuántos de ustedes van a cenar hoy—"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Qué, Entrenadora? ¿Vas a comer ramen otra vez?",
+      "choice_data_list": [
+        "¡No, no! ¡Quería decirte que gané el primer\npremio!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Huh?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Guau! ¡Es una hamburguesa de zanahoria! ¿De\nverdad puedo comer esto?",
+      "choice_data_list": [
+        "¡Claro!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Gracias! ¡La comeré después de terminar mi turno!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Oye, Entrenadora. No viniste hasta aquí <i>solo</i>\npara darme esto, ¿verdad?",
+      "choice_data_list": [
+        "¡Sí!",
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ahaha..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Podrías haberme dado esto mañana. Tienes un lado\nsorprendentemente lindo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, entrego la hamburguesa de zanahoria deluxe\na Ines Fujin."
+    },
+    {
+      "name": "¡Tenemos un ganador del segundo premio! ¡Hoy es tu día de suerte! Te vas a casa con un fardo de zanahorias!",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un fardo de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recibo una caja de cartón llena de zanahorias, que\ndecido llevar a los dormitorios estudiantiles.\nPero cuando llego..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Grrrowl...</i>"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Grrrowl...</i>"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Ugh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me encuentro con Oguri Cap, su estómago retumba\nfuertemente. Con cada retumbo, se estremece\nvisiblemente; parece que su hambre ha llegado al\nlímite.",
+      "choice_data_list": [
+        "(Si Ines estuviera aquí ahora...)"
+      ],
+      "color_text_info_list": [
+        "Oguri Cap"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Oh, ¿tienes hambre, Oguri?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Jeje, compartiré unas cuantas contigo. No tengo\ntantas, así que mantengámoslo entre nosotras,\n¿vale?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ah, pero probablemente estarían más sabrosas\ncocidas que crudas. ¿Qué tal si te preparo algo?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...",
+      "choice_data_list": [
+        "Em..."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Así que por eso nos están invitando a una olla\ncaliente, ¿eh? Me sorprendió cuando de repente\nrecibí un mensaje diciendo que debía ir a tu\noficina después de terminar el trabajo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Ines! ¡La cocina de tu entrenadora está\ndeliciosa!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Mi entrenadora es de primera, después de todo!\n¡Creo que también probaré un poco!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, la enorme caja de zanahorias desaparece en\nuna sola noche, sumergiéndose en un abismo formado\npor dos estómagos de Umamusume..."
+    },
+    {
+      "name": "¡Mira esto! ¡Ganaste el tercer premio! ¡Aquí tienes tu zanahoria!",
+      "text": "¡Mira aquí! ¡Ganaste el tercer premio! ¡Aquí\ntienes tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Una sola zanahoria, eh? Bueno, al fin y al cabo,\nsolo es una rifa."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Gracias por ayudar en el último momento! Ese\nboleto de rifa iba a expirar después de hoy, ¡así\nque me alegra que no se haya desperdiciado!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Avísame si alguna vez tienes un boleto de sobra.\n¡Estaré allí para ayudarte, Entrenadora!",
+      "choice_data_list": [
+        "Me pregunto si eso alguna vez sucederá..."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Totalmente sí!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Quizá."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le entrego la zanahoria a Ines Fujin y nos\ndirigimos casa."
+    },
+    {
+      "name": "¡Ay, mala suerte! Parece que te salió vacío. Toma este paquete de pañuelos como premio de consolación.",
+      "text": "Ohhh, ¡qué mala suerte! Parece que sacaste un\nboleto vacío. Llévate este paquete de pañuelos\ncomo premio consolatorio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "choice_data_list": [
+        "Supongo que la suerte no estuvo de mi lado!"
+      ],
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Hola, entrenadora! Sobre ese boleto de rifa que\nte di yayer..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Hm? Te ves un poco desanimada a primera hora de\nla mañana...",
+      "choice_data_list": [
+        "Saqué un boleto vacío en la rifa..."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Qué? ¡No puede ser?!",
+      "choice_data_list": [
+        "¡L-lo siento!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ah, no, no. ¡No quise decirlo así! ¡Simplemente no\npuedo creer que estés triste por algo tan tonto!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Aaah, mira, lo siento, ¿vale? Nunca esperé que te\nsintieras culpable por una rifa..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Termino haciendo que Ines Fujin se preocupe por mí\ninnecesariamente."
+    }
+  ]
+}
