@@ -1,0 +1,135 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Lo único que sigue Mr. C.B. en la vida es la regla\nde su corazón, y hoy estoy aquí para averiguar\ncuán fuerte hace eso a ella."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Vaya, qué lluvia! ¿Crees que volverá a llover más\ntarde?"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Parece que sí. Y mira, la pista está toda mojada y\nblanda. Será imposible que alguien adelante al\nlíder en esa pista."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Phew..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Ni siquiera trajiste un paraguas? De todos modos,\n¿cómo te sientes, C.B.?"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Me siento perfecta. ¿Me esperabas?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sí. Conociéndote, pensé que sería inteligente\npreparar una toalla para ti. Tómala y sécate en la\nsala de espera."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Jaja. Es como si fueras psíquica. Gracias, Rudolf."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No le des mucha importancia. Cada quien tiene su\nforma de entrenarse."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Espero que hoy me muestres tu corrida impecable."
+    },
+    {
+      "name": "Espectador A",
+      "text": "Vaya, Mr. C.B. estaba empapada. Me pregunto si\ncorrió hasta aquí."
+    },
+    {
+      "name": "Espectador B",
+      "text": "Tal vez esté desesperada. No le será fácil cerrar\nla brecha con su competencia en mal clima.",
+      "choice_data_list": [
+        "(Claro, el clima la pone en desventaja, pero...)",
+        "(Claro, el clima la pone en desventaja, pero...)"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "(Vaya, la lluvia está genial! Es agradable cómo\nlas gotas chocan contra mi cara y cómo el lodo\nsale volando por todas partes.)"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "(Probablemente sea imprudente perseguir a todos en\nuna pista tan revuelta, sobre todo después de\nagotarme.)"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "(Puede que no pueda correr como de costumbre.\nSupongo que eso es algo seguro, sin embargo.)"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Pero no me importa si ese es el caso. Me niego a\ninclinarme a esas suposiciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La competencia comienza. El césped se revienta, y\nla pista apenas se ve. Como era de esperarse, es\nun desorden allá afuera."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Uf! ¡Todas están visiblemente agotadas! Supongo\nque es un caso cerrado para la que lleva la\ndelantera...",
+      "choice_data_list": [
+        "(Puede que parezca así por ahora, pero—)",
+        "(Puede que parezca así por ahora, pero—)"
+      ]
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Espera! ¡Mira! ¡En la parte trasera!",
+      "choice_data_list": [
+        "Mr. C.B.! [RECHECK_CONTEXT:\nArchivo=storytimeline_830097003.json |\nCampo=choice_data_list[0] | Nombre=Spectator B |\nLinea=¡Espera! ¡Mira! ¡En la parte de atrás! |\nAnterior=¡Ay! ¡Todos están visiblemente exhaustos!\nSupongo que ya está decidido para el que lidera...\n| Siguiente=¡Aquí viene Mr. C.B. acercándose por\ndetrás! ¡Ella tomó la delantera!]}"
+      ]
+    },
+    {
+      "name": "¡Allá viene Mr. C.B. acercándose por detrás! ¡Ella tomó la delantera!",
+      "text": "¡Allá viene Mr. C.B. acercándose por detrás! ¡Ella\nha tomado la delantera!"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Ahí está... ¡El camino adelante es mío!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡No me lo puedo creer! ¡Ella dio vuelta a todo\nesto aunque el clima?! ¡Es increíble!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Sí... Es una vista agradable."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Lo sabía. No importa lo que haga o diga nadie.\nSolo tengo que seguir la brújula de mi corazón."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Tal como lo hice hoy."
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Guau! ¡Ese poder es increíble! ¿Cómo corre ella\nde forma tan libre?!",
+      "choice_data_list": [
+        "¡Así es Mr. C.B.!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Umamusume sin ataduras que recorre su camino—y\nsolo su propio camino."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de ver a Mr. C.B. demostrar su fuerza\ninquebrantable, estoy lleno de motivación para\nhacerlo aún mejor yo mismo."
+    }
+  ]
+}
