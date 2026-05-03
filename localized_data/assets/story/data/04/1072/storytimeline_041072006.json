@@ -1,0 +1,240 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¿Cómo terminé aquí...?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Whooosh!</i>"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...! Esta montaña rusa... Es bastante dura, sin\nduda."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Sin embargo, aceptaré el desafío y saldré\nvictoriosa! ¡Vamos, a la batalla!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo este caos comenzó hace unas horas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Paso la tarde en la ciudad en mi día libre cuando\nveo a Yaeno leyendo folletos en una cartelera de\nla estación de tren."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Hola, entrenadora. Qué coincidencia.",
+      "choice_data_list": [
+        "¿Qué haces?",
+        "¿Qué haces?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Bueno, pensé mucho en el descanso que se suponía\ndebía tomar. Concluí que debía actuar y buscar\nactividades que me distrajeran del entrenamiento\nel tiempo suficiente para descansar."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Dicho eso, vivo bajo la disciplina de las artes\nmarciales. Me da vergüenza admitir que no conozco\nmuchos lugares recreativos en la zona."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta es mi oportunidad para que ella deje de\npensar en entrenar. Sé exactamente el lugar—uno\ndonde <i>cualquiera</i> lo disfrutaría.",
+      "choice_data_list": [
+        "¿Qué tal el parque temático?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "El parque temático... Qué sugerencia tan astuta.\nCreo que eso podría permitir que incluso alguien\ncomo yo se relaje."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Está decidido—¡vámonos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y ahora, aquí estamos."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Uff... Esa montaña rusa fue realmente formidable.",
+      "choice_data_list": [
+        "¿Te divertiste?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿Divertido? Naturalmente, disfruté la experiencia,\npero más que eso... Me impresionó la aceleración\nen las bajadas."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "También hay carreras con descensos. He practicado\npara ellas, pero este paseo me dio nuevas ideas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No les voy a mentir, esperaba un \"¡Sí!\"—no una\ninmersión profunda en las aplicaciones de carreras\nde montañas rusas. Tengo que distraerla de\nentrenar <i>¡rápido!</i>",
+      "choice_data_list": [
+        "¡Yaeno, rápido! ¡Sígueme!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Huh?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Está demasiado oscuro... ¡Entrenadora! ¿¡Dónde\nfuiste?!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Hm, mis ojos se están ajustando poco a poco."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Esto es..."
+    },
+    {
+      "name": "¿Fantasma?",
+      "text": "¡Heehehehee! Nadie que entre a esta mansión\nvolverá a ver la luz del día jamás!"
+    },
+    {
+      "name": "¿Fantasma?",
+      "text": "¡Espero que estés listo para un susto!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿Un susto?",
+      "choice_data_list": [
+        "(Je. La mansión encantada le tiene la atención—)"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡JA!"
+    },
+    {
+      "name": "¿Fantasma?",
+      "text": "¡¿Qué?!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡No pienses que la luz tenue te ocultará! Espíritu\nmiserable, pagarás por lo que le hiciste a mi\nentrenadora."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Hmm, parece que escapó por allí. Jeje... ¡No\npuedes escaparte de mí!"
+    },
+    {
+      "name": "¿Monstruo?",
+      "text": "¡BU! ¡Jiji! ¡Apuesto a que eso te dio un susto!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Ni pensarlo! ¡Ahora toma esto! El final\ndefinitivo de Kongo Yaegaki—"
+    },
+    {
+      "name": "¿Monstruo?",
+      "text": "¡¿EEEP?!",
+      "choice_data_list": [
+        "¡YAENO, DETENTE!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Entrenadora, cúbreme! ¡Yo haré frente a esta\nbestia!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...Bien. Mantengo la cabeza fría incluso antes de\nlos enemigos sobrenaturales. Fue un excelente\nejercicio de voluntad... ¡Espera!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Yo... casi intenté relacionar la experiencia con\nmi entrenamiento. ¡Lo siento! ¡Me invitaste aquí a\nrelajarme y sin embargo traicioné tu buena\nvoluntad!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Se supone que debo practicar la moderación, no\nusar cada evento como una lección. ¡Ay, qué error\nde principiante!",
+      "choice_data_list": [
+        "Solo necesitas más práctica. Agarrarás el truco de\nrelajarte si sigues intentando."
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿Eh? Pero, yo... No podría pedirte que me ayudes a\npracticar <i>no</i> practicar. Sería ridículo..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Ya causé tantos problemas durante mi descanso... Y\nahora te estoy molestando otra vez."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Por favor, no te preocupes por mí. ¡Te juro que\nsuperaré esta prueba por mi cuenta!",
+      "choice_data_list": [
+        "No, te ayudaré hasta que lo logres."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No me rindo. Este es el tipo de guía que las\nentrenadoras <i>para.</i>"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Pero—",
+      "choice_data_list": [
+        "Y además, ¡es divertido verte intentar animarte!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿Eh? Um... ¿Es... divertido?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yaeno me mira, atónita. Ya se hace tarde, así que\ndecidimos terminar el día y volver a los\ndormitorios."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el tren, Yaeno habla suavemente."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿Está realmente bien? Que siga intentando y\nfallando..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Reconozco que soy inmadura... y eso es gran parte\nde por qué me dedico a practicar la\nautodisciplina."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Creo que también es por eso que, en el fondo, una\nparte de mí estaba en contra de tu decisión de\ndejar ese entrenamiento."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Así que ahora...",
+      "choice_data_list": [
+        "¿Así ahora?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...No, nada. Déjame pensarlo un poco más primero."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yaeno guarda silencio. No dice otra palabra\ndurante todo el regreso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora lo entiendo un poco mejor. Ha estado usando\nel entrenamiento para canalizar su energía durante\ntanto tiempo. Gestionarse sin eso podría ser una\nbuena experiencia para ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estaré aquí para apoyarla. El verano está a la\nvuelta de la esquina, ¡así que ahora es el momento\nperfecto!"
+    }
+  ]
+}
