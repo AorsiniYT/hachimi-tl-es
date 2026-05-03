@@ -1,0 +1,386 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el día del Festival de Fans de Primavera,\nun evento que promueve la interacción entre las\nestudiantes y sus fans."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Veo a Yaeno Muteki en la entrada principal,\nrepartiendo folletos.",
+      "choice_data_list": [
+        "Oye. ¿Estás ayudando con cosas del consejo\nestudiantil?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Buenas tardes, Entrenadora. No, no es nada de eso."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Tenía tiempo libre, así que empecé a quedarme aquí\ncon la esperanza de interactuar con mis fans.\nPensé que estos folletos podrían ser útiles."
+    },
+    {
+      "name": "Fan de Yaeno A",
+      "text": "¡Omigosh, Yaeno Muteki! ¡Hola! ¡Veo todas tus\ncarreras y conciertos!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Gracias por tu apoyo."
+    },
+    {
+      "name": "Fan de Yaeno A",
+      "text": "¡Me encanta lo valiente que eres, tanto en la\npista como en el escenario! ¡Eres genial!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Ya veo."
+    },
+    {
+      "name": "Fan de Yaeno A",
+      "text": "Sí, y eh..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿Sí?"
+    },
+    {
+      "name": "Fan de Yaeno A",
+      "text": "Eh... ¡¡Te animaré!!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Hmm... No he podido mantener una sola conversación\ncon un fan desde que empecé a quedarme aquí."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Bueno, no eres precisamente la persona más\namigable, ¿verdad?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Debes recordar que estamos acostumbrados a tratar\ncon fans, pero ellos no están acostumbrados a\nhablarnos, así que tienden a perder los nervios.\nEspecialmente en los primeros encuentros."
+    },
+    {
+      "name": "Inari One",
+      "text": "Además, esa vibra de artista marcial sombría que\ndas no es broma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross e Inari One se topan escuchando\nnuestra conversación y deciden intervenir.",
+      "color_text_info_list": [
+        "Inari One"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ambas son reflexivas y consideradas, así que deben\nhaber notado las dificultades de Yaeno Muteki y\ndecidieron ofrecerle algunos consejos."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Oh! Ya veo... Supongo que es cierto que no he\nestado dando lo mejor para ser \"amigable\"..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Aun así, no sería muy tu estilo obligarte a ser\ntodo amigable tampoco."
+    },
+    {
+      "name": "Inari One",
+      "text": "Claro. Tu naturaleza brusca es lo que te define,\n<i>te define.</i> También probablemente sea lo que los\nfans quieren ver."
+    },
+    {
+      "name": "Inari One",
+      "text": "Hmm... ¿Sabés qué? ¿Por qué no aprovechamos al\nmáximo esa aura tuya tan difícil de acercarse?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿Qué querés decir?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡No hay tiempo para preguntas! ¡Solo seguime!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Vengan todos! Prueben su mano en un juego sin\nreglas de Presidente. ¡Incluso tenemos un premio\npara el ganador!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Cuál de vosotras almas valientes está dispuesta a\nenfrentarse a Yaeno Muteki, la invencible Cara del\nPoker Inigualable, en persona?"
+    },
+    {
+      "name": "Fan de Yaeno B",
+      "text": "¿Una competencia sin reglas contra Yaeno Muteki?\n¡Tengo que aprovechar esta oportunidad!"
+    },
+    {
+      "name": "Fan de Yaeno C",
+      "text": "¡Vaya, Yaeno Muteki es genial cuando se anima! Si\nsolo es un juego de cartas, entonces yo también\ntengo una chance de ganar... ¡Está bien, me\napunto!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Disculpá. ¿Te gustaría acompañarnos en una ronda\nde Presidente?"
+    },
+    {
+      "name": "Fan de Yaeno A",
+      "text": "¿Qué? ¿Yo? ¡Guau, no puedo creer que reciba una\ninvitación directa de Yaeno Muteki... Sí, ¡por\nfavor! ¡Me encantaría unirme!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Cuenten conmigo también! ¡No hay nada como una\nbuena\ncompetencia para hacer que la sangre de Edo\nhierva!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Listo, que empiecen los juegos!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Paso. Tu turno."
+    },
+    {
+      "name": "Fan de Yaeno C",
+      "text": "¡Eligió pasar?! ¿Pero por qué? ¡Solo vamos a mitad\nde la partida... ¿Se quedó sin cartas? Espera,\n¿podría estar ocultando un as bajo la manga?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "..."
+    },
+    {
+      "name": "Fan de Yaeno C",
+      "text": "¡Gah... no puedo leerla! ¡Su cara es una máscara\nimperturbable!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Qué te parece esto?!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...!"
+    },
+    {
+      "name": "Yaeno Fan B [RECHECK_CONTEXT: Archivo=storytimeline_501072108.json | Campo=name | Nombre=Yaeno Fan B | Linea=¡Hmph! Si ese es tu movimiento, entonces— | Anterior=...! | Siguiente=¿Eh? ¿Q-qué es esta aura que siento? ¡Viene de Yaeno Muteki!",
+      "text": "¡Hmph! Si ese es tu movimiento, entonces—"
+    },
+    {
+      "name": "¿Qué? ¿Qué aura es esa que siento? ¡Viene de Yaeno Muteki! ¡Hm! Si ese es tu truco, entonces... Heh... Jeje... Ya veo. Esta presión aplastante debe ser una advertencia para que no me vuelva demasiado engreída... ¡Muy bien! Te acepto...",
+      "text": "¿Eh?! ¿Q-qué es esa aura que siento? ¡Viene de\nYaeno Muteki!"
+    },
+    {
+      "name": "Heh... Jeje... Ya veo. Esta presión aplastante debe ser una advertencia para que no me vuelva demasiado engreída... ¡Muy bien! ¡Acepto tu desafío! ¿Qué? ¿Qué aura es esa que siento? ¡Viene de Yaeno Muteki! Es mi turno. Toma esto.",
+      "text": "Je... Jeje... Ya veo. Esta presión aplastante debe\nser una advertencia para que no me vuelva\ndemasiado engreída... ¡Muy bien! ¡Acepto tu\ndesafío!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Es mi turno. Toma esto."
+    },
+    {
+      "name": "¿Qué? ¡Esa aura amenazante solo fue una estratagema para hacerme tropezar! ¡Argh, qué tonta fui! Es mi turno. Toma esto...",
+      "text": "¿Qué?! Esa aura amenazante fue solo una treta para\nhacerme tropezar! ¡Argh, qué tonta fui!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "..."
+    },
+    {
+      "name": "Inari One",
+      "text": "Vaya, vaya, vaya. ¿Podría ser este el fin del\ncamino para la Peerless Poker Face?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Esta es mi oportunidad!"
+    },
+    {
+      "name": "¡Maldición... Paso! ¡Esta es mi oportunidad! ¡Yaaah!",
+      "text": "¡Maldiciones... Pasa!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Yaaah!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Esa fue mi última carta."
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Qué?¡"
+    },
+    {
+      "name": "Inari One",
+      "text": "Maldición... Parece que caí justo en tus manos.\nSupongo que perdí, ¡justo y cuadrado!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡La victoria está decidida! ¡Yaeno gana!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Osu!"
+    },
+    {
+      "name": "¡No lo puedo creer! ¡Escuché el \"¡Osu!\" de Yaeno Muteki en persona! ¡Increíble! ¡Osu! He aprendido mucho sobre mis propias fallas a través de esta prueba de temple contra ti, Yaeno Muteki. Gracias por tu gu...",
+      "text": "¡No puedo creerlo! ¡Pude escuchar el \"Osu!\" de\nYaeno Muteki en persona! ¡Increíble!"
+    },
+    {
+      "name": "He aprendido mucho de mis propias fallas a través de esta prueba de temple contra ti, Yaeno Muteki. ¡Gracias por tu guía!",
+      "text": "He aprendido mucho de mis propias fallas con esta\nprueba de temple contra ti, Yaeno Muteki. ¡Gracias\npor tu guía!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "No era mi intención brindarte guía, pero me alegra\nque pudieras obtener algo de esto."
+    },
+    {
+      "name": "¡Me divertí muchísimo jugando contigo! ¡Gracias!",
+      "text": "¡Me divertí mucho jugando contigo! ¡Gracias!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "El tiempo que pasé contigo hoy también fue muy\nsignificativo para mí."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Al haber interactuado personalmente con todas,\nestoy segura de que sus caras vendrán a mi mente\ncada vez que corra en una competencia."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Tener una imagen concreta para asociar con mis\nfanáticas me da aún más fuerza para esforzarme."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "A todos los que vinieron a hablarme hoy, les\noferzco mi mayor gratitud y humildemente pido su\napoyo continuo."
+    },
+    {
+      "name": "¡Jajaja! ¡De verdad eres tan sincera y educada! ¡Pero no tienes que pedírmelo dos veces! ¡Ni siquiera una! ¡Definitivamente seguiré animándote pase lo que pase!",
+      "text": "¡Ja ja! ¡De verdad eres tan sincera y educada!\nPero no tienes que pedírmelo dos veces! ¡Ni\nsiquiera una! ¡Definitivamente seguiré animándote\npase lo que pase!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Jeje. Parece que hemos llegado al momento de la\nverdad. Ahora, ¿cómo proceder...?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "..."
+    },
+    {
+      "name": "¿Eh? ¿Qué está pasando? ¿Por qué el aire de repente se siente tan denso y pesado? ¡Gah! ¡Qué presión tan inmensa!",
+      "text": "¿Eh? ¿Qué está pasando?! ¿Por qué el aire de\nrepente se siente tan denso y pesado? ¡Gah! ¡Qué\npresión tan inmensa!"
+    },
+    {
+      "name": "¡Esta aura debe venir de Yaeno Muteki e Inari One!",
+      "text": "Esta aura debe venir de Yaeno Muteki y Inari One!"
+    },
+    {
+      "name": "Ngh... ¡Qué fuerza abrumadora! No pensé que una competencia sin límites pudiera llegar <i>tan</i> lejos!",
+      "text": "Ngh... ¡Qué fuerza tan abrumadora! No pensé que\nuna competencia sin límites pudiera llegar <i>así</i> tan\nlejos!"
+    },
+    {
+      "name": "E-eh, este es el mundo de la competencia en el que Yaeno Muteki compite!",
+      "text": "E-entonces este es el mundo de la competencia en\nel que Yaeno Muteki compite!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Dale!"
+    },
+    {
+      "name": "...Paso.",
+      "text": "...Paso."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Ahora es mi oportunidad!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Esa fue mi última carta!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Qué?!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Maldición, mi lectura de ti estuvo totalmente\nequivocada... ¡Me engañaste bien!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡La victoria está decidida! ¡Yaeno gana!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Osu!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oooooh!"
+    },
+    {
+      "name": "¡Yaeno Muteki, fuiste increíble! Decir que me dejó alucinado tu valentía durante la partida sería quedarme corto!",
+      "text": "Yaeno Muteki, ¡fuiste increíble! Decir que quedé\nasombrada por tu espíritu durante la carrera sería\nuna subestimación!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Gracias. Sin embargo, lamento no haber podido\nhablar de una forma más atractiva."
+    },
+    {
+      "name": "¡Está bien! Aún pude percibir tus emociones a través de la energía que emitiste durante la partida!",
+      "text": "¡Está bien! Aún pude leer tus emociones por la\nenergía que emitiste durante la partida!"
+    },
+    {
+      "name": "Yo también... siento que te conozco mejor ahora que he jugado contigo!",
+      "text": "Yo también... siento que te conozco mejor ahora\nque ¡he jugado contigo!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿Por qué? ¡Qué idea! Aunque supongo que tiene\nsentido, ya que soy mi yo más auténtico durante\nuna competencia."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Qué alegría saber que pudiste ver mi verdadero\nyo! No creo que haya un placer mayor de este!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "No olvidaré a ninguna de ustedes, ni la encendida\nbatalla que libramos hoy."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Me atrevo a decir que sus caras aparecerán en mi\nmente cada vez que corra de ahora en adelante!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Desde lo más profundo de mi corazón, ¡les\nagradezco a todas! Y humildemente pido su apoyo\ncontinuo!"
+    },
+    {
+      "name": "¡Ja ja! ¡No sabía que podías ser tan apasionada! Qué sorpresa inesperada. ¡Cuanto más te conozco, más fan me convierto!",
+      "text": "¡Ja ja! ¡No sabía que podías ser tan apasionada!\nQué sorpresa inesperada. ¡Cuanto más aprendo de\nti, más grande me vuelvo como fan!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Inari, Tamamo—gracias a ambas. Gracias a ustedes,\npude conocer a mis fans.",
+      "color_text_info_list": [
+        "Inari"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Oye, no hay de qué! Todos tenemos cosas en las\nque no somos buenos, y es parte de la naturaleza\nhumana ayudarnos mutuamente!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "'Sides, a todos les encantó el evento, así que\ndiría que estamos a mano!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Jeje. Les debo mucho a ambas. Si alguna de ustedes\nnecesita ayuda, por favor acérquense a mí."
+    },
+    {
+      "name": "Inari One",
+      "text": "Vaya, ¡estás tan serio como siempre! ¡Eso me gusta\nde ti, sin embargo!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Poder interactuar con sus fans parece haber sido\nuna gran fuente de ánimo para Yaeno Muteki!"
+    }
+  ]
+}

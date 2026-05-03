@@ -1,0 +1,453 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Yaeno Muteki y yo hemos llegado al distrito\ncomercial para comprar algunas cosas del día a día\ncuando vemos una multitud de gente delante de\nnosotros."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Parece que algo está pasando más adelante."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acércate y prueba tu suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es una\nvacación de aguas termales para dos!",
+      "color_text_info_list": [
+        "vacación de aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben un lujoso\nbistec de hamburguesa de zanahoria. Los ganadores\ndel segundo premio reciben una canasta de\nzanahorias. Y los ganadores del tercer premio\npueden llevarse a casa una sola zanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes que esta oportunidad se te escape!\n¡Consigue un boleto ahora y gira para tener tu\noportunidad de ganar!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Ah, una rifa."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Oh, hola. ¿Van ustedes dos a casa? Antes de irse,\n¿no será que llevan un boleto de rifa, verdad?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿Un boleto de rifa? En realidad, sí. Recibí uno\nantes."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Genial! ¡Entonces ven aquí!",
+      "choice_data_list": [
+        "¡Ve a probar tu suerte, Yaeno!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Hmm... No quisiera que el boleto se desperdicie,\npero...",
+      "choice_data_list": [
+        "¿Pero?",
+        "¿Pero?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Cuando era niña, una vez destruí una máquina de\nrifa en un arrebato de ira porque no podía aceptar\nlos resultados."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Después, me prohibieron participar en más rifas\nlocales."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Como todavía no estoy acostumbrada a ellas,\nestoy... bastante nerviosa por cómo reaccionaré!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Por favor, ¿giras la palanca conmigo?",
+      "choice_data_list": [
+        "¡Sin problema!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Te agradezco. Entonces..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yaeno Muteki y yo le damos una vuelta suave a la\nmáquina de rifas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de Rifa",
+      "text": "¡Madre mía! ¡Tenemos un ganador del gran premio!\nVen y recibe el cupón para tus vacaciones de\nprimavera caliente. ¡Felicidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡El gran premio!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡HNGH! ...Uff."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Qué afortunado.",
+      "choice_data_list": [
+        "¡Vamos! ¡Tienes que emocionarte más que eso!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡No lo haré! No hay señal de inmadurez mayor que\ndejarse llevar por la emoción."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Debo mantener la compostura en todo momento!",
+      "choice_data_list": [
+        "¡No tienes que reprimir tu alegría!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Explico que mientras ella no salga corriendo\ndesenfrenada o algo así, está bien mostrar toda la\nfelicidad que quiera."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿E-es así? ¿Entonces está bien que suelte esta\nalegría que siento?",
+      "choice_data_list": [
+        "¡Sí! ¡Celebremos juntas!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Vamos!",
+      "choice_data_list": [
+        "¡Hip! ¡Hip!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡HUUURRAAAY!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Me gustaría que usaras este cupón.",
+      "choice_data_list": [
+        "¿Eh? Pero lo ganaste con tu boleto de rifa...",
+        "¿Eh? Pero lo ganaste con tu boleto de rifa..."
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Te he estado observando mientras caminas y noté\nque tus movimientos son un poco rígidos, sobre\ntodo en el cuello, los hombros y la zona lumbar."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Sospecho que padeces músculos tensos, por lo que\nte recomiendo ir a un onsen para recuperarte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tiene razón. Mis hombros y mi espalda <i>sí</i>se sienten\nrígidos, pero cuando señalo que ella también debe\nestar cansada..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Tonterías. Soy la viva imagen de la salud. Gracias\na tu guía, no queda rastro de fatiga en mi cuerpo.",
+      "choice_data_list": [
+        "Claro, pero aún podrías usar un descanso.",
+        "Claro, pero aún podrías usar un descanso."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso diría que es especialmente importante para\nalguien como Yaeno Muteki, que se mantiene a\nestándares militantemente altos, tomarse\ndescansos."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Mmm... entrenar en un onsen podría ser un aire\nfresco y revitalizante."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Afortunadamente, el cupón es para dos, ¿qué tal\nesto?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Cuando nuestro horario se abra, ¿por qué no vamos\nde la mano?",
+      "choice_data_list": [
+        "¡Suena como un plan!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Entonces está decidido. Dejaré el cupón bajo tu\ncuidado."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...Jeje. Apenas puedo esperar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y así, Yaeno Muteki y yo hacemos un plan\ndivertido para esperar con ansias!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicidades! ¡Obtienes una hamburguesa de\nzanahoria deluxe!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡E-esta hamburguesa de zanahoria!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Entrenadora."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Rice.",
+      "choice_data_list": [
+        "...¿Qué?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Necesitamos arroz."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Ya probé esta hamburguesa en casa. Alguien le\nregaló a mi familia como regalo de fin de año."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡La salsa demi‑glace jugosa combina\nexcepcionalmente bien con el arroz! Reponimos\nnuestros tazones tan rápido que nos quedamos sin\narroz sin darnos cuenta!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "No será suficiente con solo traer esta hamburguesa\nde zanahoria deluxe."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Comprémos arroz y regresemos rápido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A petición de Yaeno Muteki, vamos a comprar una\nbolsa de arroz antes de regresar a casa."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "<i>...Munch, munch, munch.</i>",
+      "choice_data_list": [
+        "¡No puedo dejar de comer! ¡Está buenísima!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿No es maravilloso? ¿Cómo llamarías a esta\ncombinación de hamburguesa de zanahoria deluxe y\narroz si no es pura felicidad?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Viva la salsa demi‑glace!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Gracias a Yaeno Muteki, tengo la oportunidad de\ndeleitarme con la combinación definitiva de\nhamburguesa de zanahoria deluxe y arroz!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un saco de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿¡Qué?! ¡Son muchísimas!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "De ninguna forma podremos terminar todo esto solo\ncon nosotras dos."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Discúlpame por lanzarte una pregunta tan tonta,\npero..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Como no conozco bien cómo funcionan las amistades,\nhay algo que me gustaría confirmar contigo."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿Sería grosero ofrecer a mis compañeras de clase\ncomida hecha con estas zanahorias?",
+      "choice_data_list": [
+        "¡En absoluto!",
+        "¡En absoluto!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿En serio? Entonces creo que prepararé unos\nplatillos para Chiyono O y Ardan."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Mmm! ¡Estaba delicioso!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Gracias por la fiesta casera de zanahorias,\nYaeno!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Todo estaba exquisito. Me encantó especialmente el\nsabor refrescante del arroz con zanahoria."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡...! Yo... Me alegra que ambas hayan disfrutado\nla comida."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Las zanahorias son muy nutritivas, así que cuando\nobtuve una gran cantidad de zanahorias,\ninmediatamente pensé en ustedes dos."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Sé que fue presuntuoso, pero espero que me\nperdonen por aparecer de repente con tantas."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ay, Dios... No tienes nada de qué disculparte,\nYaeno. Muchísimas gracias por esto. Jeje. Me\nalegra tanto que nos tengas tanto aprecio."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Igual! Eso es exactamente a lo que se refieren\ncuando dicen: \"¡Muestra humanidad a tu enemigo y\nuna zanahoria a tu rival!\""
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡...¿Hmm? ¿Por qué siento que he escuchado algo\nsimilar antes?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dejando a un lado el interesante proverbio, Yaeno\nMuteki parece más que satisfecha de que ambas\ndisfrutaran los platos de zanahoria que ella\npreparó."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Mira esto! ¡Ganaste el tercer premio! ¡Aquí\ntienes tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Hmm, una sola zanahoria..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Creo que la encurtiré. Los encurtidos son geniales\npara reponer los niveles de sodio, y son perfectos\npara picar entre los descansos de entrenamiento."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "También son un buen almuerzo servidos con onigiris\naún.",
+      "choice_data_list": [
+        "¡Qué gran idea!",
+        "¡Qué gran idea!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Así es, si me lo digo yo misma."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Una mirada al brillo de esta zanahoria fue\nsuficiente para convencerme de encurtirla."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿Te gustaría probar un poco cuando esté lista? La\nllevaré a nuestra próxima sesión de entrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, Yaeno Muteki y yo tenemos la\nzanahoria encurtida. ¡Está deliciosa, con la\ncantidad justa de sal!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Ohhh, mala suerte! Parece que sacaste un cero.\nToma este paquete de pañuelos como premio\nconsolatorio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...Ya veo. Esto debió haber sido una prueba.",
+      "choice_data_list": [
+        "¿Una prueba?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Sí. ¿No estabas probando si podría aceptar\ntranquilamente incluso el resultado más amargo de\nla rifa?"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¿Qué? ¡¿Por qué siquiera consideraría hacer algo\nasí?!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Je. No necesitas intentar ocultar la verdad. Sé\nque solo estoy cosechando lo que sembré hace\nmucho, mucho tiempo."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Te mostraré lo capaz que soy de soportar este\nresultado humillante con total compostura!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "<i>Inhala... Exhala...</i>"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Pañuelos... ¿Qué premio más perfecto y\nuniversalmente utilitario se podría pedir?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Je... ¡Mira! Logré convertir un solo ticket de\nrifa en <i>esto</i> de papel."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Si eso no es la definición de buena suerte,\nentonces ¿qué lo es? Y eso no es todo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No diría que Yaeno Muteki está perfectamente\ncompuesta, pero logra mantenerse razonablemente\ncalma, mostrando solo un leve indicio de\ndecepción."
+    }
+  ]
+}
