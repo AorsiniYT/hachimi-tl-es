@@ -1,0 +1,241 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De verdad estoy maldita con el peor timing..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Finalmente descubrí a una gran corredora para\nobtener en la última ronda de pruebas, pero antes\nde que pudiera llamarla, ella ya había firmado\ncontrato con otro entrenador.",
+      "choice_data_list": [
+        "<i>Suspiro...</i> Ya se acabó..."
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Guau, eso fue un suspiro <i>enorme</i>.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Umamusume alegre",
+      "text": "¡Jaja! ¡Fue mi culpa, fue mi culpa! ¿Te asusté?\nSolo estaba echando una siesta bajo la sombra, así\nque no pude evitar notar."
+    },
+    {
+      "name": "Umamusume alegre",
+      "text": "¿Y todo se acabó, dices? ¿Quieres charlar\nsobre la inminente calamidad?\nApuesto a que solo\nhablar de ello te quitará un peso de encima.",
+      "choice_data_list": [
+        "No, no podía cargar a una estudiante con algo\nasí..."
+      ]
+    },
+    {
+      "name": "Umamusume alegre",
+      "text": "Ah, ya veo, ¿así? Entonces supongo que tienes\nproblemas en el trabajo. ¿O tal vez descubriste\nalgún secreto oscuro que la academia está tratando\nde ocultar?!",
+      "choice_data_list": [
+        "Eh... Es lo de los problemas en el trabajo."
+      ]
+    },
+    {
+      "name": "Umamusume alegre",
+      "text": "¡Jajaja! Está bien, tiene sentido. Ser entrenador\nparece bastante difícil. ¿Tienes alguna aprendiz a\nla que estés cuidando ahora mismo?",
+      "choice_data_list": [
+        "E-ehh, había alguien que me interesaba..."
+      ]
+    },
+    {
+      "name": "Umamusume alegre",
+      "text": "¿Oh? Entonces perdiste tu oportunidad con un\nprotegido. ¿Qué más te está molestando ahora?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Poco a poco, ella llega al fondo de mi lucha. Debo\nadmitir que siento el peso quitándose de mis\nhombros con cada pregunta que pasa."
+    },
+    {
+      "name": "Umamusume alegre",
+      "text": "Ahora que te has relajado un poco, ¿por qué no\nrevisas la siguiente ronda de pruebas?",
+      "choice_data_list": [
+        "Gracias. Haré justo eso."
+      ]
+    },
+    {
+      "name": "Umamusume alegre",
+      "text": "Jeje, entonces te estaré buscando. Porque\nescucha—¡voy a correr en ella!"
+    },
+    {
+      "name": "Umamusume alegre",
+      "text": "Y no solo eso—¡será mi primera vez! ¿Te llama la\natención, verdad? ¡O no! Escucha mi intento de\nventa. Sal si te animas, aunque sea."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me dice todo eso con una sonrisa juguetona. No\npuedo evitar sentirme un poco intrigada.",
+      "choice_data_list": [
+        "Lo siento, no capté tu nombre.",
+        "Lo siento, no entendí tu nombre."
+      ]
+    },
+    {
+      "name": "Umamusume alegre",
+      "text": "¿Qué, quieres saber? El nombre es—"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¡Apuesto a que todos tienen los ojos puestos en Mejiro\nRyan hoy! Parece estar\nen gran forma,\ntambién. ¡Espero grandes cosas!"
+    },
+    {
+      "name": "Skilled Trainer B",
+      "text": "Sí, y esa chica a su lado también es una Mejiro,\n¿no? Mejiro... algo o algo... Se ve medio floja en\ncomparación.",
+      "choice_data_list": [
+        "(Su nombre es Mejiro Palmer.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Umamusume que conocí en la azotea ese día es\nmiembro de la prestigiosa familia Mejiro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La familia Mejiro es bastante reconocida por criar\nUmamusume de reputación sobresaliente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En la generación actual hay corredoras talentosas\ncomo Mejiro Ryan y Mejiro McQueen. Han causado un\ngran revuelo desde que se unieron a la academia."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Oh, hola, llegaste! Tengo muchas ganas de\nescuchar algunos vítores, sobre todo ¡porque me\nvoy a dar con todo en la pista!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "No creas que voy a recibir casi tanta atención\ncomo Ryan, sin embargo. Jaja, ni siquiera podría\ncompararme con ella, en serio."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Pero sí, solo observa. Yo también soy una Mejiro,\ndespués de todo. Hoy les voy a demostrar a todos\nque soy digna de llevar ese nombre.",
+      "choice_data_list": [
+        "C-claro. ¡Te estaré animando!",
+        "C-claro. ¡Te estaré animando!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigue tan animada como antes, pero percibo el más\nmínimo indicio de inquietud en su expresión. Con\neso, toma su lugar en la puerta de salida."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Palmer corre al frente. A primera vista,\nparece que ha adoptado una estrategia ganadora\nmodelo.",
+      "choice_data_list": [
+        "(Así que esta es la forma de una dama Mejiro,\n¿eh?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero a medida que la carrera se acerca a su fin..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Ahora! ¡Haa!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "<i>Haa... Haa... Haa...</i>",
+      "choice_data_list": [
+        "(¿Espera, Palmer?!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La van dejando atrás muchas corredoras que hacen\nsus últimos impulsos hacia la meta. Veo la lucha\nen su expresión mientras esa maravillosa forma\nempieza a desmoronarse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Casi como si estuviera corriendo <i>demasiado</i> al pie\nde la letra y jugando a lo seguro.",
+      "choice_data_list": [
+        "(Se está poniendo tensa...)",
+        "(Se está poniendo tensa...)"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "<i>Jaa... jaa...</i> ¡Ahhh, no me digas! ¿Último lugar?"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¿Qué van a pensar de mí? ¡Eso no fue nada de\nMejiro!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¡Sabía que tomarías el primero fácil! El nombre\nMejiro realmente significa algo, ¿no? ¿Te importa\nsi digo una cosa?"
+    },
+    {
+      "name": "Skilled Trainer B",
+      "text": "Sí, eres una Mejiro de pies a cabeza. ¡Podríamos\nusar a alguien tan fuerte como tú en nuestro\nequipo!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Guau, eh... Te alcanzaré, pero ¿podemos hablar\nallá? De lo contrario vamos a atascar las gradas."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Je... ¡Jaja! ¿Por qué estaba tan preocupada por\nestar a la altura del nombre Mejiro? ¡Ni siquiera\nalguien llamaba a <i>mi</i> nombre!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "En serio, me emocioné demasiado con todo esto.\n¿Cómo voy a decepcionar a alguien si ni siquiera\nme están reconociendo?"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Honestamente...",
+      "choice_data_list": [
+        "Um..."
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Oh, eh... ¡Jaja! ¡Oye, oye! ¿Disfrutaste la carrera?\n¿Terminaste viendo a alguien\nque te interese?\nApuesto a que Ryan está en la cima de tu lista,\n¿sí?",
+      "choice_data_list": [
+        "Eso no es—"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "No te preocupes, lo entiendo. La familia Mejiro\nestá llena de tanto talento que es natural que\nalguien como yo no esté en el radar de todos."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Pero no es como si me estuviera rindiendo ni nada,\n¿sabes? Si ahora no tengo lo necesario para\ndestacar, entonces no me queda más que acelerar\naún más. ¡No hay tiempo para ponerse melancólica!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Voy a volver al entrenamiento justo después de\nesto, en serio. Empezaré de nuevo con lo básico y\naumentaré la resistencia, y—",
+      "choice_data_list": [
+        "¿De verdad eso es lo que deberías estar haciendo?"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Huh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo que presencié durante esa carrera fue, sin\nduda, una sensación de presión. Presión para\ncorrer \"como una Mejiro\"."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como resultado, su carrera se sintió rígida. Está\nbien correr manteniéndose fiel a lo básico,\npero... En verdad, eso no le sienta bien a todos.",
+      "choice_data_list": [
+        "I bet there's a running style more suited to you.",
+        "I bet there's a running style more suited to you."
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¿Hm? ¿Un estilo que me quede mejor? ¿Qué..."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "...Ah, gracias. Entonces tendré que pensarlo."
+    }
+  ]
+}
