@@ -1,0 +1,238 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras caminaba por la academia con\nMejiro Palmer..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ugh! ¡La tierra está llena de piedras y cubierta\nde malezas! ¡Esto tomará una eternidad!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Estos campos son el problema! Prez estaba\nbastante molesta, así que pensé en ayudarla\nlimpiándolos."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¿Puedo ayudar si quieres? Soy bastante buena\ncuando se trata de arar la tierra y esas cosas."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿De verdad lo harías? ¡No diré que no! ¡Mil\ngracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, terminamos ayudando en los campos, pero..."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Allá vamos! ¡Raaah!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Uf! ¡Cavar hoyos seguro que hace que la sangre\nbombee!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡¿Qué?! ¿Cómo llegaste tan lejos mientras yo\nestaba atrás?",
+      "choice_data_list": [
+        "¡Wow, manejas la pala como una pro!",
+        "¡Wow, manejas la pala como una pro!"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Bueno, me gané el apodo de \"Campeona de Excavación\nMejiro\" cuando jugaba en la tierra de niña."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Con tanto terreno por cubrir, probablemente tomará\nvarios días limpiar todo. ¡No hay problema!\n¡Sigamos arando hasta el final!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, llegamos a los campos y nos\nrecibió una sorpresa."
+    },
+    {
+      "name": "Palmer Admirers",
+      "text": "¡Buenos días, Palmer! ¡Vinimos a ayudar!",
+      "choice_data_list": [
+        "Eh, ¿ayudar con qué?"
+      ]
+    },
+    {
+      "name": "Admiradora de Palmer A",
+      "text": "¡Con este trabajo de campo! Oímos que necesitabas\nrefuerzo, ¡así que aquí estamos!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Omigosh, ¿en serio?! ¡Yay! ¿Están seguros de\npoder dedicar tiempo, aunque sea?"
+    },
+    {
+      "name": "Admiradora de Palmer A",
+      "text": "No se preocupen, ¡nos aseguramos de liberar\nnuestros horarios para hoy! Estábamos hablando\nayer, ¿saben...?"
+    },
+    {
+      "name": "Admiradora de Palmer A",
+      "text": "Y decidimos que lo menos que podíamos hacer era\nhacer tiempo para ayudarles. Después de todo,\nsiempre nos ayudan, ¡incluso cuando están\nocupadas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ellas tampoco son las únicas que aparecen a\nprestar una mano."
+    },
+    {
+      "name": "Personal de cafetería",
+      "text": "¡Traje suficientes onigiris y bebidas para todas!\n¡También hay montones de acompañamientos!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Yaaay! ¡Honeyade! ¡Nada supera al honeyade\ndespués de trabajar a full! ♪"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Wow! ¡Gracias por traernos tanto! ¡Lo apreciamos\nde verdad!"
+    },
+    {
+      "name": "Personal de cafetería",
+      "text": "Oh, eso no es nada. Tú fuiste quien encuestó a\ntodos por nosotros cuando no podíamos decidir qué\nañadir al menú, ¿recuerdas?"
+    },
+    {
+      "name": "Personal de cafetería",
+      "text": "Así que cuando escuché que tenías un trabajo\ngrande, sabía que tenía que ayudar."
+    },
+    {
+      "name": "Personal de limpieza",
+      "text": "¡Hey! ¡Palmer! ¿Necesitas una mano?",
+      "choice_data_list": [
+        "¿El personal de limpieza también vino?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, nos pusimos a trabajar con un pequeño\nejército para ayudarnos!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Bueno, eso basta! ¡Gracias a todos! ¡No\nhubiéramos terminado tan rápido sin su ayuda!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Muy bien, Teio, ve y dile a Rudolf que los campos\nestán limpios y listos."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Huh?"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Quiero decir, querías presumirle a ella lo rápido\nque terminaste el trabajo, ¿no? Y cuánto esfuerzo\nle pones cada día para lograrlo?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Hnnngh! Hombre, no puedo ganarle a ti...",
+      "choice_data_list": [
+        "¿Ganar contra mí? ¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Qué?! <i>Otra</i> propuesta sobre Palmer?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"Me ayudó a encontrar algo que había perdido\npreguntándole a tantas personas como pudo y lo\nbuscó conmigo hasta la hora de toque de queda\"..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Los estudiantes pueden enviar lo que quieran a\nnuestra caja de propuestas, pero me sorprende\ncuántos escribieron elogios para una persona en\nparticular."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Qué bendición es tener un ángel guardián tan\nsincero y entregado apoyando a la academia desde\nlas sombras."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¿El presidente Rudolf dijo eso de mí? ¡Nah, me\nestá dando demasiado crédito!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Me sorprendió escucharlo de ella también."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Quiero decir, me duele oír eso... pero entiendo de\ndónde viene el Prez."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Sabes cuál es lo más impresionante de que\nescuches a todos y los dejes apoyarse en ti?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Es cómo validas y respetas los sentimientos y\npreocupaciones de todos!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Estoy muy agradecida por tu ayuda, ¡pero no voy a\nperder contra ti, Palmer!",
+      "choice_data_list": [
+        "¡Así es! ¡Sigue con los elogios para Palmer!",
+        "¡Así es! ¡Sigue con los elogios para Palmer!",
+        "¡Parece que vas por buen camino para ser la\npróxima presidenta del consejo estudiantil!",
+        "¡Parece que vas por buen camino para ser la\npróxima presidenta del consejo estudiantil!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Estoy muy agradecida por tu ayuda, ¡pero no voy a\nperder contra ti, Palmer!",
+      "choice_data_list": [
+        "¡Así es! ¡Sigue con los elogios para Palmer!",
+        "¡Así es! ¡Sigue con los elogios para Palmer!",
+        "¡Parece que vas por buen camino para ser la\npróxima presidenta del consejo estudiantil!",
+        "¡Parece que vas por buen camino para ser la\npróxima presidenta del consejo estudiantil!"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Tú también, Entrenadora! ¡Basta de cumplidos!"
+    },
+    {
+      "name": "Personal de limpieza",
+      "text": "¡Pero todavía hay muchísimas cosas buenas que\ndecir de ti! ¡Yo digo que deberíamos armar una\nfiesta para celebrar nuestro esfuerzo y seguir\nhalagándote!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Oh! ¡Una fiesta estaría buenísima! Pero en serio,\n¡basta de elogios!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡No solo halagues a Palmer! ¡Yo también quiero\ndisfrutar de los cumplidos! De todos modos,\n¡vámonos! ¡A la cafetería!"
+    },
+    {
+      "name": "Todos",
+      "text": "Waheeey!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¿Qué?! ¿La próxima presidenta? ¡Ja, claro!"
+    },
+    {
+      "name": "Admiradora de Palmer A",
+      "text": "En realidad, creo que podrías lograrlo. ¡Yo\nplanearé toda tu campaña!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oye! No puedo dejar pasar eso. <i>Yo</i> seré quien tome\nel puesto del Prez, ¿entendido?",
+      "choice_data_list": [
+        "¡Ups! ¡Ya están chisporroteando los fuegos!",
+        "¡Ups! ¡Ya están chisporroteando los fuegos!"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡No, no lo están! ¡Yo ni siquiera intento pelear\npor ese puesto!"
+    }
+  ]
+}
