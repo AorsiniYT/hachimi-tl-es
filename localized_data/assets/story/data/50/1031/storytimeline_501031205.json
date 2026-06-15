@@ -6,7 +6,7 @@
       "text": "Después del Kikuka Sho, hablo con la madre de Ines\nFujin por teléfono."
     },
     {
-      "name": "Mis gemelas están diciendo que quieren asistir al Arima Kinen.",
+      "name": "Madre de Ines",
       "text": "Mis gemelas dicen que quieren asistir al Arima\nKinen."
     },
     {
@@ -21,14 +21,14 @@
       ]
     },
     {
-      "name": "Lamento mucho involucrarte en los asuntos de mi familia...",
+      "name": "Madre de Ines",
       "text": "Lamento mucho involucrarte en los asuntos de mi\nfamilia...",
       "choice_data_list": [
         "Está bien. Me alegra poder ayudar a Ines."
       ]
     },
     {
-      "name": "Muchísimas gracias. Por favor cuida bien a mis hijas.",
+      "name": "Madre de Ines",
       "text": "Muchísimas gracias. Por favor cuida mucho a mis\nhijas."
     },
     {
@@ -48,7 +48,7 @@
       "text": "Oh... están ambas aquí."
     },
     {
-      "name": "Hermana menor B",
+      "name": "Hermanita B",
       "text": "También vas a correr en el Arima Kinen, ¿no?\n¡Mucha suerte! ¡Sé que las vas a aplastar!"
     },
     {
@@ -64,7 +64,7 @@
       "text": "Aún no he ganado suficiente dinero para que\ncontrates a una ayudante por un año, y las hice\npreocupar en el Kikuka Sho..."
     },
     {
-      "name": "No tienes que disculparte. Cassie y yo—",
+      "name": "Hermanita B",
       "text": "No tienes que disculparte. Cassie y yo—"
     },
     {
@@ -72,7 +72,7 @@
       "text": "¡Pero escucha! ¡Prometo que lo lograré! ¡No te\npreocupes por ayudar en la casa ni nada por el\nestilo!"
     },
     {
-      "name": "Hermana menor A",
+      "name": "Hermanita A",
       "text": "...Vamos a hacerlo. Vamos a ayudar. Ya sabemos\ncómo lavar la ropa ahora."
     },
     {
@@ -88,7 +88,7 @@
       "text": "Están haciendo demasiado. Ambas tienen sus propios\nsueños, ¿no? No tienen que intentar—"
     },
     {
-      "name": "Hermana menor A",
+      "name": "Hermanita A",
       "text": "¡Eso no es! Ya tomamos una decisión. ¡Es nuestra\ndecisión! ¡Vamos a dejar de bailar y ayudar a\nmamá!"
     },
     {
@@ -96,7 +96,7 @@
       "text": "No... no tomaste esa <i>decisión—¡fuiste </i>forzada por\n<i>mí! ¡Yo </i>no te di opción!"
     },
     {
-      "name": "¿Por qué no puedes simplemente—",
+      "name": "Hermanita A",
       "text": "¿Por qué no puedes simplemente—",
       "choice_data_list": [
         "Quizá estés <i>imponiendo</i> una decisión a ellas—pero\nno de la forma que piensas."
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "...Estás equivocado.",
+      "name": "Hermanita A",
       "text": "...Estás equivocada."
     },
     {
@@ -130,23 +130,23 @@
       "text": "Huh?"
     },
     {
-      "name": "Polly y yo... nos gusta ver a toda la familia sonreír.",
+      "name": "Hermanita A",
       "text": "Cassie y yo... nos gusta ver a toda la familia\nsonreír."
     },
     {
-      "name": "Hermana menor A",
+      "name": "Hermanita A",
       "text": "Por eso nos gusta bailar. Cuando bailamos, todos\nnos miran con grandes sonrisas en sus caras.\nPero..."
     },
     {
-      "name": "Lo que nos gusta aún más es verte correr con todas tus fuerzas!",
+      "name": "Hermanita B",
       "text": "Lo que nos gusta aún más es verte correr con todo\nlo que tienes."
     },
     {
-      "name": "Queremos verte correr mucho, sonreír mucho y ganar mucho...",
+      "name": "Hermanita B",
       "text": "Queremos verte correr mucho, sonreír mucho y ganar\nmucho..."
     },
     {
-      "name": "¡Ese es el sueño de toda la familia ahora!",
+      "name": "Hermanita B",
       "text": "¡Ese es el sueño de toda la familia ahora!"
     },
     {
@@ -202,7 +202,7 @@
       "text": "¡Oguri! ¡Puedes hacerlo! ¡Creo en ti! ¡Puedes\nganar!"
     },
     {
-      "name": "¡Por favor, Ogurin! ¡Dale todo lo que tienes y gana!",
+      "name": "Fan de Oguri B",
       "text": "¡Por favor, Ogurin! ¡Dale con todo y gana!",
       "color_text_info_list": [
         "Ogurin"
@@ -221,7 +221,7 @@
       "text": "Pues sí. Quiero decir, las carreras de Ines son\nmucho más divertidas si sabes todo el asunto."
     },
     {
-      "name": "Gerente de la tienda de conveniencia",
+      "name": "Gerente de tienda",
       "text": "¡Oh, hola chicas! No esperaba verlas a las dos\naquí en el Arima."
     },
     {
@@ -229,11 +229,11 @@
       "text": "¡Jefe! ¿Y la tienda? ¿No me vas a decir que está\ncerrada?!"
     },
     {
-      "name": "Gerente de la tienda de conveniencia",
+      "name": "Gerente de tienda",
       "text": "Eh, empleo a muchos empleados a tiempo parcial,\n¿sabes? Además, un día libre no es gran cosa...\nEspera, mira—¡ella viene!"
     },
     {
-      "name": "Gerente de la tienda de conveniencia",
+      "name": "Gerente de tienda",
       "text": "Algunos días solo tengo ganas de salir y ver\ncorrer a Ines—mirarla realmente me anima."
     },
     {
