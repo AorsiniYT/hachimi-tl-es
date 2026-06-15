@@ -1,0 +1,68 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Sweep Tosho y yo hacemos un entrenamiento típico,\ncuando..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Uf! ¡Tomemos un pequeño descanso! ¡Quiero un\nhelado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sweep Tosho parece extrañamente letárgica. Me\npregunto si ha estado comiendo demasiados\nbocadillos.",
+      "choice_data_list": [
+        "Si comes azúcar en cada descanso, vas a ganar\npeso.",
+        "Si comes azúcar en cada descanso, vas a ganar\npeso."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Eh... <i>¿Qué</i> acabas de decir?!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡No voy a ganar peso, tonto! ¡Soy una bruja! ¡Eres\ntan tonto! ¡Sin mencionar grosero!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo para confirmar, vamos a la enfermería para\npesarnos.",
+      "choice_data_list": [
+        "¿Cómo te fue?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡N-nada ha cambiado! ¡No he ganado ni una onza!\n¡Estoy en forma perfecta hoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tal vez solo fue mi imaginación. Voy a darle un\nhelado de vainilla, pero..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Al-aleja eso de mí! Quiero decir, eh, ¡me antoja\nmenta con chocolate hoy! ¡No comeré ningún otro\nsabor!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Volvamos al entrenamiento!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sweep Tosho parece extrañamente motivada cuando\nregresamos al entrenamiento."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Jeje! ¡Mira, Familiar! ¡Justo a tiempo!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Siempre he tenido control total de mi peso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De todos modos, me alivia saber que volvió a su\npeso óptimo para carreras."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy vuelvo al set ayudando con la película de\nTaiki Shuttle."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Por fin filmamos el clímax lleno de acción!\n¡Créeme que voy a dar en el clavo con esta\nactuación!"
+    },
+    {
+      "name": "Directora",
+      "text": "¡Hemos llegado lejos, todos! Hoy es un día muy\nimportante en el set, así que demos lo mejor y\nterminemos justo—"
+    },
+    {
+      "name": "Directora",
+      "text": "¿Eso es... lluvia?! ¡No me lo puedo creer!\n¡Rápido, todos, desmonten el set!"
+    },
+    {
+      "name": "Miembro del equipo de cámara A",
+      "text": "Parece que se está calmando por ahora, pero podría\nvolver a intensificarse. Será difícil grabar una\nescena de acción en estas condiciones."
+    },
+    {
+      "name": "Miembro del equipo de cámara B",
+      "text": "Será aún más difícil si tenemos que posponer la\ngrabación. Estamos al límite de nuestra cuerda\ntanto con la fecha límite como con nuestro\npresupuesto.",
+      "choice_data_list": [
+        "(Las cosas se ven bastante graves...)",
+        "(Las cosas se ven bastante graves...)"
+      ]
+    },
+    {
+      "name": "Directora",
+      "text": "Ok, todos. Tendremos que hacerlo en una sola toma.\nEs una escena de acción donde un solo disparo lo\ncambia todo..."
+    },
+    {
+      "name": "Directora",
+      "text": "¡Así que usemos <i>nuestro</i> único disparo para\nclavarlo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Un duelo bajo cielos tormentosos! ¡Genial! ¡Vamos\na poner las cámaras en marcha, chicos!",
+      "choice_data_list": [
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Miembro del equipo de cámara",
+      "text": "¡Allá vamos! Contando diez, nueve, ocho, siete..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "(Todo o nada. Je... Mis piernas empiezan a\nhormiguear. Conozco esta sensación...)"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Jeje. Es como estar en la línea de salida. Frente\na un enemigo fuerte y girando la recámara de tu\nrevólver."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Solo tengo que aprovechar el día. Estar en el\nahora, con todo mi ser, enfocado en lo que tengo\ndelante..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Hora de dar el paso y disfrutar el reto!"
+    },
+    {
+      "name": "Miembro del equipo de cámara",
+      "text": "¡Acción!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Kapow! ¡Kapow!</i>"
+    },
+    {
+      "name": "Miembro del equipo de cámara",
+      "text": "Oh, wow... Mira la expresión de Taiki...",
+      "choice_data_list": [
+        "(Está realmente en la zona...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El barro vuela mientras Taiki Shuttle avanza por\nla escena con una mirada de férrea determinación,\ncúando de repente...",
+      "choice_data_list": [
+        "(¡Oh no!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki Shuttle pisa un charco profundo de barro y\ncae bruscamente. Sin embargo..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yeehaw!",
+      "choice_data_list": [
+        "(¿Se recuperó? ¡Qué poder!)",
+        "(¿Se recuperó? ¡Qué poder!)"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Jajaja! ¡Casi quisiera disfrutar esto para\nsiempre! ¡Pero temo que este sea el final!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Kapow!</i>"
+    },
+    {
+      "name": "Actor enemigo armado",
+      "text": "Hrngh... Ngh... M-maldita sea todo... pensé que te\nhabía dejado sin salida..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Manos arriba, ladrón. Ya terminaste."
+    },
+    {
+      "name": "Directora",
+      "text": "...! ¡Cuuut!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al enfocarse totalmente en el ahora, Taiki Shuttle\nbrinda una actuación asombrosa. Y con eso, el\nrodaje termina."
+    },
+    {
+      "name": "Presentador del festival de cine",
+      "text": "Y el premio al mejor cortometraje estudiantil de\neste año go a... entrada número dos, <i>Duelo en el\nCorral Yasuda</i> !"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Siii! ¡Felicidades, Directora!"
+    },
+    {
+      "name": "Directora",
+      "text": "¡Lo hicimos! ¡Realmente lo hicimos, Taiki!",
+      "choice_data_list": [
+        "¡Felicidades de verdad esta vez!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Muy bien! ¡No puedo contenerme! ¡Vamos a tener\nuna fiesta de baile y brisket esta noche!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Detrás de la energía alegre de Taiki Shuttle hay\nuna Umamusume de fuerza e intensidad. Me alegra\nhaber participado en la película y ver otro lado\nde ella."
+    }
+  ]
+}

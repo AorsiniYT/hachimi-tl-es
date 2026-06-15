@@ -1,0 +1,354 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sweep Tosho",
+      "text": "Como decía la abuela, el mundo de las carreras es\nespecial."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Aparentemente, hay un hechizo increíble que solo\npuede usarse aquí."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿Te refieres a magia de carreras? ¡Sería tan\ngenial si fuera real!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Esto <i>es</i> real! Si piensas que es falso, entonces\nno conoces lo suficiente sobre magia!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Pero bueno, no olvides el entrenamiento de\nmañana!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Entendido! ☆ ¡Voy a darlo todo! ☆",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Jeje. Creo que te vas a sorprender cuando veas a\nSweet Pea correr! ♪",
+      "color_text_info_list": [
+        "Sweet Pea"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Sí! Mejor que lo creas, le demostraré a mi\nfamiliar que soy una maestra digna de su devoción!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy comienza el entrenamiento de Sweep Tosho!",
+      "color_text_info_list": [
+        "Sweep Tosho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quiere probar un entrenamiento de inmediato para\nsentir la magia de las carreras. Creo que está\nllena de motiva—"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Nooo! ¡Increíble! ¡Waaaaay!",
+      "choice_data_list": [
+        "(Uh-oh.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algunas compañeras de Sweep Tosho, Mayano Top Gun,\nBiko Pegasus y Nishino Flower, se quedan junto a\nella mientras ella hace una rabieta.",
+      "color_text_info_list": [
+        "Biko Pegasus",
+        "Nishino Flower"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Eso es! ¡Ya no quiero correr con nadie más! ¡Me\nlargo de aquí!",
+      "choice_data_list": [
+        "¿Y el entrenamiento?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ah, ya entiendo! El corazón de una joven es\ncomplicado, Entrenadora! ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Intenta recordar lo que dijiste justo antes.",
+      "choice_data_list": [
+        "¿Qué fue lo que dije?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recuerdo cuando Sweep Tosho nos presentó a todos\nantes."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Hey! ☆ ¡Vamos a tener una buena carrera hoy! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mayano Top Gun, conocida por su versátil estilo de\ncarrera, y dos sprinters dedicados aparecieron\npara el entrenamiento de hoy.",
+      "choice_data_list": [
+        "¡Guau! ¡Todas son de primera!"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Lo siento. Ajustaron la distancia para nosotras\nesta vez, así que será una carrera de 1,000 metros\nhoy..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nishino Flower se especializa en sprints. Es una\ngenio que mostró su destreza antes que la mayoría\ny obtuvo ingreso temprano a la Academia Tracen.",
+      "choice_data_list": [
+        "Honestamente, es una gran oportunidad para\ncompetir contra todas ustedes!",
+        "Honestamente, es una gran oportunidad para\ncompetir contra todas ustedes!"
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Raaaaah! ¡Estoy súper motivada! ¡Hora de\ncalentar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta es Biko Pegasus. Es una estudiante\ninspiradora determinada a enfrentarse a cualquier\nrival, sin importar qué tan fuerte sea.",
+      "choice_data_list": [
+        "Imagínate si pudiéramos darte valentía como la\nsuya..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Correr con Biko Pegasus seguramente beneficiará a\nSweep Tosho. Al menos, eso pienso, cuando..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Nnngh, ¡hey! Sabes que eres <i>mi</i> familiar, ¿verdad?!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Ugh! ¡Idiota grande!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Tonto, estúpido familiar! ¡Hmph!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿¡Eh?! ¡Sweet Pea?! ¿Qué pasa?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que haya tiempo de detenerla, Sweep Tosho\nsale corriendo de la pista."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desaparece en un abrir y cerrar de ojos, como una\nestrella fugaz. Su velocidad y aceleración son\nincreíbles.",
+      "choice_data_list": [
+        "Es como magia..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay duda—tiene un potencial oculto que nadie\nmás posee."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Para qué estás distraída? ¡Ve tras ella!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Es obvio que ustedes dos son una gran pareja.\nAdemás, no hay necesidad de que se preocupen por\nnosotras."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Así que ve a buscar a Sweep, ¿vale? ☆",
+      "color_text_info_list": [
+        "Sweep"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y entonces, Mayano Top Gun y los demás me animan a\nbuscar a Sweep Tosho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Finalmente la encuentro en la biblioteca!",
+      "choice_data_list": [
+        "¡Sweep! ¡Allí estás!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...¡Hmph! ¡Familiar estúpido! ¡Más tarde, tonto!",
+      "choice_data_list": [
+        "¡Espera!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eh, um... ¿Están discutiendo? Tú y Sweep, quiero\ndecir."
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Esta es Zenno Rob Roy. Está en su año clásico y\nes buena amiga de Sweep Tosho.)",
+      "choice_data_list": [
+        "Bueno, en realidad...",
+        "Bueno, en realidad..."
+      ],
+      "color_text_info_list": [
+        "Zenno Rob Roy",
+        "año clásico"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ya veo. Entonces... se fue antes del entrenamiento\ncon sus amigas, y ahora están aquí...",
+      "choice_data_list": [
+        "¡Sin embargo, fue tan rápida al irse!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Jeje. No puedes ocultar ese brillo en tus ojos."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Desde cierto punto de vista, la arrogancia es\npureza. Y así, como sirviente de mi rey, también\ndebo servir con pureza.",
+      "choice_data_list": [
+        "¿Dices que la arrogancia es pureza?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Oh, um... ¡Es de un libro! Eso es..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Al escuchar lo que dijiste hace un momento...\npensé que sería mejor ser directa con ella.\n...¿Qué piensas?",
+      "choice_data_list": [
+        "¿Debería decirle mis sentimientos honestos? Mmm..."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Qué quieres?",
+      "choice_data_list": [
+        "Te pensé increíble antes.",
+        "Te pensé increíble antes."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿¡Q-qué?! ¡¿Qué te pasa de repente?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le diré mis sentimientos honestos a partir de hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando vi quién corría en el entrenamiento, pensé\nque correr contra ellas sería una gran oportunidad\npara el futuro de Sweep Tosho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso cuando se fue furiosa, no pude evitar\nquedar cautivada por el talento que mostró.",
+      "choice_data_list": [
+        "Pensé que tu forma de correr era mágica.",
+        "Pensé que tu forma de correr era mágica."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Eres tonta? ¿Pensaste que me alegraría solo\nporque dices que soy mágica?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Pero... si realmente piensas eso..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Vamos, Familiar! ¡Voy a correr una vez más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Sweep Tosho da una vuelta más. Cuando la\nveo correr tan cómodamente a una velocidad\nincreíble, solo puedo pensar...",
+      "choice_data_list": [
+        "Sí, realmente corres como magia!",
+        "Sí, realmente corres como magia!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...¡Hmph! ¡No \"como\" magia!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Soy Magical Girl Sweepy, la destinada a descubrir\nel verdadero hechizo mágico para las carreras!",
+      "color_text_info_list": [
+        "Sweepy"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Pero te advierto... ¡la magia de las carreras no\nes fácil de encontrar! Requiere determinación."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "La abuela también me dijo que no podría\nencontrarlo salvo que corra en un montón de\ncarreras reales."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Y como eres mi familiar, ¡debes dedicarte a mí y\nsolo a mí!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hasta que descubra el hechizo de carreras,\nnecesito que me pongas primero! ¡No puedes\nenfocarte en nadie más!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Así que sí... Por si acaso. No creo que esto\nrealmente ocurra, pero..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "En el improbable caso de que veas a alguien mejor\nque yo... ¡todavía necesitas halagarme primero!\n¡No a ella! ¿Entendido?",
+      "choice_data_list": [
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Entonces está sellado! Este es un pacto con tu\nmaestra, ¡así que ni se te ocurra olvidar!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Ahora, ve a buscar a Mayano y a las demás aquí de\nvuelta.",
+      "choice_data_list": [
+        "¿¡Eh?!"
+      ],
+      "color_text_info_list": [
+        "Mayano"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Oye! ¡Los familiares se supone que deben estar\ndedicados a sus maestros! Ya tuviste la\noportunidad de ser útil, ¡así que dale con todo!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿No dijiste que organizar una práctica con ellas\nsería bueno para mi futuro?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y así, mi aventura como familiar sobrecargada de\nuna chica mágica exigente en busca de magia de\ncarreras ha comenzado oficialmente!"
+    }
+  ]
+}

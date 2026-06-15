@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Antes de comenzar nuestro entrenamiento del día,\nle enseño a Sweep Tosho la rutina de hoy."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...No. Cada vez que corro en el barro, se mete en\nmis zapatos, así que no lo haré."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Tampoco me gusta entrenar en la rampa. Me cansa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sweep Tosho no parece estar de humor para\ncolaborar. Tal vez pueda interesarla con...",
+      "choice_data_list": [
+        "Podemos hacer un entrenamiento de magia durante\nlos descansos."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...No."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡No tengo ganas de moverme hoy! ¡Me quedaré aquí\nviendo la tele! ¡No me moveré ni un centímetro de\neste lugar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ni siquiera se anima con algo que le interese.\nPuede que aún esté agotada por las carreras, así\nque tal vez deba replantear su horario."
+    }
+  ]
+}

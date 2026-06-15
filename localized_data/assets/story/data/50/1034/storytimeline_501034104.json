@@ -1,0 +1,281 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al acercarse el fin del campamento, los\nestudiantes participan en una caminata nocturna\ncomo parte de sus actividades recreativas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque oficialmente se llama caminata nocturna, en\nla práctica es más una \"noche de sustos\". He\nvenido a vigilar a todos."
+    },
+    {
+      "name": "Inari One",
+      "text": "Jeje, supongo que los sustos nocturnos van de la\nmano con el verano... Suena divertido, ¿no?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Espectros o fantasmas, lo que sea, puedo con\ntodos!",
+      "choice_data_list": [
+        "...¿Te asustan fácil?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Qué pregunta tan tonta! ¿Es algún tipo de broma?\n¡Nada asusta a la poderosa Inari One!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Esto será pan comido, ¡solo observa!"
+    },
+    {
+      "name": "Organizador estudiantil",
+      "text": "Muy bien, una vez que saques a tu compañera de la\ncaja, dirígete al área designada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Resulta que la compañera de Inari One es Tamamo\nCross—una corredora valiente nacida y criada en\nKansai que ha estado subiendo los rangos\nconstantemente.",
+      "color_text_info_list": [
+        "Tamamo Cross"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como Inari One, su carácter alegre la vuelve\nbastante confiable para los demás. Sin embargo..."
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Qué pasa, Tama? ¿Te estás asustando o qué? ¿Vas a\nllorar en casa con mamá?",
+      "color_text_info_list": [
+        "Tama"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "<i>¡P-por favor! </i>Todos sabemos que serás tú la que\nllore. ¡Ya te veo temblando bajo las sábanas!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Je! ¡Dame un respiro! No engañas a nadie con esas\npiernas temblorosas."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Ja! ¿Escuchas ese temblor en tu voz? ¡No durarás\nni un segundo y lo sabes!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Grrrr!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Grrrr!",
+      "choice_data_list": [
+        "Me suena a que ambos están asustados—"
+      ]
+    },
+    {
+      "name": "Inari y/e Tamamo",
+      "text": "¿Qué fue eso? ¿Qué fue eso?"
+    },
+    {
+      "name": "Organizador estudiantil",
+      "text": "Tamamo Cross e Inari One, les toca a ustedes.\n¡Buen viaje!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus caras aún se ven un poco tensas. Tal vez pueda\nsugerir algo para calmar sus nervios...",
+      "choice_data_list": [
+        "Gritar puede ayudar a olvidar el miedo.",
+        "No hay nada de malo en caminar rápido a través de\ntodo."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Suena como un consejo que Tama necesita! Siempre\nestás gritando, ¿por qué no dejarlo salir?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Qué? ¡Escúchate a ti misma! ¡Eres tú quien grita\ntodo el tiempo! ¡Deja de contenerte—yo me taparé\nlos oídos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, comienzan su alborotado viaje en la\nnoche..."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Vaya, vaya, vaya! ¡Esto es justo lo que el doctor\nrecetó! ¡Una agradable caminata relajante en el\nambiente curativo de la naturaleza!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Exacto! ¡Qué silencio y relax! Sí... Mi corazón\nse siente en paz—"
+    },
+    {
+      "name": "Obscure Noise",
+      "text": "<i>¡Susurro, susurro!</i>"
+    },
+    {
+      "name": "Inari y/e Tamamo",
+      "text": "¡Hyeee!"
+    },
+    {
+      "name": "Obscure Noise",
+      "text": "<i>¡Crujido, crujido!</i>"
+    },
+    {
+      "name": "Inari y/e Tamamo",
+      "text": "Gyaaah!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Qué pasa contigo? ¡Deja de chillar como una loca!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Eres tú quien suena como si fuera a llorar!"
+    },
+    {
+      "name": "Obscure Noise",
+      "text": "<i>¡Whoooosh!</i>"
+    },
+    {
+      "name": "Inari y/e Tamamo",
+      "text": "..."
+    },
+    {
+      "name": "Inari y/e Tamamo",
+      "text": "¡AAAAAGH!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Qué demonios? ¿Por qué tienes que gritar tan\nfuerte? ¡Sabía que eras una gran miedosa!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Ay, cállate! ¡Eres tú quien me <i>está volviendo\n</i>sordo! Juro que estar rodeada de miedosos como\ntú es malo para mi salud!"
+    },
+    {
+      "name": "Obscure Noise",
+      "text": "<i>¡Susurro, susurro... WHOOOOSH!</i>"
+    },
+    {
+      "name": "Inari y/e Tamamo",
+      "text": "¡HYAAAAAGH!"
+    },
+    {
+      "name": "Inari One",
+      "text": "<i>Pant, pant...</i> F-finalmente salimos de ahí..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "<i>¡Haa... Haa...</i> Creí que iba a perder la voz..."
+    },
+    {
+      "name": "Inari One",
+      "text": "...Oye, Tama."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Inari."
+    },
+    {
+      "name": "Inari y/e Tamamo",
+      "text": "No le cuentes a nadie lo que pasó esta noche?\nGenial. ¿No le cuentes a nadie lo que pasó esta\nnoche? Genial."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En la quietud de la noche, Inari One y Tamamo\nCross comparten un recuerdo secreto de verano."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Sí, seguro que te gusta, ¿no, Tama? Adelante,\nmarca el ritmo y yo te seguiré! Ya puedes\nagradecerme después!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡¿Qué?! ¡Habla por ti! Deberías <i>agradecerme por\n</i>perseguirte cuando finalmente te pierdas\nintentando escapar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, comienzan su alborotado viaje en la\nnoche..."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Vaya, vaya, vaya! ¡Esto es justo lo que el doctor\nrecetó! ¡Una agradable caminata relajante en el\nambiente curativo de la naturaleza!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Exacto! ¡Qué silencio y relax! Sí... Mi corazón\nse siente en paz—"
+    },
+    {
+      "name": "Obscure Noise",
+      "text": "<i>¡Susurro, susurro!</i>"
+    },
+    {
+      "name": "Inari y/e Tamamo",
+      "text": "¡Hyeee!"
+    },
+    {
+      "name": "Obscure Noise",
+      "text": "<i>¡Crujido, crujido!</i>"
+    },
+    {
+      "name": "Inari y/e Tamamo",
+      "text": "Gyaaah!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Qué pasa contigo? ¡Deja de chillar como una loca!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Eres tú quien suena como si fuera a llorar!"
+    },
+    {
+      "name": "Obscure Noise",
+      "text": "<i>¡Whoooosh!</i>"
+    },
+    {
+      "name": "Inari y/e Tamamo",
+      "text": "..."
+    },
+    {
+      "name": "Inari One",
+      "text": "Jeje... Está bien. Sé que quieres escapar!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Qué? ¡Deja de intentar sonar dura! ¡Te notas\nansiosa por irte, lo percibo!"
+    },
+    {
+      "name": "Obscure Noise",
+      "text": "<i>Susurro, susurro... ¡WHOOOOSH!</i>"
+    },
+    {
+      "name": "Inari y/e Tamamo",
+      "text": "...!"
+    },
+    {
+      "name": "Inari One",
+      "text": "<i>Pant, pant...</i> Estoy complet... agotada..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "<i>Haa... Haa...</i> Eso pudo haber sido lo más rápido\nque jamás corrí..."
+    },
+    {
+      "name": "Inari One",
+      "text": "...Oye, Tama."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Inari."
+    },
+    {
+      "name": "Inari y/e Tamamo",
+      "text": "¿No le digas a nadie lo que pasó esta noche? Cool.\n¿No le digas a nadie lo que pasó esta noche? Cool."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En la quietud de la noche, Inari One y Tamamo\nCross comparten un recuerdo veraniego secreto."
+    }
+  ]
+}

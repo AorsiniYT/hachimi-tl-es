@@ -1,0 +1,567 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llevo a <chrname> a la clínica para un\nchequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! ¡Una cliente—quiero decir, una estudiante!\n¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás herida? ¿Enferma? ¿Estresada? Lo que sea,\nlo trato todo!",
+      "choice_data_list": [
+        "¿Quién eres?¡"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la clínica de la\nacademia, diría que eso me convierte en tu\nconfiable enfermera escolar. ¡Sí, solo una\nempleada escolar más!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajá! Supongo que no hay forma de engañarte. Creo\nque debo comenzar dándote mi nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ejem! Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (probable) salvadora de todas las\nUmamusume, la (autoproclamada) legendaria\nacupunturista con tacto mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única e inigualable Sasami Anshinzawa! ¿Ves?\n¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "..."
+      ],
+      "color_text_info_list": [
+        "Sasami Anshinzawa"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Algo huele raro... ¡Debe ser del mundo demoníaco!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya! ¡Pareces muy preocupada! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos hemos presentado,\nasí que acuéstate y deja que ponga estas agujas en\nacción!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Agujas? ¿Es ese el arte perdido que fortalece el\npoder mágico? ¡Debes ser de alto rango en el mundo\ndemoníaco para manejar tal magia ancestral!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay que temer! Lo único que haré es\ndeslizar estas extraordinarias agujas precisamente\nen tus puntos de chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y listo, presto! ¡Algo indescriptible sucederá!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y déjame asegurarte, ¡no hay nada sospechoso en\nesto! ¡Nunca ha fallado, siempre es perfecto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Por mi maestro.",
+      "choice_data_list": [
+        "¿Por tu maestro? ¡¿Y por ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Es mi primera vez, así que\ntécnicamente, ¡nunca he fallado a una paciente\ntampoco!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es como si no tuviera experiencia! Pasé diez\naños bajo una maestra legendaria, ¡buscando\ndren—quiero decir, entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí, ya!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay forma de que hagamos esto. Tomo a <chrname> y me\ndirijo a la puerta, cuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¿A dónde vas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Eres Sweep Tosho, ¿no? ¡La Umamusume genio con un\npotencial oculto increíble! ¿Apuntas a ser una\nbruja, verdad?",
+      "choice_data_list": [
+        "¿Has oído de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿La he escuchado? ¡Claro que sí! ¡Soy una gran\nfan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Exactamente por eso estoy aquí! Para darte mi\napoyo! ¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Solo dame una oportunidad! ¡Por favor!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Mmmm... ¿Así que te acercaste porque me\nreconociste? ...Bueno, esto podría ser un buen\npaso en mi camino para convertirme en una gran\nbruja!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Porfis con una zanahoria encima!\n¡Incluso te dejo elegir qué chakra activaré!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Estoy <i>segura</i> de que no la arruinaré!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... bastante segura.",
+      "choice_data_list": [
+        "<i>Bastante</i> segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Quiero decir, está del lado seguro! Eso es\n<i>bueno,</i>¿no? De todos modos, ¡no te atasques\nen los detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debería activar?\n¿Quieres un impulso a tus habilidades? ¿Tu salud?\n¿O tal vez tu <i>encanto?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Huelo peligro en el aire, pero creo que podría —y\nenfatizo <i>podría</i>—haber una oportunidad de obtener\nalgo especial de este tratamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué deberíamos hacer?",
+      "choice_data_list": [
+        "Activa el chakra de fuerza.",
+        "Activa el chakra de victoria.",
+        "Activa el chakra de salud.",
+        "Activa el chakra de encanto.",
+        "Esto es muy sospechoso. Mejor nos retiramos\nmientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Entonces quieres que active el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Entonces, ¡pongámonos en marcha! ¿Estás lista? ¡No\nhay vuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Es hora de encontrar\nese chakra! ¡Ollie, ollie, libre de bueyes!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relaaax... ¿Ves? ¡Sin preocupaciones!\n☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y... ¡pincha!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Kyah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción perfecta!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Oh! ¿Qué es <i>esto?!</i> Todo mi cuerpo está cálido...\n¡Estoy rebosando de poder mágico!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡El contrato se ha sellado! ¡Siento que ahora\npuedo lanzar magia de alto nivel!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Jaa...</i> No puede ser... ¿De verdad funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo creo! ¡Soy una genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> está desbordando tanto poder que casi no se\nreconoce!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nos arriesgamos y valió la pena! ¡Este es un gran\nsalto hacia lograr nuestro objetivo!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Ugh... ¿Qué demonios es esto?! ¡Me siento fatal!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Eres un tonto enorme y estúpido! ¡Esta es la peor\nmagia que he visto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Entonces... eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿has visto la hora? Debería irme ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido que no debía probar nuestra\nsuerte. No soy quien sufre, pero estoy lleno de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra ganador?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces, vamos a empezar! ¿Estás listo? ¡No hay\nvuelta atrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Está bien, déjamelo a mí! ¡Hora de localizar ese\nchakra! ¡Ollie, ollie, libre de bueyes!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relaaax... ¿Ves? ¡Sin preocupaciones!\n☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y... ¡pinchazo!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Kyah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción perfecta!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Oh! ¿Qué es <i>esto?!</i> Todo mi cuerpo está\ncaliente... ¡Estoy rebosando de poder mágico!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡El contrato se ha sellado! Siento que ahora puedo\nlanzar magia de alto nivel!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Jaa...</i> ¿Estás bromeando...? ¿En serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puedo percibir una gran mejora en las habilidades\nde <chrname>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nos arriesgamos y valió la pena! ¡Este es un gran\nsalto hacia nuestro objetivo!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Ugh... ¿Qué demonios es esto? ¡Me siento fatal!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Idiota grande y estúpido! ¡Esta es la peor magia\nque he visto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Entonces... eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, mira la hora! ¡Tengo que irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido que no debía probar nuestra\nsuerte. No soy quien sufre, pero estoy lleno de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de localizar ese\nchakra! ¡Ollie, ollie, libre de bueyes!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relaaax... ¿Ves? ¡Sin preocupaciones!\n☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y... ¡pincho!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Kyah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción perfecta!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Oh! ¿Qué es <i>esto?!</i> Todo mi cuerpo está cálido...\n¡estoy rebosante de poder mágico!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡El contrato se ha sellado! ¡Siento que ahora\npuedo lanzar magia de alto nivel!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Jaa...</i> ¿Estás bromeando...? ¿En serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo creo! ¡Soy un genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> irradia un brillo saludable por todo el cuerpo.\n¡Es la imagen perfecta de la salud!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nos arriesgamos y valió la pena! ¡Este es un gran\nsalto hacia nuestro objetivo!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Ugh... ¿Qué demonios es esto? ¡Me siento fatal!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Idiota grande y estúpido! ¡Esta es la peor magia\nque he visto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Entonces... eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, mira la hora! ¡Tengo que irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido que no debía probar nuestra\nsuerte. No soy quien sufre, pero estoy lleno de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra del encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjamelo a mí! ¡Hora de localizar ese\nchakra! ¡Ollie, ollie, libre de bueyes!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relaaax... ¿Ves? ¡Sin preocupaciones!\n☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y... ¡pincho!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Kyah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción perfecta!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Oh! ¿Qué es <i>esto?!</i> Todo mi cuerpo está cálido...\n¡estoy rebosante de poder mágico!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡El contrato se ha sellado! ¡Siento que ahora\npuedo lanzar magia de alto nivel!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Jaa...</i> ¿Estás bromeando...? ¿En serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo creo! ¡Soy un genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> desborda encanto. ¡Seguramente llamará la\natención dondequiera que vaya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nos arriesgamos y valió la pena! ¡Este es un gran\nsalto hacia nuestro objetivo!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Ugh... ¿Qué demonios es esto? ¡Me siento fatal!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Idiota grande y estúpido! ¡Esta es la peor magia\nque he visto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Entonces... eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, mira la hora! ¡Tengo que irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido que no debía probar nuestra\nsuerte. No soy quien sufre, pero estoy lleno de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos, no seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Reconsiderar."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú allí! ¡Espero que sepas que los intrusos\n<i>serán</i> procesados!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Detente ahí!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Huh. Supongo que al final solo era una rara. Y\npensar que casi nos engaña."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Voy a demostrar que puedo subir de nivel por mi\ncuenta! ¡Soy una chica mágica genio, no necesito\nmagia ancestral!",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo curiosidad por quién es realmente este\npersonaje Anshinzawa, pero no sirve de nada darle\nvueltas. Mejor olvidar hoy y seguir adelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Cambiaste de parecer? No hay problema, pasa."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Entonces dime cuál chakra quieres que active, ¡ya!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Qué pasa?! ¡No nos dejes en suspenso! Espera un\nsegundo... ¿Cuánto tiempo llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú allí! ¡Espero que sepas que los intrusos\n<i>serán</i> procesados!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, me largo de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Detente ahí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La situación da un giro brusco antes de que pueda\ndecidir."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿De qué se trató eso? <chrname> y yo nos miramos\ndesconcertados."
+    }
+  ]
+}

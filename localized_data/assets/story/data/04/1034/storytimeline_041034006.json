@@ -1,0 +1,263 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En uno de mis días libres, estoy recorriendo la\nciudad juntando libros y otros recursos para usar\nen el entrenamiento de Inari One, cuando..."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Jefe, qué sorpresa verte aquí! ¿Qué onda?\n¿Comprando algo?",
+      "choice_data_list": [
+        "Algo así. ¿Y tú?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Jefe, qué sorpresa verte aquí! ¿Qué onda?\n¿Comprando algo?",
+      "choice_data_list": [
+        "Algo así. ¿Y tú?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Verás, mis viejas compañeras van a venir de visita\npronto, así que busco lugares para llevarlas.\nTengo que hacer que su viaje valga la pena."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Pero hombre, qué opciones! Cada lugar al que voy\nes tan chido como el anterior!"
+    },
+    {
+      "name": "Inari One",
+      "text": "...¡Eso es! Tienes buen ojo para estas cosas, ¿no?\n¿Tienes algún lugar favorito? ¿Me llevas a verlo?",
+      "choice_data_list": [
+        "Claro, vámonos."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "...¡Eso es! Tienes buen ojo para estas cosas, ¿no?\n¿Tienes algún lugar favorito? ¿Me llevas a verlo?",
+      "choice_data_list": [
+        "Claro, vámonos."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Guau, mil gracias! Sabía que podía contar\ncontigo, Jefe!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Guau, mil gracias! Sabía que podía contar\ncontigo, Jefe!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Qué demonios con este parfait elegante? ¡Hasta\nlleva flores... Ohhh, ¿así es lo que llaman\n\"estético\"?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Oho! ¡Todos andan en traje de baño! Y alguien\nallá está bailando... ¡Parece un festival!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Oh, ¿una sala de billar? He visto algunos\npartidos, así que a ver si gano de un tiro!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Sí, este lugar también está bien chido. ...¿Qué es\neso allá?"
+    },
+    {
+      "name": "Inari One",
+      "text": "Regreso en seguida, voy a checar esto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siempre cuidadosa de avisarme a dónde va, Inari\nOne se adentra más en la tienda. Es muy\nconsiderada con los demás."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con sus compañeras de Oi llegando a la ciudad,\nquizá sea una buena excusa para que ella se relaje\ny se suelte el pelo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Inari One mira alrededor, yo decido\ncuriosear la tienda por mi cuenta..."
+    },
+    {
+      "name": "Cliente",
+      "text": "Te dije que estaba roto cuando llegué a casa. ¿No\npuedes simplemente cambiarlo?"
+    },
+    {
+      "name": "Empleado de tienda",
+      "text": "Señor, no estaba roto cuando lo empaquetamos para\nque lo llevara a casa. Um... ¿será que lo\ngolpeaste al volver?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fue entonces cuando escuché una discusión muy\nacalorada en la caja de la tienda. El cliente\nparece que quiere agarrar al pobre empleado de la\ngarganta...",
+      "choice_data_list": [
+        "(Inari sigue al otro lado de la tienda, ¿no?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por mucho que quiera ayudar al empleado, tengo que\nasegurarme de que no se meta en... altercados.\nPero como está fuera de mi vista, decido ayudarlo.",
+      "choice_data_list": [
+        "Oye, um, ¿por qué no nos calmamos todos..."
+      ]
+    },
+    {
+      "name": "Cliente",
+      "text": "¿¡Qué?! ¿Quién demonios eres? ¡Ocúpate de lo tuyo\ny lárgate! O quizá... ¿quieres tomar el lugar de\neste tonto y—"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Ey, grande! Tengo que decir que me gusta tu\nactitud. ¡Parece que estás listo para intercambiar\npuñetazos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando el hombre dirige su ira hacia mí, una\nfigura diminuta entra en escena."
+    },
+    {
+      "name": "Inari One",
+      "text": "Parece que tienes quejas. Pero ya sabes lo que\ndicen... ¡Las acciones hablan más que las\npalabras! ¡Vamos, resuélvelo a la a vieja usanza!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Y el perdedor no puede ir a llorar a casa con\nmamá, ¿entendido? Ahora, ¿qué piensas? ¿Una\ncarrera a pie? O tal vez—"
+    },
+    {
+      "name": "Cliente",
+      "text": "E-espera, ¿estás sugiriendo que peleemos?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Qué, te preocupa o qué? No te agobies, ¡seré tu\nárbitro! Me encargaré de que lo resuelvan de forma\njusta."
+    },
+    {
+      "name": "Cliente",
+      "text": "No busco pelea. Solo... ah, uff... Creo que perdí\nlos nervios allí..."
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Qué pasa? Creo que tendré que esperar para\narbitrar una pelea callejera. Perdón por el\nmalentendido. Me perdonas, ¿no?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El cliente parece atónito mientras Inari One le\nlanza una sonrisa. Él toma una respiración\nprofunda antes de continuar... Parece que al fin\nse calmó."
+    },
+    {
+      "name": "Cliente",
+      "text": "...Um, fue mi culpa. Compré esto como regalo para\nmi novia, ¿sabes? Verlo todo destrozado me alteró."
+    },
+    {
+      "name": "Cliente",
+      "text": "Les debo una disculpa a todos... Lo siento. Y,\nseñorita... gracias por detenerme."
+    },
+    {
+      "name": "Inari One",
+      "text": "Vaya, Jefe, ¡meterte en medio de esa bronca tomó\nmucho valor!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Vaya, Jefe, ¡meterte en medio de esa bronca tomó\nmucho valor!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Podrías haberlos ignorado, pero hiciste lo\ncorrecto!",
+      "choice_data_list": [
+        "Tú también fuiste bastante genial."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Ay, vamos, me estás avergonzando! Jeje, no es que\nme moleste oír eso de ti."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si Inari One no hubiera intervenido, las cosas\npodrían haberse puesto feas rápido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Afortunadamente, el hombre se calmó, pero al\npensar en lo que podría haber pasado si todo\nhubiera ido al revés..."
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Hm? ¿Qué pasa? ¿Por qué me miras así? ¿Hay algo\nen mi cara?",
+      "choice_data_list": [
+        "No hagas nada peligroso, ¿vale?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yo soy quien metió la pata esta vez, pero quiero\nevitar ponerla en peligro tanto como sea posible."
+    },
+    {
+      "name": "Inari One",
+      "text": "Jeje, me preguntaba por qué estabas tan serio..."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Pero le estás hablando a LA Inari One! ¡Y eso\ndebería ser <i>mi</i> línea!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Eres demasiado buena, ¿lo sabías, Jefe? Quiero\nayudar, pero no tenías que hacerlo sola."
+    },
+    {
+      "name": "Inari One",
+      "text": "Eres demasiado buena, ¿lo sabías, Jefe? Quiero\nayudar, pero no tenías que hacerlo sola."
+    },
+    {
+      "name": "Inari One",
+      "text": "Estás pensando en qué habría pasado si ese tipo\nintentara pelear contigo, ¿no? Bueno, mis chances\nen una pelea son mucho mejores que las tuyas."
+    },
+    {
+      "name": "Inari One",
+      "text": "Quiero decir, ¡soy una Umamusume, ya sabes! ¡Le\nhabría dejado a ese matón fuera de la semana!",
+      "choice_data_list": [
+        "Pero..."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Cuando te perdiste, yo te ayudé, ¿cierto? Y hoy,\ntú me ayudaste mostrándome el lugar."
+    },
+    {
+      "name": "Inari One",
+      "text": "Solo lo digo una vez más, así que escucha—¡No\ntienes que hacer todo sola!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Si puedes, ¿por qué no pedir ayuda a un experto?\nHay una herramienta adecuada para cada trabajo,\n¿no?",
+      "choice_data_list": [
+        "Sí, pero..."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Jefe, no tienes que ser tan serio... Ah, parece\nque el sol se está despidiendo. ¡Deberíamos hacer\nlo mismo!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Jefe, no tienes que ser tan serio... Ah, parece\nque el sol se está despidiendo. ¡Deberíamos hacer\nlo mismo!"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Entiendo que eres tan serio como pueden ser,\nJefe. Créeme, lo sé mejor que nadie.)"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Entiendo que eres tan serio como pueden ser,\nJefe. Créeme, lo sé mejor que nadie.)"
+    },
+    {
+      "name": "Inari One",
+      "text": "(¡Pero vaya, esa actitud sí que te metió en\nproblemas hoy! Jeje, mejor vigilo tus pasos, ¿o\nno?)"
+    },
+    {
+      "name": "Inari One",
+      "text": "Sabes, creo que le contaré a las chicas de Oi lo\nde hoy! ¡Que sepan que me diste tu tour personal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Inari One sonríe mientras me da unos palmadas más\nen la espalda."
+    }
+  ]
+}

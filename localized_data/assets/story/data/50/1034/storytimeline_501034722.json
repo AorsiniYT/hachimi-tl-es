@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Inari One",
+      "text": "¡Ugh! ¡Me late la cabeza como loca desde esta\nmañana!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Es lo que hay. Supongo que me pondré una cinta en\nla cabeza por ahora.",
+      "choice_data_list": [
+        "¿Por qué una cinta?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Por qué? ¿No lo sabías? ¡La mejor cura para el\ndolor de cabeza es una cinta!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Si te atas una cinta alrededor de las sienes,\nayudará a aliviar el dolor.",
+      "choice_data_list": [
+        "¿Ah... en serio?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "La expresión en tu cara dice que no me crees."
+    },
+    {
+      "name": "Inari One",
+      "text": "Tengo la certeza de haber escuchado algo sobre\naliviar el dolor aplicando presión a los vasos\nsanguíneos de la cabeza..."
+    },
+    {
+      "name": "Inari One",
+      "text": "Ugh... Pensar mucho lo hace doler más..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le aconsejo a Inari One que tome medicina en vez\nde usar una cinta, pero el dolor de cabeza sigue\nmolestándola un rato."
+    }
+  ]
+}

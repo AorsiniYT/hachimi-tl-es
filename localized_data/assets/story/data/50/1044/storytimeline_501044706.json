@@ -1,0 +1,287 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Nooo! ¡No quiero ir a casa todavía!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sweep Tosho y yo estamos en una situación después\nde un día fuera.",
+      "choice_data_list": [
+        "Pero realmente necesitamos volver."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Pero por qué? ¡Aún no está oscuro!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Quiero seguir y comer algo ¡dulce!",
+      "choice_data_list": [
+        "Lo sé, pero..."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡La hora de brujas recién está empezando! ¡No\nvuelvo! ¡De ninguna manera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me alegra que se haya divertido hoy, pero debemos\nvolver pronto, o interferirá con sus planes más\ntarde."
+    },
+    {
+      "name": "Niños",
+      "text": "¡Ajá! ¡Oye, ven a buscarme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese momento, noto a unos niños que parecen\nestar intentando exprimir cada momento de\ndiversión antes de que cada uno tenga que volver a\ncasa.",
+      "choice_data_list": [
+        "¡Muy bien, vamos a divertirnos!",
+        "¡Crucemos ese círculo mágico!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Hmph! ¡Eso es lo que deberías haber dicho desde\nel principio!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Solo vamos al tr—",
+      "choice_data_list": [
+        "Voy a hablar rápido con esos niños.",
+        "Voy a hablar rápido con esos niños."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...¿Eh?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le pregunto a los niños si podemos unirnos a su\njuego y de buena gana aceptan. Sin embargo...",
+      "choice_data_list": [
+        "¡Vamos, Sweep!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡No! ¡No quiero jugar a juegos de niños!"
+    },
+    {
+      "name": "Niño A",
+      "text": "¿No va a jugar? ¡Okay, sigamos corriendo!",
+      "choice_data_list": [
+        "Ah, s-sí..."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Humph... Hrm... GRRRRR!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que se está poniendo más y más molesta. Me\npregunto cómo puedo lograr que se divierta..."
+    },
+    {
+      "name": "Niño B",
+      "text": "Oye, ¿puedes romper esta rama? Quiero hacer una\nespada.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Hacer espadas suena como algo que a Sweep Tosho\nle encantaría!",
+      "choice_data_list": [
+        "Parece que vamos a necesitar algo de magia...",
+        "Parece que vamos a necesitar algo de magia..."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...! ¿Alguien dijo magia?"
+    },
+    {
+      "name": "Niño B",
+      "text": "No, solo necesito a un adulto que lo rompa por mí.",
+      "choice_data_list": [
+        "¡Oh! ¡Pero aquí tenemos una bruja!"
+      ]
+    },
+    {
+      "name": "Niño A",
+      "text": "¿Eh? ¿Puedes usar magia?"
+    },
+    {
+      "name": "Niño C",
+      "text": "¡Guau! ¡Eso es increíble! ¡Quiero ver!\n¡Muéstranos! ¡Muéstranos!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...!",
+      "choice_data_list": [
+        "¿Lanzarás un hechizo para todos?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Vale! ¡Supongo que puedo si de verdad lo quieres!\n♪♪"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Dimorphotheca poderosa! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Crack!</i>"
+    },
+    {
+      "name": "Niños",
+      "text": "¡Wow, hiciste dos espadas! ¿Cómo lo dividiste de\nforma tan perfecta? ¡De verdad parecía magia!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Porque realmente <i>es</i> magia! ¡Encontré un punto\ndébil y concentré mi magia allí!",
+      "choice_data_list": [
+        "(Bueno, fue más el poder de sus manos que\nmagia...)"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Aquí, he encantada esta espada con poder mágico.\n¡Cuídala bien!"
+    },
+    {
+      "name": "Niño B",
+      "text": "Um... Sí... Lo haré, gracias..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso pone a Sweep Tosho de buen humor y ella juega\ncon todos después."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Estoy cansada. ¡Vamos!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Qué círculo mágico?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...¿Te refieres a esos círculos de rayuela?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sweep Tosho señala una larga fila de círculos que\nalgunos niños garabatearon en el suelo."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Esos fueron dibujados por niños. No tienen ningún\npoder.",
+      "choice_data_list": [
+        "En realidad, entre tú y yo..."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Qué?",
+      "choice_data_list": [
+        "La persona que los dibujó es en realidad una bruja\nque vive por aquí."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿En serio? ¡Cuéntame más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico que los círculos están encantados para\ndarte más fuerza cuanto más los atraviesas."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Estás suuura?",
+      "choice_data_list": [
+        "(¡Ugh!)"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Supongo que solo hay una forma de averiguarlo.\n¿Cuál es el orden en que debes saltar?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Salta, salta, salta...)"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...¡Guau!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Madre mía! ¡Me siento repleta de magia!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Espera... ¡Esto es realmente magia! ¡Increíble!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No están realmente encantados, pero parece que\nhubo un efecto placebo. Ella está de buen humor.",
+      "choice_data_list": [
+        "(Ahora solo nos falta volver a la academia...)"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Qué pasa? Siento que toda mi fuerza se está\ndrenando..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Ah, ya lo entiendo! ¡Estos círculos mágicos no\nestán completos!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Así que haz algo, Familiar! ¡Están perdiendo su\nmagia!",
+      "choice_data_list": [
+        "¿¡Eh?!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Apúrate! ¡Muévete!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Ok, entonces el siguiente es esa mancha blanca?!\n¡Entendido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se me ocurrió la idea de seguir el camino de\ncírculos mágicos por las partes blancas del cruce\npeatonal... y logré traerla de vuelta al campus."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Espera, ¡se detuvieron! ¿Dónde está el próximo\ncírculo mágico?!"
+    }
+  ]
+}

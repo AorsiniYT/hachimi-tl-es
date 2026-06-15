@@ -1,0 +1,386 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras Sweep Tosho y yo nos preparamos\npara la gira de Tiara..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Vamos, Familiar!",
+      "choice_data_list": [
+        "¿Ir a dónde?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Basta de parloteo. Cuando digo \"¡vamos,\" entonces\n<i>¡vámonos!</i> ¡Apúrate y prepárate! ¡Más rápido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sweep Tosho me agarra y, antes de darme cuenta, me\nhan arrastrado hasta el museo de arte.",
+      "choice_data_list": [
+        "¿Qué es esta exposición? \"El Hermoso Correr Que\nColorea la Tiara\"..."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Jeje. ¿Sabías que mirar fotos cuenta como estudio?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Abuela me dijo que solo las Umamusume que\n<i>realmente</i> conocen las carreras pueden usar\nmagia de carrera!",
+      "choice_data_list": [
+        "(¿Por eso ella está investigando todo esto\nproactivamente?!)"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Qué cubres con la boca?",
+      "choice_data_list": [
+        "¡Estoy tan feliz!",
+        "¡Estoy tan feliz!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Tan feliz que te invité a salir conmigo? Vaya.\nEres como una niña pequeña."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Pero no estamos aquí por diversión! ¡Esto es por\naprender!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Entendido? ¡Ahora sígueme, Familiar!"
+    },
+    {
+      "name": "Personal de la exhibición",
+      "text": "¿Dos invitadas? ¿Podría ver sus boletos, por\nfavor?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...¡Familiar!",
+      "choice_data_list": [
+        "¡Una adulta y una estudiante, por favor!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sweep Tosho y yo entramos a la exposición y\nobservamos las fotos de los contendientes de la\ngira Tiara."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hm... Oka Sho... Oka Sho..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Ahí está! Y el año en que mi gran abuela corrió\nwaaas..."
+    },
+    {
+      "name": "Visitante de exposición A",
+      "text": "¡Oh! ¡Es Air Groove en los Oaks japoneses!\nRealmente amo cómo corre."
+    },
+    {
+      "name": "Visitante de exhibición B",
+      "text": "¡Hay fotos de las carreras de Hishi Amazon aquí!\nVaya, era muy dura entonces."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hmmm. Hishiama y Air Groove son bastante famosas,\n¿no?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...Aquí hay una foto de las dos. Hmmm... Dejan una\ngran impresión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove y Hishi Amazon crearon un gran revuelo\nen su apogeo. Hay varias fotos de ellas aquí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ambas son tan elegantes como flores, pero con\npresencias abrumadoras. Me quedo sin aliento solo\nal ver sus fotos."
+    },
+    {
+      "name": "Visitante de exposición C",
+      "text": "Sí, pero Hishi Amazon no lo logró al final. Narita\nBrian la venció en el Arima Kinen, ¿recuerdas?",
+      "color_text_info_list": [
+        "Narita Brian"
+      ]
+    },
+    {
+      "name": "Visitante de exposición A",
+      "text": "No pudo hacer mucho al respecto. Se enfrentó a una\ncampeona del Triple Crown Clásico."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Oye, señorita! ¿Qué se supone que significa eso?!",
+      "choice_data_list": [
+        "(¿Sweep?!)"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Qué quieres decir con que no pudo haber hecho\nnada? ¿Olvidaste lo fuerte que era Hishiama?"
+    },
+    {
+      "name": "Visitante de exposición A",
+      "text": "Supongo que era bastante buena. Pero así son las\ncosas."
+    },
+    {
+      "name": "Visitante de exposición A",
+      "text": "Los corredores del Triple Tiara no pueden\ncompararse con los que compiten en el Triple\nCrown.",
+      "color_text_info_list": [
+        "Triple Tiara"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...¿En serio?"
+    },
+    {
+      "name": "Visitante de exposición C",
+      "text": "Lo entiendo. Es como los que superan el recorrido\ndel Classic Triple Crown y escapan de las fauces\nde la muerte."
+    },
+    {
+      "name": "Visitante de exhibición B",
+      "text": "Animaba a Fine Motion en el Arima Kinen, pero ese\nSymboli Kris S era demasiado bueno. Fine Motion no\ntuvo ninguna oportunidad.",
+      "color_text_info_list": [
+        "Fine Motion",
+        "Symboli Kris S"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿No tuvo ninguna oportunidad? ¿Porque ella fue al\nTriple Tiara y Kris S al Triple Crown Clásico?",
+      "color_text_info_list": [
+        "Kris S"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Por eso no tuvo oportunidad?"
+    },
+    {
+      "name": "Visitante de exposición A",
+      "text": "Bueno, sí..."
+    },
+    {
+      "name": "Visitante de exposición A",
+      "text": "Oh, pero Air Groove tenía potencial, ¿no crees?\nQuiero decir, ¡ganó el Tenno Sho de otoño!"
+    },
+    {
+      "name": "Visitante de exposición C",
+      "text": "Pero luego perdió el Arima Kinen contra alguien\ndel Triple Crown Clásico—uno que ni siquiera ganó\nuna sola carrera."
+    },
+    {
+      "name": "Visitante de exposición C",
+      "text": "Su victoria en el Tenno de otoño fue bastante\nimportante, claro. Pero esa fue la única carrera\nque ganó en su año senior. Vamos, no puedes negar\nel patrón.",
+      "color_text_info_list": [
+        "senior year"
+      ]
+    },
+    {
+      "name": "Visitante de exposición C",
+      "text": "La historia lo ha demostrado. El título de \"el más\nfuerte\" está reservado específicamente para las\nUmamusume que han triunfado en el Triple Crown\nClásico!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La aptitud y habilidades que necesitas para correr\nen el Triple Crown Clásico versus el Triple Tiara\nson fundamentalmente distintas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por eso es imposible decir categóricamente que uno\nde los tours sea mejor que el otro. Dicho eso..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Triple Crown Clásico tiene una larga historia\ncomo la primera serie Triple Crown de Japón. Las\ncarreras también son de distintas distancias, y\nlos competidores deben adaptarse a ellas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y los demás visitantes dijeron que los corredores\ndel Triple Crown son más fuertes que los del\nTiara..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al menos, según la abundancia de discusiones y\nresultados que lo sugieren."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y en medio de todo esto, Sweep Tosho..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...¿En serio?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Como... <i>¿en serio?</i>"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Reeeaalmente?!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Eso es tan estuuuupido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, sale de la exposición y regresa a mi\noficina, donde comienza a revisar documentos a una\nvelocidad vertiginosa!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Sweep! ¡Puse los materiales sobre el Triple Tiara\ntour que pediste aquí!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Gracias, Rob Roy! ¡No te quedes ahí, Familiar!\n¡Apúrate y entrégamelos!",
+      "choice_data_list": [
+        "O-vale, pero... ¿qué te pasa?",
+        "O‑okay, pero... ¿qué te pasa?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿¡No escuchaste lo que dijeron!? ¿No te parece\ntodo eso que decían tan tonto?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Oh... ¡Mira! ¡Esto también! ¡Checa este artículo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me entrega un artículo con el titular: \"Autumn\nTenno Sho Upset: Triple Tiara Umamusume logra su\nprimera victoria en 17 años.\""
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Es raro, ¿no?! ¿\"Logra\"? ¿\"Upset\"?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Um, bueno... Creo que solo están diciendo que el\nlogro de Air Groove fue realmente asombroso porque\nes tan raro en la historia."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Sí, pero llamarlo un \"upset\" y decir que \"logró\"\nganar es una forma muy extraña de elogiar a\nalguien."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Es como decir que prácticamente es un milagro que\nno haya perdido."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Aaagh! En serio, ¿qué demonios? ¡Es estúpido! ¡Es\ntonto! ¡Es tan laaaaame!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿A quién le importa si alguien viene del tour\nClassic Triple Crown o del tour Triple Tiara? ¡No\ntiene nada que ver!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡La fuerza es fuerza! ¡Eso es lo único que\nimporta!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Pero todos hablan como si la gente del Classic\nTriple Crown fuera <i>obviamente</i>mejor que todas los\ndemás! ¡Como si fuera la forma de las cosas!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Solo siguen y siguen y <i>siguen</i>hablando de eso!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡No me importa la historia ni ninguna prueba! ¡Es\nLAAAAAME!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...Eso es todo."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Escucha, Familiar. Voy a usar magia de carreras.",
+      "choice_data_list": [
+        "¿Y qué sería eso—"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Cambiará todo! ¡Voy a destrozar esta forma de\npensar en pedazos y despertar a todos!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡No importa si corres el tour Triple Crown o el\ntour Tiara! ¡La fuerza es fuerza! ¡Y a todos les\ndebe quedar claro!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Se lo demostraré a todos con mi propia magia—mi\nmagia de carreras!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Porque la magia... Bueno..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡La magia puede darle la vuelta a todo! ¡Puede\ncambiar todo!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Yo <i>sé</i> que puede!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Entendido, Familiar? ¡No aceptaré un \"no\" como\nrespuesta!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Voy a encontrar esa magia cueste lo que cueste!\nPrimero, la buscaré, luego la encontraré y ¡la\nusaré!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Voy a cambiar el mundo con mi propia magia de\ncarreras!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Y tú me vas a ayudar! ¿Entendido?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta pequeña bruja tiene una ambición diez veces\nmayor a su estatura. Y aunque su sueño suene más a\ncuento de hadas...",
+      "choice_data_list": [
+        "Vale. ¡Vamos a verlo hasta el final!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Definitivamente, <i>definitivamente</i> lo haremos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Asiento con todo el fervor que mi cuello puede\nofrecer. Sé que lo lograremos. Después de todo, la\nmagia comenzó en el segundo en que tomó la\ndecisión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Sweep Tosho inicia su larga y ardua\ntravesía para encontrar la magia que cambiará el\nmundo."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Wow."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Sweep... Eres increíble..."
+    }
+  ]
+}

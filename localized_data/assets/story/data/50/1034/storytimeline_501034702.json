@@ -1,0 +1,211 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Empiezo a sentir un poco de hambre mientras estoy\nfuera un día con Inari One."
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Quieres agarrar algo de comer? ¿Qué te apetece?",
+      "choice_data_list": [
+        "¡Cualquier cosa está bien!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Ah, dejas todo en mis manos? ¿Seguro que te vale\ncualquier cosa?",
+      "choice_data_list": [
+        "Sí... mientras me llene."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hmm, ya veo. <i>Cualquier cosa</i> está bien entonces,\n¿no...?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Pues eso lo hace más interesante! ¡Se me acaba de\nocurrir una gran idea!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Vamos a darle sabor. ¿Qué tal si sacamos suertes\npara decidir a dónde vamos a comer?",
+      "choice_data_list": [
+        "Claro.",
+        "Claro."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Suena bien! Vamos a buscar papel para doblar."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Genial! Eso debería servir."
+    },
+    {
+      "name": "Inari One",
+      "text": "Dibuja uno. Cuando lo despliegues, verás el nombre\ndel restaurante.",
+      "choice_data_list": [
+        "Por cierto, ¿qué tipo de lugares hay en la lista?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Curiosa, eh? Ya estaba a punto de decírtelo."
+    },
+    {
+      "name": "Inari One",
+      "text": "Primero en la lista está Hyper Mala Blackout. Son\nfamosos en el barrio por su súper picante hot pot.",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Je je. Abre la tapa de la olla del infierno y\ncontempla el mar de llamas carmesí. ¡Un bocado y\nescupirás fuego por tres días!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Pero, no descartes a los demás todavía. También\nestá Supersize Dojo, el lugar donde los comedores\ncompetitivos se enfrentan a diario, y dejar comida\nsin comer es un pecado capital."
+    },
+    {
+      "name": "Inari One",
+      "text": "Luego está Survival Instinct, donde se\nespecializan en cocina de insectos. Necesitarás\ncoraje si vas a probar este, aunque. ¡También\nanoté un montón de lugares más interesantes! ¡Je!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Ah, sí! Casi lo olvido. También está el puesto de\nonigiri de larga fila, Prosperity Hut. ¡Su <sushi>inari\nes para morirse!",
+      "choice_data_list": [
+        "Ese último suena lo mejor..."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "No, no, acordamos dejar que los dioses decidan\neste. ¡Haz tu tirada!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando dije que estaba dispuesta a cualquier cosa,\nno esperaba esto... Cruzo los dedos con la\nesperanza de sacar el último restaurante\nmencionado y tiro nerviosa la hoja doblada."
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Qué ves? ¡Es el Prosperity Hut! Tengo que decir\nque la suerte está de tu lado!",
+      "choice_data_list": [
+        "Gracias a Dios."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "...Jeje. Eso lo decide, ¡vámonos ahora! También\nconozco unos bonitos lugares escénicos cerca."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, nos dirigimos al restaurante. Después de\ncomprar nuestro sushi inari, Inari One me lleva al\nsitio que recomendó."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Ah, sí! ¡Esto es lo bueno! ¡No me canso de este\nsabor agridulce!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Qué piensas, Entrenadora? ¿No sabe mejor sabiendo\nque ganaste la tirada?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Asiento de inmediato, lo que hace que Inari se\nría."
+    },
+    {
+      "name": "Inari One",
+      "text": "Pfft... ¡Ajajá!",
+      "choice_data_list": [
+        "¿Qué hice?",
+        "¿Qué hice?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ah, lo siento, Entrenadora. Fui yo."
+    },
+    {
+      "name": "Inari One",
+      "text": "El sorteo que hicimos... Bueno, casi solo puse el\nrestaurante de onigiri."
+    },
+    {
+      "name": "Inari One",
+      "text": "Jeje, dijiste que cualquier cosa estaba bien. No\npude evitar joderte un poquito."
+    },
+    {
+      "name": "Inari One",
+      "text": "Pero ahora, ¿no se siente mejor comer comida rica\ncon una vista así?",
+      "choice_data_list": [
+        "Claro que sí..."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Pero ahora, ¿no se siente mejor comer comida rica\ncon una vista así?",
+      "choice_data_list": [
+        "Claro que sí..."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "No puedes dar por sentado ni una sola comida. Es\nimportante cuidarte."
+    },
+    {
+      "name": "Inari One",
+      "text": "El mundo es un lugar duro, después de todo. Las\ncosas no siempre saldrán como planeas."
+    },
+    {
+      "name": "Inari One",
+      "text": "Por eso debes mantener la cabeza fría. Sea lo que\nsea que la vida te lance, mantente firme y\ndisfruta el viaje!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Inari One habla mientras mira al cielo. Tal vez\neste pequeño truco sea su forma de compartir su\nespíritu Edo conmigo."
+    },
+    {
+      "name": "Inari One",
+      "text": "Ups, me puse a divagar. En fin, tener esa\nmentalidad es lo que quiero decir cuando hablo de\nestilo y clase.",
+      "choice_data_list": [
+        "Me gustaría aprender tus maneras elegantes.",
+        "Me gustaría aprender tus maneras elegantes.",
+        "¡Este sushi inari es increíble!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ups, me puse a divagar. En fin, tener esa\nmentalidad es lo que quiero decir cuando hablo de\nestilo y clase.",
+      "choice_data_list": [
+        "Tal vez algún día yo también sea una figura de\nclase.",
+        "Tal vez algún día yo también sea una figura de\nclase.",
+        "¡Este sushi inari es increíble!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Bueno, no necesitas esforzarte tanto. ¡Tienes un\nmodelo a seguir justo al lado!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Dicho eso, no esperes que siga hablando sin parar.\nLas explicaciones largas son la definición de\ncursi."
+    },
+    {
+      "name": "Inari One",
+      "text": "Al final del día, solo sigue mi ejemplo!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Oye! ¿No escuchaste ni una palabra de lo que\ndije? ¡Vaya!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Bueno, está bien. Yo también estaba bromeando\ncontigo."
+    },
+    {
+      "name": "Inari One",
+      "text": "Disfruta la comida a tu antojo. Je je."
+    }
+  ]
+}

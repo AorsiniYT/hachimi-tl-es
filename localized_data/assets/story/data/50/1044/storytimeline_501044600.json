@@ -1,0 +1,24 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Vaya! ¿Se callan nunca? ¡El público está\ndemasiado ruidoso, ¿no?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Familiar! ¡Sal ahí y calmalos! O mejor aún,\n¡diles a todos que se callen!",
+      "choice_data_list": [
+        "¿Qué quieres que haga?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Solo diles que Magical Girl Sweepy la va a romper\nallá fuera, griten o no."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Nada puede detener la magia de una supergenio, así\nque solo tienen que sentarse tranquilos y mirar!"
+    }
+  ]
+}

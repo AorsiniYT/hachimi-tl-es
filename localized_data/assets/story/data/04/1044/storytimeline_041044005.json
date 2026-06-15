@@ -1,0 +1,201 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Pasando por la biblioteca, pillé a Sweep Tosho\nrevisando los estantes en busca de algo."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Lo encontré! Esto es definitivamente lo que\nbuscaba. ¡Sabía que lo había visto la última vez\nque estuve aquí!",
+      "choice_data_list": [
+        "¿Estudiando? ¡Qué impresionante!",
+        "¿Estudiando? ¡Qué impresionante!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Hum, la abuela me dice eso todo el tiempo!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Lo que importa es que tengo que apurarme antes de\nque ella me alcance."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Espinas, oh espinas, enredad! ☆"
+    },
+    {
+      "name": "Profesor A",
+      "text": "¡Por fin te encontré, Sweep Tosho!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿¡Qué?! ¿Qué pasa?! ¿Por qué mi hechizo de\natrapamiento no funciona?",
+      "choice_data_list": [
+        "¿Hechizo de atrapamiento?"
+      ]
+    },
+    {
+      "name": "Profesor A",
+      "text": "Ah, ya veo que tu entrenadora también está\ncontigo. Déjame explicarte."
+    },
+    {
+      "name": "Profesor A",
+      "text": "Sweep Tosho no hizo su tarea, y cuando intenté que\ntomara clases de recuperación, se escapó."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Claro que sí! ¿Quién querría quedarse en la\nescuela por <i>eso</i>? Si no quiero, ¡no quiero!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "De todos modos, ¿por qué mi hechizo no funciona?\n¡Estoy segura de que seguí todos los pasos de este\nlibro!",
+      "choice_data_list": [
+        "(Espera, ¿entonces no estabas estudiando?)",
+        "(Espera, ¿entonces no estabas estudiando?)"
+      ]
+    },
+    {
+      "name": "Profesor A",
+      "text": "Sweep Tosho, escúchame. No te doy tarea para que\ntengas más cosas que hacer."
+    },
+    {
+      "name": "Profesor A",
+      "text": "En tu futuro como competidora, equilibrar el\nentrenamiento con los estudios será muy\nimportante. Por eso te doy tarea ahora, para que\nte acostumbres."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Bla, bla, bla—¿quién eres tú para darme órdenes?\n¡Si no quiero, no lo haré!"
+    },
+    {
+      "name": "Profesor A",
+      "text": "¡Sweep Tosho!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Claramente, estos dos se olvidaron de usar la voz\ninterior. Sentir las miradas críticas a nuestro\nalrededor me hizo darme cuenta de que era mi turno\nde intervenir.",
+      "choice_data_list": [
+        "Disculpa la molestia. ¿Podría hablar con Sweep si\nno te importa?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "De vuelta en mi oficina, le sugiero a Sweep Tosho\nque tal vez hacer su tarea no sea tan malo. ¡Quién\nsabe, hasta podría ser divertido!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Tarea, tarea—¡hasta mi familiar me está\npresionando ahora! ¡Pensé que me estabas ayudando\na librarme de ese maestro!",
+      "choice_data_list": [
+        "No puedes simplemente <i>no</i> hacer tu tarea.",
+        "No puedes simplemente <i>no</i> hacer tu tarea."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Entonces, ¿por qué no <i>tú</i> lo haces por mí,\nfamiliar?!",
+      "choice_data_list": [
+        "¡Sabes que no puedo hacer eso!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Y por qué no? ¡Un familiar <i>DEBE</i> escuchar a su\nmaestro, ¿sabes?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay forma de detenerla cuando hace una rabieta.\nEs completamente honesta con sus sentimientos y no\ntiene paciencia para cosas que no le interesan."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En un repentino destello de genialidad, recuerdo\nun momento reciente en que mostró un gusto por\nalgo."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Lo encontré! Esto es definitivamente lo que\nbuscaba. ¡Sabía que lo había visto la última vez\nque estuve aquí!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Oye, ¿por qué están tan callados?",
+      "choice_data_list": [
+        "¿Por qué no haces tu tarea con magia?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Eh? ¿Quieres decir escribir las respuestas con\nmagia? Mmm, podrías tener una buena idea.",
+      "choice_data_list": [
+        "Supongo que podría funcionar, pero ¿qué tal lanzar\nun hechizo sobre ti mismo?",
+        "Supongo que podría funcionar, pero ¿qué tal lanzar\nun hechizo sobre ti mismo?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Lanzar un hechizo sobre mí? Explica, familiar.",
+      "choice_data_list": [
+        "Ya sabes, como un hechizo para ayudarte a resolver\nproblemas más rápido!",
+        "Ya sabes, como un hechizo para ayudarte a resolver\nproblemas más rápido!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿No son solo pasos extra, verdad? Entonces...\n¿quieres que lance un hechizo de velocidad,\ncierto?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Bueno... como sea. ¡Suena medio divertido! ¡Allá\nvoy!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Hechizo bien—excelente! Alstroemeria! ☆"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Vale, ahora el primer problema... ¡Guau, ahora sí\nes pan comido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como si estuviera realmente encantada, Sweep\ncomienza a devorar su tarea a un ritmo\nimpresionante."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Para este problema... ¡Ugh, siento que mi\nvelocidad está bajando! \"¡Resuelve como el viento!\nAlstroemeria! ☆\""
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Guau, no puedo creer que ya terminé! ¿Ves ahora,\nfamiliar? Este es el poder de la Chica Mágica\nSweepy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando se decide a hacer algo, realmente lo hace\nmejor que nadie.",
+      "choice_data_list": [
+        "¡Tu magia es de otro mundo!",
+        "¡Tu magia es de otro mundo!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Jeje, ¡elogíame más! ¡No veo la hora de callar a\nesa maestra! Vamos, vayamos a buscarla—seguro que\nse quedará sorprendida!"
+    },
+    {
+      "name": "Profesor A",
+      "text": "Una puntuación perfecta. Vaya, sabía que podías\nlograrlo si te esforzabas, así que por favor deja\nde huir todo el tiempo. Además..."
+    },
+    {
+      "name": "Profesor A",
+      "text": "Tu entrenadora te ayudó, ¿no? Asegúrate de darle\nlas gracias después, ¿vale?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Geeeeez! ¡Debería haberse quedado atónita con mi\nmagia, no estar coqueteando con mi familiar!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "En cualquier caso, con la magia de mi lado, la\ntarea es un problema del pasado. ¡Adiós lecciones\nextra, hola libertad!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras dice eso, sus ojos se iluminan con una\nnueva motivación. Cuando se trata de hacer lo que\nama, no encontrarás a una trabajadora más dedicada\nque Sweep Tosho."
+    }
+  ]
+}

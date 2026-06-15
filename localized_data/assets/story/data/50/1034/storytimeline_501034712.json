@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando pienso que Inari One no va a aparecer\nal entrenamiento..."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Llegué tarde! Lo siento, Jefe. No hay excusas\npara mi comportamiento desastroso!",
+      "choice_data_list": [
+        "¿Qué pasó que te hizo llegar tarde?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Cuento tarde! Lo siento, Jefe. No hay excusas para\nmi comportamiento deshonroso!",
+      "choice_data_list": [
+        "¿Qué pasó que te hizo llegar tarde?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Acaso no dije que no pongo excusas?! Cuento una\nchica Edo, ¡después de todo!",
+      "choice_data_list": [
+        "...Bueno, solo ten cuidado de ahora en adelante."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Tch! ¡Eres tan madura y sensata! Mientras tanto,\n¡solo mírame!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Cuento realmente lo siento! Siéntete libre de\nechar sopa hirviendo en mi cara como castigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, Inari One se niega a decirme por qué\nllegó tarde. Sin embargo, parece estar bastante\napenada, así que decido pasar por alto esta vez."
+    }
+  ]
+}

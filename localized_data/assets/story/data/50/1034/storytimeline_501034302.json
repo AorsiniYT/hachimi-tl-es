@@ -1,0 +1,280 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de abastecernos de artículos de\nentrenamiento con Inari One en el distrito\ncomercial..."
+    },
+    {
+      "name": "Inari One",
+      "text": "Bien. Parece que tachamos todo de nuestra lista en\nesa última tienda!",
+      "choice_data_list": [
+        "Gracias por acompañarme."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡No te preocupes! La mayoría es para mí, así que\nsería grosero si no viniera."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acércate y prueba tu suerte con nuestra rifa de\nAño Nuevo! El gran premio de este año es una\nescapada a un baño termal para dos!",
+      "color_text_info_list": [
+        "vacación termal"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe ¡un filete! Los\ndel segundo premio obtienen un fardo de\nzanahorias. Y los del tercer premio pueden\nllevarse ¡una sola zanahoria!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! Consigue un\nticket ahora y gira para tener tu chance de ganar!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Uy, es una rifa! También la hacen por aquí, ¿no?"
+    },
+    {
+      "name": "Inari One",
+      "text": "Hice mi parte en mi pueblo natal pero nunca tuve\nsuerte. Aún así, algo siempre me impulsa a volver\ny volver a intentarlo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese momento, recuerdo haber recibido un ticket\nde rifa con nuestra última compra.",
+      "choice_data_list": [
+        "Aquí, deberías quedarte con este ticket."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Espera un segundo! Eso vino de <i>tu</i>compra. Es justo\nque lo uses.",
+      "choice_data_list": [
+        "Entonces giraremos en la rifa juntos."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Espera un segundo! Eso vino de <i>tu</i>compra. Es justo\nque lo uses.",
+      "choice_data_list": [
+        "Entonces giraremos en la rifa juntos."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los artículos que compré son para que Inari One\nlos use. En otras palabras, este ticket nos\npertenece a ambas."
+    },
+    {
+      "name": "Inari One",
+      "text": "Jeje, me gusta cómo suena eso. ¡Me dan ganas de\ngirar esa palanca aún más!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Bueno, esta es nuestra gran oportunidad!\n¡Giremosla de la mano y atraguemos algo <i>enorme!</i>"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¿Ah, van a intentarlo juntas?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Sí, cuenten con nosotras!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Aceptando el reto, la giramos juntas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae del orificio del\ntambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Madre mía! ¡Tenemos una ganadora del gran premio!\n¡Ven y consigue el boleto para tus vacaciones de\naguas termales! ¡Felicidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¿L-lo conseguimos... el premio <i>grand</i>?!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Sí, sí, sííí! ¡Nuestro pequeño boleto de rifa se\nvolvió un gran premio! ¡En serio no pensé que lo\nlograríamos!",
+      "choice_data_list": [
+        "¡Lo logramos!",
+        "¡Lo logramos!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Sí! Supongo que unirnos combinó nuestras suertes."
+    },
+    {
+      "name": "Inari One",
+      "text": "Wow, una escapada a aguas termales... ¡no lo puedo\ncreer! ¡Las aguas termales son lo mío cuando\npienso en vacaciones!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Comida deliciosa, baños enormes—¡hablando de\nvacacionar con estilo! Jeje, ¡no puedo esperar!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Excepto... tenemos que enfocarnos en el ahora. De\ncualquier forma, parece que este boleto no\nexpirará pronto."
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Entonces podrías guardarlo por ahora?",
+      "choice_data_list": [
+        "No me importa... ¿pero estás segura?",
+        "No me importa... ¿pero estás segura?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Claro como siempre! Necesito enfocarme en\nmantener mi posición en esas carreras centrales.\nAdemás, si nuestro viaje es una celebración de\nvictoria, entonces puedo <i>realmente</i> relajarme!"
+    },
+    {
+      "name": "Inari One",
+      "text": "No está mal guardar las cosas para después, ¿no?",
+      "choice_data_list": [
+        "Tienes razón."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Verdad? Ahora que tenemos algo divertido que\nesperar, ¡sigamos así!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Parece que tenemos otro ganador del primer premio!\n¡Felicidades! ¡Obtienes una hamburguesa de\nzanahoria deluxe!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Siii! ¡Lo logramos, Jefe!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Siii! ¡Lo logramos, Jefe!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Je, ¡qué buen primer premio! No ves algo tan\nelegante todos los días!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Una comida así se come rápido! ¡Vamos a ello en\ncuanto regresemos a tu oficina!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, nos deleitamos con la deliciosa\nhamburguesa de zanahoria deluxe!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Hoy es tu\ndía de suerte! ¡Te vas a casa con un montón de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Woohoo! ¡Conseguimos algo bueno!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Qué premio tan generoso! ¡Mira este montón\ngigante!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Jeje. Ya sabes lo que esto requiere: ¡un festival\nde zanahorias! Tal vez podamos pedirle a Creek que\nnos eche una mano."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Tienes que venir también! Vamos, ¡no hay mejor\nmomento que ahora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, disfruto del festival de zanahorias con\nInari One y sus amigas!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Mira esto! ¡Ganaste el tercer premio! ¡Aquí\ntienes tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Bueno, al menos conseguimos algo!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Jeje, esta zanahoria se ve bastante buena. Apuesto\na que tiene un sabor genial por sí sola!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Dividámoslo cuando regresemos. Oye, ¿cómo te\ngustan las zanahorias, de todos modos?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, como mi parte de la zanahoria con Inari\nOne!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Vaya, mala suerte! Parece que no obtuviste nada.\nLlévate este paquete de pañuelos como premio de\nconsolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Ugh! ¡Nos salió un fracaso!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Lo siento, Jefe! Esa era nuestra oportunidad de\ndar en el clavo, y la arruiné!",
+      "choice_data_list": [
+        "Oye, pasa."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Lo siento, Jefe! Esa era nuestra oportunidad de\ndar en el clavo, y la arruiné!",
+      "choice_data_list": [
+        "Oye, pasa."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Sí, supongo... Pero quería ganar con estilo, no\narruinarlo. ¡Ugh, es realmente frustrante!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de no obtener nada, el ánimo de Inari One\nse desploma..."
+    }
+  ]
+}

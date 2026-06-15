@@ -1,0 +1,222 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es San Valentín y la academia está llena de\nemoción. Estoy agachada en mi oficina trabajando,\ncuando..."
+    },
+    {
+      "name": "Inari One",
+      "text": "Uff, qué ocupada. Pues... al menos ahora puedo\nsentarme finalmente."
+    },
+    {
+      "name": "Inari One",
+      "text": "Oye, jefa. ¿Te importa si como aquí sobre el\ntatami? En cualquier otro lado me pone nerviosa.",
+      "choice_data_list": [
+        "Claro, ¿pero pasa algo?",
+        "Claro, ¿pero pasa algo?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Oye, jefa. ¿Te importa si como aquí sobre el\ntatami? En cualquier otro lado me pone nerviosa.",
+      "choice_data_list": [
+        "Claro, ¿pero pasa algo?",
+        "Claro, ¿pero pasa algo?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Vamos, ya sabes. Hoy es San Valentín. Tengo más\nchocolate del que puedo manejar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Inari One dirige su atención al montón de bolsas\nque trajo, ¡cada una repleta hasta el borde de\nchocolates!",
+      "choice_data_list": [
+        "¡Eso <i>es</i> mucho!",
+        "¡Eso <i>es</i> mucho!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Estoy agradecida, no me malinterpretes. Pero me\ndesconcierta por qué todas vinieron a mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puedo imaginar por qué. Es amigable, confiable y\ndesprende un encanto natural. Tiene sentido que\ntantas la busquen."
+    },
+    {
+      "name": "Inari One",
+      "text": "Ah, ¡como sea! Disfrutar los regalos que te dan es\nmás mi estilo, lo que significa que no queda ni un\nsolo pedazo sin comer!",
+      "choice_data_list": [
+        "Voy a preparar té."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Qué buena idea! ¡Té caliente para acompañar algo\ndulce! ¡Gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Inari One comienza a comer sus chocolates\nde San Valentín."
+    },
+    {
+      "name": "Inari One",
+      "text": "Hmm, creo que esto es de una de mis compañeras de\nentrenamiento. Está envuelto todo bonito y lindo,\n¿no?"
+    },
+    {
+      "name": "Inari One",
+      "text": "Y esto es... ¡Es del estudiante cuya estantería\narreglé! Huele bien, pero no puedo identificar el\nsabor. Algo cítrico, eso es seguro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sacando con cuidado cada regalo, Inari One\nrecuerda a la persona que se lo dio antes de\ndisfrutar el chocolate.",
+      "choice_data_list": [
+        "(Es tan considerada...)",
+        "(Es tan considerada...)"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Uf, me llené hasta el tope! Cada uno estaba súper\ndelicioso. Definitivamente tengo que hacer algo\npara retribuir a todos!",
+      "choice_data_list": [
+        "No puedo creer que recuerdes todos esos detalles."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Cómo no iba a hacerlo? Estas personas se\nesforzaron para darme esto, ¿cierto?"
+    },
+    {
+      "name": "Inari One",
+      "text": "Ahora que me los he comido todos... solo queda una\ncosa más por hacer.",
+      "choice_data_list": [
+        "¿Qué es eso?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ahí tienes, Boss. Algo de mí.",
+      "choice_data_list": [
+        "¿Eh?¡"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ahí tienes, Boss. Algo de mí.",
+      "choice_data_list": [
+        "¿Eh?¡"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Inari One me entrega un regalo envuelto. Quito el\npapel y descubro una caja de dulces tradicionales\njaponeses!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Un regalito para devolverte el favor. Lamento que\nno sea chocolate, pero estos son mis dulces\ntradicionales favoritos."
+    },
+    {
+      "name": "Inari One",
+      "text": "La verdad es que no he probado suficiente cosa\noccidental para saber qué está bueno o no, así que\nelegí la opción más segura."
+    },
+    {
+      "name": "Inari One",
+      "text": "Si no quieres comerlos, está bien para mí...",
+      "choice_data_list": [
+        "¡Se ven geniales!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo rechazar esto solo porque no sean\nchocolates, no después de ver cuánto se preocupa\nInari One. Después de todo...",
+      "choice_data_list": [
+        "Disfrutar los regalos que te dan es más mi estilo,\n¿sabes?",
+        "Disfrutar los regalos que te dan es más mi estilo,\n¿sabes?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "..."
+    },
+    {
+      "name": "Inari One",
+      "text": "Jeje. No se puede discutir eso!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Gracias por todo, Boss. ...De verdad."
+    },
+    {
+      "name": "Inari One",
+      "text": "Gracias por todo, Boss. ...De verdad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al deleitarme con los dulces tradicionales\nfavoritos de Inari One, me siento cálida y\nreconfortada por dentro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Inari One me entrega un regalo envuelto. Quito el\npapel y descubro una caja de pequeños zorros de\nchocolate!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Un detalle por todo lo que has hecho por mí... y\ntambién porque es el Día de San Valentín.",
+      "choice_data_list": [
+        "¡Gracias! Son tan adorables.",
+        "¡Gracias! Son tan adorables."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Bueno... ya sabes... más o menos... los hice yo\naunque sí.",
+      "choice_data_list": [
+        "<i>¿Tú</i> hiciste esto?!",
+        "<i>¿Tú</i> hiciste esto?!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Sí. Pues, recibí muchísima ayuda de Creek!"
+    },
+    {
+      "name": "Inari One",
+      "text": "No puedo garantizar el sabor, sin embargo. No te\nobligues si está malo, ¿vale?",
+      "choice_data_list": [
+        "¡Me los comeré todos!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No es que sepan mal, pero no puedo rechazar esto,\nno después de ver cuánto se preocupa Inari One.\nDespués de todo...",
+      "choice_data_list": [
+        "Disfrutar los regalos que te dan es más mi estilo,\n¿sabes?",
+        "Disfrutar los regalos que te dan es más mi estilo,\n¿sabes?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quiero comer esto para demostrar mi agradecimiento\na Inari One, así como ella lo hizo con sus\nregalos."
+    },
+    {
+      "name": "Inari One",
+      "text": "Jeje. No se puede discutir eso!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Gracias por todo, Boss. ...De verdad."
+    },
+    {
+      "name": "Inari One",
+      "text": "Gracias por todo, Boss. ...De verdad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Saboreando la suave dulzura del chocolate, casi\npuedo sentir la gratitud de Inari One. Mi corazón\nse derrite con solo pensarlo."
+    }
+  ]
+}

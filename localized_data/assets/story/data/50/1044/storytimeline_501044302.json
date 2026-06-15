@@ -1,0 +1,379 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy paseando con Sweep Tosho y nos detenemos en\nel distrito comercial."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Hm? ¿Qué pasa por allá? La gente hace fila para\nalgo..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acércate y prueba suerte con nuestra rifa de Año\nNuevo! ¡El gran premio de este año es una escapada\na aguas termales para dos!",
+      "color_text_info_list": [
+        "escapada a aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe! ¡Los del segundo\npremio, un fardo de zanahorias! ¡Y los del tercer\npremio se llevan una sola zanahoria a casa!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! Consigue ya tu\nboleto y gira para intentar ganar!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Oooh, una rifa! ¡Se ve divertido! ¡Hagámoslo,\nFamiliar!",
+      "choice_data_list": [
+        "Pero no tenemos boleto de rifa."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Entonces solo necesitamos conseguir uno. ¡Vamos a\ncomprar algo! ¡No importa qué! ¿Dulces, ropa o\nhasta curry!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Definitivamente jugaré a esa rifa hoy! ¡Y no me\niré a casa hasta lograrlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A petición de Sweep Tosho, vamos de compras y\nconseguimos un boleto de rifa. Naturalmente, todo\nes por mi cuenta."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Allá voy!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Clavo, clavo, trébol! ☆ ¡Magia de la suerte,\npréstame tu poder!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sweep Tosho recita un hechizo y tira de la palanca\ncon entusiasmo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae del orificio del\ntambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos al ganador del gran premio!\n¡Ven a recoger el cupón para tu escapada a aguas\ntermales! ¡Felicidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Oh..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Yippieeeee!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Es el gran premio! ¡Obtuve el gran premio! ¡Es el\nmejor, Familiar!",
+      "choice_data_list": [
+        "¡Nunca dudé de tu magia!",
+        "¡Nunca dudé de tu magia!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Jeje. ¡Claro! ¡Soy la gran e invencible Chica\nMágica Sweepy, después de todo!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Y como las grandes brujas son amables y generosas,\nte daré el cupón. Aquí. Bien, ¡vayamos a casa!",
+      "choice_data_list": [
+        "¿Estás segura?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Sí. Quiero decir, una visita a aguas termales\nsuena aburrida. Un baño grande suena divertido,\npero el de la academia ya es suficientemente\ngrande para mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Acepto el cupón para la escapada a aguas\ntermales..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Ya sé! ¡Llévame al parque de diversiones en su\nlugar! ¡Y luego al zoológico... y a la recolección\nde fresas!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Ese fue el gran premio, así que tenemos que ir a\nun lugar igual de bueno!",
+      "choice_data_list": [
+        "Vale, vamos cuando tengamos tiempo libre..."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Supongo que tienes razón. Después de todo, estoy\nsúper ocupada."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Y primero, tengo que aprender esa magia de\ncarreras y sorprender a todos de verdad!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Puedes darme mi gran premio cuando lo logre!\n¡Lanzaré un hechizo de promesa para que no lo\nolvides!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Plidge, pledge, anagallis! ¡Haz una promesa que\nnunca se rompa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me alegra ver que tiene sus prioridades en orden."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Organizaré una gran celebración para ella cuando\nalcance su meta... y este cupón es prueba de mi\ncompromiso."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicidades! ¡Obtienes una hamburguesa de\nzanahoria deluxe!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Vaya, no está nada mal!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Eso cubre la cena de esta noche! ¡Prepara todo,\nFamiliar!"
+    },
+    {
+      "name": "Grocer",
+      "text": "¿Qué tal unas verduras frescas como\nacompañamiento? ¡Tenemos unos deliciosos pimientos\nverdes hoy!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Nooo! ¡No, no, no! ¡Esta hamburguesa será lo\nsuficientemente sabrosa por sí sola!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Solo quiero llegar a casa y comerla! ¡Vamos, date\nprisa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que Sweep Tosho prácticamente me\narrastró de vuelta a la academia, termino\ncocinando la hamburguesa en mi propia cocina."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Espera un momento! ¿Qué hacen los pimientos\nverdes aquí?",
+      "choice_data_list": [
+        "Me sobraron un poco."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡No me importa de dónde los sacaste! ¡No los\nquiero! ¡Convertiste el primer premio en castigo!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Ugh. Te doy mis pimientos. Pueden ser tu\nrecompensa por cocinar la hamburguesa, así que\nagradece."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque Sweep Tosho apresuradamente empuja sus\npimientos verdes a mi plato, parece que realmente\ndisfruta la hamburguesa!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un fardo de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Segundo premio! ¡Hey, está bastante bien!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Me pregunto qué tan grande será el fardo..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Guau! ¡Eso es <i>enorme!</i>"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Jaja. Creo que hasta una Umamusume podría costarle\nterminar todo eso sola."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿¡Cómo?! ¡Puedo <i>fácilmente</i> comer todo esto! No\nsubestimes a la Chica Mágica Sweepy!",
+      "choice_data_list": [
+        "¿De verdad puedes comer todo esto?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Claro que puedo! ¡Y no te daré nada, sin importar\ncuánto te quejes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sweep Tosho regresa a casa triunfante, aferrando\nsu enorme fardo de zanahorias."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...Estoy harta de esto. ¡Harta! ¡De! ¡Ellas!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡No quiero más! ¡Quiero comer otra cosa! ¡Haz\nalgo, Familiar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella <i>podría</i> terminarlos si quisiera, pero no\nquiere. Me rompo la cabeza buscando una\nsolución... ¡y se me ocurre una idea!",
+      "choice_data_list": [
+        "Convirtamos las zanahorias en un postre con un\nhechizo!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Un hechizo de postre de zanahoria? ¡Eso... es una\ngran idea!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Uno, dosoo..."
+    },
+    {
+      "name": "Trainer and Sweep",
+      "text": "¡Cocina, cocina, dulces! ☆"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Lo logramos! ¡Es un parfait de zanahoria deluxe!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Pero no estoy segura de cuánta magia hubo...\nSentía como si solo siguiéramos una receta..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "De todos modos, estuvo divertido, ¡así que vale!\n¡Te daré hasta un mordisco!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con Sweep Tosho de buen humor, solté un suspiro de\nalivio. ¡Parece que logré mantenerla contenta!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Mira esto! ¡Ganaste el tercer premio! ¡Aquí\ntienes tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Ay, vamos! ¡Quería el gran premio! ¡Incluso lancé\nun hechizo!",
+      "choice_data_list": [
+        "Pero esa zanahoria se ve bien sabrosa."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hm..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Ahora que lo dices, tiene un bonito color naranja.\nY tan brillante..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Chomp! Crunch!</i>"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Esto sabe... increíble! ¿Cómo puede estar tan\nbueno?!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Ah, cierto! ¡Ese hechizo me ayudó a ganar la\nzanahoria más deliciosa de todas!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Jeje! ¡Soy <i>definitivamente</i> una chica mágica\ngenial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con Sweep Tosho luciendo satisfecha, una ola de\nalivio me invade mientras regresamos."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ay, mala suerte! Parece que sacaste una en\nblanco. Toma este paquete de pañuelos como premio\nde consolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿U-una en blanco?!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Cómo pudo pasar eso?! ¡Lancé un hechizo para\nsuerte!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Grrr! ¡No, no, no! ¡Lo haré de nuevo! ¡Ve por\notro boleto, Familiar! ¡No puedo creer que mi\nmagia fallara!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Achís!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Ugh! Primero no gané, y ahora estoy estornudando\nporque hace tanto frío! ¡Achís!",
+      "choice_data_list": [
+        "Aquí, tus pañuelos."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Ugh, está bien... Si así será, usaré hasta el\núltimo trozo!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "<i>Pffbtbfbfbt!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como si estuviera enfadada con los pañuelos, Sweep\nTosho se sopla la nariz agresivamente bajo el\ncielo frío."
+    }
+  ]
+}

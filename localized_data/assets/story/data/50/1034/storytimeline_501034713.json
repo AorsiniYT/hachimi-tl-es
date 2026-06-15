@@ -1,0 +1,83 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Acompaño a Inari One a la enfermería después de\nque se lesiona durante el entrenamiento."
+    },
+    {
+      "name": "Inari One",
+      "text": "Dame un respiro, ¡solo es un rasguñito! Un poco de\nsaliva y coraje y estaré como nueva!"
+    },
+    {
+      "name": "Inari One",
+      "text": "No puedo estar sentada todo el día. ¡Apurémonos y\nregresemos al entrenamiento!",
+      "choice_data_list": [
+        "Necesitas descansar bien.",
+        "Podemos continuar, pero con moderación."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¿De qué hablas? Cuento que te digo que estoy bien!",
+      "choice_data_list": [
+        "Solo empeorarás las cosas si ocurre algo malo."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Vaya. Nunca te imaginé tan preocupada!"
+    },
+    {
+      "name": "Inari One",
+      "text": "...En serio, ¿<i>tienes</i> que sentarte junto a mí con\nesa expresión sombría? Bien... Tomaré el día\nlibre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Inari One regresa a su dormitorio con una mirada\nmiserable en su cara."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Te dije que no te preocuparas! Bien, ¡hora de\nvolver a enfocarme en la competencia!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Ay!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque solo le encargué una carrera ligera para\nverificar su condición, la cara de Inari One se\ncontrae con dolor."
+    },
+    {
+      "name": "Inari One",
+      "text": "Está bien, el dolor ha vuelto... pero aún puedo\nseguir trabajando con él, lo juro!",
+      "choice_data_list": [
+        "Demos por terminada la jornada."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "<i>Suspiro...</i> Supongo que tienes razón. Mejor hacer\nlo que me dicen y jugar inteligentemente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de acortar nuestra sesión de\nentrenamiento, Inari One encoge los hombros y\nvuelve pesadamente al dormitorio."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Jeje! ¿Qué tal, Jefe? No hay problema si lo\nmantengo ligero, ¿eh?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Jeje! ¿Qué tal, Jefe? No hay problema si lo\nmantengo ligero, ¿eh?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Soy una chica de Edo, de pura cepa! ¡Nadie lesión\npequeña como esta me detendrá!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras monitoreo su lesión, Inari One completa\nuna sesión de entrenamiento ligera."
+    }
+  ]
+}
