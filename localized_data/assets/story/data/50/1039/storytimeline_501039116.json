@@ -83,7 +83,7 @@
       "name": "Productor de TV",
       "text": "Comenzaremos dándole el regalo, y luego ella puede\nhablar sobre sus ambiciones futuras, ¿vale?",
       "choice_data_list": [
-        "Estoy seguro de que estará encantada."
+        "Estoy segura de que estará encantada."
       ]
     },
     {
@@ -95,11 +95,11 @@
       "text": "Y con eso, comienza la transmisión en vivo."
     },
     {
-      "name": "Presentador",
-      "text": "¡Hola a todos! Bienvenidos a otro\nepisodio de\n<i>¡Conoce a las Corredoras!</i> Esta semana,\nestamos transmitiendo\n¡en vivo! ♪"
+      "name": "MC",
+      "text": "¡Hola a todos! Bienvenidos a otro episodio de\n<i>¡Conoce a las Corredoras!</i> Esta semana, estamos\ntransmitiendo ¡en vivo! ♪"
     },
     {
-      "name": "Presentador",
+      "name": "MC",
       "text": "Nuestra invitada de hoy es una Umamusume que ha\nestado en racha recientemente. ¡Es Kawakami\nPrincess!"
     },
     {
@@ -107,11 +107,11 @@
       "text": "...Es un placer estar aquí."
     },
     {
-      "name": "Presentador",
+      "name": "MC",
       "text": "¿Qué es eso? ¿Estamos un poco nerviosas? Jeje...\nbueno, ¡tenemos justo el antídoto para eso!"
     },
     {
-      "name": "Presentador",
+      "name": "MC",
       "text": "En el programa de hoy, hemos preparado un regalo\nsorpresa para ti, Kawakami Princess!"
     },
     {
@@ -127,7 +127,7 @@
       "text": "..."
     },
     {
-      "name": "Presentador",
+      "name": "MC",
       "text": "Jeje, ¡el pastel no es encantador?! ¡Está cubierto\ncon todas tus frutas favoritas también! ♪"
     },
     {
@@ -143,7 +143,7 @@
       "text": "Así que por favor... por favor perdóname por todo\nmi comportamiento irrespetuoso."
     },
     {
-      "name": "Presentador",
+      "name": "MC",
       "text": "Um... ¿Kawakami Princess?",
       "choice_data_list": [
         "Lo siento, ¿podemos detenernos un momento?!"
@@ -330,7 +330,7 @@
       "text": "...Por supuesto."
     },
     {
-      "name": "Presentador",
+      "name": "MC",
       "text": "Para cerrar este episodio, Kawakami Princess tiene\nalgunas palabras finales que le gustaría compartir\ncon todos los televidentes.",
       "choice_data_list": [
         "Sentimos mucho lo que pasó antes."
