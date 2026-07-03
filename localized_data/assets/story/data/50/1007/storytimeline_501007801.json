@@ -1,0 +1,552 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras hacía compras en el campamento de verano,\npasé por el chiringuito de la playa y..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Bienvenidas, bienvenidas! ¿Cuántas comen hoy?\n¿Una? ¿Dos? ¿Tres docenas?",
+      "choice_data_list": [
+        "...¿Qué haces?",
+        "...¿Qué haces?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué más? ¡Estoy trabajando! ¿Cómo no hacerlo si\neste chiringuito nos cayó del cielo?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Vamos a juntar suficiente dinero para remodelarlo\ny convertirlo en un <i>palacio</i> playero! ¡En 564 años,\nexcavarán sus ruinas del fondo del mar! ¿Verdad,\nNakayama?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ja, no me sorprendería, considerando que estás\ninvolucrada. Hasta podrías revolucionar el mundo\nde los negocios."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Asomo la cabeza al local, pero no veo a ninguno de\nlos empleados habituales. ¿Estas dos se adueñaron\ndel lugar?",
+      "choice_data_list": [
+        "(¿Esto está bien?!)",
+        "(¿Esto está bien?!)"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Llegaste en el momento perfecto! Con tu ayuda,\nesta familia playero será imparable."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ni la presión del fondo del mar podrá romper\nnuestro lazo! ¡Esta familia será la mejor que haya\nexistido!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Nakayama es la jefa! ¡Yo soy la alumna en apuros!\nEsa gaviota es la heroína que nos protege desde\nlas sombras, ¡y tú eres nuestro vaso de papel\nfavorito!",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Exacto! ¡Primero tenemos que desarrollar el menú!\nNo podemos olvidar los fideos yakisoba con 1,000\nveces más garam masala. ¿Verdad, jefa?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Y también helado de permafrost rallado y\ndumplings explosivos de anchoas supremas! ¡Guau,\nes como si un géiser de inspiración explotara\ndentro de mí!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Claro, suena bien. Desmádrate.",
+      "choice_data_list": [
+        "¿En serio?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me pone nerviosa de mil formas... pero es hora de\ncomer, ¡y un montón de aprendices está por llegar\nen estampida!"
+    },
+    {
+      "name": "Student Customers",
+      "text": "¿\"Tofu de fuegos artificiales en cascada\"? ¿\"Sopa\nde la fosa oceánica ancestral\"? Guau, ¿qué clase\nde comida es esta? ¿La probamos?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Disculpen. El yakisoba de Golshi estaba\ndelicioso... Quiero otro."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ahh, apareciste de nuevo ante mí, Monstruo del\nEstómago! ¡Esta vez te ataco con mi Yakisoba de\nGaram Masala Mil Veces Más Picante!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Mm?! ¿Q-qué es esto?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¡Está delicioso!"
+    },
+    {
+      "name": "Student Customers",
+      "text": "¡Guau, si a Oguri le gusta, debe ser bueno! ¡Es la\nonda! ¡Oye, yo también quiero uno!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Muchas gracias! Para agradecerles por su\npreferencia, ¡haremos una oferta especial por los\npróximos 564 segundos! ¡Agrandados al tamaño del\nHimalaya para todas!"
+    },
+    {
+      "name": "Student Customers",
+      "text": "¡Genial! ¡Yo también quiero uno!",
+      "choice_data_list": [
+        "¡El negocio está despegando como cohete!"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Tenía el presentimiento de que sería mucho más\ninteresante dejarla hacer lo suyo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Mira esas habilidades con la gente... Yo nunca\npodría igualarlas."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oye, jefa! ¡Vaso de papel! ¡Dejen de mirar y\néchennos una mano! ¡Necesitamos a toda la familia\nen esto!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Jeje... ¡Ahora mismo lo traigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Superamos el ajetreo dejando montones de clientas\nsatisfechas. Creo que es hora de empezar a\ncerrar..."
+    },
+    {
+      "name": "Young Girl",
+      "text": "¡P-perdón! Es que... solo quería decirte...\n¡gracias!",
+      "choice_data_list": [
+        "¿Y tú eres...?",
+        "¿Y tú eres...?"
+      ]
+    },
+    {
+      "name": "Young Girl",
+      "text": "Esta es la tienda de mi abuelo. Pero se enfermó\npor el calor..."
+    },
+    {
+      "name": "Young Girl",
+      "text": "Dijo que, como todas de la Academia Tracen estaban\nemocionadas por venir, le daba pena cerrar la\ntienda. Estaba dispuesto a esforzarse demasiado\npara mantenerla abierta."
+    },
+    {
+      "name": "Young Girl",
+      "text": "Pero fue entonces cuando ustedes dos dijeron que\nnos ayudarían.",
+      "choice_data_list": [
+        "Así que eso pasó.",
+        "Así que eso pasó."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Eh, no te equivoques. No ayudé por lástima ni nada\nde eso."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Es solo que la idea de hacer algo con alguien tan\nimpredecible... me picó la curiosidad."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No me va eso de seguir reglas ni hacer las cosas\nperfectas. Eso no es lo que me hace feliz."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Jeje! ¡Espero que estés lista! ¡Mañana sacaremos\nun mikoshi decorado con luces llamativas para\natraer más clientas!"
+    },
+    {
+      "name": "Young Girl",
+      "text": "¡Guau! ¡Quiero ver eso!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Je, eres lo más alejado de las reglas que hay."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...En ese caso, ¿por qué no le ponemos el\nsantuario a un carrito y llevamos este puesto de\ncomida a todas partes?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ohh, genial! ¡Podemos mejorarlo con esos motores\na reacción que me sobran!"
+    },
+    {
+      "name": "Young Girl",
+      "text": "¿¡En serio!? ¿Y qué más harán?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se están saliendo por completo de lo común...\nGracias a su trabajo en equipo, el puesto playero\nse vuelve un éxito durante el campamento de\nverano."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Bienvenidas, bienvenidas! ¿Cuántas comensales\nhoy? ¿Una? ¿Dos? ¿Tres docenas?",
+      "choice_data_list": [
+        "...¿Qué estás haciendo?",
+        "...¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué más? ¡Estoy trabajando! ¡Cómo no hacerlo\ncuando esta casita playero cayó en nuestras manos!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Vamos a ganar suficiente dinero para convertir\neste lugar en un <i>palacio</i> playero! ¡En 564 años,\nexcavarán sus ruinas del fondo del mar! ¿Verdad,\nNakayama?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Je, no me sorprendería, teniendo en cuenta que\nestás metida. Igual podríamos replantearnos cómo\nfunciona el comercio en el mundo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Echo un vistazo al local, pero no veo a ninguna de\nlas empleadas habituales. ¿Estas dos se adueñaron\ndel lugar?",
+      "choice_data_list": [
+        "(¿Esto está bien?!...)",
+        "(¿Esto está bien?!...)"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Sabía que vendrías en el momento justo! Con tu\nayuda, esta familia playera será imparable."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ni la presión de las profundidades del mar podrá\nromper nuestro lazo! ¡Esta familia será la mejor\nque haya existido!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Nakayama es la jefa! ¡Yo soy la aprendiz en\napuros! Esa gaviota es la heroína que nos protege\ndesde las sombras, y tú eres nuestro amado vaso de\npapel.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Exacto! ¡Primero tenemos que desarrollar nuestro\nmenú! ¡No podemos olvidar los yakisoba con mil\nveces más garam masala! ¿Verdad, Jefa?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Luego están los helados de permafrost y los\ndumplings explosivos de anchoas! ¡Guau, es como si\nun géiser de inspiración estallara dentro de mí!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Bueno, suena bien. Haz lo que quieras.",
+      "choice_data_list": [
+        "¿En serio?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me pone nerviosa de mil formas... pero es hora del\nalmuerzo, ¡y un montón de estudiantes están por\nllegar en tropel!"
+    },
+    {
+      "name": "Student Customers",
+      "text": "¿\"Tofu de fuegos artificiales en cascada\"? ¿\"Sopa\nde la fosa oceánica ancestral\"? ¡Guau! ¿Qué clase\nde comida es esta? ¿La probamos?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Disculpa. Tu yakisoba estaba delicioso, Golshi...\nQuiero repetir."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ahh, apareces otra vez ante mí, Monstruo del\nEstómago! ¡Esta vez te atacaré con mi Yakisoba de\nGaram Masala Mil Veces Más Fuerte!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿¡Mm?! ¿Q-qué es esto?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¡Está delicioso!"
+    },
+    {
+      "name": "Student Customers",
+      "text": "¡Guau, debe estar bueno si a Oguri le gusta! ¡Es\nla neta! ¡Oye, yo también quiero uno!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Muchas gracias! Para agradecerles por su apoyo,\n¡haremos una oferta especial por los próximos 564\nsegundos! ¡Agrandados estilo Himalaya gratis para\ntodas!"
+    },
+    {
+      "name": "Student Customers",
+      "text": "¡Genial! ¡Yo también quiero uno!",
+      "choice_data_list": [
+        "¡El negocio está que vuela!"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Tenía el presentimiento de que sería mucho más\ninteresante dejarla hacer de las suyas."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Mira esas habilidades con la gente... Yo nunca\npodría igualarlas."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oye, jefa! ¡Vasito de papel! ¡Deja de mirar y\néchame una mano! ¡Necesitamos a toda la familia en\nesto!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Jeje... ¡Voy enseguida!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Logramos superar el ajetreo dejando solo clientas\nsatisfechas. Supongo que es hora de empezar a\ncerrar..."
+    },
+    {
+      "name": "Young Girl",
+      "text": "P-perdón... Es que... solo quería decir...\n¡gracias!",
+      "choice_data_list": [
+        "¿Y tú eres...?",
+        "¿Y tú eres...?"
+      ]
+    },
+    {
+      "name": "Young Girl",
+      "text": "Esta es la tienda de mi abuelo. Pero él se enfermó\npor el calor..."
+    },
+    {
+      "name": "Young Girl",
+      "text": "Dijo que, como todas de la Academia Tracen estaban\nemocionadas por venir, le daba pena cerrar la\ntienda. Estaba dispuesto a esforzarse demasiado\npara mantenerla abierta."
+    },
+    {
+      "name": "Young Girl",
+      "text": "Pero fue entonces cuando ustedes dos dijeron que\nnos ayudarían.",
+      "choice_data_list": [
+        "Así que eso pasó.",
+        "Así que eso pasó."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ah, no te equivoques. No ayudé porque me diera\npena o algo así."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Es solo que la idea de hacer algo con alguien tan\nimpredecible... despertó mi curiosidad."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No me va eso de seguir reglas ni hacer las cosas\nperfectas. Eso no es lo que me hace feliz."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Jeje! ¡Espero que estés lista! ¡Mañana sacaremos\nun mikoshi decorado con luces llamativas para\natraer más clientas!"
+    },
+    {
+      "name": "Young Girl",
+      "text": "¡Guau! ¡Quiero ver eso!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Je, eres lo más alejado de las reglas que existe."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Pero espera un momento. Como el mar está justo\naquí, creo que si vamos a decorar algo con luces,\ndebería ser un bote."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Eh? ¡Pero no podemos ponerle orugas de bulldozer\na un bote! ¡No tendría sentido!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Ah, sí? Entonces, ¿qué tal si lo resolvemos con\nun concurso? ¡Veamos qué reina: las orugas del\nbulldozer o la hélice del bote!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tras un pequeño choque amistoso entre las dos, la\ncaseta de la playa termina atrayendo montones de\ngente cada día."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Bienvenidas, bienvenidas! ¿Cuántas comen hoy?\n¿Una? ¿Dos? ¿Tres docenas?",
+      "choice_data_list": [
+        "...¿Qué haces?",
+        "...¿Qué haces?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué más? ¡Estoy trabajando! ¡Cómo no hacerlo si\nesta casa de playa cayó en nuestras manos!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Vamos a ganar suficiente dinero para remodelar\neste lugar en un <i>palacio</i> playero. ¡En 564 años,\nestarán excavando sus ruinas del fondo del mar!\n¿Verdad, Nakayama?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Je, no me sorprendería, considerando que estás\ninvolucrada. Igual podríamos replantear cómo\nfunciona el comercio en el mundo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Echo un vistazo al local, pero no encuentro a\nninguna de las empleadas habituales. ¿Estas dos se\nadueñaron del lugar?",
+      "choice_data_list": [
+        "(¿Esto está bien?!).",
+        "(¿Esto está bien?!)."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Sabía que llegabas en el momento justo! Con tu\nayuda, ¡esta familia playeras será imparable!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ni la presión del mar profundo podrá romper\nnuestro lazo! ¡Esta familia será la mejor que haya\nexistido!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Nakayama es la jefa! ¡Yo soy la aprendiz en\napuros! Esa gaviota es la heroína que nos protege\ndesde las sombras, ¡y tú eres nuestro amado vasito\nde papel!",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Exacto! ¡Primero tenemos que desarrollar el menú!\n¡No podemos olvidar los fideos yakisoba con 1,000\nveces más garam masala! ¿Verdad, jefa?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Y también hay albóndigas de permafrost rallado\ncon explosión definitiva de anchoas! ¡Guau, es\ncomo si tuviera un géiser de inspiración\nestallando dentro de mí!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Claro, suena bien. Desmádrate.",
+      "choice_data_list": [
+        "¿En serio?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me pone nerviosa de montones de formas... pero es\nhora de comer, ¡y un montón de aprendices está por\nllegar en estampida por su comida!"
+    },
+    {
+      "name": "Student Customers",
+      "text": "\"Tofu de fuegos artificiales en cascada\"? \"Sopa de\nfosa oceánica ancestral\"? ¡Guau! ¿Qué clase de\ncomida es esta? ¿La probamos?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Disculpa. Tu yakisoba estuvo buenísimo, Golshi...\nQuiero otro."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ahh, apareces una vez más ante mí, Monstruo del\nEstómago! ¡Esta vez te atacaré con mi Yakisoba de\nGaram Masala Milenario!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Hm?! ¿Q-qué es esto?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¡Está delicioso!"
+    },
+    {
+      "name": "Student Customers",
+      "text": "¡Vaya, debe estar bueno si a Oguri le gusta! ¡Es\nla onda! ¡Oye, yo también quiero uno!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Muchas gracias! Como agradecimiento por tanto\napoyo, ¡haremos una promoción especial por los\npróximos 564 segundos! ¡Agrandados al tamaño del\nHimalaya para todas!"
+    },
+    {
+      "name": "Student Customers",
+      "text": "¡Genial! ¡Yo también quiero uno!",
+      "choice_data_list": [
+        "¡El negocio está despegando como cohete!"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Tenía el presentimiento de que sería mucho más\ninteresante dejarla hacer lo suyo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Mira esas habilidades con la gente... Yo nunca\npodría igualarlas."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oye, Jefa! ¡Vaso de papel! Deja de mirar por ahí\ny échame una mano. ¡Aquí hace falta toda la\nfamilia!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Jeje... ¡Voy enseguida!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Logramos superar el ajetreo dejando solo clientas\nsatisfechas. Supongo que es hora de empezar a\ncerrar..."
+    },
+    {
+      "name": "Young Girl",
+      "text": "P-perdón. Es que... solo quería decir... ¡gracias!",
+      "choice_data_list": [
+        "¿Y tú eres...?",
+        "¿Y tú eres...?"
+      ]
+    },
+    {
+      "name": "Young Girl",
+      "text": "Esta es la tienda de mi abuelo. Pero se enfermó\npor el calor..."
+    },
+    {
+      "name": "Young Girl",
+      "text": "Dijo que, como todas de la Academia Tracen estaban\nemocionadas por venir, le daba pena cerrar la\ntienda. Estaba dispuesto a esforzarse demasiado\npara mantenerla abierta."
+    },
+    {
+      "name": "Young Girl",
+      "text": "Pero justo entonces ustedes dos dijeron que\nayudarían.",
+      "choice_data_list": [
+        "Así que eso pasó.",
+        "Así que eso pasó."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ah, no te equivoques. No ayudé porque me diera\npena o algo así."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Es solo que la idea de hacer algo con alguien tan\nimpredecible... despertó mi curiosidad."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No me va seguir reglas ni hacer las cosas\nperfectas. Eso no es lo que me hace feliz."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Jeje! ¡Espero que estés lista! Mañana sacaremos\nun mikoshi con luces llamativas para atraer más\nclientas."
+    },
+    {
+      "name": "Young Girl",
+      "text": "¡Guau! ¡Quiero ver eso!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ja, eres lo más alejado de las reglas que hay."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Pero bueno, tranquilas. Me encanta tu idea y todo,\npero si nos pasamos, el local playero dejará de\nser un local playero."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡No entiendes! ¡Mientras más evolucione, más épico\nserá!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Sí, pero es el lugar del abuelo, no el nuestro. Yo\nsoy la jefa, ¿no? Así que déjame tomar el timón en\nesto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nakayama Festa frena a Gold Ship para que no se\npase de la raya, y con su trabajo en equipo, el\npuesto playero atrae montones de gente cada día."
+    }
+  ]
+}
