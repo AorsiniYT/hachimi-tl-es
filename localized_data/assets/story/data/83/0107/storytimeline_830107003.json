@@ -1,0 +1,187 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky me invita al resort del hotel para el\nevento de apertura suave."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Este lugar está que arde! ¡Hagamos un concurso de\nshōgi humano de cien casillas! Yo seré la reina y\ntú puedes ser una esteticista carismática.",
+      "choice_data_list": [
+        "B-bueno, ¡tenemos montones de gente para eso!",
+        "B-bueno, ¡tenemos montones de gente para eso!"
+      ]
+    },
+    {
+      "name": "Reporter A",
+      "text": "Escuché que renovaron el lugar, pero no veo ningún\ncambio."
+    },
+    {
+      "name": "Reporter B",
+      "text": "Maruzensky puede ser su embajadora, pero esto\nparece un fiasco. ¿La habrán convencido de aceptar\nel rol?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡E-ey! Maruzen no es de ese tipo—"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Hola a todas! ¡Bienvenidas a este paraíso resort\nfuera de lo común!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sin más preámbulos, me gustaría presentarles el\nnuevo servicio especial que hemos preparado para\nla reapertura del hotel. Lo llamamos..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡La experiencia \"Sé Noble por un Día\"!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Así que hemos preparado un mayordomo personal para\ncada invitada. ♪"
+    },
+    {
+      "name": "Butler",
+      "text": "<username>, seré tu acompañante por hoy. Avísame si\nnecesitas algo.",
+      "choice_data_list": [
+        "G-gracias."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Empecemos con el spa! El vapor disolverá todo el\ncansancio acumulado. ♪"
+    },
+    {
+      "name": "Butler",
+      "text": "¿Qué tal el agua? ¿Deseas algún refrigerio?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oooh, me leíste la mente! Tráeme caldo de oden y\nponle esos bloques fríos para que el vaso haga\n\"clin clin\"."
+    },
+    {
+      "name": "Butler",
+      "text": "Entendido. Enseguida lo preparo.",
+      "choice_data_list": [
+        "¡¿Eso lo tienen listo?!",
+        "¡¿Eso lo tienen listo?!"
+      ]
+    },
+    {
+      "name": "Reporter A",
+      "text": "Bueno, esto no tiene nada de especial. Cualquier\nlugar podría ofrecer el mismo servicio si\nquisiera."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Y ahora, un delicioso té de la tarde! Esta lujosa\nsala las hará sentir como parte de la élite."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡La ausencia de una mesa de té hace que la\nexperiencia sea auténtica!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Y valoro mucho el detalle de las tazas y\ncubiertos a juego!"
+    },
+    {
+      "name": "Gerente",
+      "text": "Gracias por el halago. De hecho, el té de nuestro\nestablecimiento apareció en una novela de la era\nTaishō."
+    },
+    {
+      "name": "Reporter B",
+      "text": "¡¿Eh?! ¿Este lugar se mencionó en esa obra\nmaestra? Quién iba a pensar que tendría la\noportunidad de probar los sabores descritos en ese\ntexto..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, ¡es hora de una sesión de fotos! Elige el\nvestido que más te guste y los accesorios de este\narmario tan bonito."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Vaya, es difícil elegir cuando todo se ve tan\nbien! Supongo que un vestido bien hecho brilla más\nque la pata más suave."
+    },
+    {
+      "name": "Reporter A",
+      "text": "Lo entiendo. En estos tiempos, rara vez tenemos la\noportunidad de vestirnos tan formalmente, lo que\nhace que la experiencia sea aún más especial...\nEh, ¿cuántas participantes pueden unirse?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así termina la experiencia \"Sé Noble por un\nDía\"."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Y eso es todo! Dejaré que la gerente se encargue\ndel cierre."
+    },
+    {
+      "name": "Gerente",
+      "text": "Quiero agradecerles a todas por venir. En el\npanorama actual de tendencias cambiantes, nuestro\nresort podría parecer anticuado para algunas."
+    },
+    {
+      "name": "Gerente",
+      "text": "Pero creo firmemente que, aunque los tiempos\ncambien, el corazón de las personas no lo hace."
+    },
+    {
+      "name": "Gerente",
+      "text": "Lo que conquista el corazón no es la innovación ni\nla nostalgia. Lo importante es..."
+    },
+    {
+      "name": "Gerente",
+      "text": "La autenticidad. Ser fiel a una misma y pulir sus\nfortalezas."
+    },
+    {
+      "name": "Gerente",
+      "text": "Eso es lo que nos impulsa a ofrecer nuestra visión\nde un servicio de calidad."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Creer en tu corazón y esforzarte por\ntransmitirlo..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Espero que la experiencia de hoy les haya\npermitido sentir el gran orgullo y pasión que cada\nmiembro del personal de este hotel pone en su\ntrabajo."
+    },
+    {
+      "name": "All the Staff",
+      "text": "Gracias por acompañarnos hoy. ¡Esperamos que nos\nelijan para su próximo viaje!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Plaf, plaf, plaf!</i>"
+    },
+    {
+      "name": "Reporter A",
+      "text": "¡Tengo que decir que fue grandioso! La pasión del\npersonal y la historia de este lugar realmente\nbrillan... Por alguna razón, me siento más ligera."
+    },
+    {
+      "name": "Reporter B",
+      "text": "¡Tengo que escribir un artículo sobre esto! Lo\ntitularé: \"Histórico hotel vive un gran\nrenacimiento\".",
+      "choice_data_list": [
+        "¡Definitivamente volveré!"
+      ]
+    },
+    {
+      "name": "Gerente",
+      "text": "¡O-oh! ¡M-muchísimas gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me preparo para irme a casa cuando veo a\nMaruzensky cerca de la orilla."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Uf... ¡la brisa se siente genial! Nunca me canso\nde esta playa."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "La costa es larga... tranquila... y hoy, por\nalguna razón, luce más radiante que nunca."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Confiaré en mi corazón cuando lata emocionado. No\nimporta si la razón es vieja o anticuada."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Lo que más me importa es lo que está de moda! ¿No\ncrees? ♪"
+    }
+  ]
+}
