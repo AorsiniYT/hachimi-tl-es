@@ -1,0 +1,292 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Skilled Trainer",
+      "text": "¿Quieres saber más sobre Air Shakur? Pero\nentonces, ¿por qué me preguntas a mí?"
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "Seguro has oído sobre mi sesión con ella... No nos\nllevamos bien. Ni siquiera hablamos mucho. No seré\nde mucha ayuda.",
+      "choice_data_list": [
+        "Entonces, ¿tienes idea de por qué no se llevaron\nbien?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de nuestro último encuentro, no parece\nbuena idea preguntarle directamente a Air Shakur\nsobre sí misma. Así que decido preguntarles a\notras sobre sus impresiones de ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Necesito saber más sobre ella: sus logros, su\ncamino hasta ahora... todo. Mientras más aprenda,\nmejor la entenderé.",
+      "choice_data_list": [
+        "¡Por favor, cualquier cosa que me digas me\nayudará!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hm..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ah, tú. Te envié un correo hace un momento, así\nque revisa tu bandeja. Hasta luego.",
+      "choice_data_list": [
+        "¡E-espera un momento!",
+        "¡E-espera un momento!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "En mi bandeja de entrada encuentro un correo de\nAgnes Tachyon... y los archivos adjuntos. Cada uno\nparece un trabajo de investigación complejo..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Todos estos me los envió Shakur como parte de un\nintercambio entre investigadoras. Sus gráficos y\nla disposición de sus fórmulas deberían revelar\nalgo sobre su forma de pensar.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Lo mismo su redacción directa, sin adornos. Aunque\nyo, personalmente, veo compromiso con la estética\nen su trabajo..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Según ella, no es así. No estoy segura de\ncreerle... Ah, supongo que esos documentos pueden\nser un poco difíciles de entender.",
+      "choice_data_list": [
+        "Aunque sea complicado, los leeré. Gracias."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Ya veo. Bueno, no te los explicaré, así que haz\ntu mejor esfuerzo. Mientras lo hagas, <i>algo</i> saldrá.\nEstoy segura.",
+      "choice_data_list": [
+        "¿Por qué me ayudas?",
+        "¿Por qué me ayudas?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "\"Ayudarte\" no era mi intención. Pero como\ninvestigadora... no quiero que nada obstaculice el\nprogreso. Ni el tuyo ni el suyo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así comienzan mis días recopilando información\nsobre Air Shakur. Veo montones de grabaciones y\npregunto a otras entrenadoras y a sus compañeras.\nHasta que..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Mejor consigo una entrenadora pronto. ¿Por qué\ntenía que ser una de las condiciones para\ndebutar...? Ya es un poco tarde para quejarme)."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Una entrenadora, ¿eh...?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Pero tú aún quieres ganar, ¿verdad?\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Pero tú aún quieres ganar, ¿verdad?\""
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(No importa a quién elija, será un fastidio. En\nese caso, cualquiera sirve... Total, no harán gran\ncosa)."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Aunque... La idea de ver su cara de confusión\ntodos los días me da escalofríos. ¿Y de qué sirve\ndebutar... si ya sé cómo terminará todo?)"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Tal vez debería rendirme.",
+      "choice_data_list": [
+        "¿Lo dices en serio?",
+        "¿Lo dices en serio?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>Suspiro...</i> No sería tan raro decirlo. Quizás ya es\nmomento de dejarlo."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Quién rayos quiere jugar un juego si ya sabe cómo\ntermina? Tontas, eso es.",
+      "choice_data_list": [
+        "Y tú no eres tonta.",
+        "Y tú no eres tonta."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Tienes razón. Así que—",
+      "choice_data_list": [
+        "Pero no te rendirás. Porque quieres ganar."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Huh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al repasar informes y grabaciones, he logrado\nentender una parte del esfuerzo que ha puesto para\nganar el Derby. Así que sé con certeza...",
+      "choice_data_list": [
+        "No te rendirás. Nunca.",
+        "No te rendirás. Nunca."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Odio cuando la gente me habla así. No me\nconoces, así que no finjas que lo haces.",
+      "choice_data_list": [
+        "Tienes razón. No te conozco...",
+        "Tienes razón. No te conozco..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por más que lo intente, quizá nunca logre entender\nsu mundo... pero eso no me detendrá."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si me lo permite, estoy segura de que podremos\ntrabajar juntas para alcanzar su meta. Aunque no\nseamos iguales, nuestros ojos pueden mirar hacia\nel mismo horizonte.",
+      "choice_data_list": [
+        "Pero tampoco quiero rendirme en intentar\nentenderte.",
+        "Pero tampoco quiero rendirme en intentar\nentenderte."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Cómo...? Ni siquiera sabes programar. Y basas tus\nacciones en cosas ambiguas como sueños. No tenemos\nnada en común."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿De verdad crees... que podrás entenderme? ¿Cómo?\nY aunque <i>pudieras</i>... ¿de qué serviría?",
+      "choice_data_list": [
+        "Para descubrirlo, necesitaré tu ayuda.",
+        "Para descubrirlo, necesitaré tu ayuda."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Y si... todo resulta ser nada? ¿De verdad...?",
+      "choice_data_list": [
+        "¡Sí! ¡Quiero ser tu entrenadora!",
+        "¡Sí! ¡Quiero ser tu entrenadora!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...En serio no te entiendo. Entrenarme no te\ntraería ningún beneficio.",
+      "choice_data_list": [
+        "Claro que sí."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Ah, sí? ¿Cómo?",
+      "choice_data_list": [
+        "¡Podré verte ganar!",
+        "¡Podré verte ganar!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quiero ver el momento en que su esfuerzo—su\n<i>obsesión</i>—dé frutos. Como entrenadora, no hay mayor\nrecompensa que esa."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ya sabía, no entiendes ni una palabra de lo que\ndigo... Tampoco veo qué gano yo con esto.",
+      "choice_data_list": [
+        "Bueno, al menos podrás debutar, ¿no?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Si renuncio, no tendré que debutar, ¿cierto?",
+      "choice_data_list": [
+        "Bueno, estaré aquí si decides seguir adelante."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Qué demonios fue eso?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Pero tampoco quiero rendirme en intentar\nentenderte.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Pero tampoco quiero rendirme en intentar\nentenderte.\""
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Cállate. Lárgate. Aunque pudieras alcanzarme...\n¿de qué serviría tu terquedad?)"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Aunque... supongo que la terquedad es lo único que\ntenemos en común."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Aún no encuentro cómo superar esos siete\ncentímetros. Nada ha cambiado desde que calculé\nmis posibilidades. Pero...)"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Rendirme... no se siente bien."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Ah."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa noche, veo a Air Shakur mientras camino.\nPreocupada, decido vigilarla desde lejos hasta que\nregrese al dormitorio."
+    },
+    {
+      "name": "Police Officer",
+      "text": "Disculpe, lleva un rato siguiendo a esa chica.\n¿Podría explicarme por qué?",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "Police Officer",
+      "text": "Hemos recibido reportes de alguien acechando\nUmamusume por las noches. ¿Podría contarnos lo que\nsabe en la estación?",
+      "choice_data_list": [
+        "E-espera, yo no—",
+        "E-espera, yo no—"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>Je...</i> Bueno, no me queda opción."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Oye, déjala en paz. ¿No ves que está asustada?\nAdemás..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Esa \"acosadora\" es mi entrenadora... ¿Verdad?"
+    }
+  ]
+}

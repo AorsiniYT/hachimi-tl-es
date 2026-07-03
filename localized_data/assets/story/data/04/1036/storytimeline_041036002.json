@@ -1,0 +1,247 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Skilled Trainer",
+      "text": "Bueno, Air Shakur, hazme una vuelta usando la\nestrategia que acabo de explicarte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, vuelvo al circuito para observar\na las corredoras. Es entonces cuando veo a una\nentrenadora hablando con Air Shakur.",
+      "choice_data_list": [
+        "(Me pregunto qué tipo de carrera le mostrará...)"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>...Suspiro.</i> Vamos allá."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Hrrraugh!",
+      "choice_data_list": [
+        "(¡Gu-guau!)"
+      ]
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Ay! N-no puede ser... Mejor corramos a otro\nlado..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La carrera de Air Shakur es más salvaje de lo que\nimaginaba... pero no es descuidada. De hecho,\ndiría que es tan refinada que no queda ni un ápice\nde ineficiencia."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>Haa... Haa... Haa!</i> ¡Jajaja!",
+      "choice_data_list": [
+        "(Increíble...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al entrar en la recta, acelera más y más, como si\npersiguiera a su presa. Me deja asombrada su\nhabilidad. Claramente tiene talento. Sin\nembargo..."
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "¡E-ey! ¿Qué crees que haces? ¡<i>Eso</i> no era lo que te\npedí!",
+      "choice_data_list": [
+        "(...?!)"
+      ]
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "Te dije que probaras el ritmo de persecución en\nesta primera vuelta, ¿por qué te contuviste hasta\nla cuarta curva?"
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "Si voy a ser tu entrenadora, necesito evaluar tus\nhabilidades. Pero no podré hacerlo si no cooperas."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Entonces no me hagas perder el tiempo."
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "Huh?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Necesitas verme perseguir un ritmo para evaluar\nmis habilidades? ¿Por qué? ¿Qué lógica tiene eso?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Da igual. Ya recopilé y evalué los datos yo misma.\nNo voy a desperdiciar recursos en experimentos a\nmedias."
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "Pero no puedes garantizar que los datos que\nrecopilaste sean correctos, ¿verdad? Mi\nexperiencia como entrenadora me da la capacidad\nde..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ugh, ya basta. Eres igual que las demás, así que\nolvida que acepté esta supervisión. Vete."
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "¡¿Eh?! ¡¿Qué dices?! ¡Apenas empezamos!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Y ya terminamos. Si intentas robarme más de mi\nvalioso tiempo... Sabes lo que pasará, ¿<i>verdad?!</i>"
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "¡Urk! ¿Q-qué te pasa...? ¡Bueno, haz lo que\nquieras!"
+    },
+    {
+      "name": "Trainer A",
+      "text": "D-did you see that? ¿Cómo diablos se supone que\nentrenes a una corredora tan rebelde?"
+    },
+    {
+      "name": "Trainer B",
+      "text": "No lo haces, así es... Hablarle sería como\nhablarle a una pared, ¿o—"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Oye, si van a susurrar, al menos háganlo donde no\npueda—"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Hwaaah!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ayyy... Lo siento mucho... Mira que hacerte\nayudarme a levantarme otra vez..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Otra caída espectacular. ¿Qué pasó esta vez?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eh, bueno... Creo que me pasé un poco...\nÚltimamente no he logrado bajar mi tiempo...\nSupongo que me excedí corriendo..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Así que chocaste contra un muro. En vez de\nenfrentarlo de frente, ¿no sería mejor probar otra\ncosa?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Entiendo que te esfuerzas, pero solo puedes\nmejorar hasta cierto punto. Todos tenemos límites.\nInsistir sin rendirte solo hará que pierdas el\ntiempo."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eh, bueno... No soy muy lista, así que cualquier\nidea que se me ocurra no servirá de nada... Lo\núnico que puedo hacer es esforzarme."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero pensé que, si seguía lanzándome contra ese\nmuro con todo... Quizás algún día, por fin lo\nderribaría. No sé..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Ya veo. Bueno, entonces... Me ilusiona verte\nderribar ese muro."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"Algún día\", ¿eh..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Qué deseo más vacío...",
+      "choice_data_list": [
+        "(...!)"
+      ]
+    },
+    {
+      "name": "Trainer B",
+      "text": "<i>Uff...</i> Parece que se calmó... Esa Air Shakur, hoy\nestuvo peor que nunca.",
+      "choice_data_list": [
+        "(¿Qué quiso decir con \"vacío\"?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo dijo en voz baja, pero el dolor en sus palabras\nresuena en mi mente..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero también lo hace la imagen de su carrera. Más\ntarde, al caer la tarde, me encuentro de nuevo en\nla pista y veo...",
+      "choice_data_list": [
+        "(¿Shakur?)"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>Haa... Haa... Haa...</i>"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Maldición... nada cambió! Ni ahora, ni antes,\n<i>¡NUNCA!</i>"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Siete centímetros! ¡Solo eso! Apenas unos\ncentímetros, pero sin importar cuánto lo\nintente... ¡No puedo ni—!",
+      "choice_data_list": [
+        "(¿Siete centímetros?)"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Vaya, esto no es propio de ella. Toda esa\nfrustración acumulada por fin está saliendo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Buenas noches. Soy Agnes Tachyon, amiga de\nShakur... Aunque seguro ella no estaría de\nacuerdo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hoy se está excediendo. Para alguien tan\nobsesionada con la eficiencia y los resultados,\nverla desperdiciar energía así es bastante\nextraño.",
+      "choice_data_list": [
+        "¿Qué es exactamente lo que intenta hacer?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Tienes mucha experiencia con el mundo de los\nceros y unos? Si no, me temo que nunca entenderás\nsu forma de pensar."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Podrías decir que... Shakur es una devota de los\ndatos. Pasa su tiempo recopilándolos y haciendo\nsimulaciones, con la esperanza de encontrar una\nsolución."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ella ve el mundo en términos de verdadero y falso.\nPara ella no existen ambigüedades como el\npotencial."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Lo que ves ahora... es a su dios negándole un\nfuturo prometedor. Y como su dios es absoluto, esa\nrevelación también es inmutable."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Si cambiara, significaría que toda su visión del\nmundo está equivocada, algo igualmente aterrador.\nAsí que no le queda más que aceptar su destino, le\nguste o no.",
+      "choice_data_list": [
+        "Pero aun así, quiere cambiar algo..."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Exactamente! Su mente es un verdadero enigma.\n¿Por qué sigue luchando si ella misma admite que\nes inútil?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "La visión de Shakur sobre la corredora ideal es la\nperfección tallada... Pero si me preguntas, el\npotencial puede encontrarse en los desechos y los\nespacios indefinidos."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Vaya, parece que está terminando. Aunque le gusta\nobservar a otras corredoras, odia ser observada."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Me retiro aquí, pero tú... Ahora que tu curiosidad\nse despertó y Shakur ocupa tus pensamientos...\n¿Qué <i>harás</i>?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como si respondiera a la pregunta de Agnes\nTachyon, me doy la vuelta y corro tras Air Shakur."
+    }
+  ]
+}

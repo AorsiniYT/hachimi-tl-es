@@ -1,0 +1,228 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras buscaba a Air Shakur, la\nencuentro tomando una siesta poco común, con su\nlaptop aún abierta."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al acercarme para cerrar su laptop, la pantalla\nllama mi atención. Parece que tenía sus redes\nsociales abiertas. La cuenta en pantalla dice\n\"!monad.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por lo que veo, es una cuenta que usa para\npublicar la música que hace. Me sorprende un poco\nsu elección de hobby, pero decido irme antes de\nque despierte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después, decido invitar a Air Shakur a\nla tienda de discos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estaba segura de que diría que no, pero parece que\nya tenía planes de venir. Me dejó acompañarla,\npero nada más."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Vaya, nunca aprendes, ¿eh? ¿Recuerdas lo que pasó\nen el cibercafé?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Una vez que estemos en la tienda, ni se te ocurra\nhablarme.",
+      "choice_data_list": [
+        "Entendido."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Este artista ni siquiera es tan famoso, ¿por qué\nun CD físico? Si lo hubieran subido en línea, lo\nhabría comprado con un solo clic."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que hoy vino a comprar el CD de un artista\npoco conocido.",
+      "choice_data_list": [
+        "Te debe gustar mucho la música.",
+        "Te debe gustar mucho la música."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No tanto. Pero sirve para ahogar los pensamientos\nen mi cabeza."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Ah."
+    },
+    {
+      "name": "Young Artist",
+      "text": "Ahora viene mi canción más reciente, \"Rust\"."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Shakur se detiene en seco. Sigo su mirada y\nencuentro a una joven actuando en su mesa de DJ.",
+      "choice_data_list": [
+        "¿La conoces?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Su CD es lo que vine a comprar."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No pensé que la escucharía en vivo hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, Air Shakur encuentra un lugar algo\napartado de la artista y comienza a escuchar su\nactuación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El ritmo de la canción parece atraerte y los scats\nle dan un toque juguetón a la experiencia. Sin\ndarme cuenta, empiezo a marcar el compás con el\npie.",
+      "choice_data_list": [
+        "Esta canción está buena.",
+        "Esta canción está buena."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Sí, no está mal."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "La mayoría de sus cosas en línea son muy ligeras y\nretro... Parece que cambió a música house."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno, el cambio es inevitable después de todo.\nVámonos."
+    },
+    {
+      "name": "Young Artist",
+      "text": "¡E-espere! ¡Tome esto!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hm?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La joven música le entrega un volante a Air\nShakur."
+    },
+    {
+      "name": "Young Artist",
+      "text": "Todavía soy nueva en esto, pero actuaré en este\nevento. ¡Pase si puede!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Entendido. Ah, es este fin de semana... ¡ah!",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al echar un vistazo al volante, mis ojos se posan\nen el perfil de la artista, donde explica que se\ninspiró para actuar tras escuchar a cierto\nartista... !monad.",
+      "choice_data_list": [
+        "(Espera, ¿no es ese el de Air Shakur...?)"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Young Musician",
+      "text": "Ehm, disculpe... ¿todo bien?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Sí, todo bien. Mucha suerte este fin de semana.",
+      "choice_data_list": [
+        "¿Quién es este DJ que aparece en tu perfil?",
+        "¿Quién es este DJ que aparece en tu perfil?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Oye!"
+    },
+    {
+      "name": "Young Artist",
+      "text": "¡Ah, ese! ¡Me ENCANTA la música de !monad! Tengo\nque tener mucho cuidado de no copiar su estilo por\ncompleto."
+    },
+    {
+      "name": "Young Artist",
+      "text": "Terminé usando scats con la esperanza de darle mi\npropio toque a la canción... Pero bueno, ¡aún\nestoy puliendo mi estilo!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...La música de !monad me suena a que solo se\ndivierte. Dudo que sirva de inspiración o algo\nasí."
+    },
+    {
+      "name": "Young Artist",
+      "text": "¡Venga, no digas eso! ¡Le debo la vida a !monad!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...¿Tu vida?"
+    },
+    {
+      "name": "Young Artist",
+      "text": "No lo digo en serio. Ni siquiera nos conocemos.\nPero..."
+    },
+    {
+      "name": "Young Artist",
+      "text": "Es que... soy distinta a los demás y por eso la\nvida me ha puesto las cosas difíciles. Aunque\nintenté encajar, siempre sentí que algo seguía\n<i>fuera de lugar</i>, ¿sabes?"
+    },
+    {
+      "name": "Young Artist",
+      "text": "Pero entonces escuché la música de !monad y fue\ncomo si alguien le hiciera un corte de manga al\nmundo. ¡Me dio el empujón que necesitaba para\nhacer las cosas a mi manera!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Young Artist",
+      "text": "¡Oye, pero sin eso!\nSu estilo es único, como un grito del alma,\nesos momentos efímeros... ¡No hay otro igual!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Young Artist",
+      "text": "Me encantaría conocerla algún día. Sé que en el\nfondo tiene un corazón que arde con <i>pasión</i>"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...¿Ah, sí?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...¿Eh? ¿De qué te ríes?",
+      "choice_data_list": [
+        "¡N-nada!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Varios días después..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Oye, mira esto! ¡Alguien pegó un volante súper\nllamativo en el tablero! ¿Crees que fue una\nestudiante?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Seguro. Pero espera, ¿no es de un club en la\nciudad? Mmm... Tal vez le eche un vistazo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un volante misterioso en el tablero de la academia\nse convirtió rápidamente en el tema de\nconversación."
+    }
+  ]
+}
