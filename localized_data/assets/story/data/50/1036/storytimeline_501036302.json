@@ -1,0 +1,537 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, me encuentro con Air Shakur en la ciudad y\ndecidimos volver juntas a la academia. En el\ncamino..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El premio mayor de este año es un\nviaje a un balneario para dos!",
+      "color_text_info_list": [
+        "viaje a un balneario"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Los ganadores del primer lugar se llevan una\nhamburguesa de zanahoria de lujo! ¡Los del\nsegundo, un manojo de zanahorias! ¡Y los del\ntercero, una sola zanahoria!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejen pasar esta oportunidad! ¡Consigan su\nboleto y giren para tener la chance de ganar!",
+      "choice_data_list": [
+        "Eso parece divertido.",
+        "Eso parece divertido."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Shakur no parece muy interesada, pero recuerdo\nque me dieron un boleto de rifa antes cuando\nestaba de compras. Se lo enseño.",
+      "choice_data_list": [
+        "¿Quieres probar suerte?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Para qué? Hazlo tú.",
+      "choice_data_list": [
+        "Apuesto a que podrías conseguir el premio que\nquieres."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Mira, las rifas no se tratan de conseguir lo que\nquieres. La emoción está en no saber qué te puede\ntocar."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Dónde quedó tu espíritu aventurero?",
+      "choice_data_list": [
+        "¿De verdad piensas eso?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Claro que no."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que no le interesa nada la rifa, pero si\nlogramos ganar el premio mayor...",
+      "choice_data_list": [
+        "(Air Shakur por fin podría descansar)."
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Eh... ¿Van a participar o solo están ahí paradas\npor gusto?",
+      "choice_data_list": [
+        "¡Queremos probar suerte, por favor!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Vaya, qué bien. ¿Y qué premio les gustaría ganar?",
+      "choice_data_list": [
+        "¡El viaje al balneario!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Piensas participar un millón de veces? No hay\nforma de que ganes eso."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno, como sea. Anda, gira ya."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un destello de interés mal disimulado brilla en\nlos ojos de Air Shakur mientras me ve girar la\nmanivela de la máquina de rifa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae por la abertura\ndel bombo..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Vaya! ¡Tenemos ganadora del premio mayor! ¡Vengan\npor su cupón para el viaje al balneario!\n¡Felicidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Has obtenido: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ooh. Vaya, vaya, vaya. ¿Quién lo hubiera pensado?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Vaya, vaya. ¿Quién lo hubiera pensado?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Oye. ¿Cuánta gente ha participado en esta rifa? ¿Y\ncuáles son las probabilidades de ganar el premio\nmayor?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Dime la demografía de todos los que participaron y\ncómo giraron la manivela... ¿Han estado\nregistrando todas las estadísticas?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Eh... No tengo idea de nada de eso."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ajá. Ya me lo imaginaba."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Pero bueno, ganaste el premio mayor... ¿No estás\nfeliz? No todos los días se gana un viaje a un\nbalneario."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Yo no fui la que lo quería."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Bueno, entonces, ¡entrenadora! ¡Disfruta tu viaje!",
+      "choice_data_list": [
+        "Ah, eh... ¡Gracias! Yo... supongo que lo haré."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hm?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Pensé que querías ese cupón. No vendría mal\nmostrar un poco más de entusiasmo.",
+      "choice_data_list": [
+        "¿No te gustan los balnearios?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No es que tenga algo en contra. Simplemente no me\ngusta la idea de hacer todo un viaje por eso."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ya de por sí odio estar rodeada de gente, ¿por qué\nquerría sentarme en un baño con un montón de\ndesconocidos?",
+      "choice_data_list": [
+        "¿Eh? Pensé que el dormitorio tenía baños\ncompartidos. ¿No estás acostumbrada?",
+        "¿Eh? Pensé que el dormitorio tenía baños\ncompartidos. ¿No estás acostumbrada?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Solo uso las duchas cuando no hay nadie."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "De todos modos, hay que ducharse antes de meterse\na la bañera, así que ¿para qué molestarse? Solo\nentro si es necesario."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nada de baños relajantes y largos... anotado.\nEntonces, no creo que le haga mucha gracia visitar\nun onsen."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Y a qué vienen tantas preguntas? Normalmente eres\nmuy cuidadosa con los límites.",
+      "choice_data_list": [
+        "Solo tenía curiosidad."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno, ya me estás poniendo nerviosa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, a pesar de ganar milagrosamente el gran\npremio, el destino del cupón de vacaciones sigue\nsin estar claro..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicidades! ¡Te llevas una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Primer premio, ¿eh? Aunque no era exactamente lo\nque buscabas. Qué mala suerte.",
+      "choice_data_list": [
+        "Pero, ¿qué probabilidades había?",
+        "Pero, ¿qué probabilidades había?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Sí, técnicamente es un buen premio. Pero,\n¿realmente lo quieres?",
+      "choice_data_list": [
+        "Puedes quedártelo."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Oye, no me endoses tu basura."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¿No lo quieres? Pero montones de Umamusume vienen\naquí específicamente para intentar ganar la\nhamburguesa de zanahoria."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Qué bonito. Lástima que yo no sea una de ellas."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Pero es <i>realmente</i> deliciosa! ¡Carniceros,\npanaderos, verduleros y restaurantes locales se\nunieron para crearla! ¡Es el orgullo del centro\ncomercial!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ya veo. Me alegro por ti."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¿Eh? ¿Ni un poquito tentada de probarla?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "La como si necesito energía."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No, no! Aquí está en juego mi orgullo. Este\npremio fue diseñado para hacer felices a nuestras\nclientas Umamusume."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No te dejaré ir hasta que estés satisfecha!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Oye, mamá! ¡Tú ahí! ¡Calienta esta hamburguesa\npor mí!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Qué demonios? Ya dije que no la quiero."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una cosa llevó a la otra, y Air Shakur terminó\nprobando la hamburguesa de zanahoria de lujo en el\nmomento. Tras su primer bocado..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Está buena."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Te lo dije! ¡Está deliciosa!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Sí. No soy ninguna experta en cocina, pero esto no\nestá nada mal."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Vamos, enséñame esa sonrisa!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ni lo sueñes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Air Shakur terminó su comida."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos una ganadora del segundo premio! ¡Es tu\ndía de suerte! ¡Te llevas un manojo de zanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Vaya que son naranjas.",
+      "choice_data_list": [
+        "Vaya que sí.",
+        "Claro que sí."
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Y están repletas de nutrientes. ¡Buen provecho!",
+      "choice_data_list": [
+        "(Quizá podamos darle algunas a las demás\naprendices...)"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Podemos mandarlas a domicilio si quieres... pero\nseguro que tu amiga aquí puede cargarlas sin\nproblema."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...",
+      "choice_data_list": [
+        "En realidad, yo puedo."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Ah?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Son bastante pesadas, ¿sabes? ¿Estás segura?",
+      "choice_data_list": [
+        "¡Hago ejercicio, así que no habrá problema!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me he acostumbrado a hacer los mismos ejercicios\nque diseño para Air Shakur, para entender mejor\nsus beneficios. Creo que estoy en buena forma para\nmi edad."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Al menos podríamos alquilar un carrito o algo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido seguir el consejo de Air Shakur y pido\nprestado un carrito del centro comercial para\nllevar las zanahorias a la academia. Pero...",
+      "choice_data_list": [
+        "(¡Es tan... pesado!)"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Supongo que al empujarlo avanzo muy lento, porque\nAir Shakur me deja atrás.",
+      "choice_data_list": [
+        "(¡No voy a retractarme! ¡Vamos!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Doy unos pasos más hasta que..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh! ¿Eres la entrenadora que está repartiendo\nzanahorias a todas?",
+      "choice_data_list": [
+        "¿La... qué?!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Vi una publicación en Umatter sobre una\nentrenadora que iba hacia la Academia Tracen\nrepartiendo montones de zanahorias!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Quería conseguir unas cuantas si te alcanzaba a\ntiempo!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Yo también quiero. ¡Cuantas más, mejor, por favor!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Oh! Nosotras también queremos zanahorias, por\nfavor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En un instante, un montón de Umamusume se abalanza\nsobre mí, y las zanahorias desaparecen antes de\nque pueda reaccionar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para cuando llego al campus, no queda ninguna. No\nera mi plan repartirlas así, pero, pensándolo\nbien, me alegra que haya funcionado.",
+      "choice_data_list": [
+        "(Seguro adivino quién hizo ese post de Umatter...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando termino de agradecer mentalmente a mi\nmisterioso benefactor, otra Umamusume se me\nacerca."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Tú eres la que reparte zanahorias, ¿verdad? ¡Hola!",
+      "choice_data_list": [
+        "Eh... Hola..."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hehe."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi nueva fama me persigue por un buen rato."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Mira nada más! ¡Te tocó el tercer premio! ¡Aquí\ntienes tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Una zanahoria? Vaya.",
+      "choice_data_list": [
+        "Pero el onsen..."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Qué mala suerte. Date prisa y recoge tu premio."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ja, mírate ahí, parada con tu única zanahoria."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Eres la viva imagen de la confusión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Esta puede ser mi oportunidad de entretener a Air\nShakur! Alzo la zanahoria como si fuera una\nespada.",
+      "choice_data_list": [
+        "¿Qué tal ahora?!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Y lo arruinaste."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Forzar un chiste es la mejor forma de echarlo a\nperder. Era gracioso porque fue espontáneo."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Y deja de tratar de congraciarte conmigo. Es\nasqueroso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al llegar a casa, la dulzura de la zanahoria me\nconsuela un poco."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Vaya, qué mala suerte! ¡Te tocó un cupón en\nblanco! Toma este paquete de pañuelos como premio\nde consuelo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Qué mala pata.",
+      "choice_data_list": [
+        "Vaya..."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Sí, tenía el presentimiento de que esto pasaría,\nestadísticamente hablando.",
+      "choice_data_list": [
+        "Quería llevarte a las aguas termales, pero..."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Huh?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ajá. Así que de eso se trataba."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Como si yo quisiera ir en primer lugar. ¿Por qué\nestán tan decepcionados? Déjenlo ya, perdedores."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque diga eso, se nota un poquito\ndecepcionada... O quizá solo sea mi imaginación."
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llevo a Air Shakur a la enfermería para un\nchequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! Una clie— digo, ¡una alumna! ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Te lastimaste? ¿Estás enferma? ¿Estresada? ¡Sea\nlo que sea, yo lo curo todo!",
+      "choice_data_list": [
+        "¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la enfermería de\nla academia, ¡diría que soy tu enfermera escolar\nde confianza! ¡Sí, solo una empleada común y\ncorriente!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Jajaja! Parece que no se te escapa nada. Supongo\nque debería empezar por presentarme."
+    },
+    {
+      "name": "???",
+      "text": "¡Ejem! ¡Permítanme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (posible) salvadora de todas las Umamusume,\nla (autoproclamada) legendaria acupunturista de\nmanos mágicas..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única e inigualable Sasami Anshinzawa! ¿Ven?\n¡Nada de qué preocuparse! ☆",
+      "choice_data_list": [
+        "..."
+      ],
+      "color_text_info_list": [
+        "Sasami Anshinzawa"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Aaah... Ahora que lo pienso, recuerdo haber visto\ndatos sobre un personaje sospechoso que aparece en\nla enfermería de vez en cuando."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya! Sí que pareces preocupada. ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos presentamos, así\nque acuéstate y deja que ponga estas agujas a\ntrabajar."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ni lo sueñes. Me largo de aquí."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay por qué asustarse! Solo voy a\ncolocar estas agujas extraordinarias con precisión\nen tus puntos de chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y listo, abracadabra! ¡Algo indescriptible\nsucederá!",
+      "choice_data_list": [
+        "(Esto es sospechoso a niveles indescriptibles...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y te aseguro que no hay nada sospechoso en esto!\n¡Nunca ha salido nada menos que perfecto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestra.",
+      "choice_data_list": [
+        "¿Para tu maestra?! ¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Es mi primera vez, así que\ntécnicamente, ¡tampoco he fallado con ningún\npaciente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es que no tenga experiencia! Pasé diez años\nbajo una maestra legendaria, trayendo té— digo,\n¡entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ven? ¡Nada de qué preocuparse! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí ya!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ni locas nos quedamos. Tomo a Air Shakur y me\ndirijo a la puerta, cuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¿A dónde van?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Tú eres Air Shakur, verdad?! ¡La Umamusume\nexcéntrica y ultra-lógica que ama calcular números\npara forjar su futuro!",
+      "choice_data_list": [
+        "¿Has oído hablar de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Que si he oído hablar de ella? ¡Claro que sí!\n¡Soy una gran fan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por eso estoy aquí! ¡Para darte mi apoyo! ¡Déjame\nayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Dame una oportunidad! ¡Por favooor!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno, hasta los programas con errores a veces\ngeneran beneficios inesperados..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Te lo ruego con una zanahoria encima!\n¡Incluso podrás elegir qué chakra activo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Estoy <i>segura</i> de que no fallaré!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... más o menos segura.",
+      "choice_data_list": [
+        "<i>¿Más o menos</i> segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Quiero decir que está del lado de lo seguro! Eso\nes <i>bueno,</i> ¿no? En fin, ¡no te detengas en los\ndetalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vayamos a lo bueno! ¿Qué chakra debo activar?\n¿Quieres un impulso para tus habilidades? ¿Tu\nsalud? ¿O tal vez tu <i>encanto</i>?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Huelo peligro en el aire, pero supongo que quizá\n—y remarco <i>quizá</i>— haya una posibilidad de obtener\nalgo especial con este tratamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué hacemos?",
+      "choice_data_list": [
+        "Activar el chakra de fuerza.",
+        "Activar el chakra de victoria.",
+        "Activar el chakra de salud.",
+        "Activar el chakra de encanto.",
+        "Esto es muy sospechoso. Mejor nos vamos mientras\npodamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Entiendo, entiendo. ¿Así que quieres que active el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bien, déjamelo a mí! ¡Es hora de localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, reláaajate... ¿Ves? ¡No hay de qué\npreocuparse! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pun!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Auch! ¡Maldita seas—!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción perfecta!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Mis piernas! Están tan... ligeras. ¿¡Qué demonios\npasa aquí?!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Oye, tú! ¡Dime exactamente dónde está ese\n\"chakra\" y dame pruebas que lo respalden!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> ¿En serio...? ¿De verdad funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No me digas! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Air Shakur está desbordando tanta fuerza que casi\nno la reconozco!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es un gran\nsalto para alcanzar nuestro objetivo!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ja."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Y a veces un fallo es solo un fallo. Esto solo\ndemuestra... la integridad... de mi... lógica..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estado de Air Shakur se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... Supongo que eso es todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Vaya, ¿ya es esta hora? ¡Me tengo que ir! ¡Adiós!\n☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haberlo sabido. No soy yo la que sufre, pero\nme arrepiento igual."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Entiendo, entiendo. ¿Así que quieres que active el\nchakra de victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bien, déjamelo a mí! ¡Es hora de localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, reláaajate... ¿Ves? ¡No hay de qué\npreocuparse! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pun!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Auch! ¡Maldita seas—!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción perfecta!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Mis piernas! Están tan... ligeras. ¿¡Qué demonios\npasa aquí?!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Oye, tú! ¡Dime exactamente dónde está ese\n\"chakra\" y dame pruebas que lo respalden!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> ¿En serio...? ¿De verdad funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No me digas! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puedo sentir una mejora enorme en las habilidades\nde Air Shakur!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es un gran\nsalto para alcanzar nuestra meta!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ja."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Y a veces un fallo es solo un fallo. Esto solo\ndemuestra... la integridad... de mi... lógica..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estado de Air Shakur se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... Supongo que eso es todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Vaya, ¿ya es esta hora? ¡Me tengo que ir! ¡Adiós!\n☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haberlo sabido. No soy yo la que sufre, pero\nme llena de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Entonces quieres que active el\nchakra de la salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Pues empecemos! ¿Estás lista? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bien, déjamelo a mí! ¡Es hora de localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, reláaajate... ¿Ves? ¡Nada de qué\npreocuparse! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y zas!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Auch! ¡Maldita sea—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción perfecta!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Mis patas! Están tan... ligeras. ¿Qué demonios\npasa?!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Oye, tú! ¡Dime exactamente dónde está ese\n\"chakra\" y dame pruebas!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Haa...</i> No puede ser... ¡¿En serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Nooo, no me lo creo! ¡Soy un genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Todo el cuerpo de Air Shakur irradia un brillo\nsaludable! ¡Está en perfecto estado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nos arriesgamos y valió la pena! ¡Esto es un gran\nsalto para alcanzar nuestra meta!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ja."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Y a veces un fallo es solo un fallo. Esto solo\ndemuestra... la integridad... de mi... lógica..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estado de Air Shakur se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... Supongo que eso es todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Vaya, ¿ya es esta hora? ¡Me tengo que ir! ¡Adiós!\n☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haberlo sabido. No soy yo la que sufre, pero\nme llena de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Entonces quieres que active el\nchakra del encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Pues empecemos! ¿Estás lista? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bien, déjamelo a mí! ¡Es hora de localizar ese\nchakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, reláaajate... ¿Ves? ¡Nada de qué\npreocuparse! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y zas!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Auch! ¡Maldita sea—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción perfecta!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Mis patas! Están tan... ligeras. ¿Qué demonios\npasa?!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Oye, tú! ¡Dime exactamente dónde está ese\n\"chakra\" y dame pruebas!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Haa...</i> No puede ser... ¡¿En serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Guau! ¡No puedo creerlo! ¡Soy un genio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Air Shakur rebosa encanto! ¡Seguro llamará la\natención dondequiera que vaya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nos arriesgamos y valió la pena! ¡Es un gran\nsalto para alcanzar nuestra meta!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bah."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Y a veces un fallo es solo un fallo. Esto solo\ndemuestra... la integridad... de mi... lógica..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estado de Air Shakur se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... Supongo que eso es todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Vaya, ¿ya viste la hora? ¡Me tengo que ir! ¡Adiós!\n☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido que no debíamos tentar a la\nsuerte. No soy yo quien sufre, pero me arrepiento\nigual."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos! ¡No te pongas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Reconsider."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! ¡Los intrusos <i>serán</i> sancionados!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Uy! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Qué pasa con la seguridad aquí? ¿Cómo dejaron\nentrar a una rara como esa?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Vámonos. Ya perdimos suficiente tiempo aquí.",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me da curiosidad quién será en realidad esa\nAnshinzawa, pero no sirve de nada darle vueltas.\nMejor olvidar lo de hoy y seguir adelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Cambiaste de opinión? No te preocupes, ¡a\ncualquiera le pasa!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Dime qué chakra quieres que active!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos! ¡No nos dejes en suspenso! Un momento...\n¿Cuánto tiempo llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! ¡Los intrusos <i>serán</i> sancionados!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Uy! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me largo! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La situación da un giro brusco antes de que pueda\ndecidir."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué fue todo eso? Air Shakur y yo nos miramos\ndesconcertadas."
+    }
+  ]
+}

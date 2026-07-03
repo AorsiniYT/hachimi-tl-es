@@ -1,0 +1,435 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Fiel a su palabra, Air Shakur recopila montones de\ndatos cada día hasta las Hopeful Stakes."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Clang!</i>"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Oye, alcánzame una cinta métrica! Necesito tomar\nunas medidas rápidas.",
+      "choice_data_list": [
+        "Right!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Mis tríceps surales han crecido 1.2 centímetros,\npero no hay cambio en mis gemelos."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Los mediremos otra vez cada cinco minutos. Cuando\nvuelvan a su tamaño original, los inflaré de\nnuevo."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Cinco minutos después, revisaremos la diferencia\nde tamaño otra vez. Prepárate.",
+      "choice_data_list": [
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y otra vez..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Esa pestaña muestra los datos biométricos que\nrecibo de mis dispositivos. Así podrás monitorear\nmis estadísticas en tiempo real."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Shakur instala su app de medición casera en mi\nteléfono, y mis ojos son atacados por los colores\nviolentamente brillantes de la interfaz.",
+      "choice_data_list": [
+        "¿Tú también hiciste el diseño?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Te molesta?",
+      "choice_data_list": [
+        "Sería más fácil leerlo si los colores fueran un\npoco más suaves..."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Cállate. El diseño de interfaces no es mi\nfuerte."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "He logrado mantener mis tiempos de vuelta en un\nnivel alto. Ahora trabajaré en recopilar datos\ndetallados de las curvas para encontrar la forma\nde acortar aún más mis tiempos."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Di en voz alta los valores que aparezcan después\nde cada vuelta y haré los ajustes necesarios.",
+      "choice_data_list": [
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Solo di los valores en orden. Nada más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestra recopilación de datos avanza sin problemas\ny sus resultados se acercan a los valores teóricos\nnecesarios para convertirse en campeona de la\nDouble Crown. Los preparativos continúan, pero..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ni siquiera nos sobran siete centímetros. En vez\nde hablar tanto, ¿por qué no usas la cabeza?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aún no hemos descubierto datos decisivos para su\nfuturo.",
+      "choice_data_list": [
+        "(¿Qué puedo hacer?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su recopilación de datos es exhaustiva. Si hay\nalgún dato que realmente le sirva, tendría que\nser..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Las emociones son una variable inestable, así que\nno es eficiente convertirlas en datos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si el problema es solo la eficiencia... entonces\nlos datos en sí serían útiles, ¿no? Solo tengo que\ndedicarle tiempo."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Hola, entrenadora!",
+      "choice_data_list": [
+        "Ah, ¿no eres...?",
+        "Ah, ¿no eres...?"
+      ]
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Narita Top Road! ¡Hola!",
+      "color_text_info_list": [
+        "Narita Top Road"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Top Road está un año por encima de Air\nShakur. Llamó mucho la atención tras ganar el\nKikuka Sho."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Te ves muy seria. ¿Hay algo que te preocupe?",
+      "choice_data_list": [
+        "Jaja, bueno..."
+      ]
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Si quieres, puedes contármelo. ¡Quizá pueda\nayudarte!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Alto ahí, Top Road!",
+      "color_text_info_list": [
+        "Top Road"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Si alguien entiende la angustia de esta\nentrenadora, soy yo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Quedaron hechizadas por la mismísima encarnación\nde la belleza... o sea, yo, T.M. Opera O!",
+      "color_text_info_list": [
+        "T.M. Opera O"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Así que por eso pasó! Eres increíble, Opera O.",
+      "color_text_info_list": [
+        "Opera O"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "T.M. Opera O, la ganadora del Satsuki Shō de este\naño... Es un año mayor que Shakur, como Narita Top\nRoad y la compañera de cuarto de Shakur, Meisho\nDoto.",
+      "color_text_info_list": [
+        "Meisho Doto"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ya han vivido las intensas pruebas y tribulaciones\nde un año clásico. Saben lo que le espera a\nShakur.",
+      "choice_data_list": [
+        "Ustedes saben de competencias, ¿verdad?",
+        "Ustedes saben de competencias, ¿verdad?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Por supuesto! Como cualquiera que esté en el gran\nescenario de la Serie Brillante.",
+      "choice_data_list": [
+        "¿También saben de cosas que no se consideran\nlógicas?"
+      ],
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero por su—eh, ¿qué dijiste?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus historias podrían revelar \"influencias no\ncuantificables\", datos útiles que Parcae no ha\nconsiderado en el futuro de Shakur.",
+      "choice_data_list": [
+        "¿Les molesta si les hago algunas preguntas?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>Haa...</i> Supongo que aún me falta información."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Mi cuerpo se fortalece poco a poco y mis\nestadísticas aumentan como predijo la simulación.\nPero...)"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Este es mi límite. No logro verme superando las\npérdidas previstas)."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Pero, aunque lo sepa, solo puedo seguir adelante.\nAunque el camino lleve directo al infierno...)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Cambiemos tu destino\"."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No necesito acompañantes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le pido a Air Shakur que nos veamos al día\nsiguiente, y aparece sin problemas."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...",
+      "choice_data_list": [
+        "Tengo una propuesta.",
+        "Tengo una propuesta."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Ah, sí? Entonces dime.",
+      "choice_data_list": [
+        "Reuní datos sobre influencias no cuantificables\nfuera de los cálculos de Parcae."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Huh?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"Cómo convertir las expectativas de la gente en\nfuerza\"... ¿Fue Narita Top Road?"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Para mí, tener gente que me apoye es de lo más\nimportante!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Quiero cumplir con sus expectativas. No quiero\ndecepcionarlos, pase lo que pase."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Ese pensamiento me da fuerza para seguir, incluso\ncuando las cosas se ponen difíciles. Esas\nexpectativas me dan el impulso para dar esos\núltimos pasos."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Me sentí muy agradecida por eso en el Kikuka Shō."
+    },
+    {
+      "name": "Top Road Fan",
+      "text": "¡Ah, el Kikuka Shō! Bueno, como la vi llorando en\nel Derby, pues..."
+    },
+    {
+      "name": "Top Road Fan",
+      "text": "Sin darme cuenta, terminé animándola a gritos en\nel Kikuka Shō. Tanto, que me quedó la garganta\nadolorida por días."
+    },
+    {
+      "name": "Top Road Fan",
+      "text": "Supongo que todos sentían lo mismo. Sabíamos que\npodía ganar... no, más que eso... queríamos que\nganara."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Aunque estaba totalmente enfocada en la\ncompetencia, podía escuchar sus ánimos."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Eso se convirtió en mi fuerza. Al acercarme a la\nmeta, el corazón me latía fuerte y las otras\ncorredoras me alcanzaban. La verdad, fue durísimo.\nPero..."
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "¡Sus voces me impulsaban hacia adelante!"
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "No sé si habría podido seguir y ganar sin ese\napoyo."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"Analicé cada competencia en la que participó,\nconvirtiendo la progresión de sus tiempos por\nvuelta y sus tendencias de carrera en fórmulas\npara comparar. Al hacerlo...\""
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"Los datos resultantes sugieren que su velocidad\nen el sprint final del Kikuka Shō, donde cree que\nlos ánimos la impulsaron, fue ligeramente mayor\nque en otras carreras\"."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"Basándonos en lo anterior, podemos concluir que\nel apoyo emocional de los fans fue un factor en la\nvictoria de Narita Top Road en el Kikuka Shō\"."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Bueno. ¿Y qué se supone que debo hacer con\nesto?",
+      "choice_data_list": [
+        "Creí que podría servirte."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "A mí no me sirve. Esto solo aplica en Top Road."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Es cierto que ciertas condiciones pueden dar\nresultados que superan los cálculos."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Pero ¿en serio crees que <i>yo</i> puedo aumentar mi\npotencial con el apoyo de los fans?",
+      "choice_data_list": [
+        "Creo que podrías tener la misma capacidad."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Qué capacidad?",
+      "choice_data_list": [
+        "Para un crecimiento ilógico."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ilógico..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Ehm, disculpa! Shakur..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...",
+      "choice_data_list": [
+        "Sabes a qué me refiero, ¿verdad?",
+        "Sabes a qué me refiero, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Si la \"influencia\" es tan mínima que está\ndentro del margen de error, ¿qué sentido tiene\ndecir que tuvo algún impacto?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Cuando mencioné influencias no cuantificables, me\nrefería a milagros estadísticos claros... no a\nsuposiciones rosadas.",
+      "choice_data_list": [
+        "Pero aquí podría estar tu gran avance."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ya te dije antes que incluir cosas así en mis\ncálculos es ineficiente.",
+      "choice_data_list": [
+        "Pero los datos ya están ahí."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Y ahora qué? ¿Vas a ir por ahí hablando con gente\nal azar y recopilando información?",
+      "choice_data_list": [
+        "Claro. Quiero que lo incluyas en tus cálculos."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No creo que vaya a cambiar nada.",
+      "choice_data_list": [
+        "Pero podría. Podría cambiar las cosas por 0.01\ncentímetros."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizá todas esas pequeñas influencias que ha\nestado redondeando se sumen.",
+      "choice_data_list": [
+        "Nunca se sabe. La brecha de siete centímetros\npodría ser de 6.99 mañana."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Heh.",
+      "choice_data_list": [
+        "(¿¡Se rio de mí!?)"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Eso es una lógica muy rebuscada. Aunque la brecha\nse reduzca, no hay garantía de que llegue a cero."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Pero... bueno. Supongo que no te equivocas."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Le echaré un vistazo a tus datos.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Así que esto es lo que se te ocurrió, eh?"
+    }
+  ]
+}

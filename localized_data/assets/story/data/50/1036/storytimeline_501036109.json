@@ -1,0 +1,301 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La temporada festiva está en su punto más alto.\nAunque el ambiente en el campus es alegre, Air\nShakur parece no inmutarse."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Arima Kinen está a la vuelta de la esquina, así\nque está dando los últimos retoques al modelo de\nParcae."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque el destino de Air Shakur cambió, Parcae\nsigue siendo una compañera importante para ella.\nDespués confirmo los detalles con ella.",
+      "choice_data_list": [
+        "(Veamos... ¿Qué puedo hacer?)",
+        "(Veamos... ¿Qué puedo hacer?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Probablemente aún no he logrado ser la compañera\nideal para Air Shakur, pero nunca he dejado de\nintentarlo.",
+      "choice_data_list": [
+        "(Al menos sé lo que le gusta)."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como es una ocasión especial, tomo un pequeño\nregalo para ella, con la esperanza de transmitirle\nesos sentimientos que normalmente no puedo."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...",
+      "choice_data_list": [
+        "¿Ya terminaste?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Sí. Está casi todo listo."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Creo que solo falta que te dé mi informe.",
+      "choice_data_list": [
+        "Perdón por hacerte esperar. Tuve que hacer un\nmandado rápido."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No pasa nada, pero empecemos. No tenemos tiempo\nque perder."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Básicamente, Manhattan Cafe es en quien hay que\nfijarse."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No puedo dejar que la carrera se desarrolle a su\nfavor. Me adelantaré en la recta final.",
+      "choice_data_list": [
+        "¿Y las corredoras más experimentadas?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Obviamente son una amenaza, pero no tanto como\nantes."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Todas tienen que pasar la antorcha en algún\nmomento."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno, eso dicen. En realidad, pensé que se\nsaltaría una generación..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Nunca planeé competir en el Arima Kinen este año."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ya corrí una vez... y perdí."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Eso fue... Bueno, pensé que ahí se acababa todo\npara mí."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Y después de eso..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Pero ahora, gano en todas las simulaciones sin\nimportar las condiciones que ponga."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Solo estaba pensando."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Por qué Parcae intentaba llevarme por un camino\ntan difícil?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Por qué quería imponerme ese destino?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su pregunta es sincera, pero no hay una respuesta\nclara. Aunque se me viene algo a la mente...",
+      "choice_data_list": [
+        "Dicen que los dioses no ponen pruebas que no se\npuedan superar."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Algo así he oído."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿No dicen también que siempre te dan una salida o\nalgo así?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Qué gracioso. ¿Entonces los dioses me\nsobrevaloraron?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Qué chiste. Si eso es favor divino, que se lo\nqueden."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Les demostraré de qué estoy hecha en el escenario\nmás grande y terrible.",
+      "choice_data_list": [
+        "¿Y si aún así te favorecen?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Me reiré en sus caras y los apartaré. Todas las\nveces que haga falta."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...¿Y?",
+      "choice_data_list": [
+        "¿Y qué?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿No vas a intentarlo?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Saliste más temprano, ¿verdad? Por el día que es,\nsupongo que fuiste de compras."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿O puedo irme ya?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que me ha descubierto. Aunque...",
+      "choice_data_list": [
+        "No compré nada."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Ah, sí?",
+      "choice_data_list": [
+        "Me lo pensé tanto que al final no supe qué hacer."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Heh."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Qué patética eres.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ah, ya veo... No tiene ningún sentido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...No sé cómo responder, pero como Air Shakur se\nestá riendo, decido dejarlo pasar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Shakur suelta una gran carcajada. Ahora que la\nconozco, sé que su risa es genuina.",
+      "choice_data_list": [
+        "Me pregunto qué pensará Parcae de la actual tú.",
+        "Me pregunto qué pensará Parcae de la actual tú."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ja. Parcae solo es un programa.",
+      "choice_data_list": [
+        "Bueno, ¿y tú qué?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Yo qué?",
+      "choice_data_list": [
+        "¿Tienes algo que decirle a Parcae?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿De qué demonios estás hablando? Claro que no.",
+      "choice_data_list": [
+        "Supongo que no, ¿verdad...?",
+        "Supongo que no, ¿verdad...?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parcae y Air Shakur están unidas por algún tipo de\nconexión especial. Al menos, eso es lo que me\nparece."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Incluso ahora, sigo pensando que Parcae no estaba\nequivocada."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Simplemente somos distintas. Es... difícil de\nexplicar."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Si en verdad estaba destinada a perder por siete\ncentímetros y luego fracasar en mi último año, no\niba a quedarme de brazos cruzados."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Pero si este es el resultado de mantenerme\nfirme... Si puedo revisar la ecuación y estar\nsegura de que no hubo errores, entonces <i>eso</i> es la\nsolución."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Así que, si pudiera decirle algo a Parcae,\nsería..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ahora mismo, no hay ni una sola persona que no\nconozca mi nombre. Y no solo eso..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Tampoco lo olvidarán.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Y lo demostraré en el Arima Kinen. Eso es todo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, nuestra tranquila tarde llega a su fin.",
+      "choice_data_list": [
+        "¡Ah, el regalo de Shakur!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de pensarlo mucho, opté por algo que\npudiera usar, así que elegí unas latas de su café\nfavorito.",
+      "choice_data_list": [
+        "(Seguro que no las quiere. Bueno, da igual)."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensando eso, voy a guardar el café, pero en su\nlugar encuentro un solo caramelo."
+    }
+  ]
+}

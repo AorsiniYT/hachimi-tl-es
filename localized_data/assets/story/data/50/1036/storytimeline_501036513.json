@@ -1,0 +1,235 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Reporter A",
+      "text": "¡Air Shakur! ¡Mira para acá!"
+    },
+    {
+      "name": "Reporter B",
+      "text": "¡Ahora para acá, por favor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy Air Shakur habla con la prensa. No suele dar\nentrevistas, así que se juntaron montones de\nperiodistas, tal como ella dijo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dado que el propósito particular de la reunión de\nhoy es una sesión de fotos donde aparece su\natuendo de competencia, la mayoría de las\npreguntas giran en torno a eso."
+    },
+    {
+      "name": "Reporter C",
+      "text": "Si tuviera que describir tu vestuario de\ncompetencia en una palabra, diría que es \"filoso\".\n¿Dirías que refleja tus gustos personales?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Depende de qué entiendas por <i>filoso</i>. Pero si\nhablamos de si va con mis gustos, sí, claro."
+    },
+    {
+      "name": "Reporter D",
+      "text": "¿Tu vestuario característico representa tu estilo\nde moda habitual?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ya dije que va con mis gustos. Siguiente pregunta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Shakur sigue respondiendo con calma, y la\nentrevista avanza sin problemas, hasta que de\npronto..."
+    },
+    {
+      "name": "Reporter E",
+      "text": "Me gustaría hacerle una pregunta a su entrenadora,\nsi me lo permiten.",
+      "choice_data_list": [
+        "¿Yo?",
+        "¿Yo?"
+      ]
+    },
+    {
+      "name": "Reporter E",
+      "text": "Sí. Quisiera saber su opinión sobre el vestuario\ncaracterístico de Air Shakur.",
+      "choice_data_list": [
+        "Es lo más genial que he visto.",
+        "Es muy ella."
+      ]
+    },
+    {
+      "name": "Reporter E",
+      "text": "¿Sería correcto interpretar su superlativo como\nuna comparación directa con las demás corredoras?",
+      "choice_data_list": [
+        "Exacto. Creo que Shakur es la más genial."
+      ]
+    },
+    {
+      "name": "Reporter E",
+      "text": "Air Shakur, ¿qué opina de la declaración de su\nentrenadora?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No es la primera vez que mi entrenadora se deja\nllevar por su parcialidad. La verdad, me da igual."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Pero hasta un reloj descompuesto acierta dos veces\nal día. <i>Yo</i> soy la más genial."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La entrevista continúa sin problemas después de\neso, hasta que..."
+    },
+    {
+      "name": "Reporter E",
+      "text": "¿Podría dar un ejemplo?",
+      "choice_data_list": [
+        "Va perfecto con su personalidad."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Shakur siempre ha tenido una apariencia\nllamativa. Pero eso no significa que su vestuario\nle reste mérito.",
+      "choice_data_list": [
+        "¡Creo que resalta un encanto que comparten!"
+      ]
+    },
+    {
+      "name": "Reporter E",
+      "text": "¡Entiendo lo que dices! Sin duda realza el glamour\nnatural de Air Shakur."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>¿Glamour?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La entrevista continúa sin problemas después de\neso, hasta que..."
+    },
+    {
+      "name": "Reporter F",
+      "text": "¿En qué aspecto del diseño pusiste más atención?",
+      "choice_data_list": [
+        "(Buena pregunta.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El nivel de detalle que Air Shakur puso en el\ndiseño de su vestuario de competencia fue algo\ndigno de ver."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Empezó buscando un diseñador de confianza, luego\nse obsesionó con los materiales y pulió hasta el\núltimo detalle de los tacos. Estuvo completamente\ninvolucrada en todo el proceso."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Un programa verdaderamente hermoso es aquel que\nfunciona sin llamar la atención."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desde el corte calculado de la tela hasta la\nbufanda asimétrica en su cintura... Hay montones\nde detalles que podría mencionar."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿En qué puse más atención? Bueno..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿No es obvio?"
+    },
+    {
+      "name": "Reporter F",
+      "text": "¿Ehm? ¿Señorita Shakur?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Shakur se aleja de los reporteros y se coloca\nen la posición de salida de la pista."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Yaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sale disparada como si hubiera sonado la pistola\nde salida, la faja ondeando tras ella mientras\ncorre veloz por la pista."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Uf...",
+      "choice_data_list": [
+        "(¡Tan gallarda y extraordinaria como siempre!)"
+      ]
+    },
+    {
+      "name": "Reporteras",
+      "text": "...¡Vaya! ¡Es hipnotizante! ¿Están grabando esto?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Hmph."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Creo que eso responde la última pregunta. Por hoy\nes suficiente."
+    },
+    {
+      "name": "Reporter F",
+      "text": "¡¿Eh?! Disculpe, pero ¡no ha respondido nada aún!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Les <i>mostré</i> mi respuesta."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Yo sigo adelante. Terminen como quieran.",
+      "choice_data_list": [
+        "R-right!",
+        "R-right!"
+      ]
+    },
+    {
+      "name": "Reporter F",
+      "text": "Ehm, entrenadora. ¿Qué acaba de pasar?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella no miente, así que debe haber expuesto los\npasos intermedios necesarios para encontrar la\nsolución. Mientras entienda eso, podré resolver el\nproblema..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Un programa verdaderamente hermoso es aquel que\nfunciona sin llamar la atención."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Shakur demostró su programa en acción,\natrayendo todas las miradas hacia ella mientras\ncorría, y nada más.",
+      "choice_data_list": [
+        "Solo es una suposición, pero su respuesta podría\nser..."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Oye. ¿Qué demonios es esto del artículo?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"Cada fibra del cuerpo tiene un valor numérico, y\nla ecuación compleja que tejen entre ellas produce\nun solo resultado: <i>correr.</i>\""
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"Ya sea destacando su excentricidad en el paddock\no su elegancia afilada en la pista, su vestuario\nde competencia es el traje ideal para el trabajo.\""
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Qué es esta exageración? Yo no dije <i>nada</i> de estas\ntonterías.",
+      "choice_data_list": [
+        "Pero su carrera fue la prueba.",
+        "Pero su carrera fue la prueba."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Eres un tonto. Deja de fingir que entiendes algo."
+    }
+  ]
+}

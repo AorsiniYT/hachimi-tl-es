@@ -1,0 +1,345 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Air Shakur",
+      "text": "¡Ah! ...¡Maldita sea! ¡Todo esto es un asco!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>Suspiro...</i> ¿Así que ese es el sueño que da inicio\nal año nuevo, eh?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno, no hay mucho que hacer. Supongo que\nrecopilaré algunos datos."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Dos minutos y dos segundos exactos, dos minutos y\n1.3 segundos, dos minutos y 0.7 segundos... Con\neso basta para condiciones de superficie firme."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Necesito más datos sobre superficies blandas y\nbuenas. Tendré que pedir que usen los aspersores."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...¿Lo lograré?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Necesito caminar."
+    },
+    {
+      "name": "TV",
+      "text": "...¡Tres, dos, uno! ¡Feliz Año NUEEEVO!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "He estado tan ocupada preparando el año clásico de\nShakur, que el año nuevo llegó sin darme cuenta.",
+      "choice_data_list": [
+        "(Un paseo podría ser bueno para variar.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso en mente, salgo de la academia para dar un\npaseo a medianoche... solo para toparme con la\nsilueta de una aprendiz intentando escabullirse. Y\nno es cualquier aprendiz...",
+      "choice_data_list": [
+        "¡¿Shakur?!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Tch.",
+      "choice_data_list": [
+        "¡Oye, detente!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Academia Tracen tiene toque de queda, y\ncualquier aprendiz que sea descubierta rompiéndolo\nse meterá en serios problemas. No habrá excusa que\nvalga si abandona el campus.",
+      "choice_data_list": [
+        "¿A dónde ibas?",
+        "¿A dónde ibas?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Solo iba a caminar.",
+      "choice_data_list": [
+        "Ya pasó el toque de queda.",
+        "Ya pasó el toque de queda."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Sí, lo sé. ¿Y?",
+      "choice_data_list": [
+        "No te imaginaba rompiendo las reglas.",
+        "No te imaginaba rompiendo las reglas."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Solo peso los pros y los contras."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No es como si alguien estuviera vigilando ahora.\nSi haces la vista gorda, todo queda resuelto."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno, ya perdí suficiente tiempo hablando\ncontigo. Lárgate ya.",
+      "choice_data_list": [
+        "(Parece más irritable que de costumbre...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con su clásico año a la vuelta de la esquina, es\nposible que esté algo tensa."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Me escuchaste? Me estás molestando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El toque de queda existe para proteger a las\naprendices. Por más que no quiera restringir a Air\nShakur, no puedo hacer la vista gorda.",
+      "choice_data_list": [
+        "Negociar.",
+        "Suplicar.",
+        "Dejarla ir."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Necesito entretenerla hasta que se calme. Si voy a\nconvencerla, debo mostrarle que le conviene.",
+      "choice_data_list": [
+        "¡Hagamos un trato!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...¿Qué tipo de trato?",
+      "choice_data_list": [
+        "Tú pones las condiciones."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Entonces no hay trato. No quiero nada de ti."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Negociaciones terminadas. Nos vemos.",
+      "choice_data_list": [
+        "¡E-espera!",
+        "¡E-espera!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Si quieres hacer un trato, trae algo a la mesa."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "De lo contrario, no tiene sentido que me quede."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tiene toda la razón. ¿Qué puedo ofrecerle que\nvalga la pena?",
+      "choice_data_list": [
+        "¿Y si te dejo usar mi oficina?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Huh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Shakur parece querer ir a algún lugar\ntranquilo ahora. No solo mi oficina está libre a\nesta hora, sino que casi no hay nadie en el campus\nfuera de los dormitorios.",
+      "choice_data_list": [
+        "Ambas descansaríamos mejor si te quedas en el\ncampus."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Y los guardias?",
+      "choice_data_list": [
+        "Yo les aviso que vas."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Y tú te vas a mantener al margen, verdad? No\nestarás planeando vigilarme o algo así, ¿no?",
+      "choice_data_list": [
+        "Tendrás el lugar para ti sola."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno... siempre que de verdad no vayas a estar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No voy a vigilarla. Pero de todos modos, debo\nestar atenta por si pasa algo. Le daré su espacio,\npero lo suficientemente cerca para asegurarme de\nque esté segura."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Como era de esperar. Durmiéndose en el trabajo."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>Suspiro...</i> Idiota."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Shakur ya no está cuando me despierto a la\nmañana siguiente, y la chaqueta que había dejado\nen mi oficina está sobre mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tal vez sea por el cansancio de trabajar hasta\ntarde, pero no sé qué hacer. Lo único que logro\ndecir es...",
+      "choice_data_list": [
+        "¡No te vayas!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Huh?",
+      "choice_data_list": [
+        "¡No te vayas! ¡Por favor!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Oye, ¿eso es todo lo que puedes decir?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ah, espera. Te ves como..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Shakur me mira fijamente por un buen rato.\nDespués de un tiempo..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno. Me voy a dormir.",
+      "choice_data_list": [
+        "¿En serio?!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Tú también deberías volver pronto a dormir.\nAdemás..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Trabajar más horas no significa que trabajes\nmejor. Si las cosas no salen, debes reevaluar tu\ncarga de trabajo o tus métodos."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "En el momento en que te convenzas de que estás\ndando lo mejor, se acabó. Para antes de chocar con\nese muro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que me ha visto a través. Acepto ir a\ndormir también."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Alguien está llena de energía hoy.",
+      "choice_data_list": [
+        "¡Dormí genial, gracias!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿No te da vergüenza agradecerme por algo así?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bah, da igual. Apurémonos a entrenar. El tiempo no\nespera a nadie."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que tendré que pensarlo bien. Air Shakur es\nalguien que encuentra información incluso en la\nausencia de datos. En ese caso...",
+      "choice_data_list": [
+        "Está bien. ¡Cuídate!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Estás segura con eso?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Te das cuenta de que, ahora que me has visto, lo\nque pase será tu responsabilidad?",
+      "choice_data_list": [
+        "Sí, está bien.",
+        "Sí, está bien."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno, si tú lo dices."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Contengo las ganas de detenerla y veo cómo Air\nShakur se aleja de mí. Solo cinco pasos más...\nCuatro, tres, dos, uno..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno, dime. ¿Qué estás tramando?",
+      "choice_data_list": [
+        "(¡Te atrapé!)"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Me engañaste, eh? Seguro no estabas planeando\nnada."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Bah. Da igual. Ya no estoy de humor, así que me\nvuelvo.",
+      "choice_data_list": [
+        "¡Ah! Oye, si quieres distraerte un poco..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Compré montones de snacks nuevos en una tienda\nlocal para aguantar el trabajo extra. Se los doy\npor si hay algo que le guste."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No necesito todo esto—"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Oh. ¿Ese viene con un juguete de LF? No sabía que\nese juego era tan popular."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Vaya. Me impresiona el nivel de detalle. ¿Quizás\npodría ponerlo en mi escritorio?"
+    }
+  ]
+}

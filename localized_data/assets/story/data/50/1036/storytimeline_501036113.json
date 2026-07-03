@@ -1,0 +1,365 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Air Shakur",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Síí... Creo que me estoy pasando un montón...\nmanteniendo el ritmo así tanto tiempo..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>Haa...</i> ¿Cómo voy de tiempo?",
+      "choice_data_list": [
+        "Va estable."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "<i>Haa...</i> Una serie más..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Vamos con esto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta mañana, Air Shakur y yo fuimos a la piscina\npara un entrenamiento temprano y poner a prueba su\nsistema cardiovascular."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Uf... Listo. Ya puedes recoger.",
+      "choice_data_list": [
+        "Que te vaya bien en clase.",
+        "Que te vaya bien en clase."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Claro.",
+      "choice_data_list": [
+        "(Ah, cierto. La clase...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, me di cuenta de que olvidé darle algunos\ndetalles sobre su próxima entrevista, así que\ndecidí pasar por su salón.",
+      "choice_data_list": [
+        "(También tengo curiosidad de ver cómo es en\nclase)."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Digo que es un absurdo hablar de ese tal\n\"Takashi\". No me metan en eso."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"En cinco minutos, Takashi alcanza a su hermano\nque va 5.6 kilómetros adelante\". ¡Es ridículo! Le\npusieron un nombre así nomás."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No vine a hablar de Takashi en sí, sino de\nconvertir su hazaña en realidad."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Si nosotras dos unimos fuerzas, quizá podamos\ndescifrar la fórmula para que un humano corra a\nsesenta y siete kilómetros por hora."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Podría usarlo en mi investigación sobre carreras!\n¡Las posibilidades me emocionan!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Estás de acuerdo, ¿verdad, Cafe?",
+      "color_text_info_list": [
+        "Cafe"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No sé..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No me dejes colga—ah."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Shakur, alguien vino a verte."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Huh?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ah, eso lo dejo en tus manos. Si necesitas darles\ndatos a los reporteros, adelante.",
+      "choice_data_list": [
+        "Bien, yo me encargo."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Y por cierto, esto es algo que podrías haberme\nmandado por LANE.",
+      "choice_data_list": [
+        "De todos modos andaba por aquí."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Seguro solo querías ver cómo es Shakur fuera de la\npista, ¿no?",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Lo sabía. En realidad te interesa mucho, ¿no?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "En ese caso, ¿por qué no nos presentas a todas tus\namigas, Shakur?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡¿Eh?!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Seguro ya lo sabes, pero yo soy Agnes Tachyon. Y\nesta es Manhattan Cafe.",
+      "color_text_info_list": [
+        "Agnes Tachyon",
+        "Manhattan Cafe"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Hola."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon, amante de los experimentos de\ncarrera, y Manhattan Cafe, una Umamusume con un\naura misteriosa. Ambas son corredoras con un\nfuturo brillante por delante."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Aunque aún no debutamos, seguro alguna de nosotras\nse enfrentará a Shakur en algún momento. ...Aunque\nno puedo asegurarlo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Shakur pasa cada día rodeada de amigas\nmaravillosas como yo y Cafe, riendo y pasándola\ngenial!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Verdad, ustedes dos?"
+    },
+    {
+      "name": "Shakur & Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Ya conseguiste lo que querías? Puedes irte.",
+      "choice_data_list": [
+        "E-esto... Adiós...",
+        "E-esto... Adiós..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por lo que vi, Air Shakur parece sentirse como en\ncasa en clase. Creo que logré ver un poquito de su\nlado cotidiano."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Je, je! ♪",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ay, perdón. Es que te veías tan feliz que me\ncontagiaste la alegría."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fine Motion está aquí como becaria de intercambio,\nrepresentando a Irlanda. Su familia, al parecer,\ndesciende de la realeza de otro país. A veces la\nveo junto a Air Shakur.",
+      "color_text_info_list": [
+        "Fine Motion"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Parece que algo divertido ronda tu mente. ¿Te\nimportaría compartirlo?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Je, je. Ya veo. Ese Tachyon sí que es divertido.",
+      "color_text_info_list": [
+        "Tachyon"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Aunque sus especialidades son distintas, siempre\nparece que Shakur se divierte cuando discute temas\ncomplicados con Tachyon.",
+      "choice_data_list": [
+        "Ahora que lo dices... sí que se veía contenta. Más\no menos."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Bueno, si tú lo dices, ¡debe ser cierto!",
+      "choice_data_list": [
+        "Aunque solo sea su aprendiz por ahora."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desde que conocí a Shakur, no he logrado saber más\nde ella. Lo único que parece esperar de nuestra\nrelación es que le brinde alguna \"influencia\nintangible\"."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Claro... pero solo por ahora."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Quieres saber lo que me dijo la primera vez que\nhablé con ella? \"¡Aléjate de mí!\"",
+      "choice_data_list": [
+        "Really?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Me miró fijamente a los ojos y dijo que no quería\nsaber nada de mí. Me rechazó por completo, con sus\npalabras y su actitud."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Fue tan refrescante que no pude evitar alegrarme."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hay cierta elegancia en las expresiones indirectas\ny en la consideración que hay detrás. Pero..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Shakur me mostró su verdadero yo. Sus\npensamientos, palabras y lenguaje corporal estaban\ncompletamente alineados."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Por eso yo también quiero ser lo más honesta\nposible.",
+      "choice_data_list": [
+        "Really?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Sí. Nunca quiero dudar de mí misma ni de cómo debo\nser."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Creo que, si hago lo que debo, algún día nos\nentenderemos.",
+      "choice_data_list": [
+        "Si haces lo que debes, ¿eh?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Cuando estoy con Shakur, lo siento aún más."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Qué es lo que quiero hacer? ¿Qué es lo que debo\nhacer?",
+      "choice_data_list": [
+        "¿Estás—",
+        "¿Estás—"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Ah! Mejor que Shakur no se entere de nuestra\ncharla de hoy, ¿de acuerdo?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Seguro se enojará conmigo por llenarte la cabeza\nde tonterías."
+    },
+    {
+      "name": "Fine's Security Officer",
+      "text": "Su Alteza. Creo que es hora de irnos."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Muy bien."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Hablemos otra vez pronto! ¡Cuídate!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las palabras de Fine Motion resuenan en mi mente.\nQuizás yo también debería reflexionar más sobre lo\nque debo hacer."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Oye."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Estabas hablando con Fine, ¿no? Desde el pasillo\nse veía que se llevaban muy bien.",
+      "color_text_info_list": [
+        "Fine"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno, ¿qué tonterías te metió en la cabeza la\nprincesita?",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Dije algo gracioso? ¡Suéltalo ya!",
+      "choice_data_list": [
+        "Prometí no contarlo."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Tch... Ahora estoy segura de que dijo sus típicas\nestupideces."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Y tú, ¿realmente tienes tiempo para estar\nperdiendo el tiempo?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No nos sobra ni siete centímetros de margen. En\nvez de estar hablando, ¿por qué no usas la cabeza?",
+      "choice_data_list": [
+        "¿A qué te refieres?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ya te dije que estoy dispuesta a aprovechar\ncualquier ventaja, aunque sea una influencia que\nno se pueda medir."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Eso también aplica para tus ideas. No espero casi\nnada de ti, pero prefiero tener <i>casi</i> nada a no\ntener nada."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Así que ponte a pensar. A menos que te guste estar\naquí solo de adorno."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Shakur nunca ha dicho que mi existencia sea\ninnecesaria. Eso significa que aún debo tener un\npapel que cumplir como su entrenadora.",
+      "choice_data_list": [
+        "¡Gracias! ¡Haré mi mejor esfuerzo!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No tienes que emocionarte tanto."
+    }
+  ]
+}

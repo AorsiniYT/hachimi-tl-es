@@ -1,0 +1,259 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, Air Shakur y yo discutimos su agenda\nfutura en mi oficina."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "En resumen, las cosas se pondrán más difíciles de\naquí en adelante."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Necesito ser más eficiente que antes o todo se irá\nal traste."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Le pediré a Parcae que simule un programa de\nentrenamiento para eliminar lo innecesario.",
+      "choice_data_list": [
+        "Entendido."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido revisar mis notas pasadas para ordenar mis\nideas. Voy a abrir el cajón de mi escritorio y, al\nhacerlo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Aleteo...</i>"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hm?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Oye, se te cayó algo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué encuentro en el suelo? El cupón de vacaciones\nen aguas termales que gané hace un tiempo."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Aún no lo has usado?",
+      "choice_data_list": [
+        "No ha habido buen momento."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La verdad es que lo olvidé por completo.\nOriginalmente participé en el sorteo para dárselo\na Air Shakur, pero como no lo quiso, quedó\nguardado todo este tiempo.",
+      "choice_data_list": [
+        "¿Te gustaría?",
+        "¿Te gustaría?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿No lo quieres?",
+      "choice_data_list": [
+        "Bueno, las cosas estarán ocupadas por un tiempo,\nasí que..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Considerando lo tensa que está Air Shakur, no me\nparece buena idea irme a relajar sola."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno, ¿por qué no vamos ahora antes de que todo\nse complique?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Vamos ahora, lo hacemos rápido y volvemos.\nOlvídate de quedarnos a dormir. No pienso hacer\neso."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Así te quedas tranquila, ¿no? Entonces, prepara\ntus cosas para que podamos irnos."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Vaya. Este lugar no está nada mal.",
+      "choice_data_list": [
+        "Reservé un baño para uso privado, así que siéntete\nlibre de usarlo.",
+        "Reservé un baño para uso privado, así que siéntete\nlibre de usarlo."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Eh? Bueno, claro...",
+      "choice_data_list": [
+        "¿No pensabas entrar?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bah."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno. Supongo que como lo reservaste y no habrá\nnadie más..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Está bien. Nos vemos luego."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sumergida en las aguas termales..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Phew...",
+      "choice_data_list": [
+        "¿Cómo estuvo tu baño?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Guau!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Qué, ya terminaste?",
+      "choice_data_list": [
+        "Sí, me mareo si me quedo mucho tiempo en el agua\ncaliente."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso es solo parte de la verdad. La razón principal\nfue no hacer esperar a Air Shakur, pero no\nmenciono ese detalle."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Ah, bueno.",
+      "choice_data_list": [
+        "Bueno, regresemos."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Claro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Regresamos a la estación. La brisa es agradable\nmientras nos refresca los cuerpos calientes.",
+      "choice_data_list": [
+        "Gracias por acompañarme."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Sí.",
+      "choice_data_list": [
+        "Vaya, aceptaste mi agradecimiento."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno... acepté venir."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Por ti.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No creo en excepciones ni casos especiales.\nMantengo nuestra relación al mínimo."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Pero esto también era necesario para reiniciar las\ncosas entre nosotras.",
+      "choice_data_list": [
+        "¿A qué te refieres?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Estos últimos tres años han sido larguísimos."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Admito que nuestra relación ha cambiado desde que\nempezamos a trabajar juntas."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Para ser honesta, a veces incluso siento que te\n<i>entiendo</i>.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Aunque eso no es posible. No estoy aquí para\nentender a nadie ni para que me entiendan."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Pero si vamos a seguir trabajando juntas, tenemos\nque dejar atrás las ideas preconcebidas que\ntenemos la una de la otra.",
+      "choice_data_list": [
+        "Tú...",
+        "Tú..."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Yo qué?",
+      "choice_data_list": [
+        "Eres muy sincera, ¿sabes?",
+        "Eres muy sincera, ¿sabes?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Huh?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ya te dije que dejes eso.",
+      "choice_data_list": [
+        "Lo sé, pero..."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Pero qué?",
+      "choice_data_list": [
+        "¿Está bien si vuelvo a intentar ayudarte?",
+        "¿Está bien si vuelvo a intentar ayudarte?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Aunque te dijera que no, no pararías..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Vamos. Vamos a perder el tren a este paso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que Air Shakur y yo hemos formado un lazo\nirremplazable durante este tiempo juntas."
+    }
+  ]
+}
