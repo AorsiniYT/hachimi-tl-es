@@ -1,0 +1,649 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Fan A",
+      "text": "¡McQueen! ¡Por favor, da lo mejor de ti en la\ntemporada de otoño!"
+    },
+    {
+      "name": "Mejiro Fan B",
+      "text": "¡Mira! Hice este estandarte dorado para\ncomplementar tu esplendor brillante."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Vaya! Muchas gracias. Haré todo lo posible cada\ndía para cumplir con sus expectativas.",
+      "choice_data_list": [
+        "(¡Sus fans llevan las cosas a otro nivel!)"
+      ]
+    },
+    {
+      "name": "Mejiro Fan C",
+      "text": "Guau, qué saludos tan elegantes... La elegancia de\nMcQueen no tiene límites."
+    },
+    {
+      "name": "Mejiro Fan D",
+      "text": "Nunca he tenido la oportunidad de hablar con su\nentrenadora. Pero me la imagino maravillosa\ntambién."
+    },
+    {
+      "name": "Mejiro Fan D",
+      "text": "Nunca he tenido la oportunidad de hablar con su\nentrenadora. Pero me la imagino maravillosa\ntambién."
+    },
+    {
+      "name": "Mejiro Fan E",
+      "text": "Sí. ¡Estoy segura de que su entrenadora tiene\nmodales exquisitos! Alguien elegida personalmente\npor McQueen jamás diría algo grosero.",
+      "choice_data_list": [
+        "(¿Grosero?!))"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un escalofrío me recorre la espalda. Siento que\npuedo arruinar su imagen de mí en cualquier\nmomento. O peor...",
+      "choice_data_list": [
+        "(¿Y si mis acciones afectan la imagen de\nMcQueen?!))"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Entrenadora? ¿Pasa algo?",
+      "choice_data_list": [
+        "¡Oh, no, n–no pasa nada en absoluto, se lo\naseguro, señorita McQueen!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...¿Entrenadora? ¿Por qué habla así?",
+      "choice_data_list": [
+        "¡D–disculpe! ¿Soné rara, verdad?",
+        "¡D–disculpe! ¿Soné rara, verdad?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Totalmente imperdonable. ¡Debo aprender lo básico\nde la etiqueta adecuada cuanto antes!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Vaya."
+    },
+    {
+      "name": "Mejiro Fans",
+      "text": "<i>Charla, charla...</i>",
+      "choice_data_list": [
+        "(Sus fans están aquí otra vez...)"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...¿Tienes un momento, entrenadora? Hoy tengo una\nsugerencia para ti.",
+      "choice_data_list": [
+        "¿D–de qué se trata?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Por qué no vamos a otro lugar a hablar primero?\nAquí hay demasiados ojos sobre nosotras."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Creo que ya hemos caminado lo suficiente para\nestar a salvo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bueno, entrando en materia..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Toma esto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Chapuzón!</i>",
+      "choice_data_list": [
+        "¡Uy, qué frío!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No te preocupes, ¡yo también preparé una pistola\nde agua para ti! Ahora, ¡échame toda el agua que\nquieras!",
+      "choice_data_list": [
+        "¿Eh? ¿A qué te refieres?!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Digo lo que digo. ¡Vamos, tu guardia está\ncompletamente baja!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Toma esto, y esto!",
+      "choice_data_list": [
+        "¡E–espera un momento!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡No hay tiempo para esperar! Jeje... ¡date prisa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Mejiro McQueen no está dispuesta a\nescucharme. Así que sigo sus instrucciones...",
+      "choice_data_list": [
+        "¡Está bien, yo tampoco te <i>esperaré</i>!",
+        "¡Está bien, yo tampoco te <i>esperaré</i>!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Me parece bien. ¡Ven con todo!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Estoy completamente empapada...",
+      "choice_data_list": [
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Jeje. No hay necesidad de disculparse."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "De hecho, es precisamente porque lo das todo con\ntanta intensidad que puedo ser yo misma."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Entrenadora, eres y siempre has sido una persona\ngrandiosa. Forzarte a cambiar es un esfuerzo\ninútil."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Después de todo, eres la entrenadora que yo,\nMejiro McQueen, he elegido personalmente.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Quieres que te tome una foto de la cara ahora\nmismo para que te sirva de recordatorio?",
+      "choice_data_list": [
+        "...No, está bien. Siempre recordaré este día.",
+        "...No, está bien. Siempre recordaré este día."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje. Entonces, asunto arreglado."
+    },
+    {
+      "name": "Mejiro Fan A",
+      "text": "¡Dios mío, estás empapada de pies a cabeza! ¿Qué\npasó?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Oh! Bueno, verás...",
+      "choice_data_list": [
+        "Esto es parte de nuestro entrenamiento especial\npara la temporada de otoño."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>¡Ups!</i>"
+    },
+    {
+      "name": "Mejiro Fan B",
+      "text": "¡Vaya, es cierto?! ¡No esperaba menos de ustedes\ndos! ¡Qué pensamiento tan ingenioso!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Jeje. Qué tonta eres, entrenadora."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Quizás debí haberte tomado una foto de la cara\ndespués de todo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Te ves mucho más digna ahora."
+    },
+    {
+      "name": "Mejiro Fan B",
+      "text": "¡Mira! Hice este estandarte dorado para\ncomplementar tu esplendor brillante."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Vaya! Muchas gracias. Haré todo lo posible cada\ndía para cumplir con sus expectativas.",
+      "choice_data_list": [
+        "(¡Sus fans llevan las cosas a otro nivel!)"
+      ]
+    },
+    {
+      "name": "Mejiro Fan C",
+      "text": "Guau, qué saludos tan elegantes... La elegancia de\nMcQueen no tiene límites."
+    },
+    {
+      "name": "Mejiro Fan D",
+      "text": "Nunca he tenido la oportunidad de hablar con su\nentrenadora. Pero me la imagino maravillosa\ntambién."
+    },
+    {
+      "name": "Mejiro Fan D",
+      "text": "Nunca he tenido la oportunidad de hablar con su\nentrenadora. Pero me la imagino maravillosa\ntambién."
+    },
+    {
+      "name": "Mejiro Fan E",
+      "text": "Sí. ¡Estoy segura de que su entrenadora tiene\nmodales exquisitos! Alguien elegida personalmente\npor McQueen jamás diría algo grosero.",
+      "choice_data_list": [
+        "(¿Grosero?!))"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un escalofrío me recorre la espalda. Podría\narruinar su imagen de mí en cualquier momento. O\npeor...",
+      "choice_data_list": [
+        "(¿Y si mis acciones afectan la imagen de\nMcQueen?!))"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Entrenadora? ¿Pasa algo?",
+      "choice_data_list": [
+        "¡Oh, no, n–no pasa nada en absoluto, se lo\naseguro, señorita McQueen!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...¿Entrenadora? ¿Por qué habla así?",
+      "choice_data_list": [
+        "¡D–disculpe! ¿Soné rara, verdad?",
+        "¡D–disculpe! ¿Soné rara, verdad?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Totalmente imperdonable. ¡Debo aprender lo básico\nde la etiqueta adecuada cuanto antes!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Vaya."
+    },
+    {
+      "name": "Mejiro Fans",
+      "text": "<i>Charla, charla...</i>",
+      "choice_data_list": [
+        "(Sus fans están aquí otra vez...)"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...¿Tienes un momento, entrenadora? Hoy tengo una\nsugerencia para ti.",
+      "choice_data_list": [
+        "¿D–de qué se trata?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Por qué no vamos a otro lugar a hablar primero?\nAquí hay demasiados ojos sobre nosotras."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Creo que ya hemos caminado lo suficiente para\nestar a salvo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bueno, entrando en materia..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Toma esto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Chapuzón!</i>",
+      "choice_data_list": [
+        "¡Uy, qué frío!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No te preocupes, ¡yo también preparé una pistola\nde agua para ti! Ahora, ¡échame toda el agua que\nquieras!",
+      "choice_data_list": [
+        "¿Eh? ¿A qué te refieres?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "A lo que dije. Vamos, ¡tu defensa está por los\nsuelos!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Toma esto, y esto!",
+      "choice_data_list": [
+        "¡E-espera un momento!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡No hay tiempo para esperar! Jeje... ¡date prisa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Mejiro McQueen no está dispuesta a\nescucharme. Así que sigo sus instrucciones...",
+      "choice_data_list": [
+        "Está bien, ¡yo tampoco te <i>esperaré</i>!",
+        "Está bien, ¡yo tampoco te <i>esperaré</i>!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Me parece perfecto. ¡Ven con todo!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Estoy completamente empapada...",
+      "choice_data_list": [
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Jeje. No hay necesidad de disculparse."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "De hecho, es justo porque te entregas con tanta\nintensidad que puedo ser yo misma."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Entrenadora, siempre has sido una persona\nmaravillosa. Forzarte a cambiar es un esfuerzo\ninútil."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Después de todo, eres la entrenadora que yo,\nMejiro McQueen, he elegido personalmente.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje... pero quizá me dejé llevar un poco."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Será que tu influencia tuvo algo que ver? ...Es\nbroma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente...",
+      "choice_data_list": [
+        "McQueen, ¡qué divertido fue!"
+      ]
+    },
+    {
+      "name": "Mejiro Fan A",
+      "text": "¡Vaya! La entrenadora de McQueen se comporta con\ntanta elegancia como ella."
+    },
+    {
+      "name": "Mejiro Fan B",
+      "text": "¡Es obvio lo unidas que están! ¡Simplemente\nmagnífico!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Hehe."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oye, entrenadora."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Ves qué grandiosa eres cuando actúas como siempre\ny no finges?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Así que, por favor, no te esfuerces más.",
+      "choice_data_list": [
+        "Está bien, no lo haré.",
+        "Está bien, no lo haré."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje, me alegra oír eso."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "La verdad es que verte tan formal..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Me hizo sentir como si hubiera perdido algo."
+    },
+    {
+      "name": "Mejiro Fan B",
+      "text": "¡Mira! Hice este estandarte dorado para\ncomplementar tu esplendor brillante."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Oh, vaya! Muchas gracias. Haré todo lo posible\ncada día para cumplir con sus expectativas.",
+      "choice_data_list": [
+        "(¡Sus fans llevan las cosas al siguiente nivel!)"
+      ]
+    },
+    {
+      "name": "Mejiro Fan C",
+      "text": "Wow, qué saludo tan grácil... La elegancia de\nMcQueen no tiene límites."
+    },
+    {
+      "name": "Mejiro Fan D",
+      "text": "Nunca he tenido la oportunidad de hablar con su\nentrenadora. Pero imagino que también es\nmaravillosa."
+    },
+    {
+      "name": "Mejiro Fan D",
+      "text": "Nunca he tenido la oportunidad de hablar con su\nentrenadora. Pero imagino que también es\nespectacular."
+    },
+    {
+      "name": "Mejiro Fan E",
+      "text": "Sí. ¡Estoy segura de que su entrenadora tiene\nmodales exquisitos! Alguien elegido personalmente\npor McQueen nunca diría algo grosero.",
+      "choice_data_list": [
+        "(¿Grosero?!)."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un escalofrío me recorre la espalda. Podría\narruinar su imagen de mí en cualquier momento. O\npeor...",
+      "choice_data_list": [
+        "(¿Y si mis acciones afectan la imagen de\nMcQueen?!)"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Entrenadora? ¿Pasa algo?",
+      "choice_data_list": [
+        "¡N-no, n-no pasa nada en absoluto, se lo aseguro,\nseñorita McQueen!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...¿Entrenadora? ¿Por qué habla así?",
+      "choice_data_list": [
+        "¡D-disculpe! ¿Soné rara, verdad?",
+        "¡D-disculpe! ¿Soné rara, verdad?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Totalmente imperdonable. ¡Debo aprender lo básico\nde la etiqueta adecuada cuanto antes!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Vaya."
+    },
+    {
+      "name": "Mejiro Fans",
+      "text": "<i>Charla, charla...</i>",
+      "choice_data_list": [
+        "(Sus fans están aquí otra vez...)"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...¿Tienes un momento, entrenadora? Hoy tengo una\nsugerencia para ti.",
+      "choice_data_list": [
+        "¿D-de qué se trata?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Por qué no hablamos en otro lugar? Aquí hay\ndemasiados ojos sobre nosotras."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Creo que ya nos alejamos lo suficiente para\nestar a salvo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bueno, entrando en materia..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Toma esto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Chapoteo!</i>",
+      "choice_data_list": [
+        "¡Ay, qué frío!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No te preocupes, ¡yo también preparé una pistola\nde agua para ti! Ahora, ¡échame toda el agua que\nquieras!",
+      "choice_data_list": [
+        "¿Eh? ¿A qué te refieres?!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "A lo que dije. ¡Vamos, tu guardia está totalmente\nbaja!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Toma esto, y esto!",
+      "choice_data_list": [
+        "¡E-espera un momento!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡No hay tiempo para esperar! Jeje... ¡date prisa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro McQueen no parece dispuesta a escucharme.\nAsí que sigo sus instrucciones...",
+      "choice_data_list": [
+        "¡Está bien, yo tampoco te <i>esperaré</i>!",
+        "¡Está bien, yo tampoco te <i>esperaré</i>!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Me parece bien. ¡Ven con todo lo que tengas!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Estoy completamente empapada...",
+      "choice_data_list": [
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Jeje. No hay necesidad de disculparse."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "De hecho, es precisamente porque lo das todo con\ntanta intensidad que puedo ser yo misma."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Entrenadora, eres y siempre has sido una persona\nmaravillosa. Forzarte a cambiar es un esfuerzo\ninútil."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Después de todo, tú eres la entrenadora que yo,\nMejiro McQueen, he elegido personalmente.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje... pero quizá me dejé llevar un poco."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Será que fue por tu influencia? ...Es broma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente...",
+      "choice_data_list": [
+        "McQueen, ¡qué divertido fue!"
+      ]
+    },
+    {
+      "name": "Mejiro Fan A",
+      "text": "¡Vaya! ¡La entrenadora de McQueen se comporta con\ntanta elegancia como ella!"
+    },
+    {
+      "name": "Mejiro Fan B",
+      "text": "¡Es obvio lo unidas que están! ¡Simplemente\nespectacular!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Hehe."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oye, entrenadora."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Ves lo increíble que eres cuando actúas como\nsiempre y no te haces la interesante?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Vaya, vaya. Ryan, ¿por qué nos bloqueas el paso?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Bueno... es que hoy McQueen está en su mejor\nforma, ¡y me dio curiosidad!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Eh? A mí me parece igual que siempre. Además,\nestá con su entrenadora."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "No, no, Ryan tiene razón, algo está distinto.\n¡Mira cómo espera ansiosa las siguientes\nindicaciones de su entrenadora!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje. Tranquila, Palmer. Si te acercas más,\nterminarás llamando su atención."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡¿Qué hacen aquí?!"
+    },
+    {
+      "name": "The Mejiros",
+      "text": "¡Aaaah! ¡Uy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al notar a las otras Mejiro escondidas tras las\nrocas, Mejiro McQueen se lanza tras ellas con la\ncara roja de vergüenza."
+    }
+  ]
+}
