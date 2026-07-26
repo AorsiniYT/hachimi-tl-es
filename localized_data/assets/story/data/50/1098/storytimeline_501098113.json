@@ -1,0 +1,416 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Así que, para volverse más fuerte, Copano Rickey\nempieza a buscar una Umamusume cuya ayuda pueda\ncontar. Sin embargo..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Qué? ¿Quieres que te ayude a entrenar? Sé que\ndije que era importante tener gente dispuesta a\nayudar, pero..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Lo siento... No puedo ayudarte. Tengo una agenda\norientada a metas y no hay vuelta atrás ahora.\nSimplemente no tengo tiempo."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Oohoo, ¿quieres que te ayude a entrenar? Bueno,\nestaré encantada."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¿De verdad?! Gracias, Acute! ☆ Vale, en ese caso,\nhagamos un partido de práctica ahora mismo."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "HRAAAAAAH!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Ai! ... Trainer, está <i>demasiado</i> fuerte. Ni\nsiquiera puedo seguirle el ritmo...",
+      "choice_data_list": [
+        "Sí, no es de extrañar...",
+        "Sí, no es de extrañar..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wonder Acute podría tener una apariencia de\nabuela, pero también es una de las poderosas más\nprominentes que verás en la pista de tierra."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ha competido en unas treinta carreras, y aunque\naún no ha ganado una G1, ha quedado segunda dos\nveces. También ha ganado tres carreras\nclasificadas.",
+      "color_text_info_list": [
+        "G1"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La gran figura del dirt, Smart Falcon, y yo\ntuvimos un duelo reñidísimo. Era demasiado\nsuperior para entrenar juntos.",
+      "color_text_info_list": [
+        "Smart Falcon"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Hm... Así que, incluso si alguien acepta entrenar\nconmigo, no podremos ayudarnos mutuamente a crecer\na menos que tengamos una buena dinámica."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Creo que necesito encontrar una corredora que\nacaba de debutar o está cerca de hacerlo..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Pero no consigo pensar en ninguna corredora que\npueda usar toda su potencia en la pista de tierra\nsin problemas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tampoco yo. Hokko Tarumae y Wonder Acute son las\núnicas dos que me vienen a la mente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero si estamos buscando una conexión especial...",
+      "choice_data_list": [
+        "¿No puede el feng shui darnos algunas pistas?",
+        "¿No puede el feng shui darnos algunas pistas?"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¿Pistas? ...Ahora que lo mencionas, sí que vi que\nmi color de la suerte era negro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que eso es todo lo que tenemos sobre lo que\nbasarnos. Supongo que podría buscar estudiantes\ncon cabello negro o algo así..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "...!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "...?!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Rickey!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Kita! ¡Claro! ¿Por qué no pensé en eso? ☆",
+      "choice_data_list": [
+        "¿Se conocen ustedes dos?"
+      ],
+      "color_text_info_list": [
+        "Kita"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Sí! ¡Cuando éramos pequeñas jugábamos juntas en\nel mismo parque!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¿Es cierto, Kita?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Sí! Esto fue antes de que te conociera, Dia!\n¡Rickey y yo siempre competíamos entre nosotras!",
+      "color_text_info_list": [
+        "Dia"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Cada vez que perdía mis juguetes en el arenero,\nRickey siempre los encontraba por mí enseguida!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Kitasan Black es la compañera menor de Copano\nRickey. Su naturaleza amable le valió el\nsobrenombre de \"capitana clave\".",
+      "color_text_info_list": [
+        "Kitasan Black"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La palabra \"Black\" está literalmente en su nombre.\nLa llamé para ver si encajaba... pero parece que\ntienen una relación muy larga."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y esta es Satono Diamond. Es la mejor amiga de\nKitasan Black y la heredera del Grupo Satono.",
+      "color_text_info_list": [
+        "Satono Diamond"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Oye, Kita? En realidad estoy buscando a alguien\npara que entrene conmigo."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¿Crees que podrías ser esa alguien?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Por supuesto! Si necesitas ayuda, ¡ayuda te daré!\n♪ Y..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Me alegra especialmente poder ayudarte, Rickey!\n¡Fuiste una gran amiga y compañera de juegos\ncuando éramos pequeñas!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Gracias. ☆ Recordando los tiempos que jugamos\njuntas, y también ese parque... Me trae muchos\nrecuerdos."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Recuerdo que había tantos adultos y chicas mayores\nque cuidaban de nosotras."
+    },
+    {
+      "name": "Caretaker",
+      "text": "Ahora bien, ya me deshice de esos cercados\npeligrosos para que ustedes dos no se hagan daño."
+    },
+    {
+      "name": "Caretaker",
+      "text": "Ahora pueden correr sin preocuparse por chocar con\nellos."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Sí! Fueron tan buenos con nosotras. Gracias a\nellos es que pudimos correr tanto como quisimos!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Kita, ¡corramos juntas de nuevo! ¡Como lo hacíamos\nen aquella época!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Sí! Correremos tan rápido como antes, ¡como en\nlos buenos viejos días de aquel parque!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Eh, ¿no importaría si also ofrezco mi ayuda?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Oh, ¿tú también, Dia?"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Pues sí. Creo que es más fácil entrenar con tres\npersonas."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Me encantará ayudarlas si me dejan."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Claro, muchas gracias, Dia! En ese caso, ¡estoy\ndeseando trabajar contigo también!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La mejor amiga de Kitasan Black, Satono Diamond,\nacepta de buena gana ayudar también."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pronto, el vínculo entre las tres crece más fuerte\ncada día que pasa."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Aprovechemos también la sesión de hoy, Rickey!\n¡Llevaba esperándola desde esta mañana!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¿Qué se ve en el feng shui para hoy?!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Veamos... el feng shui de hoy... \"El metal se\nenfrenta a la madera.\" Así que parece que tu\nafinidad con la madera no está para nada bien hoy,\nDia."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "La madera no está bien hoy... ¡En ese caso!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Corramos en la pista de aserrín! ¡Creen en mí.\nEstaré bien!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Tu feng shui es increíble, Rickey. Es <i>tan</i>\nconfiable."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡De verdad me motiva a superar los obstáculos que\ndetecta! ¡Me encanta!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Jajaja... Parece que le tienes un cariño\nespecial..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Mmm, siento que te la estás llevando un poquito."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que la obsesión de Satono Diamond por\nromper las maldiciones ha ayudado a que Copano\nRickey y ella tengan una gran conexión."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Oye, Entrenador! Creo que las tres podemos echar\na correr sobre la tierra. ¡Y todo gracias a ti. ♪",
+      "choice_data_list": [
+        "¡Vamos a perfeccionar tu forma de correr mientras\navanzamos!",
+        "¡Vamos a perfeccionar tu forma de correr mientras\navanzamos!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las tres forman una terna de corredoras que se\ncomplementan perfectamente en su entrenamiento.\nTodas se ayudan mutuamente a mejorar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tras forjar nuevas conexiones, los horizontes de\nCopano Rickey se han ampliado enormemente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el camino a casa ese mismo día..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Oh... Es ella..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Copano Rickey se detiene frente a las puertas de\nla academia. Sigo su mirada para ver..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una estudiante y su entrenadora se despedían."
+    },
+    {
+      "name": "Departing Umamusume",
+      "text": "Gracias por todo."
+    },
+    {
+      "name": "Trainer",
+      "text": "De nada. Pero me da tristeza verte marcharte.\nNunca imaginé que dejarías las carreras por\nvoluntad propia..."
+    },
+    {
+      "name": "Departing Umamusume",
+      "text": "No tengo opción. Mi lesión sanó, pero mi situación\nsigue siendo desesperanzadora... Bueno, adiós."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La exestudiante agradece a su entrenadora mientras\nse va. Pero justo entonces..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Disculpe!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Copano Rickey la llama, sin poder quedarse\ncallada."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¿Estás teniendo problemas con tu carrera? Si te\ncuesta mantener la actitud optimista, entonces..."
+    },
+    {
+      "name": "Departing Umamusume",
+      "text": "Si esto es un aliento, llega medio año tarde..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¿Medio... medio año?"
+    },
+    {
+      "name": "Departing Umamusume",
+      "text": "Al principio pensé que las preocupaciones eran\nsolo cosas de mi cabeza, pero luego desapareció mi\napetito... y empecé a quedarme despierta demasiado\ntarde..."
+    },
+    {
+      "name": "Departing Umamusume",
+      "text": "Mi entrenadora siempre estuvo ahí para mí, pero\nluego sentí culpa por volcar todos mis problemas\nen otra persona."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Ah... ya veo..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Oye! ¡En ese caso!"
+    },
+    {
+      "name": "Departing Umamusume",
+      "text": "Ya encontré trabajo."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Departing Umamusume",
+      "text": "Voy a aprovechar esto como oportunidad para\nempezar de nuevo."
+    },
+    {
+      "name": "Departing Umamusume",
+      "text": "Estoy bastante segura de que simplemente no tenía\nsuficiente talento... y lo he aceptado."
+    },
+    {
+      "name": "Departing Umamusume",
+      "text": "Lo siento por preocuparte. Adiós."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Oh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una sonrisa melancólica persiste en su rostro\nmientras se aleja. Hoy no es la primera vez que\npresencio algo así en la Academia Tracen...",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Debió haber algo... Que yo podría haber hecho.",
+      "choice_data_list": [
+        "¿Para esa estudiante?"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Sí. Por ejemplo, el rojo en el este. Podría haber\nintentado despertarse conforme salía el sol todas\nlas mañanas."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Mucho de volver al camino correcto empieza con\npequeños esfuerzos como esos..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Pero si no puedo tender la mano y ayudarlas, todo\nlo que me queda es verlas irse. Y he visto\nmarcharse a tantas desde que empezé en Tracen..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Quiero hacer algo para ayudar. Aunque ahora mismo\nno sea posible, tiene que haber algo que pueda\nhacer..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Por eso quiero ser más fuerte y difundir el feng\nshui! ¡Quiero ayudar a tantas personas como pueda,\nlo antes posible!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Tenemos que hacerlo lo mejor, Entrenador! ¡Juntas\ncon Kita y Dia!",
+      "choice_data_list": [
+        "...¡Así es!",
+        "...¡Así es!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La fuerza por el mero triunfo no es lo que más le\ninteresa — quiere construir ese tipo de fortaleza\nque pueda sostener a otros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En este momento, el fuego en los ojos de Copano\nRickey arde más intenso que el carmesí del sol en\nsu ocaso."
+    }
+  ]
+}

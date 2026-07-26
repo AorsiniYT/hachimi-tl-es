@@ -1,0 +1,567 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llevo <chrname> a la enfermería para un\nchequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! ¿U-usuaria— digo, ¡una estudiante! ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás herida? ¿Enferma? ¿Con estrés? ¿Sea lo que\nsea, ¡yo lo trato todo!",
+      "choice_data_list": [
+        "¿Quién eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la enfermería de\nla academia, diría que eso me convierte en tu fiel\nenfermera escolar. Sí, ¡solo una empleada escolar\npromedio!",
+      "choice_data_list": [
+        "...No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Jajaja! Parece que no me engañas. Supongo que\ndebería empezar dándote mi nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Carraspo! Permíteme presentarme."
+    },
+    {
+      "name": "???",
+      "text": "Soy la (probable) salvadora de todos los\nUmamusume, la (autoproclamada) legendaria\nacupunturista con el toque mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única y exclusiva Sasami Anshinzawa! ¿Ves?\n¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "..."
+      ],
+      "color_text_info_list": [
+        "Sasami Anshinzawa"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Mmm, te veo vestida de rojo para aumentar tus\nprobabilidades de victoria, y lo complementas con\nuna bata blanca. Um, ¿viniste aquí para\ndesafiarme?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Dios mío! Seguramente pareces preocupada! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos presentamos, así\nque acuéstate y déjame poner estas agujas a\ntrabajar!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¿A-agujas?! ¡Espera! No sé exactamente qué está\npasando, pero déjame revisar mi brújula para ver\nsi esto augura algo bueno o malo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay necesidad de asustarse! Todo lo\nque haré es deslizar estas agujas extraordinarias\ncon precisión en tus puntos de chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces voilà, presto! Algo indescriptible\nsucederá.",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y permíteme asegurarte que no hay absolutamente\nnada sospechoso sobre esto en absoluto. ¡Nunca ha\nsalido menos que perfectamente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Por mi maestro.",
+      "choice_data_list": [
+        "¿Para tu maestro? ¿Y para ti?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Esta es mi primera vez, así que\ntécnicamente, ¡tampoco he fallado a un paciente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es como si no tuviera experiencia! Pasé diez\naños bajo un maestro legendario, trayendo aguas—I\nmean, entrenando."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "(Necesitamos salir de aquí, ¡ya!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "De ninguna manera haremos esto. Tomo a <chrname> y\nme dirijo a la puerta, cuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¿Adónde van?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Si no me equivoco, tú eres Copano Rickey, ¿verdad?\n¡La Umamusume llena de alegría y suerte que\nintenta difundir felicidad a través del feng shui\ny las carreras! ☆",
+      "choice_data_list": [
+        "¿Has oído hablar de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿He oído hablar de ella? ¡Claro que sí! ¡Soy una\ngran fan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Esa es precisamente la razón por la que estoy\naquí! ¡Para darte mi apoyo! Permíteme ayudarte."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Solo dame una oportunidad! ¡Pleeease!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Parece que sabe un poco sobre mí y el feng shui,\nasí que no puede ser una mala persona, ¿verdad?\n¿Qué hacemos, Entrenador?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Rogando con una zanahoria encima!\n¡Incluso te dejaré elegir qué chakra activo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Estoy <i>segura</i> de que no lo arruinaré."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... bastante segura.",
+      "choice_data_list": [
+        "¿<i>Bastante</i> segura?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Quiero decir, está en el lado seguro! Eso es\n<i>bueno,</i>¿verdad? De todas formas, ¡no te obsesiones\ncon los detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debería activar?\n¿Quieres un impulso a tus habilidades? ¿Tu salud?\n¿O tal vez tu <i>encanto?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Huelo el peligro en el aire, pero creo que podría\n—y hago énfasis en <i>podría</i>— haber una oportunidad\nde obtener algo especial con este tratamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué hacemos?",
+      "choice_data_list": [
+        "Activar el chakra de fuerza.",
+        "Activar el chakra de victoria.",
+        "Activar el chakra de salud.",
+        "Activar el chakra de encanto.",
+        "Esto es demasiado sospechoso. Mejor retirémonos\nmientras podemos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces quieres que active el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista? ¡No hay vuelta\natrás después de esto!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, espera."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bien, déjame a mí! ¡Hora de localizar ese chakra!\n¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, relájate bien... ¿Ves? ¡Sin preocupaciones!\n☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y... ¡punzo!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Copaa?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción Perfecta!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Guau! ¿Qué es esta sensación?! ¡Como si estuviera\nparada en la tierra de los Cuatro Guardianes!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Mis flujos de meridianos están restaurados todos!\n¡Ya veo! Así que la acupuntura funciona\nestimulando los puntos de presión."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Aaah!</i> Estás bromeando... ¿De verdad funcionó?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Ni lo sueñes! No me lo puedo creer! Soy una genio\ntotal."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> rebosa de tanto poder que casi no la\nreconocen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos arriesgamos y nos salió bien. ¡Este es un gran\npaso hacia lograr nuestro objetivo!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Aaaaaah, mi energía... se está agotando..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Ah, cierto... La dirección mala de hoy era..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estado de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... eso fue eso, supongo."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿no miran la hora? Me tengo que ir. ¡Chao!\n☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debería haber sabido mejor que probar nuestra\nsuerte. No soy yo quien sufre, y aún así estoy\nllena de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces quieres que active el\nchakra de victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista? ¡No hay vuelta\natrás después de esto!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, espera."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bien, déjame a mí! ¡Hora de localizar ese chakra!\n¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, relájate bien... ¿Ves? ¡Sin preocupaciones!\n☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y... ¡punzo!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Copaa?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción Perfecta!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Guau! ¿Qué es esta sensación?! ¡Como si estuviera\nparada en la tierra de los Cuatro Guardianes!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Mis flujos de meridianos están restaurados todos!\n¡Ya veo! Así que la acupuntura funciona\nestimulando los puntos de presión."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Aaah!</i> Estás bromeando... ¿De verdad funcionó?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Ni lo sueñes! No me lo puedo creer! Soy una genio\ntotal."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puedo sentir una gran mejora en las habilidades\nde <chrname>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos arriesgamos y nos salió bien. ¡Este es un gran\npaso hacia lograr nuestro objetivo!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Aaaaaah, mi energía... se está agotando..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Ah, cierto... La dirección mala de hoy era..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estado de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... eso fue eso, supongo."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿no miran la hora? Me tengo que ir. ¡Chao!\n☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debería haber sabido mejor que probar nuestra\nsuerte. No soy yo quien sufre, y aún así estoy\nllena de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces quieres que active el\nchakra de salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista? ¡No hay vuelta\natrás después de esto!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, espera."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bien, déjame a mí! ¡Hora de localizar ese chakra!\n¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, relájate bien... ¿Ves? ¡Sin preocupaciones!\n☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y... ¡punzo!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Copaa?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción Perfecta!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Guau! ¿Qué es esta sensación?! ¡Como si estuviera\nparada en la tierra de los Cuatro Guardianes!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Mis flujos de meridianos están restaurados todos!\n¡Ya veo! Así que la acupuntura funciona\nestimulando los puntos de presión."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Aaah!</i> Estás bromeando... ¿De verdad funcionó?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Ni lo sueñes! No me lo puedo creer! Soy una genio\ntotal."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Todo el cuerpo de <chrname> irradia un brillo\nsaludable! Es la imagen absoluta de la salud."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos arriesgamos y nos salió bien. ¡Este es un gran\npaso hacia lograr nuestro objetivo!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Aaaaaah, mi energía... se está agotando..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Ah, cierto... La dirección mala de hoy era..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estado de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... eso fue eso, supongo."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿no miran la hora? Me tengo que ir. ¡Chao!\n☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debería haber sabido mejor que probar nuestra\nsuerte. No soy yo quien sufre, y aún así estoy\nllena de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces quieres que active el\nchakra de encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás lista? ¡No hay vuelta\natrás después de esto!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, espera."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bien, déjame a mí! ¡Hora de localizar ese chakra!\n¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, relájate bien... ¿Ves? ¡Sin preocupaciones!\n☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y... ¡punzo!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Copaa?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Punción Perfecta!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Guau! ¿Qué es esta sensación?! ¡Como si estuviera\nparada en la tierra de los Cuatro Guardianes!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Mis corrientes meridionales se han restablecido\npor completo! ¡Ya veo! Entonces, la acupuntura\nfunciona estimulando los puntos de presión."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Aaah!</i> No me digas... ¡Funcionó de verdad?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Naaada que ver! ¡No lo puedo creer! ¡Soy una\ngenio total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> rebosa de encanto. ¡Casi seguro llamará\nla atención donde quiera que vaya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Tiramos la carta y salió ganando! ¡Esto es un\ngran salto hacia nuestro objetivo!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Aaaaah, mi energía... se está desvaneciendo..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Ah, claro... Hoy la dirección de mala suerte\nera..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estado de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... ya veo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, no me había dado cuenta de la hora! Mejor\nme largo. ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber que no convenía poner a prueba nuestra\nsuerte. No soy yo quien sufre, pero aún así lleno\nde arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Ay, por favor! ¡No te pongas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Reconsider."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! Tú allá. Ojalá sepas que los intrusos\n<i>serán</i>procesados legalmente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Argh! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, me largas! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Detente ahí mismo!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Se ha ido. Tenía qi circulando por ella muy\npeculiar."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Bueno, ¡el feng shui sí ayuda a trazar nuestros\npropios caminos! Hora de volver al enfoque y\nretomar el entrenamiento.",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me entra curiosidad quién es realmente esta\nAnshinzawa, pero no sirve de nada darle tantas\nvueltas. Mejor olvidar lo de hoy y seguir\nadelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Cambiaste de opinión, eh? No pasa nada, ¡esto\npasa mucho!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces dime qué chakra quieres que active,\nanda!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Eh?! ¡No nos dejes en suspenso! Espera un\nsegundo... ¿Cuánto llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! Tú allá. Ojalá sepas que los intrusos\n<i>serán</i>procesados legalmente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Argh! ¡Me descubrieron!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, me largas! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Detente ahí mismo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La situación gira bruscamente antes de que pueda\ntomar una decisión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué fue eso todo? <chrname> y yo nos miramos\nperplejos."
+    }
+  ]
+}

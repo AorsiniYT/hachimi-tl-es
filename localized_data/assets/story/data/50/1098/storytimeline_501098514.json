@@ -1,0 +1,213 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una noche, vuelvo a la academia para recoger algo\nque olvidé... solo para terminar aplastada por\nvarias figuras sombrías."
+    },
+    {
+      "name": "Energetic Voice",
+      "text": "Uf! Te tenemos, fantasma. Ah, pero <i>por favor</i> no me\nmaldigas, ¿vale?"
+    },
+    {
+      "name": "Elegant Voice",
+      "text": "Llorando cada noche en la academia de esta forma,\n¡seguro estás muy triste, no? ¡Cuéntanoslo todo\npara que puedas descansar en paz!",
+      "choice_data_list": [
+        "No soy un fantasma. ¿Qué está pasando?"
+      ]
+    },
+    {
+      "name": "Familiar Voice",
+      "text": "Esperen un momento. ¡Creo que conozco a esta\npersona! ¿Podría ser... Entrenadora?!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Eres tú! Lo siento por lanzarme encima así."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Disculpa! Estábamos cazando fantasmas, y vimos\nuna figura medio fantasmal, así que fuimos\ndirectas..."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Hay un rumor que anda rondando últimamente de que\nsi vas a nuestra aula en la noche puedes escuchar\na un fantasma soltando sollozos."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Mucha gente está asustada... así que Kita y yo\nvinimos a pedirle al fantasma que pasara al más\nallá!",
+      "choice_data_list": [
+        "Vale... Entonces, ¿qué haces aquí, Rickey?"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Estoy aquí por la misma razón! Quiero aliviar la\nansiedad de todos y hacerlos felices. ☆ Además,\nquería hacer lo que pudiera por ayudar a mis\nadorables hermanitas menores."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Aunque supongo que no podemos decir con certeza\nque un fantasma esté detrás de esto..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Oh! ¿Te importaría ayudarnos, Entrenadora?"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Dada nuestra afinidad, ¡deberíamos poder resolver\ntoda esta situación!",
+      "choice_data_list": [
+        "¿Puedo ir a buscar primero la cosa que olvidé?"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Claro que sí! ¡Vamos todas a conseguirlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de recoger lo que vine a buscar, las\ncuatro volvemos al aula para escuchar al fantasma\nsollozante."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Bueno... todavía no estoy oyendo ningún llanto\nfantasmal."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Espero no sea un f-fantasma malo..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Mmm... Ya sabes, quizás no sea un fantasma el que\nestá soltando sollozos.",
+      "choice_data_list": [
+        "¿Qué quieres decir?",
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Podría ser el flujo de qi en el aula. Desde la\nperspectiva del feng shui, eso es más probable que\nun fantasma como causa."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "El qi malo se acumula y llena el aula, y luego\ntodas las personas que pasan tiempo ahí se van\nagotando poco a poco..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Y una vez que estás agotada, empiezas a tener\npensamientos negativos. Y a veces, escuchas cosas\nque en realidad no están ahí."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Así que, si vamos con la solución de feng shui y\nlimpiamos el aula para que fluya un poco de nuevo\nqi fresco, ¡eso podría funcionar! ☆"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Claro, aún existe la posibilidad de que <i>sea</i> un\nfantasma, así que una cacería de fantasmas también\nsería buena idea—"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Tu idea es mejor! ¡Limpiemos el aula primero!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Limpiar el aula sería como matar dos pájaros de un\ntiro. Y de todos modos prefiero que no haya\ng-ghost involucrado."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Uf. Organicé todo lo que estaba amontonado contra\nlas paredes y moví las plantas hacia el noreste\ntambién. ¿Y ahora..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Eep... Eep...!</i>",
+      "choice_data_list": [
+        "¿Ese sonido... será el fantasma?"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡No creo! Parece más bien una puerta o ventana\nfloja... ¡Oh! ¡Es esa ventana de allá!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Ah, sí...! Esta ventana ya no está bien ajustada.\nHabía un montón de cosas delante, así que ni me di\ncuenta."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Organizamos el ambiente y encontramos el\nproblema!",
+      "choice_data_list": [
+        "¡El feng shui salvó el día!",
+        "¡El feng shui salvó el día!",
+        "¡Buen trabajo!",
+        "¡Buen trabajo!"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Organizamos el ambiente y encontramos el\nproblema!",
+      "choice_data_list": [
+        "¡El feng shui salvó el día!",
+        "¡El feng shui salvó el día!",
+        "¡Buen trabajo!",
+        "¡Buen trabajo!"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Sí! ¡Rickey! ☆ ¡Suerte! ☆ ¡Problema resuelto!",
+      "choice_data_list": [
+        "Ojalá todos vean lo útil que puede ser el feng\nshui.",
+        "Ojalá todos vean lo útil que puede ser el feng\nshui."
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Sí, eso estaría bien... Pero por ahora, ¡solo\nquiero que todos sean felices!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Mi meta es traer felicidad a todos a través del\nfeng shui!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Qué aspiración maravillosa! Voy a contarle a toda\nmi clase lo que pasó hoy. ¡Les diré qué increíble\nes el feng shui!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Las maldiciones que traen tristeza deben\nromperse... pero los trucos que traen felicidad\nson fantásticos."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¿¡En serio!? ¡Kita, Dia, muchas gracias a ambas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ver la alegría de Copano Rickey al ver que sus\namigas aceptan el feng shui me alegra el corazón."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Jeje. ♪ Voy a seguir insistiendo hasta que toda la\nacademia esté feliz."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Yo también! ¡Quiero ayudar a todas las personas\nque están en problemas, una tras otra—bам, bам,\n<i>bam!</i>"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡De acuerdo! Quiero hacer lo que pueda por ayudar\na todos, y lo que hicimos hoy... Bueno, fue\nrealmente, realmente divertido."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Chocaditas! ¡Eso queda decidido! Somos el\nEscuadrón de Rescate de la Academia Tracen,\n¡entrando en acción!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Aaah! ¡El Escuadrón de Rescate de la Academia\nTracen! ¡Me gusta!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Vamos a ahuyentar la energía negativa y hacer\nfeliz a la Academia Tracen juntas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Verlas a las tres tan entusiasmadas me saca una\nsonrisa."
+    }
+  ]
+}
