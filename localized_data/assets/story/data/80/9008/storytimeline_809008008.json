@@ -1,0 +1,164 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Últimamente he estado muy concentrada, con la\nagenda llena de entrenamientos y carreras. Pero un\ndía... recibo una llamada inesperada..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Brrring! ¡Brrring!</i>"
+    },
+    {
+      "name": "Light Hello",
+      "text": "¡Hola, Entrenador! ¿Tendrás tiempo mañana?"
+    },
+    {
+      "name": "Light Hello",
+      "text": "¡Me encantaría ir a un picnic juntos!"
+    },
+    {
+      "name": "Light Hello",
+      "text": "Mmm... La brisa se siente genial. El clima\nperfecto para un picnic.",
+      "choice_data_list": [
+        "Gracias por invitarme hoy."
+      ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "¡No hay de qué! Me alegra pasar tiempo así.\nAdemás..."
+    },
+    {
+      "name": "???",
+      "text": "¿Oh? Disculpe, pero... ¿es usted, Light Hello?"
+    },
+    {
+      "name": "Light Hello",
+      "text": "...¡No puede ser!",
+      "choice_data_list": [
+        "¿Una amiga tuya?"
+      ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "¡Es mi ex entrenadora! Wow, cuánto tiempo sin\nverse."
+    },
+    {
+      "name": "Former Trainer",
+      "text": "¿Así que ahora trabajas como productora de\neventos? Leí sobre tus proyectos en una revista."
+    },
+    {
+      "name": "Light Hello",
+      "text": "¡Sí! Me falta mucho por aprender, pero lo intento\nal máximo."
+    },
+    {
+      "name": "Former Trainer",
+      "text": "Veo que sigues siendo la misma esforzada de\nsiempre."
+    },
+    {
+      "name": "Former Trainer",
+      "text": "Siempre aceptabas mis programas de entrenamiento\nde frente. Aunque tus resultados fueran escasos,\nnunca te rendías."
+    },
+    {
+      "name": "Former Trainer",
+      "text": "Pero hice que todo ese esfuerzo se perdiera. No\npude llevarte al escenario donde realmente\nbrillarías. Y aún así, tú—"
+    },
+    {
+      "name": "Light Hello",
+      "text": "Agradezco todo lo que hiciste por mí. Mi vida en\nla academia fue muy plena, ¡cada día fue\ndivertido!"
+    },
+    {
+      "name": "Former Trainer",
+      "text": "Cada vez que veía esa sonrisa, me preguntaba si\npodría haber hecho más por ti. Ojalá las cosas\nhubieran terminado diferente..."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Espera... quiero decirte algo."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Realmente te agradezco. Esos días son lo que me\nhizo quien soy hoy."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Quiero construir un escenario donde otras\nUmamusume puedan brillar. Las experiencias en la\nacademia son la base de ese sueño."
+    },
+    {
+      "name": "Former Trainer",
+      "text": "Qué bueno escuchar eso, Light Hello. Asegúrate de\nver cumplido ese sueño. Y sabe que siempre estaré\napoyándote."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Nunca me di cuenta de cuánto me cuidaban. Debería\nhaber dependido más de mi entrenador."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Depender de alguien no es solo seguir\ninstrucciones. Finalmente lo entendí al conocerte.",
+      "choice_data_list": [
+        "¿Al conocerte?",
+        "¿Al conocerte?"
+      ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "Eres alguien que me saca a descansar y con quien\npuedo compartir momentos vergonzosos."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Me enseñaste que es importante dejarse mimar de\nvez en cuando."
+    },
+    {
+      "name": "Light Hello",
+      "text": "¡Y por eso exactamente te invité a este picnic!",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "¿No te has sentido agotada últimamente? Pasar\ntantas carreras intensas debe estar pasándote\nfactura."
+    },
+    {
+      "name": "Light Hello",
+      "text": "¡No hay mejor momento para descansar que ahora!\n¿Verdad?",
+      "choice_data_list": [
+        "Hola..."
+      ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "Entonces primero, ¡vamos a revivir ese cuerpo\ncansado con un masaje!"
+    },
+    {
+      "name": "Light Hello",
+      "text": "Bien, ya que aflojaste los hombros rígidos, ¡es\nhora de llenar tu barriga y alma con buena comida!\n♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Light Hello continúa ayudándome a recargar energía\ndurante bastante tiempo..."
+    },
+    {
+      "name": "???",
+      "text": "Entre...nadora..."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Jeje. ♪ Buenos días. Alguien dormía como un trapo.",
+      "choice_data_list": [
+        "L-lo siento."
+      ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "No hay nada que disculpar. Me alegra que te\nrelajaras tanto como para quedarte dormida."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Avísame la próxima vez que te sientas agotada,\n¿ok? Me encantaría hacerlo de nuevo."
+    },
+    {
+      "name": "Light Hello",
+      "text": "¡Yo también empezaré a depender más de la bondad\nde los demás!"
+    }
+  ]
+}
