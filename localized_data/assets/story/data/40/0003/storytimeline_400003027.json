@@ -1,0 +1,225 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hola. Estoy aquí para aclarar cualquier duda que\ntengas sobre el Gran Concierto y cómo prepararte\npara ello."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Así que tienes alguna pregunta para mí?",
+      "choice_data_list": [
+        "Sí, me gustaría saber más.",
+        "No, creo que estoy bien."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Qué te gustaría saber?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aún tengo algunas dudas...",
+      "choice_data_list": [
+        "El Gran Concierto",
+        "Puntos de Actuación",
+        "Clases",
+        "Eso es todo, gracias."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah, el Gran Concierto."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Fue un evento organizado por los propios\nestudiantes."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Por desgracia, desapareció cuando la URA normalizó\nlos conciertos ganadores, y ahora poca gente lo\nconoce."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Por eso necesitarás darlo a conocer realizando\nconciertos promocionales. ♪"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "En total realizarás cuatro, y la acogida de cada\nconcierto dependerá de cuántas canciones nuevas se\ninterpretan.",
+      "color_text_info_list": [
+        "cuatro [GENERO:femenino] En total realizarás\ncuatro, y la acogida de cada concierto dependerá\nde cuántas canciones nuevas se interpretan.]"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Un concierto exitoso será un gran beneficio para\nel crecimiento de las estudiantes."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Asegúrate de aprender tantas canciones nuevas como\npuedas para garantizar el éxito final en el Gran\nConcierto."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Y no olvides que tu aprendiz también estará\ncompitiendo en la Serie Twinkle mientras te\npreparas para todos esos conciertos.",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Si no tienes cuidado al cumplir tus objetivos, su\ncarrera podría acabar antes de que llegues al Gran\nConcierto.",
+      "color_text_info_list": [
+        "★★★",
+        "★★★",
+        "Entrenamiento finalizado"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Hay algo más que quieras saber?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah, los puntos de actuación."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Después de una sesión de entrenamiento exitosa,\nganarás uno de cinco tipos de puntos de actuación.",
+      "color_text_info_list": [
+        "actuación [GENERO:femenino] Después de una sesión\nde entrenamiento exitosa, ganarás uno de cinco\ntipos de puntos de actuación.]"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Los diferentes tipos de entrenamiento te darán\ndistintos tipos de puntos de actuación cada vez,\nasí que asegúrate de revisar tus opciones.",
+      "color_text_info_list": [
+        "Lo que puedas conseguir depende de",
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "La cantidad de puntos que ganas también depende\ndel nivel del entrenamiento y del número de\nUmamusume que entrenes con ellas."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "El Entrenamiento de Amistad incluso te dará dos\ntipos de puntos de actuación a la vez.",
+      "color_text_info_list": [
+        "te dará dos tipos de puntos de actuación a la vez\n[GENERO:femenino] El Entrenamiento de Amistad\nincluso te dará dos tipos de puntos de actuación a\nla vez.]",
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ciertos eventos también te dan puntos de\nactuación. ♪"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Necesitarás puntos para aprender canciones y\ntécnicas de concierto, ¡así que gana tantos como\npuedas!",
+      "color_text_info_list": [
+        "canciones [GENERO:femenino] Necesitarás puntos\npara aprender canciones y técnicas de concierto,\n¡así que gana tantos como puedas!]"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Hay algo más que quieras saber?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah, las clases."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Las clases son donde tu aprendiz aprenderá nuevas\ncanciones y técnicas de concierto con los puntos\nde actuación que hayas ganado.",
+      "color_text_info_list": [
+        "Clases [GENERO:femenino] Las clases son donde tu\naprendiz aprenderá nuevas canciones y técnicas de\nconcierto con los puntos de actuación que hayas\nganado.]"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Después de aprender una nueva canción o técnica de\nconcierto, también adquirirás un Bonus de Dominio.\n♪",
+      "color_text_info_list": [
+        "Bonus de Dominio [GENERO:femenino] Después de\naprender una nueva canción o técnica de concierto,\ntambién adquirirás un Bonus de Dominio. ♪]"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Estos bonos pueden aumentar habilidades,\nrecuperar Energía, mejorar la efectividad del\nentrenamiento y más!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "En resumen, las clases ofrecen solo beneficios\npara tu aprendiz, ¡así que haz un buen uso de\nellas! ♪"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Aprender una nueva canción además te otorgará un\nBonus de Concierto.",
+      "color_text_info_list": [
+        "Bonus de Concierto [GENERO:femenino] Aprender una\nnueva canción además te otorgará un Bonus de\nConcierto.]"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Estos bonos proporcionarán efectos beneficiosos\n<i>después</i>de tu próximo concierto promocional.",
+      "color_text_info_list": [
+        "proporcionarán efectos beneficiosos después\n[GENERO:femenino] Estos bonos proporcionarán\nefectos <i>beneficiosos despuésde tu próximo\nconcierto </i>promocional.]"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ofrecen beneficios diferentes a los Bonos de\nDominio, ¡así que mantén un ojo en ambos tipos! ♪"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Pero ten en cuenta que ¡solo puedes aprender\ntantas canciones entre conciertos!",
+      "color_text_info_list": [
+        "entre conciertos [GENERO:femenino] Pero ten en\ncuenta que ¡solo puedes aprender tantas canciones\nentre conciertos!]"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Si una clase llama tu atención pero no tienes\nsuficientes puntos de actuación, puedes\nprogramarla.",
+      "color_text_info_list": [
+        "programarla [GENERO:femenino] Si una clase llama\ntu atención pero no tienes suficientes puntos de\nactuación, puedes programarla.]"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Programar una clase te permitirá ver qué puntos de\nactuación necesitas mientras entrenas. ¿Cómodo,\nno? ♪",
+      "color_text_info_list": [
+        "qué puntos de actuación necesitas\n[GENERO:femenino] Programar una clase te permitirá\nver qué puntos de actuación necesitas mientras\nentrenas. ¿Cómodo, no? ♪]",
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eso es todo lo que necesitas saber sobre las\nclases. ¿Hay algo más que quieras saber?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Estás segura?",
+      "choice_data_list": [
+        "¡Sí!",
+        "Pensándolo mejor..."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Vale. ♪ He preparado un resumen de todo lo que\nnecesitas saber, por si acaso."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Si alguna vez necesitas repasar, solo toca el\nbotón de \"i\" en la esquina superior izquierda de\nla pantalla.",
+      "color_text_info_list": [
+        "botón de \"i\" [GENERO:femenino] Si alguna vez\nnecesitas repasar, solo toca el botón de \"i\" en la\nesquina superior izquierda de la pantalla.]"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Bueno, eso es todo de mi parte. ¡Buena suerte, te\nestaré apoyando!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Vale, ¡buena suerte, te estaré apoyando!"
+    }
+  ]
+}

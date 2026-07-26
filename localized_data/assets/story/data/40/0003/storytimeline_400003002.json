@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Le cuento a Mihono Bourbon sobre nuestros planes\nde entrenamiento y conciertos promocionales de\ncara al Gran Concierto.",
+      "color_text_info_list": [
+        "Mihono Bourbon"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Órdenes recibidas.",
+      "choice_data_list": [
+        "Te pregunto qué opinas, no te estoy ordenando\nnada.",
+        "Te pregunto qué opinas, no te estoy ordenando\nnada."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...¿Qué pienso?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Light Hello describió el Gran Concierto como un\nescenario para que las corredoras expresen su\ngratitud."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por eso, si Bourbon va a actuar, quiero que lo\nhaga porque<i>quiere</i> hacerlo, no porque se lo\n\"ordene\".",
+      "choice_data_list": [
+        "Si quieres, puedes observar primero antes de\ndecidir."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si llega un día en que quiera actuar por propia\nvoluntad, entonces hablaremos de subirla al\nescenario."
+    }
+  ]
+}

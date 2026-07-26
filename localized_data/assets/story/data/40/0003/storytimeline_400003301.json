@@ -1,0 +1,85 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras paso junto al campo de\nentrenamiento..."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Que resuene, fanfarria... ♪",
+      "choice_data_list": [
+        "\"Debut\"?"
+      ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "¡Ah! ¡Entrenador?!"
+    },
+    {
+      "name": "Light Hello",
+      "text": "Solo... olvida lo que viste, está bien? Estoy\nsegura de que no quieres recordar eso de todos\nmodos.",
+      "choice_data_list": [
+        "Eres buena cantante."
+      ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "Jajaja, quizás pueda cantar afinado, pero eso no\nes lo mismo que ser una buena cantante."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Mi abuela siempre decía que un concierto es una\noportunidad para dar las gracias."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Incluso si cantas bien, no importa si tu corazón\nno está en ello.",
+      "choice_data_list": [
+        "Parece que era una jueza estricta."
+      ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "Heh, creo que eso es solo cuánto amaba la Serie\nTwinkle."
+    },
+    {
+      "name": "Light Hello",
+      "text": "En realidad fue una de las miembros fundadoras que\nluchó para iniciar el Gran Concierto. Eso es lo\nque escuché de mi madre, de todos modos.",
+      "choice_data_list": [
+        "Really?"
+      ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "Al parecer. Nunca lo supe hasta que empecé a\ninvestigar sobre el concierto; puedes imaginar mi\nsorpresa."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Heh, desearía poder presentarle a la persona de la\nque te hablé..."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Ah, lo siento! Mírame divagando sobre mí misma."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Diré esto, sin embargo... Lo que he escuchado\nhasta ahora, realmente creo que <chrname> es una\nbuena cantante."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Así que cuando llegue el momento de que se\npresenten en el escenario, espero que prestes\nmucha atención."
+    },
+    {
+      "name": "Light Hello",
+      "text": "Porque creo que su canción estará llena de\ngratitud por la persona que siempre ha estado a su\nlado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después, tengo la oportunidad de\nobservar a <chrname> en una de sus clases de baile."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su canto parece emanar emoción."
+    }
+  ]
+}
