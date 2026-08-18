@@ -1,0 +1,222 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Entro a mi oficina y noto algo extraño en el\nambiente."
+    },
+    {
+      "name": "Eerie Voice",
+      "text": "Tengo tanta soledad... No... me dejes...",
+      "choice_data_list": [
+        "¿Q-quién está ahí?",
+        "¿Q-quién está ahí?"
+      ]
+    },
+    {
+      "name": "Eerie Voice",
+      "text": "¿Eres... una amiga?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Además de la voz misteriosa, siento algo frío y\nduro en el cuello. Poco a poco, empieza a\npresionar más fuerte, y..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡...ner! ¡Oye, entrenadora! ¿Me escuchas?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Me asustaste muchísimo al caer así al suelo! ¿Te\nsientes mal?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Preguntándome qué acaba de pasar, miro alrededor y\nnoto una muñeca que nunca había visto antes,\nposada sobre mi escritorio."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Eh? Espera un momento, ¡esa es la muñeca de Cafe!\nMe la enseñó cuando estaba en su cuarto con\nTachyon..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Aunque me parece que antes tenía el pelo más\ncorto...",
+      "choice_data_list": [
+        "Da un miedo tremendo."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Vamos a avisarle a Cafe que la encontraste. Seguro\nla perdió por aquí cerca y alguien decidió dejarla\nen tu escritorio."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Gracias. Parece que se escapó otra vez sola...",
+      "choice_data_list": [
+        "¿Sola?!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Sabía que era tuya! Me alegra que las hayamos\nreunido.",
+      "choice_data_list": [
+        "¿P-por qué actúas como si esto fuera normal?!",
+        "¿P-por qué actúas como si esto fuera normal?!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Será que ya me acostumbré? De donde vengo, estas\ncosas pasan todo el tiempo."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Además, estas muñecas no son tan distintas a mí.\n¡Las dos podemos movernos y crecer nuestro pelo!"
+    },
+    {
+      "name": "Eerie Voice",
+      "text": "Tengo tanta soledad... Estoy tan sola..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Guau, también puede hablar! Pero ¿por qué se\nsiente sola si ya se reencontraron?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Desde que la conocí, ha estado buscando a alguien.\nLamento las molestias que les ha causado... Me la\nllevaré a casa..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cuanto Manhattan Cafe dice que se llevará la\nmuñeca, mis nervios empiezan a calmarse."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Espera un momento, Cafe."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Hay algo que podamos hacer para ayudar?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "No me parece bien separarnos así, viéndola más\ntriste que el lago Gosho."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¿Estás segura de que podrás con esta carga?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Claro que sí! ¿Verdad, entrenadora?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La verdad es que no estoy muy convencida, pero me\nmiran con tanta expectativa...",
+      "choice_data_list": [
+        "Creo que es mejor ayudarla a seguir adelante.",
+        "¡S-sí! Seguro podremos vivir todas en paz."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Q-quieres decir al m-más allá?! No podemos\nobligarla. Si lo hacemos, debe ser <i>por su </i>propia\ndecisión."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Mmm... Hay quienes aceptan seguir adelante cuando\nya no tienen asuntos pendientes..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "En ese caso, ¡tengo que cuidarla hasta que deje de\nsentirse sola! ¡Tengo montones de buena onda para\nlas dos!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Vamos, vamos, cariño. Todo va a salir bien."
+    },
+    {
+      "name": "Eerie Voice",
+      "text": "Qué... cálido..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Bueno, ustedes dos. Acérquense y denle unas\npalmaditas en la cabeza.",
+      "choice_data_list": [
+        "Tranqui, tranqui..."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Buena chica..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de pasar unas horas consolando a la\nmuñeca, esa voz extraña finalmente se desvanece."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Sí! Además, quizá podamos llegar a ella si\nhablamos."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Yo empiezo!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Qué pasa, muñequita? ¿Qué te tiene tan sola?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Sé que debe ser difícil, pero solo asustarás a la\ngente si empiezas a hablar de la nada y haces que\nlas cosas floten."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Si te portas bien, estoy segura de que podrás\nhacer amigas."
+    },
+    {
+      "name": "Eerie Voice",
+      "text": "...¿En serio?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Claro que sí! Quiero decir, ¡por Dios!, jugaría\ncontigo montones y montones. ¡Eres un amor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yukino Bijin sonríe con dulzura a la muñeca, y\ncomo si esta hubiera aceptado sus palabras, la voz\nextraña de repente se calla."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Hay algo... distinto en ti, Yukino."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Incluso ante eventos inexplicables o personas que\notros podrían considerar aterradoras, siempre te\nmantienes tan tranquila y amable..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ni siquiera te da miedo... compartir habitación\nconmigo."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡¿Qué dices?! Me encanta ser tu compañera de\ncuarto. ¡Podría vivir contigo para siempre!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Si tienes más muñecas o lo que sea que te esté\ndando problemas, tráelas aquí cuando quieras."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Además, tú eres la amable, Cafe. Cuando llegué a\nla Academia Tracen, estaba tan asustada y sola...\npero entonces me preparaste un café calientito.\n¡Ayudar es lo menos que puedo hacer!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Gracias... Tendré que prepararte otra taza...\ncuando regresemos."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Muchas gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ver el fuerte lazo entre Yukino Bijin y Manhattan\nCafe en acción también me llena el corazón de\ncalidez."
+    }
+  ]
+}

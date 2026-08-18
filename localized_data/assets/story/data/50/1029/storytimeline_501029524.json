@@ -1,0 +1,289 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En mi día libre, salgo a un gran suburbio... solo\npara toparme con Yukino Bijin forcejeando con una\nmáquina expendedora."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "No entiendo nada. Estoy segura de que alguien dijo\nque podías usar dinero electrónico con estas\nmáquinas."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Grr... ¡Tengo que seguir intentándolo! Si voy a\nser una chica de ciudad, necesito aprender a usar\ntodos estos aparatos modernos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que no sabe cómo usar su app de pagos para\ncomprar una bebida de la máquina expendedora."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Confío en que tú sabes el truco, Aprendíz! ¡No\ntenía idea de que primero había que apretar el\nbotón!",
+      "choice_data_list": [
+        "¿Viniste solo a pasear también?",
+        "¿Viniste solo a pasear también?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Sí. Pensé que era mejor acostumbrarme a la ciudad\nsi voy a ser una chica urbana. He estado visitando\ntodos los lugares más céntricos."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "El problema es que, dondequiera que mire, solo veo\nciudad, ciudad, ciudad... No tengo idea de adónde\ndebería ir."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Y ni siquiera puedo comprar una bebida. Esto me\nestá arruinando el día... Tal vez debería volver a\ncasa.",
+      "choice_data_list": [
+        "¿Quieres pasear juntas?",
+        "¿Quieres pasear juntas?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿En serio? ¡Me encantaría! Mientras estés conmigo,\nme siento prácticamente imparable."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "En ese caso, ¿podrías llevarme a algún lugar que\npara ti grite \"ciudad\"? ¡Por favor!",
+      "choice_data_list": [
+        "¡Sí, sumergámonos de lleno!",
+        "¡Sí, sumergámonos de lleno!",
+        "Vayamos a algún lugar con vista a toda la ciudad.",
+        "¿Qué tal si vamos a mirar vidrieras?",
+        "¿Qué tal si vamos a mirar vidrieras?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "En ese caso, ¿podrías llevarme a algún lugar que\npara ti grite \"ciudad\"? ¡Por favor!",
+      "choice_data_list": [
+        "¡Sí, sumergámonos de lleno!",
+        "¡Sí, sumergámonos de lleno!",
+        "Vayamos a algún lugar con vista a toda la ciudad.",
+        "¿Qué tal si vamos a mirar vidrieras?",
+        "¿Qué tal si vamos a mirar vidrieras?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿D-de lleno? ¡Vaya, suena tan intenso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, decido llevarla a una famosa tienda de\nmercancía de Umamusume y carreras."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Guau... Pensé que las tiendas así solo existían en\nlos hipódromos... ¡Parece que no hay nada que la\nciudad no tenga!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Y mira qué tamaño tiene este lugar. ¡Los estantes\nsolos parecen interminables!",
+      "choice_data_list": [
+        "Estoy segura de que esta tienda ocupa todos los\npisos del edificio."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿¡Q-qué!? ¡Este lugar es otro nivel!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Tenemos que revisar cada piso! ¡Apuesto a que\ntienen mercancía de City en el mejor lugar!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Pero este lugar es enorme. Tendremos que ponernos\nlas pilas si queremos encontrar sus cosas. ...¿Hm?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Oh, es Digital! ¡Qué suerte! ¡No podríamos\nhabernos topado con alguien mejor!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡¿Q-quéééé?! ¡Un ataque sorpresa de pureza de la\nnada! ¡¿Por Yukino, el Ángel de Nieve?! ¡Mi alma\nestá en llamas!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ah, u-um, ¡mis disculpas! <i>Haa... Haa...</i> ¿Hay algo\nen lo que pueda ayudarlas?!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Bueno, eh... Es un poco vergonzoso, pero no estoy\nmuy acostumbrada a tiendas tan grandes."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Podrías darnos un resumen para encontrar lo que\nbuscamos?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Ah! ¡Ya veo! ¿Así que tú también quieres\nadentrarte en este mundo?!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Sííí! ¡Hoy me lanzo de lleno!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Muy bien! ...Mmm. Hoy en día encuentras de todo\nen internet, pero nada supera disfrutar las cosas\nen persona."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Umamusume de la capital! ¡Umamusume regionales!\n¡Umamusume de todas las generaciones! ¡Déjame\nmostrarte todo lo que tiene esta tienda!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿¡H-harías todo eso por mí!? ¡Muchas gracias! ¡No\nveo la hora de verlo todo!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Seguro que comprar en tiendas tan bonitas como\nestas me ayudará a convertirme en la chica de\nciudad que sueño ser!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin hacer caso a ese comentario, observo cómo\nYukino Bijin sigue a Agnes Digital y se sumerge\npor completo en su mundo."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Oooh! ¡Ver la ciudad desde lo alto debe ser\ngenial!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Vaya! E-es increíble. Esos edificios eran\nenormes, pero desde aquí parecen caber en la palma\nde mi mano."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Siempre hay algo más grande, ¿no? ¡Así se siente\nsubir a un rascacielos! ¡Qué vista tan\nespectacular!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Sabes un montón de la ciudad, entrenadora!\n¡Muchas gracias por compartir este paisaje tan\nhermoso conmigo!",
+      "choice_data_list": [
+        "De nada."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Pero... Mmm... Por alguna razón, todo esto me\nresulta extrañamente familiar."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ah, ya sé! ¡Esto me recuerda a cuando de pequeña\nmiraba Morioka desde el mirador de la montaña!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ver mi pueblo tan pequeño desde lo alto de esa\nmontaña... Recuerdo que quería visitar todos los\nlugares que veía."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...Sí. No puedo ponerme tímida. Tengo que abrir mi\ncorazón otra vez, como lo hice entonces."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Sí! ¡Hagámoslo! ¡Quiero recorrer esta ciudad tan\nimpresionante con mis propias patas!",
+      "choice_data_list": [
+        "Parece que te estás acostumbrando a la gran\nciudad.",
+        "Parece que te estás acostumbrando a la gran\nciudad."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Claro. Jeje... Ojalá eso signifique que estoy un\npasito más cerca de ser una chica de ciudad."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ah, ya sé! ¿Por qué no decidimos nuestro próximo\ndestino desde aquí?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Vamos, entrenadora! ¡Por aquí! ¡Miremos por el\ntelescopio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yukino Bijin y yo pasamos el resto del día\npaseando por la ciudad. Se ve orgullosa de haber\ndado un paso más para convertirse en una chica de\nciudad."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Oh! ¡Eso es obligatorio! ¡Vamos, tenemos compras\nque hacer!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Guau! ¡Estas tiendas son gigantescas! ¡Y todas\nlucen tan glamorosas!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...¡Ah! Mejor me controlo. No está bien quedarse\nboquiabierta."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Una chica de ciudad camina como si el lugar fuera\nsuyo! ¡Vamos, allá voy!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Solo fingiré que estoy paseando por el centro\ncomercial de Morioka!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Nada como mirar vidrieras para animarse! Creo que\nme estoy acostumbrando al ambiente de la ciudad...\nJe."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Pero todas esas multitudes me dejaron un poquito\ncansada... Me gustaría encontrar un lugar para\ndescansar un rato—"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...Espera, ¿estoy oliendo lo que creo que estoy\noliendo?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Peras, <i>ja</i>, yogur... ¿Qué hace aquí toda esta cosa\nde Morioka?!",
+      "choice_data_list": [
+        "Es una tienda que vende productos de Iwate.",
+        "Es una tienda que vende productos de Iwate."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Vaya! ¡Los recuerdos me inundan!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ah! ¡Entrenadora, estos fideos fríos están\ndeliciosos! Voy a llevar un paquete."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Pero qué sorpresa! Nunca pensé que encontraría\ncosas de mi pueblo en un lugar tan elegante."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Estar rodeada de cosas nuevas hace que lo familiar\nsea aún más reconfortante..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...Hehe.",
+      "choice_data_list": [
+        "¿Qué?",
+        "¿Qué?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "La ciudad siempre tiene más de lo que parece. No\ntodo son edificios enormes, luces brillantes o\ntanto glamour."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hay lugares donde hasta una pueblerina como yo se\nsiente en casa."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Jeje. Creo que empiezo a entender la ciudad. ¡Un\npoquitito!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tras descubrir los distintos lados de la ciudad,\nYukino Bijin se ve satisfecha con su crecimiento\ncomo chica de ciudad."
+    }
+  ]
+}

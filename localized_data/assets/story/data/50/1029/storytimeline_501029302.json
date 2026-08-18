@@ -1,0 +1,424 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras Yukino Bijin y yo regresábamos a\ncasa después de hacer unas compras..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Guau! ¡Mira esto, Entrenadora!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe, el segundo un\nfardo de zanahorias y el tercero una sola\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No sean tímidas! ¡El sorteo es superdivertido!\n¡Todas pueden participar!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Wow, regalan unas vacaciones en aguas termales!\n¡Suena genial! ¡Me encantan los baños termales!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ojalá pudiera probar suerte en el sorteo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso me recuerda... Estoy segura de que nos dieron\nun boleto con las compras.",
+      "choice_data_list": [
+        "Toma, es tuyo.",
+        "Toma, es tuyo."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿En serio?! En ese caso..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Voy a intentarlo! ¡Deseame suerte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Yukino Bijin gira la ruleta del sorteo con\nfuerza!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del gran premio!\n¡Venga a recoger el cupón para sus vacaciones en\naguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Dios mío!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡E-Entrenadora! ¡L-lo logré! ¡Gané unas vacaciones\nen aguas termales de lujo!",
+      "choice_data_list": [
+        "¡Felicidades!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Vaya emoción! ¡Tengo la piel de gallina!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Nunca había ganado un premio mayor!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Casi quiero que me pellizques para asegurarme de\nque no estoy soñando!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Vaya... En todos mis años con este sorteo, nunca\nhabía visto a nadie tan emocionada."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Es que, quién <i>no</i> saltaría de alegría! ¡Es el\npremio mayor! ¡El más grande de todos! ¡Unas\nvacaciones en aguas termales!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "<i>Uf...</i> No veo la hora..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Bueno, ¡tengo que guardarlo en un lugar seguro!",
+      "choice_data_list": [
+        "¿No quieres ir ya?",
+        "¿No quieres ir ya?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ni hablar! Ahora es un momento muy importante\npara mí, así que debo mantenerme enfocada."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Voy a guardarlo para disfrutarlo después. Así\npodré relajarme de verdad."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Además, ¡me esforzaré más sabiendo que me espera!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Vaya! ¡Qué autocontrol tan admirable! ¡Y qué meta\ntan bonita! ¡Te apoyaré!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡O-oh! ¡Gracias!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hm, hm, hmmm. ♪",
+      "choice_data_list": [
+        "¿Tanto te alegra el viaje a las aguas termales?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Bueno, sí, eso también..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Pero también me pone super feliz que alguien me\nanime! Por más que me lo digan montones de veces,\n¡sigue sonando a música para mis oídos!",
+      "choice_data_list": [
+        "¡Entonces consigamos que más gente te anime!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Buena idea! Así, cuando por fin nos vayamos de\nvacaciones a las aguas termales, ¡podré relajarme\nde verdad!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "También tendremos que asegurarnos de que tú\ndescanses y te relajes, entrenadora.",
+      "choice_data_list": [
+        "...¿Eh? ¿Yo?",
+        "...¿Eh? ¿Yo?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Huh?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...¡Ah! Y-yo no quería dar por hecho que tú\nquisieras..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Aaah! ¡Dios mío! ¡Qué vergüenza!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Como siempre estamos juntas, pensé que iríamos de\nvacaciones juntas también."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ay, que alguien me cave un hoyo para enterrarme!",
+      "choice_data_list": [
+        "...Entonces planeemos ir juntas.",
+        "...Entonces planeemos ir juntas."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "G-gracias por aceptar mi invitación tan\nindirecta..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, acordamos guardar el cupón como\nrecompensa por su esfuerzo en el futuro."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Guau! ¡Se ve deliciosísimo!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "En casa, solo comía filetes de hamburguesa en\nocasiones especiales."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hay un restaurante famoso de filetes de\nhamburguesa al que iba mucho con mi familia."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Siempre me divertía porque tenían montones de\ntoppings para elegir, como piña y esas cosas."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "La primera vez que llevamos a mi hermanita, cuando\nya era lo suficientemente grande para salir a\ncomer, le elegí varios toppings."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Me dio una sensación cálida verla tan feliz\ncomiendo lo que yo le había elegido!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...",
+      "choice_data_list": [
+        "Parece que tenemos que comprar piña."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, las dos volvemos a la academia y\ncharlamos alegremente sobre nuestro filete de\nhamburguesa personalizado."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Vaya! ¡Tenemos toda una cosecha!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¿Podrás cargar todo eso?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Claro que sí! ¡Déjamelo a mí!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...¡Upa!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Oooh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yukino Bijin levanta la pila de cajas y las carga\ncomo si nada."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Uf! ¡Llegamos!",
+      "choice_data_list": [
+        "¡Buen trabajo! Fue impresionante."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Bah, esto no es nada comparado con cargar\nherramientas de labranza."
+    },
+    {
+      "name": "Child A",
+      "text": "¡Gua-guau!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hm?"
+    },
+    {
+      "name": "Child A",
+      "text": "¡Te vi caminar todo el camino con esas zanahorias!\n¡Eres súper fuerte!"
+    },
+    {
+      "name": "Child A",
+      "text": "Oye, ¿cómo te hiciste tan fuerte? ¡Dímelo, porfa!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿¡Eh!?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Mmm? Pues..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Supongo que comiendo montones de zanahorias."
+    },
+    {
+      "name": "Child A",
+      "text": "¡Puaj! Las zanahorias son asquerosas... Pero si\ncomiéndolas me hago fuerte..."
+    },
+    {
+      "name": "Child A",
+      "text": "Oye, ¿me das una de las tuyas? ...¡Voy a\nintentarlo!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Claro! ¡Anímate!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Solo una, eh?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ah, ya sé qué hacer!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Mmm! ¿Podría pedirte un favor?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Je. ¡Me pone feliz que el dependiente aceptara\nhornearlo para nosotras!",
+      "choice_data_list": [
+        "¡Sí! ¡Debe estar bien calientito!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Y está súper rico! ¡Prueba, entrenadora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Ñom</i>"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Qué tal está?",
+      "choice_data_list": [
+        "¡Dulce y delicioso!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Verdad? ¡Alguien de mi pueblo me enseñó a\ncomerlos así!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Y ahora tú también lo sabes! ¡Todo sale de\nmaravilla!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un boleto\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oh..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Solo un paquete de pañuelos?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Lo siento. Estabas tan emocionada por ganar el\ncupón para las aguas termales..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ay, no! No hace falta que te disculpes."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Yukino, qué tonta eres! ¿Por qué haces que los\ndemás se sientan mal por ti?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yukino Bijin parece más molesta por haber hecho\nsentir mal al empleado del sorteo que por perder\nlas vacaciones en aguas termales."
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Vaya, vaya! ¡Montones de gente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Acompaño a Yukino Bijin a un santuario para\nrecibir el Año Nuevo y pedir por su éxito en su\núltimo año.",
+      "color_text_info_list": [
+        "senior year"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Supongo que da igual si estás en Morioka o en la\ngran ciudad, todas tenemos algo por qué rezar.",
+      "choice_data_list": [
+        "¡Vayamos a rezar también!",
+        "¡Vayamos a rezar también!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡De acuerdo!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me quedo junto a Yukino Bijin mientras junta sus\nmanos y reza con devoción. Cierro los ojos para\ndesearle felicidad.",
+      "choice_data_list": [
+        "(Que el deseo de Yukino Bijin se cumpla.)"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Y ahora qué hacemos? Todavía falta un rato para\nel entrenamiento, ¿no?",
+      "choice_data_list": [
+        "¿Qué te gustaría hacer?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hm..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Podríamos comer algo dulce, dar un paseíto o hacer\nalgo divertido..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Eso es lo que se me ocurre por ahora. ¿Qué opinas?",
+      "choice_data_list": [
+        "Vamos a comer algo dulce.",
+        "Vamos a dar un paseo.",
+        "Vamos a hacer algo divertido."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "En ese caso, ¡hay un lugar de parfaits que quería\nprobar!"
+    },
+    {
+      "name": "Server",
+      "text": "¡Gracias por esperar! Dos parfaits estacionales\nConejo de Nieve. ¡Que lo disfruten!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los parfaits blancos que el mesero coloca frente a\nnosotras parecen liebres de invierno. Incluso\ntienen un mochi con forma de conejo encima."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Vaya!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡T-T-Trainer! M-M-Mira qué cositas más... cositas\nmás...",
+      "choice_data_list": [
+        "¡Sí, son unas cositas adorables!",
+        "¡Sí, son unas cositas adorables!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Dios mío! ¿Qué hago? ¿Me atrevo a darle un\nbocado?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ah, espera! Antes de empezar..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oye, ¿me tomarías una foto con el conejito de\nnieve?",
+      "choice_data_list": [
+        "¡Claro!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Gracias! ¡Inflaré mis mejillas para parecerme al\nmochi!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Listo! ¡Enviado!",
+      "choice_data_list": [
+        "¿A quién se lo mandaste?",
+        "¿A quién se lo mandaste?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "City!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ella fue quien me habló de este lugar. Dijo que\neste parfait le recordaba a mí."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "La gente lleva años diciendo que les recuerdo al\nmochi. ¡Por eso hice mi cara de mochi!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Jeje, ¡espero que a City le dé risa!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? Un mensaje de Yukino..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pfff... ¡Jajaja!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oye, ¿qué te da tanta risa? ¿Estás bien?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Bueno, ¡a comer!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Zas!</i>",
+      "choice_data_list": [
+        "Ah."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hago una mueca cuando Yukino Bijin clava su\ntenedor sin piedad en la cabeza del conejito de\nnieve..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Suena bien."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Podemos tomar el camino largo a casa!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oye, ¿qué tal si jugamos un jueguito mientras\ntanto?",
+      "choice_data_list": [
+        "¿Qué tipo de juego?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "La única regla es que no puedes dejar de caminar,\npase lo que pase."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Por ejemplo, si llegamos a un semáforo en rojo, en\nvez de esperar, doblamos la esquina y seguimos\ncaminando."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Y si llegamos a un callejón sin salida, damos\nmedia vuelta y seguimos adelante."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "En Morioka no hay tantos semáforos, así que este\njuego solo funciona en la ciudad. ¿Crees que\npodrás?",
+      "choice_data_list": [
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Entonces, vámonos!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Mira, Trainer! ¡El semáforo está en rojo!",
+      "choice_data_list": [
+        "¡Doblemos a la derecha!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Right!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Uy! ¡Callejón sin salida!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Media vuelta!",
+      "choice_data_list": [
+        "¡Aye, aye!",
+        "¡Aye, aye!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así, Yukino Bijin y yo seguimos caminando sin\nparar."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Guau! ¡La vista aquí es increíble!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ooooh..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ay, no! ¡Me detuve sin querer!",
+      "choice_data_list": [
+        "No pasa nada. Disfrutemos el paisaje con calma."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Entendido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yukino Bijin y yo nos tomamos nuestro tiempo para\nadmirar el campo de flores que encontramos."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Yupi!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Mmm, pero ¿qué podemos hacer en el tiempo que\nqueda antes del entrenamiento? No falta <i>tanto</i>.",
+      "choice_data_list": [
+        "Bueno, se me ocurre una idea..."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Oh! ¡Un arcade!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Buena idea! Podemos jugar un rato y divertirnos\ncon el tiempo que tenemos.",
+      "choice_data_list": [
+        "¿Qué quieres hacer?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Pues... la verdad es que no sé mucho de juegos de\narcade."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Nunca he jugado antes..."
+    },
+    {
+      "name": "Chica de preparatoria A",
+      "text": "Oye, ¿probamos ese juego de baile? Siempre usamos\nlas cabinas de fotos, así que ¡vamos a variar!"
+    },
+    {
+      "name": "Estudiante de secundaria B",
+      "text": "¡Claro! ¿Por qué no?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Las chicas de ciudad sí que son despreocupadas."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...¡Ah! En realidad <i>sí</i> hay un juego que quiero\nprobar.",
+      "choice_data_list": [
+        "¡Claro! ¡Lo que sea me parece bien!",
+        "¡Claro! ¡Lo que sea me parece bien!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, elige..."
+    },
+    {
+      "name": "Zombi",
+      "text": "¡Graaaaah! ¡Rrrgh! ¡CEREBROOOOS!",
+      "choice_data_list": [
+        "¡AAAAHHH!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡No te preocupes, Trainer! ¡Yukino Bijin al\nrescataaaate!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Shing!</i>"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Lo logramos! ¡Ganamos!",
+      "choice_data_list": [
+        "No parecías asustada para nada...",
+        "No parecías asustada para nada..."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Pues no! ¡Solo es un juego!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Vaya, eso sí que estuvo divertido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ver a Yukino Bijin tan tranquila y satisfecha me\nllena de admiración por ella."
+    }
+  ]
+}

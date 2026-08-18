@@ -1,0 +1,234 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es la primera carrera de la Triple Tiara, el\nOka Sho, y Yukino Bijin ha sido invitada a una\nentrevista previa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es bastante común que las Umamusume populares den\nentrevistas, pero..."
+    },
+    {
+      "name": "Reporter A",
+      "text": "Yukino, ¿qué cenaste anoche?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Tonkatsu con arroz, que da suerte!"
+    },
+    {
+      "name": "Reporter B",
+      "text": "¡Qué lindo! Sé que eres joven y muy ocupada, pero\n¿hay alguien en especial a quien <i>particular</i> te\ngustaría que te viera correr?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Solo una persona? Vaya, no sé si pueda elegir.\nObvio que quiero que mi mamá me vea, pero también\nmi papá, mi hermanita y todos mis amigos..."
+    },
+    {
+      "name": "Reporter B",
+      "text": "Es muy tierno, pero... me refería más a si hay\nalguien especial en tu vida..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Alguien especial? Como..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡AAAH! N-n-n-no, ¡no tengo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los reporteros solo le preguntan a Yukino Bijin\nsobre su vida privada. Esta entrevista está muy\nlejos de ser una típica entrevista de carreras.",
+      "choice_data_list": [
+        "¿Alguien tiene una pregunta sobre carreras?"
+      ]
+    },
+    {
+      "name": "Reporteras",
+      "text": "..."
+    },
+    {
+      "name": "Reporter A",
+      "text": "¿Qué tal un mensaje para tus fans que te ven desde\ncasa? ¡Con ese acento tan lindo que tienes, por\nfavor!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Eh? Eeeh..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Voy a correr con todas mis fuerzas para ganar!\nAsí que cuento con su apoyo."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Q-qué tal estuvo? ¿Se notó mi acento?"
+    },
+    {
+      "name": "Reporter A",
+      "text": "¡Sí! Te juro que eres la campesinita más linda del\nmundo."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿¡Eh!?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todos los reporteros se ríen."
+    },
+    {
+      "name": "Racing Newspaper Reporter A",
+      "text": "No recuerdo haber visto reporteros de esos canales\nen una entrevista de carreras..."
+    },
+    {
+      "name": "Racing Newspaper Reporter B",
+      "text": "Están aquí por Yukino Bijin. Todos quieren\nescribir algo sobre ella últimamente. Hasta yo\nestoy aquí porque mi jefe me exigió fotos."
+    },
+    {
+      "name": "Racing Newspaper Reporter B",
+      "text": "Supongo que es toda una celebridad si tiene tanta\ndemanda...",
+      "choice_data_list": [
+        "(Tiene mucha demanda...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Montones de Umamusume antes de Yukino Bijin han\nalcanzado este mismo nivel de fama, pero lo que la\nhace tan popular tiene que ver con algo distinto."
+    },
+    {
+      "name": "Staff A",
+      "text": "¡Muy bien, eso es todo por hoy con Yukino Bijin!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "<i>Uff...</i> Me pone nerviosa."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Qué tal lo hice?",
+      "choice_data_list": [
+        "Lo hiciste genial.",
+        "Lo hiciste genial."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Qué alivio. Ahora podré—"
+    },
+    {
+      "name": "Staff A",
+      "text": "¡La siguiente Umamusume ya está lista para sus\npreguntas!"
+    },
+    {
+      "name": "Racing Newspaper Reporter C",
+      "text": "¡Por fin! Llevo todo el día esperando esto."
+    },
+    {
+      "name": "Racing Newspaper Reporter D",
+      "text": "¡Tengo que publicar este artículo ya!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El ambiente cambia de golpe cuando los equipos de\ntelevisión dejan paso a los reporteros de\ncarreras.",
+      "choice_data_list": [
+        "(La siguiente debe ser...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Shiiiing!</i>"
+    },
+    {
+      "name": "???",
+      "text": "..."
+    },
+    {
+      "name": "Racing Newspaper Reporter A",
+      "text": "Gracias por venir hoy, Harp Alpha.",
+      "color_text_info_list": [
+        "Harp Alpha"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Harp Alpha es una corredora de la que muchas\nesperan grandes cosas en el tour Triple Tiara."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es muy probable que sea la mayor rival de Yukino\nBijin en el Oka Sho. La hemos estado observando,\npero...",
+      "choice_data_list": [
+        "(Parece que no somos los únicos.)"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Podemos quedarnos, entrenadora?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Me siento inquieta... Creo que sería bueno\nescuchar.",
+      "choice_data_list": [
+        "Claro."
+      ]
+    },
+    {
+      "name": "Racing Newspaper Reporter B",
+      "text": "¿Cómo te sientes ante el próximo Oka Sho, Harp\nAlpha?"
+    },
+    {
+      "name": "Racing Newspaper Reporter C",
+      "text": "Escuché que expresaste preocupación por tus patas\ndespués de tu primera carrera. ¿Cómo te sientes\nahora?"
+    },
+    {
+      "name": "Racing Newspaper Reporter D",
+      "text": "Corristes muy agresivamente en tu última carrera.\n¿Estás segura de que estás lista para volver a\ncorrer tan pronto?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las preguntas llueven una tras otra. Es un cambio\nradical respecto a la entrevista de Yukino Bijin."
+    },
+    {
+      "name": "Harp Alpha",
+      "text": "Correré como sé correr. Eso es todo lo que puedo\ndecir."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Guau..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Qué chica más fría..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Es como si nada la afectara. Tan tranquila y\nsegura como un pepino en moto."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...?",
+      "choice_data_list": [
+        "¿Yukino?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ay! ¡No es nada!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Tiene sentido, ¿no? La Triple Tiara estará llena\nde corredoras increíbles como ella."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Lo que significa que debo darlo todo en esta\ncarrera! No te preocupes, ¡estoy lista!"
+    }
+  ]
+}

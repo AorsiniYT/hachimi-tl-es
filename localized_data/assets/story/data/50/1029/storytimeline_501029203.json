@@ -1,0 +1,300 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El día del Oaks Japonés..."
+    },
+    {
+      "name": "Bandwagon Fan A",
+      "text": "¡Va a empezar! ¡El especial matutino de Yukino\nBijin está por comenzar!"
+    },
+    {
+      "name": "Bandwagon Fan B",
+      "text": "¿Grabó un segmento antes, no? Ojalá nos muestren\nun vistazo detrás de cámaras de la vida diaria de\nnuestro ángel. ♪"
+    },
+    {
+      "name": "Presentadora de noticias",
+      "text": "¡Hoy estamos en el Hipódromo de Tokio!"
+    },
+    {
+      "name": "Presentadora de noticias",
+      "text": "¡Parece un festival aquí en las gradas! Y en un\nmomento verán por qué, así que no cambien de\ncanal."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡H-hola! ¡Soy Yukino Bijin!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "E-esta cámara me seguirá como lapa hoy, así que\n¡divirtámonos!"
+    },
+    {
+      "name": "Bandwagon Fans",
+      "text": "¡Oooh! ¡Es tan linda! ¡Realmente es un ángel!"
+    },
+    {
+      "name": "Presentadora de noticias",
+      "text": "Esta joven Umamusume de Morioka, Yukino Bijin —o\ncomo muchos la conocen, el Ángel de Nieve— es la\nsensación del momento."
+    },
+    {
+      "name": "Presentadora de noticias",
+      "text": "Y no solo por su linda cara. Tenemos un video\nespecial de su entrenamiento, así que veamos de\ncerca su increíble fuerza de voluntad."
+    },
+    {
+      "name": "Bandwagon Fan A",
+      "text": "¡E-espera! ¿Acaban de decir \"fuerza de voluntad\"?"
+    },
+    {
+      "name": "Bandwagon Fan B",
+      "text": "¿Eso se supone que describe a Yukino? No puede\nser..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ahora les mostraré mi rutina de carrera!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡HHHRAAAUUGH!"
+    },
+    {
+      "name": "Bandwagon Fans",
+      "text": "...?!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "<i>Haa... Haa...</i> Y para terminar, ¡levantaré 350\nkilos!"
+    },
+    {
+      "name": "Bandwagon Fans",
+      "text": "¿¡350?!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ngh... Gaaaaah!"
+    },
+    {
+      "name": "Bandwagon Fans",
+      "text": "..."
+    },
+    {
+      "name": "Bandwagon Fan A",
+      "text": "N-no tenía idea de que Yukino fuera así... Siempre\nparece tan etérea."
+    },
+    {
+      "name": "Bandwagon Fan B",
+      "text": "Sí. Es casi... demasiado."
+    },
+    {
+      "name": "Bandwagon Fan B",
+      "text": "Supongo que no es quien creíamos..."
+    },
+    {
+      "name": "Fans",
+      "text": "¡Yukinooo!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Uy!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "E-esto... ¡Gracias por animarme, todos!"
+    },
+    {
+      "name": "Fans",
+      "text": "¡SQUEEE! ¡Qué linda! ¡Mucha suerte!"
+    },
+    {
+      "name": "Staff",
+      "text": "¡Por favor, retrocedan y dejen espacio antes de\nque alguien salga lastimado!"
+    },
+    {
+      "name": "Racing Fan A",
+      "text": "Guau, esto está intenso. ¿Cuándo se volvió tan\npopular Yukino Bijin?"
+    },
+    {
+      "name": "Racing Fan A",
+      "text": "Este tour de la Triple Tiara se siente distinto a\nlo habitual."
+    },
+    {
+      "name": "Racing Fan B",
+      "text": "Solo espero que tanto alboroto no afecte a Harp\nAlpha...",
+      "choice_data_list": [
+        "(Harp Alpha...) Espero que tanto alboroto no le\nafecte el desempeño a Harp Alpha..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es otra corredora que muchos esperan que gane la\nTiara, y tiene montones de Fans incondicionales."
+    },
+    {
+      "name": "Racing Fan B",
+      "text": "Puede que sea callada, pero se siente su pasión.\n¡Apuesto a que hasta puede ganar el Arima Kinen!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
+    },
+    {
+      "name": "Racing Fan B",
+      "text": "¡Ojalá siga brillando, ganando y se convierta en\nuna estrella!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ay, otra vez no..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Qué envidia... Ojalá hablaran así de mí..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algo me parece raro en Yukino Bijin antes de la\ncarrera. Al principio pensé que era nervios,\npero...",
+      "choice_data_list": [
+        "(¿Está <i>temblando</i>?)"
+      ]
+    },
+    {
+      "name": "Trainer A",
+      "text": "Espera un momento, Harp Alpha. Déjame revisar tus\ntacos una última vez."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡<i>Haa!</i>"
+    },
+    {
+      "name": "Harp Alpha",
+      "text": "Ya los revisaste como un millón de veces hoy.\nEstán bien."
+    },
+    {
+      "name": "Trainer A",
+      "text": "Perdón, pero sabes lo débiles que son tus patas.\nTus tacos deben estar perfectos si quieres seguir\ncorriendo por años."
+    },
+    {
+      "name": "Harp Alpha",
+      "text": "...¿Por qué crees tanto en mí?"
+    },
+    {
+      "name": "Trainer A",
+      "text": "Porque sé de lo que eres capaz. Tus Fans también.\nSu apoyo demuestra lo espectacular que eres."
+    },
+    {
+      "name": "Trainer A",
+      "text": "Ahora, sal y gana. Conviértete en una estrella a\nla que todos admiren."
+    },
+    {
+      "name": "Harp Alpha",
+      "text": "...Claro. Al fin y al cabo, nadie brilla más que\nyo."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Pero si ella es una estrella, ¿entonces qué soy\nyo?",
+      "choice_data_list": [
+        "(Parece que Yukino encontró una rival.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los ojos de Yukino Bijin siguen a Harp Alpha\nmientras se aleja. Por su expresión, se nota que\nquiere superarla.",
+      "choice_data_list": [
+        "¿Quieres vencerla, verdad?",
+        "¿Quieres vencerla, verdad?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Huh?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oh..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡OHHH!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Eso debe ser! ¡Así es como me siento...!",
+      "choice_data_list": [
+        "¿No te habías dado cuenta?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "No, creo que no... Es como... Nunca me había\nsentido así antes."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Claro que sé que las carreras son de ganar y\nperder..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Pero ahora... Ahora es como si algo hirviera\ndentro de mí..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Quiero que me animen así, que me digan que tengo\nlo necesario <i>para ganar</i>. Supongo que eso significa\nque quiero vencerla, ¿no?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...Quiero ganar."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Quiero vencerla!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los ojos de Yukino Bijin arden como un fuego\nintenso."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Siento que algo cambiará si la venzo."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "No sé exactamente qué... y al final, quizá ella\ngane..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Pero aún así! Aunque lo haga...",
+      "choice_data_list": [
+        "Sé que tienes lo necesario. Además...",
+        "Sé que tienes lo necesario. Además..."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Sí?",
+      "choice_data_list": [
+        "Siempre te apoyaré para que ganes.",
+        "Siempre te apoyaré para que ganes."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...!",
+      "choice_data_list": [
+        "¡Así que sal y hazlo!",
+        "¡Así que sal y hazlo!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Right!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Prepárense, que traeré el oro!"
+    }
+  ]
+}
