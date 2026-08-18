@@ -1,0 +1,104 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Quiero comprar una tobillera deportiva para\n<chrname> y reducir la carga en sus patas, así que\nvoy a la tienda de artículos deportivos. Pero..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Guau, ¿así que esta es la tienda que acaba de\nabrir? ¡Vaya! Mira ese exhibidor... ¡Hay montones\nde opciones!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Sí, pero quizá es <i>demasiado</i>. ¡Ya no sé qué elegir!",
+      "choice_data_list": [
+        "(Vaya, sí que hay variedad...)"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "...Disculpa."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Perdón por molestarte, pero..."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Te vi un poco perdida. ¿Estás buscando una\ntobillera deportiva, quizá?",
+      "choice_data_list": [
+        "S-sí, exacto.",
+        "S-sí, exacto."
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "¿Qué necesita tu aprendiz? Veamos..."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Si buscas una que ayude con la flexión y\nextensión, te recomiendo las de la segunda fila.\nLas de la octava fila son ideales para reducir la\ncarga."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ah, pero si tu aprendiz tiene la piel sensible,\nlas tobilleras de la cuarta fila están hechas con\nmateriales transpirables.",
+      "choice_data_list": [
+        "¡Sabes un montón!",
+        "¡Sabes un montón!"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ja, exageras. No es gran cosa. Todo lo que sé lo\naprendí de segunda mano."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Lo aprendí de los médicos y enfermeras que me han\ncuidado desde hace tiempo."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "...Ay, perdón por desviarme. Ya me voy. Espero no\nhaberte molestado con mis consejos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque se menosprecia, los consejos de K.S.Miracle\nme resultan muy útiles y me siento más preparada\npara hacer las compras. Miro los estantes y decido\nelegir...",
+      "choice_data_list": [
+        "Una tobillera que ayude al movimiento.",
+        "Una tobillera que se vea cómoda."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Elijo una tobillera diseñada para el movimiento\nfuncional. Mientras hago fila para pagar, escucho\nuna voz conocida detrás de mí."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡No puede ser! ¿Estos calcetines son <i>tan</i>\nincreíbles?! ¡Hasta el diseño es top!"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Son muy adorables, como dices. Creo que te\nquedarían muy bien."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¿En serio? ¡Tengo que comprarlos! Eres la mejor,\nMiracle. ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Elijo una tobillera diseñada para la comodidad.\nMientras hago fila para pagar, escucho una voz\nconocida detrás de mí."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "...Oh."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Esto le quedaría genial a Ruby..."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "...Bueno, creo que me lo llevo."
+    }
+  ]
+}
