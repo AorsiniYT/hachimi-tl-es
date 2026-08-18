@@ -1,0 +1,237 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El auto de aspecto costoso se aleja en la\ndistancia. Al parecer, es un vehículo privado de\nla familia de Daiichi Ruby."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy frente a una tienda tradicional de dulces\njunto a una señora mayor y Daiichi Ruby. Ayudaba a\nla primera después de que se cayera cuando la\nsegunda pasó y nos ofreció llevarnos."
+    },
+    {
+      "name": "Candy Store Owner",
+      "text": "Muchas gracias, querida. Me has ayudado montones.\nPero con el estado en que estoy, no creo que pueda\nabrir la tienda hoy..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras la dueña suspira, Daiichi Ruby observa el\nvolante pegado en el escaparate. Dice \"¡Venta por\n50o Aniversario!\" y está fechado para hoy."
+    },
+    {
+      "name": "Candy Store Owner",
+      "text": "Tantas clientas planeaban venir hoy... Odio\ndecepcionarlas, pero no hay mucho que pueda\nhacer..."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ya hay montones de gente frente a la puerta. ¡Este\nlugar tiene hartas fans!"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Señora, si no es mucha molestia, ¿podría elegir\nalgunos de sus productos más vendidos? Y tú,\nAprendíz, disculpa que te pida esto, pero necesito\nque vayas al banco.",
+      "choice_data_list": [
+        "Ruby, ¿estás planeando lo que creo que planeas?"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Con tanta clientela llegando, debemos asegurarnos\nde tener cambio suficiente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Voy a cambiar billetes por monedas al banco como\nme pidieron, pero mientras pasa el tiempo, me\npongo más nerviosa. Daiichi Ruby y el dueño mayor\nson los únicos atendiendo la tienda ahora...",
+      "choice_data_list": [
+        "¿Ruby siquiera sabe manejar una tienda?!",
+        "¿Ruby siquiera sabe manejar una tienda?!"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "¿Ruby manejando una tienda? Eso sí que me gustaría\nver.",
+      "choice_data_list": [
+        "¿Señorita C.B.?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "De pronto, me encuentro con la señorita C.B., una\nde las estudiantes más desenvueltas de la Academia\nTracen, frente a mí. Le cuento lo que me preocupa."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Bueno, eso sí que me da curiosidad. ¡Quizá vaya a\nechar un vistazo!"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Mmm. Pensándolo mejor, quizá no sea tan\ninteresante. Esa chica puede con todo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque la señorita C.B. parece confiar en las\nhabilidades de Daiichi Ruby, no es suficiente para\ncalmar mis nervios, así que vuelvo corriendo a la\ndulcería.",
+      "choice_data_list": [
+        "¡Vaya! ¡Hay una fila hasta la calle!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Esas dos han estado lidiando con esto solas todo\neste tiempo?! Al entrar, veo a Daiichi Ruby\nreemplazando al dueño en la caja. Pero eso no es\ntodo..."
+    },
+    {
+      "name": "Energetic Old Man",
+      "text": "¡Pasen, pasen!",
+      "choice_data_list": [
+        "¿Y tú quién eres?!"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Es un cliente habitual. Encontré sus datos en la\nbase de clientes y vino enseguida cuando lo\ncontacté."
+    },
+    {
+      "name": "Trend-Chasing Girl",
+      "text": "O sea, ¿qué es lo mejor que tienen aquí?"
+    },
+    {
+      "name": "Energetic Old Man",
+      "text": "El mochi de frijol rojo es el favorito de los\nclientes desde hace años. Está relleno de pasta de\nfrijol y ese toque salado lo hace exquisito."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Él conoce muy bien la tienda y sus productos, así\nque lo puse a cargo de atender a los clientes. Yo\nme encargo de la caja y todo lo demás."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Hoy hay muchas clientas nuevas. Deberíamos\nponer los productos más baratos y fáciles de\nagarrar al frente para que sean más visibles. ¿Me\nayudas a reorganizar los estantes?",
+      "choice_data_list": [
+        "Wow, cualquiera pensaría que eres la dueña de\nverdad.",
+        "Wow, cualquiera pensaría que eres la dueña de\nverdad."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Exageras. Este nivel de conocimiento\nadministrativo es simplemente el estándar que se\nespera de cualquier miembro de mi casa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque Daiichi Ruby resta importancia a mis\nelogios, parece llena de energía mientras hace el\ninventario de las galletas de arroz."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Jeje. Al final vine de todos modos. ¡Oye, tú! ¡Un\nmochi de frijol rojo, por favor!"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...C.B."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "¿Ves, Aprendíz? Te lo dije.",
+      "choice_data_list": [
+        "¿Ustedes dos son cercanas?",
+        "¿Ustedes dos son cercanas?",
+        "Tenías razón. Ruby realmente salvó el día."
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "¿Ves, Aprendíz? Te lo dije.",
+      "choice_data_list": [
+        "¿Ustedes dos son cercanas?",
+        "¿Ustedes dos son cercanas?",
+        "Tenías razón. Ruby realmente salvó el día."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "No somos particularmente cercanas, no."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Uy, qué frío. Hemos coincidido varias veces, ¿no?\nSiempre asistiendo a los mismos eventos por\nnuestros padres."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Es cierto que tú siempre estabas más ocupada que\nyo, así que es verdad que tuvimos pocas\noportunidades de hablar."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "En fin, eres perfecta para esto de atender una\ntienda, ¿eh? Como lo eres para todo lo demás.\nAunque, si me preguntas, así no se disfruta la\nvida."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Gracias por esperar. Aquí tienes tu mochi de\nfrijol rojo."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Jaja. Qué honor recibirlo directamente de ti.\nTendré que escribir a casa sobre esto. En fin,\n¡gracias! ¡Nos vemos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que la señorita C.B. se va, Daiichi\nRuby regresa a sus tareas y las termina todas con\nprecisión impecable."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Muchas de estas galletas de arroz están rotas, así\nque las retiré de los estantes. ¿Podrías llevarlas\nal almacén?",
+      "choice_data_list": [
+        "Entendido."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras llevo las galletas defectuosas al\nalmacén, veo por casualidad el mostrador que\nDaiichi Ruby debe haber organizado antes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo ha sido seleccionado con cuidado y alineado\nen los estantes en filas ordenadas. A simple\nvista, es perfecto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Elogio a Daiichi Ruby por su amabilidad al ayudar\nal dueño de la dulcería, quien parece encantado\ncon la ayuda."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "No lo hice para recibir elogios, sino porque era\nlo correcto."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Ah, eso me recuerda a ese evento al que fuimos de\nniñas, donde una chica derramó jugo en su falda."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Hasta la ayudaste a cambiarse, pero cuando intentó\nagradecerte, solo dijiste: \"Solo hice lo que era\ncorrecto como miembro de mi casa\"."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Siempre soy consciente de mis acciones para no\ndeshonrar a mi familia."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Jeje. Sí, sabía que dirías eso. Aunque,\npersonalmente, creo que hay algo más detrás."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Bueno, ya me voy. ¡Gracias por el mochi!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que la señorita C.B. se va, Daiichi\nRuby regresa a sus tareas y las termina todas con\nprecisión impecable."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Muchas de estas galletas de arroz están rotas, así\nque las retiré de los estantes. ¿Podrías llevarlas\nal almacén?",
+      "choice_data_list": [
+        "Entendido."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras llevo las galletas defectuosas al\nalmacén, veo por casualidad el mostrador que\nDaiichi Ruby debe haber organizado antes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo ha sido seleccionado con cuidado y alineado\nen los estantes en filas ordenadas. A simple\nvista, es perfecto."
+    }
+  ]
+}
