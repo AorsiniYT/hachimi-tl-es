@@ -1,0 +1,316 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De regreso a casa después de comprar, me giro al\nescuchar una voz que parece resonar en el cielo."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Me está llamando... ¡El manantial termal me llama!\n¡Me da la bienvenida!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Tú también lo escuchas, verdad, Aprendíz?!",
+      "choice_data_list": [
+        "¡¿Eh, qué?! ¡E-esto, sí!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me sale responderle a su pregunta sin sentido,\npero no tengo idea de qué habla."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "viaje a aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe, el segundo un\nfardo de zanahorias y el tercero una sola\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue un\nboleto ahora y gira para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ah, ya veo. Parece que quiere participar en el\nsorteo. Por suerte, acabo de conseguir un boleto\nde mis compras, así que...",
+      "choice_data_list": [
+        "Solo tengo un boleto, pero puedes quedártelo."
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Ja! ¡Sabía que podía contar contigo! ¡Eres la\nmejor! ¡Bueno, allá voy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seeking the Pearl se acerca a la máquina de\nsorteos con expresión seria, como si se preparara\npara la mayor prueba de su suerte."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Nuestro futuro lleno de sueños grandes y\napasionados depende de esto! ¡Vamos, viaje a aguas\ntermales!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seeking the Pearl hace girar la máquina de sorteos\ncon entusiasmo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del gran premio!\n¡Venga a recoger el cupón para sus vacaciones en\naguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Ohohohoho! Yo, Seeking the Pearl, he revelado\notro destello de las grandes posibilidades que me\nesperan."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Las cosas se pondrán movidas! Después de todo,\nhay que revisar la calidad del agua termal y\nexplorar menús de cena espectaculares.",
+      "choice_data_list": [
+        "¿Hasta lo de la comida quieres saber?"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Claro! Conocer más sobre los ingredientes le dará\nun sabor aún más profundo a la comida, ¿no crees?"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Ahora que estamos en la misma página, ¡es hora de\nempezar nuestros preparativos!",
+      "choice_data_list": [
+        "¿Eh? Espera, ¿qué quieres decir con \"nuestros\"\npreparativos?"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¿Hm? ¿Qué pasa? Tú también irás a las aguas\ntermales, ¿no?",
+      "choice_data_list": [
+        "¿Yo?!"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Ja. ¡Claro que sí!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Cuando llegue el momento de mostrarle al mundo más\nde mi potencial, ¡me prepararé puliéndome en las\naguas termales!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Y tú tendrás que hacer lo mismo, porque estarás a\nmi lado en las buenas y en las malas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así, de repente, ya soy parte de su viaje a las\naguas termales. O quizá incluirme era su plan\ndesde el principio.",
+      "choice_data_list": [
+        "Bien. Haré los preparativos necesarios."
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Perfecto! Prepárate para que podamos brillar\nfabulosamente juntas."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Ohohohoho! ¡Solo espera! Pronto, yo, Seeking the\nPearl, haré que todo el mundo brille."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seeking the Pearl levanta con orgullo el boleto de\nlas aguas termales hacia el cielo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tendremos que seguir esforzándonos para hacer\nrealidad su sueño vacacional."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Hm. Ya veo...",
+      "choice_data_list": [
+        "¿Ver qué, exactamente?"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Que nos engañaron."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Tengo un paladar excelente, y claramente querían\nque probara este delicioso filete de hamburguesa."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Aunque fue una forma bastante indirecta de\nlograrlo... Es realmente adorable."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡En el momento en que declare que este filete de\nhamburguesa está exquisito, se volverá famoso y\nbuscado en todo el mundo!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Muy bien! ¡Lo probaré sin más demora!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Es hora de cocinar, Aprendíz! ¡Tanto la carne\ncomo la zanahoria tienen una calidad que está a mi\naltura! ¡No arruines esta comida!",
+      "choice_data_list": [
+        "Espera, ¿<i>yo</i> tengo que cocinarlo?!",
+        "Espera, ¿<i>yo</i> tengo que cocinarlo?!"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¿Oh? ¿Te ha sorprendido mi repentina invitación a\ncenar? ¡No hay por qué ser tímida!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pedimos prestada la cocina de la academia, y\nSeeking the Pearl ríe a carcajadas mientras\ndisfrutamos del lujoso filete de hamburguesa con\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Ja! ¡Es como si mi futuro se hubiera revelado!",
+      "choice_data_list": [
+        "¿Qué quieres decir con eso?"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Mira este manojo de zanahorias... ¡Puedo escuchar\nsus vítores por mí cada vez más fuertes!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Así es! ¡Estas zanahorias no son otras que mis\nfans adoradores, mirándome con ojos brillantes!",
+      "choice_data_list": [
+        "¡V-veo! ¿O no?"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Wow, qué bien se siente! ¡Bien, Aprendíz!\n¡Invitemos a todos mis fans a nuestro humilde\nhogar!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Ohohohoho! ¡Esta noche nos espera un banquete!\n¡Los convertiré en los platillos más finos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que quiere llevar las zanahorias a Tracen... y\n<i>cocinarlas</i>, ¡aunque supuestamente sean sus fans!\nLa situación es demasiado extraña como para decir\nalgo."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "La, la, laaa... ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aun así, ver a Seeking the Pearl tararear feliz\nasí es más valioso para mí que cualquier premio\ndel sorteo."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Vaya, qué zanahoria más audaz. ¿Tanto quería estar\na mi lado?",
+      "choice_data_list": [
+        "Quizá sí."
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡Entonces me aseguraré de que no se arrepienta de\nelegirme!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¿Y qué mejor manera de hacerlo que con una salsa\nglacé? ¡Es hora de convertirla en lo más dulce del\nmundo!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡La compartiré contigo, Aprendíz! ¡Ven conmigo!\n¡Ohohohoho!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seeking the Pearl sale corriendo con la zanahoria\nen la mano, y yo la sigo desesperadamente."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un boleto\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¿Un paquete de pañuelos?",
+      "choice_data_list": [
+        "Uh..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Supongo que está molesta, así que pienso en algo\npara consolarla, pero..."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "¡¿Qué es esto?! ¡Está hecho en Estados Unidos! ¡Ya\nentiendo! ¡Estos pañuelos estaban destinados a\nllegar a mí!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Ja. ¡Me aseguraré de que lleguen sanos y salvos a\ncasa conmigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seeking the Pearl guarda feliz los pañuelos en su\nbolsillo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque... los pañuelos no estaban hechos en\nEstados Unidos. Solo tienen personajes\nestadounidenses populares en el empaque... Pero\ndecido no decírselo."
+    }
+  ]
+}
