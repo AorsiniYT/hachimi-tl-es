@@ -20,6 +20,7 @@
     "plural_form": "n == 1 ? 0 : 1",
     "auto_adjust_story_clip_length": false,
     "text_common_allow_overflow": false,
+    "text_common_best_fit": true,
     "now_loading_comic_title_ellipsis": false,
     "remove_ruby": true
 }
