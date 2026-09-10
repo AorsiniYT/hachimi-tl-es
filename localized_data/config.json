@@ -18,7 +18,11 @@
         "hyphen_penalty": 0
     },
     "plural_form": "n == 1 ? 0 : 1",
-    "auto_adjust_story_clip_length": false,
+    "auto_adjust_story_clip_length": true,
+    "story_line_count_offset": 1,
+    "text_frame_line_spacing_multiplier": 1.0,
+    "text_frame_font_size_multiplier": 0.96,
+    "choice_btn_line_spacing_multiplier": 0.72,
     "text_common_allow_overflow": false,
     "text_common_best_fit": true,
     "now_loading_comic_title_ellipsis": false,
