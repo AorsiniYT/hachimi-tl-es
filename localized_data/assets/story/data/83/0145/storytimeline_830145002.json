@@ -1,0 +1,218 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Termina el trabajo tarde en la noche. Pensando que\nmejor me muevo rápido, cruzo el campus caminando\ndeprisa cuando me encuentro con Tanino Gimlet."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Ah. Nos volvemos a ver.",
+      "choice_data_list": [
+        "¿Vas hacia casa también?",
+        "¿Vas hacia casa también?"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Así es. El Éter posee tinieblas, pero así también\nel Tártaro. No debo permitir que su corrupción me\ndomine."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella monologa mientras caminamos, y apenas capto\nla mitad de lo que dice. Pronto nos topamos con\nalguien más."
+    },
+    {
+      "name": "Vodka",
+      "text": "Maldición... ¡No se abren!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Mmm, toda esta culpa es tuya. ¡Si no te hubieras\nhecho la remolona, no estaríamos aquí atrapadas!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿¡Perdón?! ¡Yo no fui quien se puso cómoda\nguardando sus cosas!"
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Reconozco esas voces."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "...Vodka. Oh, esteta inquebrantable. ¿En qué\nenredada situación has caído?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? Espera, ¿eres tú, Gim?! ¡Las puertas del\ngimnasio no abren!",
+      "choice_data_list": [
+        "¿¡Qué!?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Debe ser porque es tan tarde. ¿Quizás deberíamos\npedir ayuda?"
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "...No."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "La puerta es resistente, eso es cierto. Lo cual la\nhace aún más impresionante... destrozarla.",
+      "choice_data_list": [
+        "¿Qué?!"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Esta es la oportunidad perfecta para demostrar mi\nfuerza.... Jajaja. No tengo razón para dudar. Pues\nyo soy—",
+      "choice_data_list": [
+        "Espera."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Jeje. Siempre eligiendo el camino de la violencia.\nEl miedo es un concepto extraño para ti, parece."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "¿Y qué? ¿Vienes aquí a arruinar la diversión?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No, todo lo contrario. De hecho, acabo de\ndesarrollar un químico capaz de endurecer resina\nen tiempo récord."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Estaba pensando cómo probarlo, y mira quién\naparece—audaz, desafiante y creyéndote libre de\ncometer tus crímenes."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Libre de cometer mis crímenes, ¿eh?"
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Hablas como si fuera ese tal criminal\nautodestructivo del norte. Lamento decepcionarte,\npero no soy tan imprudente."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hmm, ¿así es? Y yo que solo pensaba darte el arma\nque te ayudaría en tu búsqueda de destrucción."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bueno, es una lástima. Creía que no tendrías\nreparos en usar métodos más... <i>extremos</i>."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "¡Espera! Un momento, por favor, Porfiry."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "¿Me ayudarías entonces? ¿Erudita sabiosa como tú?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sí. Tengo curiosidad por ver qué pasaría si\ncombinamos mi agudeza con tu fuerza bruta."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "El que busca y el que actúa. Pensar que\npolaridades tan opuestas trabajarían juntas para\ncometer un crimen. Jeje..."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "¡Ji jiji jiji! ¿Así que nos desviaremos del guion,\nalterándolo a nuestro antojo?! ¡Qué tabú! Pero\nesto debe ser el destino."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "¡Magnífico, magnífico! ¡Ven, entonces!\n¡Manchémonos en el pecado juntas, sabiendo que\ncosecharemos la fruto podrido que hemos sembrado!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Tu determinación es impresionante. ¡Muy bien!\n¡Adelante, por el progreso!"
+    },
+    {
+      "name": "Vodka",
+      "text": "No entendí casi nada, pero por los sonidos,\n¡parece que tienen un plan!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sí, ¡estoy segura de que nos sacarán de aquí en un\nmomento!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka y Daiwa Scarlet suenan optimistas, pero me\ntemo que no puedo decir lo mismo. Estoy casi\nsegura de que nos espera una catástrofe\nmonumental."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Bien! ¡La resina ya se ha endurecido! ¡Tus puños\nahora están encerrados en lo que bien podría ser\nuna armadura de acero!"
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "¡Ji ja ja ja! Es como si tuviera la piel del\npropio matadragones invulnerable."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "¡Me siento sin cadenas, sin cargas! Mi pasión\nestaba destinada para este momento, ¡y solo para\neste momento!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Crac!</i>"
+    },
+    {
+      "name": "Tachyon y Gimlet",
+      "text": "¡Ji ji ji! <i>¡Ji jiji jiji!</i> ¡Aja ajaja!"
+    },
+    {
+      "name": "???",
+      "text": "¿...Qué es todo este ruido?"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "¡L-la puerta! ¡Está completamente arrugada!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Corrí hasta aquí después de que me dijeron que las\npuertas del gimnasio se habían cerrado\naccidentalmente... y ¿qué encuentro sino a\nustedes?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ups. Parece que ha entrado en escena la verdadera\nautoridad."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Parece que nos han pillado con las manos manchadas\nde rojo... digo, escarlata. No importa. Al menos\nmi deseo de ver cómo se desarrolla la historia se\nha cumplido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, Tanino Gimlet y Agnes Tachyon\nestán encargadas de reparar la puerta como\ncastigo... pero ambas están tan alegres como\nsiempre y completamente sin remordimiento."
+    },
+    {
+      "name": "???",
+      "text": "Está bien, ya basta, Tanino Gimlet."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "...?!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Corrí hasta aquí después de que me dijeron que las\npuertas del gimnasio se habían cerrado\naccidentalmente... y ¿qué encuentro sino a\nustedes?"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Espera un segundo... ¿Ustedes dos estaban\nintentando derribar la puerta?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Maldita sea, qué mala suerte. Pensar que te\nhabrían pillado en el último minuto..."
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "¡Ay! ¡Parece que estábamos condenadas a obedecer\nel guion desde el principio!"
+    }
+  ]
+}
