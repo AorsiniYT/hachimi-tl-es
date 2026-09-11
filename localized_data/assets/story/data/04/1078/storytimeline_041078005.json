@@ -1,0 +1,174 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un aroma fresco y verde llega con la brisa. Doy la\nvuelta distraídamente y veo a Zephyr llegar\nflotando con el aire de principios del verano."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¿Oh? ¿A ti también te llamó la brisa seca? Es un\ncambio refrescante respecto a tanta humedad.",
+      "choice_data_list": [
+        "Sí, supongo. ¿Tú qué tal? ¿Algunos planes?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "No, me temo que no... el viento no hace promesas.\nNo sé dónde disfrutar mejor esta brisa, así que\nsigo buscando."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ahh, ahí se va de nuevo. Discúlpame, Entrenador,\npero debo irme."
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"El viento no hace promesas\"... O sea, básicamente\nno tiene ningún plan, ¿no? Debe estar vagando por\nel campus en otro de sus paseos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero poco después..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Zephyyyr! ¿Zephyr, me escuchaaas?... Oooh, ¿dónde\npuede estar?",
+      "choice_data_list": [
+        "Zephyr <i>estuvo</i> aquí hace un momento."
+      ]
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿¡En serio?! Ah, espera... Eres su entrenador,\n¿verdad?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿Te importaría ayudarme a encontrarla? Estoy\nconfirmando asistencia para una reunión de clase,\npero no he podido ubicar a Zephyr."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por la dirección en la que se fue Zephyr, le\nsugiero que quizá haya ido a la cafetería."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¿Zephyr? Sí, estuvo aquí hace un rato. Pero luego\nse fue a \"sentir el aire de la tarde\" o algo así.",
+      "choice_data_list": [
+        "El aire nocturno, eh? Eso significa que..."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Whew... Qué brisa vespertina tan agradable."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Esta azotea es el mejor lugar del campus para\ndisfrutar del viento. En esta época es\nespecialmente agradable al atardecer—tan fresco y\nrefrescante."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si está disfrutando del aire de la tarde, ¡apuesto\na que está en el lugar que me mostró hace tiempo!"
+    },
+    {
+      "name": "Umamusume C",
+      "text": "Ah, sí, Zephyr está justo ahí—"
+    },
+    {
+      "name": "Umamusume C",
+      "text": "¡Oigan, ¿a dónde se fue?! ¡Les juro que estaba\naquí hace un segundo!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Aaaagh, vaaaamos! ¿Cómo se nos sigue escapando?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yamanin Zephyr deambula por el campus, escurridiza\ncomo el viento entre los dedos. Peeero, ya que\nestamos en las alturas, bien podría aprovechar\npara buscar—",
+      "choice_data_list": [
+        "¡Zephyr! ¡Allá está!"
+      ]
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Por fin te encontramos! ¡Te hemos buscado por\ntodas partes, Zephyr!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vaya, parece que un vendaval de verano las\narrastró por todos lados. ¿Qué necesitaban de mí?"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Bueno, lamento mucho haberlas molestado a ambas.\nPensé que ya les había dejado claro que el viento\nno hace promesas..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "No puedo decir a dónde me llevará, así que no\nquería armar tormentas en cielos despejados, ¿ven?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Que Zephyr sea enigmática no es nada nuevo, pero\npoco a poco me doy cuenta de que dijo eso de \"el\nviento no hace promesas\" cuando le pregunté por\nsus planes..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Así que no hablaba del viento literalmente!\nQuería decir que <i>ella misma</i>no podía prometer nada\nsobre su agenda.",
+      "choice_data_list": [
+        "Entonces no estás segura de poder ir a la fiesta\nde la clase?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Exactamente. No puedo saber hacia dónde soplará el\nviento."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿Hacia dónde... soplará el viento? ¡Ah! ¿O sea que\ntu agenda todavía no está cerrada?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Tiene sentido, también debes pensar en tu\nentrenamiento. ¡No hay problema! Gracias por\navisarme, ¡y gracias a ti también, Entrenador, por\nla ayuda!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Fiuuu...!</i>",
+      "choice_data_list": [
+        "¿Segura de saltarte la fiesta? Puedo ajustar\nnuestros entrenamientos para acomodarlo."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...No pasa nada. No me gusta mucho la idea de ser\nun lastre, por así decirlo."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Sola o\njuntas."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "El viento cambia sin cesar, nunca es igual a como\nlo sentiste la última vez. Quiero dejar cierto\nmargen, igual que una veleta gira al capricho del\nviento."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Dicho de forma más sencilla, quiero hacer lo\nque se sienta natural en el momento. No puedo\nsaber qué traerá el mañana—si ráfagas gélidas o\ncalmas soleadas.",
+      "choice_data_list": [
+        "Así que no querías comprometerte con un plan\nfuturo."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Exactamente. Es solo que... quiero pasar el tiempo\na mi manera."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Como el viento... libre de cambiar de rumbo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Evita las promesas para vivir libre como el\nviento... Es una filosofía peculiar, pero le queda\nmuy bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque... me pregunto qué quiere decir exactamente\ncon \"libre\" y \"natural\". Como su entrenador,\nsiento que debería saberlo..."
+    }
+  ]
+}

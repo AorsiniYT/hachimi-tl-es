@@ -1,0 +1,236 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Por fin llegan de nuevo las pruebas de selección.\nSerá la última oportunidad de reclutamiento del\naño, así que las corredoras están muy motivadas.",
+      "choice_data_list": [
+        "¿Cómo te sientes, Zephyr?",
+        "¿Cómo te sientes, Zephyr?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Bien, sin problemas. Tengo las piernas calentadas\ny se mueven muy bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es la primera vez que corre en las pruebas de\nselección, así que me preocupaba un poco que se\npusiera nerviosa, pero parece relajada y\nconcentrada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para aliviar la carga en sus piernas, le pedí\ncorrer en tierra solo esta vez, pero no parece\nmolesta. Su fortaleza mental supera toda\nexpectativa."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jeje... Ya no tienes que preocuparte, ¿de acuerdo?\nPrometo ganar esta. Y entonces, estaré lista para\naceptar tu oferta."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Sin embargo... me temo que tendré que rechazar."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Tu oferta de reclutamiento me halaga de verdad,\npero el viento baila demasiado alto y lejos. Aún\nno creo haber alcanzado un nivel digno de ti."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "En cambio, permíteme correr primero en la próxima\nprueba de selección. Esta vez, <i>sí</i> correré, y\nganaré."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Si aún deseas levantar el viento conmigo entonces,\ncon gusto me convertiré en tu aprendiz."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Tal como dije, haré todo lo posible por mostrar\nuna habilidad que valga la pena entrenar, así que\nespera con ansias mi carrera.",
+      "choice_data_list": [
+        "(Esperen... Algo no está bien...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigue siendo la misma de siempre, relajada y\nsonriente, pero... hoy algo se siente distinto en\nella. La observo, tratando de descubrir qué es."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¿Qué pasa, Entrenador? ¿Dije algo extraño?"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Que me mires así, bueno... me da algo de\nvergüenza. Jeje.",
+      "choice_data_list": [
+        "(¡Ya sé!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No ha mencionado el viento ni una sola vez en toda\nla conversación. Me acostumbré tanto que es algo\nraro <i>no</i> oír sus metáforas.",
+      "choice_data_list": [
+        "¡Zephyr!"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¡Ah! Cielos, me sorprendiste. ¿Qué te tiene tan\nalterado?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...¿Todavía sin analogías con el viento? Quizás <i>sí</i>\nestá nerviosa y solo se lo está guardando.",
+      "choice_data_list": [
+        "¿Segura de que no hay nada que te preocupe?",
+        "¿Segura de que no hay nada que te preocupe?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¿Eh? C-claro que no hay nada. De verdad que\nestoy... completamente bien, así que..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo sabía. Ella no es de dejarse llevar por las\nemociones, pero hasta a ella le dan nervios."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Puedo con esto. Sé que puedo. Después de todo,\nhice todo ese estupendo entrenamiento bajo tu\nguía..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo dice con insistencia casi desesperada, como si\nintentara convencerse a sí misma. Me rompo la\ncabeza pensando cuál podría ser el problema\nexacto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque no tuvimos mucho tiempo para practicar,\ndebería estar en muy buena forma. Es su primera\nvez, pero puede con esto—aunque sea pista de\ntierra."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque algo me dice que nada de eso es lo que la\ncarcome. Necesito tranquilizarla respecto a algo\nmás profundo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La he estado cuidando desde hace tiempo. Quizás,\nlo mejor que puedo decirle como entrenador es...",
+      "choice_data_list": [
+        "Solo sé libre, Zephyr."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Huh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con lo concentrada que está ahora mismo, no podrá\ncorrer libre como el viento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si quiere estar a la altura de su sueño, debe\npermitirse ser libre y flexible—sin encerrarse en\nmetas ni tratos concretos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El viento no toma una sola forma ni figura. No\nsigue un único camino hacia su meta."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¿Crees que estoy... lastrando... al viento?",
+      "choice_data_list": [
+        "El viento corre cuando quiere, ¿no?",
+        "El viento corre cuando quiere, ¿no?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Oh!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Sí... Sí, lo hace. Tienes toda la razón. Suave o\nferoz, directa o impredecible—todo es viento."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Estuvo mal de mi parte ponerle ultimátums a mi\ncéfiro. Debí darme cuenta antes..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Gracias por abrirme los ojos, Entrenador. Por fin\nveo claro. El viento de ayer sopló ayer. Hoy solo\ndebo pensar en el aquí y ahora."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jeje... Aquí y ahora, mi corazón es la calma antes\nde la tormenta, un viento del este que se alza...\nMe empiezo a emocionar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y con esto, Yamanin Zephyr sale a la pista para\nsu primera prueba!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Toman la tercera curva y pasan la marca de los\n600 metros! Yamanin Zephyr sigue rezagada al fondo\ndel pelotón. ¿Podrá recuperar la diferencia?"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "(El viento ha sido una brisa suave...)"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y toman la cuarta curva rumbo a la recta final!\n¡Yamanin Zephyr aún no hace ningún movimiento!\n¿Podrá alcanzarlas a tiempo?!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "(El ojo de la tormenta ha pasado... ¡y ahora los\nvientos se desatan!)"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡La punta del grupo pelea por el liderato! ¿Quién\nlogrará escapar?! ¡Oh, pero esperen! ¡Hay otra\ncorredora avanzando por el exterior!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "(¡Ahora—mi alma, una tempestad!)"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Es Yamanin Zephyr! ¡Avanza desde afuera, ya es\ntercera—ahora segunda! ¡Va por la punta de un solo\ngolpe!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y lo logra! ¡Qué velocidad tan increíble! Yamanin\nZephyr duplica su ventaja de un cuerpo y... ¡cruza\nla meta!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¡Entrenador! ¿Viste eso? ¡La forma en que corrí!",
+      "choice_data_list": [
+        "¡Te lanzaste hacia adelante con la fuerza de un\nvendaval!",
+        "¡Te lanzaste hacia adelante con la fuerza de un\nvendaval!"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Je... Gracias. Aunque aún me queda mucho por\nrecorrer. El viento apenas comienza a soplar—una\npequeña brisa."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Para convertir esta pequeña corriente en un gran\nvendaval... te necesito a ti.",
+      "choice_data_list": [
+        "Zephyr, permíteme ser tu viento favorable.",
+        "Zephyr, permíteme ser tu viento favorable."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "De verdad no eres como los demás entrenadores."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Aunque... el viento a favor lleva vida nueva a\ntravés de las llanuras. Cuando pienso en lo que me\nimpulsa, la respuesta solo puede ser tú."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Permíteme hacerte la propuesta: por favor...\n¿aceptarías ser mi entrenador oficial?",
+      "choice_data_list": [
+        "¡Claro que sí! ¡Me encantaría!"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¡Qué maravilla! Entonces quedaré bajo tu cuidado.\nPor favor, acompáñame mientras sigo el camino del\nviento."
+    }
+  ]
+}

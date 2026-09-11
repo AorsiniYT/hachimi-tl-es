@@ -1,0 +1,213 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vaya, qué frondoso está todo aquí... Jeje. Tengo\nganas de sentir la brisa soleada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En un día libre, traigo a Yamanin Zephyr al\nzoológico con la esperanza de cumplir una petición\npeculiar."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "<i>Siiigh... Sigh...</i> Es como si una tormenta de\npétalos nublara mi camino.",
+      "choice_data_list": [
+        "¿Algo te preocupa?",
+        "¿Algo te preocupa?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ah, Entrenador. Hola. Es que... me muero por\nsentir una buena brisa bajo el cielo abierto, como\nen plena naturaleza."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Solo que... aquí en la ciudad, el viento solo\naúlla seco entre los edificios.",
+      "choice_data_list": [
+        "Necesitas escapar un poco de la ciudad, ¿eh? ¡Creo\nque sé el lugar perfecto!"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Está muy animado, como el viento costero agitando\nlas olas. Miren a todos, temblando de emoción como\nsi los impulsara la primera ráfaga de primavera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le encantan los animales, así que pensé que el\nzoológico le interesaría. Ya se la ve curiosa con\ntantas criaturas peculiares; seguro la pasará\ngenial.",
+      "choice_data_list": [
+        "Para empezar, ¿te gustaría... ir..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "...",
+      "choice_data_list": [
+        "Espera, qué?!"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jeje, la corriente de primavera lleva hasta esta\nesquina, ¿eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me doy vuelta, medio en pánico, y la veo en una\nesquina del área de descanso.",
+      "choice_data_list": [
+        "No quieres ver a los animales?",
+        "No quieres ver a los animales?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¿Hm? Claro que los estoy mirando. ¿Ves? Mira al\npequeño Plip-Plop de aquí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo su mirada hasta un rincón de sombra húmeda,\ndonde duerme una ranita."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Y si miras hacia allá, está toda la familia\nRayitas. Están de pícnic junto a los árboles."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Zephyr observa a las ardillas listadas corretear\nentre los árboles con bellotas, con una suave\nsonrisa en el rostro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Supongo que no se ven ranas y ardillas listadas\ntodos los días en la ciudad, pero tampoco son tan\nextrañas."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jeje. Mira cómo vagan con el viento, como\naventureros jugando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al ver su sonrisa, me doy cuenta de que estas\npequeñas criaturas salvajes son lo que Zephyr\nextrañaba.<i>Esto</i> es la naturaleza."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo la sensación de que... si sigo su ejemplo\naquí, entenderé mejor quién es y qué es lo que más\naprecia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pío, pío. Pío, pío."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vaya, vaya, si no son los Mejillitas. ¿Están\njugando a perseguirse, pajaritos?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un par de gorriones de mejillas moteadas pasan\nzumbando y Zephyr se deja llevar tras ellos. Los\nseguimos hasta un sendero tranquilo a la orilla\ndel zoológico."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay algo mágico en el paisaje—algo especial en\nesos gorriones y estorninos comunes que revolotean\nalrededor de Zephyr."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Lu la laaa, la laaa lun... ♪"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jeje, hola a ti también, Naranjita. ¿Te gustaría\nbailar en el viento con nosotros?",
+      "choice_data_list": [
+        "Por Orangey te refieres al estornino?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Sí. Un buen nombre es como una brisa floral—solo\nrecoge los aromas más dulces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La verdad es que el estornino tiene el pico y las\npatas bien anaranjados. Ya veo de dónde le vino el\napodo.",
+      "choice_data_list": [
+        "Hmm... Si tuviera que elegir un nombre, creo que\nlo llamaría Señor Elegante.",
+        "Hmm... Si tuviera que elegir un nombre, creo que\nlo llamaría Señor Elegante."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quiero intentar experimentar la naturaleza como\nella lo hace, así que se me ocurre un apodo para\nel pájaro."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Don Elegante... Don Elegante, ¿eh? Jeje..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¡Qué amable de tu parte! El nombre definitivamente\ndice mucho de tu personalidad. Dulce, como una\nbrisa suave de primavera."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Me gusta cómo canta. Es como escuchar el viento\nque sopla hacia casa, llamándome de vuelta a un\nlugar cálido que siempre he conocido."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Es una sorpresa tan agradable encontrar en la\nciudad un viento que me recuerda a la naturaleza\ncon la que crecí."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...",
+      "choice_data_list": [
+        "¿Zephyr?",
+        "¿Zephyr?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Oh. Yo... casi me dejo llevar por el viento un\nmomento."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Habría jurado... que escuché el flujo del propio\nviento en la canción. Una melodía serpenteante,\nelevándose libre e incansable a través del bosque."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Pero ¿cómo podría ser posible?"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Siempre pensé que la canción del viento solo podía\noírse cuando el corazón está en calma—escuchando\ncon tanta quietud y cuidado."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Y sin embargo... escucha."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "La hermosa música está aquí jugando con nosotros,\nclara como los vientos del este cruzando un cielo\nsin nubes."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "No hay nada que lo obstruya, así que el viento\npuede ir hacia donde le plazca. Nunca pensé que\ntendría tanta suerte de sentirlo así."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...El viento hace cosas extrañas cuando estás\ncerca. O al menos, así se siente a veces."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Muchísimas gracias por el día de hoy. Soplaste las\nnubes de lluvia y despejaste mi corazón.",
+      "choice_data_list": [
+        "Yo también me divertí mucho. Vamos a salir juntos\notro día!",
+        "Yo también me divertí mucho. Vamos a salir juntos\notro día!"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Oh... \"Otra vez\"... Si alguna vez se presenta la\noportunidad, cuando nuestros vientos vuelvan a\nsoplar en la misma dirección..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rodea mi pregunta, dando de nuevo una respuesta\nvaga y evasiva, pero... esta vez tiene sentido. Se\nsiente tan natural."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los vientos no hacen promesas, pero sería lindo\nque volvieran a cruzarse en algún lugar... Y\ncuando eso pase, creo que estaré aún más cerca de\nsu mundo que ahora."
+    }
+  ]
+}
