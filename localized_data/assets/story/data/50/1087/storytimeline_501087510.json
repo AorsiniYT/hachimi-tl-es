@@ -1,0 +1,190 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Umamusume A",
+      "text": "¡Oye! ¿Has oído esa leyenda urbana de la que todos\nhablan?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Sí! La de la chica misteriosa que te sigue desde\ndentro de tu televisor, ¿verdad?!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Una vez que haces contacto visual con ella, sigue\nmirándote incluso si cambias de canal... Al menos,\neso es lo que he oído.",
+      "choice_data_list": [
+        "(...De qué estarán hablando?)",
+        "(...De qué estarán hablando?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Confundido por la conversación que escuché en el\npasillo, enciendo la tele para ver el clima."
+    },
+    {
+      "name": "Periodista meteorológico",
+      "text": "¡Parece que estará soleado durante hoy y mañana en\nel centro de Tokio! Será un clima perfecto para\ntender la ropa.",
+      "choice_data_list": [
+        "(Espera, ¿es ese Machan?)"
+      ]
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Este ramen de mariscos es increíble! No es de\nextrañar que la fila para la tienda se extienda\ntanto.",
+      "choice_data_list": [
+        "(¿Está ella allí también?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un par de ojos grandes y redondos me está mirando\ndesde el borde de la pantalla. Creo que podría\nsaber de quién trata esa historia espantosa."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "¿Han creado una leyenda urbana sobre mí?"
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Tengo que hacer algo al respecto. Soy una mascota\nadorable. No quiero que la gente piense que soy\nalgún tipo de fenómeno espantoso.",
+      "choice_data_list": [
+        "¿Por qué apareces en la tele en primer lugar?"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "La respuesta es simple: forma parte de mi campaña\npromocional."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Tengo un instinto para detectar lugares con mucha\ngente mirando."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Así que, si voy a esos lugares y resulta que me\ncapturan en cámara, poco a poco terminaré siendo\nvista por todos."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Lo llamo «Operación: Machan Subliminal»!",
+      "choice_data_list": [
+        "...Ya veo."
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Al menos... ese era el plan. <i>Suspiro...</i> Pero no ha\nfuncionado exactamente como quería."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Al parecer, esa chica de la que todos hablan\nvolvió a aparecer! La chica que la vio dijo que ya\nson siete días seguidos!"
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Bueno, he oído... <i>Susurro, susurro...</i>"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Espera, es en serio! Entonces, eh... dónde te has\nido?"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Entonces eso era! Fiu. Qué alivio..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "La gente hasta lo hablaba en clase... Bueno, me\naseguraré de que todos lo sepan!"
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Muchas gracias.",
+      "choice_data_list": [
+        "¿De qué hablabas?",
+        "¿De qué hablabas?"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Jeje. Estoy segura de que pronto lo descubrirás."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Y por eso pasará algo bonito si la ves... Es como\nuna zashiki-warashi moderna! Ya sabes, un espíritu\nde buena suerte!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Verdaderamente! Entonces si algo, debería estar\nbuscando su aparición!"
+    },
+    {
+      "name": "Umamusume C",
+      "text": "He oído que aparece más a menudo en programas de\ndía. Al parecer, también viste un uniforme que se\nparece al nuestro."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Hmm, sí. Creo que esto debería funcionar bien.",
+      "choice_data_list": [
+        "Pareces familiarizada con lidiar con este tipo de\ncosas..."
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Lo hago? ...Quizá tengas razón."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Las mascotas pueden poner la imaginación de la\ngente en todas direcciones. Me alegra que los fans\nlo encuentren divertido, pero al mismo tiempo..."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Quiero que mi imagen sea bonita, así que estoy\nhaciendo una pequeña corrección de curso."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "«Dicen que es buena, después de todo.» «En\nrealidad podría traernos <i>buena</i> suerte?» «Veamos si\npodemos encontrarla.»"
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Y entonces, una vez que conozcan mi cara... «He\noído que su nombre es Machan!» Y así, tal cual,\nquedaría grabada en sus memorias."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Por eso es por lo que pretendo seguir haciendo\napariciones.",
+      "choice_data_list": [
+        "Tanto correr de un lado a otro probablemente sirve\npara buen entrenamiento.",
+        "Eres una gran estratega!",
+        "Eres una gran estratega!"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Por eso es por lo que pretendo seguir haciendo\napariciones.",
+      "choice_data_list": [
+        "Tanto correr de un lado a otro probablemente sirve\npara buen entrenamiento.",
+        "Eres una gran estratega!",
+        "Eres una gran estratega!"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Cierto. No lo había pensado así. Tienes un buen\npunto!"
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Jeje. Me alegra que seas tan comprensivo,\nEntrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque la naturaleza etérea de Aston Machan hace\nque sea difícil de entender, llego a darme cuenta\nde que su mente siempre está en movimiento."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Jeje. Bueno, la estrategia es una habilidad\ncrucial para cualquiera que espere convertirse en\nuna mascota internacional."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Sin plan, no gracias. Pero al mismo tiempo, no\ntiene sentido sobreplanificar tampoco. Simplemente\ntomemos las cosas tranquilamente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque la naturaleza etérea de Aston Machan hace\nque sea difícil de entender, llego a darme cuenta\nde que su mente siempre está en movimiento."
+    }
+  ]
+}

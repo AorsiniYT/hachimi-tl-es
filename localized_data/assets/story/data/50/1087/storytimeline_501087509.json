@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Aston Machan no contesta el teléfono, así que\nsalgo a buscarla cuando..."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "..."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Oh... Entrenador...",
+      "choice_data_list": [
+        "¿Dónde?",
+        "¿Adónde?"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Voy a ir a ver el mar. Ver todo ese azul me ayuda\na tranquilizarme, y el sonido de las olas es\nrelajante."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "También... puedo hablar con todos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sintiendo un poco de preocupación por Aston\nMachan, decido acompañarla. Realmente parece\nbastante agotada después de carreras consecutivas.\nDebería ajustar su calendario."
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras salgo con Aston Machan..."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Mmmm... Aún es un poco temprano. ¿Te animas a\nhacer algo antes de regresar?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pienso un momento sobre cómo pasar el tiempo. Lo\nprimero que se me ocurre es la \"investigación de\nmascotas\" que hicimos en el acuario."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo estuve acompañándola en su investigación la\núltima vez, pero tal vez pueda hacer algo para\nayudar...",
+      "choice_data_list": [
+        "¡Hagamos más investigación de mascotas!"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Ya veo. Mmm... Una sugerencia eficiente en tiempo,\nmotivación admirable... Me impresionas."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "¡Observad! La monarca indiscutida de las mascotas\ndel parque de diversiones, ¡Carrot Queen!"
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Es la número uno en el parque tanto en popularidad\ncomo en ventas de merch. Su diseño resuena con\nprácticamente todo el mundo, y sus movimientos son\nadorables pero refinados."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Ejje, es tan linda que hasta a mí se me derrite el\ncorazón cuando la veo...",
+      "choice_data_list": [
+        "¡Así que todo se trata de carisma!",
+        "¡Así que todo se trata de carisma!"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Oho, tienes buen ojo para esto."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Bueno, ya es hora de que hagamos nuestra movida.\nFormemos fila para saludarla; para investigación,\npor supuesto."
+    },
+    {
+      "name": "Anuncio",
+      "text": "Esperamos que todos estén disfrutando de los\ncuentos de las estrellas. Si aún no lo has hecho,\n¡mira al cielo nocturno y saluda!"
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Esa es Hoshimi, el orgullo del planetario. Su aire\ninteligente es realmente algo especial.",
+      "choice_data_list": [
+        "¡Iré a preguntar si podemos hablar con ella!"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "¿Eh? Ah... Cierto."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "¡Esta zoo tiene montones de mascotas! Desde pandas\nhasta okapis hasta..."
+    },
+    {
+      "name": "Caretaker",
+      "text": "¡Boletos gratuitos para el zoo de mascotas\ndisponibles ahora! ¡Formen fila aquí si quieren\nuno!",
+      "choice_data_list": [
+        "¡Iré a conseguir algunos!"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Ah..."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "... Mmm..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Conseguí los boletos, pero cuando regreso, Aston\nMachan no está por ninguna parte...",
+      "choice_data_list": [
+        "¿A dónde fue?",
+        "¿A dónde fue?"
+      ]
+    },
+    {
+      "name": "Niño",
+      "text": "¡Mamá! ¡Mamá, mira! ¡Hay una Umamusume con las\ncabras!"
+    },
+    {
+      "name": "Madre",
+      "text": "¡Ay, Dios mío! Jeje, se mueve con el rebaño."
+    },
+    {
+      "name": "Goat",
+      "text": "Beeeeh... Meeeeh..."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Girando hacia las voces emocionadas, encuentro a\nAston Machan inflando las mejillas y caminando\njunto a un rebaño de cabras.",
+      "choice_data_list": [
+        "¡Machan?!"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "...Meeeeh."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tomamos un breve descanso, pero Aston Machan sigue\nsiendo inusualmente silenciosa. Me disculpo por\nhaberla perdido de vista, pero..."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "No hacen falta disculpas. Fui yo quien se alejó."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "...De cualquier manera, ese no es el problema.",
+      "choice_data_list": [
+        "¿Ah? ¿Entonces cuál es?"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "...Siento que me has olvidado."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Está bien que estés tan entusiasmada con nuestra\ninvestigación de mascotas y todo eso, pero..."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "¿No debería Machan ser la mascota que más quieres\nver?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Quizás he estado perdiendo el bosque por los\nárboles. Me enredé tanto ayudándola con su\ninvestigación que perdí de vista a Aston Machan\nmisma.",
+      "choice_data_list": [
+        "¡Te vigilaré mucho más de ahora en adelante!",
+        "Aprenderé de este error. Lo prometo..."
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "¡Eso espero! Bueno, ya te has dado cuenta, así que\nlo dejaré pasar."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "...Por cierto, esas zanahorias asadas allá se ven\ndeliciosas.",
+      "choice_data_list": [
+        "¡Iré a comprar algunas!"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Bienvenida de vuelta. Ahora, ¿te importaría\ntomarme una foto linda sosteniéndolas?"
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Y asegúrate de capturarla con tu propia lente\ntambién. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aston Machan sostiene las zanahorias y me da una\ngran sonrisa. Me aseguro de capturar cada detalle,\ntanto en el marco de la cámara como en mi corazón."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Hm. Agradezco tu sinceridad, pero no necesitas\nponerte tan abatida."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "También me corresponde algo de culpa. ¿Qué tal si\nnos sentamos y charlamos sobre esto?"
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Pediremos buena comida, y... ¿sabes qué? ¡Lo\nharemos una reunión estratégica!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, ambas paramos en una cafetería después de\ndejar el zoo. El ambiente entre nosotras se aclara\ngradualmente y tenemos una discusión fructífera."
+    }
+  ]
+}

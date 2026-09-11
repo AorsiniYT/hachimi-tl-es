@@ -1,0 +1,78 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Espectador A",
+      "text": "¡No sé quién ganará!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Voy a decir... Aston Machan. Quiero decir, fue\nbastante impresionante en su debut."
+    },
+    {
+      "name": "Espectador B",
+      "text": "Sí, además... ¡Es tan linda cuando corre!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¿Linda? ¿No genial?"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Es adorable! ¡La forma en que sus patas golpean,\ngolpean, golpean mientras pasa volando!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Y cuando ves a alguien ponerle todo el corazón a\nalgo, ¿no te da ganas de animarla?"
+    },
+    {
+      "name": "Espectador A",
+      "text": "...¿Eh? ¿Esa fue Aston Machan ahora?"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¿Qué? ¡No way!"
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Adivina qué, Entrenador. <i>Al parecer,</i> la forma en\nque corro es bastante encantadora."
+    },
+    {
+      "name": "Aston Machan",
+      "text": "...Heh.",
+      "choice_data_list": [
+        "(Se ve feliz...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy segura de qué pasó para motivar esto,\npero supongo que alguien le hizo un cumplido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque no sé si \"encantadora\" sería la palabra que\nyo usaría, esa zancadita única suya es sin duda su\nmayor ventaja en la pista."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De donde vengan, si los cumplidos refuerzan su\nconfianza, entonces son lo mejor para ella.",
+      "choice_data_list": [
+        "Mantengamos la confianza y demos lo mejor."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me giro hacia Aston Machan... solo para descubrir\nque ya casi no se ve.",
+      "choice_data_list": [
+        "¿Otra vez?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Va caminando con calma hacia el paddock sin\nsiquiera mirar hacia atrás."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Corro a las gradas sin perder detalle."
+    }
+  ]
+}
