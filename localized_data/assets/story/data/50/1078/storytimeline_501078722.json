@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras hablaba con Yamanin Zephyr en mi\noficina..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ay, ay, ay...",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Un viento de tormenta hace furia dentro de mi\ncabeza..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Estos vientos hacen estragos al cruzar los campos,\npero se pueden soportar si te escondes en un\nbosquecillo de árboles..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Aunque dudo que haya algún bosquecillo en mi\ncabeza..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Espero que se calme pronto... Ay, ay, ay..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que el dolor de cabeza de Yamanin Zephyr\nrealmente la está molestando."
+    }
+  ]
+}

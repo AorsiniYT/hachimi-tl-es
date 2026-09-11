@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Yamanin Zephyr camina de un lado a otro en la sala\nde espera mientras el reloj avanza hacia el\nmomento de la salida.",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Sí, no te preocupes. Simplemente me estoy\nentregando al viento que sopla desde dentro de mí."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hay un severo ciclón bailando dentro de mí.\n¡Quiere liberarse y arrasar con todo en sus\nveloces vientos!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "No debo actuar a la ligera, pero... ¡Es que tengo\ntanto ganas de jugar con el viento!",
+      "choice_data_list": [
+        "¡Pareces lista para correr!",
+        "¡Pareces lista para correr!"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Lo estoy. Solo mira: ¡voy a desatar un derecho en\nla pista!"
+    }
+  ]
+}

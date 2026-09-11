@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras salía con Yamanin Zephyr..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ay, qué pobres cosas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su mirada está fija en una máquina de premios\nllena de peluches de Umamusume.",
+      "choice_data_list": [
+        "¿Hablas de esos peluches?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Sí. El vidrio les impide sentir el viento..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Si tan solo pudiera liberarlos y dejar que se\nbañen en la brisa."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Aunque no tengo mucha experiencia con máquinas de\npremios, así que imagino que cualquier esfuerzo\nque haga será inútil.",
+      "choice_data_list": [
+        "Te consigo uno si quieres.",
+        "Te consigo uno si quieres."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¿Estás seguro? Eso sería maravilloso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡De ninguna manera puedo fallar ahora!"
+    }
+  ]
+}

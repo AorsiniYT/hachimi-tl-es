@@ -1,0 +1,183 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras Yamanin Zephyr y yo caminamos por\nla orilla del río, nos encontramos con algunos\nrostros familiares."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Oh, ¿es quién creo que es?"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Mmm... No creo que esté aquí. ¿Quieres buscar más\ncerca de la academia?"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Puedes regresar al dormitorio. Yo continuaré\nbuscando aquí."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Pero... ¿el pañuelo que perdiste fue un regalo de\ntu abuela, verdad? Debe significarte mucho, así\nque quiero ayudarte a encontrarlo."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Saludos. ¿Están buscando algo, chicas?"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Oh, sí... Estamos buscando el pañuelo de Ruby. Es\nrojo con una rosa bordada en hilo dorado. ¿Lo han\nvisto?"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Lamentablemente, el viento no lo ha traído por\naquí.",
+      "choice_data_list": [
+        "Yo tampoco lo he visto.",
+        "Yo tampoco lo he visto."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "El viento <i>está</i> bastante fuerte hoy, así que quizás\nun viento travieso lo haya lanzado a algún lugar."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...¿Así es? Parece que cualquier esperanza de\nencontrar mi pañuelo se desvanece rápidamente.\nBueno, en ese caso—"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Pero si el viento fue el ladrón, entonces podemos\nseguir su rastro para hallar lo que se llevó."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "¿Qué? ¡Zephyr! ¿A dónde vas?!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "El viento me ha guiado hasta... Ah, hola, White\nWaterinas. ¿Han visto un pañuelo rojo por aquí?"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...¿Le pregunta a esos cisnes? Ah, ¡Zephyr!\n¡Esperen un momento!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Cuac-cuac. Veo que también montaste este viento."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Y ahora un cuervo..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Puedo sentir el viento elevándose hacia el cielo,\npero no hay rastro del pañuelo. Si sigo la brisa\ndesvanecida en la que montó el Cuac-cuac..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Me lleva a un nido de Zumbantes-Brisantes. Permiso\npara entrar."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "\"¿Zumbantes-Brisantes\"? Esos son <i>abejas!</i> ¡Rápido,\naléjate del nido!"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "<i>Haa... Haa...</i> Después de toda esa caminata, hemos\ndado una vuelta completa y vuelto a la academia...\n¿Pero dónde está Zephyr—?"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ruby, ¿ese es tu pañuelo atrapado en el árbol de\nallá?"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...¡Oh! Así parece."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Pero está muy alto. A esa altura..."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "¿Z-Zephyr?"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Up-Up... La brisa que te acaricia mientras subes\nse siente de verdad maravillosa."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Aquí lo tienes, Ruby."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Muchas gracias."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Aunque creímos que era imposible encontrarlo,\nseguiste adelante sin dudar y te cargaste nuestras\npreocupaciones con la misma facilidad con que\nsopla el viento.",
+      "choice_data_list": [
+        "No hay mucho que Zephyr no pueda hacer.",
+        "También es así cuando corre.",
+        "También es así cuando corre."
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Incluso cuando estábamos seguros de que era un\ncaso perdido, insististe sin dudar y despejaste\nnuestras preocupaciones con la misma naturalidad\ncon la que sopla el viento.",
+      "choice_data_list": [
+        "No hay mucho que Zephyr no pueda hacer.",
+        "También es así cuando corre.",
+        "También es así cuando corre."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jeje. Sí, soy todo un viento capaz."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Aunque siento que tus métodos son un poco\ncaprichosos, aprecio enormemente tu ayuda. En\ncuanto a una recompensa por tus esfuerzos—"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hay algo soplando desde el este... otra brisa\nrara."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Oh..."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Jeje. El espíritu libre de Zephyr es uno de sus\nencantos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dado lo imaginativo que puede ser Yamanin Zephyr,\nme tranquiliza saber que sus amigas la entienden."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Simplemente sigo mi viento. Voy a donde me lleve,\nlibre y rápidamente."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Es una corriente formidable contra la que\ncompetir. Tendremos que asegurarnos de no ser\narrastradas."
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¿Oh? ...¿Siento un par de vórtices giratorios?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con las tres reconociéndose mutuamente como\nrivales, espero ver cómo se motivan entre sí de\nahora en adelante."
+    }
+  ]
+}

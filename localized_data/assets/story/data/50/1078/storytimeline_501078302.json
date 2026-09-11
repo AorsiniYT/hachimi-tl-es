@@ -1,0 +1,324 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Yamanin Zephyr y yo regresábamos de una excursión\ncuando notamos que una cierta esquina del distrito\ncomercial estaba particularmente concurrida."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jeje... Parece que esa zona está floreciendo\nbastante bien. Casi da la sensación de que el\nviento se reúne para soplar."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe, el segundo un\nfardo de zanahorias y el tercero una sola\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue un\nboleto ahora y gira para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vaya, ese ryokan...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "He oído que está rodeado de montañas preciosas, y\nque una brisa reconfortante suele atravesar la\nzona."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Según cuentan, el lugar rebosa de pequeños\nanimales y pajaritos, todo tipo de vida silvestre\ndel bosque.",
+      "choice_data_list": [
+        "¿Quieres intentar tu suerte?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jeje. Yo sí quiero. Confío en que este encuentro\ncasual sea una corriente rosada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vamos a comprar algunos artículos de uso diario y\nconseguimos un boleto del sorteo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Yamanin Zephyr le da un fuerte giro a la máquina\ndel sorteo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del gran premio!\n¡Venga a recoger el cupón para sus vacaciones en\naguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vaya, qué sorpresa. No pensé que realmente\nganaría..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Es como si una cálida brisa de verano soplara en\ninvierno... Jeje. La vida está llena de sorpresas,\n¿verdad?"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¿Entonces, iríamos cuando la brisa suave llegue, o\nentre las corrientes otoñales?"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Creo que lo mejor sería ir cuando podamos\nrelajarnos a nuestro gusto, como una brisa\ndelicada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En este momento las cosas están bastante agitadas\nentre competencias y entrenamientos. Un viaje solo\npodría agotarnos aún más.",
+      "choice_data_list": [
+        "¿Qué tal si dejamos la idea para cuando las cosas\nse calmen?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hmm..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Sí, buena idea. Hagámoslo así. Nos topamos con un\nascenso auspicioso, así que debemos esperar a una\ncorriente oportuna."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jeje... Me recuerdan aquellos días en que\nesperábamos a que el viento del año nuevo soplara."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Estoy muy emocionada. ¿Y tú?",
+      "choice_data_list": [
+        "¿Voy con ustedes?",
+        "¿Voy con ustedes?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Claro que sí. Estuvimos ambas presentes cuando\nsopló la corriente rosada, después de todo."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...¿No quieres venir?",
+      "choice_data_list": [
+        "No, no es eso..."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Entonces vayamos. Nos aguarda un viaje de vientos\nmullidos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así terminé prometiéndole a Yamanin Zephyr que\niríamos juntas de viaje a las aguas termales."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Primer puesto... Así que estuve a solo un paso del\ngran premio."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "No, no debo quejarme. La brisa fue suficientemente\nagradable."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Es un día de espontaneidad natural, y tuvimos la\nsuerte de sentir el toque de un trueno divino."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ahora, siguiendo esa racha de buena suerte... Me\ngustaría disfrutarlo en un lugar donde sople una\nbrisa refrescante."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Puedes acompañarme si quieres."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos encaminamos hacia una colina cercana, donde\nnos espera una vista espectacular en la cima."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Aquí estás. También preparé té para nosotras."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Las nubes tienen un hermoso color rojizo, ¿no?\nPronto será el crepúsculo y una brisa entre\nestrellas caerá sobre nosotras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras contemplamos el paisaje, repartimos el\nhamburg steak entre las dos."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vaya, parece que la corriente rosada nos ha pasado\npor alto."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jeje, pero nos ganamos tantas zanahorias bonitas.\nQué bendición tan rara."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Como el ascenso auspicioso, sus hojas son\nsimplemente encantadoras."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Aunque no puedo comerme todas solita, y aunque\ncomparto contigo, todavía sobran muchas..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jeje, justo se me ocurre una buena idea."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Buenos días."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ahí afuera hay pastel de zanahoria casero.\nSiéntete libre de tomar algo, Nature."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿En serio hiciste toda esa torta?! ¡Guau! ¡Danos\nun poco!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Sabes, Zephyr, tu comida siempre tiene ese sabor\nsuave y agradable... Como que te relaja un poco."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vaya, gracias... Tus palabras llegan como una\nbrisa armoniosa."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Así que el sabor es relajante... Quizá lleve algo\nal entrenador más tarde... Jeje."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vaya, tercer puesto... Supongo que el gran premio\nse alejó por el mar."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Parece que este sorteo fue algo así como un\ntorbellino ascendente."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Sabía que esto podría pasar, pero... Jeje, pues\nsupongo que no sirve de nada ilusionarse demasiado\ncon estas cosas."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Dicho esto, tuvimos la suerte de ser bendecidas\ncon esta zanahoria."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "No quiero que se desperdicie... ¿Qué tal si\npreparo algo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aprovechando la zanahoria, Yamanin Zephyr nos\nprepara la cena a ambas."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Son zanahorias y verduras silvestres guisadas con\npescado de temporada y arroz blanco."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Por favor, disfruta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las dos disfrutamos de una agradable comida de\nsabor sutil."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un boleto\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vaya... Supongo que no estaba destinado."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...En realidad, no, no tenemos que convertir esta\nbrisa en un tornado."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "No sirve de nada lamentarse por la derrota."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Estoy segura de que pronto sople un nuevo viento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque intenta mantenerse positiva, Yamanin Zephyr\nparece ligeramente decepcionada."
+    }
+  ]
+}

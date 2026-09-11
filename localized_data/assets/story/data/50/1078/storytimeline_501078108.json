@@ -1,0 +1,180 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La Fiesta del Fan bulle de visitantes. Mientras\npaseo por el campus, echando un vistazo casual a\nlos diferentes puestos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "divisó a Yamanin Zephyr en un área bastante vacía,\ncon una expresión preocupada."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Otro torbellino... Esta vez, viene de allá...",
+      "choice_data_list": [
+        "¿Qué haces aquí?",
+        "¿Qué haces aquí?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Oh, Entrenador. Estaba tan distraída por las\nráfagas primaverales que no te vi ahí."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hoy el aire está lleno de muchos vientos: la brisa\ndel valle, el viento oeste del principios de\nprimavera, una brisa con aroma a flores de\ncerezo..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hay tantos susurros en el aire que no sé a cuáles\nprestar oído..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Realmente hay muchos ruidos por ahí. Sabiendo lo\nsensible que es Yamanin Zephyr, no me sorprende\nque esto la desconcierte.",
+      "choice_data_list": [
+        "(Es una lástima que no pueda disfrutar...)"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Esa es una expresión bastante seria. ¿Sientes un\nviento foehn soplando desde algún lugar?",
+      "choice_data_list": [
+        "¿Alguna de las atracciones ha captado tu atención?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Oh... ¿Te preocupa <i>yo?</i> Eres una brisa realmente\nconsiderada."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Pero no, no me siento especialmente cómoda\npaseando entre tormentas de arena."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "He estado resguardándome aquí de las heladas\nráfagas por un rato... Los Cooey-Coos que circulan\ntambién me vigilan.",
+      "choice_data_list": [
+        "¿Cooey-Coos?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro hacia arriba y veo varios pájaros. A\ndiferencia de todos los que están aquí abajo en el\nsuelo, ellos son libres de volar. Mientras los\nobservo dar vueltas, se me ocurre un pensamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Deberías poder liberarte del ruido si te alejas un\npoco de él."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¿Oh? Es casi como si una brisa radiante soplara\ndesde ti.",
+      "choice_data_list": [
+        "¿Podrías acompañarme un momento?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "No veo por qué no..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Las voces, el canto, las corrientes de aire\narriba... Se superponen, resonando como una\norquesta sinfónica."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Los Chubby Cheeks y los Cooey-Coos juegan tan\nfelizmente..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Laa, faa-la la, la la. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La pequeña canción de Yamanin Zephyr se lleva la\nbrisa, haciéndose eco suavemente con un tono\njuguetón."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Uf. Ha sido tan relajante que casi no recuerdo\ntodo ese retumbar terrenal de antes."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Parece que a los Chubby Cheeks también les agradó\nla melodía... ¿Oh?"
+    },
+    {
+      "name": "Sparrow",
+      "text": "<i>Pío, pío... Pío...</i>"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jiji... Suena a que están listos para su comida de\nla tarde.",
+      "choice_data_list": [
+        "Deberíamos conseguir algo de comer también.",
+        "Deberíamos conseguir algo de comer también."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Cierto. Deberíamos poder encontrar un lugar para\ndisfrutar de una comida tranquila por aquí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Disfrutamos de un momento relajado en la Fiesta\ndel Fan mientras escuchamos una melodía de toda\nclase de sonidos."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Uf. Ha sido tan relajante que casi no recuerdo\ntodo ese retumbar terrenal de antes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Pasitos, pasitos, pasitos...</i>"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¿Oh? Este sonido... ¿Podría estar llegando una\nbrisa refrescante?"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ah, pensé que eras tú, Zephyr."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Igualmente Hola, Entrenador.",
+      "choice_data_list": [
+        "Hola."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Oh, Miracle. ¿Te guío aquí también los pájaros\ncantando?"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Sí... Eso, y escuché un canto hermoso."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Se siente bien estar de pie bajo este cielo—tan\nbien que casi quiero empezar a cantar yo también."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jiji... Eres tan refrescante como la brisa\nsusurrante."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¿Te unirías a nosotras? Que el viento sea tu guía,\ny escucha tu corazón."
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "...Sí. Creo que si cantara contigo, lo disfrutaría\nde verdad."
+    },
+    {
+      "name": "Miracle y Zephyr",
+      "text": "Laa, laaa! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus voces melódicas flotan en la brisa entre el\nzumbido del festival. Me tomo un momento para\ndisfrutar el suave sonido de su armonía."
+    }
+  ]
+}

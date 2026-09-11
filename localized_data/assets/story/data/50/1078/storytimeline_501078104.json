@@ -1,0 +1,329 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Durante un descanso del entrenamiento en el\ncampamento de verano..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...",
+      "choice_data_list": [
+        "...¿Estás sintiendo el viento?",
+        "...¿Estás sintiendo el viento?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Sí, la brisa marina que sopla más allá del\nhorizonte."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Y... estoy escuchando las voces de los vientos que\nvagan por los mares.",
+      "choice_data_list": [
+        "¿Sus voces?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Resuenan sin cesar por toda esta playa: a veces en\nvoz baja, otras con fuerza."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Aunque sea solo por un momento, el viento y esos\nsonidos calman mi corazón mientras late con la\nanticipación de la próxima competencia.",
+      "choice_data_list": [
+        "¿Te importa si escucho contigo?",
+        "¿Te importa si escucho contigo?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Para nada. Hay todo tipo de voces, así que por más\nque escuche, nunca me canso de ellas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me quedo junto a Yamanin Zephyr por un rato,\nsintiendo el viento en mi rostro mientras\nescuchamos el sonido de las olas. Hasta que..."
+    },
+    {
+      "name": "???",
+      "text": "¡Zephyr!",
+      "color_text_info_list": [
+        "Zephyr"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ah, Turbo.",
+      "color_text_info_list": [
+        "Turbo"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Vamos a reunirnos! ¡Quiero hacer una batalla dos\ncontra dos contigo, yo, Ikuno y Nature!",
+      "color_text_info_list": [
+        "Ikuno",
+        "Nature"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La animada estudiante que acaba de llegar es la\ncorredora de gran energía, Twin Turbo. Sus amigos\nla siguen un poco detrás.",
+      "color_text_info_list": [
+        "Twin Turbo"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Perdona las molestias. Parece que Turbo se\nemociona aún más cuando viene a la playa."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ajaja, perdona eso. Vamos, Turbo. Ya nos vamos."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡No quiero! ¡No podemos hacer una batalla en\nequipo con solo tres personas! ¡Quiero hacer dos\ncontra dos! ¡Dos contra dos!",
+      "choice_data_list": [
+        "Una batalla en equipo, ¿eh?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque sea solo por diversión, competir con otros\npodría ser más estimulante que entrenar sola.",
+      "choice_data_list": [
+        "...Solo por curiosidad, ¿qué tipo de \"batalla\"\ntenías en mente?"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Bueno, podríamos hacer un relevo, o una pelea con\npistolas de agua, ¡o un juego de policías y\nladrones!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": ","
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Con este calor, probablemente lo mejor sea hacer\nalgo que involucre la arena y el agua. Además,\ncualquier cosa que hagamos servirá para buen\nentrenamiento."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Interesante. ¿Entonces sería una competencia\nque también sirve como entrenamiento?",
+      "choice_data_list": [
+        "¿Quieres unirte un rato?",
+        "¿Quieres unirte un rato?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Sí, quizás esta sea otra corriente de aire\noportuna."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Me gustaría aceptar tu oferta. Asumiré que señala\nuna favorable corriente ascendente que se acerca,\ny que me elevará aún más."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Yaaay! Está bien, está bien, ¿qué vamos a jugar?!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Mmm, veamos... ¿Qué juego crees que atraería más\ncorrientes rosadas, Entrenador?",
+      "choice_data_list": [
+        "Un relevo en la arena para fortalecer la carrera.",
+        "Descenso de arena, ¡para ayudarte cuando se llegue\na la meta!"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "En ese caso, me convertiré en una ráfaga ardiente\nque barre la arena."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decidido el juego, Yamanin Zephyr y Nice Nature se\nenfrentan a Twin Turbo e Ikuno Dictus en una\ncarrera de relevos en equipo.",
+      "color_text_info_list": [
+        "Nice Nature"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Está bien, Ikuno, ¡tú serás la ancla! ¡Y yo les\ndaremos una ventaja enorme al principio!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Nuestro éxito está en tus manos. Por favor, lleva\nel ritmo adecuadamente."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Solo déjame la segunda mitad del relevo a mí. ¡No\nte decepcionaré, Zephyr!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Si puedo canalizar un ciclón mientras corro,\nentonces los vientos de la victoria sin duda\nsoplarán."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Da todo, Céfiro! ¡Acelera y amplía ventaja!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "<i>¡Haa! ¡Haa!</i> ¡N-noo! ¡No voy a perder!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Turbo... Aún así, este desarrollo era esperado.\nCuanto mayor sea su ventaja, más probable es que\nse vuelvan descuidadas."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "(¡La arena cede más de lo que esperaba! ...Pero sé\nque puedo hacerlo!)"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "(Necesito dejar que el viento lleve mis piernas —\n¡necesito elevarme!)"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Haaaaah!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Guau, guau, ¡espera! ¿A dónde vas, Zephyr? ¡Te\nestás pasando!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Realmente corre como una ráfaga de viento..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todavía llenas de energía después de la carrera de\nrelevos, también disfrutan de banderas en la\nplaya, voleibol y unos cuantos juegos más,\ncambiando de equipos sobre la marcha."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ahh, descenso de arena, ¿eh? Está bien, todos, así\nfunciona: vamos a poner un palo en un montículo de\narena y turnarse para quitarle arena. Quien haga\ncaer el palo pierde."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "La clave de la victoria está en mantenerse\ntranquilo y seguir una estrategia. Debemos calmar\nnuestros corazones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Twin Turbo y Yamanin Zephyr se enfrentan\ncara a cara con Nice Nature e Ikuno Dictus en una\nbatalla en equipo.",
+      "color_text_info_list": [
+        "Nice Nature",
+        "Ikuno Dictus"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Yeee! ¡Turbo swoooop!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Qué?! ¡Estás quitando demasiada arena, demasiado\nrápido! ¡El montículo de arena ahora parece una\nespecie de vela de arena!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "...No se derrumbó. Fue una jugada audaz, pero no\ncometida por error."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Dicho esto, ahora que la estructura se ha\nadelgazado, su centro de equilibrio se ha vuelto\nevidente. La zona segura está justo... <i>aquí!</i>"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Qué?! ¡Se parece a un corazón de manzana! ¿De\nverdad puedes lograr esto, Zephyr?"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Calmaré mi corazón y visualizaré un camino hacia\nadelante..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "(...Necesito leer el flujo tanto de la arena como\nde la brisa marina.)"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "(Corazón de manzana arenoso... ¡La dirección de tu\nviento es...)"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "¡Por aquí!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Guau?! ¡No puede ser! ¡Creía que esto ya estaba\nganado!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jiji, ¡lo logré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todavía llenas de energía después del descenso de\narena, también disfrutan de banderas en la playa,\nvoleibol y unos cuantos juegos más, cambiando de\nequipos sobre la marcha."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Ay, cielo. ¡Perdimos el set!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Simular un ataque profundo solo para atacar justo\ncerca de la red... Muy impresionante."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Jiji. Solo seguí la brisa del mar."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Y hace un momento... Sentí una favorable corriente\nascendente soplando hacia mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras continúan los juegos, el sol se desliza\nsin ser notado."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Por más que me gustaría quedarme más, creo que ya\nes hora de volver al campamento."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Gracias por acompañarnos todo el día. Hoy no\nhabría estado ni cerca de tan divertido sin ti."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Juguemos de nuevo algún día, Zephyr!"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Sí, juguemos. Cuando una brisa fresca sople de\nnuevo..."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Fiu. Ni siquiera noté que el sol se ponía. Estoy\nun poco cansada...",
+      "choice_data_list": [
+        "Fue bonito verte disfrutar."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Antes de darme cuenta, soplaban incontables\nvientos."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Uno era un noble vendaval, otro una tormenta\nfrenética, y uno una reconfortante brisa."
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Todas estas memorias fueron traídas por la brisa\nmarina. Dudo que las olvide."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un día de juegos en medio del campamento resulta\nser un descanso muy necesario para Yamanin Zephyr."
+    }
+  ]
+}
