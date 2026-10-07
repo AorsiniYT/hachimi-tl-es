@@ -1,0 +1,92 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, entro a un café en busca de algo de beber\ny me encuentro con Zenno Rob Roy adentro."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Oh, Entrenador! ¡Hola!",
+      "choice_data_list": [
+        "Perdona, ¿te interrumpí?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, ¡para nada! Estoy leyendo una historia\nlarguísima, así que apenas pensaba en tomarme un\ndescanso."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Vaya, ¿ya es tan tarde?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Este café tiene una ambientación muy agradable,\nasí que puedo sumergirme de lleno en el libro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por todos los platos vacíos apilados en su mesa,\nsupongo que debió estar aquí bastante rato.",
+      "choice_data_list": [
+        "¿Con toda esa lectura se te abrió el apetito?",
+        "¿Con toda esa lectura se te abrió el apetito?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "N-no... solo pensé que sería grosero quedarse\ntanto tiempo sin pedir algo de vez en cuando..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Quizá terminé pidiendo un poco demasiado, pero es\nque realmente quería seguir leyendo aquí..."
+    },
+    {
+      "name": "Staff",
+      "text": "Disculpe la espera. Aquí tiene su especial de la\ntarde. ¡Que lo disfrute!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Oh... E-eh, gracias..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Se me había olvidado por completo que había\npedido más comida! Estaba intentando seguir\nleyendo, ¿sabe?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ya estoy tan llena... pero sería grosero\ndesperdiciar la comida."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Oh! Ese aroma... ¡Me encanta el sazón que le\npusieron a este platillo! Quizá pueda con un poco\nmás... Mmm, pero mejor no...",
+      "choice_data_list": [
+        "¿Quieres que yo lo coma por ti?",
+        "¡Si lo tomas con calma, puedes terminar todo!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, ¿de verdad? Eres un salvavidas. La verdad ya\nno puedo ni un bocado más."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Por favor, te lo dejo. Espero que disfrutes la\ncomida también."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pago la cuenta y me encargo de la comida extra que\nZenno Rob Roy pidió, ahorrándole así comer de más."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "E-eh, ¡de acuerdo! Si como cuando me tomo un\ndescanso de la lectura, ¡debería poder terminarlo\ntodo!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "No sé por qué... ¡pero siento que estoy a punto de\nentrar en batalla!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Zenno Rob Roy logra terminar todo lo que pidió, de\nalguna forma."
+    }
+  ]
+}

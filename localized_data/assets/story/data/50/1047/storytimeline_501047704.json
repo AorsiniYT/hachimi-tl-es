@@ -1,0 +1,274 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Ha sido un hermoso día con Zenno Rob Roy, pero\ncreo que ya debería ser hora de regresar a casa.\nEstoy a punto de sugerir que regresemos, cuando..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "E-eh... ¡Entrenador!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Si le parece bien... me gustaría que me acompañe\nun poco más..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Es solo que... ¡hay un lugar que me encantaba\nvisitar hoy!",
+      "choice_data_list": [
+        "¡Claro! Con gusto te acompaño."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me lleva a un escenario en medio del pueblo. Se\nestá llevando a cabo un evento donde cualquiera\npuede subirse al escenario a mostrar su talento o\ndar una charla.",
+      "choice_data_list": [
+        "Espera, ¿estás pensando en subirte ahí?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "S-sí... Quiero... querer recitar una historia\ncorta. La tengo memorizada, así que quería\nintentar... c-contársela a todos.",
+      "choice_data_list": [
+        "¡Suena genial! ¡Te estaré apoyando!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "A-ah, g-gracias... Bueno, entonces... V-voy a\nintentarlo... Agh..."
+    },
+    {
+      "name": "Presentador de Evento",
+      "text": "¡Muy bien! ¡Levanten la mano si quieren pasar al\nescenario! ¡No sean tímidos!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "E-e-ehm..."
+    },
+    {
+      "name": "Hombre frente al escenario",
+      "text": "¡Por aquí! ¡Por aquí! ¡Yo quiero subir!"
+    },
+    {
+      "name": "Presentador de Evento",
+      "text": "¡Perfecto! ¡Usted, suba!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rob Roy lucha por hacerse oír entre la multitud.\nAun así, no da señales de rendirse. Y entonces..."
+    },
+    {
+      "name": "Presentador de Evento",
+      "text": "Vale, solo tenemos tiempo para dos presentadores\nmás. ¿Quién se anima?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eh, uh... Y-yo... Agh...",
+      "choice_data_list": [
+        "¡Puedes hacerlo!"
+      ]
+    },
+    {
+      "name": "Presentador de Evento",
+      "text": "¡Vamos! ¿Nadie se apunta?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Yo... ¡Quisiera intentarlo!"
+    },
+    {
+      "name": "Presentador de Evento",
+      "text": "¡Ah! ¡Usted! ¡La Umamusume con gafas y aire\nenérgico! ¿Quiere subir y darlo todo?",
+      "choice_data_list": [
+        "¡Lo lograste!"
+      ]
+    },
+    {
+      "name": "Presentador de Evento",
+      "text": "¡Muy bien, qué tipo de actuación nos va a ofrecer\nhoy?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eemm... bueno, me gustaría..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Espera... ¿Eh?)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Se me fue la mente en blanco... No recuerdo para\nqué estoy aquí...)"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¿Qué está esperando? ¿Está bien?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(¡Todos me están mirando! ¿Qué... qué debería\nhacer?!)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que sus nervios la están dominando. Pero sé\nque puede superar esto, especialmente después de\nlo valiente que fue al conseguirse ese\nreconocimiento.",
+      "choice_data_list": [
+        "(¡Tú puedes! ¡Yo creo en ti!)",
+        "(¡Tú puedes! ¡Yo creo en ti!)"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(¡Ah! ¡Gracias, Entrenador!)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(¡Es cierto... Voy a transformarme! ¡Por eso estoy\naquí en el escenario!)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(¡Voy a superar obstáculos, derribar muros y\nconvertirme en esa héroe orgullosa que busco ser!)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(¡Voy a escribir mi propia historia!)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Eh! H-hola, a todos! ¡Mi nombre es Z-Zenno Rob\nRoy!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Soy estudiante de la Academia Tracen! ¡Por favor\nvengan a ver mis carreras!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Espero ganar su apoyo!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Yeeeesss! ¡Te voy a apoyar, seguro!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En respuesta al saludo sincero de Zenno Rob Roy,\nla audiencia les dedicó un cálido aplauso."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "<i>Haa... Haa...</i> Entrenador!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Lo... ¡lo logré! No era exactamente lo que había\nplaneado, pero pude subir al escenario y hablar\nfrente a todos!",
+      "choice_data_list": [
+        "¡Lo hiciste perfecto! ¡Expresaste muy bien lo que\nsentías!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿En serio?! ¡Qué feliz me pone saber eso!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Y, sabes... ¡todo se lo debo a ti!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Siempre he sido tímida y nunca destacaba. Quise\ncambiar durante mucho tiempo, pero simplemente no\npodía."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Pero pasar el rato contigo me ayudó a reconocer\nmis propios talentos y ganar confianza poco a\npoco."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Empecé a sentir que quizás podría hacerlo. ¡Por\neso pude subir al escenario!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Siempre estás ahí para ayudarme y guiarme..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Conmigo a tu lado, siento que puedo seguir\nprogresando aún más!",
+      "choice_data_list": [
+        "¡Aquí estaré siempre, apoyando tu crecimiento!",
+        "¡Aquí estaré siempre, apoyando tu crecimiento!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Siii! Jejeje!",
+      "choice_data_list": [
+        "Oye, ¡la próxima vez podemos intentar organizarte\nun evento en solitario!",
+        "¡Deberíamos celebrar tu progreso ahora mismo!",
+        "¡Estás un paso más cerca de convertirte en héroe!",
+        "¡Estás un paso más cerca de convertirte en héroe!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Siii! Jejeje!",
+      "choice_data_list": [
+        "Oye, ¡la próxima vez podemos intentar organizarte\nun evento en solitario!",
+        "¡Deberíamos celebrar tu progreso ahora mismo!",
+        "¡Estás un paso más cerca de convertirte en héroe!",
+        "¡Estás un paso más cerca de convertirte en héroe!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Eh? ¿Un evento... ¿en solitario?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Eso no significaría... estar en el escenario\ndurante horas... completamente sola... con todos\nmirándome?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Mmmngh... De pronto me siento mareada..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Zenno Rob Roy dejó que su imaginación\ncorra un poco descontrolada."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Q-quieres celebrar por mí? Pero no es como que\nhaya hecho algo increíble..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Oh, pero en realidad... ¡me encantaría ir a esa\ncadena de restaurantes de antes!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Quizás esta vez podría pedir bien un hamburguesa\nde zanahoria!",
+      "choice_data_list": [
+        "¡Genial, vayamos ahora mismo!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tras eso, los dos nos dirigimos al restaurante a\ncelebrar."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Lo soy! El camino por recorrer es largo, pero un\ndía..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Voy <i>a</i> convertirme en una heroína que todos\nrecordarán y querrán para siempre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Zenno Rob Roy se abre y me cuenta todas las\ngrandes ambiciones que guarda en su corazón."
+    }
+  ]
+}

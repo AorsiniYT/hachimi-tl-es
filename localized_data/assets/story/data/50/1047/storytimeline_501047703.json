@@ -1,0 +1,201 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De regreso a la academia, Zenno Rob Roy y yo\ndivisamos a una señora mayor mirando alrededor con\nnerviosismo."
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Mmm... ¿Por qué lado quedaba la estación, otra\nvez?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eh, ¡perdón!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "C-corregidme si me equivoco, pero... ¿busca la\nestación?"
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Ah, sí, así es. No conozco muy bien los\nalrededores..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eh... Si quiere, con gusto puedo guiarla hasta\nallá."
+    },
+    {
+      "name": "Señora mayor",
+      "text": "¡Ay, qué amable eres, cariño! ¡Muchas gracias!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ah, por supuesto! ¡Sígame, por favor!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eh... Hay dos rutas que podemos tomar desde aquí."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "La primera es tomar a la derecha en la licorera, a\nunos 300 metros de aquí. El trayecto tarda unos\nocho minutos."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Es la ruta más corta, pero hay dos cerros en el\ncamino, así que podría ser un poco agobiante."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "La segunda opción es seguir recto por esta calle y\ngirar a la derecha al final. No hay cerros, pero\ndemora unos cuatro minutos más."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Podemos tomar la que usted prefiera, señora. Eh...\n¿qué le parece?"
+    },
+    {
+      "name": "Señora mayor",
+      "text": "¡Ay, qué ángel tan servicial eres! Bueno, entonces\n¿me podrías mostrar la ruta que no tenga cerros?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Por supuesto! Ah, déjame cargarle las bolsas."
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Haa... Lo siento por hacerte perder el paso,\ncariño."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ay no, no hay problema! Eh... si se siente\ncansada, ¿por qué no nos sentamos a descansar un\nmomento?"
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Eres muy considerada. Bueno, si te parece bien,\n<i>con gusto descansaría</i> estas cansadas huesos un\nratito."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "C-claro que sí."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eh... Creo que el banco más cercano está\ndoblándome la esquina a la izquierda."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Es justo por aquí, señora.",
+      "choice_data_list": [
+        "(¡Rob Roy se ve como pez en el agua!)",
+        "(¡Rob Roy se ve como pez en el agua!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tras una breve pausa en el banco, partimos\nnuevamente hacia la estación. Sin embargo, el\ncielo se oscurece de golpe cuando llegan nubes\ngrises."
+    },
+    {
+      "name": "Señora mayor",
+      "text": "¿Ven eso? El clima empezó a ponerse un poco\nsombrío. No llevé paraguas, así que corramos un\npoco."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Tampoco llevé paraguas... ¡pero no se preocupe!\n¡Conozco una ruta por la que no nos mojaremos!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Solo es un pequeño desvío, así que la distancia no\ncambiará mucho. ¡Vayamos por aquí!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Si pasamos por esta galería comercial, ¡no\ntendremos que preocuparnos por la lluvia! Una vez\nque la crucemos, saldremos frente a la estación.",
+      "choice_data_list": [
+        "(¡Increíble! ¡Incluso conoce rutas alternativas\npara cada eventualidad!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, la precisa guía de Zenno Rob Roy nos lleva\na salvo a la estación."
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Buen Dios, ¡muchas gracias! Me ha sido de gran\nayuda."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ay no, para nada! Solo me alegra poder servirle.\n¡Que tenga un buen viaje, señora!"
+    },
+    {
+      "name": "Señora mayor",
+      "text": "¡Realmente tiene usted un alma bondadosa! ¡Cuídese\nmucho!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "<i>Haa...</i> Qué alivio. ¡Me alegro de haberla guiado a\nsu destino sin contratiempos!",
+      "choice_data_list": [
+        "¡Fue genial! ¡Seguro te sabes muy bien los\nalrededores!",
+        "¡Fue genial! ¡Seguro te sabes muy bien los\nalrededores!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Jeje... Gracias por el halago. Siempre se me ha\ndado muy bien orientarme y guiar a la gente."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Desde pequeña, me ha encantada leer historias\nmientras observo mapas de los lugares donde\nocurren."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Despliegaba los mapas e imaginaba el paisaje,\ndesde bosques hasta caminos extensos y callejones\nde la ciudad, mientras repitiera las historias en\nmi cabeza!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Jugar así seguro me ayudó a mejorar mucho en\nvisualización y memorización de espacios."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Después de ingresar a la Academia Tracen, saqué un\nmapa de inmediato y empecé a imaginar cómo sería\nla zona.",
+      "choice_data_list": [
+        "¡Esa es una habilidad muy particular la tuya!",
+        "¡Esa es una habilidad muy particular la tuya!",
+        "¡La próxima vez tendrás que guiarme a algún lado!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Después de ingresar a la Academia Tracen, saqué un\nmapa de inmediato y empecé a imaginar cómo sería\nla zona.",
+      "choice_data_list": [
+        "¡Esa es una habilidad muy particular la tuya!",
+        "¡Esa es una habilidad muy particular la tuya!",
+        "¡La próxima vez tendrás que guiarme a algún lado!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Una habilidad particular? ¿Yo?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ya veo... Tengo una habilidad particular... algo\nque solo <i>yo</i> puedo hacer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Zenno Rob Roy se toma un momento para deleitarse\ncon la alegría mientras crece su autoconfianza."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Por supuesto! ¡Cuente conmigo! ¡Puedo guiarla por\nla mayoría de las tiendas e instalaciones a menos\nde un paseo desde la academia!",
+      "choice_data_list": [
+        "¡Wow, eso es increíble!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ehehe... ¡Escuchar eso de usted me da un poco más\nde confianza!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Zenno Rob Roy se toma un momento para deleitarse\ncon la alegría mientras su autoconfianza crece un\npoco más."
+    }
+  ]
+}

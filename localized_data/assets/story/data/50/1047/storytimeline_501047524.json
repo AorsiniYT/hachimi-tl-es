@@ -1,0 +1,239 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Llevo a Zenno Rob Roy a un cafÉ-libro para\nrecompensarla por todo el esfuerzo que ha puesto\nen el entrenamiento."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡No tenía idea de que existiera un cafÉ como este\ntan cerca de la academia! Es encantador aquí... ¡y\nhay tantos libros!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Eh? ¿Esto no es...? ¡Ah! ¡Es! ¡Este es un libro\nfuera de imprenta que nunca pude leer! ¡Ah, y ese\ntambién!",
+      "choice_data_list": [
+        "Tomémonos nuestro tiempo y miremos alrededor."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Gracias! Uau... ¡qué emoción!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Guau…! ¡Así es! ¿El autor cambia pero es la misma\npersona? ¡Increíble que estén ordenados!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Con cuál empiezo a leer? Mmm, mmm, ¡mmm! ♪"
+    },
+    {
+      "name": "Rob Roy y Opera O",
+      "text": "La la laa! ♪"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Uau!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Jeje... Qué hermosa obertura. Esa no puede ser más\nque un lamento por el gran Soberano."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Y aquí estoy, ¡Rob Roy! Tu voz encantadora me\nllevó directamente hasta ti."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eh, hola, Opera O. ¿Viniste... también a leer?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Sí, buscando tema para ópera nueva! Yo, bajo el\nbosque de libros… ¡colaboración perfecta de saber\ny belleza!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Oídme ahora, semillas del deslumbrante escenario!\nBrotad con fuerza ahora, ¡para que renazca!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ah! Lo siento, es que... es tan increíble."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Es tan regia y radiante... como un personaje de\nun libro de cuentos!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Si mi meta es ser una heroína... entonces tendré\nque convertirme en como Opera O, ¿verdad?",
+      "choice_data_list": [
+        "(Me pregunto...)"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Jaja jaja jaja. ¿Esa es tu meta?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ah, ahora todo tiene sentido tras escuchar esas\npalabras. Estaba pensando en mí misma lo curioso\nque era ese pequeño cántico que estabas\ntarareando..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero estabas tarareando la canción \"Rob Roy\", ¿no?\nYa lo entiendo. No tiene más que ser que aspiras a\nser como el héroe popular Rob Roy MacGregor."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Ah? ¡También conoces esa canción! ¡Fue inspirada\nen una de mis novelas favoritas!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Mmm... Bueno, la verdad nunca he leído la novela\noriginal."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Es una... es una lástima tan grande! Sé que es un\nlibro viejo, pero..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Es una historia trepidante de heroísmo, rebosante\nde romance y conflicto! ¡Además puedes aprender\nmucho sobre la cultura y la historia de Escocia!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Es casi una historia modelo de resistencia, con su\nfascinante relato sobre un héroe de origen humilde\nque se enfrenta a la élite aristocrática y..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ah, no! Lo siento... Se me fue la mano y empecé a\ndivagar otra vez..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ai... Cuando empiezo a hablar de libros, siempre\npierdo la noción de todo lo demás.",
+      "choice_data_list": [
+        "Sigamos esto con una buena taza de té.",
+        "Debes amar mucho esa historia.",
+        "Debes amar mucho esa historia.",
+        "¿Por qué no le prestas el libro?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ai... Cuando empiezo a hablar de libros, siempre\npierdo la noción de todo lo demás.",
+      "choice_data_list": [
+        "Sigamos esto con una buena taza de té.",
+        "Debes amar mucho esa historia.",
+        "Debes amar mucho esa historia.",
+        "¿Por qué no le prestas el libro?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Les importaría si me uno?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Eh? N-no, ¡por supuesto que no! ¡Sería un honor\ntomar el té contigo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "No, no... sería <i>mi</i> honor sentarme con la gran\nheroína de los relatos. ¡Brindemos y aclamemos el\nburbujeante té!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "...¿Hmm? Espera un momento. El Soberano y el\nhéroe... ¡Qué tema fantástico para mi próxima\nópera!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡No hay tiempo que perder! Os pido disculpas, Rob\nRoy, pero tendré que aceptar tu oferta otra vez."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Eh? ¿Q-qué...?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Se ha ido... Me pregunto si hice algo mal..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "En pocas palabras, ¡eres la única apta para\ncompartir escenario conmigo en mi próxima obra!\nPor favor, préstame tus talentos, ¡brillante\nheroína amante de los libros!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Q-quieres que suba al escenario contigo?\n¡Realmente aprecio la oferta, pero no hay forma de\nque pueda...! ¡Simplemente no tengo lo que se\nnecesita!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con un guion nuevo en la mano, T.M. Opera O\npresiona a Zenno Rob Roy con pasión para obtener\nsu cooperación, lo cual preocupa bastante a esta\núltima."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Sí! Hay tantas sagas épicas allá afuera, pero\nesta es muy especial."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Fue donde todo comenzó para mí...! Por eso la\natesoro tanto."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Um... Disculpen que me entrometa, pero justo\nestuve escuchando su conversación..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Si no es mucha molestia, ¿podrían contarme un poco\nmás sobre ese libro del que hablaban?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Ah, yo también quiero saber más! Nunca he leído\nningún libro sobre héroes, pero siempre me han\nfascinado."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ah, con gusto! Um... pero ¿de verdad quieren que\nles hable de eso?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Vaya, vaya, es natural que seas la más popular en\nun cafÉ para amantes de los libros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Zenno Rob Roy responde a las preguntas de todos\nsonrojada. Su animada charla entre compañeros\namantes de los libros continúa durante un buen\nrato después de eso."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Um, puedo prestárselo en cuanto regrese a mi\nhabitación. Es... es realmente muy bueno, así que\nsi quieren probarlo, ¡con mucho gusto lo comparto!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Bravo! ¡Con mucho gusto! ¡Toda gran ópera\nnecesita una historia poderosa detrás!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Como agradecimiento, déjenme invitarlos a mi\nhabitación y mostrarles mi colección especial que\nme inspiró mis óperas. ¡Estoy segura de que hará\nvolar su corazón!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Uau! Um, ¡muchas gracias! ¡Qué lindo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Zenno Rob Roy brilla de felicidad mirando a T.M.\nOpera O. No puedo evitar sonreír también al ver\ncómo su amistad crece."
+    }
+  ]
+}

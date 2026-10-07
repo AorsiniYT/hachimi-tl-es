@@ -1,0 +1,468 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, Zenno Rob Roy y yo vamos a la pista a\nprepararnos para su carrera debut..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Charla, charla...</i>"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Oh? Qué extraño que esté tan lleno...",
+      "choice_data_list": [
+        "¿Vamos a ver de qué se trata?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al acercarnos a la multitud, vemos a varios\nreporteros en el centro. Están entrevistando a\nvarias estudiantes con cámaras y grabadoras."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Bueno, ¡ahora viene!... Oh? ¿Los estamos\nbloqueando? ¡Mil disculpas!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "Verán, al acercarse los clásicos, hemos estado\nentrevistando a las umamusume que correrán.",
+      "color_text_info_list": [
+        "clásicos"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿En serio? ¿Eso significa que ya hablaron con Kris\nS?",
+      "color_text_info_list": [
+        "Kris S"
+      ]
+    },
+    {
+      "name": "Reportera A",
+      "text": "Pero si es usted una dulzura. ¿Está entrenando\npara su debut, por casualidad?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "E... eh... bueno...",
+      "choice_data_list": [
+        "¡Sí! ¡Me llamo Zenno Rob Roy!"
+      ]
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Mucho gusto, Zenno Rob Roy! Si tiene un momento,\n¿le importaría responder algunas preguntas sobre\nsu próximo debut?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "E-eh, uhh... ¡C-Comandante!",
+      "choice_data_list": [
+        "Si usted está de acuerdo, entonces yo también."
+      ]
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Gracias! Ahora, Zenno Rob Roy, ¿qué tipo de\ncorredora le gustaría ser?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eh... b-bueno, y..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ee, esa es fácil. Quiero ser una he—"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Sí?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Quiero ser una corredora fuerte y saludable. Sí,\neso es lo que quiero ser..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Oh. ¿Solo saludable?",
+      "choice_data_list": [
+        "¿Rob Roy?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Lo siento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El reportero le hace unas cuantas preguntas más a\nZenno Rob Roy, pero ella no logra dar respuestas\nsustanciales."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Estoy... realmente arrepentida...",
+      "choice_data_list": [
+        "¿Qué pasó ahí atrás?",
+        "¿Qué pasó ahí atrás?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Bueno... eh... Intenté responder sinceramente...\nSolo que..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "No soy... muy interesante. No tengo ningún carisma\nni encanto para mantener la atención de nadie."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Así que si digo algo tan atrevido como querer\nconvertirme en un héroe... pues terminaré siendo\nmotivo de burla."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "En el momento en que me di cuenta de eso... empecé\na trabarme al hablar.",
+      "choice_data_list": [
+        "Rob Roy..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está muy baja de ánimo. Mientras intento\nconsolarla, miramos hacia la pista y vemos a otra\numamusume cerca."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah... Es Kris S."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Symboli Kris S es una estrella de la Twinkle\nSeries con un currículum impresionante. Ahora\nmismo parece que la están entrevistando.",
+      "color_text_info_list": [
+        "Symboli Kris S"
+      ]
+    },
+    {
+      "name": "Reportera A",
+      "text": "En otras palabras, correrá en el Derby justo\ndespués del Aoba Sho. ¿Está segura de que puede\nmanejar un calendario tan agobiante?",
+      "color_text_info_list": [
+        "Derby",
+        "Aoba Sho"
+      ]
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Sí."
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Haré lo que deba hacerse. Como siempre."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Entiendo... Así que aunque ningún ganador anterior\nhaya tomado una ruta así hacia el Derby..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Para usted este camino, e incluso el glorioso\nsueño de ganar el Derby en sí, no es más que una\ntarea que debe cumplir?"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Sí."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Ni siquiera estamos cerca.",
+      "choice_data_list": [
+        "¿Eh? ¿A qué te refieres?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Eh?! Oh, e-eh... Solo estaba pensando en lo\ndiferentes que son Kris S y yo."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Claro, yo... Sé lo atrevido que es compararme con\nella cuando está muy por encima de mi nivel. ¡"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Por eso no hablo solo de nuestra diferencia en\nexperiencia y habilidad. Solo quiero decir... a un\nnivel más fundamental..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "No puedo evitar preguntarme cómo podría llegar a\nser tan valiente y decidida como ella."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ninguno de los héroes que conozco titubea, se\ntraba al hablar o evade la mirada como yo."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ni siquiera puedo estar segura de mis propios\nobjetivos. Pero Kris S siempre tiene la mirada\nfija hacia adelante."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Quiero ser así también, pero no sé cómo...",
+      "choice_data_list": [
+        "Tendrás que descubrirlo tú misma.",
+        "Tendrás que descubrirlo tú misma."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Descubrirlo yo misma..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Tienes razón... Tengo que descubrir cómo logra\nmantener esa mentalidad."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Quiero aprender todo lo posible sobre mi heroína\npersonal."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eh, Kris S. Mañana por la mañana... p-puedo...\nacompañarla en su carrera de resistencia?"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "¿Hmm? ...No me opongo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Zenno Rob Roy empieza a unirse a los\nentrenamientos de Symboli Kris S."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "<i>Haa... Haa...</i> Ahhh... No puedo seguirla... Se va\nquedando cada vez más lejos."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(No tengo energía. Mi cuerpo no puede seguirle el\nritmo. Sé que simplemente es mejor que yo...)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Pero ¡nada de eso importa ahora!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Todavía tengo que saberlo!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Eh, Kris S. ¿Por qué corres tanto todos los\ndías?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Uhh, que no te malentendas! ¡Ya sé que estás\nentrenando para el Derby!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Nunca parece saltarse su carrera diaria de\nresistencia. Ni siquiera cuando llueve o tiene una\nsesión de entrenamiento de alta intensidad.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Cambiar tu horario un poco para descansar no\ndebería ser tan grave...)"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Autogestión."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "E... qué quieres decir?"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Un mes, ese es el período de ajuste que tengo\nentre el Aoba Sho y el Derby japonés."
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Debo mantener la disciplina y la constancia.\nCambiar el horario no es aceptable."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Eh? Pero qué hay de los días en los que\nlevantarse de la cama es demasiado difícil o\nquieres ir despacio?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Nunca te sientes totalmente agotada? Seguro que un\ndía de descanso no interrumpiría tu progreso..."
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "No. Mi plan de acción ya está definido."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Nada está en reconsideración... Realmente solo\nmira hacia adelante.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Entonces... Yo también lo haré."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Aunque sea solo entrenamiento de distancia! Te\nseguiré el ejemplo!"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Algunos días, Kris S pasa solo veinte minutos en\nla piscina. Porque eso es \"lo mejor para hoy\", o\neso dice.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Se necesitan veinticinco minutos solo para llegar\na la piscina, cambiarse y prepararse. Todo eso,\nsolo por una sesión de veinte minutos...)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(A las umamusume nos encanta correr por encima de\ntodo. Los entrenamientos largos fuera de la pista,\ncomo press de banca o usar las bicis, pueden\nponernos a prueba después de un tiempo.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Pero Kris S entrenará en las máquinas hasta que\nanochezca si así lo ha decidido.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(El entrenador también se sorprendió. Por lo\ngeneral, es trabajo del entrenador mantener alta\nla motivación de la atleta, pero con ella eso no\nes necesario.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Y cada vez que le pregunto cómo aguanta todo\nesto, o si el entrenamiento se le hace duro,\nsiempre tiene la misma respuesta.)"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "...Es simplemente lo que hay que hacer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los días pasan mientras Symboli Kris S sigue con\nsu régimen de preparación para el Derby."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Es increíble..."
+    },
+    {
+      "name": "Instructor veterano",
+      "text": "Bueno, si no es Rob Roy. Veo que Kris S también te\nha llamado la atención, ¿eh?"
+    },
+    {
+      "name": "Instructor veterano",
+      "text": "Realmente es especial. Hay varias razones por las\nque se dice que saltar del Aoba Sho al Derby es\nuna empresa difícil..."
+    },
+    {
+      "name": "Instructor veterano",
+      "text": "Pero uno de los factores más importantes es la\ndificultad de administrar tu progreso."
+    },
+    {
+      "name": "Instructor veterano",
+      "text": "Solo tiene un mes para recuperarse de cualquier\nfatiga acumulada de la carrera anterior, mientras\ntambién busca alcanzar su mejor condición a tiempo\npara el gran evento."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "..."
+    },
+    {
+      "name": "Instructor veterano",
+      "text": "Y aun así, nunca falla. Es difícil encontrar\ncorredoras con ese nivel de constancia."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Kris S está ahí parada como siempre, con la\nmirada fija hacia adelante. Pero entonces, por\nalguna razón, la veo dirigir sus ojos hacia mí.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Su mirada gélida parece preguntar: \"¿Y tú qué?\"\nLa presión es tan intensa que no puedo evitar\napartar la vista.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Siempre está inquebrantable. Todo le llega con\ntanta facilidad.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Excepto que eso nunca fue cierto.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Hasta que empecé a entrenar con ella, nunca soñé\nque pasaba tanto tiempo en la pista, todos y cada\nuno de los días.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Nunca faltando ni una sola sesión... Siempre\nhaciendo exactamente lo que hay que hacer, sin\nimportar lo frustrante o rutinario que sea.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Siempre pensé que las personas con una fuerza\ncomo la suya simplemente nacían así.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...He sido una tonta."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "<i>Haa... Haa...</i> ¡Haaaah!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...¡Lo logré! ¡Terminé!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Kris S... Yo—"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Esta vez lograste llegar hasta aquí."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Sí. Eh... Um, bueno, porque..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Era lo que había que hacer! ¡Y... seguí hasta que\nlo logré!"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Ya veo."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ehehe!"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "¿Cómo vas a regresar?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Eh?! Ah, cierto... ¡Se me había olvidado eso!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Mientras me affuro por resolver eso, Kris S\npermanece imperturbable, con la mirada fija\nfirmemente hacia adelante como siempre.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Sus ojos penetran como la punta de una hoja.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Parecen brillar con una radiante belleza, como\nuna espada desenvainada bajo la luz del sol de la\nmañana.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Yo también quiero eso.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Una espada mía propia, que señale sin dudar hacia\nadelante.)"
+    }
+  ]
+}

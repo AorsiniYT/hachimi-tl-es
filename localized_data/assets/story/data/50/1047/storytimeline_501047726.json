@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, cuando estaba de salida con Zenno Rob\nRoy..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Ah, esos peluches no se llaman Cuties o algo así?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rob Roy señala hacia una máquina tragapremios\nllena de peluches de Umamusume."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Seguro que si tuviera algunos en mi estante se\nvería más luminoso...",
+      "choice_data_list": [
+        "¿Quieres que intente ganarte algunos?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ay, no! No podrías pedirte eso...",
+      "choice_data_list": [
+        "¡No es problema! ¡Déjamelo a mí!",
+        "¡No es problema! ¡Déjamelo a mí!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿En serio... estás seguro?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "En ese caso... ¡Mucha suerte! ¡Te estoy apoyando!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡De ninguna manera puedo fallar ahora!"
+    }
+  ]
+}

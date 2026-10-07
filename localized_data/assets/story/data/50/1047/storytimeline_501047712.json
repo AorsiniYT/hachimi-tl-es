@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Zenno Rob Roy no ha aparecido para entrenar, así\nque salgo a buscarla. Al final, la encuentro en la\ncima de una colina."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Oh, Trainer! ¡Mira esta vista de la ciudad! La\ndisposición de los edificios, el parque... ¡se\ndistingue claramente!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Este debe ser el pueblo que inspiró el lugar de\nnacimiento del protagonista! Lo reconozco porque\nel entrenamiento de correr por el pueblo me dejó\nuna impresión muy fuerte.",
+      "choice_data_list": [
+        "Fue hora de <i>tu</i> entrenamiento, ya sabes.",
+        "Fue hora de <i>tu</i> entrenamiento, ya sabes."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Agh! L-lo siento mucho. No puedo creer que lo\nhaya olvidado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rob Roy está tan absorta en sus investigaciones\nque termina faltando al entrenamiento. La aviso\nque tenga más cuidado en el futuro."
+    }
+  ]
+}

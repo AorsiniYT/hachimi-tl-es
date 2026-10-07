@@ -1,0 +1,508 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día de invierno, Zenno Rob Roy y yo estamos\npaseando por el distrito comercial, cuando..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Oh no! ¡Ya es tan tarde! Lo siento por haberte\ntenido afuera tanto tiempo en mi salida de\ncompras...",
+      "choice_data_list": [
+        "No te preocupes por eso."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Pero realmente te lo debo. Incluso me ayudaste a\nencontrar el libro que quería comprar."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Jeje... Aunque, mientras íbamos de librería en\nlibrería, me distraje con algunos otros títulos."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...¿Eh? Mira hacia allá. Se está reuniendo\nbastante gente."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe, el segundo un\nfardo de zanahorias y el tercero una sola\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue un\nboleto ahora y gira para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, ¡un sorteo! Espera un momento. ¿No nos dio el\ndependiente de la librería un ticket para esto?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Un sorteo... una verdadera prueba de suerte...",
+      "choice_data_list": [
+        "¿Te interesa?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Yo, eeh, pues..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ya he tomado tanto de tu tiempo... ¡me sentiría\nculpable si te detengo un poco más!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Umm, pero... esto me hace preguntarme si un\nverdadero héroe necesita que la suerte esté de su\nlado.",
+      "choice_data_list": [
+        "¡Entonces ve a probar tu suerte!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿De-de verdad? ¿Estás segura? ¡Gracias!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Muy bien, ahí voy... Umm, ¡disculpe! Me gustaría\nusar mi ticket, por favor!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Muchas gracias! Bueno, ¡a darle una buena vuelta\na la máquina de la rifa!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Listo, estoy lista! ¡Fortuna, te pido que me\nconcedas tu favor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Rob Roy le da una poderosa vuelta a la máquina de\nla rifa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos a una ganadora del gran\npremio! ¡Ven a recoger tu boleto para tus\nvacaciones en manantiales termales!\n¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Espera... ¿De verdad..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡¿GANÉ?!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡A-aún no lo puedo creer! Pensé que si era con\nsegundo premio ya sería mucha suerte, pero... ¡el\nprimer premio!",
+      "choice_data_list": [
+        "¡La suerte es una cualidad de un verdadero héroe!\n¡Felicidades!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿En serio lo piensas así? Espero que sea verdad.\n¡Gracias!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Jeje, un viaje a aguas termales... Oye, ¿sabes\nalgo de leyendas sobre aguas termales?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Como el paisaje japonés está salpicado de\nvolcanes, alberga muchas aguas termales naturales\nque existen desde tiempos ancestrales."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Al igual que los edificios cargados de historia,\nmuchas de estas aguas termales están adornadas con\nsus propias leyendas y mitos!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Por ejemplo, hay una fuente termal descubierta por\nun shogun del período Heian, y otras aguas famosas\nse dice que sirvieron como baños para los propios\ndioses..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "<i>¡Ups!</i> ¡L-lo siento! Me emocioné y me pasé\nhablando, ¿verdad?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "En fin. Esta fuente termal por la que salió\nnuestro boleto podría tener su propia leyenda."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Así que... Quería decir que... Eeh..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿...te gustaría visitarla conmigo?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Digo, claro, tendría que ser después de que se\nafloje nuestro horario de la serie Twinkle...",
+      "choice_data_list": [
+        "¡Claro que sí! ¡Me encantaría!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿¡En serio?! ¡Sííí! ...Entonces, ¡es una promesa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez que terminemos este capítulo de su viaje\nde heroína, ¿no suena nada mal una escala termal\nde paso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por ahora, mejor redoblamos esfuerzos a partir de\nmañana. Así, cuando llegue el interludio,\n¡podremos disfrutar de las aguas termales como una\nmerecida recompensa!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Mira, saqué el primer premio!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ah... La dama fortuna me sonríe!",
+      "choice_data_list": [
+        "¡Felicidades!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Gracias! Ahora, sobre este exquisito bistec de\nhamburguesa con zanahoria..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eeh, ¿...aceptarías que te lo obsequie?",
+      "choice_data_list": [
+        "¿Ah, es que hay algo que no te gusta?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ah, no! Nada de eso."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Es que, verás... no soy muy dada a la comida, así\nque un platillo especial como este quizás se\nmalograría conmigo."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Digo... ¡Creo que al bistec de hamburguesa le\nharía más feliz que lo disfrutara alguien que sepa\nvalorarlo!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Así que si no es mucha molestia... ¡me gustaría\nque tú te lo lleves!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Al final resulto que me quedo con el exquisito\nbistec de hamburguesa con zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa noche, pienso qué hacer con el premio que\nZenno Rob Roy me regaló."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sería un delito que me lo comiera... pero no es\nalgo que yo haya ganado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy más feliz si ella puede saborear su\nrecompensa. ¡Lo meteré en una lonchera y se lo\ndaré mañana en la academia!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Aaah... Comer afuera en la azotea se siente muy\nespecial, ¿no crees?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Pero... ¿por qué querías comer aquí? Oye, que no\nte malinterpretes, me alegra mucho almorzar junto\na ti...",
+      "choice_data_list": [
+        "Preparé loncheras para los dos.",
+        "¡Preparé loncheras para los dos!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Q-qué? ¿Tú preparaste el almuerzo? ¿Tú mism@?!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿De verdad me la quieres dar? La verdad es que...\nsiento que sería medio desperdicio...",
+      "choice_data_list": [
+        "Lo hice especialmente para ti.",
+        "Lo hice especialmente para ti."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La verdad lo único que hice fue calentar el bistec\nde hamburguesa precocinado y agregarle algunos\nacompañamientos. Abro la caja y se la entrego."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Espera, ¿esto no es el bistec de hamburguesa con\nzanahoria deluxe de ayer?",
+      "choice_data_list": [
+        "Así es, es tu premio."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡W-wow! ¡Entonces... lo acepto!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "<i>Mmm, mmm...</i> ¿Mmm?!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Esto es... delicioso. ¡Mucho mejor que los bistecs\nde hamburguesa con zanahoria comunes!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Raro... Nunca me había fijado en diferencia entre\nalimentos costosos antes."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Por qué sabe tan bien?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(...¿Será que...?)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(¿Es porque el entrenador está aquí conmigo?)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Zenno Rob Roy disfruta con gusto del alimento que\nle preparé, y pasamos un gratificante descanso de\nalmuerzo juntos."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Wow! ¡El segundo premio también tiene muy buena\nsuerte!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Estoy radiante de alegría! Pero... ¡son tantos!\n¿Qué hago, entrenador? ¿Puedo compartir algunos\ncontigo?",
+      "choice_data_list": [
+        "Agradezco el gesto, pero..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que como ganó el premio, se merece\nquedárselos todos. Entonces se pone en pose\npensativa..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Hmm... Bien, podría compartirlos con todo el\ndormitorio o repartirlos con mi compañera de\ncuarto... Oootra opción..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ah! ¡Ya sé!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los ojos de Rob Roy brillan. Llevamos las\nzanahorias que ganó de vuelta a su dormitorio y\nterminamos la jornada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, ¡la mesa de mi oficina está\ncubierta de botanas hechas con zanahoria!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Jeje! ¡Todos estos son manjares que aparecen en\nmis historias favoritas!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Recordé que en la biblioteca hay un libro de\nrecetas que muestra cómo replicar comida de\nhistorias ficticias.",
+      "choice_data_list": [
+        "¡Eres increíble! No puedo creer que hayas hecho\ntodo esto."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "G-gracias. Pero, por supuesto, no lo hice toda\nsola..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Mi compañera de cuarto, Rice, se le da muy bien\ncocinar."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Así que recibí un poco... bueno, ¡muchísima\nayuda!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Oh, pero! ¡Sí puedo decir que están deliciosos!\n¡Por favor, prueba alguno!",
+      "choice_data_list": [
+        "¡Eso justo voy a hacer!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aplaudimos con emoción y luego alcanzo una de las\nbotanas que tiene un aspecto un tanto más rústico.\nSi mis sospechas son correctas..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Espera, ese es..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo como esperaba. Probablemente es uno de los\nque hizo Rob Roy."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eeh... ¿qué opinas?",
+      "choice_data_list": [
+        "¡Está muy rico!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah... ¡Qué alivio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por el resto del día, Zenno Rob Roy y yo comemos\nlas botanas de zanahoria con todas las umamusumes\nque pasan por mi oficina."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Oh, e-eh, ¡gracias!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Se ve bien. Pero, hmm...",
+      "choice_data_list": [
+        "¿Te decepciona un poco?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Oh, no, no es eso! Simplemente no cocino mucho\npor mi cuenta."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Así que no se me ocurren ideas de cómo\nprepararlo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Zenno Rob Roy y yo miramos la zanahoria en su mano\ny pensamos un momento. Podríamos ponerla en sopa\nde miso, asarla, o probar un montón de otras\ncosas. Pero, por otro lado...",
+      "choice_data_list": [
+        "Podríamos simplemente comerla a mordiscos mientras\nregresamos a la Academia."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Q-quieres decir comer mientras caminas?! ¿La\nzanahoria entera, cruda?! Eso..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Eso suena a lo que haría un forajido!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Bueno... ¡a comer se ha dicho!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Mm! ¡Deliciosa! Jeje, supongo que de vez en\ncuando es bastante divertido hacer algo salvaje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Zenno Rob Roy muerde la zanahoria mientras\nregresamos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras tanto, luciendo más atrevida que de\ncostumbre."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un boleto\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah... E-eh, gracias...",
+      "choice_data_list": [
+        "Eso fue un poco decepcionante."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Sí... Oh, pero, ¿sabes qué? ¡Incluso hay héroes\nfamosos por su mala suerte!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "El mejor ejemplo es un hombre de la mitología\ngermana que derrotó a un dragón maligno. Se bañó\nen la sangre del dragón para hacerse invulnerable,\npero..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Desafortunadamente, había una hoja pegada en su\nespalda, lo que le dejó un único punto débil."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Y ese punto débil finalmente terminó con su vida."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Oh no... Esto podría ser un mal presagio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Zenno Rob Roy se pone un poco desanimada."
+    }
+  ]
+}
