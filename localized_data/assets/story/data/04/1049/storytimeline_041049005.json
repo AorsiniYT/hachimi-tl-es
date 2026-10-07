@@ -1,0 +1,144 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, la profesora tutora de Nakayama Festa\nvisita mi oficina de repente."
+    },
+    {
+      "name": "Profesora de Tracen",
+      "text": "Ya veo... Entonces tampoco está aquí. Lo siento\npor molestarte mientras trabajas."
+    },
+    {
+      "name": "Profesora de Tracen",
+      "text": "<i>Suspiro,</i> ¿ahora qué? Si no entrega esa asignación\nesta semana, tendré que ponerle cero...",
+      "choice_data_list": [
+        "¡Yo te ayudo a buscarla!"
+      ]
+    },
+    {
+      "name": "Compañero de Clase A de Nakayama",
+      "text": "¿Dónde encontrar a Nakayama? Eh... No sé, nunca\nhablo realmente con ella."
+    },
+    {
+      "name": "Compañera de Clase B de Nakayama",
+      "text": "Ella tiene mala vibra, como que no deberías\nacercarte. Tipo, me llegó que literalmente la\ninterrogaron la policía el otro día...",
+      "choice_data_list": [
+        "¿Qué <i>qué?</i>"
+      ]
+    },
+    {
+      "name": "Compañera de Clase B de Nakayama",
+      "text": "Oh, eh... Uno de mis amigos estaba yendo a trotar\ny vio a Nakayama discutiendo con un policía junto\na la orilla del río."
+    },
+    {
+      "name": "Umamusume Delincuente",
+      "text": "¿Eh? ¿Cómo demonios voy a saberlo? No me importa\ndónde esté, pero <i>te juro,</i> si otra persona viene a\nlloriquear sobre Nakayama esta, Nakayama\naquella...",
+      "choice_data_list": [
+        "Espera, ¿alguien más la estaba buscando también?",
+        "Espera, ¿alguien más la estaba buscando también?"
+      ]
+    },
+    {
+      "name": "Chico Delincuente",
+      "text": "Sí, había un tipo preguntando por ella. Pero eso\nno es nada nuevo. Supongo que también te estafó,\n¿eh?",
+      "choice_data_list": [
+        "¿Te estafó a alguien? ¿Qué quieres decir?",
+        "¿Te estafó a alguien? ¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Umamusume Delincuente",
+      "text": "¿Eh? ¿Qué, si esto no se trata de alguna apuesta?\nMira, el tema de Nakayama es..."
+    },
+    {
+      "name": "Umamusume Delincuente",
+      "text": "Me dicen que es una estafa tremenda en el poker.\nBarajó a un montón de idiotas y ahora la están\nbuscando."
+    },
+    {
+      "name": "Umamusume Delincuente",
+      "text": "No sé qué pusieron sobre la mesa, pero la buscan\ncomo si les dependiera la vida. Ay. Quién sabe qué\npasará si la encuentran.",
+      "choice_data_list": [
+        "(No. Eso no suena bien. Nakayama no haría\ntrampa...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "De todos modos, si hay rumores, deben llevar a\nalgo. Con el tiempo. Ojalá... Pero he estado\nsiguiendo pistas sin mucha suerte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "He estado buscando por todas partes desde hace\naños, pero todo lo que he conseguido son más\nrumores hablando mal de Nakayama. Es solo que me\ncuesta creerlos, conociendo cómo—",
+      "choice_data_list": [
+        "Espera... ¿Nakayama?!"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Mm? Ah, Trainer. Te ves hecho un desastre. ¿Qué\npasó?",
+      "choice_data_list": [
+        "Bueno..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico la cadena de eventos: escuchar sobre la\nasignación de su profesora, preguntar a sus\ncompañeros dónde podría estar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su discusión con la policía, los rumores de que\nhacía trampa en el poker, y todas las otras cosas\nmalas que escuché sobre ella dentro y fuera del\ncampus."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Jajajaja. Me alejo un ratito y de pronto todos se\nponen a inventar historias divertidas."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No hace falta decirlo, pero nada de eso es cierto.\n¿De verdad creyeron que haría trampa? Qué\nidiota... ¿Qué emoción tiene un juego amañado?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Supongo que el que anda inventando rumores debe\nestar tratando de taparse el trasero. Perdieron y\nahora se inventan excusas para llamarme la mala."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al escuchar eso, tiene sentido. Con todas las\ncompetencias arriesgadas que acepta, seguro hay\nalgunos perdedores rencorosos. No puedo dejar que\nme asusten. Soy su entrenador, así que...",
+      "choice_data_list": [
+        "Si las cosas se ponen feas, aquí estaré para\nprotegerte.",
+        "Si las cosas se ponen feas, aquí estaré para\nprotegerte."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Ah, sí? Vas muy alegre con eso. Hay muchas\nposibilidades de que los que andan tras de mí\nterminen tras de ti.",
+      "choice_data_list": [
+        "Entonces aprieto los dientes. Estoy en esto\ncontigo, sea cual sea el resultado.",
+        "Entonces aprieto los dientes. Estoy en esto\ncontigo, sea cual sea el resultado."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Hmm? Sea cual sea el resultado, ¿eh? Je. Supongo\nque puedes decir lo que quieras."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Solo no te pases de la raya. Recuerda que eres mi\n<i>entrenador,</i> ¿no?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "En mi opinión, las carreras son lo que de verdad\nimporta. No voy a permitirme diversión barata que\npueda ponerlas en peligro."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Mientras entiendas eso, no me importa lo que\npiense nadie. ¿Trato?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ahora, bajemos un poco el ritmo... entre los dos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo en ella, como siempre. Pero... esta situación\nentera me ha dejado claro que aún no la conozco\ntan bien como debería."
+    }
+  ]
+}
