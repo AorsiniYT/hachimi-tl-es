@@ -1,0 +1,289 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente de nuestra visita a la pista,\nestoy en la biblioteca con Rob Roy buscando\ninformación útil. De pronto recuerdo la charla que\ntuve con su instructora.",
+      "choice_data_list": [
+        "Oye, ¿vas a participar en el Tracen Meet, verdad?",
+        "Oye, ¿vas a participar en el Tracen Meet, verdad?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Eh? Uh, ¡sí! Me sorprende que lo supieras..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para aclarar, le explico cómo surgió el tema\ncuando hablé con su instructora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Tracen Meet es una carrera escolar que se\nrealiza en el campus. Algunos estudiantes lo toman\ncomo meta de entrenamiento.",
+      "choice_data_list": [
+        "¡Mucha suerte! ¡Allí te estaré apoyando!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Cierto... Gracias... supongo..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Oh, quiero decir, ¡no es que esté mal que vengas!\nLo siento, es que... mi forma de correr no es para\ntanto."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Así que... si vienes a verme correr, es posible\nque ni me destaque lo suficiente para que me\nveas... Al menos eso siento."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Pero si hablaste con mi instructora... entonces...\ndebiste haberlo oído. Sabes lo mal que he estado\nrendiendo.",
+      "choice_data_list": [
+        "Lo siento, no quería entrometerte."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡No es eso! Estoy agradecida por tu interés en mí.\nY no puedo negar que mi falta de progreso me ha\ntenido un poco preocupada... Jeje..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Yo... nunca he destacado por algo en particular.\nLo único que realmente disfruto es leer, y siempre\nhe sido... increíblemente normal."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Siendo honesta, me he acostumbrado a pasar\ndesapercibida. Así que cuando alguien intenta\nprestarme atención, me siento... cohibida."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Terminó pensando: \"¡Tengo que asegurarme de no\nhacer el ridículo!\" Seguro que me esforzaría al\nmáximo... hasta lesionarme otra vez."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Cuando me comparo con los héroes de mis libros,\nque captan la atención tan naturalmente como\nrespirar... la diferencia es tan abismal que solo\npuedo reír."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Es patético... No correspondo ni un ápice a mi\nnombre.",
+      "choice_data_list": [
+        "¿Mi nombre?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Sí... Um, déjame enseñarte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se dirige a un estante cercano y, sin buscar ni un\nmomento, saca un cierto libro."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "<i>Rob Roy...</i> Ese es el título de este libro.\nComparto el nombre del héroe de esta novela."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Es la historia de un héroe clásico del folclore.\nUn alma valiente y honrada que lucha contra los\nfuertes para proteger a los débiles. Ahh... No\npodría ser más diferente.",
+      "choice_data_list": [
+        "Rob Roy..."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ajaja... ja... Lo siento... ¡Creo que debo irme a\ncasa ahora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Intento seguirla, pero por supuesto, no tengo\nchance de alcanzar a un Umamusume. Así, ya se\nfue...",
+      "choice_data_list": [
+        "(Mmm, si yo fuera ella, ¿a dónde iría?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un lugar específico se me viene a la mente tras\nunos segundos. Extrañamente seguro de su\nubicación, salgo corriendo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El campo de entrenamiento... Al llegar, diviso una\nfigura solitaria observando la pista a lo lejos.\nSabía que estaría aquí.",
+      "choice_data_list": [
+        "¡Rob Roy!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Hm? ¿Qué? ¡Entrenador! ¿Cómo me encontraste?",
+      "choice_data_list": [
+        "No pensé que te fueras directo a casa después de\neso."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Pero surely ese sería el lugar más natural al que\nir!",
+      "choice_data_list": [
+        "Ni lo creas. No eres de las que se rinden tan\nfácil.",
+        "Ni lo creas. No eres de las que se rinden tan\nfácil."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Saqué la libreta que encontré ayer. Muestra la\ntrayectoria de sus luchas: cada ensayo y error. Es\nprueba de que Rob Roy no puede darse por vencida."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, eso... Espera, no me digas... ¿lo leíste?",
+      "choice_data_list": [
+        "Bueno... tenía que encontrar a sudueño, así que..."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah... ajaja... Debo parecer una tonta. Actuar como\nsi me hubiera rendido, cuando estaba escribiendo\ntodo eso en mi libreta."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Como si alguna vez llegara a algo... Lamento que\nhayas tenido que ver eso. Por favor, solo...\ntíralo a la basura o algo así.",
+      "choice_data_list": [
+        "No voy a tirar esto."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah... V- verdad, claro que no, perdona. Aquí, yo\nme encargo de desecharla.",
+      "choice_data_list": [
+        "Solo necesito asegurarme."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿De... qué?",
+      "choice_data_list": [
+        "Rob Roy... ¿cuál es tu sueño?",
+        "Rob Roy... ¿cuál es tu sueño?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ahh! Uh... Bueno, es que... ¡tú no te reirás,\nverdad?",
+      "choice_data_list": [
+        "No me reiré. Te lo prometo."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Lo que... lo que realmente quiero... lo que\nsiempre he querido... es ser un héroe."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Habla como si me confiara su secreto más oscuro, y\nal mismo tiempo revelara un tesoro frágil."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Yo, um, aún no he debutado... y no tengo\nresultados que mostrar. No tengo ni una sola\npersona viendo mi progreso..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Pero incluso considerando todo eso... aún quiero\naferrarme a mi sueño de convertirse en un héroe.",
+      "choice_data_list": [
+        "Es un gran sueño.",
+        "Ese es un gran sueño."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo lo que ha hecho, desde unirse a mi búsqueda\nde héroes, hasta observar meticulosamente el\nentrenamiento de sus compañeras, ¡y huir a este\nlugar específico...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo eso demuestra que Zenno Rob Roy nunca ha\nrenunciado a su sueño de convertirse en heroína."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Pero... no lo es. Es un sueño terrible y\ncompletamente absurdo."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Hay muchos otros estudiantes, ya sean entre mis\ncompañeros, mis seniores o <i>mis</i> junior, que son\nsuficientemente grandes como para merecer ser\nllamados héroes."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Y cada uno tiene sus propios sueños increíbles que\nllevan en sus historias... ¡como proteger el\norgullo de su familia o traer alegría a todos los\nque los ven!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Yo no tengo un sueño como ese. ¡Todo lo que quiero\nes destacar un poco, que la gente me note!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Pero no tengo una historia! ¡Nunca seré más que\nun personaje secundario!",
+      "choice_data_list": [
+        "...Pero aún quieres convertirte en heroína,\n¿verdad?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...¡Sí!",
+      "choice_data_list": [
+        "Déjame usar tu cuaderno un momento.",
+        "Déjame usar tu cuaderno un momento."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿P-por qué?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "saco un marcador de mi bolso, pero no abro el\ncuaderno. Solo necesito la portada."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eh, eh, ¿qué estás haciendo con eso? Eh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo toma un momento y termino. Me vuelvo hacia\nRob Roy... y le entrego lo que antes era su\ncuaderno."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "\"La crónica de Zenno Rob Roy\"...",
+      "choice_data_list": [
+        "¡Esa es la historia que quiero leer!",
+        "¡Esa es la historia que quiero leer!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Eh...? ¿Qué?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay nada más seguro que un sueño imborrable.\nMientras siga intentándolo, estoy seguro de que se\nhará realidad... No, ¡haré que se haga realidad!",
+      "choice_data_list": [
+        "Quiero ayudarte con tu entrenamiento.",
+        "Quiero ayudarte con tu entrenamiento."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Pero... soy tan débil y carente de talento...\nPodría decepcionar tus expectativas. ¿Estás...\nabsolutamente seguro?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le doy un asentimiento seguro. La búsqueda de mi\nheroína está pausada por ahora. Lo que quiero\naveriguar a continuación es cómo se desarrollará\n<i>su</i> historia."
+    }
+  ]
+}

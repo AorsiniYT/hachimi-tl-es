@@ -1,0 +1,254 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Durante nuestros últimos días de campamento de\nverano, Zenno Rob Roy entrena con diligencia bajo\nel sol abrasador."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Phew..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al exhalar profundamente, me pregunto si la fatiga\nde estos últimos días está pasándole factura. Si\nese es el caso...",
+      "choice_data_list": [
+        "Tomémonos la tarde libre."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ah...! Lo siento, fue solo un suspiro... Pero\nestoy bien. Puedo seguir—",
+      "choice_data_list": [
+        "Fíjate esto."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah... Mis tiempos... Empeoraron más de lo que\npensaba."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su equilibrio ha empezado a fallar al impulsarse,\nlo que da tiempos erráticos incluso en ejercicios\nbásicos de carrera."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eh, pero en serio, no estoy cansada. Todavía tengo\nmucha energía, así que—",
+      "choice_data_list": [
+        "Incluso los héroes descansan de vez en cuando,\n¿verdad?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Entrenador?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Sí... tienes razón. De vez en cuando hay que\nrecargar energías."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero tiene sentido; esta cantidad de entrenamiento\nno debería ser demasiado. Quizá su cansancio sea\nmás bien de tipo mental."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me acuerdo de algo que escuché de los lugareños.\nAl parecer hay un lugar espectacular cerca para\nver los fuegos artificiales.",
+      "choice_data_list": [
+        "Me pregunto si eso ayudará..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los fuegos artificiales son esta noche. Debería ir\na inspeccionar el lugar con anticipación."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Dónde habrá ido el entrenador? No he tenido\nsuerte buscando en las habitaciones..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Quería explicarle que mañana lo haría mejor...\nHoy no me concentré tan bien como debería.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(La mente me estaba distraída todo el tiempo...\npor cómo podría estar forzando al entrenador a\nvivir según mi visión idealizada.)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(El entrenador es considerado y se esfuerza. Eso\nes muy cierto, y debería bastar... El entrenador\nya es una persona maravillosa, pero yo...)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Asumí cosas... y dije cosas que no debía. ¿Y si\nel entrenador está intentando convertirse en otra\npersona por mi culpa?)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Tampoco está aquí..."
+    },
+    {
+      "name": "Colega del Entrenador",
+      "text": "Ah, eres el pupilo de mi compañero, ¿no? Qué raro,\npero se olvidó el teléfono en la cafetería, así\nque nadie puede contactarlo."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Colega del Entrenador",
+      "text": "Alguien dijo que lo vio aventurarse hacia las\nmontañas, pero no puede ser, ¿verdad? No hay razón\npara irse así nomás."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿A-a las montañas, dices? Pero ya está oscuro. Oh\nno... Si es verdad, entonces quizá en este preciso\nmomento..."
+    },
+    {
+      "name": "Trainer",
+      "text": "<i>Haa... Haa...</i> Si puedo cruzar este puente de\ncuerdas... ¡Lograré regresar con Zenno Rob Roy!"
+    },
+    {
+      "name": "Trainer",
+      "text": "¡Ugh! Oh no, estoy perdiendo el equilibrio!\n¡Aaaaagh!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡No, entrenador! Ugh, ¿qué hago?!"
+    },
+    {
+      "name": "Colega del Entrenador",
+      "text": "Ah espera, lo siento. Anda, a lo mejor solo se\nquedó dormido en alguna parte. Ya sabes cómo es tu\nentrenador: siempre despierto hasta tarde\nrepasando tus carreras."
+    },
+    {
+      "name": "Colega del Entrenador",
+      "text": "A lo mejor se inspiró con ese manga que le presté.\nLa verdad está bastante bueno."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eh, ¿dijiste manga? ¿Te refieres a... esos tomos\nenormes, tan gruesos como libros de texto?"
+    },
+    {
+      "name": "Colega del Entrenador",
+      "text": "¡Esos mismos! Sí, es una serie educativa: toda\nsobre entrenamiento, cuidados médicos, ese tipo de\ncosas. Pero presentados como un manga para hacerlo\nmás fácil de leer, ¿sabes?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿De entrenamiento y cuidados médicos?"
+    },
+    {
+      "name": "Colega del Entrenador",
+      "text": "Ah, cielos, y tu entrenador estaba hablando de\nunirse a un gimnasio. Algo sobre probar métodos de\nentrenamiento nuevos ahí antes de aplicarlos en\ntus rutinas."
+    },
+    {
+      "name": "Colega del Entrenador",
+      "text": "Tu entrenador se compromete a tope cuando se trata\nde ti. Es admirable."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "<i>Haa... Haa...</i> Sigue sin haber nada... ¡Entrenador!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...No, está bien. Todo está bien. El entrenador es\nun adulto capaz de manejar cualquier cosa."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Y nos prometimos. Tenemos que terminar mi crónica\nheroica juntos. Así que... así que estoy segura de\nque...)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Así es. Esta vez no estoy imponiendo\nsuposiciones. Estoy segura de que... porque...)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Nosotros confiamos el uno en el otro!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Entrenador, entrenaaa! ¡Por favor, responde,\nentrenador!",
+      "choice_data_list": [
+        "...¿Rob Roy?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Ah! ...¡Entrenador!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Qué alivio! ¡Al fin te encontré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Zenno Rob Roy está de pie sobre mí con una\nexpresión preocupada... Parece que me cansé\ncaminando hasta aquí y terminé quedándome dormido.",
+      "choice_data_list": [
+        "Lo siento por preocuparte."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vine aquí esperando alegrarla, pero al final solo\nle causé sufrimiento.",
+      "choice_data_list": [
+        "Supongo que todavía estoy lejos de tu ideal.",
+        "Supongo que todavía estoy lejos de tu ideal."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...¡Eso no es cierto! Entrenador, estás perfecto\ntal como eres. No debí haber dicho lo que dije...",
+      "choice_data_list": [
+        "Ahora casi es mi sueño convertirme en lo que\nesperas.",
+        "Ahora casi es mi sueño convertirme en lo que\nesperas."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Eh? ¿Qué? ¿¡Qué!?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Lo que... lo que espero... ¿¡En serio!? Pero eso\nes... ¡E-espera... Debo calmarme!)"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "<i>Inhala, exhala...</i> Así que, eh... Um, entrenador...\n¿qué estabas haciendo aquí?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de preocuparla así, solo debo decirlo. Le\nexplico sobre los fuegos artificiales y cómo\nquería mostrarle un espectáculo hermoso para\nanimarla.",
+      "choice_data_list": [
+        "Quería hacerte feliz. Eso es todo..."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah... Pero fue por mi culpa—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una explosión de fuegos artificiales corta\nabruptamente sus palabras. Entre el sonido\nenvolvente, ella vuelve a abrir la boca para\nhablar."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "No. Tú... lo hiciste para ayudarme, ¿verdad? Eso\nes... quién eres, entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por un breve instante, el cielo se calma, y las\nolas acogedoras llegan a nuestros oídos. Zenno Rob\nRoy comienza a sonreír suavemente."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Entrenador, ya eres mi persona ideal. Eres amable,\ntrabajadora y..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eres un compañero indispensable para un héroe...\nEres una persona generosa que siempre quiero\ncuidar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El último fuego artificial se eleva e ilumina el\ncielo, pintando el rostro de Rob Roy con colores\ndeslumbrantes."
+    }
+  ]
+}
