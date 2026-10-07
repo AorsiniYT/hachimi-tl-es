@@ -1,0 +1,206 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de torcerme el tobillo durante el\nentrenamiento con <chrname>, termino en el hospital\npara un chequeo..."
+    },
+    {
+      "name": "Orthopedist",
+      "text": "Esguince leve. Descanso dos o tres días y la\nalumna entrena por su cuenta."
+    },
+    {
+      "name": "???",
+      "text": "...Eh, ¿está bien?"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Disculpe la intromisión. Pasaba caminando y noté\nque estaba bastante decaído... Si ayuda, ¿quiere\nhablar de ello en el camino de regreso? Estoy\nlista para escuchar."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Ya veo, así que está preocupado por su entrenada\nmientras se recupera. Tiene sentido...\ndefinitivamente no es una situación fácil para un\nentrenador como usted.",
+      "choice_data_list": [
+        "¿Cree que estaría bien si me uno al entrenamiento\nsolo un ratito?"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "No se adelante ahora."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Lo que necesita es descansar. Mientras tanto,\nmanténgase positiva y comience a planear un\nrégimen de entrenamiento para cuando se recupere\ncompletamente."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "¡Mientras mantenga el ánimo alto, su cuerpo\nsepondrá al día rápidamente, le doy mi garantía!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Laurel siempre tuvo piernas débiles desde\nniña y fue rezagada, pero escuché que logró\nascender con esfuerzo.",
+      "choice_data_list": [
+        "Es reconfortante saberlo de su parte.",
+        "Es reconfortante saberlo de su parte."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Sí, lo sé por experiencia. La ansiedad por\nrezagar, la frustración aguantando, y… que el\nesfuerzo eleva."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Y cuando mi determinación flaqueaba, la música me\ndaba el coraje para seguir.",
+      "choice_data_list": [
+        "¿La música?"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Bueno, más específicamente, una canción. La\nsolíamos cantar en mi antiguo club de carrera. Es\nuna canción alegre y motivadora, y podría\nfuncionar contigo también."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"¡Sé que las flores de cerezo florecerán... ♪\"",
+      "choice_data_list": [
+        "(Tiene una voz tan reconfortante al cantar...)"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Jajaja! Pensé que escuchaba una canción conocida,\ny ¿quién resulta ser sino la mismа Laurel?"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "¡Baku, Chiyo, qué bueno verlas!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Esa canción me recuerda a nuestros días en el\nclub de carrera! Corríamos y cantábamos juntas\ntodo el tiempo..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Así es! Yo misma tarareo esta melodía cada vez\nque necesito Bakushin como nunca antes\nBakushinado. ¡Bakushin genial!"
+    },
+    {
+      "name": "In Unison",
+      "text": "\"¡Adelante hacia la victoria! ¡Siempre mantén la\ncabeza alta! ♪ ¡Apunta a la victoria! ¡Con\ndeterminación y fortaleza! ♪\"",
+      "choice_data_list": [
+        "Gracias, me siento un poco mejor ahora."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Jeje, me alegra escucharlo. Cuando solo podía ver\ncómo otros corrían, estas dos venían a cantar\nconmigo."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Amaba cantar con todos los miembros del Victory\nClub. Y todavía lo hago.",
+      "choice_data_list": [
+        "Suena como un gran lugar.",
+        "Suena como un gran lugar.",
+        "¡Ahora quiero ver su concierto de la victoria!"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Amaba cantar con todos los miembros del Victory\nClub. Y todavía lo hago.",
+      "choice_data_list": [
+        "Suena como un gran lugar.",
+        "Suena como un gran lugar.",
+        "¡Ahora quiero ver su concierto de la victoria!"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Sí, lo era. Éramos muy unidas y hacíamos todo tipo\nde travesuras..."
+    },
+    {
+      "name": "Miembros del club",
+      "text": "¡A sus marcas! ¡Listas, listo!"
+    },
+    {
+      "name": "Laurel Joven",
+      "text": "..."
+    },
+    {
+      "name": "Joven Chiyono O",
+      "text": "¡Ah! ¡Ahí estás, Laurel! ¡Se me ocurrió un nuevo\ndicho! ¿Quieres escucharlo?"
+    },
+    {
+      "name": "Joven Bakushin O",
+      "text": "¡Yo también inventé un nuevo dicho! ¡No, un\nsuper-ultra Bakushin dicho! ¡Sí!"
+    },
+    {
+      "name": "Laurel Joven",
+      "text": "...Jeje, siguen igual de emocionadas que siempre.\n¡Quiero escucharlas a ambas! ♪"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Gracias a que Baku y Chiyo siempre estuvieron ahí\npara mí, nunca me sentí realmente decaída."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Ese soy yo quien lo dice! ¡Verla superar sus\nproblemas, por difíciles que fueran, siempre me\ninspiró a trabajar duro también!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Laurel, ¡barruntaste más allá de cada obstáculo\ncon una actitud positiva! ¡Eres el orgullo del\nClub Victory! Por supuesto, ¡yo también me siento\norgullosa de ti!"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "En aquel entonces, quería correr tan rápido como\nustedes dos. Por eso me siento tan afortunada de\npoder correr ahora junto a todos.",
+      "choice_data_list": [
+        "Te mereces al menos esto.",
+        "Te mereces al menos esto."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Gracias. Entonces, Entrenador, no hay prisa...\nmientras no pierdas el corazón y sigas avanzando,\nestoy segura de que los resultados llegarán solos."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Tú y tu entrenada florecerán hermosamente algún\ndía."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con las reconfortantes palabras de Sakura Laurel\nfrescas en mi mente, regreso a la academia\nsintiéndome positiva y recargada de energía."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "¡Voy a tener que ganar montones de carreras y\nmostrarte un montón de conciertos de victoria! ♪"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Wow, en serio? ¡No puedo esperar! ¡Iré a animarte\nen cada carrera!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Cuenta conmigo! ¡Llevaremos el cántico de aliento\ndel Club Victory a tus carreras!"
+    },
+    {
+      "name": "In Unison",
+      "text": "\"¡Sobrepasa la adversidad y conquista la gloria!\n¡Eso es! ¡Somos Victory! ♪\"",
+      "choice_data_list": [
+        "Qué canción tan bonita.",
+        "Qué canción tan bonita."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "¿Verdad? Es una canción que me es muy querida,\nllena de recuerdos."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "¡Ah, se me olvidaba! Entrenador, ¿quieres aprender\na cantarla conmigo? Ya sabes, ¡podría darte un\nnuevo jolgorio!",
+      "choice_data_list": [
+        "¡Claro, por qué no!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los acompañé tarareando un rato, antes de regresar\na la academia con el ánimo por las nubes."
+    }
+  ]
+}
