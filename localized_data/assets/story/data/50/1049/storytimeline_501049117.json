@@ -1,0 +1,557 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "El Condor Pasa",
+      "text": "..."
+    },
+    {
+      "name": "VR Umalator",
+      "text": "Iniciando encendido. Por favor ingresa los datos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Bip, bip, bip...</i>"
+    },
+    {
+      "name": "VR Umalator",
+      "text": "Iniciando simulación. Prix de l'Arc de Triomphe.\nEl paddock."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Fiuuu..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡El! ¡Perdona por hacerte esperar! ¿De qué querías\nhablar?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Oh, Spe!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Te puedo pedir un favor?"
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Ay... Entonces, El Condor Pasa está actuando como\ntu coach?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Así es. Por eso..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Mejórate, para que cuando llegue el momento puedas\nsubirte a un avión. Quieres verme correr en\npersona, ¿verdad?"
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Bueno... Je, je. Qué motivación más fuerte me das."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "En ese caso, ven a verme también en el Takarazuka\nKinen. Salta la rehabilitación si hace falta."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Y..."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Festa?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Teach, has vivido más de un año desde entonces."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Por eso sé que vas a vivir aún más tiempo. Podrás\nverme correr en el Prix de l'Arc de Triomphe."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "...Gracias, Festa."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Asegúrate... de que tú también vivas la vida al\nmáximo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Estaré bien."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Tengo muchas ganas de poder mostrarte el mundo,\nTeach."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Reservamos el último tramo del curso. Confirmando\ncon el jardinero, mojamos el césped con manguera\nsin afectar el día siguiente."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Otra de tus ideas locas, ¿eh? Esto está bastante\nempapado.",
+      "choice_data_list": [
+        "Hice mi mejor esfuerzo para ablandar la\nsuperficie."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ja, ya veo. Después de todo, el Arc suele tener\nmucha lluvia."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Entonces este entrenamiento es para prepararme\nante malas condiciones de pista el día de la\ncarrera?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Hm. Sí, se siente bastante embarrada, la verdad.",
+      "choice_data_list": [
+        "Recuerda, el Arc será completamente distinto aún.",
+        "Recuerda, el Arc será completamente distinto aún."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Esto es suficiente considerando nuestras\ncapacidades.",
+      "choice_data_list": [
+        "¿Pero «suficiente» alcanzará, realmente?",
+        "¿Pero «suficiente» alcanzará, realmente?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Quiero decir... solo se puede hacer tanto como se\npueda."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Haremos lo mejor con lo que tenemos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nakayama Festa y yo estamos llenando el formulario\nde inscripción para el Prix de l'Arc de Triomphe.",
+      "choice_data_list": [
+        "(Esto va a ser grande.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No es exageración decir que esta carrera podría\ncambiar la vida de Nakayama Festa."
+    },
+    {
+      "name": "Entrevistador",
+      "text": "¿Qué? ¿Te retiras? ¡Llegaste al Arc, que debería\nhaber sido el comienzo de un capítulo\ncompletamente nuevo en tu carrera!"
+    },
+    {
+      "name": "Corredor de Arc",
+      "text": "Este es un lugar de aspiración y anhelo, un\nescenario ideal para trazar el capítulo final."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "¡Todo termina en el momento en que pierdes tu\nespíritu de lucha! Después de eso, ¡solo te\npisotearán bajo el peso de los fuertes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No le di mucha importancia a lo que Sirius Symboli\nme dijo entonces. Pero ahora..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Oye. Oooy. Trainer, ¿estás ahí?",
+      "choice_data_list": [
+        "¡L-lo siento! Solo falta enviar el formulario,\n¿no?",
+        "¡L-lo siento! Solo falta enviar el formulario,\n¿no?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Por favor espera!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Hmm? ¿El?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Qué pasa? Podemos encargarnos de entregar los\nformularios nosotras mis—"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Un año!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Dame un año del tiempo de Nakayama!",
+      "choice_data_list": [
+        "¿Un año?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Sí. Si entras al Prix de l'Arc de Triomphe como\nestás ahora, ¡no tomarás el primer lugar!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Huh?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "No me malinterpretes. En este momento, eres lo\nsuficientemente fuerte para obtener un buen\nresultado."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero un <i>buen resultado</i> es lo máximo que\nconseguirás. No podrás ganar."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Espera, El. ¿Qué demonios?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Yo no pude brillar en el escenario mundial. ¡Nadie\nsabe mejor que yo cuán alto es el listón!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No estás lista! ¡Ni siquiera has experimentado de\nverdad una carrera de nivel mundial!",
+      "choice_data_list": [
+        "¿Una carrera de nivel mundial?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero yo me encargaré de que tengas esa\nexperiencia."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Déjalo en mis manos y las de Spe. Te tenemos\ncubierta."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Nos hemos enfrentado a todo tipo de leyendas del\nextranjero. Danos el tiempo para recuperar nuestro\nantiguo esplendor."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Confía en mí. Un año pasará en un abrir y cerrar\nde ojos. ¡Lo digo en serio, muy en serio!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Así que por favor, ¡danos un poco más de tu\ntiempo! ¡Juro que no te arrepentirás!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Nuestras fortalezas, nuestras frustraciones,\nnuestras esperanzas, todo... dejemos que lo\nconfiemos a ti!",
+      "choice_data_list": [
+        "¿Es que ustedes dos van a desafiarlo en una\ncarrera?",
+        "¿Es que ustedes dos van a desafiarlo en una\ncarrera?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Por favor."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Solo sé que Nakayama es capaz de llegar a ese\nlugar más allá de nuestros sueños."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Quiero que corre contra Spe en el Takarazuka Kinen\ny yo en el Japan Cup."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¡Qué va a ser eso! No podemos cambiar nuestro\ncalendario con tan poco aviso."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Entrenador, me entiende, ¿no es así?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Después de todo lo que ha hecho, se ha dado\ncuenta, ¿verdad?",
+      "choice_data_list": [
+        "¿Me he dado cuenta...?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "(No hay forma de entrenar para esto en el campo de\nla academia.)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta ha sido la vigésima solicitud más o menos que\nme han rechazado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuanto más aprendo, más lejanos parecen nuestros\nobjetivos."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Esto es suficiente considerando lo que somos\ncapaces de hacer."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "No sabrás lo que realmente importa sin la\nexperiencia y el conocimiento necesarios."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero ahora lo entiendes, ¿no?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Nada ha sido suficiente: tu técnica, tu\nexperiencia, tus contactos, ni siquiera tu tiempo\nde preparación.",
+      "choice_data_list": [
+        "(Lo sé...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No... solo empecé a darme cuenta cuando El Condor\nPasa comenzó a entrenarnos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero algo que temía me impedía reconocerlo\nabiertamente."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No... tiene que ser ahora."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Si no lo hago ahora, ¡el Profesor podría no\naguantar! ¡Podría no sobrevivir hasta el próximo\naño!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Entonces no le importa perder?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡La distancia entre nosotros y la escena\ninternacional es inmensa! ¡Ninguna excusa va a\ncambiar eso!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Sé lo que quieres! Sé que quieres darle la mayor\nesperanza a todos. Sé que quieres ganar a toda\ncosta."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero aún así... todavía..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "El de verdad confía en ti. Por eso está haciendo\ntodo esto para ayudarte."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "A veces te dice las cosas en crudo, sin ningún\nfiltro. Cuando lo hace, por favor toma sus\npalabras en serio. No es por maldad, sino por\nesperanza."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Quería despedirme con una sonrisa... y decirte que\npuedes hacerlo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las piernas de El Condor Pasa tiemblan\nligeramente."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero cuando se me hizo claro, simplemente no podía\ndejarlo pasar.",
+      "choice_data_list": [
+        "...Perdóname por hacerte decir todo esto.",
+        "...Perdóname por hacerte decir todo esto."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "...",
+      "choice_data_list": [
+        "Lo aprecio. Eso no debió ser fácil."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "La decisión final no me corresponde a mí. Esa\nresponsabilidad recae sobre ti."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Solo quiero que tengas éxito. Conozco cómo\nfunciona el mundo, así que pasemos un año más\npreparando juntos."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Si vas a ser un símbolo de esperanza, quiero que\nprimero seas capaz de ello."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "...De nuevo. La decisión es tuya.",
+      "choice_data_list": [
+        "Bien. Hablemos, Nakayama.",
+        "Bien. Hablemos, Nakayama."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Cuánto tiempo nos separa hasta que la luna recién\nascendida descienda nuevamente bajo el horizonte?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...",
+      "choice_data_list": [
+        "La verdad, ¿qué opinas?",
+        "La verdad, ¿qué opinas?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Un año entero... es demasiado."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "El año pasado nos mostró qué tan rápido puede\ndesmoronarse el cuerpo humano."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Aunque la esperanza está manteniéndolo todo por\nahora, ¿podrá Teach aguantar un año más?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Yo... yo... solo—"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Cuando llegue el final... ¡quiero que sienta que\nle di algo por lo que valió la pena esperar!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Si hago que Teach espere un año más solo para\ntener mejores probabilidades... Incluso toda la\nesperanza del mundo podría no... podría no ser\nsuficiente.",
+      "choice_data_list": [
+        "...Ya veo.",
+        "...Ya veo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo entiendo. Sé perfectamente para quién lo hace y\npor qué. Desde el año clásico, Nakayama ha estado\nluchando tan duro para darle esperanza a su\nmentor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando nos enteramos por primera vez de las\nimplicaciones, Nakayama sabía que estaba apostando\nfuerte. Ahora, sin embargo... no puede permitirse\ntratar esto como un juego."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, aún..."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Por favor... ayuda a Festa a vivir su vida al\nmáximo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo seguir mirando hacia otro lado y fingir\nque no me doy cuenta.",
+      "choice_data_list": [
+        "...Aún no estamos donde necesitamos estar."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Claro, todavía puedo mejorar, ¡pero mis\nprobabilidades no son cero en absoluto!",
+      "choice_data_list": [
+        "Lo sé, Nakayama. Lo sé.",
+        "Lo sé, Nakayama. Lo sé."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "E incluso si posponemos el intento para el próximo\naño, eso no llevará nuestras posibilidades al\ncien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero enfrentar el Arc al nivel en que estamos\nahora...",
+      "choice_data_list": [
+        "¿Qué dirán si pierdes? ...Que lo inevitable es\ninevitable."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En este momento, Nakayama está asumiendo el riesgo\nporque cree que es ahora o nunca, no porque confíe\nen sus posibilidades."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es fácil decir que hará lo mejor que pueda con el\ntiempo que tiene, pero en el fondo...",
+      "choice_data_list": [
+        "Si peleas una batalla perdida por ella, la derrota\nse sentirá como si fuera culpa suya."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...",
+      "choice_data_list": [
+        "¿Sigues queriendo correr el riesgo?",
+        "¿Sigues queriendo correr el riesgo?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si Nakayama va a hacer esto, tiene que ser por\ndecisión propia, con el peso sobre sus propios\nhombros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Apostar las fichas de otra persona no conlleva la\nmisma responsabilidad que poner las propias sobre\nla mesa.",
+      "choice_data_list": [
+        "Ganemos o perdamos, quiero poder decir que\napostamos todo por ti con todo nuestro corazón.",
+        "Ganemos o perdamos, quiero poder decir que\napostamos todo por ti con todo nuestro corazón."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si vamos a hacer esto, tenemos que dejar atrás\ncualquier duda <i>ahora</i>. Y luego, lo que ocurra,\nocurrirá. Sin arrepentimientos.",
+      "choice_data_list": [
+        "Elijamos nuestro camino a seguir bajo nuestras\npropias condiciones."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Sí, pero..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Con su condición, las probabilidades de\nmostrarle una victoria el próximo año son aún más\nbajas que ahora."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Si decido que prefiero apostar por mis\nposibilidades este año, ¿seguirías apoyándome?",
+      "choice_data_list": [
+        "Lo haría. Siempre que sea tu elección.",
+        "Lo haría. Siempre que sea tu elección."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin duda, el alma bondadosa acostada en esa cama\nde hospital estaría de acuerdo.",
+      "choice_data_list": [
+        "Te seguiré incluso si eso me lleva a las\nprofundidades del infierno."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Regreso a mi oficina solo y pongo los documentos\nde inscripción para el Prix de l'Arc de Triomphe\nen la pizarra blanca."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Hasta que esté completamente segura de su\nelección."
+    }
+  ]
+}

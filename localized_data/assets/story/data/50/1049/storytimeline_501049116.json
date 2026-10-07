@@ -1,0 +1,396 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nakayama Festa",
+      "text": "Todavía estás viva, Entrenador."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Sobreviviste."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Seguimos avanzando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después de nuestra conversación en el\nhospital, Nakayama Festa se ve más severa de lo\nnormal durante el entrenamiento."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "<i>Suspiro...</i> Oye, Entrenador."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "El próximo año, iremos del Takarazuka Kinen al\nPrix de l'Arc de Triomphe, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ha mejorado muchísimo este último año, y yo\ntambién he ampliado mis conocimientos y\nexperiencia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo es por nuestra aventura internacional. Hemos\ntenido la misma meta desde su debut.",
+      "choice_data_list": [
+        "(Pero, sobre todo...)"
+      ]
+    },
+    {
+      "name": "Padre de Teach",
+      "text": "No ha terminado. Aún puede pasarle algo, incluso\nahora..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás Nakayama se haya dado cuenta de algo...",
+      "choice_data_list": [
+        "(Sin embargo, no afecta nuestra meta.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tenemos el gran premio de mitad de año, el\nTakarazuka Kinen, en junio. Después de ganar ese,\ncambiaremos de marcha hacia Francia. Ese es\nnuestro mejor camino."
+    },
+    {
+      "name": "???",
+      "text": "Hyaaah!"
+    },
+    {
+      "name": "???",
+      "text": "¡El mundo es inmenso y está lleno de personas que\naspiran a la cima!"
+    },
+    {
+      "name": "???",
+      "text": "¡Pero alcanzarla en soledad es la máxima\ningenuidad! ¡Eres un amateur puro y duro! Mira, lo\nque realmente necesitas es—"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Trabajo en equipo!",
+      "choice_data_list": [
+        "¿¡El Condor Pasa?\\!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Mhm! ¡Mhm, mhm! ¡Estás en buena forma, tal como\nmostraste en el Kikuka Sho y el Chunichi Shimbun\nHai!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Bien! ¡Vamos a darnos prisa, Spe!",
+      "color_text_info_list": [
+        "Spe"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Listo! ♪",
+      "choice_data_list": [
+        "¡¿Special Week?\\!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week es una corredora de la generación de\nEl Condor Pasa que ganó el apodo de \"Regina de\nJapón\" tras superar a la dura competencia en el\nJapan Cup internacional.",
+      "color_text_info_list": [
+        "Special Week",
+        "Japan Cup"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Permiso, paso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Fiu!</i>"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ah, por favor no te muevas tanto! ¡Te vas a hacer\ndaño si te dejo caer!",
+      "choice_data_list": [
+        "(¿P-por qué me está cargando?!)"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¡Oye! ¿Qué crees que es mi entrenador? ¿Un saco de\narroz?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Tenemos que llegar al avión a tiempo! ¡Ya\nllenamos el formulario de permiso! ¡Solo falta que\nalguien lo firme!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Nakayama, quieres ganar el Arc, ¿verdad?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Eh? Por supuesto."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Entonces, deja de dilatar y sígueme, ¡o te vas a\natrasar en mi curso extracurricular especial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Vrooom!</i>"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sigue, El! ¡No creo que haya mucha nieve después\nde aquí!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Muy bien, Spe! ¡Buen trabajo! Bien, ¡sigamos el\nritmo!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Hasta dónde vamos a llegar?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llegamos a una vasta y abierta claridad."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Guau, hay tantos tipos de terreno cerca de tu\npueblo, Spe!",
+      "choice_data_list": [
+        "¡Es tan amplio!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Muy bien, entonces empecemos cronometrándonos.\nEmpezaremos con 800 metros. Entrenador, aquí,\n¡toma mi cronómetro!",
+      "choice_data_list": [
+        "¿Dónde está la pista de 800 metros?",
+        "¿Dónde está la pista de 800 metros?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No hay pistas aquí, por desgracia! Nuestro\nrecorrido es correr en línea recta por este gran\ncampo abierto."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "El centro de entrenamiento de allá es diferente en\ntamaño y servicios en comparación con Tracen, así\nque no podremos hacer nuestro entrenamiento de\nsiempre."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Línea recta, sin vueltas ni trucos... Así que así\nentrenan los mejores, ¿eh?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Vamos, vamos. ¡Entrenar aquí en el campo te vendrá\nmejor que en la gran ciudad!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Entrenador, ¡avanza 800 metros por ahí y\nespéranos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como se me pidió, me muevo 800 metros y me\nmantengo listo. Desde esta distancia, las chicas\nse ven como granos de arroz.",
+      "choice_data_list": [
+        "No puedo observar su forma en absoluto desde\naquí..."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Daré la señal de salida por teléfono! ¡Asegúrate\nde no perdértela!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Escucho su voz a través del parlante de mi\nteléfono. Parece la mejor forma de comunicarse a\nesta distancia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así podré saber claramente cuándo empezar el\ncronómetro.",
+      "choice_data_list": [
+        "...Bueno, esto también funciona, supongo.",
+        "...Bueno, esto también funciona, supongo."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡En sus marcas! ¡Listos! ¡Ya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa continúa enseñándonos más técnicas\nde entrenamiento propias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos enseña desde formas de relajarse antes de\nempezar a correr, hasta frases útiles en francés\nque nos ayudarán a encontrar compañeros de\nentrenamiento una vez que lleguemos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ningún artículo ni registro en el mundo puede\nigualar a la visión personal de un Umamusume con\nexperiencia. Lo que nos enseña brinda una\nperspectiva totalmente nueva.",
+      "choice_data_list": [
+        "(Esto es todo lo que necesitamos saber.)",
+        "(Esto es todo lo que necesitamos saber.)"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Por cierto, El, ¿por qué nos estás ayudando?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Nos estamos llevando una fortuna, ¿pero qué ganas\ntú? Al principio eras muy hostil conmigo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "El pasado ya pasó. Además, ¿no recuerdas lo que\ndije?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡El trabajo en equipo es esencial para competir en\nel extranjero! ¡Así que te recluto para mi equipo!",
+      "choice_data_list": [
+        "¿Van a correr como equipo?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "No, no. No así. En este equipo, Nakayama es la\njugadora."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Y tú qué eres?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Solo llámame Profesora El. ♪ ¿Trato hecho?\n¡Nuestra próxima sesión de entrenamiento empieza\nen diez minutos!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Buen trabajo, El! ¡Estar de maestra te sienta\ngenial!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Gracias a ti, Spe! ¡Que tu mamá nos diera un\naventón cuando lo necesitábamos también fue un\nverdadero salvavidas!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡No es nada! Solo quería ayudar."
+    },
+    {
+      "name": "Special Week",
+      "text": "También, es divertido recordar cuándo competiste\nen Francia y cuándo esa corredora vino a Japón y\ncompitió contra mí."
+    },
+    {
+      "name": "Special Week",
+      "text": "Grass me dijo que buscabas una piedra en bruto a\nla que echarle el guante."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Sí. Pero Nakayama está lejos de ser una piedra en\nbruto. Es más bien una roca ígnea ardiendo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "He estado observando a Nakayama y cómo se enfrentó\na las carreras del Triple Corona, y no hay nadie\ncomo ella."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "No hay nadie más que me dé tantas esperanzas para\nel futuro."
+    },
+    {
+      "name": "Special Week",
+      "text": "...Ya veo. Tiene mucho sentido, entonces."
+    },
+    {
+      "name": "Special Week",
+      "text": "Últimamente he estado pensando... nosotras las\numamusume soñamos juntas, nos cargamos los sueños\nde cada una y nos confiamos nuestros sueños entre\nnosotras."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Por eso te apoyo! ¡Porque una vez me confiaste tu\nsueño! ¡Ahora quiero que tengamos un sueño nuevo,\njuntos!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Continuamos el día, entrenando hasta la puesta del\nsol. Tras contactar a la academia, nos hospedamos\nen una posada cercana y dormimos como troncos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Vamos a regre-sar!",
+      "choice_data_list": [
+        "Gracias por todo ayer."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No hay problema! ¿Le diste consideración a mi\nsugerencia de formar equipo?",
+      "choice_data_list": [
+        "Para nosotras, es todo lo que pudimos haber\nesperado."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Sí. A mí tampoco me genera ningún problema."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Perfecto! ¡Entonces nuestro dúo es oficial!\nVamos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Bzz!... ¡Bzz!...</i>"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Oh, es Teach. Un momentito.",
+      "choice_data_list": [
+        "Sí, claro que sí.",
+        "Sí, claro que sí."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Teach? ¿Nakayama recibe llamadas de su profesora?",
+      "choice_data_list": [
+        "Ah, bueno, no de las profesoras de Tracen.\nVerás..."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Mmm... Así que la profesora de primaria de\nNakayama ha sido una gran mentor para ella, y\nahora ella quiere darle esperanza a su mentora\npara vivir la vida al máximo..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ya veo. Por eso Nakayama tiene mucha más pasión\nque otras corredoras."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Está apostando por lo más preciado que tenemos: la\nvida."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Y todo eso por dar esperanza..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Jajaja! ¡Qué inesperado! ¡Qué impactante! ¡Qué\nsorpresa! ¡Es exactamente igual a mí!",
+      "choice_data_list": [
+        "¿Tú crees? Aunque tenéis estilos bastante\ndistintos."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "El estilo es una cosa, pero hablo de lo que se\ntiene por dentro."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Por eso precisamente..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Nakayama <i>debe</i> ganar, sin importar qué."
+    }
+  ]
+}

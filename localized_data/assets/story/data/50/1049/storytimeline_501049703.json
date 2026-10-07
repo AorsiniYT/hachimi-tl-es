@@ -1,0 +1,200 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De camino a casa después de un día con Nakayama\nFesta, escuchamos el tenue maullido de un gato."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Está en los arbustos... Qué quieres? Tienes hambre\no algo así?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Estás muy flaco... Debes ser un callejero."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Oye, vigila a este gato un momento. Vuelvo en un\ninstante."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras espero, llamo a servicios de protección\nanimal de la ciudad. Justo cuando cuelgo el\nteléfono, Nakayama Festa regresa con leche para\ngatos."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Aquí, toma... Oh, supongo que estar tan cerca te\nasusta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nakayama Festa posa el plato y da un paso atrás.\nEl gato comienza a beber con timidez.",
+      "choice_data_list": [
+        "Sabes mucho sobre gatos.",
+        "Sabes mucho sobre gatos."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No tanto. Aunque me acostumbro a cuidar animales\npequeños.",
+      "choice_data_list": [
+        "Espera... Está herido este gato?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando se acerca más para ver su herida, el gato\nsale corriendo de inmediato."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Realmente está en guardia. Algo terrible debe\nhaberle pasado."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Es un mundo despiadado, lo único en lo que puedes\nconfiar es en ti mismo. Lo entiendo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Quizás ni siquiera necesite nuestra ayuda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero su vida podría estar en peligro si su herida\nempeora. Le digo a Nakayama Festa que tenemos que\nhacer algo por ayudarlo, aunque sea intrometernos.",
+      "choice_data_list": [
+        "Creo que el gato necesita ayuda!",
+        "Creo que el gato necesita ayuda!"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Mmm, no sé."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Bien. Vamos tras él!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de buscar casi medio día, finalmente\nencontramos al gato en unos arbustos de un parque."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Vamos a rodearlo. Acércate por este lado. Yo daré\nla vuelta.",
+      "choice_data_list": [
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "El gato probablemente vendrá aquí donde cree que\nno hay nadie."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Y... funciona!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tal como predijo Nakayama Festa, el gato se acerca\npor su lado. Decido dejarle el resto a ella."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nakayama Festa se arrodilla intentando llegar a la\naltura del gato. El gato permanece quieto y la\nmira fijamente."
+    },
+    {
+      "name": "Stray Cat",
+      "text": "..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "(Mira cuánto has llegado por tu cuenta. Apuesto a\nque nunca te has apoyado en nadie, ni una sola\nvez.)"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "(Eres como yo solía ser. No encajas con el grupo\ny, sin darte cuenta, te vuelves un solitario.)"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "(Pero ya no más. No está tan mal apoyarte en\nalguien de vez en cuando.)"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Siempre que sea alguien en quien puedas confiar,\npero eso es algo que tienes que decidir tú mismo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El gato callejero la mira fijamente a Nakayama\nFesta por un rato, luego, casi como si hubiera\nentendido lo que ella dijo, comienza a caminar\nlentamente hacia ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los servicios de protección animal deberían llegar\npronto. Conseguimos calmar al gato justo a tiempo.",
+      "choice_data_list": [
+        "Me siento mucho mejor ahora.",
+        "Me siento mucho mejor ahora."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "De verdad no te importa meterte en lo ajeno."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No pude evitarlo. No solo sentí lástima por el\ngato, sino que de alguna manera me hizo pensar en\nNakayama Festa.",
+      "choice_data_list": [
+        "Ambos tienen mucho orgullo.",
+        "Ambos tienen mucho orgullo."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Jiji... ¿De qué estás hablando?",
+      "choice_data_list": [
+        "¡Deberíamos ir a ver al gato de vez en cuando!",
+        "Espero que termine feliz...",
+        "Espero que termine feliz..."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Jiji... ¿De qué estás hablando?",
+      "choice_data_list": [
+        "¡Deberíamos ir a ver al gato de vez en cuando!",
+        "Espero que termine feliz...",
+        "Espero que termine feliz..."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Claro, si me da la gana. Aunque va a olvidar quién\nsomos."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Oye. No lamas mi mano. Lama la leche.",
+      "choice_data_list": [
+        "Está diciendo que quiere verte de nuevo."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Lo crees? Qué gatito tan astuto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El gato frota su cabeza contra Nakayama Festa.\nParece que quiere que lo acaricien. Solté una\ncarcajada, pero ella me fulminó con la mirada."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Bebe mucha leche y duerme todo lo que puedas."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Je... Mira. Está soñando. Ya hicimos nuestro\ntrabajo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En silencio, para no despertar al gato, nos\nalejamos juntos."
+    }
+  ]
+}

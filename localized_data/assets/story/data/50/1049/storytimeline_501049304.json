@@ -1,0 +1,440 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Y ahora hemos llegado a la mitad! ¡Las Umamusume\nen el medio del pelotón están viglando de cerca a\nlas que van al frente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Apuntar a la cima con Nakayama Festa requerirá más\nque pura fuerza y resistencia; también\nnecesitaremos agilidad mental y adaptabilidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Cuánto ha crecido desde su año junior, y cuánto\nmás puede crecer de aquí en adelante?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puede permitirse cometer ni un solo error en la\ncarrera. Sin embargo, en la tercera curva..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Eh?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nakayama Festa baja la guardia."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "(¿Qué pasó?)"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "(Mis piernas no me duelen ni nada...)"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "(Pero siento frío.)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y al día siguiente, la llevo a unchequeo con el\ndoctor de la academia."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Al parecer, no tiene nada.",
+      "choice_data_list": [
+        "Me alegra que no estés lesionada."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Cierto. Si tuviera una lesión, se acabaron los\nClásicos."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Bueno, entonces, ¿cuál es tu diagnóstico? Mirando\nla carrera de ayer, ¿vamos al Arc este año?",
+      "choice_data_list": [
+        "¿Puedo ser honesta?",
+        "¿Puedo ser honesta?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Esa respuesta ya me lo dice todo. Estás a punto de\ndecir que no estoy lista, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es cierto. Aún tiene espacio para crecer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al prepararse para una competencia programada, los\natletas manejan su período de entrenamiento\nintensivo y el acondicionamiento corporal según la\nfecha de la competencia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Además, las competencias en el exterior necesitan\najustes aún más finos debido al viaje que\nconllevan."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo lo que podemos hacer es entrenar enfocados en\nla carrera. Incluso necesitamos sincronizar\nnuestros días de descanso con el calendario de\ncarreras.",
+      "choice_data_list": [
+        "Es demasiado pronto para decir que estás en tu\nmejor forma.",
+        "Es demasiado pronto para decir que estás en tu\nmejor forma."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debería seguir perfeccionando sus habilidades\ncompitiendo más contra otras Umamusume aquí en\nJapón. Por ejemplo...",
+      "choice_data_list": [
+        "Podríamos intentar usar el Clásico Triclon de\nCampeones para impulsar tu desarrollo."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿El Clásico Triclon de Campeones? ¿Hmm?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "El Satsuki Sho, el Derby japonés y el Kikuka Sho\nson carreras a las que solo tienes una\noportunidad. ¿Y quieres que los trate como campos\nde entrenamiento?",
+      "choice_data_list": [
+        "Debería ser exactamente la cantidad justa de\npresión para ti.",
+        "Debería ser exactamente la cantidad justa de\npresión para ti."
+      ],
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Derby japonés",
+        "Kikuka Sho"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Jeje. \"Exactamente la cantidad justa\", dices."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Bzz!... ¡Bzz!...</i>"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Oh, no es tu teléfono, es el mío. Qué raro..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Hm... es mi antiguo entrenador..."
+    },
+    {
+      "name": "Padre de Teach",
+      "text": "Hola, Festa. Me alegra que contestes. Perdona la\nllamada repentina. Um..."
+    },
+    {
+      "name": "Padre de Teach",
+      "text": "Ya sabes cómo siempre traes flores cuando visitas\na mi hija en el hospital, ¿no? Bueno... Um..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Entrenador? No me gusta cómo suena. ¿Qué pasa?"
+    },
+    {
+      "name": "Padre de Teach",
+      "text": "Ah... cierto, lo siento. Bueno, de todos modos..."
+    },
+    {
+      "name": "Padre de Teach",
+      "text": "¿Es... posible que pases por el hospital hoy?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Coach?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando llegamos a la habitación del hospital, el\nmentor de Nakayama Festa la saluda con una sonrisa\nsuave."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus brazos, visibles debajo de las mangas de la\nbata hospitalaria, se notan notablemente más\ndelgados que cuando la conocimos el otoño pasado."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Gracias por venir, Festa. Así también a ti,\nEntrenador."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Accediste a mi petición egoísta aunque fue tan\nrepentina."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Espera, Coach. ¿Por qué hay tantos más tubos de lo\nhabitual?"
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Escucha, Festa."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Solo tengo... solo me queda un año."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Huh?",
+      "choice_data_list": [
+        "¿Qué quieres decir...?"
+      ]
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Ya sabía que no me quedaba mucho."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Mi último examen solo aclaró cuánto tiempo me\nqueda. Eso es todo.",
+      "choice_data_list": [
+        "¿Cuánto tiempo... le queda...?"
+      ]
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Si lo veo de esa manera, me ayudará a darle buen\nuso a lo que tengo."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "En lugar de pelear contra lo inevitable, prefiero\nconsumir cada última brasa que me quede, para que\ncuando todo termine, no tenga arrepentimientos."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Para ser honesta, hoy podría ser mi último día, o\nincluso mañana."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Qué?!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No digas cosas así. ¡Necesitas ser fuerte como\nsiempre lo has sido!"
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Festa... conozco mejor que nadie las limitaciones\nde mi propio cuerpo."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Mi vida puede no haber sido larga, pero ser tu\nprofesora y poder guiarte fue mi mayor orgullo."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Así que no quiero que vengas a verme otra vez.\nTienes que seguir adelante sin mirar hacia atrás."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "No quiero que me veas convertirte en una sombra de\nla mentora que alguna vez conociste."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "B-but!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¡Pero! ¡Hicimos una promesa!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Prometiste que te mostraría cómo conquisto el\nmundo algún día, que te mostraría a dónde me\nllevaría mi vida..."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Sí. Realmente quería ver eso."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No. No digas eso..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Dime que <i>quieres</i> verlo..."
+    },
+    {
+      "name": "Padre de Teach",
+      "text": "Gracias, Festa. Perdona por imponértelo de\nrepente."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Oye, Coach."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Acaso la Coach ya no tiene remedio? ¿Realmente\ntiene que rendirse así?"
+    },
+    {
+      "name": "Padre de Teach",
+      "text": "Ha estado luchando contra la enfermedad por mucho\ntiempo."
+    },
+    {
+      "name": "Padre de Teach",
+      "text": "Tal vez solo se sienta un poco cansada.\nProbablemente solo quiere descansar."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¡Eso no puede ser cierto! ¡Incluso si solo hay una\nchance del uno por ciento, la Coach haría—!",
+      "choice_data_list": [
+        "Nakayama, espera."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Eh?! Tú, mantente fuera de esto.",
+      "choice_data_list": [
+        "Nakayama, mira al frente."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El padre del mentor de Nakayama Festa nos mira con\nojos rojos y tristes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debió haber llorado muchas veces. Después de todo,\nesto es lo último que cualquier padre amoroso\nquerría para su hija."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me pregunto cuánto tiempo habrá estado pensando en\nesto su mentor...",
+      "choice_data_list": [
+        "(¿Será que todo lo que ha hecho hasta ahora...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que, Entrenador..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por favor... ayuda a Festa a vivir su vida al\nmáximo.",
+      "choice_data_list": [
+        "(...¿Todo fue para enriquecer la vida de Nakayama\nFesta?)"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Oye, entrenador."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Si participara en el Prix de l'Arc de Triomphe\nahora, ¿crees que tendría oportunidad de ganar?",
+      "choice_data_list": [
+        "¿Ahora?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Teach me dijo que había algo mágico en París, como\nen los musicales."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Entonces, ¿qué crees? Si corriera ahora, ¿podría\nganar?",
+      "choice_data_list": [
+        "Bueno..."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Lo sabía..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Si le dijera que voy este año, no le daría ni un\nfragmento de esperanza."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Jajaja..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Coño..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La verdad, no sé qué hacer. Con todo esto pasando\ntan de repente, se me ha quedado la mente en\nblanco."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sé qué decirle. No sé cómo responder.\nExcepto...",
+      "choice_data_list": [
+        "Di, Nakayama...",
+        "Di, Nakayama..."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Qué?",
+      "choice_data_list": [
+        "Si hay un riesgo que quieras correr, dime.",
+        "Si hay un riesgo que quieras correr, dime."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...",
+      "choice_data_list": [
+        "Te seguiré hasta el final.",
+        "Te seguiré hasta el final."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...",
+      "choice_data_list": [
+        "Si eso te ayuda a vivir tu vida al máximo.",
+        "Si eso te ayuda a vivir tu vida al máximo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso ahora, la sensación que tuve cuando nos\nconvertimos en equipo por primera vez no ha\nflaqueado en absoluto."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Vivir mi vida... al máximo..."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Ciertamente, la esperanza es lo que nos da la\nfuerza para vivir."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Pero bueno. ¿En serio te das cuenta de lo que me\nestás diciendo?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Más te vale prepararte... maldito\nbienintencionado."
+    }
+  ]
+}

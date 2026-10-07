@@ -1,0 +1,347 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nakayama Festa",
+      "text": "Hyaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cronometro a Nakayama Festa mientras corre por la\nplaya arenosa. Está haciendo mejoras notables\ndurante nuestro tiempo aquí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo..."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¿La ganadora del Japanese Oaks va a competir,\ncierto? ¿Dónde estará esta vez? ¿Sapporo?"
+    },
+    {
+      "name": "Veteran Trainer B",
+      "text": "Así es. Es la favorita indiscutida. Si gana hoy,\nlo siguiente para ella será el Arc."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¡Ella podría ser quien se lleve el trofeo que\nJapón ha estado soñando!",
+      "choice_data_list": [
+        "(Todos a nuestro alrededor tienen en mente a\nalguien más.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La posición que quería que Nakayama Festa ocupara\nya está tomada por otra Umamusume."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Convertirse en la primera corredora japonesa en\nconquistar el Prix de l'Arc de Triomphe—un sueño\ncodiciado por todas las Umamusume japonesas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nadie anticipa la aparición de Nakayama Festa en\nel gran escenario. El riesgo que está corriendo\npor su mentor pasa desapercibido.",
+      "choice_data_list": [
+        "Esto es una basura..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Cabeza arriba y ánimo arriba!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Tú puedes, Nakayama! ¡Vas a ir a derribar a ese\ncrustáceo de Kyoto, cierto?",
+      "choice_data_list": [
+        "¿Eh, Gold Ship?"
+      ],
+      "color_text_info_list": [
+        "Nakayama"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Si quieres tomar prestado el Golshi Cannon, te\nhago un buen trato! ¡Date prisa y cómprame un\ngranizado de sabor melón, chop-chop!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Oh? Bueno, si te gano en carrera de parejas, me\ntomo un helado de fresa."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Oye, ¡es tramposo! <i>Yo</i> quiero ese sabor en cambio.",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nakayama Festa y Gold Ship se están preparando\npara una carrera en pareja. No recuerdo haber\npuesto esto en el horario de Nakayama, sin\nembargo...",
+      "color_text_info_list": [
+        "Gold Ship"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Date prisa, Entrenador. Necesitas decidir la pista\nantes de que Golshi se distraiga.",
+      "choice_data_list": [
+        "¡Una carrera en la arena para fortalecer la\nresistencia!",
+        "¡Senderismo te va a hacer trabajar en tu estómago\nde verdad!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Okay, entonces carrera de cangrejo caminando!\n¡Vamos, Nakayama!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Oye. ¡Sin salidas voladoras! Los cangrejos no\ntienen alas."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Upsie! ☆ ¡Me pillaste! Está bien, podemos\nponernos en fila entonces. ☆"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Woooow, qué bueno! ¡Tú sí que sabes dónde está lo\nbueno!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Senderismo, trabajando... ¿Qué otros reyes más\ndebería saber?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Sí, yo. La reina de reinas. ¿Crees que puedes\nganar eso, Golshi?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Eh? ¡Fácil como churro! Ahí voy, Nakayamaaa!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Woooow, qué bueno! ¡Tú sí que sabes dónde está lo\nbueno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, la carrera en pareja termina sin ningún\nproblema, casi como si hubiera sido parte de\nnuestros planes.",
+      "choice_data_list": [
+        "¿Habré programado esto y solo me había olvidado?",
+        "¿Habré programado esto y solo me había olvidado?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No seas ridículo. Fue pura cosa del momento."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "De todos modos, fue una experiencia que puedo\naprovechar para el Kikuka Sho, ya que la\nespecialidad de Golshi son las largas distancias.",
+      "choice_data_list": [
+        "¿Eso significa que la invitaste a entrenar?",
+        "¿Eso significa que la invitaste a entrenar?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Bueno, yo no diría que fue \"invitar\"."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Otro helado de fresa! Oh, y me llevo cincuenta\ncajas de yakisoba de recuerdo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Sería más preciso decir que vino a pasar el rato\npor su propia cuenta."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ugh... ¿Cuánto tiempo más vas a quedarte, Golshi?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Contigo aquí, no puedo tener una conversación\nseria."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿Eh?!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "N-no puede ser. No lo puedo creer..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "E-oy, tú. ¿Por qué estás gritando? ¿Pasó algo?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "El Arc..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Eh? ¿Qué arc?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Al parecer, la Umamusume del Oaks no va a correr\nen el Prix de l'Arc de Triomphe después de todo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es como si nos hubieran quitado la alfombra de\ndebajo."
+    },
+    {
+      "name": "Rookie Trainer",
+      "text": "<i>Suspiro...</i> Toda la prensa al respecto suena tan\ndeprimente... Todos pensamos que nuestra\noportunidad estaba aquí."
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "Que ella decida que no puede ganar probablemente\ndesanimará a otras Umamusume de intentarlo."
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "Supongo que ganar el Arc seguirá siendo solo un\nsueño para las Umamusume en Japón."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Entrenador, ¿te importa si doy una carrera rápida?",
+      "choice_data_list": [
+        "Claro, salgamos a tomar aire fresco.",
+        "Claro, salgamos a tomar aire fresco."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Escapando de la atmósfera opresiva del campamento\nde verano, me pongo de pie y observo a Nakayama\nFesta mientras corre en silencio sus vueltas.",
+      "choice_data_list": [
+        "(...Nadie vio eso venir.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora que el principal contendiente japonés para\nel Arc ha caído, las llamas apasionadas de los\namantes de las carreras en casa se han reducido a\nuna brasa temblorosa."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oye, ¿está ocupado este lugar?",
+      "choice_data_list": [
+        "¿Mm? No, para nada.",
+        "¿Mm? No, para nada."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Muchas gracias!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Todos se ven bastante deprimidos, ¿no? Esto del\nArc debe haber sido importante."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Nakayama... aunque... ¿ella planea irse al\nextranjero, cierto?",
+      "choice_data_list": [
+        "Sí, ese es su objetivo actual.",
+        "Sí, ese es su objetivo actual."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Interesante..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿No hay como un montón de gente diciéndole que no\npuede? ¿No se está preparando para fracasar?",
+      "choice_data_list": [
+        "Esas son solo opiniones, pero no pueden determinar\nlo que ella pueda o no pueda hacer."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La gente puede decir que es imposible todo lo que\nquiera. Eso no nos hace cambiar.",
+      "choice_data_list": [
+        "En lo que a nosotros respecta, ella <i>puede</i> hacerlo."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...Ah."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿De qué están hablando?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Ah! ¡Nakayama!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Pues, verás. ¡Um, tenía algo que preguntarte!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Sabes? Hay cosas que no valen la pena gastar\nenergía en ellas. Y, como, nadie te anima porque\nnadie te está viendo ni siquiera."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Así que intentas e intentas, pero al final no\nsirve de nada. Pasa todo el tiempo, ¿verdad?\nEntonces..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...¿Eso te afecta de verdad?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No. ¿Y a ti?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Lanzarse de frente a los desafíos no es inútil. Es\nasí como haces que los milagros sucedan."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Más que luchar contra lo inevitable, prefiero\nquemar cada última brasa que me quede, para cuando\ntodo termine, no tener ningún arrepentimiento."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No me importa lo que diga nadie. Prefiero luchar\npor sobrevivir antes que matar mi pasión y\nrendirme."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...Um, no lo entiendo. ¿Puedes intentar hablar\ncomo una persona normal?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Qué le pasa?",
+      "choice_data_list": [
+        "Creo que la frustración por la idea de perder."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Ah, ya veo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oye, City. ¿Conoces alguna buena clínica de uñas?\nSé que mis uñas son lindas, pero quiero que\ntambién sean fuertes."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Mm? ¿No quieres más bien una buena<i> sala de\nmanicura?</i>"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "No. Quiero una clínica. Um... ¿Por favor? Me\nayudas, ¿verdad?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Quiero arreglarlas antes de mi próxima manicura."
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Nakayama Festa contraataca! ¡Ahí está, parada\nfrente a los escalones del escenario\ninternacional!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Tú puedes, Nakayama Festa! ¡Un poco más! ¡El\ntítulo ya está al alcance de tu mano!"
+    },
+    {
+      "name": "Locutor",
+      "text": "Nakayama Festa termina en segundo puesto. ¿Será\neste el despiadado Prix de l'Arc de Triomphe?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "<i>Haa... Haa...</i> ¡Maldición!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "(Un paso más... si tan solo tuviera la fuerza para\ndar un paso más...)"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Tch. No way, solo era un sueño."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Trabajando duro en mi computadora en mi cuarto,\nvoy descartando lentamente los posibles lugares\ndonde hospedarnos durante nuestro viaje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Buscamos un lugar con una instalación de\nentrenamiento cerca, accesible para huéspedes de\ncorta estancia.",
+      "choice_data_list": [
+        "(La VR Umalator resultó ser de gran ayuda.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a usar el simulador, puedo armar planes\nmuy concretos."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Disculpe la molestia, Trainer."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Llegó una respuesta a su solicitud de\nentrenamiento conjunto con el reconocido\nentrenador de Francia.",
+      "choice_data_list": [
+        "¡Muchas gracias!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tomo el documento de Tazuna y leo la respuesta.",
+      "choice_data_list": [
+        "...Parece que lo negaron."
+      ],
+      "color_text_info_list": [
+        "Tazuna"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "No te preocupes tanto. Es muy raro que este tipo\nde solicitudes sean aceptadas.",
+      "choice_data_list": [
+        "Sí, tienes razón. Intentaré pedir entrenamiento\ncon otro entrenador."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque, esta ha sido la vigésima solicitud que me\nrechazan más o menos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Probablemente me ven como alguien sin importancia.\nSin un historial comprobado, realmente no es de\nextrañar que me rechacen.",
+      "choice_data_list": [
+        "(Ponerme a llorar tampoco ayudará en nada.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo que hacer todo lo posible por ayudar a\nNakayama Festa para que esté completamente lista\npara finales de año."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me siento en mi escritorio viendo repeticiones de\ncarreras pasadas del Prix de l'Arc de Triomphe."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Ha aparecido un rival desde fuera! ¡Van codo a\ncodo! ¿Podrá abrirse paso? ¡Sí, ha tomado la\nventaja!",
+      "choice_data_list": [
+        "(Es increíble lo fácil que pueden acelerar en ese\ncésped.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mis estudios revelan la magnitud de la brecha que\nintentaremos salvar. ¿Hasta dónde nos llevarán\nnuestros esfuerzos?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuanto más aprendo, más lejanos parecen nuestros\nobjetivos."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Comer algo dulce ayuda cuando te sientes cansado.",
+      "choice_data_list": [
+        "...¿Ah? Gracias."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Hay chocolates dentro. Me conseguí unos para mí y\npensé que te llevaba algunos extras también."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "De todos modos... Trainer..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Sabes que voy al Arc. Pero quizás no sepas cómo\nvolveré siendo la ganadora.",
+      "choice_data_list": [
+        "No, lo sé.",
+        "No, lo sé."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Bien. Me alegra que lo entiendas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sacco un chocolate de la bolsa. Esto debería\nayudarme a reavivar mi espíritu.",
+      "choice_data_list": [
+        "(¿Eh?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El empaque del chocolate dice: \"Una tarde\ntranquila y un momento relajante, todo en un\npequeño paquete.\"",
+      "choice_data_list": [
+        "...¿Lo eligió por casualidad?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, detengo a Nakayama Festa para\nhablar con ella rápido antes del entrenamiento."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Esto qué? ¿Un gracias por el regalo de\nValentine's?",
+      "choice_data_list": [
+        "Por los chocolates que me diste ayer.",
+        "Por los chocolates que me diste ayer."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una ligera excusa para darle el regalo que ya\ntenía preparado."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Qué es esto? ¿Una máscara ocular caliente?",
+      "choice_data_list": [
+        "Sí, pruébala antes de dormir.",
+        "Sí, pruébala antes de dormir."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Hmm."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿No me vas a decir que me relaje?",
+      "choice_data_list": [
+        "De todos modos no me hubieras hecho caso, ¿no?",
+        "De todos modos no me hubieras hecho caso, ¿no?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Probablemente no, la verdad."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Supongo que ambos nos estamos esforzando al\nmáximo. Entonces, aceptaré tu regalo con gusto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, el rostro de Nakayama Festa\nparece ser un poco menos pálido que el día\nanterior."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Eh? ¿Un agradecimiento por el regalo de San\nValentín?",
+      "choice_data_list": [
+        "Sí. ¿Qué te apetecería comer? Lo que quieras, por\nmi cuenta.",
+        "Sí. ¿Qué te apetecería comer? Lo que quieras, por\nmi cuenta."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No es enteramente para agradecerle. Le hago la\npropuesta con la esperanza de regalarle un momento\nde paz para relajarse. Sin embargo..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Vale, entonces quiero comer gachas de arroz.",
+      "choice_data_list": [
+        "¿Ga-gachas de arroz? ¿Segura que no prefieres\nsushi o algo así?",
+        "¿Ga-gachas de arroz? ¿Segura que no prefieres\nsushi o algo así?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No, solo gachas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece más cansada de lo que pensaba. Esa tarde\npreparo apresuradamente unas gachas de arroz y se\nlas llevo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "De verdad las hiciste.",
+      "choice_data_list": [
+        "Claro que sí. Después de todo quería darte las\ngracias."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "<i>Suspiro...</i> De verdad eres un buen mozo hasta la\nmédula."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Gracias por la comida."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "El sabor era realmente suave.",
+      "choice_data_list": [
+        "Quería hacer algo que le viniera bien a tu cuerpo."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Hombre. Ustedes dos realmente se parecen."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Me voy a la cama. Mañana será un día muy\nocupado, ya sabes.",
+      "choice_data_list": [
+        "Que descanses.",
+        "Que descanses."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Claro, tú también."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "A darlo todo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Se me olvidó completamente qué soñé esa noche."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Pero dormí profundamente hasta la mañana, así que\nseguro fue buena."
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el Spring Fan Fest, donde los estudiantes\nde Tracen participan en varios eventos para\nentretener a sus fans."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nakayama Festa también está participando de las\nfestividades."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Bien, estos son los miembros que correrán el\nrelevo de 9,000 metros."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "¡Sí! ¡Demos lo mejor y apuntamos al primer lugar!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Está bien."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Woooo! ¡Una hermosa competencia en equipo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero este no es el tipo de equipo que imaginé que\narmarías, Nakayama.",
+      "choice_data_list": [
+        "Pensé que sería una buena oportunidad para crecer."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy repasando imágenes del Prix de l'Arc de\nTriomphe como siempre..."
+    },
+    {
+      "name": "Entrevistador",
+      "text": "¿Qué? ¡Te retiras?! ¡Llegaste al Arc, que debería\nhaber sido el comienzo de un nuevo capítulo en tu\ncarrera!"
+    },
+    {
+      "name": "Corredor de Arc",
+      "text": "Estoy segura de que todas las demás umamusumes que\nvinimos con esa misma meta comprenden mi decisión."
+    },
+    {
+      "name": "Corredor de Arc",
+      "text": "Es un lugar de sueños y anhelos, un escenario\nperfecto para el capítulo final."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Dicho de otra forma, quien nunca haya viajado no\nlo entendería."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Entrenador, voy a ser más proactiva con mis\npreparativos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nakayama Festa probablemente pensaba lo mismo que\nyo en ese entonces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una simulación no es más que eso, no nos da una\nexperiencia vivida real como la que tuvo El Condor\nPasa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que necesitamos suplir esa carencia escuchando\nlos testimonios de corredores que han asumido el\ndesafío."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por eso buscamos conversar con umamusumes que\nhayan querido competir en territorio francés."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y nos pareció que el Fan Fest era el lugar ideal\npara hacer esas conexiones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Claro, tuve que tirar de algunos hilos para que\nparticiparan en el mismo evento que Nakayama\nFesta. Pero no es queja que quepa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez que empiece el entrenamiento para el\nrelevo, podrán correr juntas y charlar en sus\ndescansos, logrando un tiempo corto pero muy\nproductivo."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Entonces... ¿esto te ha servido?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Sí, bastante. Son muy geniales por permitirme\ncharlar así con ustedes."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "¿En serio? Siento que de alguna forma nos habrías\nobligado a hablar, nos hayamos unido o no."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Pero, <i>cómo</i> íbamos a decirte que no después de\nacercarte con tanta pasión?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Qué amable de tu parte decir eso."
+    },
+    {
+      "name": "Locutor",
+      "text": "Ahora, ¡es hora de comenzar nuestra carrera de\nrelevos de 9.000 metros! A sus posiciones,\nlistos..."
+    },
+    {
+      "name": "Anunciadora",
+      "text": "<i>¡Bang!</i>"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "HAAAH!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¡El testigo!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Hah!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Qué bueno! Coordina tan suave con Cafe!",
+      "choice_data_list": [
+        "Está poniendo mucho empeño."
+      ],
+      "color_text_info_list": [
+        "Cafe"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puede que no sea líder natural, pero asume el rol\npara ganar las habilidades que le faltan."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Lo hace todo por el Arc?",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ]
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Gold Ship se acerca veloz desde atrás! ¿Podrá\nNakayama Festa mantener su ventaja?!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "HYAAAAAH!"
+    },
+    {
+      "name": "Locutor",
+      "text": "Y las ganadoras de nuestra carrera de relevos de\n9.000 metros son..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Segundo lugar..."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Nos mantuvimos hasta el final, pero aún así..."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "¡La próxima vez hay que prestar más atención al\nritmo! Eso seguro nos dará el triunfo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Nuestro ritmo? Entrenador, tienes vídeo del\nrelevo?",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Bien. Revisémoslo y analicemos qué salió mal."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "El, viniste a ver el relevo. Qué opinas? Tu guía\nestá funcionando?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hm?! Ah, perdona. Me necesita un poco de tiempo\npara pensar."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Bueno, eso fue raro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras El Condor Pasa huye de pronto, noto que\nsus ojos son como los de un halcón, absortos en\nsus pensamientos."
+    },
+    {
+      "name": "Locutor",
+      "text": "Y las ganadoras de nuestra carrera de relevos de\n9.000 metros son..."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Excelente! Primer lugar! ¡Combinar nuestras\nfortalezas sí valió la pena!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Sí. Fue como si... hubiéramos llevado buen ritmo.",
+      "choice_data_list": [
+        "Felicidades a todos!"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "<i>Haa... Haa...</i> No esperaba menos de las ganadoras\ndel Tenno Sho de primavera.",
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ninguna de ustedes está siquiera jadeando."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Si de verdad quieres competir en Francia...\nentonces creo que necesitas aprender a bajar la\nvelocidad y relajarte."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Reducir el ritmo?",
+      "choice_data_list": [
+        "Esto no es solo sobre el ritmo de carrera, verdad?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Correcto. Si siempre cargas tu agenda y echas\ntanta fuerza en las carreras... no podrás\naguantar."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Ay! Café está dando consejo a tiempo! Nakayama,\nasegúrate de tomar notas!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Entendido, Laurel. Café, puedes explicar un poco\nmás?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al participar en el Fan Fest, Nakayama Festa se\nacerca lo suficiente a las dos corredoras como\npara pedirles consejo con naturalidad.",
+      "choice_data_list": [
+        "Esto es más prueba del esfuerzo que está haciendo."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ugh... Las entrevistas son agotadoras.",
+      "choice_data_list": [
+        "Aun así, pareció que tuvieron una buena charla.",
+        "Aun así, pareció que tuvieron una buena charla."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Supongo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "El, viniste a ver el relevo. Qué opinas? Tu guía\nestá funcionando?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hm?! Ah, perdona. Me necesita un poco de tiempo\npara pensar."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Bueno, eso fue raro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras El Condor Pasa huye de pronto, noto que\nsus ojos son como los de un halcón, absortos en\nsus pensamientos."
+    }
+  ]
+}

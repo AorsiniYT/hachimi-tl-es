@@ -1,0 +1,236 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nakayama Festa",
+      "text": "<i>Haa... haa...</i>"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "<i>Haa... haa...</i> ¡No! ¡Maldita sea! ¡Aaargh!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Jeje."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Así que esa es la serie Twinkle Festa..."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Solo... ¡increíble!",
+      "choice_data_list": [
+        "¿No es fascinante?"
+      ]
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "¡Absolutamente! Vale la pena haberme escapado del\nhospital.",
+      "choice_data_list": [
+        "¿Te escapaste del hospital?!"
+      ]
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Ah, um... bueno..."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "No. No seas ridículo. Por supuesto que conté con\nel permiso del doctor.",
+      "choice_data_list": [
+        "Ya veo... Entonces confío en tu criterio. De\nhecho, nunca supe qué te pasaba."
+      ]
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Ah, no quiero aburrte con eso. Más importante\naún..."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Voy a revisar con mi padre si tenemos más material\nútil de Festa tirado por ahí."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Quiero ayudar en lo que pueda, aunque sea un poco.",
+      "choice_data_list": [
+        "Oh, ¿estás seguro?"
+      ]
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "¡Será un placer! Así que, Entrenador..."
+    },
+    {
+      "name": "Profesor antiguo de Nakayama",
+      "text": "Por favor... ayúdate a Festa a vivir su vida al\nmáximo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Muy bien, ya está, mi debut quedó atrás. ¿Qué te\npareció?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Empezamos a hacer planes concretos para que\nllegue al Prix de l'Arc de Triomphe?",
+      "choice_data_list": [
+        "((¿El Prix de l'Arc de Triomphe?!))"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entre todas las carreras G1 del mundo, el Prix de\nl'Arc de Triomphe se sitúa en la cima, una cima\nque toda Umamusume sueña con conquistar algún día.",
+      "color_text_info_list": [
+        "G1"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "En todo el mundo abundan los debates sobre cómo\nabordar mejor la carrera. Algunos consideran que\nlas Umamusume de año clásico tienen la mayor\nventaja.",
+      "color_text_info_list": [
+        "año clásico"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El meollo de esa discusión radica en si el reto\ndebe intentarse cuando la Umamusume rebosa\nambición o después de haber perfeccionado sus\nhabilidades durante su año sénior.",
+      "choice_data_list": [
+        "Quiero considerar cuidadosamente cuánto tiempo\nprepararnos y cuándo ingresar al Prix."
+      ],
+      "color_text_info_list": [
+        "año sénior"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Por qué tan tímido tu enfoque?",
+      "choice_data_list": [
+        "No lo soy."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por el contrario, ver su carrera de debut ahora\nmismo me ha llenado de aspiración.",
+      "choice_data_list": [
+        "Quiero estudiar para asegurarnos de que ganes.",
+        "Quiero estudiar para asegurarnos de que ganes."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Je... Quizá lo entiendo. Acabo de debutar y tú\ntambién eres novata."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Tienes razón. Recopilmos la mayor cantidad de\ninformación útil que podamos. Tenemos que usar\nnuestro tiempo sabiamente.",
+      "choice_data_list": [
+        "¿Sin objecciones entonces?",
+        "¿Sin objecciones entonces?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Obviamente no. Solo una idiota se lanza sin\npreparación."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Las apuestas son más emocionantes cuando lo das\ntodo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Y si vas a lo máximo, tienes que conocer tus\nprobabilidades."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Como no tenemos metas en el camino, mientras\nhacemos la investigación, corramos en cualquier\ncarrera hasta que empiece mi año clásico."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Entonces, ¿cuánto tiempo crees que debemos\nesperar?",
+      "choice_data_list": [
+        "¿Qué tal hasta el Keisei Hai del próximo año?",
+        "¿Qué tal hasta el Keisei Hai del próximo año?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Keisei Hai es una carrera G3 de año clásico que\nse celebra a principios de enero. Son 2000 metros\nen césped y se corre en el hipódromo de Nakayama,\nfamoso por su empinada colina.",
+      "choice_data_list": [
+        "El Prix de l'Arc de Triomphe también tiene una\nempinada colina, después de todo."
+      ],
+      "color_text_info_list": [
+        "G3"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Jeje, no es mala elección en cuanto a preparación.\nMe gusta tu determinación."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Supongo que hasta entonces solo disfrutaré de la\nserie Twinkle..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "<i>Haa... haa...</i> ¡No! ¡Maldita sea! ¡Aaargh!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Este evento donde todas lo dan todo buscando\nalcanzar mayores alturas."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Incluso si los medios no me tienen acosada, estar\nen la serie Twinkle sola no me dará ningún\nrespiro.",
+      "choice_data_list": [
+        "Pareces emocionada con eso.",
+        "Pareces emocionada con eso."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Jejeje... Bueno, definitivamente siento la chispa\nde estar viva.",
+      "choice_data_list": [
+        "Tu antiguo tutor dijo algo así.",
+        "Tu antiguo tutor dijo algo así."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le cuento lo que su mentor dijo sobre vivir la\nvida al máximo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Je... Ya veo. El profe lo dijo, ¿eh?",
+      "choice_data_list": [
+        "¿Eras realmente sin vida de niña?",
+        "¿Eras realmente sin vida de niña?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Estás loca?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Más que perder el tiempo pensando en tonterías,\n¿no deberías estar recopilando información ya?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Te escuché. Fuera. Tengo que cambiarme ahora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nakayama Festa me echa de la sala de cambios, así\nque decido empezar a investigar mientras espero."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras saco mi teléfono inteligente, no puedo\nevitar emocionarme por la meta que nos hemos\nfijado para enero: ¡el Keisei Hai!",
+      "color_text_info_list": [
+        "Keisei Hai"
+      ]
+    }
+  ]
+}

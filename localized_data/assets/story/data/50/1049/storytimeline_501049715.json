@@ -1,0 +1,87 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de terminar una sesión de entrenamiento\ncon Nakayama Festa..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Buen trabajo hoy. Puedes irte antes que yo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...",
+      "choice_data_list": [
+        "¿Algo te preocupa?",
+        "¿Algo te preocupa?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Estoy cansada, pero siento que aún no he corrido\nlo suficiente."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Así que voy a lanzar una moneda para ver si corro\nun poco más."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Si sale cara, corro. Si sale cruz, me voy a casa."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Cuál será? Veamos.",
+      "choice_data_list": [
+        "Si terminas corriendo, me quedo contigo.",
+        "Ya has corrido suficiente. Aunque salga cara, no\nlo permitiré."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿No tienes otras cosas que hacer? Tienes un caso\ngrave de miedo a perdértelo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Es cara.",
+      "choice_data_list": [
+        "¡Bien! ¡Una vuelta más!"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Por qué te emocionas <i>tanto</i>?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Bueno, da igual. La suerte dice que corra, así que\ncorro. ¡Vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Nakayama Festa y yo seguimos entrenando."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Oye, ya está echado el dado. No puedes contradecir\nlos resultados.",
+      "choice_data_list": [
+        "Tu salud no es algo con lo que se pueda apostar."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "De todos modos, es cruz, así que no corro. Tienes\nsuerte, ¿sabías?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Y si intentamos una ronda más? El que pierda\ncompra jugo para los dos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Terminé teniendo que comprarle jugo a Nakayama\nFesta, pero al menos pude evitar que se\nsobreexigiera."
+    }
+  ]
+}
