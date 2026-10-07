@@ -1,0 +1,241 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un fin de semana, estaba dando un paseo por la\nciudad después de terminar unos recados, cuando me\nencontré con Wonder Acute."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "No tengo nada especial planeado, solo estoy dando\nuna caminata. Quiero decir, ¿cómo resistirme con\nun clima tan bonito?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin duda es un clima ideal para pasear.",
+      "choice_data_list": [
+        "...¿Quieres dar un paseo juntos?"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "¡Oh! ...¿No te molestaría?",
+      "choice_data_list": [
+        "No tengo nada que hacer, así que... como tú digas."
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "¿Ah, sí? Bueno, pues en ese caso..."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "...Ah, es cierto. Ya que estás aquí, hay un lugar\ndonde me gustaría llevarte, así que ¿me sigues?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sé dónde esperaba que me llevara, pero seguro\nque no era una sala de billar.",
+      "choice_data_list": [
+        "¿Vienes aquí seguido?",
+        "¿Vienes aquí seguido?"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Ah, no, en realidad es mi primera vez. Rickey\nestaba diciendo que quería traernos aquí algún\ndía, ya sabes."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Pero luego pensé que quizás un juego de moda como\neste también podría llamarte la atención."
+    },
+    {
+      "name": "Anuncio",
+      "text": "¡Todos a participar! ¿Pueden meter las bolas en\nesta configuración especial? ¡Tienen dos\noportunidades! ¡Los ganadores recibirán un premio\nlujoso!"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "¿Un regalo lujoso? Miren eso, ¡es un pase gratuito\nde un día! Rickey estaría radiante... ¿Creen que\npodría ganarlo?",
+      "choice_data_list": [
+        "¡Claro! Se ve divertido. ¿Por qué no lo\nintentamos?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Rodó... ¡Clinc!</i>"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "¡Miren eso! Estuviste muy cerca. Yo no metí\nninguna, pero tienes talento natural para esto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi primer intento termina en fracaso. Tengo un\nintento más. Mis hombros se tensan por la presión."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Jeje. Entrenador, respira profundo ahora, respira\nprofundo. En momentos como este, lo mejor es\npausar y recobrar la compostura."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Así. Inhala... y exhala...",
+      "choice_data_list": [
+        "Inhala... y exhala..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su dulce sonrisa y su actitud relajada combinan\npara quitar toda la tensión de mis hombros. Ahora\nestoy listo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Clac! ¡Bum!</i>"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "¡Ohhh, guau!"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "¡Y entran todas, hasta la última! ¡Eres muy bueno\nen esto, Entrenador!",
+      "choice_data_list": [
+        "¡No lo habría logrado sin ti!"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Nay, no hice nada más que mirar. El mérito es\ntuyo."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Ahora, este café que escuché de Falco. Pensé que\nquizás te gustarían estos lugares de los que todos\nhablan en Umastagram."
+    },
+    {
+      "name": "Mesera",
+      "text": "¡Aquí tiene! Una Montaña de Panqueques, ¡con una\ngenerosa porción de crema batida, fruta extra y\nmantequilla!",
+      "choice_data_list": [
+        "Oh, guau... ¡Realmente es una montaña!"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Cielos... No tengo palabras. Algo tan\nimpresionante seguro te trae toda clase de buena\nsuerte."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "¡Alabado sea, alabado sea!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En efecto, parece plausible que una pila de\npanqueques tan enorme tenga algún tipo de poder\ndivino.",
+      "choice_data_list": [
+        "¡Alabado sea, alabado sea!"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Jeje. Bien, ¿empezamos a comer?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Ñam, ñam...</i>"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "¡Mmm! Está tan esponjoso... ¡Esto es de morir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No recuerdo la última vez que me divertí tanto\ncomiendo fuera. Eso hace que la comida sea aún más\ndeliciosa."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Fue Tarumae quien me habló de esta tienda.\nEntrenador, estabas hablando de querer una\nchaqueta nueva, ¿verdad?"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Aquí, ¿qué tal esta? La tela se ve de buena\ncalidad y la confección también es resistente.",
+      "choice_data_list": [
+        "¡Buena elección! Voy a probármela."
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "¡Oh, Entrenador, te queda hermoso! ¿Ahora podrías\ndarme la vuelta rapidito?",
+      "choice_data_list": [
+        "¿Así?"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Ay, ay, hay un agujero grande en la espalda. Debió\nhaber entrado algún bicho.",
+      "choice_data_list": [
+        "Es moda desgastada.",
+        "Es moda desgastada."
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "¿Moda? ¿Entonces me estás diciendo que eso es lo\ncorrecto? <i>Ay, suspiro.</i> Es tan difícil ponerse al\ndía con todas estas tendencias. Pero aprendí algo\nnuevo.",
+      "choice_data_list": [
+        "¿Qué tal si yo te elijo algo también?"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "¿Oh, en serio? Bueno, si te ofreces, entonces\nsupongo que dejaré que le des un look moderno a mi\nguardarropa. Jiji."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Bueno... te debo un gran agradecimiento. No tenía\nla intención de retenerte todo el día.",
+      "choice_data_list": [
+        "No, yo debería agradecértelo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desde las bolas hasta la cafetería y luego la\ntienda de ropa, se preocupó por elegir lugares que\npensaba que me gustarían, y lo aprecio."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Oh, no hice nada. Todo era tan nuevo e unfamiliar\npara mí, temo que solo perdí más de tu tiempo.\nPero, sí..."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Realmente fue un día divertido. Aprendí tantas\ncosas nuevas de ti, me costó no emocionarme tanto.",
+      "choice_data_list": [
+        "Yo también me divirtí. Además fue relajante.",
+        "Yo también me divirtí. Además fue relajante."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No importa el lugar, cuando estoy con Wonder\nAcute, el tiempo parece pasar más lento, y siempre\nencuentro una sonrisa en mi rostro.",
+      "choice_data_list": [
+        "¡Deberíamos vernos de nuevo algún día!"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "...Me gustaría eso. Tendremos que encontrar el\ntiempo para hacerlo de nuevo."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Jiji... ¿Deberíamos \\\"verse\\\" de nuevo? ¿Puedes\ncreerlo?"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "¡Vaya, vaya! Ver esa expresión de alegría en tu\nrostro simplemente me alegra el corazón. Prueba el\nté también. Lo puse en una termos, así que está\nbien calientito."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "El Entrenador tenía esa misma sonrisa otra vez..."
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Eso es bueno... Me alegra saber que no fui la\núnica que se divirtió."
+    }
+  ]
+}
