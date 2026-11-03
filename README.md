@@ -56,7 +56,9 @@ Este proyecto es una adaptación al español basada en el proyecto original [Uma
 Traducciones al español por [AorsiniYT](https://github.com/AorsiniYT).
 
 # Licencia
-Este proyecto se distribuye bajo la licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](LICENSE). Las traducciones aquí presentadas están bajo licencia Creative Commons BY-NC-SA 4.0. No se permite su uso comercial ni su redistribución sin atribución. Consulta el archivo [LICENSE](LICENSE) para más detalles. Recuerda que el contenido original del juego Uma Musume: Pretty Derby es propiedad de Cygames, Inc., y no se ve afectado por esta licencia.
+Las aportaciones originales de AorsiniYT que puedan licenciarse se ofrecen bajo [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](LICENSE). **Esta licencia se aplica únicamente a los derechos de sus propias aportaciones**, no al contenido completo del repositorio ni a materiales de terceros.
+
+Los datos y textos originales de *Umamusume: Pretty Derby* pertenecen a sus titulares, y las traducciones, archivos y aportaciones de [UmaTL](https://github.com/UmaTL/hachimi-tl-en#data-usage) y otros colaboradores conservan sus propias condiciones. UmaTL indica que sus datos no están bajo una licencia abierta y restringe su uso con IA generativa. No se concede aquí una licencia nueva para código o herramientas de terceros.
 
 # Apoya el proyecto
 Si quieres apoyar el desarrollo de estas traducciones, puedes invitarme un café en [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/aorsini)!
