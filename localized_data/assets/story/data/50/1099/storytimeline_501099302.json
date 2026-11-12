@@ -1,0 +1,334 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De regreso a casa, después de comprar equipo de\nentrenamiento con Hokko Tarumae..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe, el segundo un\nfardo de zanahorias y el tercero una sola\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Gira para tener\nla oportunidad de ganar!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Ooh, están haciendo una rifa. Me recuerda a mi\nhogar."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Casi no he ganado ninguna antes, pero la persona\nque la organizaba siempre decía algo como: «¡La\npróxima seguro ganas!»"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora que lo pienso, conseguimos un boleto de rifa\nmientras comprábamos.",
+      "choice_data_list": [
+        "¿Quieres intentarlo?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Ah, sí! Nos dieron un boleto de esa tienda.\n¡Espero que ganemos!",
+      "choice_data_list": [
+        "Adelante, dale una vuelta."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Eh? Pero ese boleto vino con las cosas <i>que\ncompraste</i>. No estaría bien que yo fuera quien lo\nusara...",
+      "choice_data_list": [
+        "Pero compré esas cosas para que las uses."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Qué clase de lógica es esa?",
+      "choice_data_list": [
+        "¡De todas formas, ve a romper esa racha de\nderrotas!",
+        "¡De todas formas, ve a romper esa racha de\nderrotas!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡O-oye, no lo digas así! ¡Me haces sonar como si\nestuviera desesperada por ganar!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "<i>Ay...</i> Pero supongo que vas a insistir en que lo\nintente de todas formas, ¿verdad?"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Y si lo giramos juntas? Te parece bien, ¿verdad?",
+      "choice_data_list": [
+        "¡Sí, me parece bien!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Ya que vamos a hacer esto, apuntemos a algo\nbueno!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Disculpe! ¡Un intento, por favor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Hokko Tarumae y yo giramos con fuerza la máquina\nde la rifa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del gran premio!\n¡Venga a recoger el cupón para sus vacaciones en\naguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Huh?",
+      "choice_data_list": [
+        "¡Lo logramos!",
+        "¡Lo logramos!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "N-no puedo creerlo. Estaba medio convencida de que\nnadie ganaba el gran premio...",
+      "choice_data_list": [
+        "Úsalo cuando quieras."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Espera... ¿Estás tratando de hacerme usar este\ncupón sola?",
+      "choice_data_list": [
+        "Bueno, tú lo ganaste."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Tan pronto se te olvidó? Lo ganamos juntos, así\nque no hay razón para que me quede con el premio."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Tiene sentido que ambos lo usemos, ¿verdad?",
+      "choice_data_list": [
+        "S-seguro..."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Uf, eres todo un caso."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Pero encontrar el momento adecuado para ir será\ncomplicado... Mmm..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Te importaría quedarte con el cupón por ahora?",
+      "choice_data_list": [
+        "Claro. ¿Pero por qué?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Este es un momento crítico en mi carrera. No creo\nque pudiera disfrutarlo de verdad si fuéramos\nahora."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Cuando las cosas se calmen un poco—cuando sea que\neso suceda—pongamos una fecha.",
+      "choice_data_list": [
+        "¡Suena como un plan!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Jeje, puede ser como una fiesta de celebración\nsúper de lujo."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡¿Eh?! ¡No puede ser! ¡Lo hicimos!",
+      "choice_data_list": [
+        "¡Qué gran victoria!",
+        "¡Qué gran victoria!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Jeje, ¡es enorme! ¡Y se ve delicioso también!",
+      "choice_data_list": [
+        "Seguro que lo disfrutarás."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...No malinterpretes esto. Vamos a comer esto\njuntos, Entrenador."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Lo ganamos juntos, después de todo.",
+      "choice_data_list": [
+        "¿Estás seguro?",
+        "¿Estás seguro?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Claro que sí! ¡Caramba!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Ahora, apurémonos y volvamos para comer! ¡Tanta\ncharla me dio hambre!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de disfrutar nuestro premio juntos, ¡me\nsiento con energía y lista para afrontar el\nmañana!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Genial!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Wow, es un montón más grande de lo que pensaba!\nComernos todas estas podría ser un poco difícil.",
+      "choice_data_list": [
+        "¿Por qué no las compartimos?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡...! ¡Gran idea!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Le escribiré a Rickey de inmediato! ¡Ah, y\ntambién deberíamos invitar a Acute y Falco!",
+      "color_text_info_list": [
+        "Rickey"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, hacemos una fiesta improvisada de\nzanahorias y compartimos nuestro premio con los\namigos de Hokko Tarumae!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Jeje, ¡ganamos!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ganamos... Estoy feliz y todo, pero ¿qué vamos a\nhacer con una sola zanahoria?",
+      "choice_data_list": [
+        "Creo que deberías comértela.",
+        "Creo que deberías comértela."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Ni loca! Ganamos este premio juntas, así que no\nhay forma de que me quede con el premio yo sola!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Hmm. ¿Y si hacemos algo con esto?"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Entonces podemos comérnoslo juntas. Me parece que\nes lo más lógico."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, Hokko Tarumae hace una sopa de verduras\nque me calienta el cuerpo y el alma."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un boleto\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ngh... ¡Otra decepción!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Sé que las probabilidades de ganar un premio son\nbajas, pero eso no hace que sea menos\ndecepcionante..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Aun así, conseguimos estos pañuelos juntas.\nPongámoslos en tu oficina para que ambas podamos\nusarlos.",
+      "choice_data_list": [
+        "E-eres demasiado amable..."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Buenos dí—"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ah."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Vaya."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por un tiempo, parece que Hokko Tarumae revive la\ndecepción de la rifa cada vez que ve los pañuelos."
+    }
+  ]
+}

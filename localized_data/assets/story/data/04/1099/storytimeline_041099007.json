@@ -1,0 +1,275 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estamos en el campamento de verano anual de\nTracen. Tengo un pequeño plan en marcha, así que\nme encargué de liberar nuestro horario por medio\ndía.",
+      "choice_data_list": [
+        "¡Oye, Tarumae! ¿Quieres ir a observar la\nnaturaleza?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Observar la naturaleza? Claro, pero no conozco\nmuy bien la zona como para hacerte de guía...",
+      "choice_data_list": [
+        "¡Seré tu guía!",
+        "¡Seré tu guía!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La guiaré por el bosque admirando flora y\nfauna junto a un arroyo hasta la orilla.\nNos aseguraremos de estar seguras,\nser respetuosas y divertirnos mucho."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Esta zona tiene toda clase de plantas, ¿eh? Y el\naire es fresco y puro... perfecto para relajarse\ndespués del entrenamiento.",
+      "choice_data_list": [
+        "¡Ooh, mira aquí! ¿Sabes qué clase de árbol es\neste?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Eh? ¿Este que tiene las frutitas verdes?"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Espera... ¿Son caquis? ¿Antes de que se pongan\nnaranjas?",
+      "choice_data_list": [
+        "¡Bingo! De verdad conoces tus plantas.",
+        "¡Bingo! De verdad conoces tus plantas."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hehe. No es que vea un árbol de caqui muy a\nmenudo, ¡pero me alegra que lo hayas señalado! No\nsuelen crecer en Hokkaido."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "No sabía que las frutas empezaran a llegar tan\ntemprano. Siempre me las imagino con su brillante\ncolor naranja otoñal... Hehe, supongo que ya están\nen camino."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tarumae mira el árbol con un destello de\ncuriosidad en los ojos. El cambio de ambiente\nparece haber llamado realmente su atención!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desde ahí, seguimos el sendero por el arroyo. Por\nlo que he escuchado, la zona junto al agua debería\nser un buen lugar para encontrar animales del\nbosque y aves."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ah, el canto de pájaro de hace un momento...\nApuesto a que era ese hermoso pájaro azul de ahí\narriba.",
+      "choice_data_list": [
+        "¡Buena observación! Parece un papamoscas.",
+        "¡Buena observación! Parece un papamoscas."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Sí, creo que tienes razón! No sabía que también\nvivían en el sur..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "En Hokkaido los hay, ¡pero rara vez los ves! La\nmayoría del tiempo, solo los escuchas."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Es increíble poder ver uno tan de cerca! Jeje...\n¡Si hay una oportunidad para una foto, es esta!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Wow! ¡Entrenador, mira! ¡Hay un montón de\npajaritos saltando de su nido!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Ah! ¡Ay, no! Parece que uno de ellos todavía no\npuede volar.",
+      "choice_data_list": [
+        "Ojalá hubiera algo que pudiéramos hacer...",
+        "Ojalá hubiera algo que pudiéramos hacer..."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Eh?! Entrenador, no podemos—"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Tienes que tener cuidado con las plantas\nsilvestres. Algunas tienen irritantes o veneno, o\npodrían esconder bichos peligrosos."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Aunque fuera segura, aún así no deberías arrancar\nflores. ¡Lo mejor que puedes hacer para preservar\nla naturaleza es dejarla en paz!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡L-lo siento! No debería haber hecho eso..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Uh, um, tú... Nosotros...",
+      "choice_data_list": [
+        "Solo tenemos que cuidar al pequeño y animarlo\ndesde aquí atrás."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Oh. ...Sí. Sí, ¡vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que nos quedamos quietos, observando cómo\nforcejea el pichón. Y entonces..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Peep, peep! Peep!</i>"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Lo logró! ¡Voló!",
+      "choice_data_list": [
+        "¡Me alegro mucho!",
+        "¡Me alegro mucho!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Igual, me alegra que esté bien. Jeje, momentos\ncomo estos hacen que observar la naturaleza sea\ntan especial, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos dirigimos a la playa. Tengo una parada más\nplaneada para nuestro pequeño recorrido por la\nnaturaleza..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡No tenía idea de que hubiera una cueva aquí! He\nestado corriendo por la costa en el entrenamiento,\npero nunca me di cuenta."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Guau, está completamente oscuro! Deberíamos\nesperar a que se acostumbren los ojos antes de\nmovernos."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Las cuevas se ponen bastante frías, ¿verdad... ¡Y\nel piso está tan irregular!",
+      "choice_data_list": [
+        "Oh, sí, hay un desnivel adelante, así que ten\ncuidado."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Está bien, gracias por la advertencia! Oh, hay\nuna curva en el túnel. Déjame pasar..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Guau! ¡La luz se ve como estrellas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los rayitos de sol que se cuelan entre las\nestalactitas y rebotan en ellas llenan la caverna\nde un brillo estelar."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "La naturaleza es realmente increíble... ¡No puedo\ncreer lo que veo! Es como si acabáramos de entrar\na un mundo de fantasía—un mundo donde la magia es\nreal."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Jeje. Creo que... también me estoy empezando a\nencariñar con la tierra del sur."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hay tantas cosas hermosas que nunca antes había\nvisto, pero todo se siente tan cercano y\nacogedor... y solo me dan ganas de saber <i>más!</i>",
+      "choice_data_list": [
+        "¡Oh, entonces parece que mi plan fue un éxito!",
+        "¡Oh, entonces parece que mi plan fue un éxito!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Plan?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El paseo por la naturaleza de hoy fue una prueba\npara un proyecto de promoción de Tomakomai que he\nestado preparando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Basándome en lo que me contó sobre eventos\nde promoción, ideé actividades solo de\nTomakomai que pudiéramos organizar nosotros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se me ocurrió: con los conocimientos\nde Tarumae, podría guiar paseos por la\nnaturaleza. Los visitantes estarían en buenas\nmanos y aprenderían mucho de Tomakomai."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tiene grandes habilidades de presentación, así que\nsé que será un éxito. ¡Igual que nuestro paseo\ncostero por la naturaleza de hoy!",
+      "choice_data_list": [
+        "¿Qué te parece?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aprecio todo lo que sabes sobre senderismo. ¡He\naprendido montones!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "(Recordando... Todo este tiempo, el Entrenador ha\nsido tan positivo con todo lo que le enseñé.)"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hagámoslo—esta idea tuya del paseo por la\nnaturaleza. ¡Juntas, podemos pulirla hasta\nconvertirla en algo increíble!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Y luego, necesitaremos encontrar gente local para\nque continúe con los recorridos de ahora en\nadelante también..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Además, ¡deberíamos hacer una guía para los\nvisitantes! Así la gente sabrá qué empacar y qué\nse puede y no se puede hacer en el sendero.",
+      "choice_data_list": [
+        "¡Tenemos mucho trabajo por delante!",
+        "¡Tenemos mucho trabajo por delante!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Sí! Jeje, nunca dejas de sorprenderme, ¿lo\nsabías?"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "No importa lo que diga... tú lo tomas con calma y\nlo ves con optimismo."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Incluso cuando estoy pensando demasiado, o si no\nexpreso bien mis ideas. Tú aún así ves la visión,\ny me muestras cómo hacerla realidad. Así que\nahora—"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Cuando estoy contigo, puedo ser yo misma. No tengo\nque ocultar mi personalidad seria y crítica.",
+      "choice_data_list": [
+        "¡Ser seria es uno de tus mayores encantos,\nTarumae!",
+        "¡Ser seria es uno de tus mayores encantos,\nTarumae!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Jeje! Entonces tomaré mis actividades de carreras\ne ídolo local <i>extra</i> en serio. Y te quedas aquí\nmismo para darme buenos consejos críticos, ¿vale?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aquí, ahora, en este momento... creo que por fin\nestamos de acuerdo. En cuanto a carreras,\nrelaciones públicas de ídolos... todo. Y no quiero\nperder eso de vista.",
+      "choice_data_list": [
+        "Sí. Quedémonos aquí un poco más..."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡No, tenemos que irnos! Pronto será marea alta y\nNO vamos a arriesgarnos a que la cueva se inunde."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Y vuelvo a la realidad cuando ella me saca de\nnuestra pequeña cueva mágica. Luego, juntos,\ndisfrutamos de la orilla al regresar al\ncampamento."
+    }
+  ]
+}

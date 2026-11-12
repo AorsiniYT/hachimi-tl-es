@@ -1,0 +1,190 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hokko Tarumae y yo hemos venido juntos al\nzoológico."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ah, no es nada, de verdad... Solo estaba pensando\nen algo que pasó ayer..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Ooh, vas al zoológico? ¡Entonces déjame buscar la\ndirección de la suerte para ti!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Otra vez con eso. No es que vaya a aumentar mi\nsuerte ni nada, así que no hace falta que—"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Oh! Buenas noticias, Tarumae. ¡El zoológico está\nen una dirección de la suerte!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "What?"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Parece que es el lugar perfecto para que visites\nmañana. ¡Con tanta suerte, podría pasarte algo\nmaravilloso!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "<i>Suspiro...</i> Eso es tan anticientífico..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "De todos modos, toda esa conversación me ha tenido\na la defensiva todo el día...",
+      "choice_data_list": [
+        "¿Por qué no simplemente aceptas su predicción?\nElla predijo algo bueno."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hmm, no sé... Supongo que solo veré cómo salen las\ncosas."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Pero olvida eso! ¡Divirtámonos! Después de todo,\nes nuestro día libre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Hokko Tarumae y yo recorremos juntos los\ndistintos recintos del zoológico."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Ver a los animales tan de cerca fue increíble!\nDefinitivamente supera ver fotos de ellos. Fue muy\ndivertido."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Pero aparte de eso, no pasó nada especialmente\nbueno. Voy a tener que decirle a Rickey que su\npredicción falló..."
+    },
+    {
+      "name": "Empleado del Zoológico",
+      "text": "Eh, disculpe... ¿Es usted Hokko Tarumae?"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Oh! ¡S-sí, lo soy!"
+    },
+    {
+      "name": "Empleado del Zoológico",
+      "text": "¡Lo sabía! Te vi en un evento hace un tiempo,\n¡cerca de la estación!"
+    },
+    {
+      "name": "Empleado del Zoológico",
+      "text": "Cantabas una canción sobre aves silvestres,\n¿verdad?"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Sí! Elegí ese tema porque hay un lugar increíble\npara observar aves en Tomakomai."
+    },
+    {
+      "name": "Empleado del Zoológico",
+      "text": "¡Lo pensé! Eh... En realidad estamos planeando\nabrir un lugar para observar aves aquí, y\npensábamos invitarte como invitada!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿¡De verdad?! ¡Eso suena maravilloso! ¡Sería un\nhonor!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Espero poder trabajar con usted pronto!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Oye, Tarumae! ¿Vienes de regreso del zoológico?"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¿Y? ¿Cómo te fue en tu salida a tu lugar de la\nsuerte? ¿Pasó algo bueno?"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...tenían razón."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Hm?"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Tenías razón! Considerando todo, hoy <i>fue</i>un día de\nsuerte, así que supongo que tenías razón..."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Lo sabía! ¿Ves? ¡Mi feng shui es genial!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Solo acertaste esta vez! Diría que fue más una\ncoincidencia que otra cosa."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Entonces revisaré tu suerte otra vez! ¿Me creerás\nsi acierto una segunda vez?"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Si fueras más específica con tu predicción, tal\nvez. Como que tengas que decirme cuándo y dónde va\na pasar algo!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "¡Pero eso es solo predecir el futuro!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Si eres lo suficientemente ambigua, cualquier\npredicción puede ser \"correcta\". No voy a confiar\nen algo así.",
+      "choice_data_list": [
+        "Alguien es un poco terca.",
+        "Tiene su punto.",
+        "Tiene su punto."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Si eres lo suficientemente ambigua, cualquier\npredicción puede ser \"correcta\". No voy a confiar\nen algo así.",
+      "choice_data_list": [
+        "Alguien es un poco terca.",
+        "Tiene su punto.",
+        "Tiene su punto."
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Ya me imagino..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Eso suena tan negativo! ¡Al menos di que estoy\nsiendo lógica!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su amable charla continúa mientras caminamos a\ncasa juntos."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Ves? ¡Hasta el Trainer piensa que tengo razón!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Ay, vamos... Pero el feng shui no va de eso..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Entonces no voy a cambiar de opinión!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ninguna de las dos cede, y, como siempre, todo\ntermina en un empate."
+    }
+  ]
+}

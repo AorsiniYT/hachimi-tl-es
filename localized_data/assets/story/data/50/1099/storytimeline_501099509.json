@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de ir a la cafetería para tomar un breve\ndescanso, me topo con Hokko Tarumae."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "<i>Sigh...</i> Las bayas de haskap están deliciosas...\nHacía mucho tiempo que no me sentaba a saborearlas\ncon calma así..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Vaya, esto me hace extrañar nuestras fiestas de la\ncosecha, donde comíamos hasta reventar y tomábamos\nel sol juntos... <i>Siiigh...</i>",
+      "choice_data_list": [
+        "Pareces bastante cansada."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "T-Trainer?!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡No, para nada! ¡Estoy perfectamente bien! Solo\nestoy recordando los buenos tiempos, nada más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por más que lo niegue, se nota en su rostro que\nestá cansada. Probablemente se deba a sus carreras\nconsecutivas, así que debería ajustar su\nhorario..."
+    }
+  ]
+}

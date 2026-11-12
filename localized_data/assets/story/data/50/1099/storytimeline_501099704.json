@@ -1,0 +1,203 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hokko Tarumae y yo vamos de regreso a casa después\nde pasar el día juntas cuando ella se vuelve para\nhacerme una pregunta."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Te gustaría visitar un café nuevo conmigo,\nEntrenador?"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Conseguí un vale de comida para dos de un\norganizador de eventos que conozco, y pensé que\nestaría bien ir juntas."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Oh! ¡Claro que sí! Solo para investigar cómo es\nel lugar. Después de todo, tengo que mantenerme al\ndía con las últimas tendencias.",
+      "choice_data_list": [
+        "¡Claro! ¡Vamos!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Hokko Tarumae y yo vamos a \"investigar\" el\ncafé."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hm... Pusieron flores de temporada en todas las\nmesas... Son tan hermosas. Supongo que debería\npensar más en qué quedará bien en Umastagram..."
+    },
+    {
+      "name": "Personal de café",
+      "text": "¡Aquí están sus macarons arcoíris y su parfait de\nfrutas joya!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Guau... Son hermosas!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡La cereza es tan brillante y reluciente! ¡De\nverdad parece una joya!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Guau! ¡Los macarons que conseguiste también son\nmuy coloridos, Entrenador! ¡Apuesto a que el rosa\nes de fresa!",
+      "choice_data_list": [
+        "¿Quieres probar uno?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Vaya, ¿puedo?! ¡Acepto tu oferta!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hmm... Mm..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Está delicioso! La cáscara está crujiente, y el\ncrema de fresa dulce y ácida se derrite en la\nboca."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Mm! ¡Estoy muy feliz!",
+      "choice_data_list": [
+        "¡Vale la pena haber venido hasta aquí!",
+        "¡Vale la pena haber venido hasta aquí!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Sí! E-eh..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Eh... <i>Tos, tos...</i>"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Ups! Casi me olvido de tomar una foto de nuestra\ncomida."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ya me comí uno de los macarons, pero debería estar\nbien... ¿Está bien si acerco nuestros platos?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de echar un vistazo al café, vamos a un\nparque cercano a tomar un descanso."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...El clima está muy agradable hoy. Y el sol se\nsiente tan cálido y agradable...",
+      "choice_data_list": [
+        "Empieza a darme un poco de sueño.",
+        "Empieza a darme un poco de sueño."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Ah, sí? Entonces, descansemos aquí un poco más.\nCaminamos un montón..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "<i>Bostezo...</i> También tengo un poco de sueño..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "<i>Zzz... Zzz... Zzz...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El cansancio de Hokko Tarumae debe haberla\nalcanzado. Se ve tan cómoda durmiendo... Saco un\nlibro en silencio para no despertarla."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "<i>Zzz... Zzz...</i> Mm... Mm?"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Q-qué?! ¡Ya es de noche?! ¿Yo—"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Lo siento mucho, Entrenador! No quise dormirme.",
+      "choice_data_list": [
+        "Me alegra que hayas dormido bien."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Lo siento mucho! Iba a mantenerme alerta ya que\nhoy se suponía que era una misión de\nreconocimiento, pero me distraje por completo..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "No puedo creer esto... Y siento que este tipo de\ncosas ha estado pasando mucho últimamente."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "No sé cómo explicarlo, pero me encuentro bajando\nla guardia frente a ti...",
+      "choice_data_list": [
+        "¡Solo me alegra que estés descansando!",
+        "Está bien ser tú misma frente a mí!",
+        "Me encantaría ir a otra misión de reconocimiento\ncontigo en cualquier momento!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Un descanso? Sí... Tienes razón..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Quizás he estado haciendo demasiado últimamente."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Sabes qué? ¡Sí! Ahora que tuve un buen descanso,\npuedo dedicarme con más esmero a mis próximas\ntareas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hokko Tarumae está recargada y lista para volver a\nla carga. Debo igualar su energía y seguir\napoyándola en su esfuerzo!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Ay, no podría! Sería muy descortés de mi parte!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Como ídolo, debo comportarme como si siempre me\nestuvieran observando!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hoy puede que me haya relajado un poco, pero\nmañana retomo con todo!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Está bien! ¡Esto lo tengo bajo control!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hokko Tarumae se sacude el polvo y se anima al\ninstante. Debo esforzarme igual y seguir\ncuidándola!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿De verdad? ¡Muchas gracias! ¡Me encantaría ir\notra vez!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Cuando estamos juntos, me ayudas a ver las cosas\ndesde una nueva perspectiva!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Espero que te quedes a mi lado y me apoyes,\n¡Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Que Hokko Tarumae me agradezca tan cortésmente me\nhace querer seguir ayudándola a crecer y mejorar!"
+    }
+  ]
+}

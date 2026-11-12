@@ -1,0 +1,224 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, entro a la cafetería y veo a Hokko Tarumae\nabsorta en sus pensamientos."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hmm...",
+      "choice_data_list": [
+        "¿Qué tienes en mente?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Oye, oye, Entrenador. Estaba tratando de crear una\nnueva receta con bayas de haskap..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Quiero que más gente las conozca, hasta el punto\nde que se las considere un bocadillo o ingrediente\nde referencia.",
+      "choice_data_list": [
+        "Convertirlas en el favorito de alguien podría ser\ndifícil.",
+        "Convertirlas en el favorito de alguien podría ser\ndifícil."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ese es el problema. Ya existe la mermelada de\nhaskap, así que estaba tratando de pensar en algo\nnue—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Gloooop!</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Celestial en hamburguesas! ¡Espectacular en arroz\ncon huevo! ¡Deliciosa en ensalada y sashimi! ¡Esta\nbotella es todo lo que necesitas para dar sabor!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Esta salsa combina con absolutamente todo!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...?!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Um, ¿El? ¿Podrías contarme más sobre esa salsa?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ay! ¿De-dónde saliste?!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Estoy tratando de crear una nueva especialidad\nlocal de Tomakomai para hacerla popular."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Por eso quiero saber más sobre esa salsa súper\nversátil."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Bueno! Si es con eso con lo que necesitas ayuda,\n¡déjamelo a mí, amiga!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero esta es mi salsa súper secreta, así que,\nlamentablemente, no puedo revelarte la receta."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "O-oh... Ya veo..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ánimo! ¡Ánimo! No hay nada de qué estar triste.\nNo puedo darte la receta, pero sí puedo darte un\nconsejo."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿De verdad?! ¡Muchas gracias!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hm... Los sabores están bien combinados, pero la\nacidez no está sacando todo el potencial de las\nespecias..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Y no tiene sentido si no lleva haskap..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Parece que este es el momento para mi consejo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Estás lista para mi consejo?! Todo lo que\nnecesitas... ¡es pasión ardiente!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Tu hirviente y caliente pasión por tu ciudad natal\nes lo que va a unir esta salsa."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ooh, ¡lo entiendo! Si hablamos de pasión..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Eso significa que necesito agregar más especias."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Sí! Eso es lo que yo haría."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Está bien! ¡Gracias! Le pondré más amor y pasión\npor mi hogar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Observo con un presentimiento de inquietud cómo\nlas dos desarrollan la salsa."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Está listo, Entrenador!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Apruebo esta salsa! Está tan deliciosa que te\ndejará boquiabierto."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Me encantaría saber tu opinión. ¿Te gustaría\nprobar un poco?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo rechazarla cuando me lo pide con ojos tan\nexpectantes. Me pongo una cucharada de la\naterradora salsa morada en la boca...",
+      "choice_data_list": [
+        "(¡Está tan picante!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bajo el picante, puedo notar toques de haskap.\nEstoy segura de que a algunas personas les\ngustará, pero es más picante de lo que imaginaba."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Qué opinas? ¿Crees que se unirá a la salsa de\nsoya, la salsa Worcestershire y la mayonesa como\nun condimento multiusos?",
+      "choice_data_list": [
+        "No estoy segura de eso..."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Oh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los hombros de Hokko Tarumae caen decepcionados.\nParece que esperaba cosas realmente grandiosas de\nesta salsa.",
+      "choice_data_list": [
+        "A quienes les gusta la comida picante podría\ngustarles.",
+        "Es asombroso que hayas hecho un prototipo tan\nrápido.",
+        "Es asombroso que hayas hecho un prototipo tan\nrápido."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los hombros de Hokko Tarumae caen decepcionados.\nParece que esperaba cosas realmente grandiosas de\nesta salsa.",
+      "choice_data_list": [
+        "A quienes les gusta la comida picante podría\ngustarles.",
+        "Es asombroso que hayas hecho un prototipo tan\nrápido.",
+        "Es asombroso que hayas hecho un prototipo tan\nrápido."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Pero estaba tratando de hacer una salsa que\ncombine con todo."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡No me voy a rendir! ¡Voy a seguir trabajando en\nesta salsa hasta que quede como quiero!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡El! ¡Entrenador! Espero que ambos estén listos,\nporque estamos en esto para el largo plazo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Bueno! Hagamos una salsa increíble juntos"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con Tomakomai en mente, la motivación de Hokko\nTarumae se fortalece aún más."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Gracias."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "En ese caso, no queda más que mantener el impulso\ny seguir haciendo prototipos hasta lograrlo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Suena bien! Esta salsa secreta mía se ha mejorado\nuna y otra vez desde la generación del papá de mi\npapá, ¿sabes?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "En otras palabras, el camino lento es el camino\nseguro."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Gracias, El! Entonces sigamos trabajando."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Espero que no te importe ser mi probador de\nsabores mientras seguimos ajustando la salsa,\nEntrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Hokko Tarumae me hace probar cada\notra versión de su salsa de arándano azul\nextremadamente picante."
+    }
+  ]
+}

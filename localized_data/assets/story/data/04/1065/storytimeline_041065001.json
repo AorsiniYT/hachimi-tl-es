@@ -1,0 +1,252 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Conocerla... fue como ver el sol por primera vez."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No han sido más que días difíciles desde que me\nconvertí en entrenador. Todos mis compañeros ya\nhan reclutado aprendices, pero yo no.",
+      "choice_data_list": [
+        "(Me pregunto si soy el único sin un aprendiz...)"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Revisión de vibras!",
+      "choice_data_list": [
+        "?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Guau, tus subtonos azules son como totalmente\n<i>sobretonos!</i> Ay, eh, ¿te sientes decaído? ¡Entonces\nes hora de un fiestón!",
+      "choice_data_list": [
+        "¿\"Fiestón\"?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Déjamelo todo a mí! Va, vamos! ☆"
+    },
+    {
+      "name": "???",
+      "text": "Wahey-heeey! ♪\nPa-pa-pa poooow!"
+    },
+    {
+      "name": "???",
+      "text": "¡Eh, no te desinflés! ¡Dame toda tu buena energía!\n¡Vamos!",
+      "choice_data_list": [
+        "(¡¿Q-qué le pasa a esta chica?!)",
+        "(¡¿Q-qué le pasa a esta chica?!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sé quién es, no sé a dónde me ha arrastrado, ¡y\nno sé qué ha empezado a hacer!"
+    },
+    {
+      "name": "Party Guy",
+      "text": "¡Ay, yo, Daitaku Helios! ¿Vas a dar un concierto\nhoy, o qué? ¡Wahey!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Wahey! ☆ No es tanto un concierto, sino más\ncomo... ¡ya sabes! Solo estamos vibrando."
+    },
+    {
+      "name": "Rapper",
+      "text": "¡Oye, Helios, pásame el micrófono! ¡Tú y yo vamos\na marcar una nueva zona horaria!"
+    },
+    {
+      "name": "Bailarina",
+      "text": "Hola. Me enteré de que aquí se está bailando.\n¿Podemos unirnos?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Dicho y hecho, compa! ¡Bailemos hasta caer! ¡Me\nuno en el escenario!",
+      "choice_data_list": [
+        "Espera—"
+      ]
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "¡Mira, hay como un evento! ¿Quieres verlo? ¡O tal\nvez hasta podemos unirnos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cada vez más gente —presumiblemente sus amigas—\ncomienza a agolparse alrededor de la estrella\nardiente que es Daitaku Helios. Pronto forman una\nmultitud gigante."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Waheeey! ¡Si sienten lo que siento, levanten las\nmanos! ¡Quiero oír un whoa-oh!"
+    },
+    {
+      "name": "Todas",
+      "text": "¡Whoa-oh!",
+      "choice_data_list": [
+        "(¡Esto tiene toda la energía de un festival de\nmúsica!)"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Denme más volumen, gente! ¡Digan whoa-oh!"
+    },
+    {
+      "name": "Todas",
+      "text": "¡WHOA-OH!",
+      "choice_data_list": [
+        "¡Wh-whoa-oh!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No tengo ni idea de qué está pasando, pero hay\nalgo encantador en todo esto... y siento que mi\ncuerpo empieza a moverse al ritmo por sí solo."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Ayyy! ¡Chicos, son lo máximo! ¡Me encanta todo\neste amor!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Ahaha! ¡Wahahaha! ♪",
+      "choice_data_list": [
+        "(Su sonrisa está <i>radiante.</i>)"
+      ]
+    },
+    {
+      "name": "Bailarina",
+      "text": "Buen espectáculo, Helios. ¡Hoy comimos buenísimo!\nUf, eres simplemente la mejor. En fin, ¡nos vemos!\n¡Escríbeme por LANE algún día!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Ayy, adiós—oh... ¡Ey! ¡Fíjate en esa sonrisa! Eso\nes un cambio total. ☆",
+      "choice_data_list": [
+        "Todo es gracias a ti por animarme.",
+        "Todo es gracias a ti por animarme."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella vio que estaba aturdida y se tomó la molestia\nde traerme hasta aquí y animarme. Pero justo\ncuando intento agradecerle como se merece..."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¿Eh? ¡Guau, espera! Me estás poniendo nerviosa."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "No entiendo muy bien, pero te divertiste\nsoltándote, ¿verdad? Salgamos otra vez—espera,\n¡solo dame tu LANE! ¡Umastagram también sirve!",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Oh, eres entrenador! ¡Yo también estoy en Tracen\nAcademy! ☆ Será el destino, ¿no? Qué locura. En\nfin, te busco en LANE. ¡Nos vemos, T-Rain!",
+      "choice_data_list": [
+        "¿T-Rain?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, no pude seguirle el ritmo ni por un\nminuto. Pero no puedo negar que su espíritu vivaz\nse me contagió.",
+      "choice_data_list": [
+        "(¡Volveré a buscar posibles reclutas mañana!)"
+      ]
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Lo siento. Es solo que quiero entrenar con alguien\nmás confi—eh, ¡quiero decir más experimentado!\n¡Disculpe!",
+      "choice_data_list": [
+        "¡Espera!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al sentirme renovado, reuní el valor para\nacercarme a las corredoras que tenía en la mira,\npero ninguna aceptó.",
+      "choice_data_list": [
+        "(Con esta ya van diez seguidas...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo culparlas. Para las atletas, un\nentrenador es un compañero importante que estará\nen cada paso de su carrera. Lo entiendo, pero...",
+      "choice_data_list": [
+        "A este paso, nunca conseguiré un contrato..."
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¿Quieres uno conmigo?",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¿Un contrato de entrenador, no? Ahora mismo soy\nagente libre, ¡así que me apunto! ☆",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¿O necesito trámites oficiales? ¿Como que no\ntienes un código QR para una app o algo? Ugh, qué\nvergüenza ajena. ¿Puedes solo anotar mi nombre?",
+      "choice_data_list": [
+        "¡E-espera un segundo!",
+        "¡E-espera un segundo!"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Huh?",
+      "choice_data_list": [
+        "¿Estás segura de que deberías aceptar esto tan a\nla ligera?!",
+        "¿Estás segura de que deberías aceptar esto tan a\nla ligera?!"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Claro! Estoy súper dentro—ah, pero si no te\nanimas, entonces me largo. ¡Adiós! ☆",
+      "choice_data_list": [
+        "¿¡Qué?! ¡P-para!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sé que esta es mi gran oportunidad como\nentrenador, pero aceptar esto sin saber nada de\nella no terminará bien para ninguno de los dos.",
+      "choice_data_list": [
+        "Déjame al menos verte correr antes de—"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Ah, obvio! Dicho y hecho, ¡me encargo! ☆"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Entonces hagámoslo todo un evento! Mi humor dice\npráctica de competencia. Iré a buscar a algunos\namigos, ¡así que nos vemos en la pista!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Ayyy! ¡Que empiece la fiesta! ☆",
+      "choice_data_list": [
+        "¡E-espera. Espera, espera, ESPERA!",
+        "E-espera. Espera, espera, ¡ESPERA!"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Hm? ¡Jaja, ja ja ja! ¿Qué pasa?! ¡Estás sudando a\nmares! ¡Dios mío, estoy muerta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Cómo no iba a sudar? Las rivales que ha\nconseguido para su entrenamiento conjunto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...¡Son todas corredoras veteranas de carreras G1!"
+    }
+  ]
+}

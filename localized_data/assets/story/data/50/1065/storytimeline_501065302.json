@@ -1,0 +1,517 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después del entrenamiento, me uno a Daitaku Helios\npara dar un paseo al azar por la ciudad, cuando..."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Oh!",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe, el segundo un\nfardo de zanahorias y el tercero una sola\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejen pasar esta oportunidad! Compren un\nboleto ahora y giren para tener su oportunidad de—"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Vaya, si no es Heliboss! ¡Wahey!",
+      "color_text_info_list": [
+        "Heliboss"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Waheeey! ☆",
+      "choice_data_list": [
+        "(¡Conoce a un montón de gente!)"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Vamos, prueba la rifa! ☆"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Va! ¡No todos los días me toca jugar una rifa!\n¡Es una experiencia nueva!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "...¿En serio? En fin, ¿tienes un boleto para la\nrifa?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Ni idea! ¡Pero siento que debo tener uno por aquí\nen alguna parte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daitaku Helios vacía sus bolsillos, revelando un\nrecibo de una dulcería, unos chicles, una paleta,\nuna liga para el cabello rota, unas calcomanías y\nfinalmente..."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Tengo uno! ¡Vamooos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daitaku Helios se anima y le da un gran giro al\nbombo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del gran premio!\n¡Venga a recoger el cupón para sus vacaciones en\naguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Unas vacaciones en aguas termales!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡No puede seeer! ¿Soy bendecida o qué?!",
+      "choice_data_list": [
+        "¡Felicidades!"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Sabía que lo tenías, Heliboss! Pero ¿segura de\nque te gusta este tipo de cosas?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¿A qué te refieres?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "La verdad es que solo es un viaje a aguas\ntermales. Me imagino que sería bastante aburrido\npara una joven como tú..."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Para nada! ¡<i>me encantan</i> las aguas termales!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Con tal de poder ir con todo, soy feliz! ☆\n¡Además, tendré a T-Rain conmigo!",
+      "choice_data_list": [
+        "...Ah, ¿en serio?",
+        "...Ah, ¿en serio?"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Obvio! ☆ ¿A donde yo vaya, tú vas, no?!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Ni loca te dejo atrás! ☆",
+      "choice_data_list": [
+        "Oh, gracias..."
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Está decidido! ¿Tú también quieres venir, viejo?!",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡¿Qué?! N-no, paso. ¡No es como si fuera uno de\ntus mejores amigos ni nada!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡No te menosprecies! ¡Tú y yo somos, como, el alma\ndel distrito comercial!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Bueno, eso podría ser cierto, pero aun así... ¿Tú\nqué opinas, Trainer?",
+      "choice_data_list": [
+        "Bueno, ya sabes cómo es ella. No puedo decirle que\nno..."
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Oh! ¿Y si rentamos todo el lugar?! ¡Podríamos\nhacer un festival de aguas termales en toda regla!\n¿Soy una genio o qué?!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Podemos invitar a todos! ¡Y podemos armar una\nfiebre de disco infernal a 100 grados, ¿verdad?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, las ideas de Daitaku Helios se\nvuelven cada vez más ambiciosas."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Está buenísimo! Primero lo primero, ¡tenemos que\nir a ver el lugar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Concluimos nuestra conversación desorganizada\ndecidiendo ir a ver las aguas termales antes de\nconcretar nada."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Hey! ¡Es Tay-Tay de la florería! ¡Hey, Tay-Tay!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Te lo tengo que reconocer, Trainer. De verdad\nsabes cómo manejarla. Un festival de aguas\ntermales... ¿Te lo imaginas?",
+      "choice_data_list": [
+        "No hace falta imaginarlo. Lo vamos a hacer."
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¿Ah sí? Entonces quieres decir... ¿que de verdad\nvas a ir a ver la posada?",
+      "choice_data_list": [
+        "Bueno, sí que suena divertido."
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Vaya, sí me sorprendes. Definitivamente eres el\nentrenador de Helios."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Yo, T-Rain!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Tay-Tay dijo que se encargará de las flores para\nel festival! ¿Cuáles te gustan?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Estoy pensando en agarrar algo más y darle un\ntoque de samba!",
+      "choice_data_list": [
+        "¡No decidas nada todavía! ¡Ya voy!"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Eso es amor."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Yooo! ¡Se ve absolutamente delicioso!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Se me hace agua la boca!",
+      "choice_data_list": [
+        "¡Cierra la boca!"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Está bien, está bien!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Pero sinceramente, mira la estética! ¡Es como si\nestuviera <i>hecho</i> para las redes! ¡Supongo que no\nespero menos del más genial del distrito\ncomercial! ☆"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Jeje, ¡buen ojo! Esperaba que a todos les gustara,\npero todavía no ha atraído mucha atención."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Para nada, esto se va a viralizar seguro!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Toma una foto, Entrenador! ☆"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Directo a subir! ♪"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Ok, a comer!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Yooo! ¡Esto está buenísimo!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Prueba, T-Rain! ...Espera, ¡toma una foto\nprimero! ¡Publica una historia!",
+      "choice_data_list": [
+        "¿Está bien con una foto normal?",
+        "¿Está bien con una foto normal?"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Ah, buena idea!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¿Qué tal así, con un bailecito?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Lo siguiente, UmaTok! ♪",
+      "color_text_info_list": [
+        "UmaTok"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Ohhhhh... miiii... DIOSSSSS! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daitaku Helios come bien y toma unas fotos\ngeniales. Como resultado..."
+    },
+    {
+      "name": "Natural A",
+      "text": "¡Me gustaría probar suerte en la rifa, por favor!\n¡Espero ganarme el filete de hamburguesa de\nlujo!<i>¡Babas!</i>"
+    },
+    {
+      "name": "Shopping District Folk",
+      "text": "¡Yo también! ¡Yo más!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Guau, se puso súper ocupado de la nada! ¡No es\nque me queje! ¡Muy bien, todos acérquense y a\ngirar!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Soy débil!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¿Qué es esto, el Monte Hospitalidad? ¡No sé si\npueda comer tanto, jefe! ☆"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Ah... Me pareció que quizá me pasé de la raya. ¿Es\nmucha molestia llevárselo a casa?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "He estado pensando en ello últimamente. Creo que\nes un buen premio, pero quizá solo estoy\nimponiendo lo que me gusta a los demás..."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Para nada! ¡Para mí, mientras más, mejor!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¿Tú crees?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Uf! ¿Crees que miento?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Te voy a mostrar lo que hace una verdadera\nfiestera con esto! ☆"
+    },
+    {
+      "name": "Amigo de Helios A",
+      "text": "¡Gracias, compa! ¡Esta zanahoria está buenísima!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¿Verdad?! ¡Come todos los que quieras!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Oh, vaya. No dejan de venir..."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Fíjate, abuelo! ¡Tus zanahorias se hicieron\nvirales!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡A todos les encantan! ¿Qué te dije? ¡Más\nzanahorias, más emoción! ☆"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Sí! ¡Exacto!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Helios sí que es una buena chica... ¿No crees,\nEntrenador?",
+      "choice_data_list": [
+        "Aquí no hay objeciones."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, la montaña de zanahorias desaparece sin que\nme dé cuenta, cada una llevada por una Umamusume\nsonriente."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Probando, probando! Oye, ¿se oye? ☆"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Mira, es un micrófono! ¡Toma, agárralo! ☆"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Ahora entrevístame!",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Solo pregúntame algo! ☆ ¡Rápido, rápido!",
+      "choice_data_list": [
+        "...¿Cómo te sientes?"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Te voy a ser sincera, familia... Me muero de\nhambre.",
+      "choice_data_list": [
+        "¿Qué te gustaría comer?"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Fideos! ¡Udon, ramen... quizá soba!",
+      "choice_data_list": [
+        "¿Y si tuvieras que elegir entre esos tres?"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Buena pregunta!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Si tuviera que elegir, ¡tiene que ser ramen! Ponle\nmontones de cerdo y queda perfecto para la foto! ☆"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Bien, siguiente pregunta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me tiene haciendo preguntas por un rato."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Me encantaaa la pasta de frijol blanco!\n¡Siguiente pregunta, por favooooor! ☆",
+      "choice_data_list": [
+        "¿Todavía?!"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Sí! ¡Hasta que me aburra!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestra extraña entrevista continúa incluso\ndespués de volver a la Academy."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un boleto\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "...¿Premio de consolación, eh?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Pero, como... puedes <i>usar</i> pañuelos, ¿verdad? ¡Eso\nno está tan mal!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Oye, abuelo! ¡Déjame preguntarte algo! ¿Cuál era\nel premio mayor otra vez?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "...¡¿QUÉ?!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¿En serio? ¡¿Podría haber ganado un boleto para\naguas termales?!",
+      "choice_data_list": [
+        "Así es.",
+        "Así es."
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Literalmente no tenía idea! Entonces eso\nsignifica... ¿Pañuelos, eh?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Waaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tras un breve momento, la decepción golpea a\nDaitaku Helios."
+    }
+  ]
+}

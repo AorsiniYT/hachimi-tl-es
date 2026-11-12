@@ -1,0 +1,205 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es nuestro día libre, y con un plan en mente,\nHokko Tarumae y yo tomamos el ferry hacia un\npueblo portuario cercano."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ngh, o-okay, entonces... ¿Empezamos con el\ne—<i>hurgh...</i> Ugh... E-ensayo... para la grabación\ndel video?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como parte de sus actividades como ídol local,\nestamos produciendo un video para promover los\nviajes a Tomakomai, y hoy es el ensayo general."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La filmación real se hará en Tomakomai, así que el\nplan de hoy es asegurarse de que todo sea factible\nsegún el cronograma. O al menos, eso <i>era</i> el\nplan...",
+      "choice_data_list": [
+        "¿Estás... mareada?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Sí-sí... Pero esta vez promovemos un itinerario\napretado para un viaje largo... así que marearse\nun poco le dará autenticidad al ensayo.",
+      "choice_data_list": [
+        "No estoy segura de que sea razón suficiente para\nhacer del ensayo también un viaje en barco."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡No, la parte del barco es OBLIGATORIA! Tomakomai\nes un puerto, así que quiero que la gente lo\ncontemple desde el mar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puede ser solo un ensayo, pero conociendo lo seria\ny meticulosa que es, sé que no será pan comido.\nSería mejor descansar hasta que ella—"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Bueno, ya llegamos al pueblo. Primero hay que\nllenar el estómago. Naturalmente, iremos por una\nespecialidad local."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Mmm... ¿Qué platillo local estaría bien? ¿Alguna\nidea, Entrenador?",
+      "choice_data_list": [
+        "Q-quizás algo contundente."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Sí... Podría funcionar. Entonces, supongo que es\nbuen momento para recomendar curry de almeja."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Okay! Busquemos un restaurante con curry de\nmariscos. ¡Es vital probar los platillos nosotros\nmismos primero!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "También necesitamos los detalles: cuántos\nacompañantes agregar y cuán pesada es la comida.\n¡Averigüémoslo todo juntos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pronto nos damos cuenta de que las recomendaciones\ndeben diferir según si son para el apetito de una\nUma Musume o de un humano..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Bueno, llegamos al Lago Utonai. Este es el Lago\nUtonai, ¿vale? Mira esta foto e imagina que\nestamos allí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una decidida Hokko Tarumae me muestra una foto del\nLago Utonai... frente a un letrero con el nombre\nde un parque ajeno."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Si incluimos este lugar en el horario,\nrecomendemos venir en la temporada de migración de\nlas aves."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Entrenador... seré un ave migradora por un rato.",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Bueno, imagina un cisne blanco mientras me ves\ncorrer. Imagina que eres un turista disfrutando la\nobservación de aves."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Bueno... Listo, <i>¡ya!</i>"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Uf! ¿Qué te pareció, Entrenador?",
+      "choice_data_list": [
+        "Fue im...presionante?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Mmm... ¿Algún otro comentario?",
+      "choice_data_list": [
+        "Eh, fue una carrera impresionante..."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Gracias... ¡Espera, no! Ese no es el comentario\nque quiero escuchar ahora.",
+      "choice_data_list": [
+        "...Me conmovió la belleza del ave migratoria."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Ah, ya veo! Así que lo real debería hacer que la\ngente quiera comprar recuerdos de aves."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Gracias por la opinión! Entonces, después de la\nintroducción, podemos mencionar algunas tiendas de\nrecuerdos cercanas."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Hm. Hay una montaña del tamaño adecuado por\nallí."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Si ese fuera el Monte Tarumae, me pregunto qué\npensarían al verlo por primera vez..."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Sí. Probablemente querrían escalarlo, ¿verdad?\nTendremos que explicar en el video que se necesita\nequipo de escalada adecuado."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Y hay que considerar la diferencia de resistencia\nentre Uma Musume y humanos. ...¿Aún tenemos\ntiempo, Entrenador?",
+      "choice_data_list": [
+        "Sí, aún estamos bien de tiempo."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Bueno, ¡vamos a escalarlo un poco! Traí lo\nesencial para escalar, por si acaso.",
+      "choice_data_list": [
+        "¿Eh?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siguiendo a Hokko Tarumae, subo la montaña\njadeando y resoplando."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¡Gracias por venir conmigo hoy! Aprendí un montón\nque ayudará con la promoción."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Es importante considerar la perspectiva de Uma\nMusume y humanos. ...Quizás necesitemos recortar\nun poco el horario para estos últimos."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Deberíamos tener un enfoque principal... ¿Qué\nparte del viaje te causó la mayor impresión?",
+      "choice_data_list": [
+        "Me impactó el poder de ese ave.",
+        "¿Quizás lo delicioso del curry?",
+        "Esa caminata me hizo querer escalar el verdadero\nMonte Tarumae."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿De verdad? ¡Qué bueno! ¡Mi imitación de pájaro\nvalió la pena!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "En ese caso... quizás agreguemos una escena\ncorriendo como un ave migratoria al corte final.\nJeje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...En cualquier caso, hoy fue un ensayo valioso\npara Hokko Tarumae."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Sé a qué te refieres. Esa combinación de sabor y\nespecia te da el impulso de energía que necesitas\npara hacer turismo."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Y cuando estén allí, podrán comer curry de almeja,\nlo que será un buen recuerdo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...En cualquier caso, hoy fue un ensayo valioso\npara Hokko Tarumae."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "¿Lo hiciste? Jeje. Parece que nuestra pequeña\ncaminata valió el esfuerzo."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Pero si piensas escalar el verdadero Monte\nTarumae, avísame antes. Trae el equipo adecuado y\nelige una ruta para ti."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...En cualquier caso, hoy fue un ensayo valioso\npara Hokko Tarumae."
+    }
+  ]
+}
